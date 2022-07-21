@@ -5,7 +5,7 @@ The ground truth is provided as PAGE-XML and URLs for the corresponding newspape
 
 Additional ground truth will be added in the future.
 
-### Quantity (July 2022):
+### Quantity:
 - 64 newspaper double pages
 - approx. 68.000 ground truth lines
 
