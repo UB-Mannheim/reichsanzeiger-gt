@@ -35,7 +35,7 @@ All transcriptions were made using [Transkribus](https://readcoop.eu/transkribus
 - Roman numerals (ⅤⅬⅠⅩ Ⅿ)
 - Double oblique hyphen (⸗)
 - Em dash (—) instead of En dash (–)
-- Asterisk (*) used for both standard asterisk (*) and tear-drop asterisk (✽)
+- Asterisk (\*) used for both standard asterisk (\*) and tear-drop asterisk (✽)
 
 # Links
 + A [digital edition of the *Reichsanzeiger*](https://digi.bib.uni-mannheim.de/periodika/reichsanzeiger/) is provided by [Mannheim University Library](https://www.bib.uni-mannheim.de/en/).
