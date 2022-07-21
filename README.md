@@ -19,7 +19,7 @@ Fraktur, Latin
 German, English, French, Portugese, Latin
 
 ### Transcription guidelines:
-All transcriptions were made using [Transkribus](https://readcoop.eu/transkribus/?sc=Transkribus). All table regions were converted to text regions. The transcription rules are based on the [OCR-D transcription guidelines Level 2](https://ocr-d.de/en/gt-guidelines/trans/trLevels.html) with some exceptions (see below No. 2):
+All transcriptions were made using [Transkribus](https://readcoop.eu/transkribus/?sc=Transkribus). All table regions were converted to text regions. The transcription rules are based on the [OCR-D transcription guidelines Level 2](https://ocr-d.de/en/gt-guidelines/trans/trLevels.html) with some exceptions (see below):
 
 **Special characters**: 
 - Long s (ſ)
