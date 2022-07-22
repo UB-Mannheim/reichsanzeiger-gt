@@ -32,7 +32,7 @@ All transcriptions were made using [Transkribus](https://readcoop.eu/transkribus
 - Black Left Pointing Index (☚)
 
 **Additional characters transcribed true to original** (contrary to OCR-D Level 2):
-- Roman numerals (ⅤⅬⅠⅩ Ⅿ)
+- Roman numerals (ⅤⅬⅠⅩⅯ)
 - Double oblique hyphen (⸗)
 - Em dash (—) instead of En dash (–)
 - Asterisk (\*) used for both standard asterisk (\*) and tear-drop asterisk (✽)
