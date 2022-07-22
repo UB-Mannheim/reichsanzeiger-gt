@@ -5,6 +5,11 @@ The ground truth is provided as PAGE-XML and URLs for the corresponding newspape
 
 Additional ground truth will be added in the future.
 
+### Images:
+Images can be download via script
+
+`./download_images.sh `
+
 ### Quantity:
 - 64 newspaper double pages
 - approx. 68.000 ground truth lines
