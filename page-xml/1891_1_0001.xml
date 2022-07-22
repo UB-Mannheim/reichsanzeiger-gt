@@ -1,0 +1,2250 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.6.8:model_id=40804:lm=none:date=10_05_2022_11:39
+prov=READ-COOP:name=PyLaia@Transkribus:version=0.6.8:model_id=40804:date=10_05_2022_11:39
+Transkribus</Creator>
+        <Created>2021-12-14T11:54:11.936+01:00</Created>
+        <LastChange>2022-07-13T12:45:51.726+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="1081348" pageId="44631457" pageNr="55" tsid="91097178" status="GT" userId="99551" imgUrl="https://files.transkribus.eu/Get?id=TJJGEOTWEEWRLESDDIQRBCTW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FATXTDUOAWIUHLRQBAVCVZEQ" imageId="36163725"/>
+    </Metadata>
+    <Page imageFilename="1891_1_0001.jpg" imageWidth="3774" imageHeight="5115">
+        <PrintSpace>
+            <Coords points="42,22 3722,23 3740,5047 73,5047"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1658307973489" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+                <RegionRefIndexed index="1" regionRef="r_2_1"/>
+                <RegionRefIndexed index="2" regionRef="r_3_1"/>
+                <RegionRefIndexed index="3" regionRef="r_4_1"/>
+                <RegionRefIndexed index="4" regionRef="r_5_1"/>
+                <RegionRefIndexed index="6" regionRef="r_9_1"/>
+                <RegionRefIndexed index="8" regionRef="r_11_1"/>
+                <RegionRefIndexed index="9" regionRef="TextRegion_1643390486974_79"/>
+                <RegionRefIndexed index="10" regionRef="TextRegion_1643390486974_78"/>
+                <RegionRefIndexed index="11" regionRef="r_14_1"/>
+                <RegionRefIndexed index="12" regionRef="r_15_1"/>
+                <RegionRefIndexed index="13" regionRef="TextRegion_1644235749998_484"/>
+                <RegionRefIndexed index="14" regionRef="TextRegion_1644235749997_483"/>
+                <RegionRefIndexed index="15" regionRef="r_17_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="header" id="r_1_1" custom="readingOrder {index:0;} structure {type:header;}">
+            <Coords points="878,31 3040,48 3040,278 869,278"/>
+            <TextLine id="r_1_1l0" custom="readingOrder {index:0;}">
+                <Coords points="894,39 1641,39 2537,82 2772,99 3014,129 3014,245 2861,272 1853,272 990,234 894,192"/>
+                <Baseline points="894,187 1641,222 1757,227 3013,237"/>
+                <TextEquiv>
+                    <Unicode>Deutſcher Reichs⸗Anzeiger</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="header" id="r_2_1" custom="readingOrder {index:1;} structure {type:header;}">
+            <Coords points="1878,337 2022,337 2022,414 1878,414"/>
+            <TextLine id="r_2_1l0" custom="readingOrder {index:0;}">
+                <Coords points="1903,351 2000,351 2000,408 1903,408"/>
+                <Baseline points="1902,403 2001,405"/>
+                <TextEquiv>
+                    <Unicode>und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="header" id="r_3_1" custom="readingOrder {index:2;} structure {type:header;}">
+            <Coords points="349,424 3562,424 3562,711 349,711"/>
+            <TextLine id="r_3_1l0" custom="readingOrder {index:0;}">
+                <Coords points="374,442 476,438 547,438 2106,490 2902,517 3251,529 3536,557 3536,676 3339,704 2827,704 519,645 374,595"/>
+                <Baseline points="374,592 1095,627 1222,633 2106,657 2221,659 3533,673"/>
+                <TextEquiv>
+                    <Unicode>Königlich Preußiſcher Staats⸗Anzeiger.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_4_1" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="240,791 542,791 542,901 240,901"/>
+            <TextLine id="r_4_1l0" custom="readingOrder {index:0;}">
+                <Coords points="264,813 445,813 518,822 518,895 380,895 264,889"/>
+                <Baseline points="264,889 518,894"/>
+                <TextEquiv>
+                    <Unicode>No. 1.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_5_1" custom="readingOrder {index:4;} structure {type:paragraph;}">
+            <Coords points="1029,821 1788,821 1788,971 1029,971"/>
+            <TextLine id="r_5_1l0" custom="readingOrder {index:0;}">
+                <Coords points="1053,850 1091,846 1091,846 1134,846 1730,863 1764,881 1764,966 1730,970 1426,970 1091,947 1053,927"/>
+                <Baseline points="1053,924 1336,940 1386,941 1766,948"/>
+                <TextEquiv>
+                    <Unicode>Berlin, Donnerſtag,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="r_8" custom="readingOrder {index:5;}">
+            <Coords points="1811,718 2105,718 2108,1051 1814,1051"/>
+        </GraphicRegion>
+        <TextRegion type="paragraph" id="r_9_1" custom="readingOrder {index:6;} structure {type:paragraph;}">
+            <Coords points="2133,864 3010,864 3010,986 2133,986"/>
+            <TextLine id="r_9_1l0" custom="readingOrder {index:0;}">
+                <Coords points="2157,887 2190,887 2595,890 2927,893 2998,902 2998,966 2944,981 2713,981 2402,977 2157,959"/>
+                <Baseline points="2157,959 2261,960 2309,961 2360,961 2402,962 2664,965 2713,966 2998,966"/>
+                <TextEquiv>
+                    <Unicode>den 1. Januar, Mittags.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="r_10" custom="readingOrder {index:7;}">
+            <Coords points="3023,726 3283,726 3283,983 3023,983"/>
+        </GraphicRegion>
+        <TextRegion type="paragraph" id="r_11_1" custom="readingOrder {index:8;} structure {type:paragraph;}">
+            <Coords points="3369,886 3642,886 3642,983 3369,983"/>
+            <TextLine id="r_11_1l0" custom="readingOrder {index:0;}">
+                <Coords points="3395,903 3591,903 3642,905 3642,978 3546,978 3395,973"/>
+                <Baseline points="3395,973 3642,974"/>
+                <TextEquiv>
+                    <Unicode>1891.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="heading" id="TextRegion_1643390486974_79" custom="readingOrder {index:9;} structure {type:heading;}">
+            <Coords points="538,1076 1099,1102 1095,1167 538,1148"/>
+            <TextLine id="TextRegion_1643390486974_79l0" custom="readingOrder {index:0;}">
+                <Coords points="585,1098 815,1098 1047,1121 1058,1145 1058,1155 1047,1160 965,1160 764,1150 734,1148 583,1144"/>
+                <Baseline points="585,1131 866,1146 901,1149 1058,1155"/>
+                <TextEquiv>
+                    <Unicode>Deutſches Reich.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="TextRegion_1643390486974_78" custom="readingOrder {index:10;} structure {type:paragraph;}">
+            <Coords points="255,1156 1374,1208 1379,1567 1398,4865 253,4865 253,1569"/>
+            <TextLine id="TextRegion_1643390486974_78l1" custom="readingOrder {index:0;}">
+                <Coords points="606,1174 821,1186 965,1189 990,1190 1024,1205 1024,1239 954,1239 610,1215"/>
+                <Baseline points="618,1212 1024,1231"/>
+                <TextEquiv>
+                    <Unicode>Verordnung,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1643390486974_78l3" custom="readingOrder {index:1;}">
+                <Coords points="264,1261 267,1218 711,1237 734,1239 752,1239 929,1252 1368,1268 1372,1300 1355,1311 736,1281"/>
+                <Baseline points="267,1255 791,1281 890,1285 948,1288 1353,1303 1368,1301"/>
+                <TextEquiv>
+                    <Unicode>betreffend die Rechtsverhältniſſe in Deutſch⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1643390486974_78l4" custom="readingOrder {index:2;}">
+                <Coords points="707,1283 796,1285 857,1289 883,1293 933,1296 951,1301 954,1315 955,1323 931,1331 877,1334 841,1330 824,1330 745,1326 707,1321"/>
+                <Baseline points="708,1318 745,1319 774,1321 841,1323 866,1324 938,1325"/>
+                <TextEquiv>
+                    <Unicode>Oſt⸗Afrika.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1643390486974_78l6" custom="readingOrder {index:3;}">
+                <Coords points="308,1321 421,1329 474,1329 902,1347 1232,1359 1326,1369 1358,1379 1368,1397 1368,1412 903,1395 798,1384 376,1366 307,1364"/>
+                <Baseline points="316,1361 464,1364 505,1367 557,1368 612,1371 758,1376 784,1379 894,1384 921,1388 1053,1395 1074,1395 1232,1402 1252,1403 1368,1406"/>
+                <TextEquiv>
+                    <Unicode>Wir Wilhelm, von Gottes Gnaden Deutſcher Kaiſer,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1651733614868_50" custom="readingOrder {index:4;}">
+                <Coords points="395,1370 806,1387 808,1430 392,1413"/>
+                <Baseline points="396,1406 802,1421"/>
+                <TextEquiv>
+                    <Unicode>König von Preußen ꝛc.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1643390486974_78l7" custom="readingOrder {index:5;}">
+                <Coords points="272,1419 406,1419 638,1426 1125,1445 1371,1455 1371,1497 984,1486 935,1484 272,1455"/>
+                <Baseline points="276,1450 441,1453 478,1457 535,1459 568,1459 677,1463 711,1467 763,1470 935,1478 945,1479 984,1480 1368,1493"/>
+                <TextEquiv>
+                    <Unicode>verordnen auf Grund des Geſetzes, betreffend die Rechts⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1651733731853_68" custom="readingOrder {index:6;}">
+                <Coords points="270,1458 1380,1502 1376,1540 270,1496"/>
+                <Baseline points="277,1489 1367,1531"/>
+                <TextEquiv>
+                    <Unicode>verhältniſſe der deutſchen Schutzgebiete (Reichs⸗Geſetzbl. 1888</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1651733762176_74" custom="readingOrder {index:7;}">
+                <Coords points="272,1496 1371,1541 1369,1579 271,1536"/>
+                <Baseline points="278,1531 1363,1575"/>
+                <TextEquiv>
+                    <Unicode>Seite 75) für Deutſch⸗Oſt⸗Afrika im Anſchluß an die Ver⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1651733793650_80" custom="readingOrder {index:8;}">
+                <Coords points="273,1544 549,1547 1360,1581 1376,1623 271,1580"/>
+                <Baseline points="280,1574 1343,1614"/>
+                <TextEquiv>
+                    <Unicode>ordnung vom 18. November 1887 (Reichs Geſetzbl. Seite 527),</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1651733833737_89" custom="readingOrder {index:9;}">
+                <Coords points="270,1579 886,1604 887,1644 270,1626"/>
+                <Baseline points="276,1613 876,1638"/>
+                <TextEquiv>
+                    <Unicode>im Namen des Reichs, was folgt:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1652176506437_621" custom="readingOrder {index:10;}">
+                <Coords points="774,1652 874,1652 874,1703 774,1703"/>
+                <Baseline points="779,1689 859,1691"/>
+                <TextEquiv>
+                    <Unicode>§. 1.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1652176520191_627" custom="readingOrder {index:11;}">
+                <Coords points="346,1688 1374,1723 1373,1766 349,1731"/>
+                <Baseline points="361,1727 1367,1762"/>
+                <TextEquiv>
+                    <Unicode>Das Geſetz über die Konſulargerichtsbarkeit vom 10. Juli</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1652176544871_633" custom="readingOrder {index:12;}">
+                <Coords points="270,1728 1375,1770 1378,1811 276,1770"/>
+                <Baseline points="281,1764 1366,1805"/>
+                <TextEquiv>
+                    <Unicode>1879 (Reichs⸗Geſetzbl. S. 197) kommt in Gemäßheit des §. 2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1643390486974_78l12" custom="readingOrder {index:13;}">
+                <Coords points="274,1773 1131,1799 1231,1804 1371,1805 1371,1850 456,1817 270,1810"/>
+                <Baseline points="277,1808 494,1813 530,1814 691,1820 726,1821 773,1822 848,1825 1104,1835 1127,1836 1189,1839 1223,1840 1371,1845"/>
+                <TextEquiv>
+                    <Unicode>des Geſetzes, betreffend die Rechtsverhältniſſe der deutſchen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1643390486974_78l13" custom="readingOrder {index:14;}">
+                <Coords points="273,1862 273,1813 526,1822 536,1822 803,1825 1230,1838 1371,1859 1371,1892 1230,1883 1215,1883 678,1863 494,1861"/>
+                <Baseline points="280,1855 526,1856 559,1856 582,1857 636,1858 659,1859 816,1865 837,1866 892,1868 912,1869 1014,1873 1036,1874 1087,1876 1108,1876 1154,1878 1176,1879 1371,1886"/>
+                <TextEquiv>
+                    <Unicode>Schutzgebiete, in den Gebieten, auf welche ſich die Verordnung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1643390486974_78l14" custom="readingOrder {index:15;}">
+                <Coords points="276,1891 276,1865 371,1860 406,1860 612,1861 983,1874 1144,1881 1371,1891 1371,1925 1318,1925 747,1910"/>
+                <Baseline points="283,1891 864,1907 895,1908 983,1912 1014,1913 1048,1914 1078,1915 1144,1917 1258,1922 1297,1923 1318,1924 1371,1916"/>
+                <TextEquiv>
+                    <Unicode>vom 18. November 1887 bezieht, ſowie in dem Seitens des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1643390486974_78l15" custom="readingOrder {index:16;}">
+                <Coords points="277,1895 342,1895 1126,1917 1354,1925 1371,1941 1371,1967 1354,1976 1275,1970 277,1932"/>
+                <Baseline points="277,1930 424,1935 446,1936 506,1938 529,1938 686,1944 782,1946 915,1950 926,1951 1133,1959 1153,1959 1262,1963 1273,1964 1371,1967"/>
+                <TextEquiv>
+                    <Unicode>Sultans von Sanſibar abgetretenen Küſtengebiet ſammt deſſen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1643390486974_78l16" custom="readingOrder {index:17;}">
+                <Coords points="276,1936 500,1936 1291,1969 1371,1973 1371,2008 1353,2008 866,1997 374,1979 276,1980"/>
+                <Baseline points="276,1971 522,1979 544,1980 607,1982 629,1983 678,1984 698,1985 790,1988 812,1988 918,1991 940,1992 1009,1994 1033,1995 1058,1996 1109,1998 1209,2001 1232,2002 1309,2005 1332,2006 1371,2007"/>
+                <TextEquiv>
+                    <Unicode>Zubehörungen und der Inſel Mafia vom 1. Januar 1891 ab</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1643390486974_78l17" custom="readingOrder {index:18;}">
+                <Coords points="275,1981 331,1981 410,1982 466,1983 547,1985 650,1988 1220,2007 1372,2024 1372,2050 1332,2055 1319,2055 1124,2053 846,2043 275,2015"/>
+                <Baseline points="275,2013 331,2015 354,2015 410,2017 432,2018 466,2019 488,2020 578,2023 601,2023 807,2030 829,2031 1083,2040 1124,2041 1298,2047 1319,2047 1372,2049"/>
+                <TextEquiv>
+                    <Unicode>mit den in dieſer Verordnung vorgeſehenen Abänderungen zur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1651131681828_2" custom="readingOrder {index:19;}">
+                <Coords points="268,2015 404,2015 490,2028 488,2071 275,2076"/>
+                <Baseline points="268,2054 486,2060 490,2060"/>
+                <TextEquiv>
+                    <Unicode>Anwendung.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1652168858390_7" custom="readingOrder {index:20;}">
+                <Coords points="771,2073 866,2073 866,2123 771,2123"/>
+                <Baseline points="777,2112 860,2113"/>
+                <TextEquiv>
+                    <Unicode>§. 2.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1652168876640_13" custom="readingOrder {index:21;}">
+                <Coords points="357,2111 1378,2143 1377,2185 358,2155"/>
+                <Baseline points="365,2147 1372,2180"/>
+                <TextEquiv>
+                    <Unicode>Der Gerichtsbarkeit (§. 1 Abſatz 2) unterliegen alle Per⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1652168913545_19" custom="readingOrder {index:22;}">
+                <Coords points="272,2153 1371,2189 1377,2228 270,2196"/>
+                <Baseline points="278,2186 1364,2219"/>
+                <TextEquiv>
+                    <Unicode>ſonen, welche in dem Schutzgebiete wohnen oder ſich aufhalten,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1652168954353_25" custom="readingOrder {index:23;}">
+                <Coords points="270,2197 1380,2228 1384,2260 1038,2251 1018,2252 904,2253 886,2249 270,2235"/>
+                <Baseline points="276,2229 1375,2258"/>
+                <TextEquiv>
+                    <Unicode>oder bezüglich deren, hiervon abgeſehen, ein Gerichtsſtand</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1643390486974_78l27" custom="readingOrder {index:24;}">
+                <Coords points="273,2236 407,2236 1297,2263 1381,2270 1378,2296 1282,2300 365,2281 272,2279"/>
+                <Baseline points="275,2271 409,2275 466,2276 523,2275 758,2283 760,2285 780,2282 853,2287 873,2285 931,2284 949,2289 1003,2290 1026,2288 1377,2294"/>
+                <TextEquiv>
+                    <Unicode>innerhalb des Schutzgebiets nach den zur Geltung kommenden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1652169076945_37" custom="readingOrder {index:25;}">
+                <Coords points="273,2275 1376,2301 1383,2336 273,2319"/>
+                <Baseline points="277,2312 1371,2332"/>
+                <TextEquiv>
+                    <Unicode>Geſetzen begründet iſt, die Eingeborenen jedoch nur, inſoweit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1652169102288_43" custom="readingOrder {index:26;}">
+                <Coords points="276,2317 1379,2338 1379,2380 270,2359"/>
+                <Baseline points="277,2352 1372,2372"/>
+                <TextEquiv>
+                    <Unicode>ſie nach der bisherigen Uebung der Gerichtsbarkeit des Reichs⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1643390486974_78l29" custom="readingOrder {index:27;}">
+                <Coords points="277,2362 336,2361 452,2361 658,2367 792,2375 796,2404 452,2402 336,2402 276,2399"/>
+                <Baseline points="280,2394 473,2397 494,2397 658,2400 678,2400 789,2400"/>
+                <TextEquiv>
+                    <Unicode>kommiſſars unterſtellt waren.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1643390486974_78l30" custom="readingOrder {index:28;}">
+                <Coords points="786,2422 806,2422 871,2425 871,2466 806,2466 786,2466"/>
+                <Baseline points="786,2456 806,2457 835,2458 868,2459"/>
+                <TextEquiv>
+                    <Unicode>§. 3.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1652169213632_65" custom="readingOrder {index:29;}">
+                <Coords points="352,2463 1383,2480 1382,2524 354,2504"/>
+                <Baseline points="362,2501 1378,2520"/>
+                <TextEquiv>
+                    <Unicode>Der Gouverneur beſtimmt mit Genehmigung des Reichs⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1652169239216_72" custom="readingOrder {index:30;}">
+                <Coords points="275,2504 1384,2523 1381,2565 1362,2566 1349,2561 273,2544"/>
+                <Baseline points="285,2537 1372,2556"/>
+                <TextEquiv>
+                    <Unicode>kanzlers, wer als Eingeborener im Sinne dieſer Verordnung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1643390486974_78l33" custom="readingOrder {index:31;}">
+                <Coords points="281,2555 302,2546 677,2551 825,2553 1362,2562 1381,2570 1381,2602 1362,2604 1131,2604 682,2590 308,2586 281,2579"/>
+                <Baseline points="281,2579 450,2581 481,2582 516,2583 548,2583 612,2584 646,2584 732,2587 747,2587 817,2589 829,2590 1035,2594 1059,2595 1109,2596 1131,2597 1381,2602"/>
+                <TextEquiv>
+                    <Unicode>anzuſehen iſt und inwieweit Eingeborene der Gerichtsbarkeit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1643390486974_78l34" custom="readingOrder {index:32;}">
+                <Coords points="281,2587 510,2586 531,2586 775,2590 1332,2600 1369,2608 1377,2633 1379,2644 1332,2653 1318,2653 604,2634 295,2626 274,2622"/>
+                <Baseline points="281,2619 357,2621 377,2621 434,2622 456,2623 489,2623 510,2624 538,2624 562,2625 582,2625 604,2625 775,2629 796,2629 881,2631 903,2631 1017,2634 1039,2635 1073,2635 1095,2636 1282,2640 1305,2641 1377,2639"/>
+                <TextEquiv>
+                    <Unicode>über das in §. 2 bezeichnete Maß hinaus zu unterſtellen ſind.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1643390486974_78l35" custom="readingOrder {index:33;}">
+                <Coords points="787,2663 805,2663 856,2666 875,2684 877,2706 805,2706 787,2706"/>
+                <Baseline points="787,2694 813,2695 836,2697 865,2699"/>
+                <TextEquiv>
+                    <Unicode>§. 4.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1643390486974_78l36" custom="readingOrder {index:34;}">
+                <Coords points="363,2704 404,2704 1128,2715 1329,2724 1380,2735 1380,2766 1303,2766 868,2757 359,2743"/>
+                <Baseline points="363,2740 425,2740 446,2740 492,2741 552,2742 614,2743 629,2743 751,2746 773,2746 823,2747 841,2747 1128,2755 1150,2755 1236,2757 1303,2759 1380,2761"/>
+                <TextEquiv>
+                    <Unicode>Die Sitze und Bezirke der Gerichtsbehörden erſter Inſtanz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1643390486974_78l37" custom="readingOrder {index:35;}">
+                <Coords points="280,2745 476,2748 569,2750 953,2754 988,2761 988,2791 953,2794 833,2794 590,2792 277,2784"/>
+                <Baseline points="280,2778 398,2780 421,2780 480,2781 494,2781 568,2783 590,2783 813,2787 833,2788 988,2791"/>
+                <TextEquiv>
+                    <Unicode>werden von dem Reichskanzler beſtimmt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1643390486974_78l38" custom="readingOrder {index:36;}">
+                <Coords points="792,2810 812,2810 876,2816 884,2840 883,2855 812,2856 792,2856"/>
+                <Baseline points="792,2845 820,2846 842,2847 873,2848"/>
+                <TextEquiv>
+                    <Unicode>§. 5.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1643390486974_78l39" custom="readingOrder {index:37;}">
+                <Coords points="365,2854 407,2854 646,2856 1036,2860 1385,2871 1388,2913 1216,2910 755,2906 451,2896 362,2893"/>
+                <Baseline points="365,2888 428,2889 449,2889 646,2893 668,2893 731,2894 752,2894 1042,2902 1063,2902 1140,2904 1161,2905 1203,2905 1212,2906 1314,2908 1331,2908 1385,2909"/>
+                <TextEquiv>
+                    <Unicode>Als Berufungs⸗ und Beſchwerdegericht wird an Stelle des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1652169408025_97" custom="readingOrder {index:38;}">
+                <Coords points="279,2887 1385,2916 1387,2957 281,2930"/>
+                <Baseline points="283,2924 1381,2947"/>
+                <TextEquiv>
+                    <Unicode>Reichsgerichts (Geſetz über die Konſulargerichtsbarkeit §§. 18,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1643390486974_78l41" custom="readingOrder {index:39;}">
+                <Coords points="282,2935 400,2935 803,2941 1110,2952 1380,2957 1380,2992 1302,2994 1225,2990 590,2978 282,2974"/>
+                <Baseline points="282,2966 334,2967 359,2968 415,2969 450,2970 516,2971 586,2973 803,2978 837,2978 953,2981 977,2982 1108,2985 1143,2986 1194,2987 1227,2988 1308,2990 1328,2990 1380,2992"/>
+                <TextEquiv>
+                    <Unicode>36, 43) eine Gerichtsbehörde zweiter Inſtanz am Sitze des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1643390486974_78l42" custom="readingOrder {index:40;}">
+                <Coords points="284,2975 447,2975 1310,2998 1382,3006 1382,3033 1374,3039 1091,3031 308,3012 284,3010"/>
+                <Baseline points="284,3009 511,3012 534,3013 675,3016 696,3016 800,3019 820,3019 880,3021 906,3021 973,3023 993,3024 1063,3024 1085,3025 1309,3031 1329,3031 1382,3033"/>
+                <TextEquiv>
+                    <Unicode>Gouverneurs errichtet, welche aus dem vom Reichskanzler zur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1643390486974_78l43" custom="readingOrder {index:41;}">
+                <Coords points="282,3016 445,3016 770,3022 1362,3037 1381,3047 1385,3074 1362,3078 1174,3078 875,3068 375,3056 282,3051"/>
+                <Baseline points="282,3049 464,3053 498,3053 550,3054 585,3055 836,3061 867,3062 982,3064 1013,3065 1143,3067 1174,3068 1381,3072"/>
+                <TextEquiv>
+                    <Unicode>Ausübung der Gerichtsbarkeit zweiter Inſtanz ermächtigten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1643390486974_78l44" custom="readingOrder {index:42;}">
+                <Coords points="282,3056 390,3056 738,3063 1090,3070 1205,3075 1218,3079 1228,3101 1228,3109 1205,3117 1113,3114 539,3096 282,3092"/>
+                <Baseline points="282,3089 434,3092 456,3092 508,3093 531,3094 739,3099 759,3099 822,3101 848,3102 912,3104 933,3105 1091,3107 1113,3107 1226,3109"/>
+                <TextEquiv>
+                    <Unicode>Beamten als Vorſitzenden und vier Beiſitzern beſteht.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1643390486974_78l45" custom="readingOrder {index:43;}">
+                <Coords points="366,3098 418,3098 688,3103 1187,3114 1311,3117 1366,3120 1382,3129 1384,3158 1311,3156 1213,3156 569,3141 481,3141 359,3138"/>
+                <Baseline points="366,3131 418,3133 468,3134 530,3135 550,3135 687,3138 721,3139 800,3141 854,3143 874,3143 910,3144 1186,3150 1213,3151 1314,3153 1335,3154 1383,3152"/>
+                <TextEquiv>
+                    <Unicode>Auf die Beiſitzer und den Gerichtsſchreiber finden die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1643390486974_78l46" custom="readingOrder {index:44;}">
+                <Coords points="282,3138 488,3138 597,3140 679,3143 1367,3158 1382,3166 1389,3197 1367,3203 1254,3196 868,3195 836,3189 282,3180"/>
+                <Baseline points="287,3174 488,3175 523,3176 555,3176 576,3177 605,3177 627,3178 648,3178 669,3179 771,3181 792,3181 822,3182 852,3182 899,3183 923,3184 952,3184 979,3185 1000,3186 1022,3186 1084,3188 1108,3189 1146,3190 1176,3191 1229,3192 1251,3193 1384,3195"/>
+                <TextEquiv>
+                    <Unicode>Vorſchriften in §. 6 Abſatz 2, §§. 7, 8 und 10 des Geſetzes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1643390486974_78l47" custom="readingOrder {index:45;}">
+                <Coords points="285,3182 303,3180 360,3180 844,3191 1294,3200 1315,3210 1315,3242 1155,3242 474,3226 303,3220 282,3218"/>
+                <Baseline points="285,3214 360,3215 401,3216 428,3216 449,3216 844,3225 865,3226 1084,3230 1105,3231 1315,3235"/>
+                <TextEquiv>
+                    <Unicode>über die Konſulargerichtsbarkeit entſprechende Anwendung.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1643390486974_78l48" custom="readingOrder {index:46;}">
+                <Coords points="795,3256 824,3256 879,3260 879,3296 824,3300 795,3300"/>
+                <Baseline points="795,3288 824,3289 844,3290 874,3292"/>
+                <TextEquiv>
+                    <Unicode>§. 6.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1643390486974_78l49" custom="readingOrder {index:47;}">
+                <Coords points="368,3299 413,3299 682,3300 1222,3315 1283,3318 1384,3324 1383,3355 1344,3361 1330,3361 914,3351 466,3344 368,3336"/>
+                <Baseline points="373,3333 435,3333 466,3333 682,3338 718,3339 835,3342 877,3343 1095,3348 1136,3349 1222,3351 1253,3352 1300,3353 1330,3353 1383,3355"/>
+                <TextEquiv>
+                    <Unicode>Die Zuſtellungen werden ausſchließlich durch die zur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1643390486974_78l50" custom="readingOrder {index:48;}">
+                <Coords points="287,3339 589,3342 840,3342 1349,3362 1388,3368 1388,3394 1378,3400 1349,3407 1332,3407 881,3395 589,3386 284,3377"/>
+                <Baseline points="290,3375 554,3377 589,3377 840,3384 881,3385 1090,3389 1132,3390 1280,3394 1319,3395 1382,3394"/>
+                <TextEquiv>
+                    <Unicode>Ausübung der Gerichtsbarkeit ermächtigten Beamten ver⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1643390486974_78l51" custom="readingOrder {index:49;}">
+                <Coords points="285,3391 320,3382 405,3382 404,3417 285,3417"/>
+                <Baseline points="285,3417 404,3417"/>
+                <TextEquiv>
+                    <Unicode>anlaßt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1643390486974_78l52" custom="readingOrder {index:50;}">
+                <Coords points="368,3423 402,3423 661,3424 1292,3434 1388,3442 1388,3476 1321,3481 1265,3478 368,3463"/>
+                <Baseline points="368,3457 530,3459 563,3460 661,3461 692,3462 784,3463 818,3463 853,3466 885,3467 1001,3469 1045,3470 1104,3471 1136,3472 1182,3473 1223,3473 1383,3476"/>
+                <TextEquiv>
+                    <Unicode>Dieſelben haben dafür zu ſorgen, daß die innerhalb</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1643390486974_78l53" custom="readingOrder {index:51;}">
+                <Coords points="285,3464 496,3464 655,3467 958,3475 1365,3482 1384,3486 1384,3524 1321,3524 823,3511 364,3505 282,3502"/>
+                <Baseline points="285,3497 340,3498 360,3498 496,3500 530,3501 564,3501 599,3502 734,3504 766,3504 812,3505 833,3508 1097,3512 1125,3513 1213,3514 1234,3515 1300,3516 1321,3516 1384,3517"/>
+                <TextEquiv>
+                    <Unicode>des Bezirks, in welchem die Gerichtsbehörde ihren Sitz hat,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1643390486974_78l54" custom="readingOrder {index:52;}">
+                <Coords points="281,3511 359,3506 607,3503 805,3509 1304,3521 1384,3533 1384,3558 1304,3561 805,3550 611,3550 281,3542"/>
+                <Baseline points="287,3537 324,3538 359,3539 562,3541 591,3542 806,3545 826,3545 882,3549 902,3549 953,3550 983,3551 1054,3552 1085,3553 1141,3554 1171,3554 1382,3557"/>
+                <TextEquiv>
+                    <Unicode>zu bewirkenden Zuſtellungen mit der nach den vorhandenen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1652169757824_134" custom="readingOrder {index:53;}">
+                <Coords points="281,3544 1381,3558 1393,3602 282,3585"/>
+                <Baseline points="290,3579 1386,3598"/>
+                <TextEquiv>
+                    <Unicode>Mitteln möglichen Sicherheit erfolgen. Sie erlaſſen unter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1643390486974_78l56" custom="readingOrder {index:54;}">
+                <Coords points="289,3587 497,3587 809,3597 1300,3601 1363,3604 1386,3615 1390,3644 1303,3645 1083,3637 463,3631 419,3628 284,3625"/>
+                <Baseline points="289,3620 341,3621 364,3622 497,3623 532,3623 586,3624 607,3624 832,3627 895,3630 910,3630 972,3632 1057,3633 1078,3634 1300,3639 1322,3639 1386,3639"/>
+                <TextEquiv>
+                    <Unicode>der Aufſicht des Gouverneurs die hierfür erforderlichen An⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1652169838248_149" custom="readingOrder {index:55;}">
+                <Coords points="283,3627 1083,3639 1093,3683 285,3664"/>
+                <Baseline points="290,3662 1080,3674"/>
+                <TextEquiv>
+                    <Unicode>ordnungen und überwachen deren Befolgung.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1652169881711_155" custom="readingOrder {index:56;}">
+                <Coords points="368,3667 1384,3680 1381,3729 366,3710"/>
+                <Baseline points="373,3700 1378,3720"/>
+                <TextEquiv>
+                    <Unicode>Zuſtellungen in dem Verſahren erſter Inſtanz außerhalb</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1643390486974_78l59" custom="readingOrder {index:57;}">
+                <Coords points="289,3710 498,3710 1089,3716 1369,3727 1384,3731 1384,3768 1275,3768 846,3763 413,3752 288,3750"/>
+                <Baseline points="291,3743 343,3742 366,3742 494,3741 535,3745 564,3742 595,3745 734,3746 763,3749 807,3749 831,3749 1089,3760 1120,3760 1206,3760 1228,3760 1294,3760 1323,3760 1384,3762"/>
+                <TextEquiv>
+                    <Unicode>des Bezirks, in welchem die Gerichtsbehörde ihren Sitz hat,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1643390486974_78l60" custom="readingOrder {index:58;}">
+                <Coords points="288,3751 426,3751 582,3752 838,3755 877,3763 877,3792 839,3798 704,3798 288,3794"/>
+                <Baseline points="288,3785 426,3785 448,3785 491,3786 513,3786 607,3788 629,3788 682,3788 704,3788 877,3792"/>
+                <TextEquiv>
+                    <Unicode>erſolgen im Wege des Erſuchens.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1643390486974_78l62" custom="readingOrder {index:59;}">
+                <Coords points="797,3815 816,3815 881,3823 887,3846 879,3856 816,3859 797,3859"/>
+                <Baseline points="797,3849 824,3850 853,3850 875,3851"/>
+                <TextEquiv>
+                    <Unicode>§. 7.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1643390486974_78l63" custom="readingOrder {index:60;}">
+                <Coords points="372,3860 444,3862 646,3862 973,3863 1326,3876 1348,3877 1386,3887 1386,3912 1348,3916 1326,3917 1232,3917 666,3910 444,3902 370,3904"/>
+                <Baseline points="375,3896 422,3896 444,3896 646,3897 663,3897 973,3903 995,3904 1059,3905 1080,3905 1112,3906 1134,3906 1199,3907 1215,3908 1386,3911"/>
+                <TextEquiv>
+                    <Unicode>In bürgerlichen Rechtsſtreitigkeiten ſind in dem Verfahren</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1652169990799_172" custom="readingOrder {index:61;}">
+                <Coords points="278,3901 1389,3917 1390,3958 278,3940"/>
+                <Baseline points="290,3934 1381,3952"/>
+                <TextEquiv>
+                    <Unicode>vor den Gerichtsbehörden in dem Schutzgebiet alle Ent⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1643390486974_78l65" custom="readingOrder {index:62;}">
+                <Coords points="285,3944 300,3945 731,3945 1241,3960 1348,3960 1391,3963 1390,3995 1343,4000 1256,3998 1171,3991 304,3985 285,3982"/>
+                <Baseline points="289,3975 492,3978 528,3977 735,3981 770,3982 821,3983 856,3983 911,3984 937,3985 1050,3988 1111,3989 1164,3990 1199,3991 1386,3991"/>
+                <TextEquiv>
+                    <Unicode>ſcheidungen, einſchließlich der auf Grund einer mündlichen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1643390486974_78l66" custom="readingOrder {index:63;}">
+                <Coords points="288,3983 496,3983 739,3986 997,3991 1371,4000 1393,4012 1392,4036 1371,4040 1297,4040 1107,4038 898,4034 547,4027 286,4023"/>
+                <Baseline points="291,4019 496,4019 547,4020 739,4023 769,4023 831,4024 852,4024 1046,4029 1077,4030 1254,4033 1297,4034 1388,4034"/>
+                <TextEquiv>
+                    <Unicode>Verhandlung ergehenden, von Amtswegen zuzuſtellen. Dieſe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1643390486974_78l67" custom="readingOrder {index:64;}">
+                <Coords points="288,4023 453,4023 688,4027 1288,4037 1386,4041 1387,4080 1288,4082 1153,4076 290,4063"/>
+                <Baseline points="290,4056 457,4058 516,4059 584,4060 616,4061 688,4062 719,4063 774,4063 794,4064 841,4065 862,4065 1036,4069 1058,4069 1108,4071 1128,4071 1301,4075 1323,4075 1386,4076"/>
+                <TextEquiv>
+                    <Unicode>Vorſchrift findet auch auf die Zuſtellung der Zahlungs⸗ und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1643390486974_78l68" custom="readingOrder {index:65;}">
+                <Coords points="290,4066 645,4066 939,4075 1369,4085 1386,4097 1386,4120 1351,4126 1324,4121 287,4105"/>
+                <Baseline points="291,4099 645,4103 666,4103 708,4104 728,4104 785,4105 806,4105 988,4109 1008,4110 1096,4112 1117,4112 1167,4113 1184,4113 1385,4115"/>
+                <TextEquiv>
+                    <Unicode>Vollſtreckungsbefehle an den Schuldner, ſowie der Pfändungs⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1643390486974_78l69" custom="readingOrder {index:66;}">
+                <Coords points="288,4108 375,4107 784,4111 1356,4122 1386,4126 1386,4162 1308,4162 941,4156 397,4145 281,4148"/>
+                <Baseline points="290,4142 353,4143 375,4139 782,4145 804,4145 845,4146 867,4146 922,4148 941,4149 1114,4153 1135,4153 1196,4154 1216,4155 1271,4156 1286,4156 1386,4158"/>
+                <TextEquiv>
+                    <Unicode>und Ueberweiſungsbeſchlüſſe an den Schuldner und den Dritt⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1643390486974_78l70" custom="readingOrder {index:67;}">
+                <Coords points="292,4148 445,4148 615,4149 677,4159 677,4191 517,4191 292,4189"/>
+                <Baseline points="292,4182 445,4183 465,4183 677,4183"/>
+                <TextEquiv>
+                    <Unicode>ſchuldner Anwendung.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1643390486974_78l71" custom="readingOrder {index:68;}">
+                <Coords points="372,4189 640,4189 1360,4199 1373,4204 1391,4215 1394,4235 1365,4248 1345,4244 1287,4243 372,4232"/>
+                <Baseline points="372,4222 440,4223 462,4224 640,4226 672,4226 773,4227 805,4227 938,4231 969,4231 1016,4232 1041,4233 1171,4236 1202,4236 1270,4237 1286,4238 1386,4239"/>
+                <TextEquiv>
+                    <Unicode>Für Beſchlüſſe, welche lediglich die Prozeß⸗ oder Sach⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1643390486974_78l72" custom="readingOrder {index:69;}">
+                <Coords points="291,4232 454,4230 665,4230 900,4233 1296,4241 1387,4256 1390,4285 1296,4286 1137,4286 391,4270 289,4271"/>
+                <Baseline points="291,4266 424,4264 454,4264 665,4266 697,4266 749,4267 773,4267 985,4271 1015,4272 1084,4273 1115,4274 1296,4279 1326,4279 1389,4279"/>
+                <TextEquiv>
+                    <Unicode>leitung, einſchließlich der Beſtimmung oder Aenderung von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1643390486974_78l73" custom="readingOrder {index:70;}">
+                <Coords points="289,4273 465,4268 1069,4280 1091,4289 1091,4322 934,4323 498,4312 286,4311"/>
+                <Baseline points="299,4307 486,4304 648,4306 670,4306 783,4309 804,4310 850,4311 872,4311 1086,4315"/>
+                <TextEquiv>
+                    <Unicode>Terminen, betreffen, genügt die Verkündung.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1652170367368_199" custom="readingOrder {index:71;}">
+                <Coords points="373,4312 1391,4326 1390,4364 370,4350"/>
+                <Baseline points="379,4345 1386,4361"/>
+                <TextEquiv>
+                    <Unicode>Die Beglaubigung der zuzuſtellenden Schriftſtücke kann</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1643390486974_78l75" custom="readingOrder {index:72;}">
+                <Coords points="279,4379 291,4355 352,4353 453,4352 1040,4359 1186,4363 1203,4374 1211,4399 1186,4406 1043,4401 753,4395 291,4393 279,4382"/>
+                <Baseline points="293,4391 328,4390 352,4388 431,4388 453,4388 560,4388 582,4388 669,4388 762,4390 1042,4396 1060,4396 1203,4398"/>
+                <TextEquiv>
+                    <Unicode>in allen Fällen durch den Gerichtsſchreiber erfolgen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1643390486974_78l76" custom="readingOrder {index:73;}">
+                <Coords points="379,4395 395,4393 395,4393 454,4393 833,4395 1043,4400 1290,4406 1389,4409 1389,4445 1206,4446 1159,4446 1073,4445 690,4440 486,4436 379,4430"/>
+                <Baseline points="379,4430 454,4428 477,4428 564,4429 585,4429 651,4430 672,4430 848,4433 879,4433 943,4434 964,4435 1043,4436 1073,4436 1206,4440 1239,4441 1309,4442 1339,4443 1389,4444"/>
+                <TextEquiv>
+                    <Unicode>Soll durch eine Zuſtellung eine Friſt gewahrt oder der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1643390486974_78l77" custom="readingOrder {index:74;}">
+                <Coords points="295,4435 377,4435 632,4436 954,4440 1232,4445 1384,4451 1389,4476 1389,4491 1037,4480 478,4473 291,4477"/>
+                <Baseline points="295,4469 377,4470 403,4470 454,4470 475,4470 675,4471 706,4471 776,4472 808,4473 890,4475 910,4476 990,4479 1021,4478 1232,4480 1263,4481 1389,4483"/>
+                <TextEquiv>
+                    <Unicode>Lauf der Verjährung oder einer Friſt unterbrochen werden,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1643390486974_78l78" custom="readingOrder {index:75;}">
+                <Coords points="298,4517 292,4476 906,4477 936,4480 1371,4488 1390,4499 1394,4529 1221,4526 985,4524 581,4519 350,4512"/>
+                <Baseline points="298,4512 447,4511 470,4510 515,4511 581,4511 726,4513 747,4513 798,4514 849,4515 994,4517 1025,4518 1134,4520 1165,4521 1222,4522 1248,4522 1298,4523 1318,4524 1388,4523"/>
+                <TextEquiv>
+                    <Unicode>ſo treten die Wirkungen der Zuſtellung bereits mit der Ein⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1643390486974_78l79" custom="readingOrder {index:76;}">
+                <Coords points="297,4518 583,4517 760,4517 1372,4529 1390,4531 1390,4566 1366,4572 1052,4561 297,4558"/>
+                <Baseline points="297,4550 416,4551 459,4552 546,4551 583,4551 760,4554 858,4555 982,4557 1003,4558 1049,4559 1059,4559 1114,4560 1133,4560 1390,4565"/>
+                <TextEquiv>
+                    <Unicode>reichung des zuzuſtellenden Schriftſtücks bei der Gerichtsbehörde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1643390486974_78l80" custom="readingOrder {index:77;}">
+                <Coords points="296,4558 597,4557 732,4557 1066,4563 1163,4567 1172,4593 1167,4606 902,4604 768,4604 296,4600"/>
+                <Baseline points="296,4592 357,4592 378,4592 478,4592 501,4593 547,4593 597,4593 744,4595 765,4595 925,4598 947,4598 1066,4600 1086,4601 1172,4602"/>
+                <TextEquiv>
+                    <Unicode>ein, ſofern die Zuſtellung demnächſt bewirkt wird.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1643390486974_78l81" custom="readingOrder {index:78;}">
+                <Coords points="380,4599 442,4599 610,4600 934,4602 1146,4606 1250,4608 1326,4611 1392,4620 1392,4654 1146,4656 991,4649 463,4641 380,4634"/>
+                <Baseline points="380,4632 442,4634 463,4634 672,4635 694,4635 744,4636 766,4636 950,4639 971,4640 1147,4642 1168,4643 1250,4644 1263,4644 1392,4647"/>
+                <TextEquiv>
+                    <Unicode>Bei Bewilligung der öffentlichen Zuſtellung einer Ladung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1643390486974_78l82" custom="readingOrder {index:79;}">
+                <Coords points="296,4641 398,4640 643,4640 1288,4650 1395,4653 1396,4692 1326,4694 999,4688 957,4686 294,4680"/>
+                <Baseline points="299,4676 376,4674 398,4674 445,4675 465,4675 730,4677 758,4678 924,4679 955,4680 1015,4681 1046,4682 1110,4683 1139,4683 1326,4687 1360,4685 1392,4688"/>
+                <TextEquiv>
+                    <Unicode>kann die Gerichtsbehörde anordnen, daß eine Einrückung in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1643390486974_78l83" custom="readingOrder {index:80;}">
+                <Coords points="293,4685 313,4682 487,4681 610,4681 894,4684 946,4687 985,4688 989,4725 946,4727 934,4727 313,4723 293,4722"/>
+                <Baseline points="299,4717 466,4716 487,4716 611,4716 632,4716 706,4716 728,4717 913,4721 934,4722 982,4722"/>
+                <TextEquiv>
+                    <Unicode>öffentliche Blätter nicht erforderlich ſei.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1643390486974_78l84" custom="readingOrder {index:81;}">
+                <Coords points="380,4757 380,4722 749,4727 845,4724 1346,4734 1392,4744 1392,4768 1344,4775 875,4769 753,4765 406,4762"/>
+                <Baseline points="380,4755 498,4757 529,4757 595,4758 616,4758 726,4759 753,4759 923,4761 956,4762 1008,4763 1029,4763 1163,4765 1195,4766 1228,4766 1259,4766 1392,4768"/>
+                <TextEquiv>
+                    <Unicode>Wohnt eine Partei außerhalb des Bezirks, in welchem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1643390486974_78l85" custom="readingOrder {index:82;}">
+                <Coords points="299,4764 367,4763 634,4763 741,4764 1379,4774 1392,4777 1398,4812 1379,4816 1317,4816 1136,4810 392,4798 294,4807"/>
+                <Baseline points="299,4799 346,4799 367,4799 634,4799 655,4800 741,4800 811,4801 829,4801 861,4801 922,4803 953,4803 984,4804 1017,4804 1103,4806 1135,4806 1222,4808 1255,4809 1293,4809 1317,4810 1393,4809"/>
+                <TextEquiv>
+                    <Unicode>die Gerichtsbehörde ihren Sitz hat, ſo kann, Falls ſie nicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1643390486974_78l86" custom="readingOrder {index:83;}">
+                <Coords points="304,4806 517,4805 539,4805 1160,4807 1360,4816 1392,4819 1392,4856 1360,4857 1330,4857 795,4854 455,4845 300,4849"/>
+                <Baseline points="304,4838 393,4839 414,4839 539,4840 560,4840 755,4841 769,4841 1182,4847 1203,4848 1310,4849 1330,4850 1392,4850"/>
+                <TextEquiv>
+                    <Unicode>einen daſelbſt wohnhaften Prozeß⸗Bevollmächtigten beſtellt hat,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Verordnung,&#13;
+betreffend die Rechtsverhältniſſe in Deutſch⸗&#13;
+Oſt⸗Afrika.&#13;
+Wir Wilhelm, von Gottes Gnaden Deutſcher Kaiſer,&#13;
+König von Preußen ꝛc.&#13;
+verordnen auf Grund des Geſetzes, betreffend die Rechts⸗&#13;
+verhältniſſe der deutſchen Schutzgebiete (Reichs⸗Geſetzbl. 1888&#13;
+Seite 75) für Deutſch⸗Oſt⸗Afrika im Anſchluß an die Ver⸗&#13;
+ordnung vom 18. November 1887 (Reichs Geſetzbl. Seite 527),&#13;
+im Namen des Reichs, was folgt:&#13;
+§. 1.&#13;
+Das Geſetz über die Konſulargerichtsbarkeit vom 10. Juli&#13;
+1879 (Reichs⸗Geſetzbl. S. 197) kommt in Gemäßheit des §. 2&#13;
+des Geſetzes, betreffend die Rechtsverhältniſſe der deutſchen&#13;
+Schutzgebiete, in den Gebieten, auf welche ſich die Verordnung&#13;
+vom 18. November 1887 bezieht, ſowie in dem Seitens des&#13;
+Sultans von Sanſibar abgetretenen Küſtengebiet ſammt deſſen&#13;
+Zubehörungen und der Inſel Mafia vom 1. Januar 1891 ab&#13;
+mit den in dieſer Verordnung vorgeſehenen Abänderungen zur&#13;
+Anwendung.&#13;
+§. 2.&#13;
+Der Gerichtsbarkeit (§. 1 Abſatz 2) unterliegen alle Per⸗&#13;
+ſonen, welche in dem Schutzgebiete wohnen oder ſich aufhalten,&#13;
+oder bezüglich deren, hiervon abgeſehen, ein Gerichtsſtand&#13;
+innerhalb des Schutzgebiets nach den zur Geltung kommenden&#13;
+Geſetzen begründet iſt, die Eingeborenen jedoch nur, inſoweit&#13;
+ſie nach der bisherigen Uebung der Gerichtsbarkeit des Reichs⸗&#13;
+kommiſſars unterſtellt waren.&#13;
+§. 3.&#13;
+Der Gouverneur beſtimmt mit Genehmigung des Reichs⸗&#13;
+kanzlers, wer als Eingeborener im Sinne dieſer Verordnung&#13;
+anzuſehen iſt und inwieweit Eingeborene der Gerichtsbarkeit&#13;
+über das in §. 2 bezeichnete Maß hinaus zu unterſtellen ſind.&#13;
+§. 4.&#13;
+Die Sitze und Bezirke der Gerichtsbehörden erſter Inſtanz&#13;
+werden von dem Reichskanzler beſtimmt.&#13;
+§. 5.&#13;
+Als Berufungs⸗ und Beſchwerdegericht wird an Stelle des&#13;
+Reichsgerichts (Geſetz über die Konſulargerichtsbarkeit §§. 18,&#13;
+36, 43) eine Gerichtsbehörde zweiter Inſtanz am Sitze des&#13;
+Gouverneurs errichtet, welche aus dem vom Reichskanzler zur&#13;
+Ausübung der Gerichtsbarkeit zweiter Inſtanz ermächtigten&#13;
+Beamten als Vorſitzenden und vier Beiſitzern beſteht.&#13;
+Auf die Beiſitzer und den Gerichtsſchreiber finden die&#13;
+Vorſchriften in §. 6 Abſatz 2, §§. 7, 8 und 10 des Geſetzes&#13;
+über die Konſulargerichtsbarkeit entſprechende Anwendung.&#13;
+§. 6.&#13;
+Die Zuſtellungen werden ausſchließlich durch die zur&#13;
+Ausübung der Gerichtsbarkeit ermächtigten Beamten ver⸗&#13;
+anlaßt.&#13;
+Dieſelben haben dafür zu ſorgen, daß die innerhalb&#13;
+des Bezirks, in welchem die Gerichtsbehörde ihren Sitz hat,&#13;
+zu bewirkenden Zuſtellungen mit der nach den vorhandenen&#13;
+Mitteln möglichen Sicherheit erfolgen. Sie erlaſſen unter&#13;
+der Aufſicht des Gouverneurs die hierfür erforderlichen An⸗&#13;
+ordnungen und überwachen deren Befolgung.&#13;
+Zuſtellungen in dem Verſahren erſter Inſtanz außerhalb&#13;
+des Bezirks, in welchem die Gerichtsbehörde ihren Sitz hat,&#13;
+erſolgen im Wege des Erſuchens.&#13;
+§. 7.&#13;
+In bürgerlichen Rechtsſtreitigkeiten ſind in dem Verfahren&#13;
+vor den Gerichtsbehörden in dem Schutzgebiet alle Ent⸗&#13;
+ſcheidungen, einſchließlich der auf Grund einer mündlichen&#13;
+Verhandlung ergehenden, von Amtswegen zuzuſtellen. Dieſe&#13;
+Vorſchrift findet auch auf die Zuſtellung der Zahlungs⸗ und&#13;
+Vollſtreckungsbefehle an den Schuldner, ſowie der Pfändungs⸗&#13;
+und Ueberweiſungsbeſchlüſſe an den Schuldner und den Dritt⸗&#13;
+ſchuldner Anwendung.&#13;
+Für Beſchlüſſe, welche lediglich die Prozeß⸗ oder Sach⸗&#13;
+leitung, einſchließlich der Beſtimmung oder Aenderung von&#13;
+Terminen, betreffen, genügt die Verkündung.&#13;
+Die Beglaubigung der zuzuſtellenden Schriftſtücke kann&#13;
+in allen Fällen durch den Gerichtsſchreiber erfolgen.&#13;
+Soll durch eine Zuſtellung eine Friſt gewahrt oder der&#13;
+Lauf der Verjährung oder einer Friſt unterbrochen werden,&#13;
+ſo treten die Wirkungen der Zuſtellung bereits mit der Ein⸗&#13;
+reichung des zuzuſtellenden Schriftſtücks bei der Gerichtsbehörde&#13;
+ein, ſofern die Zuſtellung demnächſt bewirkt wird.&#13;
+Bei Bewilligung der öffentlichen Zuſtellung einer Ladung&#13;
+kann die Gerichtsbehörde anordnen, daß eine Einrückung in&#13;
+öffentliche Blätter nicht erforderlich ſei.&#13;
+Wohnt eine Partei außerhalb des Bezirks, in welchem&#13;
+die Gerichtsbehörde ihren Sitz hat, ſo kann, Falls ſie nicht&#13;
+einen daſelbſt wohnhaften Prozeß⸗Bevollmächtigten beſtellt hat,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_14_1" custom="readingOrder {index:11;} structure {type:paragraph;}">
+            <Coords points="1410,1129 2519,1129 2560,4857 1434,4868"/>
+            <TextLine id="r_14_1l0" custom="readingOrder {index:0;}">
+                <Coords points="1420,1171 1420,1146 1517,1140 1557,1140 2467,1158 2507,1168 2507,1192 2462,1199 2391,1200 1462,1180"/>
+                <Baseline points="1421,1168 1632,1178 1759,1183 1789,1184 1848,1185 1879,1185 1917,1186 1948,1186 2013,1187 2045,1187 2167,1189 2197,1189 2370,1192 2389,1192 2506,1192"/>
+                <TextEquiv>
+                    <Unicode>angeordnet werden, daß ſie eine daſelbſt wohnhafte Perſon</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_1l1" custom="readingOrder {index:1;}">
+                <Coords points="1420,1186 1519,1181 1563,1181 2370,1196 2498,1199 2514,1214 2516,1230 2498,1238 2370,1237 2168,1233 1541,1221 1420,1218"/>
+                <Baseline points="1421,1211 1489,1209 1523,1214 1673,1218 1711,1217 1756,1220 1793,1221 1846,1221 1877,1223 1917,1223 1953,1223 2132,1229 2167,1227 2371,1228 2406,1231 2507,1232"/>
+                <TextEquiv>
+                    <Unicode>zum Empfang der für ſie beſtimmten Schriftſtücke bevoll⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_1l2" custom="readingOrder {index:2;}">
+                <Coords points="1421,1227 1439,1220 1570,1220 2326,1237 2444,1239 2510,1249 2510,1282 2337,1278 2300,1277 1800,1268 1444,1259 1419,1255"/>
+                <Baseline points="1423,1251 1565,1255 1606,1258 1696,1258 1709,1260 1901,1267 1919,1265 1999,1267 2023,1267 2098,1269 2112,1270 2276,1272 2287,1272 2510,1274"/>
+                <TextEquiv>
+                    <Unicode>mächtige. Dieſe Anordnung kann ohne mündliche Verhandlung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_1l3" custom="readingOrder {index:3;}">
+                <Coords points="1421,1259 1484,1264 2154,1275 2459,1280 2470,1281 2513,1287 2513,1319 2459,1320 1610,1306 1558,1304 1421,1300"/>
+                <Baseline points="1421,1293 1560,1295 1606,1297 1669,1298 1720,1303 2155,1312 2176,1312 2212,1313 2233,1313 2280,1313 2308,1313 2357,1314 2378,1313 2510,1314"/>
+                <TextEquiv>
+                    <Unicode>erfolgen. Der Zuſtellungs⸗Bevollmächtigte iſt bei der nächſten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_1l4" custom="readingOrder {index:4;}">
+                <Coords points="1422,1309 1435,1302 1622,1305 2515,1323 2510,1361 2390,1359 2373,1359 1727,1348 1449,1339 1422,1339"/>
+                <Baseline points="1422,1339 1618,1340 1640,1341 1705,1342 1744,1343 1861,1346 1891,1347 1971,1348 2002,1348 2091,1349 2122,1350 2168,1350 2188,1350 2297,1352 2317,1352 2424,1354 2448,1352 2511,1354"/>
+                <TextEquiv>
+                    <Unicode>gerichtlichen Verhandlung oder, wenn die Partei vorher dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_1l5" custom="readingOrder {index:5;}">
+                <Coords points="1422,1340 1502,1340 2451,1360 2507,1371 2510,1398 2477,1400 2253,1398 2180,1398 1661,1386 1449,1381 1422,1374"/>
+                <Baseline points="1422,1374 1544,1378 1566,1378 1650,1381 1662,1381 1833,1386 1869,1387 1989,1388 2012,1389 2086,1390 2107,1390 2141,1390 2163,1391 2269,1392 2304,1393 2324,1393 2346,1393 2505,1393"/>
+                <TextEquiv>
+                    <Unicode>Gegner einen Schriftſatz zuſtellen läßt, in dieſem zu benennen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1652171029526_239" custom="readingOrder {index:6;}">
+                <Coords points="1423,1378 2511,1402 2516,1441 1423,1424"/>
+                <Baseline points="1428,1416 2508,1435"/>
+                <TextEquiv>
+                    <Unicode>Geſchieht dies nicht, ſo können alle ſpäteren Zuſtellungen bis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_1l6" custom="readingOrder {index:7;}">
+                <Coords points="1420,1427 1723,1429 1914,1432 2479,1440 2500,1447 2511,1456 2511,1470 2514,1480 2470,1482 2240,1474 1767,1469 1418,1460"/>
+                <Baseline points="1422,1455 1723,1465 1767,1465 1906,1468 1981,1470 1996,1470 2155,1472 2197,1472 2240,1473 2281,1473 2321,1474 2348,1474 2469,1476 2510,1474"/>
+                <TextEquiv>
+                    <Unicode>zur nachträglichen Benennung durch Anheftung an die Gerichts⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1651131759223_8" custom="readingOrder {index:8;}">
+                <Coords points="1422,1462 1790,1473 1791,1507 1720,1509 1418,1501"/>
+                <Baseline points="1424,1494 1784,1506 1790,1506"/>
+                <TextEquiv>
+                    <Unicode>tafel bewirkt werden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_1l8" custom="readingOrder {index:9;}">
+                <Coords points="1500,1541 1498,1502 1702,1512 1747,1512 2272,1519 2490,1523 2512,1532 2512,1558 2456,1564 1660,1551 1615,1547 1562,1540"/>
+                <Baseline points="1506,1537 1570,1540 1702,1544 1747,1546 1778,1546 1801,1546 1884,1548 1928,1549 1960,1550 2086,1552 2146,1553 2272,1554 2323,1554 2334,1555 2403,1556 2424,1556 2457,1557 2512,1558"/>
+                <TextEquiv>
+                    <Unicode>Der Nachweis über die erfolgte Zuſtellung iſt zu den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_1l9" custom="readingOrder {index:10;}">
+                <Coords points="1424,1543 1646,1543 1838,1551 1858,1564 1858,1588 1838,1594 1734,1594 1424,1586"/>
+                <Baseline points="1424,1578 1646,1584 1666,1585 1702,1585 1722,1586 1858,1586"/>
+                <TextEquiv>
+                    <Unicode>Gerichtsakten zu bringen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_1l10" custom="readingOrder {index:11;}">
+                <Coords points="1930,1604 1949,1604 2009,1603 2008,1634 2008,1641 1949,1648 1930,1648"/>
+                <Baseline points="1930,1637 1956,1638 1979,1639 2008,1641"/>
+                <TextEquiv>
+                    <Unicode>§. 8.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_1l11" custom="readingOrder {index:12;}">
+                <Coords points="1508,1644 1536,1644 2356,1658 2513,1662 2517,1701 2354,1702 2094,1697 1702,1690 1508,1685"/>
+                <Baseline points="1508,1678 1557,1679 1599,1680 1663,1682 1700,1683 1869,1687 1912,1688 1968,1690 1994,1690 2058,1691 2093,1691 2356,1694 2397,1695 2513,1697"/>
+                <TextEquiv>
+                    <Unicode>In dem Verfahren vor der Gerichtsbehörde zweiter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_1l12" custom="readingOrder {index:13;}">
+                <Coords points="1425,1681 1453,1681 2435,1698 2490,1703 2512,1713 2512,1736 2435,1742 1450,1722 1421,1722"/>
+                <Baseline points="1425,1715 1556,1720 1607,1721 1733,1724 1785,1725 1819,1726 1867,1727 2068,1729 2110,1731 2435,1735 2477,1735 2512,1736"/>
+                <TextEquiv>
+                    <Unicode>Inſtanz nehmen in bürgerlichen Rechtsſtreitigkeiten, in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_1l13" custom="readingOrder {index:14;}">
+                <Coords points="1427,1723 1497,1724 1667,1730 2482,1746 2514,1744 2514,1777 2482,1782 2003,1775 1979,1775 1582,1766 1569,1765 1424,1755"/>
+                <Baseline points="1427,1753 1667,1762 1709,1763 1772,1765 1814,1766 1847,1767 1889,1768 1945,1769 1986,1770 2039,1770 2081,1771 2230,1773 2265,1774 2514,1777"/>
+                <TextEquiv>
+                    <Unicode>Konkursſachen und in den zur ſtreitigen Gerichtsbarkeit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_1l14" custom="readingOrder {index:15;}">
+                <Coords points="1426,1772 1448,1763 1501,1763 1727,1767 2326,1780 2517,1790 2516,1817 2326,1820 2189,1820 1624,1806 1461,1803 1426,1796"/>
+                <Baseline points="1426,1796 1501,1798 1542,1799 1727,1804 1780,1805 1895,1807 1916,1808 2051,1811 2103,1812 2149,1813 2189,1810 2326,1815 2372,1814 2433,1815 2474,1816 2515,1816"/>
+                <TextEquiv>
+                    <Unicode>nicht gehörenden Angelegenheiten die Beiſitzer nur an</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_1l15" custom="readingOrder {index:16;}">
+                <Coords points="1426,1802 1477,1805 2476,1824 2516,1823 2519,1860 1749,1850 1588,1845 1422,1840"/>
+                <Baseline points="1429,1835 1477,1837 1518,1838 1705,1844 1747,1846 1980,1853 2027,1852 2116,1853 2157,1853 2198,1853 2240,1853 2295,1854 2336,1854 2380,1855 2421,1856 2516,1857"/>
+                <TextEquiv>
+                    <Unicode>der mündlichen Verhandlung, ſowie an den im Laufe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_1l16" custom="readingOrder {index:17;}">
+                <Coords points="1426,1853 1445,1844 1496,1844 2476,1863 2514,1863 2521,1897 2477,1903 2430,1902 1628,1888 1422,1879"/>
+                <Baseline points="1426,1877 1496,1879 1529,1880 1584,1881 1606,1882 1723,1882 1749,1884 1900,1888 1931,1889 2111,1891 2139,1892 2391,1895 2413,1895 2514,1896"/>
+                <TextEquiv>
+                    <Unicode>oder auf Grund derſelben ergehenden Entſcheidungen Theil.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_1l17" custom="readingOrder {index:18;}">
+                <Coords points="1426,1883 1513,1879 1544,1887 2427,1900 2484,1906 2517,1912 2516,1940 1602,1925 1530,1925 1425,1924"/>
+                <Baseline points="1426,1917 1541,1920 1568,1920 1678,1923 1709,1924 1755,1925 1789,1926 2003,1930 2036,1930 2110,1932 2142,1932 2199,1933 2231,1934 2435,1936 2466,1936 2517,1938"/>
+                <TextEquiv>
+                    <Unicode>Jedoch erfolgt die Entſcheidung über das Rechtsmittel der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_1l18" custom="readingOrder {index:19;}">
+                <Coords points="1426,1923 1475,1924 1612,1927 2229,1941 2413,1943 2516,1953 2517,1978 2228,1981 2083,1981 1945,1976 1475,1964 1425,1961"/>
+                <Baseline points="1429,1958 1611,1963 1648,1964 1735,1966 1758,1966 1960,1971 1996,1971 2047,1972 2083,1972 2228,1974 2262,1974 2350,1976 2382,1976 2429,1977 2463,1977 2515,1976"/>
+                <TextEquiv>
+                    <Unicode>Beſchwerde unter Mitwirkung der Beiſitzer, wenn die an⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_1l19" custom="readingOrder {index:20;}">
+                <Coords points="1425,1968 1793,1969 2449,1981 2515,1993 2517,2024 2449,2025 2292,2025 1631,2009 1425,2003"/>
+                <Baseline points="1427,1999 1824,2009 1857,2009 1946,2011 1967,2011 2170,2014 2201,2015 2262,2016 2292,2016 2450,2018 2472,2019 2515,2019"/>
+                <TextEquiv>
+                    <Unicode>gefochtene Entſcheidung unter Mitwirkung von Beiſitzern er⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_1l20" custom="readingOrder {index:21;}">
+                <Coords points="1431,2009 1493,2010 1608,2009 1610,2036 1610,2043 1509,2050 1440,2050 1427,2048"/>
+                <Baseline points="1427,2041 1545,2042 1604,2043 1610,2043"/>
+                <TextEquiv>
+                    <Unicode>gangen iſt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_1l21" custom="readingOrder {index:22;}">
+                <Coords points="1509,2049 1536,2049 2404,2063 2516,2075 2516,2108 2413,2103 2325,2105 1667,2096 1506,2091"/>
+                <Baseline points="1509,2082 1557,2083 1580,2084 1644,2086 1667,2087 1836,2091 1857,2092 1972,2094 2002,2095 2130,2097 2162,2097 2197,2098 2233,2098 2297,2098 2327,2098 2516,2100"/>
+                <TextEquiv>
+                    <Unicode>In dem Verfahren zweiter Inſtanz iſt eine Vertretung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_1l22" custom="readingOrder {index:23;}">
+                <Coords points="1426,2088 1512,2088 1703,2090 2372,2098 2518,2107 2516,2144 2372,2149 2337,2149 1498,2128 1426,2126"/>
+                <Baseline points="1426,2121 1512,2124 1533,2125 1772,2130 1803,2131 1879,2132 1910,2133 2032,2134 2065,2135 2128,2135 2150,2135 2243,2136 2263,2137 2337,2137 2363,2138 2372,2138 2383,2138 2446,2138 2466,2139 2518,2139"/>
+                <TextEquiv>
+                    <Unicode>durch Rechtsanwälte nicht geboten und findet der §. 269 der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_1l23" custom="readingOrder {index:24;}">
+                <Coords points="1430,2129 1865,2137 2032,2139 2097,2149 2097,2180 2066,2182 1917,2174 1428,2165"/>
+                <Baseline points="1431,2162 1865,2171 1885,2171 2097,2174"/>
+                <TextEquiv>
+                    <Unicode>Civilprozeßordnung keine Anwendung.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1652171635733_284" custom="readingOrder {index:25;}">
+                <Coords points="1504,2167 2523,2183 2521,2219 1503,2207"/>
+                <Baseline points="1513,2202 2518,2215"/>
+                <TextEquiv>
+                    <Unicode>Die Vorſchriften in §§. 464 und 468 der Civilprozeß⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_1l25" custom="readingOrder {index:26;}">
+                <Coords points="1431,2217 1467,2209 1548,2209 1844,2211 2427,2218 2426,2259 2288,2259 1523,2250 1431,2241"/>
+                <Baseline points="1431,2241 1574,2242 1593,2242 1695,2243 1715,2243 1786,2244 1805,2244 1860,2245 1879,2245 1938,2246 1957,2246 2130,2248 2151,2249 2268,2250 2288,2250 2426,2252"/>
+                <TextEquiv>
+                    <Unicode>ordnung gelten auch für das Verfahren zweiter Inſtanz.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_1l26" custom="readingOrder {index:27;}">
+                <Coords points="1943,2276 1964,2276 2015,2279 2023,2304 2023,2312 1964,2320 1943,2320"/>
+                <Baseline points="1943,2310 1971,2310 1993,2311 2023,2312"/>
+                <TextEquiv>
+                    <Unicode>§. 9.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_1l27" custom="readingOrder {index:28;}">
+                <Coords points="1514,2319 1577,2319 1950,2320 2275,2328 2410,2332 2527,2339 2533,2372 2410,2370 2309,2370 1629,2364 1514,2354"/>
+                <Baseline points="1514,2354 1577,2355 1607,2355 1950,2361 1982,2361 2027,2362 2058,2362 2275,2365 2309,2365 2419,2367 2453,2367 2527,2368"/>
+                <TextEquiv>
+                    <Unicode>Die Zwangsvollſtreckung im Schutzgebiete erfolgt aus⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_1l28" custom="readingOrder {index:29;}">
+                <Coords points="1432,2357 1589,2358 2528,2372 2532,2416 2433,2413 1432,2399"/>
+                <Baseline points="1434,2392 1589,2394 1622,2395 1678,2396 1738,2397 1783,2398 1815,2399 1868,2400 1888,2400 2066,2402 2097,2403 2148,2404 2203,2405 2378,2407 2435,2408 2531,2408"/>
+                <TextEquiv>
+                    <Unicode>ſchließlich durch die zur Ausübung der Gerichtsbarkeit erſter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_1l29" custom="readingOrder {index:30;}">
+                <Coords points="1434,2435 1434,2397 1477,2398 1550,2398 2456,2412 2528,2415 2528,2447 2494,2451 2379,2452 1477,2441"/>
+                <Baseline points="1435,2431 1565,2434 1597,2434 1626,2435 1720,2437 1802,2439 1822,2439 1971,2442 2014,2443 2118,2443 2138,2443 2228,2444 2282,2445 2456,2446 2474,2447 2528,2447"/>
+                <TextEquiv>
+                    <Unicode>Inſtanz ermächtigten Beamten, welche unter Oberaufſicht des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_1l30" custom="readingOrder {index:31;}">
+                <Coords points="1436,2438 1680,2443 1727,2443 2370,2450 2496,2452 2526,2463 2529,2492 2498,2491 2430,2492 1434,2474"/>
+                <Baseline points="1434,2472 1658,2476 1680,2476 1727,2477 1747,2478 1882,2480 2025,2482 2117,2483 2138,2483 2370,2485 2457,2486 2525,2486"/>
+                <TextEquiv>
+                    <Unicode>Gouverneurs die hierfür erforderlichen Anordnungen erlaſſen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_1l31" custom="readingOrder {index:32;}">
+                <Coords points="1430,2474 1504,2479 2460,2492 2529,2499 2533,2529 2349,2532 2139,2532 1543,2519 1430,2517"/>
+                <Baseline points="1434,2510 1502,2511 1521,2514 1735,2519 1757,2519 1838,2521 1864,2522 2100,2524 2122,2524 2349,2525 2369,2525 2460,2526 2495,2526 2529,2526"/>
+                <TextEquiv>
+                    <Unicode>Der Beibringung einer vollſtreckbaren Ausfertigung bedarf es</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_1l32" custom="readingOrder {index:33;}">
+                <Coords points="1435,2527 1450,2519 1998,2529 2287,2535 2464,2528 2484,2532 2515,2539 2528,2548 2528,2562 2527,2570 2476,2574 2379,2571 2006,2568 1450,2559 1435,2552"/>
+                <Baseline points="1435,2552 1521,2554 1552,2555 1654,2557 1686,2558 1807,2561 1839,2561 1900,2562 1921,2562 1987,2563 2001,2563 2140,2564 2149,2564 2292,2566 2306,2566 2357,2566 2374,2566 2528,2564"/>
+                <TextEquiv>
+                    <Unicode>nicht, ſoweit dieſelbe von dem Gerichtsſchreiber der Gerichts⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_1l33" custom="readingOrder {index:34;}">
+                <Coords points="1435,2559 1543,2559 2201,2568 2425,2572 2484,2575 2528,2578 2528,2615 2467,2615 1911,2613 1435,2600"/>
+                <Baseline points="1435,2593 1569,2595 1592,2596 1678,2599 1699,2599 1800,2601 1821,2601 1867,2602 1888,2602 2231,2606 2251,2606 2288,2606 2310,2607 2446,2608 2467,2608 2528,2609"/>
+                <TextEquiv>
+                    <Unicode>behörde, durch welche die Zwangsvollſtreckung zu erfolgen hat,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_1l34" custom="readingOrder {index:35;}">
+                <Coords points="1436,2609 1493,2602 1635,2602 1719,2604 1847,2611 1860,2622 1865,2635 1853,2645 1640,2643 1504,2639 1436,2642"/>
+                <Baseline points="1436,2634 1471,2635 1493,2635 1635,2637 1657,2638 1719,2640 1740,2640 1850,2642"/>
+                <TextEquiv>
+                    <Unicode>zu ertheilen ſein würde.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_1l35" custom="readingOrder {index:36;}">
+                <Coords points="1517,2643 1551,2643 2470,2654 2493,2655 2530,2665 2530,2697 2471,2701 2413,2697 1572,2684 1511,2679"/>
+                <Baseline points="1517,2677 1579,2678 1613,2679 1666,2680 1695,2680 1872,2684 1907,2684 1957,2685 1993,2685 2245,2687 2279,2688 2366,2689 2400,2689 2530,2688"/>
+                <TextEquiv>
+                    <Unicode>Die zur Ausübung der Gerichtsbarkeit erſter Inſtanz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_1l36" custom="readingOrder {index:37;}">
+                <Coords points="1438,2690 1454,2684 1643,2684 2360,2696 2530,2702 2533,2734 2499,2736 2411,2736 1671,2727 1460,2722 1438,2716"/>
+                <Baseline points="1438,2716 1643,2719 1666,2720 1815,2723 1847,2723 1962,2725 1994,2725 2065,2726 2088,2726 2281,2727 2310,2728 2360,2728 2411,2729 2530,2727"/>
+                <TextEquiv>
+                    <Unicode>ermächtigten Beamten können nach Anordnung der Zwangs⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_1l37" custom="readingOrder {index:38;}">
+                <Coords points="1438,2731 1453,2723 1567,2726 2506,2736 2528,2745 2528,2777 2505,2778 2408,2778 1463,2762 1438,2757"/>
+                <Baseline points="1438,2756 1646,2760 1660,2760 1716,2761 1738,2761 1788,2762 1799,2763 2006,2766 2027,2766 2137,2767 2150,2767 2305,2769 2320,2769 2397,2769 2408,2769 2528,2771"/>
+                <TextEquiv>
+                    <Unicode>vollſtredung mit der Ausführung andere Perſonen beauftragen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_1l38" custom="readingOrder {index:39;}">
+                <Coords points="1437,2772 1453,2764 1524,2764 1958,2769 2308,2775 2338,2785 2346,2802 2348,2815 2308,2816 2242,2816 2002,2815 1803,2813 1453,2805 1437,2797"/>
+                <Baseline points="1437,2797 1539,2799 1562,2799 1630,2800 1652,2801 1737,2803 1759,2803 1981,2806 2002,2807 2037,2807 2059,2807 2220,2809 2242,2809 2346,2810"/>
+                <TextEquiv>
+                    <Unicode>welche nach ihren Anweiſungen zu verfahren haben.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_1l39" custom="readingOrder {index:40;}">
+                <Coords points="1934,2829 1954,2829 2026,2833 2034,2858 2034,2865 1954,2874 1934,2874"/>
+                <Baseline points="1934,2861 1962,2861 1988,2863 2034,2863"/>
+                <TextEquiv>
+                    <Unicode>§. 10.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_1l40" custom="readingOrder {index:41;}">
+                <Coords points="1517,2873 1746,2873 2030,2877 2514,2884 2531,2890 2535,2922 2514,2923 2377,2923 1518,2913"/>
+                <Baseline points="1517,2907 1746,2911 1769,2911 2030,2915 2065,2916 2176,2917 2197,2917 2258,2917 2291,2917 2356,2918 2377,2918 2531,2919"/>
+                <TextEquiv>
+                    <Unicode>Vollſtreckbare Ausfertigungen dürfen von dem Gerichts⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_1l41" custom="readingOrder {index:42;}">
+                <Coords points="1436,2912 1478,2912 2463,2924 2483,2926 2497,2928 2533,2928 2530,2940 2530,2954 2528,2965 2483,2966 1478,2955 1433,2952"/>
+                <Baseline points="1441,2946 1577,2949 1597,2949 1658,2950 1679,2951 1735,2951 1756,2952 1948,2954 1970,2954 2022,2955 2044,2955 2097,2956 2113,2956 2292,2958 2313,2958 2363,2958 2377,2959 2529,2957"/>
+                <TextEquiv>
+                    <Unicode>ſchreiber nur auf Anordnung des zur Ausübung der Gerichts⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_1l42" custom="readingOrder {index:43;}">
+                <Coords points="1433,2954 1497,2954 1542,2954 1778,2957 1904,2959 2087,2962 2219,2965 2235,2974 2235,2998 2087,3009 1972,3003 1578,3000 1431,2992"/>
+                <Baseline points="1433,2985 1550,2989 1571,2989 1778,2993 1799,2994 1947,2996 1969,2996 2087,2997 2108,2997 2235,2998"/>
+                <TextEquiv>
+                    <Unicode>barkeit ermächtigten Beamten ertheilt werden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_1l43" custom="readingOrder {index:44;}">
+                <Coords points="1935,3019 1954,3019 2034,3022 2034,3054 1954,3064 1935,3064"/>
+                <Baseline points="1935,3053 1962,3054 1987,3054 2034,3053"/>
+                <TextEquiv>
+                    <Unicode>§. 11.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_1l44" custom="readingOrder {index:45;}">
+                <Coords points="1521,3063 1547,3063 2507,3071 2530,3084 2530,3109 2507,3121 2485,3121 2013,3114 1591,3107 1514,3103"/>
+                <Baseline points="1521,3098 1570,3099 1591,3099 1787,3102 1808,3102 1901,3103 1922,3104 1968,3104 1979,3104 2295,3107 2316,3107 2390,3108 2412,3108 2458,3109 2469,3109 2530,3109"/>
+                <TextEquiv>
+                    <Unicode>In Strafſachen findet die Hauptverhandlung ohne die Zu⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_1l45" custom="readingOrder {index:46;}">
+                <Coords points="1434,3104 1498,3104 1851,3110 2341,3114 2515,3117 2530,3126 2531,3153 2341,3154 2196,3154 1490,3143 1435,3143"/>
+                <Baseline points="1437,3137 1564,3138 1599,3139 1659,3140 1695,3141 1851,3144 1886,3144 1966,3145 2000,3145 2090,3146 2125,3146 2176,3147 2196,3147 2341,3148 2375,3149 2450,3149 2484,3150 2530,3150"/>
+                <TextEquiv>
+                    <Unicode>ziehung von Beiſitzern ſtatt, wenn der Beſchluß über die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_1l46" custom="readingOrder {index:47;}">
+                <Coords points="1437,3141 1507,3145 1561,3145 1936,3149 2491,3158 2533,3162 2533,3184 2529,3195 2491,3197 2415,3197 1726,3192 1541,3188 1507,3185 1435,3180"/>
+                <Baseline points="1437,3178 1616,3180 1652,3180 1704,3181 1724,3182 2008,3185 2040,3186 2106,3187 2126,3187 2296,3189 2326,3189 2394,3190 2415,3190 2534,3188"/>
+                <TextEquiv>
+                    <Unicode>Eröffnung des Hauptverfahrens eine Handlung zum Gegen⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_1l47" custom="readingOrder {index:48;}">
+                <Coords points="1440,3184 1475,3184 2442,3195 2515,3198 2532,3207 2532,3232 2442,3237 2176,3237 1895,3234 1585,3228 1440,3225"/>
+                <Baseline points="1440,3219 1543,3220 1564,3220 1627,3221 1659,3222 1759,3223 1780,3223 1832,3224 1853,3224 2073,3228 2105,3228 2155,3228 2176,3228 2442,3231 2463,3231 2532,3231"/>
+                <TextEquiv>
+                    <Unicode>ſtande hat, welche zur Zuſtändigkeit der Schöffengerichte oder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_1l48" custom="readingOrder {index:49;}">
+                <Coords points="1440,3231 1508,3228 1525,3228 1777,3229 2431,3234 2504,3237 2532,3247 2534,3275 2431,3278 2014,3278 1469,3265 1439,3266"/>
+                <Baseline points="1439,3260 1477,3260 1508,3261 1563,3261 1596,3262 1630,3262 1661,3263 1717,3263 1737,3264 1784,3264 1807,3264 1856,3265 1879,3265 1919,3266 1939,3266 1992,3268 2014,3268 2463,3271 2486,3271 2532,3272"/>
+                <TextEquiv>
+                    <Unicode>zu den in den §§. 74, 75 des Gerichtsverfaſſungsgeſetzes be⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_1l49" custom="readingOrder {index:50;}">
+                <Coords points="1439,3276 1453,3266 1453,3266 1597,3266 1734,3269 1855,3273 1898,3276 1907,3299 1907,3308 1855,3314 1796,3314 1645,3312 1439,3308"/>
+                <Baseline points="1439,3301 1597,3303 1619,3304 1774,3306 1796,3306 1907,3308"/>
+                <TextEquiv>
+                    <Unicode>zeichneten Vergehen gehört.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_1l50" custom="readingOrder {index:51;}">
+                <Coords points="1931,3334 2004,3333 2004,3333 2025,3333 2033,3359 2033,3366 1951,3373 1931,3373"/>
+                <Baseline points="1931,3366 1960,3366 1987,3366 2033,3366"/>
+                <TextEquiv>
+                    <Unicode>§. 12.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_1l51" custom="readingOrder {index:52;}">
+                <Coords points="1522,3377 1570,3377 1742,3378 2492,3386 2531,3393 2536,3421 2233,3426 2154,3426 1619,3419 1518,3416"/>
+                <Baseline points="1522,3411 1588,3412 1609,3412 1791,3414 1812,3414 1890,3415 1911,3415 1966,3416 1987,3416 2089,3417 2111,3417 2233,3418 2253,3418 2323,3419 2343,3419 2404,3420 2426,3420 2530,3419"/>
+                <TextEquiv>
+                    <Unicode>Der Angeklagte kann auf ſeinen Antrag oder von Amts⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_1l52" custom="readingOrder {index:53;}">
+                <Coords points="1438,3422 1782,3421 1832,3421 2511,3425 2531,3433 2531,3461 2511,3467 1726,3461 1470,3458 1439,3451"/>
+                <Baseline points="1439,3450 1541,3452 1583,3452 1684,3453 1725,3454 1832,3455 1874,3455 2068,3457 2110,3458 2206,3458 2248,3459 2531,3461"/>
+                <TextEquiv>
+                    <Unicode>wegen wegen großer Entfernung ſeines Aufenthaltsortes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_1l53" custom="readingOrder {index:54;}">
+                <Coords points="1441,3467 1456,3459 1510,3459 1795,3460 2432,3465 2531,3477 2531,3502 2432,3509 2227,3506 1657,3502 1553,3500 1436,3497"/>
+                <Baseline points="1441,3492 1510,3492 1530,3492 1633,3495 1654,3496 1795,3496 1847,3496 2005,3498 2038,3498 2100,3498 2134,3499 2183,3499 2207,3499 2432,3501 2479,3502 2531,3502"/>
+                <TextEquiv>
+                    <Unicode>oder wegen ſonſtiger Hinderniſſe von der Verpflichtung zum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_1l54" custom="readingOrder {index:55;}">
+                <Coords points="1439,3498 1611,3498 2364,3507 2536,3515 2536,3548 2497,3546 2145,3545 1902,3544 1439,3538"/>
+                <Baseline points="1439,3532 1611,3534 1652,3534 1685,3535 1735,3535 1786,3536 1878,3537 2145,3539 2194,3540 2364,3541 2405,3541 2534,3542"/>
+                <TextEquiv>
+                    <Unicode>Erſcheinen in der Hauptverhandlung entbunden werden,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_1l55" custom="readingOrder {index:56;}">
+                <Coords points="1440,3544 1572,3541 2366,3546 2507,3548 2536,3551 2533,3590 2518,3594 2365,3594 1572,3581 1439,3576"/>
+                <Baseline points="1439,3573 1529,3574 1560,3574 1629,3575 1662,3575 1726,3576 1747,3576 1900,3578 1928,3579 1978,3579 2000,3580 2265,3582 2296,3582 2533,3584"/>
+                <TextEquiv>
+                    <Unicode>wenn nach dem Ermeſſen der Gerichtsbehörde vorausſichtlich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_1l56" custom="readingOrder {index:57;}">
+                <Coords points="1441,3580 1509,3580 2120,3585 2355,3588 2430,3590 2509,3594 2531,3600 2543,3628 2355,3629 2223,3629 1893,3628 1688,3623 1440,3618"/>
+                <Baseline points="1441,3614 1521,3615 1542,3615 1650,3616 1671,3616 1783,3617 1804,3618 1856,3618 1877,3618 2120,3621 2152,3621 2202,3622 2223,3622 2258,3622 2280,3622 2355,3623 2378,3623 2533,3624"/>
+                <TextEquiv>
+                    <Unicode>keine andere Strafe als Freiheitsſtrafe bis zu ſechs Monaten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_1l57" custom="readingOrder {index:58;}">
+                <Coords points="1440,3629 1460,3622 1701,3622 2395,3629 2470,3632 2533,3640 2533,3672 2332,3672 1473,3661 1440,3655"/>
+                <Baseline points="1440,3655 1510,3656 1531,3656 1701,3658 1734,3658 1803,3659 1824,3659 2010,3661 2043,3661 2135,3662 2166,3662 2236,3662 2267,3663 2301,3663 2332,3663 2533,3665"/>
+                <TextEquiv>
+                    <Unicode>oder Geldſtrafe oder Einziehung allein oder in Verbindung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_1l58" custom="readingOrder {index:59;}">
+                <Coords points="1440,3671 1458,3665 1519,3663 1569,3663 1958,3667 1967,3668 1988,3673 1988,3702 1967,3708 1910,3708 1683,3706 1440,3700"/>
+                <Baseline points="1440,3695 1497,3696 1519,3696 1663,3698 1683,3698 1720,3698 1741,3699 1888,3700 1910,3701 1988,3702"/>
+                <TextEquiv>
+                    <Unicode>mit einander zu erwarten ſteht.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_1l59" custom="readingOrder {index:60;}">
+                <Coords points="1931,3728 2000,3727 2000,3727 2021,3727 2030,3752 2030,3760 1949,3767 1931,3767"/>
+                <Baseline points="1931,3759 1958,3759 1983,3759 2030,3760"/>
+                <TextEquiv>
+                    <Unicode>§. 13.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_1l60" custom="readingOrder {index:61;}">
+                <Coords points="1524,3771 1563,3771 1763,3772 2306,3777 2513,3779 2534,3789 2534,3814 2513,3820 2390,3820 2104,3819 1607,3814 1524,3806"/>
+                <Baseline points="1524,3806 1586,3807 1607,3807 1856,3810 1877,3810 1910,3810 1931,3810 1987,3811 2008,3811 2060,3811 2086,3811 2306,3813 2327,3813 2377,3813 2390,3813 2534,3814"/>
+                <TextEquiv>
+                    <Unicode>Die Gerichtsbarkeit in den zur Zuſtändigkeit der Schwur⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_1l61" custom="readingOrder {index:62;}">
+                <Coords points="1439,3816 1495,3812 1564,3812 2348,3818 2443,3821 2534,3830 2541,3858 2348,3861 2169,3861 1829,3857 1585,3854 1507,3852 1442,3852"/>
+                <Baseline points="1442,3845 1564,3846 1585,3846 1768,3849 1781,3849 1899,3851 1920,3851 1997,3851 2019,3851 2073,3851 2095,3851 2153,3851 2169,3851 2367,3853 2388,3853 2443,3854 2464,3854 2534,3854"/>
+                <TextEquiv>
+                    <Unicode>gerichte gehörenden Sachen wird für das Schutzgebiet den vom</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_1l62" custom="readingOrder {index:63;}">
+                <Coords points="1437,3852 1466,3853 1563,3853 2270,3857 2464,3860 2478,3861 2535,3870 2535,3902 1611,3895 1484,3890 1439,3888"/>
+                <Baseline points="1441,3888 1463,3887 1466,3887 1563,3887 1607,3888 1663,3889 1684,3889 1719,3889 1741,3890 1959,3892 1981,3892 2270,3894 2299,3894 2386,3894 2406,3894 2535,3895"/>
+                <TextEquiv>
+                    <Unicode>Reichskanzler zu bezeichnenden Gerichtsbehörden erſter Inſtanz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_1l63" custom="readingOrder {index:64;}">
+                <Coords points="1439,3891 1624,3898 1631,3921 1631,3928 1600,3935 1558,3935 1438,3929"/>
+                <Baseline points="1443,3926 1631,3928"/>
+                <TextEquiv>
+                    <Unicode>übertragen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_1l64" custom="readingOrder {index:65;}">
+                <Coords points="1524,3934 1551,3934 2451,3941 2460,3942 2536,3951 2536,3983 2432,3983 1757,3979 1524,3976"/>
+                <Baseline points="1524,3969 1591,3970 1626,3970 1700,3970 1736,3971 1855,3972 1887,3972 1987,3974 2022,3974 2069,3974 2101,3974 2301,3975 2323,3975 2536,3975"/>
+                <TextEquiv>
+                    <Unicode>Für dieſe Sachen finden die Vorſchriften Anwendung,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_1l65" custom="readingOrder {index:66;}">
+                <Coords points="1442,3984 1488,3975 1544,3975 1843,3977 2512,3982 2533,3992 2533,4016 2512,4022 2166,4023 2051,4023 1823,4021 1501,4016 1439,4011"/>
+                <Baseline points="1442,4009 1544,4010 1579,4011 1630,4011 1665,4011 1711,4012 1745,4012 1789,4013 1823,4012 1851,4012 1887,4013 1927,4014 1963,4014 2014,4015 2051,4015 2183,4015 2204,4016 2279,4016 2300,4016 2346,4016 2366,4016 2533,4013"/>
+                <TextEquiv>
+                    <Unicode>welche für die im §. 28 des Geſetzes über die Konſular⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_1l66" custom="readingOrder {index:67;}">
+                <Coords points="1442,4026 1455,4017 1455,4017 1605,4017 1889,4018 2216,4023 2232,4032 2232,4055 2216,4062 1968,4062 1455,4057 1442,4056"/>
+                <Baseline points="1442,4049 1675,4051 1697,4051 1889,4054 1910,4054 2105,4055 2127,4055 2232,4054"/>
+                <TextEquiv>
+                    <Unicode>gerichtsbarkeit bezeichneten Strafſachen gelten.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_1l67" custom="readingOrder {index:68;}">
+                <Coords points="1934,4078 1954,4078 2028,4078 2033,4106 2038,4119 1954,4122 1934,4122"/>
+                <Baseline points="1934,4113 1962,4113 1987,4113 2033,4114"/>
+                <TextEquiv>
+                    <Unicode>§. 14.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_1l68" custom="readingOrder {index:69;}">
+                <Coords points="1525,4125 2484,4125 2504,4130 2538,4140 2538,4164 2515,4169 2476,4170 2433,4170 1525,4166"/>
+                <Baseline points="1525,4160 1575,4160 1604,4161 1799,4162 1831,4163 1923,4163 1954,4164 2009,4164 2041,4164 2093,4164 2127,4164 2391,4164 2422,4164 2538,4164"/>
+                <TextEquiv>
+                    <Unicode>In Strafſachen findet vor der Gerichtsbehörde zweiter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_1l69" custom="readingOrder {index:70;}">
+                <Coords points="1437,4165 1489,4166 1574,4166 2450,4170 2509,4171 2538,4179 2538,4204 2456,4209 2318,4213 1493,4206 1439,4204"/>
+                <Baseline points="1443,4199 1574,4201 1616,4201 1650,4201 1684,4202 1789,4202 1831,4202 1885,4203 1926,4203 1972,4204 2039,4204 2187,4203 2228,4204 2280,4204 2314,4204 2450,4204 2491,4204 2538,4203"/>
+                <TextEquiv>
+                    <Unicode>Inſtanz in Bezug auf die Zuziehung der Beiſitzer die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_1l70" custom="readingOrder {index:71;}">
+                <Coords points="1440,4206 1491,4206 1610,4206 2522,4211 2539,4220 2539,4244 2374,4252 1920,4252 1491,4247 1445,4244"/>
+                <Baseline points="1446,4241 1605,4242 1640,4242 1693,4242 1774,4242 1816,4243 1846,4243 1899,4244 1920,4244 2374,4244 2404,4244 2460,4244 2489,4244 2539,4244"/>
+                <TextEquiv>
+                    <Unicode>Vorſchrift des §. 30 des Gerichtsverfaſſungsgeſetzes mit der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_1l71" custom="readingOrder {index:72;}">
+                <Coords points="1445,4256 1459,4246 1499,4246 2543,4251 2539,4284 2432,4292 1597,4292 1445,4281"/>
+                <Baseline points="1445,4281 1521,4281 1542,4281 1576,4281 1597,4281 1624,4281 1641,4281 1659,4281 1681,4282 1784,4282 1802,4282 1816,4284 1840,4284 2031,4285 2046,4285 2207,4286 2252,4286 2432,4284 2467,4284 2539,4284"/>
+                <TextEquiv>
+                    <Unicode>oben in §. 7 Abſatz 1 bezeichneten Maßgabe Anwendung. Den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_1l72" custom="readingOrder {index:73;}">
+                <Coords points="1445,4288 1542,4288 2520,4291 2541,4300 2541,4324 2520,4331 1586,4329 1517,4328 1445,4322"/>
+                <Baseline points="1445,4322 1504,4322 1530,4322 1594,4323 1619,4323 1670,4323 1702,4324 1991,4325 2025,4325 2176,4325 2211,4325 2268,4325 2300,4325 2430,4325 2465,4325 2541,4324"/>
+                <TextEquiv>
+                    <Unicode>Umfang der Beweisaufnahme beſtimmt das Gericht, ohne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_1l73" custom="readingOrder {index:74;}">
+                <Coords points="1444,4330 1510,4329 1556,4329 2447,4330 2541,4339 2541,4364 2519,4373 1661,4370 1620,4369 1441,4370"/>
+                <Baseline points="1444,4362 1556,4363 1597,4363 1662,4364 1862,4366 2008,4366 2039,4366 2111,4366 2143,4366 2266,4366 2296,4365 2463,4365 2493,4365 2541,4364"/>
+                <TextEquiv>
+                    <Unicode>hierbei durch Anträge, Verzichte oder frühere Beſchlüſſe ge⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_1l74" custom="readingOrder {index:75;}">
+                <Coords points="1441,4370 1500,4369 1568,4373 1713,4370 1713,4404 1622,4410 1586,4410 1440,4404"/>
+                <Baseline points="1444,4402 1565,4403 1586,4403 1622,4404 1655,4404 1713,4404"/>
+                <TextEquiv>
+                    <Unicode>bunden zu ſein.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_1l75" custom="readingOrder {index:76;}">
+                <Coords points="1527,4411 2513,4411 2531,4414 2541,4437 2541,4445 2513,4452 2226,4453 1808,4454 1624,4454 1527,4445"/>
+                <Baseline points="1527,4445 1589,4446 1603,4446 1808,4446 1822,4446 1904,4447 1919,4447 2245,4446 2267,4446 2359,4446 2373,4446 2449,4446 2463,4446 2541,4443"/>
+                <TextEquiv>
+                    <Unicode>Die Mitwirkung einer Staatsanwaltſchaft findet nicht ſtatt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_1l76" custom="readingOrder {index:77;}">
+                <Coords points="1527,4451 1566,4451 2445,4452 2543,4453 2543,4492 2255,4490 2075,4496 1625,4492 1527,4488"/>
+                <Baseline points="1527,4485 1594,4485 1625,4485 1701,4486 1732,4486 1786,4486 1818,4486 1922,4487 1953,4487 2039,4487 2073,4487 2245,4486 2276,4486 2460,4485 2491,4485 2543,4485"/>
+                <TextEquiv>
+                    <Unicode>Der nicht auf freiem Fuße befindliche Angeklagte hat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_1l77" custom="readingOrder {index:78;}">
+                <Coords points="1446,4493 1463,4492 1463,4492 1599,4492 2365,4493 2543,4500 2543,4526 2365,4535 2049,4535 1463,4534 1446,4527"/>
+                <Baseline points="1446,4527 1599,4527 1621,4527 1675,4527 1696,4527 1904,4529 1923,4529 1958,4529 1978,4529 2029,4529 2049,4529 2380,4527 2400,4526 2490,4526 2511,4526 2543,4526"/>
+                <TextEquiv>
+                    <Unicode>Anſpruch auf Anweſenheit in der Hauptverhandlung, wenn er</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_1l78" custom="readingOrder {index:79;}">
+                <Coords points="1446,4533 1632,4533 2198,4534 2222,4536 2231,4558 2231,4567 2196,4574 2096,4576 1461,4574 1446,4572"/>
+                <Baseline points="1446,4566 1497,4567 1519,4567 1569,4567 1592,4567 1669,4567 1690,4567 1742,4568 1763,4568 2071,4569 2093,4568 2231,4567"/>
+                <TextEquiv>
+                    <Unicode>ſich am Orte des Berufungsgerichts befindet.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_1l79" custom="readingOrder {index:80;}">
+                <Coords points="1527,4574 1776,4573 2439,4572 2545,4572 2548,4609 2273,4612 2072,4614 1527,4615"/>
+                <Baseline points="1527,4607 1578,4607 1609,4607 1666,4608 1698,4608 1742,4608 1776,4608 1804,4608 1829,4608 1867,4608 1898,4609 2000,4609 2023,4609 2039,4609 2072,4609 2266,4608 2287,4608 2412,4604 2440,4604 2477,4605 2499,4602 2545,4605"/>
+                <TextEquiv>
+                    <Unicode>In den im §. 13 Abſatz 1 bezeichneten Sachen iſt die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_1l80" custom="readingOrder {index:81;}">
+                <Coords points="1445,4614 2365,4609 2547,4609 2547,4651 2368,4654 2000,4655 1466,4656 1445,4649"/>
+                <Baseline points="1445,4648 1686,4649 1727,4649 1798,4649 1839,4649 1873,4650 1915,4650 1965,4650 2000,4650 2300,4648 2340,4647 2380,4647 2408,4647 2547,4646"/>
+                <TextEquiv>
+                    <Unicode>Vertheidigung auch in der Berufungsinſtanz nothwendig.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_1l81" custom="readingOrder {index:82;}">
+                <Coords points="1447,4655 2409,4652 2527,4652 2551,4656 2549,4687 2527,4690 2289,4696 1447,4696"/>
+                <Baseline points="1447,4689 1494,4689 1524,4690 1574,4689 1627,4689 1913,4691 1944,4691 1979,4691 2011,4691 2056,4691 2141,4692 2298,4689 2328,4688 2382,4688 2409,4687 2547,4685"/>
+                <TextEquiv>
+                    <Unicode>In der Hauptverhandlung iſt die Anweſenheit des Verthei⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_1l82" custom="readingOrder {index:83;}">
+                <Coords points="1447,4696 2455,4692 2550,4692 2550,4733 2427,4738 1501,4736 1446,4736"/>
+                <Baseline points="1447,4731 1550,4731 1572,4731 1773,4730 1810,4731 1860,4731 1881,4731 1908,4730 1933,4730 1993,4731 2013,4731 2064,4731 2085,4731 2434,4728 2455,4727 2550,4726"/>
+                <TextEquiv>
+                    <Unicode>digers erforderlich; der §. 145 der Strafprozeßordnung findet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_1l83" custom="readingOrder {index:84;}">
+                <Coords points="1440,4736 1514,4736 1536,4736 1585,4740 1659,4747 1659,4776 1544,4777 1515,4776 1446,4770"/>
+                <Baseline points="1449,4769 1659,4770"/>
+                <TextEquiv>
+                    <Unicode>Anwendung.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_1l84" custom="readingOrder {index:85;}">
+                <Coords points="1532,4778 1613,4777 2456,4771 2477,4771 2551,4772 2557,4812 2477,4816 1737,4820 1532,4820"/>
+                <Baseline points="1532,4813 1591,4812 1613,4812 1766,4813 1787,4813 1931,4813 1951,4813 1986,4813 2006,4813 2054,4813 2075,4813 2133,4813 2154,4811 2361,4808 2381,4808 2426,4807 2456,4807 2486,4807 2509,4806 2551,4806"/>
+                <TextEquiv>
+                    <Unicode>Im Uebrigen verbleibt es bei den Vorſchriften im §. 40</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_14_1l85" custom="readingOrder {index:86;}">
+                <Coords points="1449,4818 1842,4817 1842,4817 2227,4817 2241,4818 2241,4849 2227,4860 1621,4861 1521,4861 1449,4852"/>
+                <Baseline points="1449,4852 1501,4852 1521,4852 1655,4853 1676,4853 1750,4854 1771,4854 1817,4854 1836,4853 2241,4849"/>
+                <TextEquiv>
+                    <Unicode>des Geſetzes über die Konſulargerichtsbarkeit.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>angeordnet werden, daß ſie eine daſelbſt wohnhafte Perſon&#13;
+zum Empfang der für ſie beſtimmten Schriftſtücke bevoll⸗&#13;
+mächtige. Dieſe Anordnung kann ohne mündliche Verhandlung&#13;
+erfolgen. Der Zuſtellungs⸗Bevollmächtigte iſt bei der nächſten&#13;
+gerichtlichen Verhandlung oder, wenn die Partei vorher dem&#13;
+Gegner einen Schriftſatz zuſtellen läßt, in dieſem zu benennen.&#13;
+Geſchieht dies nicht, ſo können alle ſpäteren Zuſtellungen bis&#13;
+zur nachträglichen Benennung durch Anheftung an die Gerichts⸗&#13;
+tafel bewirkt werden.&#13;
+Der Nachweis über die erfolgte Zuſtellung iſt zu den&#13;
+Gerichtsakten zu bringen.&#13;
+§. 8.&#13;
+In dem Verfahren vor der Gerichtsbehörde zweiter&#13;
+Inſtanz nehmen in bürgerlichen Rechtsſtreitigkeiten, in&#13;
+Konkursſachen und in den zur ſtreitigen Gerichtsbarkeit&#13;
+nicht gehörenden Angelegenheiten die Beiſitzer nur an&#13;
+der mündlichen Verhandlung, ſowie an den im Laufe&#13;
+oder auf Grund derſelben ergehenden Entſcheidungen Theil.&#13;
+Jedoch erfolgt die Entſcheidung über das Rechtsmittel der&#13;
+Beſchwerde unter Mitwirkung der Beiſitzer, wenn die an⸗&#13;
+gefochtene Entſcheidung unter Mitwirkung von Beiſitzern er⸗&#13;
+gangen iſt.&#13;
+In dem Verfahren zweiter Inſtanz iſt eine Vertretung&#13;
+durch Rechtsanwälte nicht geboten und findet der §. 269 der&#13;
+Civilprozeßordnung keine Anwendung.&#13;
+Die Vorſchriften in §§. 464 und 468 der Civilprozeß⸗&#13;
+ordnung gelten auch für das Verfahren zweiter Inſtanz.&#13;
+§. 9.&#13;
+Die Zwangsvollſtreckung im Schutzgebiete erfolgt aus⸗&#13;
+ſchließlich durch die zur Ausübung der Gerichtsbarkeit erſter&#13;
+Inſtanz ermächtigten Beamten, welche unter Oberaufſicht des&#13;
+Gouverneurs die hierfür erforderlichen Anordnungen erlaſſen.&#13;
+Der Beibringung einer vollſtreckbaren Ausfertigung bedarf es&#13;
+nicht, ſoweit dieſelbe von dem Gerichtsſchreiber der Gerichts⸗&#13;
+behörde, durch welche die Zwangsvollſtreckung zu erfolgen hat,&#13;
+zu ertheilen ſein würde.&#13;
+Die zur Ausübung der Gerichtsbarkeit erſter Inſtanz&#13;
+ermächtigten Beamten können nach Anordnung der Zwangs⸗&#13;
+vollſtredung mit der Ausführung andere Perſonen beauftragen,&#13;
+welche nach ihren Anweiſungen zu verfahren haben.&#13;
+§. 10.&#13;
+Vollſtreckbare Ausfertigungen dürfen von dem Gerichts⸗&#13;
+ſchreiber nur auf Anordnung des zur Ausübung der Gerichts⸗&#13;
+barkeit ermächtigten Beamten ertheilt werden.&#13;
+§. 11.&#13;
+In Strafſachen findet die Hauptverhandlung ohne die Zu⸗&#13;
+ziehung von Beiſitzern ſtatt, wenn der Beſchluß über die&#13;
+Eröffnung des Hauptverfahrens eine Handlung zum Gegen⸗&#13;
+ſtande hat, welche zur Zuſtändigkeit der Schöffengerichte oder&#13;
+zu den in den §§. 74, 75 des Gerichtsverfaſſungsgeſetzes be⸗&#13;
+zeichneten Vergehen gehört.&#13;
+§. 12.&#13;
+Der Angeklagte kann auf ſeinen Antrag oder von Amts⸗&#13;
+wegen wegen großer Entfernung ſeines Aufenthaltsortes&#13;
+oder wegen ſonſtiger Hinderniſſe von der Verpflichtung zum&#13;
+Erſcheinen in der Hauptverhandlung entbunden werden,&#13;
+wenn nach dem Ermeſſen der Gerichtsbehörde vorausſichtlich&#13;
+keine andere Strafe als Freiheitsſtrafe bis zu ſechs Monaten&#13;
+oder Geldſtrafe oder Einziehung allein oder in Verbindung&#13;
+mit einander zu erwarten ſteht.&#13;
+§. 13.&#13;
+Die Gerichtsbarkeit in den zur Zuſtändigkeit der Schwur⸗&#13;
+gerichte gehörenden Sachen wird für das Schutzgebiet den vom&#13;
+Reichskanzler zu bezeichnenden Gerichtsbehörden erſter Inſtanz&#13;
+übertragen.&#13;
+Für dieſe Sachen finden die Vorſchriften Anwendung,&#13;
+welche für die im §. 28 des Geſetzes über die Konſular⸗&#13;
+gerichtsbarkeit bezeichneten Strafſachen gelten.&#13;
+§. 14.&#13;
+In Strafſachen findet vor der Gerichtsbehörde zweiter&#13;
+Inſtanz in Bezug auf die Zuziehung der Beiſitzer die&#13;
+Vorſchrift des §. 30 des Gerichtsverfaſſungsgeſetzes mit der&#13;
+oben in §. 7 Abſatz 1 bezeichneten Maßgabe Anwendung. Den&#13;
+Umfang der Beweisaufnahme beſtimmt das Gericht, ohne&#13;
+hierbei durch Anträge, Verzichte oder frühere Beſchlüſſe ge⸗&#13;
+bunden zu ſein.&#13;
+Die Mitwirkung einer Staatsanwaltſchaft findet nicht ſtatt.&#13;
+Der nicht auf freiem Fuße befindliche Angeklagte hat&#13;
+Anſpruch auf Anweſenheit in der Hauptverhandlung, wenn er&#13;
+ſich am Orte des Berufungsgerichts befindet.&#13;
+In den im §. 13 Abſatz 1 bezeichneten Sachen iſt die&#13;
+Vertheidigung auch in der Berufungsinſtanz nothwendig.&#13;
+In der Hauptverhandlung iſt die Anweſenheit des Verthei⸗&#13;
+digers erforderlich; der §. 145 der Strafprozeßordnung findet&#13;
+Anwendung.&#13;
+Im Uebrigen verbleibt es bei den Vorſchriften im §. 40&#13;
+des Geſetzes über die Konſulargerichtsbarkeit.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_15_1" custom="readingOrder {index:12;} structure {type:paragraph;}">
+            <Coords points="2558,1149 3669,1146 3691,2958 2582,2962"/>
+            <TextLine id="r_15_1l0" custom="readingOrder {index:0;}">
+                <Coords points="3051,1162 3071,1162 3142,1165 3159,1185 3155,1203 3071,1206 3051,1206"/>
+                <Baseline points="3051,1197 3079,1197 3104,1197 3149,1198"/>
+                <TextEquiv>
+                    <Unicode>§. 15.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_1l1" custom="readingOrder {index:1;}">
+                <Coords points="2645,1210 2876,1210 3547,1215 3652,1228 3652,1262 3615,1262 2736,1252 2645,1245"/>
+                <Baseline points="2645,1245 2706,1245 2726,1245 2919,1247 2951,1247 2986,1247 3020,1247 3105,1248 3133,1248 3303,1249 3334,1250 3403,1251 3424,1251 3584,1253 3615,1253 3652,1253"/>
+                <TextEquiv>
+                    <Unicode>Die Todesſtrafe iſt durch Erſchießen oder Erhängen zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_1l2" custom="readingOrder {index:2;}">
+                <Coords points="2564,1260 2576,1250 2576,1250 2705,1250 2740,1261 2750,1278 2750,1285 2691,1289 2576,1289 2564,1284"/>
+                <Baseline points="2564,1284 2750,1285"/>
+                <TextEquiv>
+                    <Unicode>vollſtrecken.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_1l3" custom="readingOrder {index:3;}">
+                <Coords points="2646,1291 2680,1291 3096,1293 3513,1296 3650,1299 3650,1335 2984,1335 2646,1326"/>
+                <Baseline points="2646,1326 2712,1326 2746,1326 2951,1328 2984,1328 3151,1330 3195,1330 3298,1330 3339,1331 3389,1332 3427,1332 3530,1334 3561,1334 3650,1335"/>
+                <TextEquiv>
+                    <Unicode>Der Gouverneur beſtimmt, welche der beiden Voll⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_1l4" custom="readingOrder {index:4;}">
+                <Coords points="2566,1331 2786,1331 3446,1336 3549,1339 3549,1380 3488,1380 3025,1376 2581,1372 2566,1370"/>
+                <Baseline points="2566,1364 2814,1366 2835,1367 2868,1367 2889,1367 2955,1368 2976,1368 3128,1369 3153,1368 3239,1370 3283,1370 3467,1372 3488,1373 3549,1373"/>
+                <TextEquiv>
+                    <Unicode>ſtreckungsarten in dem einzelnen Falle ſtattzufinden hat.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_1l5" custom="readingOrder {index:5;}">
+                <Coords points="3061,1395 3129,1394 3162,1394 3166,1432 3082,1434 3061,1434"/>
+                <Baseline points="3061,1427 3092,1427 3115,1427 3162,1426"/>
+                <TextEquiv>
+                    <Unicode>§. 16.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_1l6" custom="readingOrder {index:6;}">
+                <Coords points="2648,1440 2976,1440 3451,1443 3653,1446 3653,1490 3536,1490 2648,1481"/>
+                <Baseline points="2648,1474 2697,1474 2718,1474 2782,1475 2804,1475 2976,1476 3004,1477 3059,1477 3091,1477 3145,1477 3167,1478 3451,1481 3472,1481 3516,1481 3536,1481 3653,1482"/>
+                <TextEquiv>
+                    <Unicode>In dem Verfahren vor den Gerichtsbehörden im Schutz⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_1l7" custom="readingOrder {index:7;}">
+                <Coords points="2567,1489 2601,1480 3034,1477 3172,1477 3651,1489 3654,1526 3221,1526 3032,1521 2567,1520"/>
+                <Baseline points="2567,1513 2677,1514 2712,1514 2813,1515 2847,1515 2905,1515 2940,1516 3187,1517 3209,1517 3254,1518 3295,1518 3358,1519 3399,1520 3446,1520 3479,1521 3654,1523"/>
+                <TextEquiv>
+                    <Unicode>gebiete finden das Gerichtskoſtengeſetz und die Gebühren⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_1l8" custom="readingOrder {index:8;}">
+                <Coords points="2569,1529 2605,1521 2605,1521 2801,1521 3176,1522 3656,1527 3656,1571 3562,1571 2874,1565 2691,1562 2569,1554"/>
+                <Baseline points="2569,1554 2747,1555 2788,1556 2840,1556 2874,1556 3176,1559 3217,1559 3270,1560 3303,1560 3425,1560 3466,1561 3528,1562 3562,1562 3656,1563"/>
+                <TextEquiv>
+                    <Unicode>ordnungen für Gerichtsvollzieher, für Zeugen und Sach⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_1l9" custom="readingOrder {index:9;}">
+                <Coords points="2567,1570 2621,1561 2621,1561 2634,1561 3534,1566 3534,1608 3378,1608 2718,1602 2621,1600 2567,1595"/>
+                <Baseline points="2567,1594 2762,1595 2783,1595 2872,1596 2894,1596 2945,1597 2966,1597 3206,1599 3227,1599 3306,1599 3327,1600 3534,1601"/>
+                <TextEquiv>
+                    <Unicode>verſtändige, ſowie für Rechtsanwälte keine Anwendung.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_1l10" custom="readingOrder {index:10;}">
+                <Coords points="2651,1602 2821,1602 3531,1606 3655,1608 3655,1652 3546,1652 2734,1643 2651,1635"/>
+                <Baseline points="2651,1634 2712,1635 2734,1635 2946,1637 2967,1637 3068,1638 3089,1638 3129,1638 3151,1638 3249,1639 3270,1639 3321,1640 3342,1640 3531,1643 3542,1643 3655,1644"/>
+                <TextEquiv>
+                    <Unicode>Die Vorſchriften, welche an Stelle der bezeichneten Geſetze</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_1l11" custom="readingOrder {index:11;}">
+                <Coords points="2568,1649 2624,1644 2740,1642 2740,1642 2799,1642 3307,1645 3551,1647 3551,1689 3419,1689 3175,1688 2568,1681"/>
+                <Baseline points="2568,1674 2602,1674 2624,1674 2719,1675 2740,1675 2848,1676 2867,1676 2986,1677 3007,1678 3067,1678 3089,1678 3154,1679 3175,1679 3398,1682 3419,1682 3551,1683"/>
+                <TextEquiv>
+                    <Unicode>zu treten haben, werden von dem Reichskanzler erlaſſen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_1l12" custom="readingOrder {index:12;}">
+                <Coords points="3063,1702 3082,1702 3152,1704 3172,1728 3169,1741 3082,1745 3063,1745"/>
+                <Baseline points="3063,1733 3092,1733 3114,1735 3162,1736"/>
+                <TextEquiv>
+                    <Unicode>§. 17.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_1l13" custom="readingOrder {index:13;}">
+                <Coords points="2650,1748 2818,1744 2833,1744 3625,1754 3642,1756 3658,1766 3658,1793 3642,1799 2863,1789 2822,1793 2650,1783"/>
+                <Baseline points="2650,1782 2711,1783 2732,1783 2802,1783 2818,1783 2846,1783 2862,1783 2880,1784 2902,1784 2953,1784 2967,1784 3108,1785 3127,1785 3289,1786 3303,1787 3349,1787 3367,1786 3656,1789"/>
+                <TextEquiv>
+                    <Unicode>Die nach §. 2 des Geſetzes, betreffend die Rechtsverhältniſſe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_1l14" custom="readingOrder {index:14;}">
+                <Coords points="2569,1789 2777,1789 3510,1794 3658,1806 3660,1834 3510,1834 3246,1834 2651,1829 2569,1821"/>
+                <Baseline points="2569,1821 2619,1822 2651,1822 2797,1823 2881,1823 3041,1824 3075,1824 3127,1825 3147,1825 3193,1826 3246,1826 3510,1829 3541,1829 3583,1830 3603,1830 3658,1831"/>
+                <TextEquiv>
+                    <Unicode>der deutſchen Schutzgebiete, für die Rechtsverhältniſſe an un⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_1l15" custom="readingOrder {index:15;}">
+                <Coords points="2570,1828 2937,1832 2978,1829 3657,1839 3658,1878 2987,1870 2938,1870 2651,1870 2570,1865"/>
+                <Baseline points="2571,1861 2760,1863 2802,1864 2921,1864 2938,1864 2977,1865 3006,1864 3171,1866 3219,1866 3272,1867 3313,1867 3659,1870"/>
+                <TextEquiv>
+                    <Unicode>beweglichen Sachen einſchließlich des Bergwerkeigenthums</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_1l16" custom="readingOrder {index:16;}">
+                <Coords points="2570,1878 2593,1868 2768,1868 3237,1872 3428,1874 3468,1885 3468,1915 3368,1915 2593,1909 2570,1907"/>
+                <Baseline points="2570,1901 2790,1904 2811,1904 3014,1904 3036,1905 3137,1905 3160,1906 3237,1906 3258,1906 3468,1908"/>
+                <TextEquiv>
+                    <Unicode>maßgebenden Vorſchriften finden keine Anwendung.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_1l17" custom="readingOrder {index:17;}">
+                <Coords points="2653,1909 2700,1909 3665,1917 3667,1953 3518,1958 3475,1957 2753,1952 2653,1944"/>
+                <Baseline points="2653,1944 2719,1944 2753,1944 2976,1946 3007,1946 3073,1946 3109,1946 3164,1947 3206,1947 3300,1948 3336,1948 3568,1952 3609,1949 3659,1949"/>
+                <TextEquiv>
+                    <Unicode>Der Reichskanzler und mit deſſen Genehmigung der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_1l18" custom="readingOrder {index:18;}">
+                <Coords points="2571,1949 2735,1949 3185,1952 3659,1960 3660,1994 3564,1996 3452,1997 3314,1994 2806,1990 2595,1984 2570,1984"/>
+                <Baseline points="2571,1982 2774,1984 2806,1984 2869,1985 2890,1985 2939,1985 2960,1985 3015,1986 3035,1986 3185,1987 3236,1987 3273,1988 3294,1988 3452,1990 3473,1990 3564,1991 3585,1992 3660,1993"/>
+                <TextEquiv>
+                    <Unicode>Gouverneur ſind bis auf Weiteres zur Regelung dieſer Ver⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_1l19" custom="readingOrder {index:19;}">
+                <Coords points="2572,1989 2710,1989 3191,1993 3646,1997 3660,2007 3664,2035 3643,2041 3555,2041 2679,2033 2572,2028"/>
+                <Baseline points="2572,2023 2710,2024 2741,2025 2852,2026 2887,2026 2934,2027 2969,2027 3191,2029 3244,2029 3458,2031 3489,2032 3524,2032 3555,2033 3661,2033"/>
+                <TextEquiv>
+                    <Unicode>hältniſſe befugt, die erforderlichen Beſtimmungen zu treffen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_1l20" custom="readingOrder {index:20;}">
+                <Coords points="2573,2039 2619,2032 2670,2031 2742,2031 3255,2034 3550,2038 3664,2043 3664,2076 3300,2077 3001,2077 2670,2070 2571,2067"/>
+                <Baseline points="2576,2063 2636,2063 2670,2065 2880,2066 2911,2066 2957,2067 2978,2067 3255,2069 3287,2070 3339,2070 3367,2071 3421,2071 3443,2072 3566,2073 3597,2073 3661,2074"/>
+                <TextEquiv>
+                    <Unicode>und insbeſondere die Vorausſetzungen für den Erwerb und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_1l21" custom="readingOrder {index:21;}">
+                <Coords points="2574,2071 2604,2071 2783,2072 3278,2075 3646,2078 3662,2088 3662,2114 3646,2120 3368,2120 2831,2116 2695,2114 2574,2105"/>
+                <Baseline points="2574,2105 2619,2105 2641,2106 2783,2107 2804,2107 2972,2109 2992,2109 3051,2109 3072,2110 3291,2112 3312,2112 3398,2113 3416,2113 3662,2112"/>
+                <TextEquiv>
+                    <Unicode>die dingliche Belaſtung von Grundſtücken durch Rechtsgeſchäfte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_1l22" custom="readingOrder {index:22;}">
+                <Coords points="2571,2131 2571,2121 2587,2113 2776,2113 3109,2115 3121,2116 3159,2126 3167,2142 3167,2149 3159,2150 3109,2155 2972,2155 2725,2154 2588,2150 2570,2149"/>
+                <Baseline points="2573,2144 2648,2146 2704,2146 2725,2146 2952,2147 2972,2147 3167,2147"/>
+                <TextEquiv>
+                    <Unicode>mit den Eingeborenen feſtzuſtellen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_1l23" custom="readingOrder {index:23;}">
+                <Coords points="3075,2171 3096,2171 3175,2173 3175,2205 3096,2214 3075,2214"/>
+                <Baseline points="3075,2205 3104,2205 3126,2205 3175,2205"/>
+                <TextEquiv>
+                    <Unicode>§. 18.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_1l24" custom="readingOrder {index:24;}">
+                <Coords points="2658,2216 2703,2216 3405,2219 3665,2222 3665,2258 3405,2261 3174,2261 2906,2258 2762,2256 2653,2253"/>
+                <Baseline points="2659,2248 2732,2249 2762,2250 2870,2251 2906,2251 3067,2252 3096,2252 3144,2252 3174,2253 3405,2254 3435,2254 3499,2255 3528,2256 3575,2257 3605,2254 3664,2257"/>
+                <TextEquiv>
+                    <Unicode>Das Geſetz, betreffend die Eheſchließung und die Be⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_1l25" custom="readingOrder {index:25;}">
+                <Coords points="2575,2253 2787,2256 2857,2256 3671,2262 3671,2300 3589,2302 3281,2293 2575,2287"/>
+                <Baseline points="2575,2282 2762,2288 2789,2288 2859,2289 2874,2289 3150,2292 3189,2289 3251,2290 3284,2290 3590,2296 3623,2297 3668,2297"/>
+                <TextEquiv>
+                    <Unicode>urkundung des Perſonenſtandes von Reichsangehörigen im</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_1l26" custom="readingOrder {index:26;}">
+                <Coords points="2579,2291 2730,2291 3444,2297 3645,2301 3675,2302 3675,2343 3584,2338 3119,2331 2607,2329 2579,2323"/>
+                <Baseline points="2581,2321 2742,2324 2771,2327 2843,2328 2863,2327 2893,2327 2916,2327 2991,2328 3012,2328 3094,2329 3114,2329 3444,2334 3471,2334 3562,2335 3584,2333 3669,2335"/>
+                <TextEquiv>
+                    <Unicode>Auslande vom 4. Mai 1870 (Bundes⸗Geſetzblatt Seite 599),</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_1l27" custom="readingOrder {index:27;}">
+                <Coords points="2580,2329 3608,2340 3635,2341 3670,2327 3670,2383 3635,2379 2638,2366 2583,2369"/>
+                <Baseline points="2580,2364 2675,2361 2721,2365 2741,2366 2777,2366 2843,2367 2878,2367 3078,2369 3112,2370 3181,2369 3218,2370 3244,2370 3428,2370 3500,2370 3539,2371 3578,2371 3610,2373 3669,2375"/>
+                <TextEquiv>
+                    <Unicode>findet in dem Schutzgebiet vom 1. Januar 1891 ab auf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_1l28" custom="readingOrder {index:28;}">
+                <Coords points="2578,2367 2650,2371 2660,2371 3248,2375 3597,2379 3629,2389 3646,2407 3646,2415 3629,2423 3477,2423 3228,2420 3026,2417 2650,2410 2580,2409"/>
+                <Baseline points="2582,2403 2750,2405 2770,2405 2872,2406 2892,2407 2970,2408 3026,2408 3194,2411 3215,2409 3256,2410 3300,2410 3312,2411 3333,2411 3407,2413 3428,2413 3639,2415"/>
+                <TextEquiv>
+                    <Unicode>Perſonen, welche nicht Eingeborene (§. 3) ſind, Anwendung.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_1l29" custom="readingOrder {index:29;}">
+                <Coords points="3064,2442 3071,2430 3098,2430 3180,2433 3180,2465 3098,2475 3071,2475 3067,2463"/>
+                <Baseline points="3073,2462 3171,2463"/>
+                <TextEquiv>
+                    <Unicode>§. 19.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_1l30" custom="readingOrder {index:30;}">
+                <Coords points="2665,2477 3064,2473 3129,2473 3674,2486 3679,2525 3472,2524 3137,2518 3065,2521 2761,2517 2662,2515"/>
+                <Baseline points="2665,2511 2728,2511 2761,2511 2813,2511 2832,2512 3064,2514 3121,2515 3129,2515 3151,2515 3364,2516 3386,2516 3472,2518 3500,2518 3557,2520 3588,2520 3673,2521"/>
+                <TextEquiv>
+                    <Unicode>Bis zur Uebernahme der Verwaltung durch den Gou⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_1l31" custom="readingOrder {index:31;}">
+                <Coords points="2584,2519 2748,2518 2828,2518 3648,2523 3674,2535 3674,2568 3481,2563 3011,2556 2584,2554"/>
+                <Baseline points="2586,2549 2713,2551 2733,2551 2850,2552 2865,2552 2910,2552 2932,2552 2997,2553 3009,2553 3151,2554 3166,2554 3220,2555 3231,2555 3344,2556 3363,2557 3454,2558 3468,2558 3674,2560"/>
+                <TextEquiv>
+                    <Unicode>verneur werden die dem Letzteren auf Grund dieſer Verordnung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_1l32" custom="readingOrder {index:32;}">
+                <Coords points="2583,2563 2620,2557 2721,2557 2944,2558 3338,2561 3672,2564 3672,2606 3433,2606 2582,2598"/>
+                <Baseline points="2582,2591 2771,2592 2779,2592 2954,2594 2969,2594 3030,2594 3044,2594 3109,2595 3114,2595 3390,2598 3401,2595 3672,2601"/>
+                <TextEquiv>
+                    <Unicode>zuſtehenden Befugniſſe von dem Reichskommiſſar wahrgenommen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_1l33" custom="readingOrder {index:33;}">
+                <Coords points="3080,2618 3101,2618 3172,2620 3179,2645 3179,2654 3101,2662 3080,2662"/>
+                <Baseline points="3080,2650 3109,2651 3131,2652 3179,2651"/>
+                <TextEquiv>
+                    <Unicode>§. 20.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_1l34" custom="readingOrder {index:34;}">
+                <Coords points="2658,2686 2667,2667 2686,2662 2701,2662 3539,2672 3595,2669 3683,2684 3683,2716 2763,2705 2701,2704 2665,2704"/>
+                <Baseline points="2667,2699 2757,2700 2768,2700 2974,2702 2995,2702 3061,2703 3082,2703 3138,2704 3159,2704 3225,2704 3239,2704 3324,2705 3345,2705 3425,2706 3437,2705 3674,2709"/>
+                <TextEquiv>
+                    <Unicode>Dieſe Verordnung tritt mit dem Tage ihrer Verkündigung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_1l35" custom="readingOrder {index:35;}">
+                <Coords points="2586,2700 2672,2704 2738,2711 2738,2740 2670,2745 2586,2744"/>
+                <Baseline points="2585,2739 2617,2739 2669,2739 2738,2740"/>
+                <TextEquiv>
+                    <Unicode>in Kraft.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_1l36" custom="readingOrder {index:36;}">
+                <Coords points="2666,2747 2830,2747 3656,2753 3674,2754 3674,2795 3181,2789 3116,2789 2666,2780"/>
+                <Baseline points="2666,2780 2843,2781 2864,2782 2954,2782 2975,2782 3104,2783 3124,2784 3173,2784 3205,2784 3465,2787 3480,2787 3674,2789"/>
+                <TextEquiv>
+                    <Unicode>Urkundlich unter Unſerer Höchſteigenhändigen Unterſchrift</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_1l37" custom="readingOrder {index:37;}">
+                <Coords points="2584,2796 2630,2787 2873,2787 3093,2789 3274,2794 3274,2825 3235,2833 3158,2833 2668,2829 2583,2823"/>
+                <Baseline points="2584,2820 2646,2821 2668,2821 2890,2823 2911,2823 3107,2824 3158,2824 3274,2825"/>
+                <TextEquiv>
+                    <Unicode>und beigedrucktem Kaiſerlichen Inſiegel.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_1l38" custom="readingOrder {index:38;}">
+                <Coords points="2667,2828 2769,2828 3124,2831 3308,2833 3324,2835 3337,2858 3337,2866 3124,2873 3096,2873 2685,2870 2667,2862"/>
+                <Baseline points="2667,2862 2806,2863 2828,2863 2947,2864 2969,2864 3023,2864 3047,2864 3072,2864 3096,2864 3226,2865 3249,2865 3337,2866"/>
+                <TextEquiv>
+                    <Unicode>Gegeben Berlin, den 1. Januar 1891.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_1l39" custom="readingOrder {index:39;}">
+                <Coords points="2801,2871 2816,2870 2816,2870 2922,2870 3191,2872 3498,2876 3498,2908 3272,2913 3251,2913 2801,2910"/>
+                <Baseline points="2801,2900 2852,2902 2876,2902 2922,2902 3141,2905 3370,2907 3405,2907 3437,2907 3461,2906 3498,2908"/>
+                <TextEquiv>
+                    <Unicode>(L. S.) Wilhelm J. R.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_15_1l40" custom="readingOrder {index:40;}">
+                <Coords points="3367,2917 3462,2915 3506,2915 3635,2917 3635,2950 3542,2955 3480,2955 3368,2952"/>
+                <Baseline points="3368,2948 3440,2949 3462,2949 3635,2950"/>
+                <TextEquiv>
+                    <Unicode>von Caprivi.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>§. 15.&#13;
+Die Todesſtrafe iſt durch Erſchießen oder Erhängen zu&#13;
+vollſtrecken.&#13;
+Der Gouverneur beſtimmt, welche der beiden Voll⸗&#13;
+ſtreckungsarten in dem einzelnen Falle ſtattzufinden hat.&#13;
+§. 16.&#13;
+In dem Verfahren vor den Gerichtsbehörden im Schutz⸗&#13;
+gebiete finden das Gerichtskoſtengeſetz und die Gebühren⸗&#13;
+ordnungen für Gerichtsvollzieher, für Zeugen und Sach⸗&#13;
+verſtändige, ſowie für Rechtsanwälte keine Anwendung.&#13;
+Die Vorſchriften, welche an Stelle der bezeichneten Geſetze&#13;
+zu treten haben, werden von dem Reichskanzler erlaſſen.&#13;
+§. 17.&#13;
+Die nach §. 2 des Geſetzes, betreffend die Rechtsverhältniſſe&#13;
+der deutſchen Schutzgebiete, für die Rechtsverhältniſſe an un⸗&#13;
+beweglichen Sachen einſchließlich des Bergwerkeigenthums&#13;
+maßgebenden Vorſchriften finden keine Anwendung.&#13;
+Der Reichskanzler und mit deſſen Genehmigung der&#13;
+Gouverneur ſind bis auf Weiteres zur Regelung dieſer Ver⸗&#13;
+hältniſſe befugt, die erforderlichen Beſtimmungen zu treffen&#13;
+und insbeſondere die Vorausſetzungen für den Erwerb und&#13;
+die dingliche Belaſtung von Grundſtücken durch Rechtsgeſchäfte&#13;
+mit den Eingeborenen feſtzuſtellen.&#13;
+§. 18.&#13;
+Das Geſetz, betreffend die Eheſchließung und die Be⸗&#13;
+urkundung des Perſonenſtandes von Reichsangehörigen im&#13;
+Auslande vom 4. Mai 1870 (Bundes⸗Geſetzblatt Seite 599),&#13;
+findet in dem Schutzgebiet vom 1. Januar 1891 ab auf&#13;
+Perſonen, welche nicht Eingeborene (§. 3) ſind, Anwendung.&#13;
+§. 19.&#13;
+Bis zur Uebernahme der Verwaltung durch den Gou⸗&#13;
+verneur werden die dem Letzteren auf Grund dieſer Verordnung&#13;
+zuſtehenden Befugniſſe von dem Reichskommiſſar wahrgenommen.&#13;
+§. 20.&#13;
+Dieſe Verordnung tritt mit dem Tage ihrer Verkündigung&#13;
+in Kraft.&#13;
+Urkundlich unter Unſerer Höchſteigenhändigen Unterſchrift&#13;
+und beigedrucktem Kaiſerlichen Inſiegel.&#13;
+Gegeben Berlin, den 1. Januar 1891.&#13;
+(L. S.) Wilhelm J. R.&#13;
+von Caprivi.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="heading" id="TextRegion_1644235749998_484" custom="readingOrder {index:13;} structure {type:heading;}">
+            <Coords points="2579,3035 3718,3035 3718,3267 2581,3267"/>
+            <TextLine id="TextRegion_1644235749998_484l0" custom="readingOrder {index:0;}">
+                <Coords points="2973,3045 3257,3045 3287,3059 3287,3090 3225,3090 3078,3089 2973,3081"/>
+                <Baseline points="2973,3081 3287,3083"/>
+                <TextEquiv>
+                    <Unicode>Verfügung,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1644235749998_484l1" custom="readingOrder {index:1;}">
+                <Coords points="2585,3093 2790,3093 3529,3099 3641,3100 3680,3114 3683,3138 3662,3135 3496,3139 3230,3139 2581,3128"/>
+                <Baseline points="2585,3127 2803,3129 2859,3130 2917,3130 2972,3131 3189,3133 3253,3133 3529,3135 3609,3135 3681,3134"/>
+                <TextEquiv>
+                    <Unicode>betreffend die Ausübung konſulariſcher Be⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1644235749998_484l2" custom="readingOrder {index:2;}">
+                <Coords points="2582,3131 2686,3135 3563,3135 3612,3138 3680,3150 3683,3178 3655,3178 3370,3180 3300,3180 2610,3174 2584,3172"/>
+                <Baseline points="2587,3167 2677,3168 2686,3168 2759,3169 2780,3169 2856,3170 2878,3170 2943,3171 2965,3171 3086,3172 3105,3173 3150,3173 3236,3173 3362,3174 3396,3174 3472,3174 3511,3175 3558,3175 3566,3175 3680,3175"/>
+                <TextEquiv>
+                    <Unicode>fugniſſe und den Erlaß polizeilicher und ſonſtiger</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1644235749998_484l3" custom="readingOrder {index:3;}">
+                <Coords points="2584,3176 2957,3177 3585,3180 3654,3182 3681,3191 3681,3217 3585,3223 3323,3223 3139,3220 2583,3213"/>
+                <Baseline points="2587,3208 3267,3215 3323,3215 3585,3217 3641,3217 3681,3217"/>
+                <TextEquiv>
+                    <Unicode>die Verwaltung betreffender Vorſchriften in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1644235749998_484l4" custom="readingOrder {index:4;}">
+                <Coords points="2923,3218 3319,3218 3341,3230 3341,3255 3319,3261 2974,3261 2923,3252"/>
+                <Baseline points="2923,3252 3341,3255"/>
+                <TextEquiv>
+                    <Unicode>Deutſch⸗Oſt⸗Afrika.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="TextRegion_1644235749997_483" custom="readingOrder {index:14;} structure {type:paragraph;}">
+            <Coords points="2581,3267 3718,3267 3718,4856 2597,4850"/>
+            <TextLine id="TextRegion_1644235749997_483l0" custom="readingOrder {index:0;}">
+                <Coords points="2667,3274 2915,3271 2930,3271 3260,3274 3656,3279 3681,3288 3681,3314 3530,3317 3472,3316 3026,3320 2799,3313 2664,3316"/>
+                <Baseline points="2668,3309 2874,3309 2899,3309 2949,3310 3029,3310 3070,3311 3085,3311 3217,3312 3239,3312 3345,3312 3366,3313 3473,3313 3479,3313 3520,3313 3546,3313 3599,3314 3621,3314 3681,3314"/>
+                <TextEquiv>
+                    <Unicode>Auf Grund der §§. 5 und 11 Abſatz 2 und 3 des Ge⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1644235749997_483l1" custom="readingOrder {index:1;}">
+                <Coords points="2587,3312 2615,3313 3427,3313 3683,3320 3683,3360 3427,3361 2615,3361 2586,3361"/>
+                <Baseline points="2589,3350 2699,3349 2715,3349 2891,3351 2923,3351 2950,3351 3016,3350 3315,3353 3367,3353 3387,3353 3426,3353 3427,3353 3518,3354 3539,3354 3561,3354 3680,3354"/>
+                <TextEquiv>
+                    <Unicode>ſetzes, betreffend die Rechtsverhältniſſe der deutſchen Schutz⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1644235749997_483l2" custom="readingOrder {index:2;}">
+                <Coords points="2581,3355 3242,3354 3272,3358 3681,3359 3682,3399 3560,3402 2719,3394 2585,3394"/>
+                <Baseline points="2585,3388 2695,3389 2718,3389 3016,3392 3051,3392 3132,3392 3163,3393 3206,3392 3228,3392 3294,3393 3329,3393 3406,3393 3455,3393 3508,3394 3535,3395 3678,3393"/>
+                <TextEquiv>
+                    <Unicode>gebiete (Reichs⸗Geſetzbl. 1888 S. 75), wird für Deutſch⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1644235749997_483l3" custom="readingOrder {index:3;}">
+                <Coords points="2587,3395 2735,3395 3060,3399 3119,3402 3134,3411 3134,3432 3119,3434 3060,3439 2825,3439 2604,3437 2587,3430"/>
+                <Baseline points="2587,3430 2760,3431 2783,3431 2952,3432 2974,3433 3134,3432"/>
+                <TextEquiv>
+                    <Unicode>Oſt⸗Afrika Folgendes beſtimmt:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1644235749997_483l4" custom="readingOrder {index:4;}">
+                <Coords points="3094,3456 3114,3456 3162,3459 3173,3484 3173,3490 3114,3500 3094,3500"/>
+                <Baseline points="3094,3490 3122,3490 3147,3490 3173,3490"/>
+                <TextEquiv>
+                    <Unicode>§. 1.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1644235749997_483l5" custom="readingOrder {index:5;}">
+                <Coords points="2670,3496 2716,3496 3601,3498 3686,3507 3689,3534 3621,3539 3490,3539 2982,3538 2752,3537 2670,3530"/>
+                <Baseline points="2670,3530 2731,3530 2752,3530 2804,3530 2824,3530 3001,3530 3036,3531 3088,3531 3108,3531 3362,3532 3384,3532 3471,3532 3490,3532 3621,3532 3640,3532 3686,3533"/>
+                <TextEquiv>
+                    <Unicode>Die zur Ausübung der Gerichtsbarkeit erſter Inſtanz er⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1644235749997_483l6" custom="readingOrder {index:6;}">
+                <Coords points="2587,3545 2606,3536 2762,3536 3685,3537 3685,3573 3526,3579 2770,3576 2615,3575 2587,3570"/>
+                <Baseline points="2587,3570 2762,3570 2784,3571 2933,3571 2955,3571 3051,3572 3084,3572 3137,3572 3164,3572 3228,3572 3248,3572 3370,3571 3401,3571 3526,3572 3558,3572 3605,3572 3624,3572 3685,3573"/>
+                <TextEquiv>
+                    <Unicode>mächtigten Beamten haben für ihre Bezirke zugleich die Be⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1644235749997_483l7" custom="readingOrder {index:7;}">
+                <Coords points="2588,3577 2716,3577 3626,3578 3688,3579 3688,3613 3622,3618 3521,3617 2623,3618 2586,3613"/>
+                <Baseline points="2588,3610 2716,3611 2771,3611 3032,3612 3085,3612 3187,3612 3243,3612 3299,3612 3351,3613 3502,3612 3544,3612 3688,3613"/>
+                <TextEquiv>
+                    <Unicode>fugniſſe wahrzunehmen, welche den deutſchen Konſuln</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1644235749997_483l8" custom="readingOrder {index:8;}">
+                <Coords points="2586,3620 2709,3617 3664,3617 3686,3620 3686,3653 3106,3658 2955,3658 2587,3658"/>
+                <Baseline points="2587,3650 2610,3650 2709,3651 2715,3651 2771,3651 2810,3651 2862,3651 2914,3651 2955,3651 3106,3651 3161,3652 3321,3651 3374,3651 3420,3651 3474,3651 3686,3653"/>
+                <TextEquiv>
+                    <Unicode>nach §. 16 des Geſetzes, betreffend die Nationalität</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1644235749997_483l9" custom="readingOrder {index:9;}">
+                <Coords points="2587,3658 3546,3657 3546,3657 3690,3657 3690,3698 2687,3698 2587,3691"/>
+                <Baseline points="2587,3691 2638,3691 2673,3691 2962,3691 2996,3692 3031,3691 3076,3691 3147,3691 3177,3691 3227,3691 3284,3692 3381,3691 3410,3691 3489,3690 3531,3691 3690,3692"/>
+                <TextEquiv>
+                    <Unicode>der Kauffahrteiſchiffe ꝛc., vom 25. Oktober 1867 (Bundes⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1644235749997_483l10" custom="readingOrder {index:10;}">
+                <Coords points="2588,3697 3599,3697 3689,3698 3689,3733 3599,3738 3395,3740 3253,3740 2605,3739 2588,3732"/>
+                <Baseline points="2588,3732 2725,3732 2762,3732 2805,3732 2840,3732 2897,3732 2928,3732 2990,3732 3046,3732 3053,3732 3088,3732 3136,3732 3165,3732 3217,3732 3253,3732 3395,3731 3436,3731 3599,3732 3640,3732 3689,3732"/>
+                <TextEquiv>
+                    <Unicode>Geſetzbl. S. 35) und §. 35 des Geſetzes, betreffend die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1644235749997_483l11" custom="readingOrder {index:11;}">
+                <Coords points="2589,3738 3415,3737 3415,3737 3666,3737 3686,3738 3686,3772 3402,3780 3392,3780 2610,3779 2589,3772"/>
+                <Baseline points="2589,3772 2811,3772 2833,3772 2884,3772 2905,3772 3188,3772 3209,3772 3256,3772 3277,3772 3349,3771 3370,3771 3402,3771 3415,3771 3586,3772 3605,3772 3686,3772"/>
+                <TextEquiv>
+                    <Unicode>Organiſation der Bundeskonſulate ꝛc., vom 8. November 1867</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1644235749997_483l12" custom="readingOrder {index:12;}">
+                <Coords points="2590,3780 2605,3778 3689,3778 3697,3807 3706,3806 3688,3816 3508,3819 3224,3820 2649,3820 2590,3817"/>
+                <Baseline points="2590,3813 2887,3813 2910,3813 2952,3812 2976,3812 3051,3812 3083,3813 3224,3813 3266,3813 3418,3813 3449,3813 3508,3813 3537,3813 3601,3813 3630,3813 3691,3810"/>
+                <TextEquiv>
+                    <Unicode>(Bundes⸗Geſetzbl. S. 137) zuſtehen. Dasſelbe gilt von den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1644235749997_483l13" custom="readingOrder {index:13;}">
+                <Coords points="2590,3819 3357,3819 3456,3820 3692,3821 3695,3853 3456,3852 3357,3857 3178,3858 2788,3860 2606,3860 2590,3854"/>
+                <Baseline points="2590,3854 2788,3853 2830,3853 2932,3852 2952,3852 3009,3852 3030,3852 3178,3853 3200,3853 3391,3851 3423,3851 3688,3850"/>
+                <TextEquiv>
+                    <Unicode>Befugniſſen, welche den deutſchen Konſulaten als Seemanns⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1644235749997_483l14" custom="readingOrder {index:14;}">
+                <Coords points="2590,3862 2751,3859 2782,3859 3595,3857 3694,3853 3699,3890 3595,3895 3402,3897 3371,3895 2748,3899 2590,3894"/>
+                <Baseline points="2590,3894 2708,3893 2729,3893 2800,3893 2821,3893 2872,3893 2929,3893 3242,3892 3264,3892 3335,3892 3355,3892 3405,3892 3431,3892 3595,3892 3609,3891 3691,3886"/>
+                <TextEquiv>
+                    <Unicode>ämtern nach der Seemanns⸗Ordnung vom 27. Dezember 1872</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1644235749997_483l15" custom="readingOrder {index:15;}">
+                <Coords points="2592,3899 3462,3896 3698,3896 3698,3939 2706,3942 2590,3944"/>
+                <Baseline points="2592,3934 2864,3933 2901,3933 2944,3932 2980,3932 3057,3933 3090,3933 3154,3933 3190,3933 3261,3933 3294,3933 3441,3933 3462,3933 3698,3933"/>
+                <TextEquiv>
+                    <Unicode>(Reichs⸗Geſetzbl. S. 432) und nach ſonſtigen Reichsgeſetzen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1644235749997_483l16" custom="readingOrder {index:16;}">
+                <Coords points="2592,3941 2718,3941 2736,3950 2736,3974 2717,3981 2604,3981 2591,3974"/>
+                <Baseline points="2591,3974 2736,3974"/>
+                <TextEquiv>
+                    <Unicode>obliegen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1644235749997_483l17" custom="readingOrder {index:17;}">
+                <Coords points="2674,3981 2757,3980 2900,3979 3396,3977 3396,3977 3697,3977 3697,4020 2757,4020 2674,4015"/>
+                <Baseline points="2674,4015 2736,4015 2757,4014 2810,4014 2831,4014 2878,4014 2900,4014 3040,4014 3061,4014 3218,4013 3227,4013 3299,4013 3396,4013 3696,4007"/>
+                <TextEquiv>
+                    <Unicode>Die für die Konſuln geltenden Ausführungsbeſtimmungen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1644235749997_483l18" custom="readingOrder {index:18;}">
+                <Coords points="2593,4025 2659,4022 2747,4021 2988,4019 3478,4016 3698,4016 3698,4056 3315,4061 2988,4061 2747,4060 2592,4060"/>
+                <Baseline points="2592,4053 2628,4054 2659,4054 2716,4054 2747,4054 2959,4053 2988,4053 3315,4053 3390,4052 3447,4052 3478,4052 3698,4050"/>
+                <TextEquiv>
+                    <Unicode>zu den vorgedachten Geſetzesvorſchriften finden entſprechende</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1644235749997_483l19" custom="readingOrder {index:19;}">
+                <Coords points="2591,4060 2659,4061 2739,4061 2795,4069 2802,4086 2802,4094 2795,4102 2659,4102 2592,4100"/>
+                <Baseline points="2593,4096 2802,4094"/>
+                <TextEquiv>
+                    <Unicode>Anwendung.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1644235749997_483l20" custom="readingOrder {index:20;}">
+                <Coords points="2670,4100 2757,4104 2844,4100 3527,4095 3696,4095 3696,4134 3348,4141 2844,4141 2673,4138"/>
+                <Baseline points="2677,4134 2725,4134 2757,4133 2813,4133 2844,4133 3040,4133 3070,4133 3348,4132 3378,4132 3498,4130 3527,4130 3696,4128"/>
+                <TextEquiv>
+                    <Unicode>In den bezeichneten Angelegenheiten werden Gebühren</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1644235749997_483l21" custom="readingOrder {index:21;}">
+                <Coords points="2594,4151 2640,4142 2710,4141 3010,4139 3255,4139 3702,4133 3702,4178 3110,4182 2710,4182 2594,4176"/>
+                <Baseline points="2594,4176 2658,4176 2710,4176 2842,4174 2863,4174 2934,4174 2956,4174 3115,4175 3135,4175 3186,4175 3206,4175 3255,4175 3358,4173 3698,4167"/>
+                <TextEquiv>
+                    <Unicode>und Auslagen nach Maßgabe der Beſtimmungen des Geſetzes,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1644235749997_483l22" custom="readingOrder {index:22;}">
+                <Coords points="2593,4182 2844,4180 3421,4176 3612,4176 3697,4178 3707,4213 3011,4222 2593,4222"/>
+                <Baseline points="2593,4215 2756,4215 2777,4215 2824,4215 2844,4215 3011,4215 3030,4215 3095,4215 3114,4215 3224,4213 3335,4212 3394,4212 3421,4211 3612,4210 3642,4209 3697,4209"/>
+                <TextEquiv>
+                    <Unicode>betreffend die Gebühren und Koſten bei den Konſulaten des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1644235749997_483l23" custom="readingOrder {index:23;}">
+                <Coords points="2594,4223 3274,4215 3622,4214 3622,4214 3689,4214 3700,4215 3700,4254 3534,4258 3122,4262 2901,4263 2803,4263 2613,4261 2594,4256"/>
+                <Baseline points="2594,4256 2761,4255 2782,4255 2901,4255 2920,4255 2994,4254 3015,4254 3043,4254 3058,4254 3136,4253 3157,4253 3240,4252 3260,4252 3534,4248 3558,4249 3602,4249 3622,4249 3700,4248"/>
+                <TextEquiv>
+                    <Unicode>Deutſchen Reichs, vom 1. Juli 1872 (Reichs⸗Geſetzbl. S. 245)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1651131717753_6" custom="readingOrder {index:24;}">
+                <Coords points="2591,4258 2608,4258 2688,4263 2752,4267 2754,4310 2591,4309"/>
+                <Baseline points="2592,4297 2637,4297 2739,4296"/>
+                <TextEquiv>
+                    <Unicode>erhoben.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1651131717015_3" custom="readingOrder {index:25;}">
+                <Coords points="3102,4295 3195,4295 3194,4335 3129,4341 3108,4341 3091,4339"/>
+                <Baseline points="3107,4329 3125,4329 3129,4329 3160,4330 3194,4329"/>
+                <TextEquiv>
+                    <Unicode>§. 2.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1644235749997_483l25" custom="readingOrder {index:26;}">
+                <Coords points="2680,4352 3558,4339 3628,4339 3703,4346 3710,4382 3629,4386 3188,4389 3059,4389 2680,4387"/>
+                <Baseline points="2680,4387 2748,4386 2769,4388 2976,4385 2995,4385 3035,4384 3053,4384 3168,4381 3197,4381 3373,4380 3404,4380 3468,4379 3499,4379 3628,4378 3656,4378 3703,4378"/>
+                <TextEquiv>
+                    <Unicode>Der Gouverneur iſt befugt, polizeiliche und ſonſtige die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1644235749997_483l26" custom="readingOrder {index:27;}">
+                <Coords points="2598,4392 2838,4390 3353,4387 3481,4387 3708,4389 3710,4422 3483,4426 3245,4429 3190,4427 2598,4433"/>
+                <Baseline points="2598,4427 2806,4425 2838,4425 3018,4423 3048,4422 3101,4422 3189,4421 3253,4421 3281,4420 3321,4420 3353,4420 3481,4419 3512,4419 3557,4419 3682,4418 3705,4418"/>
+                <TextEquiv>
+                    <Unicode>Verwaltung betreffende Vorſchriften zu erlaſſen und gegen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1644235749997_483l27" custom="readingOrder {index:28;}">
+                <Coords points="2598,4433 2731,4431 3038,4428 3669,4423 3669,4423 3706,4423 3706,4465 2932,4472 2730,4472 2598,4467"/>
+                <Baseline points="2598,4467 2688,4466 2710,4466 2967,4464 2988,4463 3148,4462 3199,4462 3250,4462 3296,4461 3318,4461 3347,4461 3410,4461 3476,4460 3598,4460 3669,4459 3706,4459"/>
+                <TextEquiv>
+                    <Unicode>deren Nichtbefolgung Gefängniß bis zu drei Monaten, Haft,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1644235749997_483l28" custom="readingOrder {index:29;}">
+                <Coords points="2598,4472 3107,4468 3343,4467 3687,4467 3707,4489 3707,4499 3687,4507 2773,4512 2598,4512"/>
+                <Baseline points="2598,4508 2773,4506 2794,4505 2840,4505 2880,4504 3072,4502 3107,4502 3254,4501 3343,4501 3484,4500 3505,4500 3707,4499"/>
+                <TextEquiv>
+                    <Unicode>Geldſtrafe und Einziehung einzelner Gegenſtände anzudrohen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1644235749997_483l29" custom="readingOrder {index:30;}">
+                <Coords points="2686,4512 2847,4511 3566,4504 3709,4504 3709,4540 3367,4547 3182,4544 2847,4549 2684,4550"/>
+                <Baseline points="2690,4549 2751,4545 2787,4545 2826,4545 2847,4544 3056,4543 3077,4543 3127,4543 3182,4542 3365,4541 3382,4541 3470,4540 3491,4540 3550,4540 3566,4540 3709,4539"/>
+                <TextEquiv>
+                    <Unicode>Bis zur Uebernahme der Verwaltung durch den Gouver⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1644235749997_483l30" custom="readingOrder {index:31;}">
+                <Coords points="2602,4555 2715,4551 2930,4548 3327,4544 3611,4543 3681,4543 3710,4552 3710,4579 3681,4584 3590,4586 3052,4591 2923,4591 2827,4590 2601,4591"/>
+                <Baseline points="2603,4586 2683,4585 2715,4585 2774,4585 2827,4585 2902,4585 2923,4585 3080,4583 3112,4583 3198,4583 3231,4582 3287,4581 3307,4581 3590,4579 3609,4579 3710,4578"/>
+                <TextEquiv>
+                    <Unicode>neur wird dieſe Befugniß durch den Reichskommiſſar wahr⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1644235749997_483l31" custom="readingOrder {index:32;}">
+                <Coords points="2602,4602 2667,4595 2726,4593 2781,4601 2791,4617 2799,4629 2726,4631 2665,4635 2602,4633"/>
+                <Baseline points="2602,4626 2791,4624"/>
+                <TextEquiv>
+                    <Unicode>genommen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1644235749997_483l32" custom="readingOrder {index:33;}">
+                <Coords points="3115,4628 3200,4626 3205,4662 3196,4662 3145,4671 3115,4671"/>
+                <Baseline points="3115,4663 3145,4663 3189,4662 3196,4662"/>
+                <TextEquiv>
+                    <Unicode>§. 3.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1644235749997_483l33" custom="readingOrder {index:34;}">
+                <Coords points="2687,4672 3608,4664 3608,4664 3675,4664 3700,4665 3710,4690 3710,4696 3700,4704 3384,4708 2921,4713 2825,4713 2687,4710"/>
+                <Baseline points="2687,4706 2780,4706 2801,4706 2986,4705 3006,4705 3075,4704 3103,4704 3160,4704 3192,4703 3258,4702 3280,4702 3423,4700 3444,4700 3532,4699 3552,4699 3587,4698 3608,4699 3710,4696"/>
+                <TextEquiv>
+                    <Unicode>Dieſe Verfügung tritt mit dem heutigen Tage in Kraft.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1644235749997_483l34" custom="readingOrder {index:35;}">
+                <Coords points="2730,4731 3006,4729 3171,4728 3249,4728 3255,4765 2854,4770 2725,4773"/>
+                <Baseline points="2730,4765 2854,4764 2875,4764 2933,4763 2955,4763 2983,4764 3006,4763 3137,4761 3159,4761 3249,4760"/>
+                <TextEquiv>
+                    <Unicode>Berlin, den 1. Januar 1891.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1644235749997_483l35" custom="readingOrder {index:36;}">
+                <Coords points="2998,4769 3047,4767 3319,4767 3319,4809 3092,4809 3003,4805"/>
+                <Baseline points="3003,4805 3070,4804 3092,4804 3319,4800"/>
+                <TextEquiv>
+                    <Unicode>Der Reichskanzler</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1644235749997_483l36" custom="readingOrder {index:37;}">
+                <Coords points="3023,4820 3123,4809 3167,4808 3243,4808 3298,4809 3298,4841 3202,4848 3167,4848 3019,4850"/>
+                <Baseline points="3023,4844 3102,4843 3123,4843 3298,4840"/>
+                <TextEquiv>
+                    <Unicode>von Caprivi.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Auf Grund der §§. 5 und 11 Abſatz 2 und 3 des Ge⸗&#13;
+ſetzes, betreffend die Rechtsverhältniſſe der deutſchen Schutz⸗&#13;
+gebiete (Reichs⸗Geſetzbl. 1888 S. 75), wird für Deutſch⸗&#13;
+Oſt⸗Afrika Folgendes beſtimmt:&#13;
+§. 1.&#13;
+Die zur Ausübung der Gerichtsbarkeit erſter Inſtanz er⸗&#13;
+mächtigten Beamten haben für ihre Bezirke zugleich die Be⸗&#13;
+fugniſſe wahrzunehmen, welche den deutſchen Konſuln&#13;
+nach §. 16 des Geſetzes, betreffend die Nationalität&#13;
+der Kauffahrteiſchiffe ꝛc., vom 25. Oktober 1867 (Bundes⸗&#13;
+Geſetzbl. S. 35) und §. 35 des Geſetzes, betreffend die&#13;
+Organiſation der Bundeskonſulate ꝛc., vom 8. November 1867&#13;
+(Bundes⸗Geſetzbl. S. 137) zuſtehen. Dasſelbe gilt von den&#13;
+Befugniſſen, welche den deutſchen Konſulaten als Seemanns⸗&#13;
+ämtern nach der Seemanns⸗Ordnung vom 27. Dezember 1872&#13;
+(Reichs⸗Geſetzbl. S. 432) und nach ſonſtigen Reichsgeſetzen&#13;
+obliegen.&#13;
+Die für die Konſuln geltenden Ausführungsbeſtimmungen&#13;
+zu den vorgedachten Geſetzesvorſchriften finden entſprechende&#13;
+Anwendung.&#13;
+In den bezeichneten Angelegenheiten werden Gebühren&#13;
+und Auslagen nach Maßgabe der Beſtimmungen des Geſetzes,&#13;
+betreffend die Gebühren und Koſten bei den Konſulaten des&#13;
+Deutſchen Reichs, vom 1. Juli 1872 (Reichs⸗Geſetzbl. S. 245)&#13;
+erhoben.&#13;
+§. 2.&#13;
+Der Gouverneur iſt befugt, polizeiliche und ſonſtige die&#13;
+Verwaltung betreffende Vorſchriften zu erlaſſen und gegen&#13;
+deren Nichtbefolgung Gefängniß bis zu drei Monaten, Haft,&#13;
+Geldſtrafe und Einziehung einzelner Gegenſtände anzudrohen.&#13;
+Bis zur Uebernahme der Verwaltung durch den Gouver⸗&#13;
+neur wird dieſe Befugniß durch den Reichskommiſſar wahr⸗&#13;
+genommen.&#13;
+§. 3.&#13;
+Dieſe Verfügung tritt mit dem heutigen Tage in Kraft.&#13;
+Berlin, den 1. Januar 1891.&#13;
+Der Reichskanzler&#13;
+von Caprivi.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_17_1" custom="readingOrder {index:15;} structure {type:paragraph;}">
+            <Coords points="565,4906 3439,4906 3439,4975 565,4975"/>
+            <TextLine id="r_17_1l0" custom="readingOrder {index:0;}">
+                <Coords points="593,4910 624,4910 3422,4911 3432,4952 3357,4952 2893,4956 1910,4963 1639,4964 1586,4964 1399,4963 1176,4959 592,4951"/>
+                <Baseline points="596,4943 737,4942 771,4944 942,4946 963,4946 1006,4947 1027,4948 1065,4949 1086,4951 1181,4949 1205,4950 1341,4955 1378,4955 1485,4958 1501,4958 1546,4958 1565,4958 1727,4958 1744,4958 1917,4958 1961,4953 2046,4952 2061,4954 2108,4952 2127,4951 2338,4950 2359,4949 2565,4948 2584,4948 2637,4949 2659,4948 2891,4947 2910,4949 3017,4946 3034,4945 3107,4945 3130,4945 3355,4943 3376,4941 3422,4942"/>
+                <TextEquiv>
+                    <Unicode>Berlin. Redacteur: Dr. H. Klee, Direktor. Verlag der Expedition (Scholz). Druck der Norddeutſchen Buchdruckerei und Verlagsanſtalt, Berlin SW., Wilhelmſtraße 32.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Berlin. Redacteur: Dr. H. Klee, Direktor. Verlag der Expedition (Scholz). Druck der Norddeutſchen Buchdruckerei und Verlagsanſtalt, Berlin SW., Wilhelmſtraße 32.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_18" custom="readingOrder {index:16;}">
+            <Coords points="0,0 3774,0 3774,19 0,19"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_19" custom="readingOrder {index:17;}">
+            <Coords points="267,993 555,993 555,1017 267,1017"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_20" custom="readingOrder {index:18;}">
+            <Coords points="2374,5090 2688,5090 2688,5109 2374,5109"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_21" custom="readingOrder {index:19;}">
+            <Coords points="1718,5099 2548,5099 2548,5115 1718,5115"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_22" custom="readingOrder {index:20;}">
+            <Coords points="302,5108 1714,5108 1714,5115 302,5115"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_23" custom="readingOrder {index:21;}">
+            <Coords points="1388,1071 1400,1071 1406,1763 1428,4845 1413,4842 1388,1763"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_24" custom="readingOrder {index:22;}">
+            <Coords points="1394,1763 1406,1763 1431,4843 1407,4844"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_25" custom="readingOrder {index:23;}">
+            <Coords points="2530,1090 2540,1090 2559,2482 2549,2481"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_26" custom="readingOrder {index:24;}">
+            <Coords points="2551,2486 2564,2486 2582,4840 2570,4843"/>
+        </SeparatorRegion>
+    </Page>
+</PcGts>
