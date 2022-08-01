@@ -6,7 +6,7 @@ The ground truth is provided as PAGE-XML and URLs for the corresponding newspape
 Additional ground truth will be added in the future.
 
 ### Images:
-Images can be download via script
+Images can be downloaded via script
 
 `./download_images.sh `
 
