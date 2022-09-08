@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
     <Metadata>
         <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.7.1:model_id=40804:lm=none:date=05_07_2022_11:55
@@ -45,10 +45,7 @@ Transkribus</Creator>
                     <Unicode>2906</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextEquiv>
-                <Unicode></Unicode>
-            </TextEquiv>
-        </TextRegion>
+            </TextRegion>
         <TextRegion type="heading" id="r2" custom="readingOrder {index:1;} structure {type:heading;}">
             <Coords points="978,473 2720,471 2720,617 978,619"/>
             <TextLine id="r2l1" custom="readingOrder {index:0;}">
@@ -58,10 +55,7 @@ Transkribus</Creator>
                     <Unicode>Perſonal-Veränderungen in der Armee.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextEquiv>
-                <Unicode></Unicode>
-            </TextEquiv>
-        </TextRegion>
+            </TextRegion>
         <TextRegion type="heading" id="r3" custom="readingOrder {index:2;} structure {type:heading;}">
             <Coords points="1286,619 2422,611 2422,702 1286,710"/>
             <TextLine id="r3l1" custom="readingOrder {index:0;}">
@@ -71,10 +65,7 @@ Transkribus</Creator>
                     <Unicode>Offiziere, Portepee⸗Fähnriche ꝛc.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextEquiv>
-                <Unicode>Offiziere, Portepee⸗Fähnriche ꝛc.</Unicode>
-            </TextEquiv>
-        </TextRegion>
+            </TextRegion>
         <TextRegion type="paragraph" id="r4" custom="readingOrder {index:3;} structure {type:paragraph;}">
             <Coords points="896,712 2835,712 2835,4437 900,4447"/>
             <TextLine id="r4l1" custom="readingOrder {index:0;}">
@@ -518,72 +509,7 @@ Transkribus</Creator>
                     <Unicode>kommandirt.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextEquiv>
-                <Unicode>A. Ernennungen, Beförderungen und Verſetzungen.&#13;
-Den 18. Oktober. v. Schrötter, Major von Gen. Stabe&#13;
-der 1. Div., unter Stellung à la suite des Gen. Stabes der Armee,&#13;
-zum Direktor der Kriegsſchule in Metz ernannt. Treplin, Sec. Lt.&#13;
-vom 2. Magdeb. Inf. Regt. Nr. 27, in ſeinem Kommdo. als Bureau⸗&#13;
-Chef und Bibliothekar von der Kriegsſchule in Engers zur Kriegs⸗&#13;
-ſchule in Metz verſetzt. v. Duisburg I., Pr. Lt. vom 5. Weſtfäl.&#13;
-Inf. Regt. Nr. 53, als Bureau⸗Chef und Bibliothekar zur Kriegs⸗&#13;
-ſchule in Engers kommandirt. Meyer, Pr. Lt. vom Hannov. Füſ.&#13;
-Regt. Nr. 73, als Bureau⸗Chef und Bibliothekar zur Kriegsſchule in&#13;
-Hannover kommand. v. Dresler u. Scharfenſtein, Pr. Lt. vom&#13;
-1. Mageburg. Inf. Regt. Nr 26, von ſeinem Kommdo. als Bureau⸗&#13;
-Chef und Bibliothekar bei der Kriegsſchule zu Erſurt entbunden.&#13;
-v. Brandenſtein, Pr. Lt. vom 6. Thüring. Inf. Regt. Nr. 95,&#13;
-als Bureau⸗Chef u. Biblicthek. zur Kriegsſchule in Erfurt kommand.&#13;
-v. Tſchiſchwitz, Hauptm. à la suite des 3. Brandenburg. Inf.&#13;
-Regts. Nr. 20 und kommdrt. als Militär⸗Lehrer beim Kadettenhauſe&#13;
-zu Culm, unter Belaſſung à la suite des gedachten Regts., als Comp.&#13;
-Chef zum Kadettenhauſe in Potsdam kommdrt. v. Trotha, Pr. Lt.&#13;
-vom Gren. Regt. König Friedrich Wilhelm IV. (1. Pomm.) Nr. 2&#13;
-und kommandirt als Erzieher bei dem Kadettenhauſe in Potsdam,&#13;
-als Aſſiſt. der Comp. Chefs bei demſ. Kadettenhauſe kommdrt. Wol⸗&#13;
-lenhaupt, Sec. Lt. vom 1. Weſtpreuß. Gren. Regt. Nr. 6, in ſei⸗&#13;
-nem Kommdo. als Erzieher vom Kadettenhauſe zu Wahlſtatt zum&#13;
-Kadettenhauſe in Potsdam verſetzt. v. Rauſchenplat, Sec. Lt. vom&#13;
-Magdeburg. Jäg. Bat. Nr. 4, als Erzieher zum Kadettenhauſe in&#13;
-Plön vom 1. November cr. ab, vorläufig bis zum 1. Mai 1872&#13;
-kommdrt. Simon, Sec. Lt. vom Kadettencorps, zum Prem. Lieut.&#13;
-befördert.&#13;
-Den 19. Oktober. v. Reckow, Oberſt à la suite des Weſt⸗&#13;
-preuß. Ulanen⸗Regts. Nr. 1 und beauftragt mit der Führung der&#13;
-29. Kav. Brig., v. Drigalski, Oberſt à la suite des 1., Brandenb.&#13;
-Drag. Regts. Nr. 2 und beauftragt mit der Führung der 5. Kav.&#13;
-Brig, v. Buſſe, Oberſt à la suite des 3. Schleſ. Drag. Regts.&#13;
-Nr. 15 und beauftragt mit der Führung der 15. Kav. Brig., zu Com⸗&#13;
-mandeuren dieſer Kav. Brigaden ernannt. v. Böhn, Ob. Lt. aggr.&#13;
-dem 2. Hanſeat. Inf. Regt. Nr. 76 und kommdrt. zur Führung des&#13;
-Regts, unter Stellung à la suite dieſes Regts., mit der Führung&#13;
-deſſelben, v. Nitſche, Ob. Lt. aggr. dem 4. Bad. Inf. Regt. Prinz&#13;
-Wilhelm Nr. 112 und kommdrt. zur Führung des Regts, unter Stel⸗&#13;
-lung à la suite dieſes Regts. mit der Führung deſſelben, v. Grol⸗&#13;
-man, Ob. Lt. vom 3. Garde⸗Grenadier⸗Regiment Königin Eliſabeth&#13;
-und kommandirt zur Führung des 4. Garde⸗Regiments mit der Füh⸗&#13;
-rung dieſes Regiments, unter Stellung à la suite deſſelben,&#13;
-v. Oppell, Ob. Lt. vom 1. Garde⸗Regt. z. F. und kommandirt zur&#13;
-Führung des 2. Garde⸗Regts, mit der Führung dieſes Regiments,&#13;
-unter Stellung à la suite deſſelben, v. Sannow, Ob. Lt. aggr.&#13;
-dem 3. Weſtf. Inf. Regt. Nr. 16, mit der Führung dieſes Regts.,&#13;
-unter Stellung à la suite deſſelben, beauftragt. v. Altrock,&#13;
-Hauptm. und Comp. Chef im 3. Garde Gren. Regt. Königin Eliſa⸗&#13;
-beth, v. Roeder, Hauptm. u. Comp. Chef vom 1. Garde Regt.&#13;
-z. F., zu Majors befördert. Lindemann, Hauptm. u. Comp. Chef&#13;
-vom 4. Magdeb. Inf. Regt. Nr. 67, unter Stellung à la suite dieſes&#13;
-Regts., zum Platzmajor in Diedenhofen ernannt. v. Zedtwitz,&#13;
-Hauptm. u. Comp. Chef vom 4. Thür. Inf. Regt. Nr. 72, dem Regt.&#13;
-aggr. und zur Wahrnehmung der Geſchäfte als Bezirks⸗Commdr. des&#13;
-1. Bats. (Halberſtadt) 3. Magdeb. Landw. Regts. Nr. 66 komman⸗&#13;
-dirt. Koſack, Hauptm. zur Disp. und Bezirks⸗Commandeur des&#13;
-1. Bats. (Neuſtadt) 2. Poſ. Landw. Regt. Nr. 19, der Charakter als&#13;
-Major verliehen.&#13;
-Den 21. Oktober. v. Luck, Prem. Lt. à la suite des 2ten&#13;
-Rhein. Huſ. Regts. Nr. 9, auf ein Jahr zur Geſandtſchaft in Bern&#13;
-kommandirt.</Unicode>
-            </TextEquiv>
-        </TextRegion>
+            </TextRegion>
         <TextRegion type="heading" id="r5" custom="readingOrder {index:4;} structure {type:heading;}">
             <Coords points="1361,4435 2374,4433 2374,4500 1361,4502"/>
             <TextLine id="r5l1" custom="readingOrder {index:0;}">
@@ -593,10 +519,7 @@ kommandirt.</Unicode>
                     <Unicode>B. Abſchiedsbewilligungen ꝛc.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextEquiv>
-                <Unicode></Unicode>
-            </TextEquiv>
-        </TextRegion>
+            </TextRegion>
         <TextRegion type="paragraph" id="r6" custom="readingOrder {index:5;} structure {type:paragraph;}">
             <Coords points="896,4504 2835,4504 2834,5550 896,5569"/>
             <TextLine id="r6l1" custom="readingOrder {index:0;}">
@@ -725,27 +648,7 @@ kommandirt.</Unicode>
                     <Unicode>liehen.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextEquiv>
-                <Unicode>Den 18. Oktober. v. Bothmer, Gen. Maj. und Komman⸗&#13;
-dant von Danzig, in Genehmigung ſeines Abſchieds⸗Geſuches, als&#13;
-Gen. Lt. mit Penſ. zur Dispoſ. geſtellt. v. Wedell, Gen. Maj.&#13;
-von der Armee, in Genehmigung ſeines Abſchieds⸗Geſuches, mit Pen⸗&#13;
-ſion zur Disp. geſtellt.&#13;
-Den 19. Oktober. v. Etzel, Gen. der Inf. und Gouverneur&#13;
-von Stettin, in Genehmigung ſeines Abſchieds⸗Geſuches, mit Penſ.&#13;
-zur Disp. geſtellt. Keller, Gen. Maj. und Commdr. der 57. Inf.&#13;
-Brig., in Genehmigung ſeines Abſchieds⸗Geſuches, als Gen. Lt. mit&#13;
-Penſ. z. Disp. geſtellt. v. Bodungen, Port. Fähnr. vom 3. Thür.&#13;
-Inf. Regt. Nr. 71, ausgeſchieden, Meerwein, Sec. Lt. a. D., früher&#13;
-im 4. Brandenb. Inf. Regt. Nr. 24 (Großherzog von Mecklenburg⸗&#13;
-Schwerin), zuletzt bei der Inf. des 1. Bats. (Brandenburg a. H.)&#13;
-4. Brandenb. Landw. Regts. Nr. 24, die bedingte Anſtellungs⸗Berech⸗&#13;
-tigung im Civildienſt ertheilt.&#13;
-Den 21. Oktober. v. Schenckendorff, Gen. Maj. z. Disp.,&#13;
-zuletzt Commdr. der 10. Kav. Brig, der Charakter als Gen. Lt. ver⸗&#13;
-liehen.</Unicode>
-            </TextEquiv>
-        </TextRegion>
+            </TextRegion>
         <TextRegion type="heading" id="r7" custom="readingOrder {index:6;} structure {type:heading;}">
             <Coords points="1549,5584 2185,5584 2182,5668 1546,5668"/>
             <TextLine id="r7l1" custom="readingOrder {index:0;}">
@@ -755,10 +658,7 @@ liehen.</Unicode>
                     <Unicode>Nachweiſung</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextEquiv>
-                <Unicode></Unicode>
-            </TextEquiv>
-        </TextRegion>
+            </TextRegion>
         <TextRegion type="paragraph" id="r8" custom="readingOrder {index:7;} structure {type:paragraph;}">
             <Coords points="896,5675 2829,5656 2835,6102 896,6102"/>
             <TextLine id="r8l1" custom="readingOrder {index:0;}">
@@ -810,10 +710,7 @@ liehen.</Unicode>
                     <Unicode>Am 20. Januar 1871: v. Arnim, Ov. Lt. a. D, zuletzt Rittm. im</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextEquiv>
-                <Unicode></Unicode>
-            </TextEquiv>
-        </TextRegion>
+            </TextRegion>
         <TextRegion type="paragraph" id="r9" custom="readingOrder {index:8;} structure {type:paragraph;}">
             <Coords points="2876,468 4736,467 4777,6084 2876,6086"/>
             <TextLine id="r9l1" custom="readingOrder {index:0;}">
@@ -1481,104 +1378,7 @@ liehen.</Unicode>
                     <Unicode>a. D., zuletzt im Schlesw. Inf. Rgt. Nr. 84. Am 22. Juni: von</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextEquiv>
-                <Unicode>2. Garde⸗Ulanen⸗Regt. Am 24. Januar: Hoppe, Major a. D.,&#13;
-zuletzt Hauptm. und Platz⸗Ingenieur in Coſel. Am 28. Januar:&#13;
-Bormann, Major a. D., zuletzt Rittm. im jetzigen Weſtfäl. Kür.&#13;
-Regt. Nr. 4. Im Januar: Staabs, Ob. Lt. z. D., zuletzt Major&#13;
-im 6. Rhein. Inf. Regt. Nr. 68. Am 1. Februar: Kauder, Aſſiſtenz⸗&#13;
-arzt a. D., zuletzt im Schleſ. Ulanen⸗Regt. Nr. 2. Am 12. Februar:&#13;
-Berger, Oberſt a. D., zuletzt Commdr. des jetzigen 2. Rhein. Inf.&#13;
-Regt. Nr. 28. Am 14. Februar: v. Reiche, Major a. D, zuletzt&#13;
-in ehem. Hannov. Dienſten. Am 15. Februar: Mente, Oberſt&#13;
-a. D., zuletzt Oberſt⸗Lieutenant in der 3. Artillerie⸗Brigade.&#13;
-Am 1. März: Kosmann, Hauptm. a. D., zuletzt in der 5. Art.&#13;
-Brig. und Verkrüzen, Hauptm. a. D., zuletzt im vorm. 3 Bat.&#13;
-(Warendorf), jetzt 1. Weſtfäl. Landw. Regts. Nr. 13. Am. 4. März:&#13;
-Dr. Lemke, Ob. Stabs⸗ und Regts. Arzt a. D., zuletzt im 3. Rhein.&#13;
-Inf. Regt. Nr. 29. Am 7. März: Dr. Quehl, Ob. Stabs⸗Arzt&#13;
-a. D., zuletzt im 3. Garde⸗Regt. z. F. Am 9. März: Zwick, Aſſiſt.&#13;
-Arzt a. D, zuletzt bei der Art. Werkſtatt in Neiſſe. Am 10. März:&#13;
-Schulze, Pr. Lt. a. D., zuletzt Sec. Lt. im jetzigen Thür. Ulanen⸗&#13;
-Regt. Nr. 6 Am 12. März: Schumann, Major a. D., zuletzt&#13;
-Hauptm. im jetzigen 2. Thür. Inf. Regt. Nr. 32. Am 13. März:&#13;
-v. Schwerin, Maj. a. D., zuletzt Hauptmann im jetzigen 4. Pomm.&#13;
-Inf. Regt. Nr. 21. Am 15. März: Meyer, Ob. Lt. a. D., zuletzt&#13;
-in Oldenburgiſchen Dienſten, und Lauter, Juſtiz⸗Rath, Garn. Aud.&#13;
-a. D, zuletzt in Erfurt. Am 24. März: Breymann, Hauptm.&#13;
-a. D, zuletzt in ehem. Hannoverſchen Dienſten. Am 25. März:&#13;
-Lehmann, Hauptm. a. D., zuletzt im jetzigen Rhein. Inf. Regt.&#13;
-Nr. 30. Am 29. März: Jeniſch, Zeug⸗Hauptm. a. D., zuletzt&#13;
-beim Art.⸗Dep. in Coblenz. Am 1. April: v. Wedell, Maj. a. D.,&#13;
-zuletzt Hauptm. im jetzigen 3. Pommerſchen Inf. Regt. Nr. 14, und&#13;
-Grawert, Zeug⸗Hauptm. a. D, zuletzt Zeug⸗Lt. b. Art.⸗Dep. in Weſel.&#13;
-Am 3. April: v. Friedensburg, Oberſt z. D., zuletzt Bez. Commdr.&#13;
-des 2. Bats. (Brieg) 4. Niederſchl. Landw. Regts. Nr. 51, und Jung⸗&#13;
-hans, Major a. D, zuletzt im Brandenb. Train⸗Bat. Nr. 3. Am&#13;
-5. April: Eſchment, Ob. Lt. a. D., zuletzt à la suite der 2. Art.&#13;
-Brig. und Cmmdr. des Trains des II. Armee⸗Corps, und Kienitz,&#13;
-Major a. D., zuletzt Führer des 2. Aufg. d. 2. Bats. (Treuenbrietzen)&#13;
-jetzt 3. Brandb. Landw. Rgts. Nr. 20. Am 6. April: Gueinzius,&#13;
-Gen. Lt. a. D., zuletzt Gen. Maj. und Direktor des Milit. Oekon.&#13;
-Depart. Am 7. April: v. Gfug, Ob. Lt. a. D., zuletzt im jetzigen&#13;
-Weſtfäl. Füſ. Regt. Nr. 37. Am 8. April: Schienmann, Major&#13;
-a. D, zuletzt Rittmſtr. im jetzigen Litth. Drag. Regt. Nr. 1 (Prinz&#13;
-Albrecht von Preußen), und Müller, Sec. Lt. a. D., zuletzt im&#13;
-6. Brandenburg. Inf. Regt. Nr. 52. Am 10. April: André, Ob.&#13;
-Lt. a. D., zuletzt Führer des 2. Aufg. des 2. Bats. (Soldin) jetzigen&#13;
-1. Brandb. Ldw. Rgts. Nr. 8. Am 11. April: v. Schwartzenau,&#13;
-Ob. Lt. a. D., zuletzt Maj. im vorm. 3. Bat. 3. Harde⸗Land. Regts.&#13;
-Am 14. April: v. Dalwigk, Major a. D., zuletzt Hauptm. im&#13;
-jetzigen 2. Weſtfäl. Infanterie⸗Regiment Nr. 15 (Prinz Friedrich der&#13;
-Niederlande), und v. Natzmer, Prem. Lieut. a. D., zuletzt im&#13;
-jetzigen Kolberg. Grenadier⸗Regiment (2. Pommerſchen) Nr. 9.&#13;
-Am 15. April: v. Spörken, Gen. Lt. a. D., zuletzt bei der vor⸗&#13;
-maligen Hannoverſchen Kavallerie, und Curio, Ob. Lt. a. D., zuletzt&#13;
-Maj. und Commdr. des 1. Bats. (Aachen), jetzigen 1. Rhein. Landw.&#13;
-Regts. Nr. 25. Am 20. April: v. Gerhardt, Ob. Lt. a. D., zu⸗&#13;
-letzt Major im jetzigen Königs⸗Gren. Regt. (2. Weſtpreuß.) Nr. 7, und&#13;
-Toll, Geh. Juſtiz⸗Rath und Ober⸗Auditeur a. D., zuletzt beim Ge⸗&#13;
-neral⸗Auditoriat. Am 22. April: v. Quednow, Ob. Lt. z. D., zu⸗&#13;
-letzt Major im jetzigen 3. Oſtpr. Gren. Regt. Nr. 4. Am 24. April:&#13;
-Kayſer, Ob. Lt. a. D., zuletzt in der 8. Art. Brig. Am 25. April:&#13;
-du Fresne v. Francheville, Pr. Lt. a. D., zuletzt Sec. Lt. im&#13;
-2. Oſtpr. Gren. Regt. Nr. 3. Am 26. April: Kolewe, Hauptmann&#13;
-a. D., zuletzt im vorm. 1. Bat. (Breslau) 10. Landw. Regts., dem⸗&#13;
-nächſt Vorſtand der Handwerksſtätte des Niederſchleſ. Feld⸗Art. Regts.&#13;
-Nr. 5. Am 27. April: v. Seebach, Major a. D., zuletzt Führer&#13;
-des 2. Aufg. des 1. Bats. (Minden) 2. Weſtfäl. Landw. Regts. Nr. 15.&#13;
-Am 28. April: Dr. Hoffa, Ob. St. Arzt a. D., zuletzt in der ehem.&#13;
-Kurheſſ. Artill. Am 1. Mai: v. Stockhauſen, Maj. a. D, zuletzt&#13;
-Hauptm. im 1. Weſtfäl. Inf. Regt. Nr. 13. Am 2. Mai: v. Wloſto,&#13;
-Ob. Lt. a. D., zuletzt Major im jetzigen 2. Schleſ. Gren. Regt. Nr. 11.&#13;
-Am 3. Mai: v. Derſchau, Hauptm. z. D., zuletzt im jetzigen Oſtpr.&#13;
-Jäger⸗Bat. Nr. 1. Am 4. Mai: Lenz, Oberſt z. D., zuletzt Ob. Lt.&#13;
-und Commdr. der vorm. 2. Pion. Abth. Am 6. Mai: Beyer, Pr.&#13;
-Lt. a. D., zuletzt i. vorm. Reſ. Ldw. Bat. (Wohlau) 38. Inf. Rgts.&#13;
-Am 7. Mai: v. Waldow, Major a. D, zuletzt Rittm. im jetzigen&#13;
-1. Schleſ. Drag. Regt. Nr. 4. Am 10. Mai: Farthmann, Major&#13;
-a. D., zuletzt Hauptm. im jetzigen 2. Oberſchleſ. Inf. Regt. Nr. 23. Am&#13;
-16. Mai: Kellner, Lt. a. D., zuletzt in ehem. Hannov. Dienſten.&#13;
-Am 18. Mai: Gr. v. d. Schulenburg⸗Emden, Oberſt a. D.,&#13;
-zuletzt Maj. und Führer d. 2. Aufg. d. vorm. 1. Bats. (Halberſladt)&#13;
-27. Landw. Regts. Am 24. April: Tronchin de Lortol, Oberſt&#13;
-a. D, zuletzt als Maj. d. Regt. der Gardes du Corps aggr., dem⸗&#13;
-nächſt Schloß⸗Hauptm. zu Benrath. Am 29. Mai: v. Ciriacy&#13;
-Pr. Lt. a. D., zuletzt in der Gensd'amerie, demnächſt Poſtmeiſter in&#13;
-Koſel. Am 30. Mai: v. Helmrich, Ob. Lt. a. D., zuletzt Maj.&#13;
-im jetzigen 3. Oſtpr. Gren.⸗Regt. 4. Im Mai: Ebel, Ob. Lt. a. D.,&#13;
-zuletzt in vorm. Nauſſauiſchen Dienſten. Am 3. Juni: v. Oertzen,&#13;
-Rittm. a. D., zuletzt Pr. Lt. im 1. Bat. (Görlitz) jetzigen 1. Weſtpr.&#13;
-Landw. Regts. Nr. 6, und Dr. Maréchaux, Aſſiſt. Arzt a. D.,&#13;
-zuletzt in der 4. Art. Brig. Am 8. Juni: v. Prittwitz, General&#13;
-d. Inf. a. D., zuletzt Gen. Lt. u. kommdr. Gen. d. Garde⸗Korps.&#13;
-Am 10. Juni: Baron v. Puttkamer, Rittm. a. D., zuletzt heim&#13;
-Train des 1 Bats. (Görlitz) jetzigen 1. Weſtpreuß. Landwehr⸗Regts.&#13;
-Nr. 6. Am 12. Juni: Haack, Pr. Lt. a. D., zuletzt Sec. Lt. im&#13;
-vorm. 2. Weſtpr. Inf. Regt. Am 20. Juni: Gneiſt, Hauptmann&#13;
-a. D., zuletzt im Schlesw. Inf. Rgt. Nr. 84. Am 22. Juni: von</Unicode>
-            </TextEquiv>
-        </TextRegion>
+            </TextRegion>
         <TextRegion type="page-number" id="r10" custom="readingOrder {index:9;} structure {type:page-number;}">
             <Coords points="6660,359 6888,359 6888,455 6660,455"/>
             <TextLine id="r10l1" custom="readingOrder {index:0;}">
@@ -1588,10 +1388,7 @@ a. D., zuletzt im Schlesw. Inf. Rgt. Nr. 84. Am 22. Juni: von</Unicode>
                     <Unicode>2907</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextEquiv>
-                <Unicode></Unicode>
-            </TextEquiv>
-        </TextRegion>
+            </TextRegion>
         <TextRegion type="paragraph" id="r11" custom="readingOrder {index:10;} structure {type:paragraph;}">
             <Coords points="4833,479 6729,463 6729,911 4828,911"/>
             <TextLine id="r11l1" custom="readingOrder {index:0;}">
@@ -1643,16 +1440,7 @@ a. D., zuletzt im Schlesw. Inf. Rgt. Nr. 84. Am 22. Juni: von</Unicode>
                     <Unicode>im 1. Bat (Conitz) jetzigen 4 Pomm Ldw. Regts. Nr. 21.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextEquiv>
-                <Unicode>Schweinitz, Hauptm a. D., zu etzt im jetzigen 4 Rhein. Inf. Regt.&#13;
-Nr. 30. Am 24. Juni: v. Haidler, Sec. Lt. a. D., zuletzt im&#13;
-jetzigen 1. Oberſchl. Inf. Regt. Nr. 22. Am 25. Juni: v. Kleiſt,&#13;
-Gen. Maj. z. D., Oberſt u. Commd. der 22. Kavallerie⸗Brig. Am&#13;
-27. Juni: Wolff, Hauptm. a. D., zuletzt im jetzigen 2. Magdeb.&#13;
-Inf. Regt Ne 27, und v. Wietersheim, Hauptm. a. D., zuletzt&#13;
-im 1. Bat (Conitz) jetzigen 4 Pomm Ldw. Regts. Nr. 21.</Unicode>
-            </TextEquiv>
-        </TextRegion>
+            </TextRegion>
         <TextRegion type="paragraph" id="r12" custom="readingOrder {index:11;} structure {type:paragraph;}">
             <Coords points="4837,1055 6755,1055 6755,6083 4851,6074"/>
             <TextLine id="r12l1" custom="readingOrder {index:0;}">
@@ -2250,94 +2038,7 @@ im 1. Bat (Conitz) jetzigen 4 Pomm Ldw. Regts. Nr. 21.</Unicode>
                     <Unicode>at any time before May 12, 1872, publicly declare his renun-</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextEquiv>
-                <Unicode>Notification respecting the manner and form in which the&#13;
-renunciation by subjects and citizens of Great Britain and of&#13;
-the United States respectively, of their naturalization, and the&#13;
-resumption of their native allegiance, in accordance with the&#13;
-Conventions of the 13th. of May 1870 and of the 23d. of Fe-&#13;
-bruary 1871 concluded between Her Majesty the Queen of the&#13;
-United Kingdom of Great Britain and Ireland and the Presi-&#13;
-dent of the United States of America, May be Made and&#13;
-declared.&#13;
-Her Britannic Majesty and the President of the United&#13;
-States, having concluded a Convention on the 13th. of May&#13;
-1870 whereby British subjects who have become and are natu-&#13;
-ralized as Ctizens of the United States are at liberty to re-&#13;
-nounce their naturalization and to resume their British&#13;
-nationality provided that such naturalization be publicly&#13;
-declared before two years after the 12th of May 1872,&#13;
-and Citizens of the United States who have become&#13;
-and are naturalized as British subjects are at liberty to re-&#13;
-nounce their naturalization and resume their nationality as Citi-&#13;
-zens of the United States provided that such renunciation be&#13;
-publicly declared within two years after the exchange of the&#13;
-ratifications of the Convention, concluded a Supplementary&#13;
-Convention on the 23d. of February 1871 prescribing the manner&#13;
-and form in which the renunciation by the subjects of the&#13;
-Contracting Parties and the resumption of their native alle-&#13;
-giance may be made and publicly declared.&#13;
-Copies of these two Conventions and of Her Majesty's&#13;
-Order in Council declaring, as required by the 3d. Section of&#13;
-the Act 33 Victoria Cap 14, that the Convention of the 13th&#13;
-of May had been entered into by Her Majesty, are herewith&#13;
-published for the information of all concerned, and the Under-&#13;
-signed hereby calls upon all British subjects who have been&#13;
-naturalized within the United States, and who may desire to&#13;
-resume their allegiance as British subjects, to make the De-&#13;
-claration in the form prescribed before the 12th of May 1872&#13;
-in the presence of any Officer in the Diplomatic and Consular&#13;
-Service of Her Majesty.&#13;
-The Undersigned has further to point out that, although&#13;
-the Supplemental Convention of the 23d. of February last only&#13;
-requires that American Citizens who have been naturalized as&#13;
-British subjects should make the Declaration of Renunciation&#13;
-before a United States Court of Justice or Diplomatic or Con-&#13;
-sular Officer of the United States, it will be necessary, in&#13;
-order to meet the requirements of the British Act of Par-&#13;
-liament, that the Declaration should also be made before one&#13;
-of the British Judicial, Diplomatic, or Consular Officers&#13;
-mentioned in the 3d. Section.&#13;
-No fee will be levied for receiving these Declarations.&#13;
-British Embassy.&#13;
-Berlin, October 24th 1871.&#13;
-George Petre,&#13;
-H. B. M's Chargé d'affaires.&#13;
-Convention between Her Majesty and the United&#13;
-States of America, Supplementary to the Convention&#13;
-of May 13, 1870, respecting Naturalization. — Signed&#13;
-at Washington, February 23, 1871. (Ratifications&#13;
-exchanged at Washington, May 4, 1871.)&#13;
-Whereas by the Second Article of the Convention be-&#13;
-tween Her Majesty the Queen of the United Kingdom of Great&#13;
-Britain and Ireland, and the United States of America, for&#13;
-regulating the citizenship of subjects and citizens of the Con-&#13;
-tracting Parties who have emigrated or may emigrate from&#13;
-the dominions of the one to those of the other Party, signed&#13;
-at London, on the 13th of May, 1870, it was stipulated that&#13;
-the manner in which the renunciation by such subjects and&#13;
-citizens of their naturalization, and the resumption of their&#13;
-native allegiance, may be made and publicly declared, should&#13;
-be agreed upon by the Governments of the respective coun&#13;
-tries; Her Majesty the Queen of the United Kingdom of Great&#13;
-Britain and Ireland, and the President of the United States of&#13;
-America, for the purpose of effecting such agreement, have&#13;
-resolved to conclude a Supplemental Convention, and have&#13;
-named as their Plenipotentiaries, that is to say: Her Majesty&#13;
-the Queen of the United Kingdom of Great Britain and Ire-&#13;
-land, Sir Edward Thornton, Knight Commander of the Most&#13;
-Honourable Order of the Bath. and Her Envoy Extraordinary&#13;
-and Minister Plenipotentiary to the United States of America;&#13;
-and the President of the United States of America, Hamilton&#13;
-Fish, Secretary of State, who have agreed as follows:&#13;
-Art. Ⅰ. Any person being originally a citizen of the Uni-&#13;
-ted States who had, previously to May 13, 1870, been natura-&#13;
-lized as a British subject, may at any time before August 10,&#13;
-1872, and any British subject who, at the date first aforesaid, had&#13;
-been naturalized as a citizen within the United States, may,&#13;
-at any time before May 12, 1872, publicly declare his renun-</Unicode>
-            </TextEquiv>
-        </TextRegion>
+            </TextRegion>
         <TextRegion type="paragraph" id="r13" custom="readingOrder {index:12;} structure {type:paragraph;}">
             <Coords points="6798,463 8711,463 8711,3320 6798,3320"/>
             <TextLine id="r13l1" custom="readingOrder {index:0;}">
@@ -2676,57 +2377,7 @@ at any time before May 12, 1872, publicly declare his renun-</Unicode>
                     <Unicode>(L. S.) Hamilton Fish.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextEquiv>
-                <Unicode>ciation of such naturalization by subcribing an instrument in&#13;
-writing, substantially in the form hereunto appended, and de-&#13;
-signated as Annex A.&#13;
-Such renunciation by an original citizen of the United&#13;
-States of British nationality shall, within the territories and&#13;
-jurisdiction of the United States, be made in duplicate, in the&#13;
-presence of any Court authorized by law for the time being&#13;
-to admit aliens to naturalization, or before the Clerk or Protono-&#13;
-tary of any such Court: if the declarant be beyond the territories&#13;
-of the United States, it shall be made in duplicate, before any&#13;
-Diplomatic or Consular officer of the United States. One of&#13;
-such duplicates shall remain of record in the custody of the&#13;
-Court or officer in whose presence it was made; the other&#13;
-shall be, without delay, transmitted to the Department of&#13;
-State.&#13;
-Such renunciation, if declared by an original British sub-&#13;
-ject, of his acquired nationality as a citizen of the United&#13;
-States, shall, if the declarant be in the United Kingdom of&#13;
-Great Britain and lreland, be made in duplicate, in the pre-&#13;
-sence of a Justice of the Peace; if elsewhere in Her Britannic&#13;
-Majesty's dominions, in triplicate, in the presence of any&#13;
-Judge of civil or criminal jurisdiction, of any Justice of the&#13;
-Peace, or of any other officer for the time being authorized&#13;
-by law, in the place in which the declarant is, to administer&#13;
-an oath for any judicial or other legal purpose: if out of Her&#13;
-Majesty's dominions, in triplicate, in the presence of any offi-&#13;
-cer in the Diplomatic or Consular Service of Her Majesty.&#13;
-Art. IⅠ. The Contracting Parties hereby engage to com-&#13;
-municate each to the other, from time to time, lists of the&#13;
-persons who, within their respective dominions and territories,&#13;
-or before their Diplomatic and Consular officers, have declared&#13;
-their renunciation of naturalization, with the dates and places&#13;
-of making such declarations, and such information as to the&#13;
-abode of the declarants, and the times and places of their&#13;
-naturalization, as they may have furnished.&#13;
-Art. III. The present Convention shall be ratified by Her&#13;
-Britannic Majesty, and by the President of the United States&#13;
-by and with the advice and consent of the Senate thereof, and&#13;
-the ratifications shall be exchanged at Washington as soon as&#13;
-may be convenient.&#13;
-In witness whereof the respective Plenipotentiaries have&#13;
-signed the same, and have affixed thereto their respective&#13;
-seals.&#13;
-Done at Washington, the twenty-third day of February,&#13;
-in the year of Our Lord one thousand eight hundred and se-&#13;
-venty-one.&#13;
-(L. S) Edwd. Thornton.&#13;
-(L. S.) Hamilton Fish.</Unicode>
-            </TextEquiv>
-        </TextRegion>
+            </TextRegion>
         <TextRegion type="heading" id="r14" custom="readingOrder {index:13;} structure {type:heading;}">
             <Coords points="7569,3307 7953,3310 7953,3397 7569,3394"/>
             <TextLine id="r14l1" custom="readingOrder {index:0;}">
@@ -2736,10 +2387,7 @@ venty-one.&#13;
                     <Unicode>Annex (A.).</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextEquiv>
-                <Unicode></Unicode>
-            </TextEquiv>
-        </TextRegion>
+            </TextRegion>
         <TextRegion type="paragraph" id="r15" custom="readingOrder {index:14;} structure {type:paragraph;}">
             <Coords points="6790,3383 8708,3391 8711,6079 6798,6079"/>
             <TextLine id="r15l1" custom="readingOrder {index:0;}">
@@ -3064,55 +2712,7 @@ venty-one.&#13;
                     <Unicode>agreed upon and concluded the following Articles: —</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextEquiv>
-                <Unicode>I., A. B., of (insert abode), being originally a citizen of the&#13;
-United States of America (or a British subject), and having&#13;
-become naturalized within the dominions of Her Britannic&#13;
-Majesty as a British subject (or as a citizen within the United&#13;
-States of America), do hereby renounce my naturalization as&#13;
-a British subject (or citizen of the United States); and declare&#13;
-that it is my desire to resume my nationality as a citizen of&#13;
-the United States (or British subject).&#13;
-(Signed) A. B.&#13;
-Made and subscribed before me, in&#13;
-(insert country or other subdivision, and state, province&#13;
-colony, legation, or consulate), this day of&#13;
-, 187.&#13;
-(Signed) E. F.,&#13;
-Justice of the Peace (or other title).&#13;
-(L. S.) Edwd. Thornton.&#13;
-(L. S.) Hamilton Fish.&#13;
-Convention between Her Majesty and the United States&#13;
-of America relative to Naturalization. — Signed at London,&#13;
-May 13, 1870. (Ratifications exchanged at London, August 10,&#13;
-1870.)&#13;
-Her Majesty the Queen of the United Kingdom of Great&#13;
-Britain and Ireland, and the President of the United States of&#13;
-America, being desirous to regulate the citizenship of British&#13;
-subjects who have emigrated or who may emigrate from the&#13;
-British dominions to the United States of America, and of ci-&#13;
-tizens of the United States of America who have emigrated&#13;
-or who may emigrate from the United States of America to&#13;
-the British dominions, have resolved to conclude a Convention&#13;
-for that purpose, and have named as their Plenipotentiaries,&#13;
-that is to say:&#13;
-Her Majesty the Queen of the United Kingdom of Great&#13;
-Britain and Ireland, the Right Honourable George William&#13;
-Frederick, Earl of Clarendon, Baron Hyde of Hindon, a Peer&#13;
-of the United Kingdom, a Member of Her Britannic Majesty's&#13;
-Most Honourable Privy Council, Knight of the Most Noble&#13;
-Order of the Garter, Knight Grand Cross of the Most Honou-&#13;
-rable Order of the Bath, Her Britannic Majesty's Principal&#13;
-Secretary of State for Foreign Affairs;&#13;
-And the President of the United States of America, John&#13;
-Lothrop Motley, Esquire, Envoy Extraordinary and Minister&#13;
-Plenipotentiary of the United States of America to Her Bri-&#13;
-tannic Majesty;&#13;
-Who, after having communicated to each other their re-&#13;
-spective full powers, found to be in good and due form, have&#13;
-agreed upon and concluded the following Articles: —</Unicode>
-            </TextEquiv>
-        </TextRegion>
+            </TextRegion>
         <SeparatorRegion id="r_12" custom="readingOrder {index:15;}">
             <Coords points="1772,5564 1966,5564 1966,5571 1772,5571"/>
         </SeparatorRegion>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
     <Metadata>
         <Creator>Transkribus</Creator>
@@ -403,10 +403,7 @@
                     <Unicode>Uebersicht der Portosätze für die frankirte Correspondenz nach dem Inlande und nach dem Auslande.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextEquiv>
-                <Unicode>Uebersicht der Portosätze für die frankirte Correspondenz nach dem Inlande und nach dem Auslande.</Unicode>
-            </TextEquiv>
-        </TextRegion>
+            </TextRegion>
         <TextRegion type="paragraph" id="r_3_1" custom="readingOrder {index:1;} structure {type:paragraph;}">
             <Coords points="691,616 2866,616 2871,944 696,944"/>
             <TextLine id="r_3_1l0" custom="readingOrder {index:0;}">
@@ -472,18 +469,7 @@
                     <Unicode>frankirt oder unfrankirt abgesandt werden; im Uebrigen unterliegen Einschreibebriefe dem Frankirungszwange.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextEquiv>
-                <Unicode>Vorbemerkungen: Postkarten sind nach sämmtlichen europäischen Staaten, mit Ausnahme von Russland,&#13;
-sowie nach den Ver. Staaten Amerikas, Brasilien, Aden, Birma, den Engl. Besitzungen und Schutzstaaten in Vorder-Indien (ausschl.&#13;
-Ceylon), den Französischen und Portugiesischen Besitzungen in Vorder-Indien zulässig.&#13;
-Für Postkarten innerhalb des Deutschen Reiches, ferner nach Oesterreich-Ungarn, Luxemburg, der Schweiz, Helgoland, Rumä-&#13;
-nien, Alexandrien, Constantinopel und solchen Orten in der Türkei, an welchen sich Oesterreichische Postanstalten befinden, sowie&#13;
-nach den Ver. Staaten Amerikas, bestehen ermässigte Portosätze; für Postkarten nach dem übrigen Auslande wird dasselbe Porto&#13;
-wie für gewöhnliche frankirte Briefe erhoben.&#13;
-Einschreibebriefe können nur innerhalb des Deutschen Reiches, ferner im Verkehr mit Oesterreich-Ungarn und Luxemburg&#13;
-frankirt oder unfrankirt abgesandt werden; im Uebrigen unterliegen Einschreibebriefe dem Frankirungszwange.</Unicode>
-            </TextEquiv>
-        </TextRegion>
+            </TextRegion>
         <TextRegion type="paragraph" id="r_31_1" custom="readingOrder {index:2;} structure {type:paragraph;}">
             <Coords points="2938,632 5113,632 5104,966 2936,946"/>
             <TextLine id="r_31_1l0" custom="readingOrder {index:0;}">
@@ -549,18 +535,7 @@ frankirt oder unfrankirt abgesandt werden; im Uebrigen unterliegen Einschreibebr
                     <Unicode>bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen Sätze dagegen für je 40 Gramm.</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextEquiv>
-                <Unicode>Drucksachen und Waarenproben müssen stets vom Absender frankirt werden.&#13;
-Ermässigte Portosätze bestehen im Verkehr mit den an Deutschland angrenzenden Ländern für die innerhalb des Grenz-&#13;
-rayons gelegenen Orte.&#13;
-Zw. bedeutet Frankirungszwang. In den Fällen, in welchen dieses Zeichen fehlt, können die gewöhnlichen Briefe auch unfrankirt&#13;
-abgesandt werden.&#13;
-† bedeutet, dass die Frankirung nur theilweise bewirkt werden kann.&#13;
-Die nachstehenden Sätze gelten, wenn nicht ein Anderes in den folgenden Bemerkungen angegeben ist,&#13;
-bei Briefen für je 15 Gramm; die mit einem * versehenen Sätze dagegen für je 10 Gramm;&#13;
-bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen Sätze dagegen für je 40 Gramm.</Unicode>
-            </TextEquiv>
-        </TextRegion>
+            </TextRegion>
         <SeparatorRegion id="r_142" custom="readingOrder {index:3;}">
             <Coords points="5688,567 5880,567 5880,581 5688,581"/>
         </SeparatorRegion>
