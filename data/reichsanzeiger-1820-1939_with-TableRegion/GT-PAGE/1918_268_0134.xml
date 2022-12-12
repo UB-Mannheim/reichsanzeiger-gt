@@ -1,0 +1,2371 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.7.3:model_id=40804:lm=provided:date=15_07_2022_20:40
+prov=READ-COOP:name=PyLaia@Transkribus:version=0.7.3:model_id=40804:lm=provided:date=15_07_2022_20:40
+Transkribus</Creator>
+        <Created>2021-12-14T12:18:09.675+01:00</Created>
+        <LastChange>2022-12-07T16:04:21.623+01:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="1028597" pageId="43217668" pageNr="19" tsid="105747688" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=MINNUNJBVMEKGFBFESMEWJVV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GQHUOUQYEZBVQULZRTKSVFBZ" imageId="35453680"/>
+    </Metadata>
+    <Page imageFilename="1918_268_0134.jpg" imageWidth="5000" imageHeight="7648">
+        <PrintSpace>
+            <Coords points="156,462 4739,463 4615,6864 89,6864"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1670486865778" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+                <RegionRefIndexed index="2" regionRef="r3"/>
+                <RegionRefIndexed index="3" regionRef="r4"/>
+                <RegionRefIndexed index="5" regionRef="r5"/>
+                <RegionRefIndexed index="6" regionRef="r6"/>
+                <RegionRefIndexed index="7" regionRef="r7"/>
+                <RegionRefIndexed index="8" regionRef="r8"/>
+                <RegionRefIndexed index="9" regionRef="r9"/>
+                <RegionRefIndexed index="10" regionRef="r10"/>
+                <RegionRefIndexed index="11" regionRef="r11"/>
+                <RegionRefIndexed index="12" regionRef="r12"/>
+                <RegionRefIndexed index="13" regionRef="r13"/>
+                <RegionRefIndexed index="14" regionRef="r14"/>
+                <RegionRefIndexed index="15" regionRef="r15"/>
+                <RegionRefIndexed index="16" regionRef="r16"/>
+                <RegionRefIndexed index="17" regionRef="r17"/>
+                <RegionRefIndexed index="18" regionRef="r18"/>
+                <RegionRefIndexed index="19" regionRef="r19"/>
+                <RegionRefIndexed index="20" regionRef="r20"/>
+                <RegionRefIndexed index="21" regionRef="r21"/>
+                <RegionRefIndexed index="22" regionRef="r22"/>
+                <RegionRefIndexed index="23" regionRef="r23"/>
+                <RegionRefIndexed index="24" regionRef="r24"/>
+                <RegionRefIndexed index="25" regionRef="r25"/>
+                <RegionRefIndexed index="26" regionRef="r26"/>
+                <RegionRefIndexed index="27" regionRef="r27"/>
+                <RegionRefIndexed index="28" regionRef="r28"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="header" id="r1" custom="readingOrder {index:0;} structure {type:header;}">
+            <Coords points="631,525 4129,525 4133,927 635,927"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="667,567 998,567 2671,578 2813,579 3661,585 4102,649 4102,864 3823,916 2275,916 845,904 667,847 667,567"/>
+                <Baseline points="667,777 1951,828 2091,829 4102,831"/>
+                <TextEquiv>
+                    <Unicode>Deutſcher Reichsanzeiger</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Deutſcher Reichsanzeiger</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="header" id="r2" custom="readingOrder {index:1;} structure {type:header;}">
+            <Coords points="2262,929 2479,929 2479,1038 2262,1038"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="2295,959 2400,936 2400,936 2444,936 2444,1027 2295,1027 2295,959"/>
+                <Baseline points="2295,1026 2444,1027"/>
+                <TextEquiv>
+                    <Unicode>und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>und</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="header" id="r3" custom="readingOrder {index:2;} structure {type:header;}">
+            <Coords points="408,1050 4334,1050 4334,1440 408,1440"/>
+            <TextLine id="r3l1" custom="readingOrder {index:0;}">
+                <Coords points="429,1061 1090,1080 1383,1080 3859,1087 4299,1162 4299,1376 3938,1430 3737,1430 1090,1414 456,1382 433,1151"/>
+                <Baseline points="456,1381 1993,1334 2137,1335 4299,1322"/>
+                <TextEquiv>
+                    <Unicode>Preußiſcher Staatsanzeiger.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Preußiſcher Staatsanzeiger.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="header" id="r4" custom="readingOrder {index:3;} structure {type:header;}">
+            <Coords points="482,1519 1748,1519 1748,1810 482,1810"/>
+            <TextLine id="r4l1" custom="readingOrder {index:0;}">
+                <Coords points="640,1533 687,1533 1465,1540 1601,1547 1601,1580 1465,1586 1179,1586 793,1581 640,1569 640,1533"/>
+                <Baseline points="640,1560 707,1571 732,1571 989,1573 1015,1573 1157,1575 1179,1575 1465,1578 1491,1578 1521,1579 1540,1579 1601,1578"/>
+                <TextEquiv>
+                    <Unicode>Der Bezugspreis beträgt vierteljährlich 9 ℳ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l2" custom="readingOrder {index:1;}">
+                <Coords points="514,1583 564,1583 1681,1593 1726,1603 1726,1629 1681,1639 1662,1639 1080,1636 643,1632 514,1621 514,1583"/>
+                <Baseline points="514,1620 601,1621 617,1621 880,1624 895,1624 1046,1625 1062,1625 1262,1629 1289,1629 1356,1629 1384,1629 1447,1629 1464,1629 1596,1629 1612,1629 1726,1622"/>
+                <TextEquiv>
+                    <Unicode>Alle Poſtanſtalten nehmen Beſtellung an; für Berlin außer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l3" custom="readingOrder {index:2;}">
+                <Coords points="514,1635 535,1635 768,1637 1581,1645 1678,1646 1725,1655 1725,1681 1640,1689 1581,1690 1545,1690 625,1684 604,1682 514,1672 514,1635"/>
+                <Baseline points="514,1671 583,1672 604,1673 867,1677 881,1676 952,1677 971,1678 1351,1681 1369,1682 1433,1682 1451,1682 1725,1681"/>
+                <TextEquiv>
+                    <Unicode>den Poſtanſtalten und Zeitungsvertrieben für Selbſtabholer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l4" custom="readingOrder {index:3;}">
+                <Coords points="515,1698 565,1689 565,1689 658,1689 1535,1697 1706,1700 1723,1725 1723,1737 1585,1743 1301,1743 733,1737 582,1734 515,1723 515,1698"/>
+                <Baseline points="515,1723 598,1725 637,1726 693,1727 733,1728 1034,1731 1055,1731 1141,1732 1166,1732 1224,1733 1270,1735 1609,1736 1637,1737 1723,1737"/>
+                <TextEquiv>
+                    <Unicode>auch die Geſchäftsſtelle SW. 48, Wilhelmſtraße 32.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l5" custom="readingOrder {index:4;}">
+                <Coords points="691,1749 720,1749 1105,1751 1539,1755 1539,1798 1499,1800 1471,1800 1242,1798 791,1794 691,1785 691,1749"/>
+                <Baseline points="691,1785 912,1787 935,1787 1173,1789 1199,1789 1347,1790 1373,1790 1445,1791 1471,1791 1539,1791"/>
+                <TextEquiv>
+                    <Unicode>Einzelne Nummern koſten 25 Pf.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Der Bezugspreis beträgt vierteljährlich 9 ℳ.
+Alle Poſtanſtalten nehmen Beſtellung an; für Berlin außer
+den Poſtanſtalten und Zeitungsvertrieben für Selbſtabholer
+auch die Geſchäftsſtelle SW. 48, Wilhelmſtraße 32.
+Einzelne Nummern koſten 25 Pf.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="r_5" custom="readingOrder {index:4;} structure {type:header;}">
+            <Coords points="2161,1456 2555,1456 2555,1855 2161,1855"/>
+        </GraphicRegion>
+        <TextRegion type="header" id="r5" custom="readingOrder {index:5;} structure {type:header;}">
+            <Coords points="2974,1533 4259,1548 4259,1835 2966,1828"/>
+            <TextLine id="r5l1" custom="readingOrder {index:0;}">
+                <Coords points="2984,1548 3144,1548 4170,1557 4229,1563 4246,1571 4246,1592 4170,1603 4015,1603 3047,1587 2984,1579 2984,1548"/>
+                <Baseline points="2984,1579 3263,1582 3291,1583 3353,1584 3379,1584 3442,1585 3464,1585 3581,1587 3612,1587 3707,1587 3727,1588 3972,1591 3993,1591 4246,1592"/>
+                <TextEquiv>
+                    <Unicode>Anzeigenpreis für den Raum einer 5 geſpaltenen Einheitszeile</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l2" custom="readingOrder {index:1;}">
+                <Coords points="2986,1589 3010,1589 4248,1602 4248,1637 3956,1638 3935,1638 3619,1636 3288,1630 3055,1624 2986,1619 2986,1589"/>
+                <Baseline points="2986,1619 3040,1620 3055,1620 3129,1621 3147,1621 3240,1622 3253,1623 3278,1623 3288,1623 3434,1625 3447,1625 3703,1628 3718,1628 3775,1629 3789,1629 3851,1630 3874,1630 4071,1632 4083,1632 4174,1633 4188,1633 4248,1633"/>
+                <TextEquiv>
+                    <Unicode>50 Pf., einer 3 geſpalt. Einheitszeile 90 Pf. Außerdem wird auf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l3" custom="readingOrder {index:2;}">
+                <Coords points="2982,1629 3001,1629 3274,1630 3739,1635 4190,1644 4231,1652 4244,1665 4244,1673 4231,1674 4143,1678 4022,1678 3610,1677 3111,1671 2982,1660 2982,1629"/>
+                <Baseline points="2982,1660 3046,1661 3062,1661 3341,1665 3361,1665 3414,1666 3432,1666 3797,1670 3819,1670 3890,1671 3905,1671 3960,1672 3975,1672 4009,1672 4022,1672 4066,1673 4083,1673 4244,1671"/>
+                <TextEquiv>
+                    <Unicode>den Anzeigenpreis ein Teuerungszuſchlag von 20 v. H. erhoben.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l4" custom="readingOrder {index:3;}">
+                <Coords points="3345,1692 3380,1692 3665,1698 3779,1701 3885,1709 3885,1729 3522,1731 3423,1731 3345,1723 3345,1692"/>
+                <Baseline points="3345,1723 3584,1725 3618,1726 3779,1728 3808,1729 3885,1724"/>
+                <TextEquiv>
+                    <Unicode>Anzeigen nimmt an:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l5" custom="readingOrder {index:4;}">
+                <Coords points="3091,1730 3166,1729 3166,1729 3438,1729 4135,1743 4135,1772 4070,1778 4016,1779 4002,1779 3191,1767 3091,1760 3091,1730"/>
+                <Baseline points="3091,1760 3144,1760 3166,1761 3438,1764 3465,1764 3526,1765 3554,1765 3701,1766 3724,1767 3793,1769 3815,1770 4135,1772"/>
+                <TextEquiv>
+                    <Unicode>die Geſchäftsſtelle des Reichs⸗ und Staatsanzeigers</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l6" custom="readingOrder {index:5;}">
+                <Coords points="3197,1771 3231,1771 3983,1781 4012,1782 4027,1802 4027,1812 3825,1818 3587,1818 3197,1802 3197,1771"/>
+                <Baseline points="3197,1802 3326,1803 3347,1801 3435,1803 3459,1804 3527,1805 3556,1806 3844,1810 3867,1810 3935,1811 3958,1811 4027,1812"/>
+                <TextEquiv>
+                    <Unicode>Berlin SW. 48, Wilhelmſtraße Nr. 32.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Anzeigenpreis für den Raum einer 5 geſpaltenen Einheitszeile
+50 Pf., einer 3 geſpalt. Einheitszeile 90 Pf. Außerdem wird auf
+den Anzeigenpreis ein Teuerungszuſchlag von 20 v. H. erhoben.
+Anzeigen nimmt an:
+die Geſchäftsſtelle des Reichs⸗ und Staatsanzeigers
+Berlin SW. 48, Wilhelmſtraße Nr. 32.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="header" id="r6" custom="readingOrder {index:6;} structure {type:header;}">
+            <Coords points="152,1847 630,1845 630,1963 152,1965"/>
+            <TextLine id="r6l1" custom="readingOrder {index:0;}">
+                <Coords points="165,1871 392,1867 392,1867 597,1867 597,1950 454,1954 165,1954 165,1871"/>
+                <Baseline points="165,1954 597,1944"/>
+                <TextEquiv>
+                    <Unicode>No. 268.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>No. 268.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="header" id="r7" custom="readingOrder {index:7;} structure {type:header;}">
+            <Coords points="821,1884 1429,1884 1429,1968 821,1968"/>
+            <TextLine id="r7l1" custom="readingOrder {index:0;}">
+                <Coords points="854,1896 970,1885 970,1885 1325,1885 1395,1911 1411,1935 1411,1947 1325,1961 970,1961 854,1944 854,1896"/>
+                <Baseline points="854,1943 1411,1947"/>
+                <TextEquiv>
+                    <Unicode>Reichsbankgirokonto.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Reichsbankgirokonto.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="header" id="r8" custom="readingOrder {index:8;} structure {type:header;}">
+            <Coords points="1689,1861 2974,1861 2974,1970 1689,1970"/>
+            <TextLine id="r8l1" custom="readingOrder {index:0;}">
+                <Coords points="1721,1880 1757,1877 1757,1877 1908,1877 2135,1878 2585,1881 2877,1885 2941,1905 2941,1955 2303,1967 2024,1967 1757,1958 1721,1949 1721,1880"/>
+                <Baseline points="1721,1949 1974,1947 2024,1948 2318,1949 2365,1949 2465,1950 2513,1949 2604,1952 2643,1953 2941,1955"/>
+                <TextEquiv>
+                    <Unicode>Berlin, Dienstag, den 12. November</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Berlin, Dienstag, den 12. November</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="header" id="r9" custom="readingOrder {index:9;} structure {type:header;}">
+            <Coords points="3169,1898 4089,1898 4089,1983 3169,1983"/>
+            <TextLine id="r9l1" custom="readingOrder {index:0;}">
+                <Coords points="3202,1909 3476,1909 4031,1922 4058,1923 4058,1968 3476,1969 3235,1969 3202,1966 3202,1909"/>
+                <Baseline points="3202,1955 3629,1964 3678,1964 3851,1965 3882,1966 3937,1966 3956,1966 4058,1967"/>
+                <TextEquiv>
+                    <Unicode>Poſtſcheckkonto: Berlin 41 821.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Poſtſcheckkonto: Berlin 41 821.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="header" id="r10" custom="readingOrder {index:10;} structure {type:header;}">
+            <Coords points="4245,1880 4582,1880 4582,1990 4245,1990"/>
+            <TextLine id="r10l1" custom="readingOrder {index:0;}">
+                <Coords points="4276,1900 4510,1900 4574,1904 4574,1981 4454,1981 4276,1976 4276,1900"/>
+                <Baseline points="4276,1976 4574,1961"/>
+                <TextEquiv>
+                    <Unicode>1918.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1918.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="heading" id="r11" custom="readingOrder {index:11;} structure {type:heading;}">
+            <Coords points="469,2053 1245,2051 1245,2131 469,2131"/>
+            <TextLine id="r11l1" custom="readingOrder {index:0;}">
+                <Coords points="499,2066 560,2066 997,2071 1154,2073 1201,2077 1226,2087 1226,2115 1201,2116 1174,2117 997,2123 839,2123 499,2119 499,2066"/>
+                <Baseline points="499,2110 672,2111 699,2111 784,2112 822,2113 1043,2115 1071,2115 1226,2115"/>
+                <TextEquiv>
+                    <Unicode>Inhalt des amtlichen Teils:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Inhalt des amtlichen Teils:</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r12" custom="readingOrder {index:12;} structure {type:paragraph;}">
+            <Coords points="150,2131 1612,2131 1596,3584 132,3584"/>
+            <TextLine id="r12l1" custom="readingOrder {index:0;}">
+                <Coords points="652,2143 822,2143 971,2146 1017,2147 1057,2149 1072,2176 1072,2189 1057,2200 924,2200 794,2198 652,2188 652,2143"/>
+                <Baseline points="652,2188 896,2188 924,2188 1072,2185"/>
+                <TextEquiv>
+                    <Unicode>Deutſches Reich.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r12l2" custom="readingOrder {index:1;}">
+                <Coords points="159,2210 183,2206 360,2205 573,2205 1477,2213 1582,2214 1582,2257 1477,2265 1287,2266 1124,2266 366,2254 159,2255 159,2210"/>
+                <Baseline points="159,2250 318,2249 360,2246 573,2249 616,2249 671,2250 711,2250 988,2254 1032,2254 1096,2255 1124,2255 1323,2256 1362,2256 1477,2256 1518,2257 1582,2257"/>
+                <TextEquiv>
+                    <Unicode>Aufruf, betreffend die Uebernahme der Geſchäfte durch die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r12l3" custom="readingOrder {index:2;}">
+                <Coords points="205,2271 328,2257 328,2257 517,2257 568,2270 568,2309 350,2309 205,2301 205,2271"/>
+                <Baseline points="205,2301 299,2300 328,2301 568,2297"/>
+                <TextEquiv>
+                    <Unicode>neue Regierung.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r12l4" custom="readingOrder {index:3;}">
+                <Coords points="159,2314 183,2310 183,2310 688,2310 1534,2317 1582,2330 1582,2361 1347,2370 1253,2370 982,2368 373,2363 183,2359 159,2358 159,2314"/>
+                <Baseline points="159,2352 318,2353 373,2351 585,2353 633,2354 688,2354 729,2355 1005,2358 1050,2359 1116,2359 1160,2360 1347,2360 1406,2360 1461,2360 1512,2360 1582,2361"/>
+                <TextEquiv>
+                    <Unicode>Aufruf, betreffend die Verpflegung der Truppen an der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r12l5" custom="readingOrder {index:4;}">
+                <Coords points="207,2363 234,2362 234,2362 413,2362 435,2366 435,2404 413,2414 234,2414 207,2407 207,2363"/>
+                <Baseline points="207,2407 435,2403"/>
+                <TextEquiv>
+                    <Unicode>Weſtfront.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r12l6" custom="readingOrder {index:5;}">
+                <Coords points="157,2417 185,2415 491,2414 491,2414 533,2414 977,2417 1103,2423 1137,2432 1137,2464 1041,2471 808,2471 185,2467 157,2459 157,2417"/>
+                <Baseline points="157,2458 305,2456 332,2456 395,2457 427,2457 649,2458 678,2458 742,2460 770,2460 1137,2464"/>
+                <TextEquiv>
+                    <Unicode>Aufruf zur Sicherung der Bahntransporte.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r12l7" custom="readingOrder {index:6;}">
+                <Coords points="157,2467 802,2460 819,2460 1510,2473 1558,2474 1580,2487 1580,2518 1558,2528 1246,2527 875,2522 157,2519 157,2467"/>
+                <Baseline points="157,2507 290,2509 334,2508 541,2509 571,2510 631,2510 658,2511 786,2512 802,2513 882,2514 906,2514 1232,2517 1277,2517 1342,2518 1374,2518 1580,2518"/>
+                <TextEquiv>
+                    <Unicode>Erlaß, betreffend die vorläufige Weiterführung der Geſchäfte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r12l8" custom="readingOrder {index:7;}">
+                <Coords points="207,2522 280,2520 345,2519 345,2519 402,2519 767,2520 1433,2526 1444,2527 1504,2539 1504,2570 1433,2579 1177,2579 302,2570 207,2561 207,2522"/>
+                <Baseline points="207,2561 316,2562 345,2560 402,2561 432,2561 767,2564 803,2565 882,2566 909,2567 1034,2567 1087,2568 1130,2568 1155,2568 1504,2562"/>
+                <TextEquiv>
+                    <Unicode>durch die Staatsſekretäre und Chefs der Reichsbehörden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r12l9" custom="readingOrder {index:8;}">
+                <Coords points="155,2575 210,2572 253,2571 253,2571 526,2571 679,2572 1125,2575 1174,2578 1186,2611 1186,2621 1174,2629 844,2629 253,2621 155,2617 155,2575"/>
+                <Baseline points="155,2613 289,2613 320,2612 526,2614 555,2615 690,2616 718,2616 790,2617 824,2617 1186,2620"/>
+                <TextEquiv>
+                    <Unicode>Erlaß, betreffend Schutz der Kohlenwirtſchaft.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r12l10" custom="readingOrder {index:9;}">
+                <Coords points="152,2626 213,2624 352,2623 352,2623 471,2623 763,2624 1299,2627 1324,2637 1324,2674 1299,2683 924,2683 352,2675 152,2669 152,2626"/>
+                <Baseline points="152,2668 525,2664 554,2665 763,2669 799,2670 1324,2674"/>
+                <TextEquiv>
+                    <Unicode>Bekanntmachung, betreffend Ausfuhrerleichterungen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r12l11" custom="readingOrder {index:10;}">
+                <Coords points="155,2681 215,2674 215,2674 443,2674 1508,2684 1574,2696 1574,2727 1309,2736 1130,2736 810,2734 419,2727 155,2722 155,2681"/>
+                <Baseline points="155,2722 514,2718 555,2718 651,2719 689,2720 747,2722 779,2722 963,2720 994,2722 1066,2724 1094,2724 1574,2727"/>
+                <TextEquiv>
+                    <Unicode>Bekanntmachung über die Bildung von Wohnungsverbänden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r12l12" custom="readingOrder {index:11;}">
+                <Coords points="157,2730 577,2729 577,2729 737,2729 1491,2734 1553,2738 1576,2748 1576,2778 1491,2789 1233,2789 577,2783 157,2774 157,2730"/>
+                <Baseline points="157,2772 417,2770 468,2770 530,2771 577,2772 901,2774 948,2774 1016,2776 1049,2776 1576,2778"/>
+                <TextEquiv>
+                    <Unicode>Abänderung der Beſtimmungen der Riemen⸗Freigabe⸗Stelle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r12l13" custom="readingOrder {index:12;}">
+                <Coords points="203,2782 323,2781 453,2780 453,2780 624,2780 1380,2787 1575,2792 1575,2832 624,2834 453,2834 203,2831 203,2782"/>
+                <Baseline points="203,2821 266,2822 297,2822 352,2822 380,2822 624,2824 652,2824 726,2825 757,2826 841,2826 868,2826 1042,2828 1070,2829 1146,2829 1173,2829 1453,2831 1491,2831 1575,2832"/>
+                <TextEquiv>
+                    <Unicode>für die Herſtellung und den Vertrieb von Treibriemen und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r12l14" custom="readingOrder {index:13;}">
+                <Coords points="203,2834 271,2832 271,2832 386,2832 936,2834 1489,2839 1552,2841 1575,2853 1575,2884 1489,2894 1232,2894 648,2889 306,2881 203,2877 203,2834"/>
+                <Baseline points="203,2877 386,2872 419,2873 533,2876 561,2876 621,2877 648,2877 936,2881 967,2881 1032,2881 1049,2881 1575,2876"/>
+                <TextEquiv>
+                    <Unicode>ſonſtigen unter die Zuſtändigkeit der Riemen⸗Freigabe⸗Stelle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r12l15" custom="readingOrder {index:14;}">
+                <Coords points="202,2885 246,2884 246,2884 270,2884 569,2885 610,2898 610,2928 217,2937 202,2937 202,2885"/>
+                <Baseline points="202,2927 390,2926 420,2927 610,2927"/>
+                <TextEquiv>
+                    <Unicode>fallenden Artikeln.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r12l16" custom="readingOrder {index:15;}">
+                <Coords points="150,2937 465,2937 1413,2943 1532,2948 1557,2953 1573,2979 1573,2989 1433,3000 1149,3000 205,2992 150,2983 150,2937"/>
+                <Baseline points="150,2982 328,2980 369,2980 465,2980 508,2982 693,2983 733,2983 808,2984 851,2985 916,2985 948,2985 1028,2986 1052,2987 1120,2987 1149,2988 1573,2986"/>
+                <TextEquiv>
+                    <Unicode>Anzeige, betr. Ausgabe der Nr. 150 des Reichs⸗Geſetzblatts.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r12l17" custom="readingOrder {index:16;}">
+                <Coords points="669,3028 757,3028 1028,3030 1064,3043 1064,3083 986,3083 740,3076 669,3071 669,3028"/>
+                <Baseline points="669,3071 804,3073 838,3073 1064,3074"/>
+                <TextEquiv>
+                    <Unicode>Erſte Beilage:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r12l18" custom="readingOrder {index:17;}">
+                <Coords points="154,3090 174,3087 174,3087 359,3087 1542,3097 1572,3109 1572,3141 1542,3151 862,3151 174,3141 154,3133 154,3090"/>
+                <Baseline points="154,3133 359,3132 385,3132 455,3132 483,3132 718,3134 746,3135 836,3136 862,3137 1158,3140 1197,3140 1240,3140 1281,3141 1350,3141 1378,3141 1572,3133"/>
+                <TextEquiv>
+                    <Unicode>Ueberſicht der Prägungen von Reichsmünzen in den deutſchen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r12l19" custom="readingOrder {index:18;}">
+                <Coords points="197,3142 460,3142 749,3144 848,3145 1019,3149 1046,3154 1046,3190 1019,3191 460,3193 229,3193 197,3186 197,3142"/>
+                <Baseline points="197,3186 460,3184 487,3185 548,3185 579,3186 682,3187 709,3187 886,3189 911,3189 1046,3181"/>
+                <TextEquiv>
+                    <Unicode>Münzſtätten bis Ende Oktober 1918.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r12l20" custom="readingOrder {index:19;}">
+                <Coords points="148,3193 407,3193 892,3196 1531,3202 1571,3215 1571,3246 1465,3255 1171,3255 383,3246 148,3239 148,3193"/>
+                <Baseline points="148,3236 511,3237 554,3238 621,3238 649,3238 892,3241 930,3242 1000,3243 1038,3244 1204,3245 1245,3246 1323,3246 1350,3246 1465,3245 1507,3246 1571,3246"/>
+                <TextEquiv>
+                    <Unicode>Bekanntmachung der Reichsſtelle für Gemüſe und Obſt, be⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r12l21" custom="readingOrder {index:20;}">
+                <Coords points="198,3249 254,3246 818,3242 818,3242 842,3242 1523,3256 1571,3268 1571,3298 1426,3307 842,3312 818,3312 254,3297 198,3287 198,3249"/>
+                <Baseline points="198,3287 356,3288 385,3288 560,3290 596,3291 775,3292 800,3293 923,3294 953,3294 1018,3295 1036,3296 1449,3298 1474,3298 1571,3298"/>
+                <TextEquiv>
+                    <Unicode>treffend amtliche Vertragsmuſter für Lieferungsverträge über</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r12l22" custom="readingOrder {index:21;}">
+                <Coords points="198,3297 229,3297 946,3303 1569,3309 1569,3360 1519,3360 767,3356 198,3350 198,3297"/>
+                <Baseline points="198,3340 462,3340 501,3341 579,3342 622,3343 710,3344 737,3345 1034,3348 1072,3349 1149,3349 1188,3350 1256,3350 1298,3350 1420,3350 1454,3350 1569,3351"/>
+                <TextEquiv>
+                    <Unicode>Frühgemüſe und über Herbſtgemüſe aus der Ernte 1919,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r12l23" custom="readingOrder {index:22;}">
+                <Coords points="197,3352 439,3351 676,3351 1466,3360 1570,3362 1567,3411 1466,3412 1109,3413 852,3413 439,3406 225,3393 197,3391 197,3352"/>
+                <Baseline points="197,3391 291,3392 336,3392 406,3393 439,3394 676,3396 720,3397 793,3398 827,3399 1109,3401 1151,3402 1191,3402 1233,3402 1351,3401 1396,3402 1466,3403 1507,3403 1564,3404"/>
+                <TextEquiv>
+                    <Unicode>über das Verzeichnis der Sperrgebiete, in denen ſich die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r12l24" custom="readingOrder {index:23;}">
+                <Coords points="199,3402 436,3402 1484,3412 1567,3426 1567,3465 1313,3465 1080,3464 466,3457 218,3449 199,3446 199,3402"/>
+                <Baseline points="199,3445 436,3445 466,3446 529,3448 556,3448 721,3449 748,3450 841,3451 867,3452 961,3452 997,3452 1052,3452 1080,3453 1257,3455 1285,3456 1567,3454"/>
+                <TextEquiv>
+                    <Unicode>Reichsſtelle für Gemüſe und Obſt die alleinige Abſchließung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r12l25" custom="readingOrder {index:24;}">
+                <Coords points="192,3496 192,3467 296,3456 379,3456 1026,3461 1505,3465 1567,3469 1567,3518 939,3512 827,3506 295,3506 192,3496"/>
+                <Baseline points="192,3496 266,3497 296,3498 731,3501 760,3502 867,3503 888,3504 1175,3508 1202,3508 1455,3508 1482,3508 1567,3509"/>
+                <TextEquiv>
+                    <Unicode>von Lieferungsverträgen über Herbstgemüſe vorbehalten hat,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r12l26" custom="readingOrder {index:25;}">
+                <Coords points="196,3520 251,3508 661,3508 905,3504 1130,3516 1157,3529 1157,3569 905,3573 657,3573 307,3562 196,3549 196,3520"/>
+                <Baseline points="196,3549 274,3550 307,3550 512,3553 540,3553 602,3554 634,3554 790,3555 807,3556 963,3558 969,3558 1157,3560"/>
+                <TextEquiv>
+                    <Unicode>und betreffend die Schiedsgerichtsordnung.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Deutſches Reich.
+Aufruf, betreffend die Uebernahme der Geſchäfte durch die
+neue Regierung.
+Aufruf, betreffend die Verpflegung der Truppen an der
+Weſtfront.
+Aufruf zur Sicherung der Bahntransporte.
+Erlaß, betreffend die vorläufige Weiterführung der Geſchäfte
+durch die Staatsſekretäre und Chefs der Reichsbehörden.
+Erlaß, betreffend Schutz der Kohlenwirtſchaft.
+Bekanntmachung, betreffend Ausfuhrerleichterungen.
+Bekanntmachung über die Bildung von Wohnungsverbänden.
+Abänderung der Beſtimmungen der Riemen⸗Freigabe⸗Stelle
+für die Herſtellung und den Vertrieb von Treibriemen und
+ſonſtigen unter die Zuſtändigkeit der Riemen⸗Freigabe⸗Stelle
+fallenden Artikeln.
+Anzeige, betr. Ausgabe der Nr. 150 des Reichs⸗Geſetzblatts.
+Erſte Beilage:
+Ueberſicht der Prägungen von Reichsmünzen in den deutſchen
+Münzſtätten bis Ende Oktober 1918.
+Bekanntmachung der Reichsſtelle für Gemüſe und Obſt, be⸗
+treffend amtliche Vertragsmuſter für Lieferungsverträge über
+Frühgemüſe und über Herbſtgemüſe aus der Ernte 1919,
+über das Verzeichnis der Sperrgebiete, in denen ſich die
+Reichsſtelle für Gemüſe und Obſt die alleinige Abſchließung
+von Lieferungsverträgen über Herbstgemüſe vorbehalten hat,
+und betreffend die Schiedsgerichtsordnung.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r13" custom="readingOrder {index:13;} structure {type:paragraph;}">
+            <Coords points="132,3584 1596,3584 1596,3666 1592,4061 127,4061 131,3666"/>
+            <TextLine id="r13l1" custom="readingOrder {index:0;}">
+                <Coords points="729,3598 897,3598 952,3614 972,3629 972,3646 897,3653 762,3653 729,3652 729,3598"/>
+                <Baseline points="729,3642 972,3646"/>
+                <TextEquiv>
+                    <Unicode>Preußen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r13l2" custom="readingOrder {index:1;}">
+                <Coords points="146,3670 1102,3666 1134,3666 1519,3679 1567,3692 1567,3725 227,3724 172,3724 146,3716 146,3670"/>
+                <Baseline points="146,3716 296,3716 325,3715 388,3715 419,3716 693,3718 721,3718 795,3718 832,3719 1021,3721 1046,3721 1134,3723 1152,3723 1443,3724 1469,3724 1567,3725"/>
+                <TextEquiv>
+                    <Unicode>Aufruf des Vollzugsrats des Arbeiter⸗ und Soldatenrats über</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r13l3" custom="readingOrder {index:2;}">
+                <Coords points="191,3724 268,3723 268,3723 302,3723 955,3727 1258,3731 1544,3735 1565,3751 1565,3788 1428,3788 1105,3787 661,3783 367,3775 268,3772 191,3764 191,3724"/>
+                <Baseline points="191,3764 246,3766 268,3767 535,3768 553,3769 618,3768 639,3770 955,3773 984,3773 1048,3775 1065,3775 1348,3777 1376,3778 1565,3779"/>
+                <TextEquiv>
+                    <Unicode>die Fortführung der Dienſtgeſchäfte der kommunalen, Landes⸗,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r13l4" custom="readingOrder {index:3;}">
+                <Coords points="190,3776 261,3775 261,3775 341,3775 710,3779 785,3781 860,3790 860,3824 710,3832 481,3832 261,3829 190,3819 190,3776"/>
+                <Baseline points="190,3819 341,3819 370,3820 452,3821 481,3821 860,3824"/>
+                <TextEquiv>
+                    <Unicode>Reichs⸗ und Militärbehörden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r13l5" custom="readingOrder {index:4;}">
+                <Coords points="138,3827 1139,3824 1139,3824 1273,3824 1273,3881 1232,3890 1139,3890 543,3885 405,3883 138,3872 138,3827"/>
+                <Baseline points="138,3872 512,3874 543,3874 746,3875 775,3875 1055,3879 1082,3879 1273,3866"/>
+                <TextEquiv>
+                    <Unicode>Bekanntmachung, betreffend unberechtigte Aufrufe.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r13l6" custom="readingOrder {index:5;}">
+                <Coords points="138,3880 199,3879 199,3879 461,3879 1416,3887 1562,3891 1562,3945 1536,3945 1046,3944 337,3936 138,3925 138,3880"/>
+                <Baseline points="138,3925 513,3926 555,3927 758,3929 811,3930 871,3930 901,3931 1416,3936 1447,3937 1562,3936"/>
+                <TextEquiv>
+                    <Unicode>Bekanntmachung, betreffend die Lebensmittelverſorgung Groß</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r13l7" custom="readingOrder {index:6;}">
+                <Coords points="189,3933 210,3928 210,3928 235,3928 305,3934 355,3942 355,3977 235,3988 210,3988 189,3977 189,3933"/>
+                <Baseline points="189,3977 355,3977"/>
+                <TextEquiv>
+                    <Unicode>Berlins</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r13l8" custom="readingOrder {index:7;}">
+                <Coords points="139,3984 177,3984 946,3988 975,4004 975,4046 776,4046 535,4043 206,4038 139,4029 139,3984"/>
+                <Baseline points="139,4028 372,4030 403,4030 508,4031 535,4032 975,4037"/>
+                <TextEquiv>
+                    <Unicode>Aufhebung einer Zwangsverwaltung.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Preußen.
+Aufruf des Vollzugsrats des Arbeiter⸗ und Soldatenrats über
+die Fortführung der Dienſtgeſchäfte der kommunalen, Landes⸗,
+Reichs⸗ und Militärbehörden.
+Bekanntmachung, betreffend unberechtigte Aufrufe.
+Bekanntmachung, betreffend die Lebensmittelverſorgung Groß
+Berlins
+Aufhebung einer Zwangsverwaltung.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="heading" id="r14" custom="readingOrder {index:14;} structure {type:heading;}">
+            <Coords points="646,4180 1052,4175 1052,4304 646,4309"/>
+            <TextLine id="r14l1" custom="readingOrder {index:0;}">
+                <Coords points="653,4208 1013,4208 1041,4230 1041,4291 1013,4300 653,4300 653,4208"/>
+                <Baseline points="653,4288 1041,4291"/>
+                <TextEquiv>
+                    <Unicode>Amtliches.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Amtliches.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r15" custom="readingOrder {index:15;} structure {type:paragraph;}">
+            <Coords points="125,4320 1587,4320 1574,5423 116,5419"/>
+            <TextLine id="r15l1" custom="readingOrder {index:0;}">
+                <Coords points="521,4330 1146,4344 1146,4394 515,4388"/>
+                <Baseline points="515,4383 1146,4389"/>
+                <TextEquiv>
+                    <Unicode>Deutſches Reich.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r15l2" custom="readingOrder {index:1;}">
+                <Coords points="692,4422 961,4422 997,4425 997,4477 924,4477 824,4476 692,4467 692,4422"/>
+                <Baseline points="692,4467 997,4468"/>
+                <TextEquiv>
+                    <Unicode>Aufruf.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r15l3" custom="readingOrder {index:2;}">
+                <Coords points="235,4481 290,4481 1374,4490 1492,4492 1552,4503 1552,4535 1374,4542 770,4543 747,4543 533,4537 235,4527 235,4481"/>
+                <Baseline points="235,4527 316,4527 343,4527 440,4528 470,4528 691,4529 720,4529 794,4529 828,4529 883,4530 900,4530 1089,4533 1120,4533 1184,4534 1210,4535 1413,4534 1443,4534 1552,4535"/>
+                <TextEquiv>
+                    <Unicode>Die neue Regierung hat die Führung der Geſchäfte über⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r15l4" custom="readingOrder {index:3;}">
+                <Coords points="133,4544 454,4539 454,4539 783,4539 1223,4542 1554,4552 1554,4587 1467,4596 1389,4596 1201,4595 215,4587 133,4575 133,4544"/>
+                <Baseline points="133,4575 326,4579 353,4579 422,4580 454,4580 526,4581 555,4581 712,4582 740,4582 854,4583 877,4583 944,4584 964,4585 1223,4586 1254,4586 1332,4586 1389,4586 1554,4587"/>
+                <TextEquiv>
+                    <Unicode>nommen, um das deutſche Volk vor Bürgerkrieg und Hungers⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r15l5" custom="readingOrder {index:4;}">
+                <Coords points="131,4597 183,4590 183,4590 441,4590 1503,4597 1534,4601 1551,4615 1551,4633 1534,4644 1046,4648 1015,4648 222,4639 131,4628 131,4597"/>
+                <Baseline points="131,4628 196,4629 222,4629 264,4630 295,4630 498,4633 526,4633 605,4634 634,4634 725,4634 741,4634 999,4636 1015,4636 1290,4638 1309,4639 1358,4639 1399,4640 1551,4628"/>
+                <TextEquiv>
+                    <Unicode>not zu bewahren und ſeine berechtigten Forderungen auf Selbſt⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r15l6" custom="readingOrder {index:5;}">
+                <Coords points="129,4639 271,4639 1489,4648 1536,4662 1551,4683 1551,4701 1371,4701 972,4699 410,4696 241,4694 176,4689 129,4680 129,4639"/>
+                <Baseline points="129,4680 377,4684 410,4685 687,4686 745,4687 871,4688 885,4688 1065,4689 1094,4690 1190,4690 1211,4690 1263,4691 1281,4691 1356,4691 1371,4691 1551,4691"/>
+                <TextEquiv>
+                    <Unicode>beſtimmung durchzuſetzen. Dieſe Aufgabe kann ſie nur erfüllen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r15l7" custom="readingOrder {index:6;}">
+                <Coords points="128,4702 279,4693 279,4693 336,4693 1552,4703 1552,4754 1488,4754 427,4745 128,4731 128,4702"/>
+                <Baseline points="128,4730 233,4734 262,4735 336,4736 362,4737 569,4738 606,4738 680,4740 707,4741 908,4742 953,4742 997,4742 1041,4743 1166,4744 1210,4744 1291,4745 1331,4745 1444,4745 1488,4745 1552,4746"/>
+                <TextEquiv>
+                    <Unicode>wenn alle Behörden und Beamten in Stadt und Land ihr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r15l8" custom="readingOrder {index:7;}">
+                <Coords points="132,4743 319,4743 571,4749 622,4761 633,4782 633,4791 380,4799 346,4799 261,4798 132,4794 132,4743"/>
+                <Baseline points="132,4786 319,4788 346,4788 464,4791 493,4790 633,4791"/>
+                <TextEquiv>
+                    <Unicode>hilfreiche Hand leiſten.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r15l9" custom="readingOrder {index:8;}">
+                <Coords points="229,4798 280,4798 761,4801 1499,4806 1550,4818 1550,4849 1332,4856 1242,4856 877,4855 537,4853 229,4849 229,4798"/>
+                <Baseline points="229,4841 304,4841 334,4841 444,4842 487,4843 560,4843 604,4843 646,4844 685,4844 819,4845 862,4845 993,4846 1032,4847 1180,4848 1221,4848 1332,4849 1373,4849 1452,4849 1479,4849 1550,4849"/>
+                <TextEquiv>
+                    <Unicode>Ich weiß, daß es vielen ſchwer werden wird, mit den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r15l10" custom="readingOrder {index:9;}">
+                <Coords points="127,4857 274,4853 274,4853 351,4853 696,4854 852,4855 1136,4857 1279,4859 1490,4863 1549,4872 1549,4901 1221,4910 837,4911 807,4911 505,4905 176,4891 127,4888 127,4857"/>
+                <Baseline points="127,4888 243,4892 274,4893 480,4893 505,4894 547,4895 577,4896 750,4897 807,4897 870,4898 907,4898 984,4899 1025,4899 1136,4900 1178,4900 1221,4901 1265,4901 1376,4900 1422,4901 1549,4901"/>
+                <TextEquiv>
+                    <Unicode>neuen Mä nern zu arbeiten die das Reich zu leiten unter⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r15l11" custom="readingOrder {index:10;}">
+                <Coords points="127,4910 336,4904 336,4904 356,4904 907,4906 1444,4911 1549,4925 1549,4955 1444,4962 1288,4962 1042,4961 750,4959 623,4958 336,4955 158,4941 127,4938 127,4910"/>
+                <Baseline points="127,4931 306,4946 336,4946 473,4947 502,4947 596,4948 623,4948 671,4949 699,4949 907,4951 936,4951 991,4952 1026,4953 1106,4954 1135,4954 1247,4953 1288,4953 1331,4953 1369,4953 1549,4955"/>
+                <TextEquiv>
+                    <Unicode>nommen haben, aber ich appelliere an ihre Liebe zu unſerem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r15l12" custom="readingOrder {index:11;}">
+                <Coords points="128,4951 249,4951 1419,4964 1548,4977 1548,5006 1419,5014 1201,5014 559,5009 517,5008 128,4995 128,4951"/>
+                <Baseline points="128,4994 249,4997 312,4998 385,4998 435,5000 632,5000 675,5001 739,5001 782,5002 1069,5004 1115,5004 1156,5004 1201,5005 1319,5005 1363,5006 1548,4998"/>
+                <TextEquiv>
+                    <Unicode>Volke. Ein Verſagen der Organiſation in dieſer ſchweren</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r15l13" custom="readingOrder {index:12;}">
+                <Coords points="126,5004 177,5004 1449,5016 1488,5017 1548,5029 1548,5060 1488,5069 1267,5069 487,5064 152,5050 126,5045 126,5004"/>
+                <Baseline points="126,5045 281,5050 310,5050 438,5051 460,5052 707,5055 735,5055 814,5055 834,5055 1020,5058 1046,5058 1124,5058 1152,5058 1238,5059 1267,5059 1548,5060"/>
+                <TextEquiv>
+                    <Unicode>Stunde würde Deutſchland der Anarchie und dem ſchrecklichſten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r15l14" custom="readingOrder {index:13;}">
+                <Coords points="125,5056 160,5056 378,5058 418,5061 500,5074 500,5104 418,5110 401,5110 125,5098 125,5056"/>
+                <Baseline points="125,5098 242,5100 272,5101 500,5104"/>
+                <TextEquiv>
+                    <Unicode>Elend ausliefern.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r15l15" custom="readingOrder {index:14;}">
+                <Coords points="226,5113 320,5113 1428,5120 1546,5122 1546,5165 1428,5173 1226,5173 226,5164 226,5113"/>
+                <Baseline points="226,5154 336,5155 363,5156 443,5156 472,5156 542,5157 571,5158 650,5158 675,5159 758,5160 796,5160 1034,5161 1073,5161 1183,5161 1226,5162 1428,5164 1468,5164 1546,5165"/>
+                <TextEquiv>
+                    <Unicode>Helft alſo mit mir dem Vaterlande durch furchtloſe und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r15l16" custom="readingOrder {index:15;}">
+                <Coords points="124,5169 475,5161 730,5161 1519,5175 1546,5182 1546,5218 1454,5224 674,5219 444,5216 124,5201 124,5169"/>
+                <Baseline points="124,5201 408,5209 451,5210 564,5208 587,5208 730,5211 747,5211 822,5212 863,5212 961,5213 1003,5214 1069,5215 1111,5215 1252,5216 1295,5216 1454,5218 1481,5218 1546,5218"/>
+                <TextEquiv>
+                    <Unicode>unverdroſſene Weiterarbeit ein jeder auf ſeinem Poſten, bis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r15l17" custom="readingOrder {index:16;}">
+                <Coords points="127,5213 183,5213 1007,5223 1029,5229 1029,5267 1007,5276 973,5276 513,5273 208,5259 154,5256 127,5254 127,5213"/>
+                <Baseline points="127,5254 183,5257 208,5258 365,5261 392,5262 462,5263 490,5263 686,5263 714,5264 944,5266 973,5266 1029,5267"/>
+                <TextEquiv>
+                    <Unicode>die Stunde der Ablöſung gekommen iſt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r15l18" custom="readingOrder {index:17;}">
+                <Coords points="224,5279 271,5279 750,5284 933,5287 948,5319 948,5330 378,5336 248,5336 224,5325 224,5279"/>
+                <Baseline points="224,5325 378,5326 406,5326 481,5327 507,5327 544,5327 575,5327 803,5328 838,5328 948,5330"/>
+                <TextEquiv>
+                    <Unicode>Berlin, den 9. November 1918.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r15l19" custom="readingOrder {index:18;}">
+                <Coords points="516,5348 933,5348 1151,5353 1151,5396 933,5402 631,5402 516,5392 516,5348"/>
+                <Baseline points="516,5392 604,5392 631,5392 933,5394 993,5395 1151,5385"/>
+                <TextEquiv>
+                    <Unicode>Der Reichskanzler. Ebert.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Deutſches Reich.
+Aufruf.
+Die neue Regierung hat die Führung der Geſchäfte über⸗
+nommen, um das deutſche Volk vor Bürgerkrieg und Hungers⸗
+not zu bewahren und ſeine berechtigten Forderungen auf Selbſt⸗
+beſtimmung durchzuſetzen. Dieſe Aufgabe kann ſie nur erfüllen,
+wenn alle Behörden und Beamten in Stadt und Land ihr
+hilfreiche Hand leiſten.
+Ich weiß, daß es vielen ſchwer werden wird, mit den
+neuen Mä nern zu arbeiten die das Reich zu leiten unter⸗
+nommen haben, aber ich appelliere an ihre Liebe zu unſerem
+Volke. Ein Verſagen der Organiſation in dieſer ſchweren
+Stunde würde Deutſchland der Anarchie und dem ſchrecklichſten
+Elend ausliefern.
+Helft alſo mit mir dem Vaterlande durch furchtloſe und
+unverdroſſene Weiterarbeit ein jeder auf ſeinem Poſten, bis
+die Stunde der Ablöſung gekommen iſt.
+Berlin, den 9. November 1918.
+Der Reichskanzler. Ebert.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r16" custom="readingOrder {index:16;} structure {type:paragraph;}">
+            <Coords points="117,5489 1578,5494 1568,6377 111,6374"/>
+            <TextLine id="r16l1" custom="readingOrder {index:0;}">
+                <Coords points="699,5505 881,5505 952,5508 952,5550 699,5550 699,5505"/>
+                <Baseline points="699,5550 781,5549 817,5549 952,5548"/>
+                <TextEquiv>
+                    <Unicode>An Alle!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r16l2" custom="readingOrder {index:1;}">
+                <Coords points="209,5559 1541,5573 1541,5615 1449,5626 209,5610"/>
+                <Baseline points="209,5607 222,5607 301,5608 329,5608 597,5611 643,5612 801,5612 834,5612 1072,5614 1119,5614 1169,5614 1211,5615 1279,5616 1319,5616 1541,5615"/>
+                <TextEquiv>
+                    <Unicode>Die Verpflegung unſerer Kameraden an der Weſtfront</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r16l3" custom="readingOrder {index:2;}">
+                <Coords points="121,5605 140,5610 165,5610 1541,5626 1541,5670 1395,5678 1201,5678 268,5667 140,5659 124,5651 124,5622"/>
+                <Baseline points="124,5643 165,5659 192,5659 228,5660 258,5660 415,5662 445,5663 616,5663 685,5664 856,5664 880,5664 932,5664 964,5664 1276,5667 1303,5668 1541,5669"/>
+                <TextEquiv>
+                    <Unicode>iſt in größter Gefahr. Gerade im gegenwärtigen Augenblick</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r16l4" custom="readingOrder {index:3;}">
+                <Coords points="121,5673 189,5664 189,5664 209,5664 1542,5679 1542,5723 1380,5730 1352,5730 357,5725 189,5714 121,5704 121,5673"/>
+                <Baseline points="121,5696 209,5714 256,5712 304,5713 357,5713 572,5714 609,5715 774,5716 810,5716 984,5718 1011,5718 1173,5720 1230,5721 1323,5721 1352,5721 1437,5722 1466,5722 1542,5722"/>
+                <TextEquiv>
+                    <Unicode>muß ſie unbedingt aufrecht erhalten werden. Das ſind wir</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r16l5" custom="readingOrder {index:4;}">
+                <Coords points="121,5724 173,5716 173,5716 261,5716 704,5724 735,5727 750,5758 750,5767 735,5777 578,5777 173,5768 121,5756 121,5724"/>
+                <Baseline points="121,5755 274,5763 303,5764 547,5767 578,5767 750,5767"/>
+                <TextEquiv>
+                    <Unicode>unſeren Kameraden ſchuldig.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r16l6" custom="readingOrder {index:5;}">
+                <Coords points="219,5772 253,5772 937,5776 1539,5782 1539,5835 1521,5835 788,5830 348,5826 219,5823 219,5772"/>
+                <Baseline points="219,5815 320,5816 348,5817 605,5819 649,5819 733,5820 761,5820 1092,5822 1133,5823 1322,5824 1350,5825 1444,5825 1471,5825 1539,5826"/>
+                <TextEquiv>
+                    <Unicode>Jede Plünderung oder Beſchlagnahme ruhender oder auf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r16l7" custom="readingOrder {index:6;}">
+                <Coords points="121,5816 142,5816 1409,5834 1538,5836 1538,5887 917,5882 809,5880 265,5878 121,5858 121,5816"/>
+                <Baseline points="121,5858 200,5864 239,5866 471,5871 792,5872 1099,5874 1139,5874 1216,5875 1261,5875 1538,5879"/>
+                <TextEquiv>
+                    <Unicode>dem Transport befindlicher Verpflegungs⸗ und Futtermittel,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r16l8" custom="readingOrder {index:7;}">
+                <Coords points="120,5868 142,5868 1480,5888 1539,5899 1539,5930 1294,5938 1272,5938 153,5923 120,5912 120,5868"/>
+                <Baseline points="120,5901 176,5919 201,5920 263,5921 292,5921 364,5923 392,5923 580,5924 609,5925 802,5925 835,5925 918,5925 959,5926 1039,5927 1066,5927 1294,5928 1323,5928 1415,5929 1443,5930 1539,5922"/>
+                <TextEquiv>
+                    <Unicode>die für das Feldheer beſtimmt ſind, jede Ablenkung oder Ver⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r16l9" custom="readingOrder {index:8;}">
+                <Coords points="120,5931 139,5925 139,5925 303,5925 1199,5934 1453,5939 1500,5940 1538,5951 1538,5982 1214,5990 961,5990 560,5986 280,5982 120,5974 120,5931"/>
+                <Baseline points="120,5967 303,5972 343,5973 419,5975 459,5976 740,5976 788,5975 873,5976 910,5976 1214,5979 1259,5980 1325,5980 1351,5981 1538,5982"/>
+                <TextEquiv>
+                    <Unicode>zögerung von Transporten, jede Unterbrechung der Verlade⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r16l10" custom="readingOrder {index:9;}">
+                <Coords points="122,5987 209,5980 209,5980 285,5980 1389,5987 1500,5992 1537,6003 1537,6034 1389,6041 943,6041 609,6034 238,6024 209,6022 122,6015 122,5987"/>
+                <Baseline points="122,6015 285,6025 327,6025 383,6026 428,6027 499,6028 539,6029 672,6028 709,6028 787,6029 837,6029 914,6029 943,6029 1437,6034 1477,6034 1537,6026"/>
+                <TextEquiv>
+                    <Unicode>arbeiten bei den bisher mit dem Verpflegungsnachſchub be⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r16l11" custom="readingOrder {index:10;}">
+                <Coords points="119,6027 133,6027 1459,6042 1488,6043 1538,6055 1538,6087 1459,6094 1358,6094 291,6090 119,6066 119,6027"/>
+                <Baseline points="119,6056 262,6076 291,6077 559,6081 579,6081 730,6081 758,6081 865,6082 889,6082 1008,6082 1033,6082 1144,6083 1170,6083 1272,6084 1300,6085 1538,6079"/>
+                <TextEquiv>
+                    <Unicode>trauten militäriſchen Stellen muß daher unter allen Umſtänden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r16l12" custom="readingOrder {index:11;}">
+                <Coords points="118,6087 134,6083 134,6083 357,6083 381,6099 381,6129 134,6129 118,6120 118,6087"/>
+                <Baseline points="118,6119 381,6129"/>
+                <TextEquiv>
+                    <Unicode>unterbleiben.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r16l13" custom="readingOrder {index:12;}">
+                <Coords points="215,6136 263,6136 1036,6142 1189,6144 1310,6146 1348,6157 1348,6188 1189,6197 1125,6197 239,6191 215,6180 215,6136"/>
+                <Baseline points="215,6180 324,6182 351,6183 452,6184 482,6184 552,6184 581,6184 673,6186 697,6186 828,6185 856,6185 912,6186 941,6186 1036,6187 1066,6187 1248,6188 1277,6188 1348,6188"/>
+                <TextEquiv>
+                    <Unicode>Setzt Euch mit aller Kraft für dieſe Aufgabe ein.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r16l14" custom="readingOrder {index:13;}">
+                <Coords points="209,6199 256,6199 762,6204 931,6207 958,6208 958,6249 363,6256 233,6256 209,6245 209,6199"/>
+                <Baseline points="209,6245 363,6246 391,6247 467,6248 497,6248 558,6248 589,6248 817,6247 848,6247 958,6249"/>
+                <TextEquiv>
+                    <Unicode>Berlin, den 10. November 1918.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r16l15" custom="readingOrder {index:14;}">
+                <Coords points="622,6270 729,6269 729,6269 897,6269 985,6270 1037,6283 1037,6314 968,6323 729,6323 622,6314 622,6270"/>
+                <Baseline points="622,6314 703,6313 729,6312 1037,6314"/>
+                <TextEquiv>
+                    <Unicode>Der Reichskanzler.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r16l16" custom="readingOrder {index:15;}">
+                <Coords points="737,6321 818,6321 909,6324 909,6364 737,6364 737,6321"/>
+                <Baseline points="737,6364 909,6364"/>
+                <TextEquiv>
+                    <Unicode>Ebert.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>An Alle!
+Die Verpflegung unſerer Kameraden an der Weſtfront
+iſt in größter Gefahr. Gerade im gegenwärtigen Augenblick
+muß ſie unbedingt aufrecht erhalten werden. Das ſind wir
+unſeren Kameraden ſchuldig.
+Jede Plünderung oder Beſchlagnahme ruhender oder auf
+dem Transport befindlicher Verpflegungs⸗ und Futtermittel,
+die für das Feldheer beſtimmt ſind, jede Ablenkung oder Ver⸗
+zögerung von Transporten, jede Unterbrechung der Verlade⸗
+arbeiten bei den bisher mit dem Verpflegungsnachſchub be⸗
+trauten militäriſchen Stellen muß daher unter allen Umſtänden
+unterbleiben.
+Setzt Euch mit aller Kraft für dieſe Aufgabe ein.
+Berlin, den 10. November 1918.
+Der Reichskanzler.
+Ebert.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r17" custom="readingOrder {index:17;} structure {type:paragraph;}">
+            <Coords points="111,6460 1557,6462 1557,6762 111,6760"/>
+            <TextLine id="r17l1" custom="readingOrder {index:0;}">
+                <Coords points="335,6474 374,6474 1125,6476 1267,6478 1306,6487 1306,6520 516,6536 442,6536 335,6520 335,6474"/>
+                <Baseline points="335,6520 412,6519 442,6519 516,6520 541,6520 797,6518 831,6518 914,6520 942,6520 1306,6520"/>
+                <TextEquiv>
+                    <Unicode>An die Arbeiter⸗ und Soldatenräte.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r17l2" custom="readingOrder {index:1;}">
+                <Coords points="213,6536 252,6536 892,6538 1430,6540 1535,6543 1535,6586 1472,6594 1203,6594 631,6592 567,6591 213,6580 213,6536"/>
+                <Baseline points="213,6569 307,6581 348,6582 451,6582 495,6582 589,6581 631,6581 892,6582 936,6582 1049,6583 1094,6583 1161,6584 1203,6584 1535,6586"/>
+                <TextEquiv>
+                    <Unicode>Das Volk muß verhungern, wenn der Bahntransport</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r17l3" custom="readingOrder {index:2;}">
+                <Coords points="120,6589 163,6582 163,6582 242,6582 1424,6592 1533,6606 1533,6636 1424,6643 1142,6644 1109,6644 602,6643 120,6629 120,6589"/>
+                <Baseline points="120,6629 242,6631 284,6633 391,6633 466,6634 557,6634 602,6633 777,6633 831,6633 915,6633 958,6633 1067,6634 1109,6634 1216,6635 1245,6635 1424,6635 1465,6636 1533,6636"/>
+                <TextEquiv>
+                    <Unicode>geſtört wird. Das geſchieht aber durch jeden Eingriff un⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r17l4" custom="readingOrder {index:3;}">
+                <Coords points="117,6642 159,6633 159,6633 341,6633 1433,6645 1518,6657 1534,6664 1534,6683 1518,6691 1433,6698 1352,6698 256,6694 117,6680 117,6642"/>
+                <Baseline points="117,6670 341,6686 382,6686 541,6687 588,6687 630,6687 672,6687 742,6686 794,6687 1058,6686 1105,6687 1180,6687 1227,6688 1288,6688 1327,6689 1529,6685"/>
+                <TextEquiv>
+                    <Unicode>zuſtändiger Stellen in den Bahnbetrieb und die Bahnver⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r17l5" custom="readingOrder {index:4;}">
+                <Coords points="175,6687 187,6687 225,6691 279,6706 301,6719 301,6746 256,6746 118,6726 118,6690"/>
+                <Baseline points="118,6726 301,6742"/>
+                <TextEquiv>
+                    <Unicode>waltung.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>An die Arbeiter⸗ und Soldatenräte.
+Das Volk muß verhungern, wenn der Bahntransport
+geſtört wird. Das geſchieht aber durch jeden Eingriff un⸗
+zuſtändiger Stellen in den Bahnbetrieb und die Bahnver⸗
+waltung.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r18" custom="readingOrder {index:18;} structure {type:paragraph;}">
+            <Coords points="1619,2061 3105,2065 3110,2660 1616,2658"/>
+            <TextLine id="r18l1" custom="readingOrder {index:0;}">
+                <Coords points="1758,2074 1786,2073 1786,2073 2045,2073 2611,2077 3078,2082 3078,2125 2456,2127 2179,2127 1786,2123 1758,2120 1758,2074"/>
+                <Baseline points="1758,2116 1922,2116 1961,2115 2045,2116 2086,2117 2140,2117 2179,2118 2456,2121 2482,2121 2611,2122 2655,2122 2731,2122 2772,2123 2970,2124 2996,2124 3078,2125"/>
+                <TextEquiv>
+                    <Unicode>Geſtern ſind an verſchiedenen Orten von Arbeiter⸗ und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r18l2" custom="readingOrder {index:1;}">
+                <Coords points="1650,2127 1673,2126 1673,2126 2093,2126 2327,2127 3051,2134 3079,2146 3079,2176 2913,2185 2895,2185 2440,2183 1990,2177 1650,2170 1650,2127"/>
+                <Baseline points="1650,2170 1962,2169 1990,2169 2105,2170 2135,2170 2327,2171 2366,2172 2675,2174 2703,2174 2867,2175 2895,2176 2925,2176 2955,2176 3007,2176 3036,2176 3079,2176"/>
+                <TextEquiv>
+                    <Unicode>Soldatenräten ſolche Eingriffe vorgenommen worden, z. B. in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r18l3" custom="readingOrder {index:2;}">
+                <Coords points="1650,2179 1869,2178 1869,2178 2152,2178 2999,2185 3077,2199 3077,2236 2784,2236 2130,2234 1650,2222 1650,2179"/>
+                <Baseline points="1650,2222 1724,2222 1752,2222 1911,2220 1938,2221 2018,2221 2044,2221 2443,2224 2484,2225 2563,2225 2605,2225 2650,2226 2680,2226 2736,2226 2763,2227 3077,2229"/>
+                <TextEquiv>
+                    <Unicode>den Betrieb von Rangierbahnhöfen und in die Kaſſenführung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r18l4" custom="readingOrder {index:3;}">
+                <Coords points="1649,2243 1780,2230 2104,2230 2941,2237 3075,2240 3075,2280 2409,2283 2370,2283 1780,2282 1649,2271 1649,2243"/>
+                <Baseline points="1649,2271 1730,2273 1780,2273 2104,2273 2188,2274 2285,2277 2327,2277 2416,2277 2470,2277 2568,2278 2623,2278 2764,2279 2810,2279 3075,2270"/>
+                <TextEquiv>
+                    <Unicode>von Bahnſtationen. Das darf nicht wieder vorkommen!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r18l5" custom="readingOrder {index:4;}">
+                <Coords points="1648,2282 1764,2282 2136,2283 2527,2285 2852,2290 2957,2292 3079,2303 3079,2333 2852,2339 2315,2339 1648,2334 1648,2282"/>
+                <Baseline points="1648,2326 2008,2326 2035,2326 2183,2327 2209,2327 2276,2327 2291,2327 2747,2331 2763,2331 2919,2332 2935,2332 3079,2333"/>
+                <TextEquiv>
+                    <Unicode>Wiederholungen müſſen zur Arbeitsverweigerung unſerer braven</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r18l6" custom="readingOrder {index:5;}">
+                <Coords points="1918,2333 1995,2337 2161,2336 2203,2336 2748,2340 2983,2342 3026,2343 3076,2351 3076,2386 3026,2395 2846,2395 2397,2392 2161,2389 2046,2387 1646,2383 1644,2332"/>
+                <Baseline points="1654,2375 2018,2379 2046,2379 2133,2379 2161,2379 2369,2381 2397,2381 2504,2382 2533,2381 2748,2384 2777,2385 3076,2386"/>
+                <TextEquiv>
+                    <Unicode>Eiſenbahner und zum Stillſtand jedes geregelten Bahnverkehrs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r18l7" custom="readingOrder {index:6;}">
+                <Coords points="1668,2386 1732,2386 1802,2400 1802,2430 1743,2431 1699,2443 1645,2440 1645,2384"/>
+                <Baseline points="1648,2429 1802,2430"/>
+                <TextEquiv>
+                    <Unicode>führen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r18l8" custom="readingOrder {index:7;}">
+                <Coords points="1755,2452 1776,2451 1776,2451 1962,2451 2304,2452 2506,2456 2506,2498 1913,2504 1776,2504 1755,2496 1755,2452"/>
+                <Baseline points="1755,2496 1913,2495 1940,2495 2014,2495 2044,2494 2108,2494 2140,2496 2358,2498 2386,2498 2506,2487"/>
+                <TextEquiv>
+                    <Unicode>Berlin, den 10. November 1918.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r18l9" custom="readingOrder {index:8;}">
+                <Coords points="2158,2529 2208,2529 2464,2530 2519,2531 2563,2543 2576,2564 2576,2575 2501,2585 2268,2585 2158,2573 2158,2529"/>
+                <Baseline points="2158,2573 2241,2573 2268,2573 2576,2575"/>
+                <TextEquiv>
+                    <Unicode>Der Reichskanzler.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r18l10" custom="readingOrder {index:9;}">
+                <Coords points="2274,2595 2302,2594 2302,2594 2339,2594 2434,2597 2434,2639 2324,2640 2274,2640 2274,2595"/>
+                <Baseline points="2274,2640 2434,2639"/>
+                <TextEquiv>
+                    <Unicode>Ebert.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Geſtern ſind an verſchiedenen Orten von Arbeiter⸗ und
+Soldatenräten ſolche Eingriffe vorgenommen worden, z. B. in
+den Betrieb von Rangierbahnhöfen und in die Kaſſenführung
+von Bahnſtationen. Das darf nicht wieder vorkommen!
+Wiederholungen müſſen zur Arbeitsverweigerung unſerer braven
+Eiſenbahner und zum Stillſtand jedes geregelten Bahnverkehrs
+führen.
+Berlin, den 10. November 1918.
+Der Reichskanzler.
+Ebert.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r19" custom="readingOrder {index:19;} structure {type:paragraph;}">
+            <Coords points="1610,2703 3106,2705 3096,3248 1619,3248"/>
+            <TextLine id="r19l1" custom="readingOrder {index:0;}">
+                <Coords points="1753,2724 2267,2724 3018,2731 3052,2738 3075,2749 3075,2769 3052,2776 3018,2785 2885,2785 2072,2776 1753,2769 1753,2724"/>
+                <Baseline points="1753,2769 1831,2769 1874,2769 2306,2770 2344,2770 2424,2771 2467,2771 2526,2771 2572,2772 2722,2773 2765,2773 2845,2774 2885,2774 3075,2764"/>
+                <TextEquiv>
+                    <Unicode>Die Staatsſekretäre und die Chefs der Reichs⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r19l2" custom="readingOrder {index:1;}">
+                <Coords points="1644,2776 1938,2776 2496,2779 2957,2784 2978,2785 3074,2797 3074,2827 3007,2835 2957,2836 2941,2836 2212,2833 1705,2827 1644,2817 1644,2776"/>
+                <Baseline points="1644,2817 1884,2820 1911,2820 1991,2820 2011,2820 2086,2821 2107,2821 2174,2822 2191,2822 2536,2824 2565,2824 2642,2824 2670,2824 2733,2824 2760,2825 3074,2827"/>
+                <TextEquiv>
+                    <Unicode>behörden ſind von der Reichsregierung mit der vorläufigen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r19l3" custom="readingOrder {index:2;}">
+                <Coords points="1643,2828 1712,2828 2731,2834 3072,2849 3072,2880 2731,2885 2246,2885 1683,2883 1643,2873 1643,2828"/>
+                <Baseline points="1643,2873 2053,2873 2110,2874 2192,2873 2246,2876 2499,2876 2554,2876 2851,2878 2904,2878 3072,2880"/>
+                <TextEquiv>
+                    <Unicode>Weiterführung der Geſchäfte beauftragt worden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r19l4" custom="readingOrder {index:3;}">
+                <Coords points="1643,2883 1847,2882 1847,2882 1871,2882 2168,2883 2774,2887 2891,2889 2980,2891 3073,2902 3073,2932 2891,2940 2731,2940 2090,2936 1935,2933 1643,2925 1643,2883"/>
+                <Baseline points="1643,2925 1738,2925 1766,2925 2010,2925 2050,2925 2281,2926 2309,2927 2508,2928 2548,2929 2589,2929 2634,2930 2693,2931 2731,2931 3073,2932"/>
+                <TextEquiv>
+                    <Unicode>Das Eindringen unbefugter Perſonen in die Geſchäftsräume</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r19l5" custom="readingOrder {index:4;}">
+                <Coords points="1642,2938 1738,2934 1738,2934 2070,2934 3024,2941 3051,2943 3073,2955 3073,2985 3051,2995 2872,2995 2644,2993 1813,2984 1642,2977 1642,2938"/>
+                <Baseline points="1642,2977 1710,2976 1738,2977 2070,2978 2112,2978 2190,2979 2232,2979 2292,2979 2334,2979 2601,2982 2644,2982 2838,2984 2872,2984 3073,2985"/>
+                <TextEquiv>
+                    <Unicode>der Reichsbehörden und die Uebernahme amtlicher Geſchäfte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r19l6" custom="readingOrder {index:5;}">
+                <Coords points="1642,2986 1729,2986 2309,2988 2419,2992 2490,2995 2539,2998 2539,3033 2376,3042 2355,3042 1952,3040 1707,3038 1642,3031 1642,2986"/>
+                <Baseline points="1642,3030 1754,3030 1783,3029 1900,3030 1927,3030 2130,3031 2159,3031 2200,3032 2228,3031 2327,3032 2355,3032 2539,3033"/>
+                <TextEquiv>
+                    <Unicode>durch ſolche Perſonen iſt nicht geſtattet.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r19l7" custom="readingOrder {index:6;}">
+                <Coords points="1750,3050 1955,3050 2289,3052 2489,3056 2489,3098 1907,3104 1771,3104 1750,3096 1750,3050"/>
+                <Baseline points="1750,3096 1907,3095 1934,3095 2006,3095 2035,3095 2099,3095 2122,3095 2342,3096 2371,3096 2489,3097"/>
+                <TextEquiv>
+                    <Unicode>Berlin, den 11. November 1918.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r19l8" custom="readingOrder {index:7;}">
+                <Coords points="2125,3128 2568,3128 2594,3142 2594,3183 2230,3183 2125,3172 2125,3128"/>
+                <Baseline points="2125,3172 2202,3172 2230,3172 2594,3174"/>
+                <TextEquiv>
+                    <Unicode>Die Reichsregierung.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r19l9" custom="readingOrder {index:8;}">
+                <Coords points="2051,3193 2082,3192 2122,3192 2224,3192 2224,3241 2051,3237"/>
+                <Baseline points="2051,3237 2212,3236 2224,3236"/>
+                <TextEquiv>
+                    <Unicode>Ebert.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r19l10" custom="readingOrder {index:9;}">
+                <Coords points="2499,3194 2626,3195 2667,3207 2667,3239 2626,3248 2499,3248"/>
+                <Baseline points="2499,3237 2501,3238 2667,3239"/>
+                <TextEquiv>
+                    <Unicode>Haaſe.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Die Staatsſekretäre und die Chefs der Reichs⸗
+behörden ſind von der Reichsregierung mit der vorläufigen
+Weiterführung der Geſchäfte beauftragt worden.
+Das Eindringen unbefugter Perſonen in die Geſchäftsräume
+der Reichsbehörden und die Uebernahme amtlicher Geſchäfte
+durch ſolche Perſonen iſt nicht geſtattet.
+Berlin, den 11. November 1918.
+Die Reichsregierung.
+Ebert.
+Haaſe.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r20" custom="readingOrder {index:20;} structure {type:paragraph;}">
+            <Coords points="1614,3297 3098,3297 3088,4462 1603,4456"/>
+            <TextLine id="r20l1" custom="readingOrder {index:0;}">
+                <Coords points="1746,3309 3066,3319 3074,3318 3078,3368 3067,3374 1745,3364"/>
+                <Baseline points="1746,3354 3068,3364 3078,3363"/>
+                <TextEquiv>
+                    <Unicode>Die Kohlenwirtſchaft iſt ebenſo wichtig und gefährdet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r20l2" custom="readingOrder {index:1;}">
+                <Coords points="1639,3376 1663,3365 1663,3365 1712,3365 2317,3367 3066,3373 3066,3416 2958,3426 2888,3426 1968,3422 1663,3409 1639,3407 1639,3376"/>
+                <Baseline points="1639,3399 1712,3408 1740,3409 1795,3409 1824,3410 2317,3410 2374,3412 2452,3412 2481,3412 2700,3413 2739,3414 2836,3413 2869,3415 2958,3416 2989,3416 3066,3405"/>
+                <TextEquiv>
+                    <Unicode>wie die Lebensmittelwirtſchaft. Die Kohlennot wird trotz Ab⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r20l3" custom="readingOrder {index:2;}">
+                <Coords points="1638,3416 1794,3416 2858,3424 3011,3426 3065,3441 3065,3466 3011,3475 2919,3476 2760,3476 1679,3471 1638,3465 1638,3416"/>
+                <Baseline points="1638,3460 1794,3461 1841,3461 1906,3462 1931,3462 2282,3463 2323,3463 2578,3465 2621,3467 2718,3466 2760,3466 2919,3467 2962,3467 3065,3466"/>
+                <TextEquiv>
+                    <Unicode>ſtellung der Kriegswirtſchaft unverändert groß bleiben, ſchon</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r20l4" custom="readingOrder {index:3;}">
+                <Coords points="1639,3484 1798,3474 1883,3472 1883,3472 2406,3472 2903,3475 3023,3479 3067,3492 3067,3520 2972,3531 2583,3531 1914,3524 1675,3512 1639,3509 1639,3484"/>
+                <Baseline points="1639,3502 1769,3513 1798,3513 1864,3514 1883,3514 2406,3516 2465,3518 2542,3517 2583,3518 2972,3520 3002,3520 3067,3520"/>
+                <TextEquiv>
+                    <Unicode>wegen der Verkehrsſchwierigkeiten. Die Aufrechterhaltung der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r20l5" custom="readingOrder {index:4;}">
+                <Coords points="1636,3522 1992,3522 2956,3530 3008,3534 3066,3544 3066,3573 2856,3578 2245,3578 1685,3576 1636,3566 1636,3522"/>
+                <Baseline points="1636,3566 1992,3567 2036,3568 2082,3569 2129,3568 2326,3568 2371,3568 2447,3569 2495,3569 2578,3570 2630,3570 2856,3572 2902,3573 3066,3573"/>
+                <TextEquiv>
+                    <Unicode>Kohlenwirtſchaft iſt abhängig von dem geordneten Weiter⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r20l6" custom="readingOrder {index:5;}">
+                <Coords points="1637,3587 1686,3581 1734,3576 1734,3576 1971,3576 2227,3577 2557,3579 2810,3582 2926,3584 3016,3586 3064,3597 3064,3625 2926,3635 2910,3635 1999,3628 1637,3617 1637,3587"/>
+                <Baseline points="1637,3617 1806,3618 1837,3619 1904,3619 1930,3619 2048,3619 2076,3620 2227,3621 2277,3621 2350,3619 2380,3618 2557,3621 2587,3623 2752,3623 2783,3624 2878,3625 2910,3625 2968,3623 2996,3624 3064,3625"/>
+                <TextEquiv>
+                    <Unicode>arbeiten der Orga iſation. Die ö tlichen Organe ſind: für den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r20l7" custom="readingOrder {index:6;}">
+                <Coords points="1637,3627 1672,3627 2469,3630 2682,3632 2998,3636 3061,3644 3061,3685 2959,3685 1637,3674 1637,3627"/>
+                <Baseline points="1637,3668 1880,3671 1924,3672 1982,3672 2031,3672 2177,3673 2221,3674 2301,3673 2345,3674 2789,3676 2849,3676 2912,3675 2959,3673 3061,3677"/>
+                <TextEquiv>
+                    <Unicode>Hausbrand die Städte und Kommunalverbände für Gas,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r20l8" custom="readingOrder {index:7;}">
+                <Coords points="1636,3678 1691,3678 2066,3679 2846,3684 2939,3686 3065,3690 3065,3731 2846,3740 2799,3740 1667,3732 1636,3724 1636,3678"/>
+                <Baseline points="1636,3724 1798,3723 1832,3723 2066,3725 2093,3724 2172,3724 2202,3724 2260,3724 2290,3724 2676,3727 2707,3728 2770,3728 2799,3728 2984,3729 3007,3729 3065,3731"/>
+                <TextEquiv>
+                    <Unicode>Waſſer, Elektrizität und die Kohlenverſorgung der Fabriken die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r20l9" custom="readingOrder {index:8;}">
+                <Coords points="1633,3732 2033,3732 2710,3735 3022,3741 3060,3749 3060,3783 2710,3787 2202,3787 1660,3785 1633,3776 1633,3732"/>
+                <Baseline points="1633,3776 2033,3776 2076,3777 2156,3778 2202,3778 2710,3780 2765,3781 2824,3781 2868,3782 2939,3782 2985,3783 3060,3783"/>
+                <TextEquiv>
+                    <Unicode>Kohlenabteilungen und Elektrizitätsabteilungen bei den bis⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r20l10" custom="readingOrder {index:9;}">
+                <Coords points="1636,3787 1817,3784 1817,3784 2212,3784 3062,3795 3062,3845 3012,3845 2787,3844 1721,3837 1636,3833 1636,3787"/>
+                <Baseline points="1636,3827 1789,3828 1817,3829 2212,3830 2272,3831 2384,3830 2413,3830 2495,3831 2525,3831 2668,3832 2697,3832 2943,3835 2972,3835 3062,3836"/>
+                <TextEquiv>
+                    <Unicode>herigen Kriegsamtsſtellen. Dieſe ſind bereits angewieſen, nach</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r20l11" custom="readingOrder {index:10;}">
+                <Coords points="1633,3838 1656,3836 1656,3836 1959,3836 2438,3839 2704,3843 2738,3847 2767,3855 2776,3877 2776,3884 2767,3885 2538,3893 2480,3894 2355,3894 2098,3893 1656,3889 1633,3883 1633,3838"/>
+                <Baseline points="1633,3883 1973,3881 2004,3881 2069,3882 2098,3882 2496,3883 2522,3883 2565,3884 2594,3884 2776,3884"/>
+                <TextEquiv>
+                    <Unicode>Geſichtspunkten der Friedenswirtſchaft zu arbeiten.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r20l12" custom="readingOrder {index:11;}">
+                <Coords points="1746,3890 1784,3890 2270,3892 2809,3895 2965,3896 3013,3897 3062,3909 3062,3939 2965,3947 2922,3947 2207,3943 1746,3934 1746,3890"/>
+                <Baseline points="1746,3934 1821,3934 1854,3934 2046,3934 2076,3934 2157,3934 2185,3935 2481,3936 2510,3936 2726,3937 2754,3938 2828,3938 2856,3938 2965,3939 2991,3940 3062,3939"/>
+                <TextEquiv>
+                    <Unicode>Die Arbeiter⸗ und Soldatenräte, überhaupt alle durch den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r20l13" custom="readingOrder {index:12;}">
+                <Coords points="1634,3942 1856,3942 2065,3943 2601,3946 3035,3949 3060,3959 3060,3993 2682,4000 2645,4000 1828,3996 1764,3995 1634,3985 1634,3942"/>
+                <Baseline points="1634,3984 1868,3985 1911,3986 1977,3986 2020,3986 2418,3989 2459,3987 2500,3988 2542,3988 2601,3989 2645,3989 2780,3991 2823,3991 2888,3992 2918,3992 3060,3992"/>
+                <TextEquiv>
+                    <Unicode>Uebergang der Regierungsgewalt in die Hände des Volkes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r20l14" custom="readingOrder {index:13;}">
+                <Coords points="1634,4007 1701,3995 1701,3995 1719,3995 2207,3997 2611,3999 2973,4002 3023,4005 3059,4015 3059,4045 2818,4051 2678,4053 2542,4053 1930,4049 1701,4043 1634,4036 1634,4007"/>
+                <Baseline points="1634,4036 1904,4038 1930,4038 2148,4039 2168,4039 2333,4040 2364,4040 2512,4040 2542,4041 2818,4043 2845,4043 2886,4044 2916,4044 2973,4044 3002,4045 3059,4045"/>
+                <TextEquiv>
+                    <Unicode>entſtandenen politiſchen Organe werden aufgefordert, in die be⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r20l15" custom="readingOrder {index:14;}">
+                <Coords points="1634,4047 1801,4047 2121,4048 2560,4050 2824,4053 2998,4055 3045,4067 3059,4090 3059,4107 2790,4107 1900,4101 1684,4098 1634,4097 1634,4047"/>
+                <Baseline points="1634,4091 1801,4091 1832,4091 2121,4092 2163,4092 2226,4093 2254,4093 2612,4094 2656,4094 2751,4095 2790,4096 3059,4097"/>
+                <TextEquiv>
+                    <Unicode>ſtehende Organiſation der Kohlenwirtſchaft nicht einzugreifen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r20l16" custom="readingOrder {index:15;}">
+                <Coords points="1631,4100 1790,4100 2391,4102 2678,4103 3010,4108 3059,4121 3059,4150 2917,4157 2482,4157 2129,4156 1631,4146 1631,4100"/>
+                <Baseline points="1631,4146 1790,4143 1835,4143 1949,4144 1993,4144 2090,4144 2129,4144 2391,4145 2422,4146 2717,4147 2761,4148 2826,4148 2866,4147 3059,4150"/>
+                <TextEquiv>
+                    <Unicode>ſondern deren etwa erforderliche Umgeſtaltung der zent alen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r20l17" custom="readingOrder {index:16;}">
+                <Coords points="1631,4153 1654,4151 1654,4151 1961,4151 2658,4156 3035,4160 3059,4173 3059,4202 3035,4207 2940,4210 2875,4210 2118,4208 1654,4206 1631,4197 1631,4153"/>
+                <Baseline points="1631,4196 1961,4196 2009,4196 2054,4196 2100,4197 2325,4197 2401,4198 2491,4198 2532,4199 2567,4198 2613,4199 2713,4200 2754,4200 2830,4201 2875,4201 3059,4202"/>
+                <TextEquiv>
+                    <Unicode>Volksregierung zu überlaſſen. Nur ſo kann das ſchwerſte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r20l18" custom="readingOrder {index:17;}">
+                <Coords points="1631,4205 1741,4205 2607,4208 2994,4213 3058,4225 3058,4256 3020,4266 2946,4266 1684,4257 1631,4248 1631,4205"/>
+                <Baseline points="1631,4247 1772,4248 1799,4248 1880,4249 1907,4249 1993,4250 2023,4250 2144,4251 2170,4251 2248,4251 2292,4251 2377,4252 2418,4252 2755,4254 2783,4254 2903,4255 2946,4255 3058,4256"/>
+                <TextEquiv>
+                    <Unicode>Unheil von dem Volke und dem zurückkehrenden Heere abge⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r20l19" custom="readingOrder {index:18;}">
+                <Coords points="1630,4270 1703,4259 1822,4258 1822,4258 1907,4258 1967,4271 1967,4302 1630,4302 1630,4270"/>
+                <Baseline points="1630,4302 1776,4302 1801,4302 1967,4302"/>
+                <TextEquiv>
+                    <Unicode>wendet werden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r20l20" custom="readingOrder {index:19;}">
+                <Coords points="1736,4321 1853,4321 2299,4323 2479,4325 2479,4368 1892,4377 1759,4377 1736,4369 1736,4321"/>
+                <Baseline points="1736,4369 1892,4367 1919,4367 1993,4367 2021,4367 2085,4368 2106,4368 2331,4368 2358,4368 2479,4368"/>
+                <TextEquiv>
+                    <Unicode>Berlin, den 11. November 1918.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r20l21" custom="readingOrder {index:20;}">
+                <Coords points="2111,4390 2138,4388 2177,4388 2276,4388 2276,4438 2111,4433"/>
+                <Baseline points="2111,4433 2272,4433 2276,4433"/>
+                <TextEquiv>
+                    <Unicode>Ebert.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r20l22" custom="readingOrder {index:21;}">
+                <Coords points="2400,4389 2546,4390 2583,4402 2583,4436 2546,4445 2444,4445 2400,4443"/>
+                <Baseline points="2400,4433 2417,4433 2583,4436"/>
+                <TextEquiv>
+                    <Unicode>Haaſe.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Die Kohlenwirtſchaft iſt ebenſo wichtig und gefährdet
+wie die Lebensmittelwirtſchaft. Die Kohlennot wird trotz Ab⸗
+ſtellung der Kriegswirtſchaft unverändert groß bleiben, ſchon
+wegen der Verkehrsſchwierigkeiten. Die Aufrechterhaltung der
+Kohlenwirtſchaft iſt abhängig von dem geordneten Weiter⸗
+arbeiten der Orga iſation. Die ö tlichen Organe ſind: für den
+Hausbrand die Städte und Kommunalverbände für Gas,
+Waſſer, Elektrizität und die Kohlenverſorgung der Fabriken die
+Kohlenabteilungen und Elektrizitätsabteilungen bei den bis⸗
+herigen Kriegsamtsſtellen. Dieſe ſind bereits angewieſen, nach
+Geſichtspunkten der Friedenswirtſchaft zu arbeiten.
+Die Arbeiter⸗ und Soldatenräte, überhaupt alle durch den
+Uebergang der Regierungsgewalt in die Hände des Volkes
+entſtandenen politiſchen Organe werden aufgefordert, in die be⸗
+ſtehende Organiſation der Kohlenwirtſchaft nicht einzugreifen,
+ſondern deren etwa erforderliche Umgeſtaltung der zent alen
+Volksregierung zu überlaſſen. Nur ſo kann das ſchwerſte
+Unheil von dem Volke und dem zurückkehrenden Heere abge⸗
+wendet werden.
+Berlin, den 11. November 1918.
+Ebert.
+Haaſe.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r21" custom="readingOrder {index:21;} structure {type:paragraph;}">
+            <Coords points="1606,4522 3088,4527 3080,5269 1594,5269"/>
+            <TextLine id="r21l1" custom="readingOrder {index:0;}">
+                <Coords points="1953,4544 2448,4544 2727,4560 2727,4592 2651,4601 2176,4601 2089,4599 1953,4591 1953,4544"/>
+                <Baseline points="1953,4590 2727,4592"/>
+                <TextEquiv>
+                    <Unicode>Ausfuhrerleichterungen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r21l2" custom="readingOrder {index:1;}">
+                <Coords points="1706,4608 1889,4608 2267,4610 2795,4613 2927,4614 2972,4621 2972,4658 2927,4668 2705,4668 1706,4663 1706,4608"/>
+                <Baseline points="1706,4653 1784,4654 1811,4654 1991,4653 2019,4653 2098,4654 2129,4654 2395,4655 2425,4655 2535,4656 2568,4656 2651,4657 2680,4657 2972,4657"/>
+                <TextEquiv>
+                    <Unicode>für Waren des Abſchnitts VIII des Zolltarifs.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r21l3" custom="readingOrder {index:2;}">
+                <Coords points="1732,4685 2220,4685 2929,4690 2944,4691 3051,4703 3051,4743 2632,4743 1859,4739 1732,4729 1732,4685"/>
+                <Baseline points="1732,4729 1815,4728 1859,4728 2220,4728 2262,4728 2329,4729 2367,4730 2476,4731 2517,4731 2594,4731 2632,4732 3051,4734"/>
+                <TextEquiv>
+                    <Unicode>Der Reichskommiſſar für Aus⸗ und Einfuhrbewilligung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r21l4" custom="readingOrder {index:3;}">
+                <Coords points="1623,4736 1645,4736 1928,4737 2405,4739 2853,4744 2931,4745 3004,4746 3052,4757 3052,4786 2931,4793 2805,4793 1986,4790 1623,4788 1623,4736"/>
+                <Baseline points="1623,4780 1690,4780 1718,4780 1788,4781 1816,4781 2009,4780 2039,4780 2131,4782 2164,4781 2220,4780 2239,4780 2461,4783 2482,4783 2585,4784 2615,4783 2665,4784 2687,4784 2742,4785 2764,4785 3052,4786"/>
+                <TextEquiv>
+                    <Unicode>hat mit Wirkung vom 12. November 1918 ab die nachſtehenden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r21l5" custom="readingOrder {index:4;}">
+                <Coords points="1624,4791 1675,4790 1675,4790 2132,4790 2869,4795 3004,4799 3051,4804 3051,4840 2869,4848 2758,4848 1675,4843 1624,4833 1624,4791"/>
+                <Baseline points="1624,4833 2132,4834 2173,4834 2238,4834 2281,4835 2431,4836 2472,4836 2540,4836 2582,4837 2705,4838 2734,4838 2954,4839 2983,4840 3051,4840"/>
+                <TextEquiv>
+                    <Unicode>Ausfuhrerleichterungen für Waren des VIII. Abſchnitts des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r21l6" custom="readingOrder {index:5;}">
+                <Coords points="1621,4842 1638,4841 1638,4841 1711,4841 1980,4843 2026,4846 2026,4886 1996,4895 1980,4896 1621,4896 1621,4842"/>
+                <Baseline points="1621,4885 1831,4885 1861,4885 2026,4886"/>
+                <TextEquiv>
+                    <Unicode>Zolltarifs verfügt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r21l7" custom="readingOrder {index:6;}">
+                <Coords points="1720,4909 1742,4906 1742,4906 2072,4906 2469,4908 2775,4910 2842,4911 3049,4916 3049,4950 2810,4954 2469,4955 2281,4955 1742,4953 1720,4944 1720,4909"/>
+                <Baseline points="1720,4944 1755,4945 1779,4946 1856,4945 1874,4945 2072,4945 2097,4945 2235,4946 2254,4946 2469,4947 2498,4948 2632,4949 2661,4949 2718,4950 2736,4950 2934,4950 2952,4950 3049,4950"/>
+                <TextEquiv>
+                    <Unicode>1) Die Zollſtellen werden ermächtigt, Waren des Abſchnitts VIII</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r21l8" custom="readingOrder {index:7;}">
+                <Coords points="1622,4953 1896,4953 2383,4955 3006,4959 3048,4971 3048,4998 3006,5002 2233,5007 2214,5007 2164,5006 1622,4992 1622,4953"/>
+                <Baseline points="1622,4991 1678,4991 1741,4991 1896,4992 1933,4993 2127,4992 2164,4993 2233,4993 2273,4993 2509,4995 2547,4995 2613,4996 2649,4996 2867,4997 2894,4997 3048,4998"/>
+                <TextEquiv>
+                    <Unicode>des Zolltarifs (Geflechte und Flechtwaren aus pflanzlichen Stoffen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r21l9" custom="readingOrder {index:8;}">
+                <Coords points="1621,5012 1657,5001 1749,4999 1749,4999 1863,4999 2356,5001 2720,5004 2830,5005 2988,5008 3005,5010 3047,5019 3047,5045 2830,5047 2356,5048 2045,5048 1749,5044 1621,5038 1621,5012"/>
+                <Baseline points="1621,5038 1687,5038 1749,5038 1918,5038 1959,5039 2018,5039 2045,5039 2356,5040 2399,5041 2520,5042 2560,5042 2661,5042 2690,5042 2849,5043 2884,5043 3047,5044"/>
+                <TextEquiv>
+                    <Unicode>mit Ausnahme der Geſpinſtfaſern), ſoweit deren Ausfuhr verboten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r21l10" custom="readingOrder {index:9;}">
+                <Coords points="1620,5047 1698,5046 1698,5046 2024,5046 2496,5048 2990,5052 3032,5066 3046,5080 3046,5090 2990,5099 2912,5099 2388,5097 1635,5091 1620,5086 1620,5047"/>
+                <Baseline points="1620,5086 1669,5086 1698,5086 1753,5085 1777,5084 1841,5085 1867,5085 2024,5085 2050,5086 2141,5086 2166,5086 2554,5088 2579,5088 2640,5089 2660,5089 2821,5090 2845,5090 3046,5090"/>
+                <TextEquiv>
+                    <Unicode>iſt, bis auf weiteres ohne Ausfuhrbewilligung zur Ausfuhr zuzulaſſen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r21l11" custom="readingOrder {index:10;}">
+                <Coords points="1715,5106 1741,5105 1789,5104 1789,5104 1841,5104 2249,5105 2694,5108 2964,5110 3025,5111 3048,5124 3048,5150 3025,5156 2921,5156 2491,5154 1741,5149 1715,5142 1715,5106"/>
+                <Baseline points="1715,5142 1753,5142 1789,5142 1923,5143 1963,5144 2024,5144 2050,5144 2249,5145 2276,5145 2373,5145 2408,5145 2466,5146 2491,5146 2694,5148 2720,5148 2821,5149 2845,5149 3048,5150"/>
+                <TextEquiv>
+                    <Unicode>2) Waren des Abſchnitts VIII des Zolltarifs, deren Durchfuhr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r21l12" custom="readingOrder {index:11;}">
+                <Coords points="1619,5159 1677,5151 1677,5151 1982,5151 2957,5157 3008,5158 3046,5178 3046,5192 3008,5204 2829,5204 1910,5198 1619,5190 1619,5159"/>
+                <Baseline points="1619,5189 1778,5190 1818,5190 1874,5190 1910,5190 1982,5190 2025,5190 2106,5190 2150,5191 2283,5191 2329,5192 2395,5193 2432,5193 2495,5194 2532,5195 2666,5195 2704,5195 2797,5196 2829,5196 3046,5188"/>
+                <TextEquiv>
+                    <Unicode>verboten iſt, ſind auch künftig nur auf Grund einer Durchfuhr⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r21l13" custom="readingOrder {index:12;}">
+                <Coords points="1620,5200 1693,5199 1952,5198 1952,5198 2159,5198 2332,5199 2372,5212 2384,5227 2384,5238 2332,5248 2210,5248 1751,5244 1620,5238 1620,5200"/>
+                <Baseline points="1620,5238 1841,5236 1870,5237 1927,5237 1952,5237 2159,5237 2182,5238 2384,5238"/>
+                <TextEquiv>
+                    <Unicode>bewilligung zur Durchfuhr zuzulaſſen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ausfuhrerleichterungen
+für Waren des Abſchnitts VIII des Zolltarifs.
+Der Reichskommiſſar für Aus⸗ und Einfuhrbewilligung
+hat mit Wirkung vom 12. November 1918 ab die nachſtehenden
+Ausfuhrerleichterungen für Waren des VIII. Abſchnitts des
+Zolltarifs verfügt.
+1) Die Zollſtellen werden ermächtigt, Waren des Abſchnitts VIII
+des Zolltarifs (Geflechte und Flechtwaren aus pflanzlichen Stoffen
+mit Ausnahme der Geſpinſtfaſern), ſoweit deren Ausfuhr verboten
+iſt, bis auf weiteres ohne Ausfuhrbewilligung zur Ausfuhr zuzulaſſen.
+2) Waren des Abſchnitts VIII des Zolltarifs, deren Durchfuhr
+verboten iſt, ſind auch künftig nur auf Grund einer Durchfuhr⸗
+bewilligung zur Durchfuhr zuzulaſſen.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r22" custom="readingOrder {index:22;} structure {type:paragraph;}">
+            <Coords points="1592,5281 3075,5280 3069,6025 1596,6026"/>
+            <TextLine id="r22l1" custom="readingOrder {index:0;}">
+                <Coords points="1939,5302 2401,5302 2720,5320 2720,5350 2644,5359 2162,5359 2074,5356 1939,5347 1939,5302"/>
+                <Baseline points="1939,5346 2720,5342"/>
+                <TextEquiv>
+                    <Unicode>Ausfuhrerleichterungen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r22l2" custom="readingOrder {index:1;}">
+                <Coords points="1715,5366 1817,5365 1817,5365 1927,5365 2889,5371 2934,5379 2934,5416 2889,5425 2645,5425 1715,5421 1715,5366"/>
+                <Baseline points="1715,5410 1788,5410 1817,5410 1997,5410 2026,5410 2109,5411 2139,5411 2409,5413 2535,5414 2615,5414 2645,5414 2934,5416"/>
+                <TextEquiv>
+                    <Unicode>für Waren des Abſchnitts IX des Zolltarifs.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r22l3" custom="readingOrder {index:2;}">
+                <Coords points="1724,5443 1847,5442 1847,5442 2211,5442 2916,5447 3040,5460 3040,5501 2617,5501 1847,5496 1724,5487 1724,5443"/>
+                <Baseline points="1724,5487 1804,5484 1847,5485 2211,5487 2254,5487 2321,5488 2359,5488 2469,5489 2509,5489 2587,5490 2617,5491 3040,5491"/>
+                <TextEquiv>
+                    <Unicode>Der Reichskommiſſar für Aus⸗ und Einfuhrbewilligung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r22l4" custom="readingOrder {index:3;}">
+                <Coords points="1616,5496 1798,5494 1896,5493 1896,5493 1911,5493 2383,5496 2873,5500 2992,5503 3040,5514 3040,5544 2919,5553 2768,5553 1616,5545 1616,5496"/>
+                <Baseline points="1616,5538 1681,5538 1709,5538 1780,5538 1798,5538 1992,5537 2020,5537 2112,5538 2135,5538 2196,5539 2218,5539 2442,5540 2460,5541 2567,5541 2595,5542 2647,5542 2678,5543 2733,5543 2752,5543 3040,5544"/>
+                <TextEquiv>
+                    <Unicode>hat mit Wirkung vom 12. November 1918 ab die nachſtehenden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r22l5" custom="readingOrder {index:4;}">
+                <Coords points="1615,5548 1638,5547 1638,5547 2125,5547 2334,5548 3014,5554 3039,5562 3039,5598 2785,5604 2704,5604 1638,5600 1615,5592 1615,5548"/>
+                <Baseline points="1615,5592 2125,5591 2172,5591 2237,5592 2280,5593 2432,5594 2478,5594 2546,5595 2591,5595 2675,5595 2704,5595 2924,5597 2971,5597 3039,5598"/>
+                <TextEquiv>
+                    <Unicode>Ausfuhrerleichterungen für Waren des IX. Abſchnitts des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r22l6" custom="readingOrder {index:5;}">
+                <Coords points="1613,5600 1854,5599 1854,5599 1977,5599 2024,5602 2024,5642 1993,5651 1652,5654 1613,5654 1613,5600"/>
+                <Baseline points="1613,5644 1821,5642 1854,5642 2024,5642"/>
+                <TextEquiv>
+                    <Unicode>Zolltarifs verfügt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r22l7" custom="readingOrder {index:6;}">
+                <Coords points="1710,5665 1771,5663 1871,5661 1871,5661 2069,5661 2953,5663 3039,5673 3039,5708 2953,5712 2471,5713 2346,5713 1735,5707 1710,5703 1710,5665"/>
+                <Baseline points="1710,5703 1746,5703 1771,5703 1845,5701 1871,5701 2069,5702 2095,5702 2233,5704 2259,5704 2471,5706 2506,5706 2641,5706 2671,5707 2727,5707 2754,5707 2953,5708 2979,5708 3039,5708"/>
+                <TextEquiv>
+                    <Unicode>1) Die Zollſtellen werden ermächtigt, Waren des Abſchnitts IX</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r22l8" custom="readingOrder {index:7;}">
+                <Coords points="1612,5711 1695,5709 1695,5709 1967,5709 2665,5713 2871,5715 2958,5717 3037,5730 3037,5755 2665,5766 2619,5766 1695,5756 1612,5750 1612,5711"/>
+                <Baseline points="1612,5748 1668,5749 1695,5749 1886,5748 1910,5748 2058,5749 2086,5750 2255,5751 2283,5751 2406,5753 2432,5752 2501,5752 2520,5753 2763,5752 2796,5752 2914,5755 2940,5755 3037,5748"/>
+                <TextEquiv>
+                    <Unicode>des Zolltarifs (Beſen, Bürſten, Pinſel und Siebwaren), ſoweit deren</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r22l9" custom="readingOrder {index:8;}">
+                <Coords points="1613,5757 1859,5755 1859,5755 2015,5755 2906,5760 3038,5775 3038,5803 2992,5809 2942,5810 2601,5810 1635,5802 1613,5795 1613,5757"/>
+                <Baseline points="1613,5795 1773,5795 1795,5795 1959,5792 1987,5794 2039,5796 2066,5796 2123,5796 2149,5796 2210,5797 2233,5797 2391,5798 2430,5798 2519,5799 2554,5799 2942,5802 2980,5802 3038,5803"/>
+                <TextEquiv>
+                    <Unicode>Ausfuhr verboten iſt, bis auf weiteres ohne Ausfuhrbewilligung zur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r22l10" custom="readingOrder {index:9;}">
+                <Coords points="1613,5803 1831,5801 1831,5801 2011,5801 2033,5813 2033,5841 2011,5848 1742,5849 1728,5849 1613,5843 1613,5803"/>
+                <Baseline points="1613,5843 1713,5842 1728,5842 1806,5841 1831,5840 2033,5840"/>
+                <TextEquiv>
+                    <Unicode>Ausfuhr zuzulaſſen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r22l11" custom="readingOrder {index:10;}">
+                <Coords points="1705,5862 1732,5861 1769,5860 2885,5855 2885,5855 2906,5855 3013,5867 3038,5879 3038,5907 3013,5909 2906,5916 2885,5916 1732,5907 1705,5899 1705,5862"/>
+                <Baseline points="1705,5899 1744,5899 1769,5899 1903,5899 1927,5899 1987,5899 2014,5899 2213,5902 2238,5901 2301,5902 2337,5902 2396,5902 2423,5902 2626,5904 2667,5904 2764,5904 2809,5905 2927,5907 2953,5907 3038,5907"/>
+                <TextEquiv>
+                    <Unicode>2) Waren des Abſchnitts IX des Zolltarifs, deren Durchfuhr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r22l12" custom="readingOrder {index:11;}">
+                <Coords points="1610,5914 1669,5906 1961,5906 2261,5908 2988,5913 2997,5914 3036,5927 3036,5953 2997,5961 2371,5954 2350,5954 1812,5952 1610,5947 1610,5914"/>
+                <Baseline points="1610,5947 1772,5945 1796,5945 1853,5945 1890,5945 1961,5945 2005,5944 2086,5948 2126,5947 2261,5948 2303,5948 2371,5949 2406,5949 2470,5950 2509,5951 2642,5951 2686,5951 2777,5951 2815,5951 3036,5953"/>
+                <TextEquiv>
+                    <Unicode>verboten iſt, ſind auch künftig nur auf Grund einer Durchfuhr⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r22l13" custom="readingOrder {index:12;}">
+                <Coords points="1611,5956 1685,5954 1685,5954 2175,5954 2366,5962 2412,5969 2425,5984 2425,5994 2366,6004 2221,6004 1743,6000 1611,5994 1611,5956"/>
+                <Baseline points="1611,5994 1832,5992 1859,5992 1916,5992 1999,5992 2099,5992 2114,5993 2197,5994 2221,5994 2425,5994"/>
+                <TextEquiv>
+                    <Unicode>bewilligung zur Durchfuhr zuzulaſſen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ausfuhrerleichterungen
+für Waren des Abſchnitts IX des Zolltarifs.
+Der Reichskommiſſar für Aus⸗ und Einfuhrbewilligung
+hat mit Wirkung vom 12. November 1918 ab die nachſtehenden
+Ausfuhrerleichterungen für Waren des IX. Abſchnitts des
+Zolltarifs verfügt.
+1) Die Zollſtellen werden ermächtigt, Waren des Abſchnitts IX
+des Zolltarifs (Beſen, Bürſten, Pinſel und Siebwaren), ſoweit deren
+Ausfuhr verboten iſt, bis auf weiteres ohne Ausfuhrbewilligung zur
+Ausfuhr zuzulaſſen.
+2) Waren des Abſchnitts IX des Zolltarifs, deren Durchfuhr
+verboten iſt, ſind auch künftig nur auf Grund einer Durchfuhr⸗
+bewilligung zur Durchfuhr zuzulaſſen.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r23" custom="readingOrder {index:23;} structure {type:paragraph;}">
+            <Coords points="1591,6044 3073,6042 3066,6773 1593,6775"/>
+            <TextLine id="r23l1" custom="readingOrder {index:0;}">
+                <Coords points="1889,6052 2762,6061 2762,6111 1889,6102"/>
+                <Baseline points="1889,6097 2762,6106"/>
+                <TextEquiv>
+                    <Unicode>Ausfuhrerleichterungen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r23l2" custom="readingOrder {index:1;}">
+                <Coords points="1661,6121 1774,6119 1774,6119 2014,6119 2185,6120 2810,6126 2938,6128 2984,6136 2984,6173 2938,6181 2695,6181 1661,6174 1661,6121"/>
+                <Baseline points="1661,6164 1744,6164 1774,6162 1948,6163 1991,6163 2074,6163 2110,6164 2393,6166 2422,6167 2540,6167 2573,6168 2660,6169 2695,6169 2984,6173"/>
+                <TextEquiv>
+                    <Unicode>für Waren des Abſchnitts XIII des Zolltarifs.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r23l3" custom="readingOrder {index:2;}">
+                <Coords points="1717,6196 1828,6194 1828,6194 2193,6194 2914,6203 2930,6204 3036,6217 3036,6258 2613,6258 1899,6246 1717,6240 1717,6196"/>
+                <Baseline points="1717,6239 1799,6238 1819,6236 2193,6239 2234,6240 2303,6241 2342,6242 2451,6242 2492,6242 2570,6243 2613,6244 3036,6248"/>
+                <TextEquiv>
+                    <Unicode>Der Reichskommiſſar für Aus⸗ und Einfuhrbewilligung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r23l4" custom="readingOrder {index:3;}">
+                <Coords points="1610,6248 1839,6246 1949,6246 2349,6249 2778,6254 2846,6255 3020,6259 3037,6275 3037,6294 3020,6306 1673,6295 1608,6295 1610,6248"/>
+                <Baseline points="1610,6290 1675,6290 1723,6290 1793,6291 1839,6291 2030,6289 2073,6289 2167,6289 2213,6290 2280,6292 2310,6293 2532,6294 2573,6295 2683,6296 2727,6296 2778,6297 2826,6297 2882,6296 2929,6298 3037,6294"/>
+                <TextEquiv>
+                    <Unicode>hat mit Wirkung vom 12. November 1918 ab die nach⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r23l5" custom="readingOrder {index:4;}">
+                <Coords points="1612,6297 1659,6300 1891,6299 2347,6299 3038,6310 3038,6354 3009,6355 2454,6356 2387,6351 1891,6349 1659,6352 1609,6348 1611,6309"/>
+                <Baseline points="1617,6341 1804,6342 1835,6343 2347,6344 2387,6345 2454,6347 2495,6347 2650,6349 2691,6350 2759,6351 2802,6351 2928,6353 2958,6353 3038,6343"/>
+                <TextEquiv>
+                    <Unicode>ſtehenden Ausfuhrerleichterungen für Waren des XIII. Ab⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r23l6" custom="readingOrder {index:5;}">
+                <Coords points="1609,6352 1888,6350 1888,6350 2072,6350 2275,6352 2299,6358 2299,6396 2275,6406 1763,6409 1649,6409 1609,6405 1609,6352"/>
+                <Baseline points="1609,6394 1763,6394 1787,6394 1861,6394 1888,6393 2097,6393 2127,6393 2299,6396"/>
+                <TextEquiv>
+                    <Unicode>ſchnitts des Zolltarifs verfügt:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r23l7" custom="readingOrder {index:6;}">
+                <Coords points="1707,6417 1767,6415 1861,6414 1990,6413 1990,6413 2058,6413 2773,6422 3017,6427 3037,6429 3037,6464 2205,6472 2171,6472 1855,6467 1731,6460 1707,6454 1707,6417"/>
+                <Baseline points="1707,6452 1744,6453 1767,6453 1842,6454 1855,6454 2058,6453 2081,6454 2218,6455 2240,6455 2452,6459 2481,6460 2615,6460 2644,6460 2701,6461 2719,6461 2773,6463 2935,6464 3037,6464"/>
+                <TextEquiv>
+                    <Unicode>1) Die Zollſtellen werden ermächtigt, Waren des Abſchnitts XIII</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r23l8" custom="readingOrder {index:7;}">
+                <Coords points="1609,6463 1692,6461 1692,6461 1973,6461 2834,6468 2995,6471 3035,6485 3035,6509 2995,6515 2834,6516 2634,6516 1692,6508 1609,6501 1609,6463"/>
+                <Baseline points="1609,6501 1665,6500 1692,6500 1885,6501 1909,6501 2058,6500 2084,6500 2153,6501 2169,6501 2327,6503 2352,6504 2434,6505 2449,6505 2596,6506 2611,6506 2867,6510 2883,6510 3035,6503"/>
+                <TextEquiv>
+                    <Unicode>des Zolltarifs (Waren aus Steinen oder anderen mineraliſchen Stoffen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r23l9" custom="readingOrder {index:8;}">
+                <Coords points="1719,6507 2042,6506 2166,6506 2969,6518 3039,6520 3039,6559 2969,6561 2742,6560 2698,6560 2142,6551 1607,6558 1610,6501"/>
+                <Baseline points="1611,6549 1923,6546 1957,6546 2018,6546 2042,6546 2260,6547 2301,6548 2404,6550 2439,6550 2506,6551 2531,6551 2673,6554 2698,6553 2877,6556 2918,6556 3039,6558"/>
+                <TextEquiv>
+                    <Unicode>[mit Ausnahme der Tonwaren] ſowie aus foſſilen Stoffen), ſoweit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r23l10" custom="readingOrder {index:9;}">
+                <Coords points="1604,6554 1738,6554 1814,6553 1922,6552 2013,6552 2211,6554 2895,6561 2943,6566 3041,6578 3041,6611 2872,6610 1814,6596 1604,6597 1603,6574"/>
+                <Baseline points="1607,6593 1709,6593 1738,6592 1792,6592 1814,6592 1899,6592 1922,6592 2084,6592 2112,6592 2171,6594 2191,6594 2247,6595 2274,6595 2337,6596 2360,6596 2519,6598 2544,6599 2633,6600 2653,6600 3041,6603"/>
+                <TextEquiv>
+                    <Unicode>deren Au fuhr verboten iſt, bis auf weiteres ohne Ausfuhrbewilligung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r23l11" custom="readingOrder {index:10;}">
+                <Coords points="1609,6612 1624,6610 1754,6597 2558,6604 2992,6609 3036,6614 3036,6650 2992,6654 2548,6652 1754,6639 1609,6646 1609,6612"/>
+                <Baseline points="1609,6637 1665,6637 1706,6638 1776,6640 1797,6641 1883,6638 1914,6638 2115,6639 2145,6639 2264,6641 2289,6641 2378,6642 2391,6643 2533,6645 2541,6645 2549,6645 2565,6645 2679,6647 2696,6647 2838,6650 2851,6650 3036,6648"/>
+                <TextEquiv>
+                    <Unicode>zur Ausfuhr zuzulaſſen, ſoweit nicht Ziffer 2 etwas anderes beſtimmt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r23l12" custom="readingOrder {index:11;}">
+                <Coords points="1702,6657 1984,6655 1984,6655 2182,6655 2974,6668 2993,6672 3036,6683 3036,6711 2974,6713 2703,6713 1896,6709 1730,6704 1702,6696 1702,6657"/>
+                <Baseline points="1702,6696 1743,6696 1767,6697 1853,6697 1878,6697 1941,6697 1960,6696 2350,6700 2376,6700 2450,6701 2478,6702 2559,6703 2585,6703 2762,6706 2786,6706 2840,6707 2856,6706 3036,6711"/>
+                <TextEquiv>
+                    <Unicode>2) Nur mit Ausfuhrbewilligung ſind auch fernerhin die folgenden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r23l13" custom="readingOrder {index:12;}">
+                <Coords points="1609,6704 1855,6702 1855,6702 1909,6702 2480,6707 2928,6714 2989,6729 2989,6756 2928,6763 2893,6763 1855,6752 1609,6745 1609,6704"/>
+                <Baseline points="1609,6745 1744,6744 1768,6745 1825,6745 1855,6745 2051,6744 2076,6744 2180,6745 2205,6746 2265,6746 2291,6747 2480,6749 2505,6749 2564,6751 2590,6751 2754,6753 2778,6753 2989,6756"/>
+                <TextEquiv>
+                    <Unicode>Waren des Abſchnitts XIII des Zolltarifs zur Ausfuhr zuzulaſſen:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ausfuhrerleichterungen
+für Waren des Abſchnitts XIII des Zolltarifs.
+Der Reichskommiſſar für Aus⸗ und Einfuhrbewilligung
+hat mit Wirkung vom 12. November 1918 ab die nach⸗
+ſtehenden Ausfuhrerleichterungen für Waren des XIII. Ab⸗
+ſchnitts des Zolltarifs verfügt:
+1) Die Zollſtellen werden ermächtigt, Waren des Abſchnitts XIII
+des Zolltarifs (Waren aus Steinen oder anderen mineraliſchen Stoffen
+[mit Ausnahme der Tonwaren] ſowie aus foſſilen Stoffen), ſoweit
+deren Au fuhr verboten iſt, bis auf weiteres ohne Ausfuhrbewilligung
+zur Ausfuhr zuzulaſſen, ſoweit nicht Ziffer 2 etwas anderes beſtimmt.
+2) Nur mit Ausfuhrbewilligung ſind auch fernerhin die folgenden
+Waren des Abſchnitts XIII des Zolltarifs zur Ausfuhr zuzulaſſen:</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r24" custom="readingOrder {index:24;} structure {type:paragraph;}">
+            <Coords points="4182,2082 4577,2082 4577,2227 4182,2227"/>
+            <TextLine id="r24l1" custom="readingOrder {index:0;}">
+                <Coords points="4235,2100 4555,2100 4555,2140 4235,2140 4235,2100"/>
+                <Baseline points="4235,2135 4555,2140"/>
+                <TextEquiv>
+                    <Unicode>Ausfuhrnummern</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r24l2" custom="readingOrder {index:1;}">
+                <Coords points="4248,2144 4326,2142 4326,2142 4526,2142 4546,2154 4546,2179 4526,2181 4326,2181 4248,2175 4248,2144"/>
+                <Baseline points="4248,2175 4302,2176 4326,2177 4546,2179"/>
+                <TextEquiv>
+                    <Unicode>des Statiſtiſchen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r24l3" custom="readingOrder {index:2;}">
+                <Coords points="4210,2180 4475,2180 4524,2184 4560,2188 4560,2221 4524,2224 4210,2224 4210,2180"/>
+                <Baseline points="4210,2216 4560,2221"/>
+                <TextEquiv>
+                    <Unicode>Warenverzeichniſſes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ausfuhrnummern
+des Statiſtiſchen
+Warenverzeichniſſes</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r25" custom="readingOrder {index:25;} structure {type:paragraph;}">
+            <Coords points="3133,2209 4595,2229 4579,3556 3103,3557"/>
+            <TextLine id="r25l1" custom="readingOrder {index:0;}">
+                <Coords points="3200,2221 3334,2221 4206,2229 4253,2233 4300,2246 4300,2272 4122,2276 4047,2276 3482,2270 3200,2267 3200,2221"/>
+                <Baseline points="3200,2258 3334,2260 3368,2260 3435,2261 3482,2262 3606,2264 3632,2264 3698,2265 3725,2265 3858,2267 3902,2267 3938,2267 3980,2268 4122,2269 4167,2270 4300,2271"/>
+                <TextEquiv>
+                    <Unicode>Papier und Pappe aus Aſbeſt, in Bogen, Rollen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r25l2" custom="readingOrder {index:1;}">
+                <Coords points="3293,2281 3318,2273 3441,2270 3563,2270 4021,2274 4219,2278 4300,2280 4300,2320 4021,2322 3936,2322 3441,2315 3293,2307 3293,2281"/>
+                <Baseline points="3293,2307 3377,2307 3441,2308 3563,2309 3617,2310 3699,2311 3750,2312 3817,2313 3844,2313 4021,2314 4064,2315 4133,2315 4178,2317 4300,2320"/>
+                <TextEquiv>
+                    <Unicode>oder Platten, auch mit Einlagen von Draht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r25l3" custom="readingOrder {index:2;}">
+                <Coords points="3293,2328 3317,2320 3445,2317 3445,2317 3666,2317 4044,2322 4130,2324 4257,2327 4297,2338 4297,2365 4217,2365 3445,2364 3293,2352 3293,2328"/>
+                <Baseline points="3293,2346 3375,2354 3445,2355 3666,2357 3707,2358 3776,2358 3817,2359 3966,2361 3994,2361 4175,2362 4217,2363 4297,2365"/>
+                <TextEquiv>
+                    <Unicode>oder Drahtgeflecht aus unedlen Metallen oder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r25l4" custom="readingOrder {index:3;}">
+                <Coords points="3291,2360 3469,2360 3915,2366 4225,2372 4274,2386 4290,2393 4290,2404 4274,2411 4225,2418 4213,2418 4018,2416 3446,2410 3291,2401 3291,2360"/>
+                <Baseline points="3291,2401 3523,2402 3565,2402 3710,2404 3747,2404 3915,2406 3967,2406 4171,2409 4213,2410 4290,2401"/>
+                <TextEquiv>
+                    <Unicode>Legierungen unedler Metalle, ungeformt (un⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r25l5" custom="readingOrder {index:4;}">
+                <Coords points="3268,2437 3268,2434 3293,2408 3293,2408 3501,2408 4012,2413 4181,2417 4270,2421 4296,2432 4296,2464 4012,2469 3828,2469 3338,2453 3293,2446 3268,2437"/>
+                <Baseline points="3292,2444 3528,2448 3608,2449 3659,2450 3725,2450 3768,2451 4012,2454 4051,2454 4296,2457"/>
+                <TextEquiv>
+                    <Unicode>beſchnitten oder nur rechtwinklich beſchnitten);</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r25l6" custom="readingOrder {index:5;}">
+                <Coords points="3292,2467 3335,2454 3335,2454 3454,2454 4104,2462 4197,2465 4251,2468 4294,2478 4294,2504 4180,2510 3922,2510 3636,2506 3292,2498 3292,2467"/>
+                <Baseline points="3292,2493 3454,2494 3504,2495 3584,2495 3636,2496 3851,2498 3905,2499 4294,2504"/>
+                <TextEquiv>
+                    <Unicode>geformt, auch durchlocht; Aſbeſtzementplatten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r25l7" custom="readingOrder {index:6;}">
+                <Coords points="3292,2504 3310,2501 3310,2501 3339,2501 4013,2505 4446,2514 4470,2515 4470,2554 4133,2556 3991,2556 3310,2547 3292,2544 3292,2504"/>
+                <Baseline points="3292,2539 3698,2546 3728,2546 4298,2550 4402,2553 4470,2544"/>
+                <TextEquiv>
+                    <Unicode>(Fiberzementplatten, Aſbeſtzementſchiefer) 705</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r25l8" custom="readingOrder {index:7;}">
+                <Coords points="3197,2545 3235,2545 3959,2553 4187,2558 4295,2565 4295,2598 4276,2598 3404,2595 3197,2587 3197,2545"/>
+                <Baseline points="3197,2584 3335,2586 3378,2587 3551,2588 3596,2589 3775,2591 3818,2591 3959,2593 3997,2594 4066,2595 4093,2596 4204,2596 4229,2596 4295,2598"/>
+                <TextEquiv>
+                    <Unicode>Garne, Schnüre, Stränge, Stricke und Seile aus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r25l9" custom="readingOrder {index:8;}">
+                <Coords points="3291,2595 3312,2594 3312,2594 3421,2594 4263,2603 4293,2617 4293,2643 4263,2647 4176,2647 3834,2645 3312,2639 3291,2633 3291,2595"/>
+                <Baseline points="3291,2633 3421,2634 3455,2634 3535,2634 3562,2635 3598,2635 3618,2636 3854,2638 3882,2638 3947,2639 3972,2639 4120,2641 4149,2641 4293,2643"/>
+                <TextEquiv>
+                    <Unicode>Aſbeſt, auch in Verbindung mit anderen Spinn⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r25l10" custom="readingOrder {index:9;}">
+                <Coords points="3290,2639 3412,2639 4208,2649 4294,2652 4294,2691 4160,2691 3290,2683 3290,2639"/>
+                <Baseline points="3290,2679 3412,2680 3441,2681 3522,2681 3547,2681 3614,2682 3641,2683 3734,2684 3754,2684 3867,2684 3894,2685 3958,2686 3976,2686 4136,2689 4156,2689 4294,2691"/>
+                <TextEquiv>
+                    <Unicode>ſtoffen oder mit einer Seele aus unedlem Metall</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r25l11" custom="readingOrder {index:10;}">
+                <Coords points="3290,2690 3348,2688 3400,2687 3432,2687 4008,2691 4494,2686 4498,2742 3738,2740 3290,2731 3290,2690"/>
+                <Baseline points="3290,2725 3374,2726 3400,2726 3607,2729 3635,2729 3691,2730 3717,2730 4480,2738"/>
+                <TextEquiv>
+                    <Unicode>(mit Ausnahme der Dichtungsſchnüre) 706</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r25l12" custom="readingOrder {index:11;}">
+                <Coords points="3197,2732 3259,2732 3639,2736 4230,2743 4266,2744 4293,2746 4293,2784 4266,2790 4160,2790 3197,2774 3197,2732"/>
+                <Baseline points="3197,2772 3351,2772 3399,2773 3467,2774 3516,2774 3639,2776 3687,2776 3772,2777 3813,2778 4020,2780 4060,2781 4118,2782 4160,2782 4293,2784"/>
+                <TextEquiv>
+                    <Unicode>Gewebe aus Aſbeſt (mit Ausnahme der Aſbeſt⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r25l13" custom="readingOrder {index:12;}">
+                <Coords points="3287,2780 3451,2780 4000,2787 4060,2788 4295,2792 4295,2830 4195,2837 4177,2837 3434,2829 3373,2826 3287,2819 3287,2780"/>
+                <Baseline points="3287,2819 3596,2819 3624,2821 3755,2829 3792,2825 3874,2825 3901,2825 3936,2826 3962,2826 4195,2829 4227,2829 4295,2830"/>
+                <TextEquiv>
+                    <Unicode>kautſchukgewebe [708]), auch in Verbindung mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r25l14" custom="readingOrder {index:13;}">
+                <Coords points="3289,2839 3340,2829 3340,2829 3719,2829 4247,2837 4273,2840 4294,2858 4294,2871 4273,2875 4247,2877 4205,2877 3509,2875 3289,2865 3289,2839"/>
+                <Baseline points="3289,2865 3436,2867 3466,2867 3719,2869 3761,2870 3842,2870 3879,2871 3945,2872 3969,2873 4072,2873 4098,2874 4179,2875 4205,2876 4294,2867"/>
+                <TextEquiv>
+                    <Unicode>anderen Spinnſtoffen oder mit Kette oder Ein⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r25l15" custom="readingOrder {index:14;}">
+                <Coords points="3286,2875 3341,2874 3341,2874 3396,2874 4045,2881 4131,2882 4273,2893 4293,2898 4293,2924 4213,2924 3379,2920 3304,2918 3286,2913 3286,2875"/>
+                <Baseline points="3286,2912 3396,2913 3434,2913 3504,2914 3541,2914 3669,2915 3704,2915 3771,2916 3810,2916 3956,2918 3996,2919 4173,2922 4213,2922 4293,2924"/>
+                <TextEquiv>
+                    <Unicode>ſchlag von Draht aus unedlen Metallen oder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r25l16" custom="readingOrder {index:15;}">
+                <Coords points="3284,2920 3311,2920 3864,2925 4081,2928 4232,2932 4276,2944 4293,2951 4293,2963 4276,2970 4081,2974 4038,2974 3496,2973 3332,2967 3284,2960 3284,2920"/>
+                <Baseline points="3284,2960 3518,2960 3544,2960 3689,2962 3716,2962 3873,2964 3911,2965 4013,2966 4038,2967 4188,2969 4215,2969 4293,2960"/>
+                <TextEquiv>
+                    <Unicode>Legierungen unedler Metalle ſowie Platten dar⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r25l17" custom="readingOrder {index:16;}">
+                <Coords points="3287,2979 3314,2974 3381,2969 3397,2968 3444,2968 4478,2968 4481,3023 4397,3019 3662,3017 3381,3012 3287,3006 3287,2979"/>
+                <Baseline points="3287,3006 3356,3006 3381,3006 3751,3009 4397,3018 4472,3018"/>
+                <TextEquiv>
+                    <Unicode>aus (Aſbeſttuchplatten) 707</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r25l18" custom="readingOrder {index:17;}">
+                <Coords points="3191,3012 3313,3012 3712,3015 4269,3024 4290,3035 4290,3063 4150,3067 3874,3067 3433,3064 3191,3060 3191,3012"/>
+                <Baseline points="3191,3054 3379,3053 3405,3053 3779,3057 3798,3057 4150,3061 4178,3062 4290,3063"/>
+                <TextEquiv>
+                    <Unicode>Klingerit, Keſſelbekleidungen, Dichtungsplatten, ⸗ringe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r25l19" custom="readingOrder {index:18;}">
+                <Coords points="3288,3074 3339,3064 3431,3063 3431,3063 3689,3063 4269,3069 4290,3072 4290,3115 4161,3115 3313,3110 3288,3099 3288,3074"/>
+                <Baseline points="3288,3099 3358,3100 3383,3099 3572,3101 3600,3101 3689,3102 3714,3101 3887,3104 3911,3105 4041,3106 4066,3106 4133,3107 4161,3108 4290,3109"/>
+                <TextEquiv>
+                    <Unicode>und anderweit nicht genannte Waren aus Aſbeſt,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r25l20" custom="readingOrder {index:19;}">
+                <Coords points="3287,3106 3370,3106 4215,3113 4274,3117 4288,3137 4288,3150 4274,3155 4229,3158 3494,3160 3310,3160 3287,3147 3287,3106"/>
+                <Baseline points="3287,3147 3531,3147 3564,3147 3648,3148 3673,3148 3928,3151 3963,3152 4288,3146"/>
+                <TextEquiv>
+                    <Unicode>Aſbeſtpapier oder Aſbeſtgewebe (Aſbeſtkautſchuk⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r25l21" custom="readingOrder {index:20;}">
+                <Coords points="3284,3166 3382,3156 3382,3156 3670,3156 4085,3159 4184,3162 4209,3165 4276,3176 4288,3192 4288,3209 4233,3211 4212,3211 3284,3198 3284,3166"/>
+                <Baseline points="3284,3192 3427,3192 3467,3192 3700,3195 3736,3196 3886,3198 3923,3198 4085,3200 4130,3201 4288,3201"/>
+                <TextEquiv>
+                    <Unicode>gewebe, Handſchuhe, Kleider, Masſen, Mützen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r25l22" custom="readingOrder {index:21;}">
+                <Coords points="3285,3200 3439,3200 3829,3204 4236,3211 4270,3212 4289,3222 4289,3250 4270,3257 4204,3257 3313,3246 3285,3240 3285,3200"/>
+                <Baseline points="3285,3240 3494,3240 3513,3241 3658,3242 3683,3242 3749,3242 3769,3243 4081,3246 4109,3247 4177,3248 4204,3248 4289,3250"/>
+                <TextEquiv>
+                    <Unicode>Sch äuche, Schuhe aus Aſbeſtgeweben); alle dieſe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r25l23" custom="readingOrder {index:22;}">
+                <Coords points="3285,3248 3344,3248 3659,3249 4263,3256 4287,3270 4287,3303 4122,3303 3632,3298 3285,3287 3285,3248"/>
+                <Baseline points="3285,3287 3417,3286 3447,3286 3527,3287 3553,3287 3587,3287 3610,3288 3842,3289 3871,3290 3935,3291 3955,3291 4102,3293 4122,3294 4287,3296"/>
+                <TextEquiv>
+                    <Unicode>W ren auch in Verbindung mit anderen Stoffen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r25l24" custom="readingOrder {index:23;}">
+                <Coords points="3286,3295 3469,3295 3764,3297 4212,3302 4291,3316 4291,3343 3699,3343 3431,3342 3286,3336 3286,3295"/>
+                <Baseline points="3286,3332 3406,3333 3431,3333 3479,3334 3506,3334 3591,3335 3619,3335 3764,3336 3801,3336 3905,3337 3941,3338 4064,3340 4089,3340 4291,3343"/>
+                <TextEquiv>
+                    <Unicode>ſoweit ſie nicht dadurch unter andere Nummern</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r25l25" custom="readingOrder {index:24;}">
+                <Coords points="3280,3336 3399,3338 3398,3388 3279,3386"/>
+                <Baseline points="3279,3381 3398,3383"/>
+                <TextEquiv>
+                    <Unicode>fallen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r25l26" custom="readingOrder {index:25;}">
+                <Coords points="4388,3352 4410,3352 4455,3353 4455,3391 4388,3391 4388,3352"/>
+                <Baseline points="4388,3390 4455,3391"/>
+                <TextEquiv>
+                    <Unicode>708</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r25l27" custom="readingOrder {index:26;}">
+                <Coords points="3236,3400 3316,3398 3589,3394 3612,3394 4227,3404 4541,3410 4563,3431 4563,3446 4541,3457 3612,3447 3589,3447 3260,3445 3236,3437 3236,3400"/>
+                <Baseline points="3236,3437 3273,3438 3316,3438 3445,3438 3475,3438 3543,3438 3566,3438 3701,3439 3722,3439 3774,3440 3800,3440 3904,3441 3941,3442 4000,3442 4026,3443 4227,3445 4264,3446 4363,3448 4402,3449 4563,3442"/>
+                <TextEquiv>
+                    <Unicode>3) Waren des Abſchnitts XIII des Zolltarifs, deren Durch⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r25l28" custom="readingOrder {index:27;}">
+                <Coords points="3140,3445 3155,3445 3894,3449 4521,3456 4563,3470 4563,3498 4521,3504 4353,3497 3801,3496 3140,3487 3140,3445"/>
+                <Baseline points="3140,3482 3222,3483 3254,3484 3417,3485 3455,3485 3507,3486 3548,3486 3622,3486 3652,3485 3730,3489 3760,3487 3894,3488 3922,3488 3987,3488 4012,3489 4075,3491 4101,3492 4232,3493 4258,3494 4327,3495 4353,3496 4563,3498"/>
+                <TextEquiv>
+                    <Unicode>fuhr verboten iſt, ſind auch künftig nur auf Grund von Durchfuhr⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r25l29" custom="readingOrder {index:28;}">
+                <Coords points="3139,3492 3252,3492 3677,3493 3925,3496 3970,3510 3982,3525 3982,3534 3970,3536 3925,3541 3833,3542 3780,3542 3197,3541 3139,3531 3139,3492"/>
+                <Baseline points="3139,3531 3405,3531 3433,3531 3493,3531 3518,3532 3754,3533 3780,3534 3982,3534"/>
+                <TextEquiv>
+                    <Unicode>bewilligungen zur Durchfuhr zuzulaſſen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Papier und Pappe aus Aſbeſt, in Bogen, Rollen
+oder Platten, auch mit Einlagen von Draht
+oder Drahtgeflecht aus unedlen Metallen oder
+Legierungen unedler Metalle, ungeformt (un⸗
+beſchnitten oder nur rechtwinklich beſchnitten);
+geformt, auch durchlocht; Aſbeſtzementplatten
+(Fiberzementplatten, Aſbeſtzementſchiefer) 705
+Garne, Schnüre, Stränge, Stricke und Seile aus
+Aſbeſt, auch in Verbindung mit anderen Spinn⸗
+ſtoffen oder mit einer Seele aus unedlem Metall
+(mit Ausnahme der Dichtungsſchnüre) 706
+Gewebe aus Aſbeſt (mit Ausnahme der Aſbeſt⸗
+kautſchukgewebe [708]), auch in Verbindung mit
+anderen Spinnſtoffen oder mit Kette oder Ein⸗
+ſchlag von Draht aus unedlen Metallen oder
+Legierungen unedler Metalle ſowie Platten dar⸗
+aus (Aſbeſttuchplatten) 707
+Klingerit, Keſſelbekleidungen, Dichtungsplatten, ⸗ringe
+und anderweit nicht genannte Waren aus Aſbeſt,
+Aſbeſtpapier oder Aſbeſtgewebe (Aſbeſtkautſchuk⸗
+gewebe, Handſchuhe, Kleider, Masſen, Mützen,
+Sch äuche, Schuhe aus Aſbeſtgeweben); alle dieſe
+W ren auch in Verbindung mit anderen Stoffen,
+ſoweit ſie nicht dadurch unter andere Nummern
+fallen
+708
+3) Waren des Abſchnitts XIII des Zolltarifs, deren Durch⸗
+fuhr verboten iſt, ſind auch künftig nur auf Grund von Durchfuhr⸗
+bewilligungen zur Durchfuhr zuzulaſſen.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r26" custom="readingOrder {index:26;} structure {type:paragraph;}">
+            <Coords points="3105,3586 4580,3584 4577,4269 3098,4270"/>
+            <TextLine id="r26l1" custom="readingOrder {index:0;}">
+                <Coords points="3462,3597 3623,3594 3623,3594 3651,3594 3943,3601 4244,3616 4244,3645 4171,3651 4149,3651 3592,3647 3462,3640 3462,3597"/>
+                <Baseline points="3462,3629 4244,3645"/>
+                <TextEquiv>
+                    <Unicode>Ausfuhrerleichterungen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r26l2" custom="readingOrder {index:1;}">
+                <Coords points="3211,3661 3317,3659 3317,3659 3371,3659 4017,3665 4230,3667 4444,3670 4487,3679 4487,3714 4444,3723 4197,3723 3211,3711 3211,3661"/>
+                <Baseline points="3211,3703 3285,3703 3317,3703 3499,3702 3529,3703 3613,3703 3647,3704 3922,3706 3952,3707 4057,3709 4086,3709 4168,3710 4197,3711 4487,3714"/>
+                <TextEquiv>
+                    <Unicode>für Waren des Abſchnitts XIV des Zolltarifs.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r26l3" custom="readingOrder {index:2;}">
+                <Coords points="3244,3737 3360,3735 4047,3730 4047,3730 4079,3730 4443,3745 4561,3758 4561,3800 4149,3800 3360,3789 3244,3779 3244,3737"/>
+                <Baseline points="3244,3779 3331,3779 3360,3779 3726,3779 3770,3780 3837,3780 3884,3781 3983,3782 4027,3783 4104,3785 4149,3786 4561,3790"/>
+                <TextEquiv>
+                    <Unicode>Der Reichskommiſſar für Aus⸗ und Einfuhrbewilligung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r26l4" custom="readingOrder {index:3;}">
+                <Coords points="3138,3788 3380,3788 3904,3791 4513,3798 4534,3802 4562,3812 4562,3842 4513,3851 4293,3851 3138,3837 3138,3788"/>
+                <Baseline points="3138,3830 3204,3830 3232,3830 3305,3830 3328,3830 3518,3831 3547,3832 3638,3830 3669,3828 3724,3833 3744,3833 3969,3834 3992,3834 4094,3836 4124,3837 4174,3838 4204,3838 4261,3838 4280,3838 4562,3842"/>
+                <TextEquiv>
+                    <Unicode>hat mit Wirkung vom 12. November 1918 ab die nachſtehenden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r26l5" custom="readingOrder {index:4;}">
+                <Coords points="3137,3842 3161,3841 3161,3841 3650,3841 4319,3849 4536,3855 4561,3859 4561,3896 4356,3902 4260,3902 3161,3895 3137,3884 3137,3842"/>
+                <Baseline points="3137,3884 3650,3885 3692,3885 3756,3886 3793,3887 3946,3888 3988,3889 4056,3890 4084,3890 4205,3892 4237,3893 4454,3895 4495,3895 4561,3896"/>
+                <TextEquiv>
+                    <Unicode>Ausfuhrerleichterungen für Waren des XIV. Abſchnitts des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r26l6" custom="readingOrder {index:5;}">
+                <Coords points="3134,3893 3168,3893 3458,3894 3539,3900 3539,3937 3511,3942 3458,3945 3168,3948 3134,3948 3134,3893"/>
+                <Baseline points="3134,3936 3346,3936 3378,3935 3539,3937"/>
+                <TextEquiv>
+                    <Unicode>Zoll arifs verfügt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r26l7" custom="readingOrder {index:6;}">
+                <Coords points="3233,3960 3295,3959 3387,3958 3387,3958 3587,3958 3993,3961 4308,3965 4560,3971 4560,4006 4503,4008 4358,4012 4272,4012 3387,4005 3233,3996 3233,3960"/>
+                <Baseline points="3233,3996 3266,3997 3295,3997 3370,3996 3387,3996 3587,3998 3615,3998 3751,3999 3779,3999 3993,4002 4022,4002 4158,4004 4177,4004 4234,4005 4252,4005 4448,4007 4466,4008 4560,4006"/>
+                <TextEquiv>
+                    <Unicode>1) Die Zollſtellen werden ermächtigt, Waren des Abſchnitts XIV</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r26l8" custom="readingOrder {index:7;}">
+                <Coords points="3135,4006 3218,4005 3218,4005 3488,4005 4042,4009 4540,4015 4560,4016 4560,4056 4464,4062 4415,4062 3218,4052 3135,4044 3135,4006"/>
+                <Baseline points="3135,4043 3194,4043 3218,4043 3409,4043 3437,4043 3682,4045 3724,4044 3846,4047 3883,4048 3981,4048 4011,4048 4175,4051 4212,4051 4372,4053 4415,4054 4464,4055 4505,4056 4560,4046"/>
+                <TextEquiv>
+                    <Unicode>des Zolltarifs (Tonwaren), ſoweit deren Ausfuhr verboten iſt, bis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r26l9" custom="readingOrder {index:8;}">
+                <Coords points="3135,4065 3181,4053 3520,4051 3520,4051 3852,4051 4404,4061 4433,4074 4444,4090 4444,4099 4433,4102 4404,4108 4246,4108 3181,4099 3135,4092 3135,4065"/>
+                <Baseline points="3135,4090 3196,4090 3220,4090 3378,4092 3404,4092 3494,4090 3520,4090 3911,4095 3938,4095 3995,4096 4022,4096 4123,4097 4140,4097 4222,4098 4246,4098 4444,4099"/>
+                <TextEquiv>
+                    <Unicode>auf weiteres ohne Ausfuhrbewilligung zur Ausfuhr zuzulaſſen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r26l10" custom="readingOrder {index:9;}">
+                <Coords points="3228,4112 3294,4111 4412,4107 4412,4107 4439,4107 4538,4121 4560,4133 4560,4160 4538,4162 4439,4169 4412,4169 3257,4154 3228,4149 3228,4112"/>
+                <Baseline points="3228,4149 3265,4149 3294,4149 3427,4149 3457,4149 3515,4149 3530,4150 3730,4150 3744,4150 3842,4151 3875,4152 3932,4153 3960,4153 4160,4157 4189,4157 4287,4158 4334,4159 4454,4158 4478,4158 4560,4160"/>
+                <TextEquiv>
+                    <Unicode>2) Waren des Abſchnitts XIV des Zolltarifs, deren Durchfuhr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r26l11" custom="readingOrder {index:10;}">
+                <Coords points="3133,4165 3194,4156 3194,4156 3286,4156 3632,4157 4531,4166 4557,4179 4557,4207 4531,4215 4347,4215 3599,4204 3133,4197 3133,4165"/>
+                <Baseline points="3133,4197 3295,4195 3342,4197 3392,4196 3433,4196 3509,4196 3550,4196 3632,4196 3676,4196 3808,4197 3853,4198 3921,4198 3960,4200 4022,4204 4065,4204 4198,4204 4235,4204 4304,4205 4347,4206 4557,4200"/>
+                <TextEquiv>
+                    <Unicode>verboten iſt, ſind auch künftig nur auf Grund von Durchfuhr⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r26l12" custom="readingOrder {index:11;}">
+                <Coords points="3133,4206 3223,4204 3223,4204 3667,4204 3975,4206 3998,4222 3998,4247 3975,4255 3791,4255 3301,4252 3263,4251 3133,4244 3133,4206"/>
+                <Baseline points="3133,4243 3401,4243 3424,4243 3485,4243 3568,4243 3667,4244 3683,4244 3765,4244 3791,4244 3998,4247"/>
+                <TextEquiv>
+                    <Unicode>bewilligungen zur Durchfuhr zuzulaſſen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ausfuhrerleichterungen
+für Waren des Abſchnitts XIV des Zolltarifs.
+Der Reichskommiſſar für Aus⸗ und Einfuhrbewilligung
+hat mit Wirkung vom 12. November 1918 ab die nachſtehenden
+Ausfuhrerleichterungen für Waren des XIV. Abſchnitts des
+Zoll arifs verfügt.
+1) Die Zollſtellen werden ermächtigt, Waren des Abſchnitts XIV
+des Zolltarifs (Tonwaren), ſoweit deren Ausfuhr verboten iſt, bis
+auf weiteres ohne Ausfuhrbewilligung zur Ausfuhr zuzulaſſen.
+2) Waren des Abſchnitts XIV des Zolltarifs, deren Durchfuhr
+verboten iſt, ſind auch künftig nur auf Grund von Durchfuhr⸗
+bewilligungen zur Durchfuhr zuzulaſſen.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r27" custom="readingOrder {index:27;} structure {type:paragraph;}">
+            <Coords points="3103,4294 4579,4294 4580,5274 3100,5272"/>
+            <TextLine id="r27l1" custom="readingOrder {index:0;}">
+                <Coords points="3458,4310 3590,4309 3590,4309 3959,4309 4240,4328 4240,4360 4164,4369 3680,4369 3590,4363 3458,4354 3458,4310"/>
+                <Baseline points="3458,4354 4240,4360"/>
+                <TextEquiv>
+                    <Unicode>Ausfuhrerleichterungen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r27l2" custom="readingOrder {index:1;}">
+                <Coords points="3197,4373 3359,4373 3873,4376 4465,4380 4492,4390 4492,4429 4465,4438 4221,4438 3197,4428 3197,4373"/>
+                <Baseline points="3197,4418 3275,4419 3304,4418 3484,4417 3512,4417 3589,4418 3619,4418 3745,4418 3777,4419 4054,4422 4084,4423 4169,4424 4197,4425 4492,4429"/>
+                <TextEquiv>
+                    <Unicode>für Waren des XIX. Abſchnitts des Zolltarifs.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r27l3" custom="readingOrder {index:2;}">
+                <Coords points="3235,4451 3363,4449 3728,4449 4375,4456 4437,4458 4555,4472 4561,4514 4260,4506 3363,4499 3235,4494 3235,4451"/>
+                <Baseline points="3235,4493 3324,4493 3363,4492 3728,4493 3761,4494 3835,4494 3879,4495 3985,4497 4026,4497 4105,4498 4144,4499 4555,4505"/>
+                <TextEquiv>
+                    <Unicode>Der Reichskommiſſar für Aus⸗ und Einfuhrbewilligung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r27l4" custom="readingOrder {index:3;}">
+                <Coords points="3129,4503 3361,4502 3361,4502 3555,4502 3878,4504 4409,4512 4540,4515 4556,4531 4556,4550 4540,4566 4452,4566 3389,4553 3129,4547 3129,4503"/>
+                <Baseline points="3129,4547 3197,4546 3240,4546 3315,4546 3361,4544 3555,4545 3602,4545 3695,4545 3742,4546 3804,4547 3836,4547 4060,4550 4108,4550 4213,4552 4258,4553 4308,4553 4354,4553 4409,4553 4452,4554 4556,4545"/>
+                <TextEquiv>
+                    <Unicode>hat mit Wirkung vom 12. November 1918 ab die nach⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r27l5" custom="readingOrder {index:4;}">
+                <Coords points="3129,4555 3882,4555 4393,4563 4523,4566 4553,4568 4553,4611 4523,4612 3924,4612 3129,4606 3129,4555"/>
+                <Baseline points="3129,4598 3326,4597 3368,4596 3882,4600 3924,4600 3990,4601 4031,4602 4186,4605 4227,4605 4295,4606 4323,4607 4444,4608 4473,4609 4553,4604"/>
+                <TextEquiv>
+                    <Unicode>ſtehenden Ausfuhrerleichterungen für Waren des XIX. Ab⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r27l6" custom="readingOrder {index:5;}">
+                <Coords points="3127,4610 3144,4609 3405,4607 3405,4607 3592,4607 3735,4609 3818,4614 3818,4652 3788,4662 3663,4662 3127,4660 3127,4610"/>
+                <Baseline points="3127,4651 3279,4651 3309,4651 3377,4650 3405,4650 3619,4650 3651,4650 3818,4652"/>
+                <TextEquiv>
+                    <Unicode>ſchnitts des Zolltarifs verfügt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r27l7" custom="readingOrder {index:6;}">
+                <Coords points="3224,4675 3286,4672 3379,4671 3379,4671 3578,4671 3985,4674 4438,4678 4553,4685 4553,4722 4438,4726 4291,4726 3605,4724 3246,4719 3224,4711 3224,4675"/>
+                <Baseline points="3224,4711 3259,4711 3286,4711 3363,4711 3379,4710 3578,4710 3605,4710 3740,4711 3772,4711 3985,4715 4013,4715 4147,4717 4167,4717 4224,4718 4242,4718 4438,4721 4458,4721 4553,4722"/>
+                <TextEquiv>
+                    <Unicode>1) Die Zollſtellen werden ermächtigt, Waren des Abſchnitts XIX</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r27l8" custom="readingOrder {index:7;}">
+                <Coords points="3128,4724 3196,4722 3403,4719 3583,4719 3889,4721 4513,4728 4554,4730 4554,4769 4513,4772 4414,4775 4378,4775 3731,4766 3619,4765 3230,4764 3128,4757 3128,4724"/>
+                <Baseline points="3128,4757 3165,4757 3196,4757 3237,4757 3269,4756 3276,4756 3329,4757 3385,4757 3403,4757 3592,4757 3619,4757 3764,4759 3792,4759 4070,4763 4098,4764 4414,4775 4439,4772 4554,4768"/>
+                <TextEquiv>
+                    <Unicode>B. C, D des Zolltarifs (Uhren, Tonwertzeuge, Kinderſpie zeug) ſoweit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r27l9" custom="readingOrder {index:8;}">
+                <Coords points="3127,4775 3244,4765 3244,4765 3276,4765 3853,4768 4413,4771 4460,4776 4552,4788 4552,4824 4351,4824 3127,4805 3127,4775"/>
+                <Baseline points="3127,4805 3223,4804 3244,4804 3407,4804 3433,4804 3598,4803 3628,4803 3680,4804 3709,4804 3764,4805 3789,4805 3853,4806 3881,4806 4035,4809 4063,4809 4152,4810 4178,4811 4240,4811 4249,4812 4552,4816"/>
+                <TextEquiv>
+                    <Unicode>deren Ausfuhr verboten iſt, bis auf weiteres ohne Ausfuhrbewilligung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r27l10" custom="readingOrder {index:9;}">
+                <Coords points="3219,4813 3245,4807 3270,4807 3646,4811 4084,4816 4552,4823 4552,4863 3272,4857 3247,4857 3124,4856 3124,4817"/>
+                <Baseline points="3127,4851 3282,4849 3315,4849 3400,4850 3441,4850 3646,4851 3686,4852 3805,4853 3845,4853 3936,4855 3971,4855 4084,4857 4130,4857 4142,4858 4178,4858 4288,4860 4326,4860 4465,4862 4498,4863 4552,4863"/>
+                <TextEquiv>
+                    <Unicode>zur Ausfuhr zuzulaſſen, ſoweit nicht Ziffer 2 etwas anderes be⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r27l11" custom="readingOrder {index:10;}">
+                <Coords points="3158,4856 3221,4862 3267,4865 3267,4899 3123,4907 3122,4857"/>
+                <Baseline points="3121,4897 3267,4896"/>
+                <TextEquiv>
+                    <Unicode>immt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r27l12" custom="readingOrder {index:11;}">
+                <Coords points="3217,4921 3281,4916 3281,4916 3334,4916 3723,4917 4526,4927 4551,4940 4551,4969 4526,4971 4428,4971 3501,4967 3244,4959 3217,4957 3217,4921"/>
+                <Baseline points="3217,4957 3255,4958 3281,4958 3367,4956 3391,4956 3460,4955 3479,4955 3871,4958 3898,4959 3970,4960 3997,4960 4077,4962 4103,4962 4280,4964 4306,4965 4359,4966 4375,4966 4551,4968"/>
+                <TextEquiv>
+                    <Unicode>2) Nur mit Ausfuhrbewilligung ſind auch fernerhin die folgenden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r27l13" custom="readingOrder {index:12;}">
+                <Coords points="3125,4966 3369,4964 3567,4964 3889,4967 4473,4974 4490,4975 4549,4989 4549,5014 4490,5023 4348,5020 3404,5010 3125,5006 3125,4966"/>
+                <Baseline points="3125,5002 3256,5003 3283,5003 3344,5004 3369,5004 3567,5003 3594,5002 3698,5004 3717,5004 3736,5004 3774,5005 3831,5005 3858,5006 4049,5008 4075,5009 4134,5009 4161,5010 4324,5012 4348,5012 4549,5007"/>
+                <TextEquiv>
+                    <Unicode>Waren des Abſchnitts XIX C des Zolltarifs zur Ausfuhr zuzulaſſen:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r27l14" custom="readingOrder {index:13;}">
+                <Coords points="3168,5013 3189,5011 3189,5011 3528,5011 3732,5012 3889,5026 3889,5052 3168,5052 3168,5013"/>
+                <Baseline points="3168,5051 3528,5049 3555,5049 3626,5050 3652,5050 3889,5052"/>
+                <TextEquiv>
+                    <Unicode>Klaviermechaniken und K aviaturen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r27l15" custom="readingOrder {index:14;}">
+                <Coords points="3263,5058 3406,5058 4055,5060 4370,5063 4427,5067 4462,5074 4472,5096 4472,5106 4427,5115 4120,5115 3388,5102 3263,5097 3263,5058"/>
+                <Baseline points="3263,5097 3593,5096 3620,5096 3690,5097 3717,5097 3776,5099 3802,5099 4055,5102 4082,5102 4472,5106"/>
+                <TextEquiv>
+                    <Unicode>Ausfuhrnummer 940 des Statiſtiſchen Warenverzeichniſſes.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r27l16" custom="readingOrder {index:15;}">
+                <Coords points="3216,5117 4067,5111 4090,5111 4523,5127 4549,5139 4549,5167 4415,5172 4095,5166 4072,5166 3216,5156 3216,5117"/>
+                <Baseline points="3216,5151 3252,5151 3279,5154 3413,5154 3441,5154 3502,5154 3528,5154 3729,5156 3756,5155 3868,5156 3913,5157 3951,5157 3993,5158 4032,5159 4067,5159 4090,5159 4134,5160 4195,5161 4220,5162 4415,5166 4453,5166 4549,5167"/>
+                <TextEquiv>
+                    <Unicode>3) Waren des Abſchnitts XIX, B, C, D des Zolltarifs, deren</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r27l17" custom="readingOrder {index:16;}">
+                <Coords points="3121,5164 3158,5155 3185,5155 4070,5166 4363,5171 4450,5174 4518,5181 4549,5186 4549,5214 3451,5210 3326,5210 3191,5208 3121,5204 3121,5164"/>
+                <Baseline points="3121,5199 3273,5200 3282,5200 3407,5201 3444,5201 3608,5202 3648,5202 3700,5202 3739,5203 3812,5203 3834,5203 3922,5204 3959,5204 4070,5207 4132,5208 4201,5209 4235,5210 4297,5211 4323,5211 4450,5213 4482,5214 4549,5207"/>
+                <TextEquiv>
+                    <Unicode>Durchfuhr verboten iſt, ſind auch künftig nur auf Grund von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r27l18" custom="readingOrder {index:17;}">
+                <Coords points="3121,5210 3147,5208 3147,5208 3492,5208 3882,5211 3914,5212 4082,5220 4130,5227 4143,5243 4143,5252 4130,5255 4082,5260 3947,5260 3147,5257 3121,5251 3121,5210"/>
+                <Baseline points="3121,5250 3594,5249 3622,5249 3681,5250 3706,5250 3914,5252 3938,5252 4143,5252"/>
+                <TextEquiv>
+                    <Unicode>Durchfuhrbewilligungen zur Durchfuhr zuzulaſſen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ausfuhrerleichterungen
+für Waren des XIX. Abſchnitts des Zolltarifs.
+Der Reichskommiſſar für Aus⸗ und Einfuhrbewilligung
+hat mit Wirkung vom 12. November 1918 ab die nach⸗
+ſtehenden Ausfuhrerleichterungen für Waren des XIX. Ab⸗
+ſchnitts des Zolltarifs verfügt.
+1) Die Zollſtellen werden ermächtigt, Waren des Abſchnitts XIX
+B. C, D des Zolltarifs (Uhren, Tonwertzeuge, Kinderſpie zeug) ſoweit
+deren Ausfuhr verboten iſt, bis auf weiteres ohne Ausfuhrbewilligung
+zur Ausfuhr zuzulaſſen, ſoweit nicht Ziffer 2 etwas anderes be⸗
+immt.
+2) Nur mit Ausfuhrbewilligung ſind auch fernerhin die folgenden
+Waren des Abſchnitts XIX C des Zolltarifs zur Ausfuhr zuzulaſſen:
+Klaviermechaniken und K aviaturen
+Ausfuhrnummer 940 des Statiſtiſchen Warenverzeichniſſes.
+3) Waren des Abſchnitts XIX, B, C, D des Zolltarifs, deren
+Durchfuhr verboten iſt, ſind auch künftig nur auf Grund von
+Durchfuhrbewilligungen zur Durchfuhr zuzulaſſen.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r28" custom="readingOrder {index:28;} structure {type:paragraph;}">
+            <Coords points="3090,5355 4562,5353 4562,6782 3089,6782"/>
+            <TextLine id="r28l1" custom="readingOrder {index:0;}">
+                <Coords points="3499,5371 4005,5371 4192,5390 4192,5431 3959,5431 3499,5418 3499,5371"/>
+                <Baseline points="3499,5417 4192,5422"/>
+                <TextEquiv>
+                    <Unicode>Bekanntmachung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r28l2" custom="readingOrder {index:1;}">
+                <Coords points="3239,5438 3273,5436 3385,5435 3385,5435 3660,5435 4257,5438 4369,5443 4443,5457 4443,5491 4257,5494 4066,5494 3631,5491 3273,5482 3239,5481 3239,5438"/>
+                <Baseline points="3239,5470 3359,5481 3385,5481 3457,5480 3485,5480 3706,5481 3737,5481 3828,5482 3857,5482 4443,5491"/>
+                <TextEquiv>
+                    <Unicode>über die Bildung von Wohnungsverbänden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r28l3" custom="readingOrder {index:2;}">
+                <Coords points="3539,5513 3909,5513 4091,5517 4117,5518 4117,5561 4066,5561 3884,5560 3539,5557 3539,5513"/>
+                <Baseline points="3539,5556 3649,5557 3677,5557 3714,5557 3745,5557 3971,5559 3999,5559 4117,5561"/>
+                <TextEquiv>
+                    <Unicode>Vom 7. November 1918.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r28l4" custom="readingOrder {index:3;}">
+                <Coords points="3220,5588 3338,5587 3338,5587 3448,5587 3624,5588 3768,5589 4215,5594 4546,5598 4546,5644 4392,5652 4266,5652 3600,5640 3220,5633 3220,5588"/>
+                <Baseline points="3220,5633 3309,5632 3338,5632 3570,5632 3600,5632 3669,5632 3697,5632 3768,5634 3795,5634 3941,5634 3970,5634 4039,5635 4068,5636 4094,5635 4114,5636 4142,5636 4172,5637 4238,5639 4266,5640 4436,5642 4454,5642 4546,5644"/>
+                <TextEquiv>
+                    <Unicode>Der Bundesrat hat auf Grund des § 3 des Geſetzes über</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r28l5" custom="readingOrder {index:4;}">
+                <Coords points="3116,5641 3736,5641 4390,5647 4545,5651 4547,5694 4070,5694 3304,5694 3116,5685 3116,5641"/>
+                <Baseline points="3116,5685 3174,5685 3215,5684 3524,5683 3566,5684 3638,5683 3681,5684 3940,5686 3983,5686 4027,5686 4068,5687 4390,5693 4426,5693 4545,5693"/>
+                <TextEquiv>
+                    <Unicode>die Ermächtigung des Bundesrats zu wirtſchaftlichen Maß⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r28l6" custom="readingOrder {index:5;}">
+                <Coords points="3114,5705 3167,5694 3342,5693 3342,5693 3355,5693 3800,5694 4559,5697 4559,5700 4544,5758 4448,5758 3998,5755 3167,5746 3114,5735 3114,5705"/>
+                <Baseline points="3114,5735 3282,5736 3312,5736 3403,5736 3450,5735 3540,5735 3576,5736 3616,5736 3648,5737 3800,5738 3830,5738 3939,5739 3981,5740 4340,5746 4367,5747 4421,5747 4448,5748 4542,5742"/>
+                <TextEquiv>
+                    <Unicode>nahmen uſw. vom 4. Auguſt 1914 (Reichs⸗Geſetzbl. S. 327)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r28l7" custom="readingOrder {index:6;}">
+                <Coords points="3114,5745 3473,5745 3671,5746 3726,5747 3803,5760 3803,5789 3726,5799 3114,5799 3114,5745"/>
+                <Baseline points="3114,5790 3290,5789 3318,5789 3582,5789 3613,5789 3803,5781"/>
+                <TextEquiv>
+                    <Unicode>folgende Verordnung erlaſſen:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r28l8" custom="readingOrder {index:7;}">
+                <Coords points="3800,5823 3824,5823 3872,5825 3872,5862 3824,5870 3800,5870 3800,5823"/>
+                <Baseline points="3800,5862 3824,5862 3853,5862 3872,5862"/>
+                <TextEquiv>
+                    <Unicode>§ 1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r28l9" custom="readingOrder {index:8;}">
+                <Coords points="3208,5880 3287,5879 3287,5879 3339,5879 3708,5880 3925,5882 4299,5887 4444,5889 4462,5890 4544,5898 4544,5933 4522,5938 4485,5938 3287,5925 3208,5921 3208,5880"/>
+                <Baseline points="3208,5918 3439,5919 3479,5918 3708,5920 3747,5920 3817,5920 3845,5921 4212,5926 4248,5926 4378,5928 4401,5928 4462,5929 4485,5929 4544,5930"/>
+                <TextEquiv>
+                    <Unicode>Gemeinden, Gutsbezirke und Gemeindeverbände können ſich zur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r28l10" custom="readingOrder {index:9;}">
+                <Coords points="3112,5925 3341,5925 4166,5929 4445,5935 4472,5938 4542,5951 4542,5988 4417,5983 3826,5973 3136,5973 3112,5967 3112,5925"/>
+                <Baseline points="3112,5967 3376,5966 3401,5966 3474,5966 3490,5966 3768,5967 3795,5968 3864,5968 3880,5968 4197,5972 4223,5972 4281,5973 4302,5974 4542,5978"/>
+                <TextEquiv>
+                    <Unicode>Vorbereitung und Durchführung von Notmaßnahmen zur Bekämpfung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r28l11" custom="readingOrder {index:10;}">
+                <Coords points="3111,5975 3289,5974 3941,5974 4262,5979 4545,5986 4545,6026 4431,6032 3884,6018 3388,6020 3111,6013 3111,5975"/>
+                <Baseline points="3111,6013 3170,6013 3213,6013 3593,6013 3645,6014 3683,6014 3725,6014 3941,6015 3991,6016 4431,6025 4477,6026 4545,6016"/>
+                <TextEquiv>
+                    <Unicode>des Wohnungsmangels zu Verbänden (Wohnungsverbänden) mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r28l12" custom="readingOrder {index:11;}">
+                <Coords points="3112,6020 3467,6020 3949,6021 3958,6023 4014,6037 4014,6062 3958,6071 3742,6071 3232,6068 3112,6066 3112,6020"/>
+                <Baseline points="3112,6060 3304,6060 3331,6060 3607,6060 3634,6060 4014,6055"/>
+                <TextEquiv>
+                    <Unicode>ſtaatlicher Genehmigung zuſammenſchließen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r28l13" custom="readingOrder {index:12;}">
+                <Coords points="3798,6091 3822,6091 3872,6094 3872,6131 3822,6138 3798,6138 3798,6091"/>
+                <Baseline points="3798,6130 3822,6131 3848,6131 3872,6131"/>
+                <TextEquiv>
+                    <Unicode>§ 2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r28l14" custom="readingOrder {index:13;}">
+                <Coords points="3207,6146 3436,6146 3713,6147 4241,6150 4522,6158 4544,6159 4544,6208 4462,6208 3891,6200 3506,6194 3207,6189 3207,6146"/>
+                <Baseline points="3207,6186 3436,6186 3483,6186 3713,6188 3754,6188 3824,6190 3865,6191 4241,6195 4285,6196 4340,6197 4379,6198 4544,6200"/>
+                <TextEquiv>
+                    <Unicode>Gemeinden, Gutsbezirke und Gemeindeverbände, die räumlich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r28l15" custom="readingOrder {index:14;}">
+                <Coords points="3113,6205 3134,6194 3244,6193 3487,6193 4492,6205 4543,6218 4543,6256 4477,6250 4309,6250 3244,6240 3134,6234 3113,6232 3113,6205"/>
+                <Baseline points="3113,6232 3193,6233 3227,6233 3487,6233 3524,6233 3886,6236 3929,6236 4059,6238 4097,6238 4180,6240 4206,6241 4306,6243 4332,6244 4543,6247"/>
+                <TextEquiv>
+                    <Unicode>oder wirtſchaftlich zuſammengehören, können auch durch Anordnung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r28l16" custom="readingOrder {index:15;}">
+                <Coords points="3111,6246 3201,6240 3201,6240 3618,6240 4492,6251 4528,6265 4543,6273 4543,6288 4528,6296 4492,6299 4378,6299 3776,6291 3337,6285 3111,6279 3111,6246"/>
+                <Baseline points="3111,6279 3169,6279 3201,6279 3618,6281 3660,6281 3699,6281 3739,6282 4153,6287 4192,6288 4231,6289 4258,6290 4297,6290 4338,6291 4543,6284"/>
+                <TextEquiv>
+                    <Unicode>der Landeszentralbehörde zu Wohnungsverbänden (§ 1) zuſammen⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r28l17" custom="readingOrder {index:16;}">
+                <Coords points="3112,6299 3153,6288 3168,6287 3188,6286 3310,6286 3460,6289 3506,6292 3502,6335 3112,6334"/>
+                <Baseline points="3112,6326 3310,6326 3338,6326 3486,6323 3425,6320 3498,6322"/>
+                <TextEquiv>
+                    <Unicode>geſchloſſen werden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r28l18" custom="readingOrder {index:17;}">
+                <Coords points="3777,6323 3909,6318 3907,6386 3778,6386"/>
+                <Baseline points="3796,6379 3868,6379"/>
+                <TextEquiv>
+                    <Unicode>§ 3</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r28l19" custom="readingOrder {index:18;}">
+                <Coords points="3208,6391 3763,6391 4241,6399 4508,6405 4541,6417 4541,6447 4508,6449 4328,6451 3874,6441 3340,6438 3208,6432 3208,6391"/>
+                <Baseline points="3208,6432 3279,6430 3321,6431 3763,6433 3813,6434 3958,6435 4008,6435 4089,6436 4131,6436 4328,6437 4369,6437 4426,6437 4467,6437 4541,6437"/>
+                <TextEquiv>
+                    <Unicode>Die Landeszentralbehörden erlaſſen nach Anhörung der Be⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r28l20" custom="readingOrder {index:19;}">
+                <Coords points="3112,6440 3161,6438 3353,6438 3537,6439 3876,6441 4418,6447 4542,6454 4542,6494 4509,6495 4418,6496 4389,6496 3363,6482 3185,6485 3112,6476 3112,6440"/>
+                <Baseline points="3112,6476 3269,6477 3296,6477 3353,6478 3380,6478 3675,6479 3703,6479 3763,6480 3779,6480 4016,6484 4041,6484 4150,6487 4174,6487 4418,6490 4466,6490 4542,6490"/>
+                <TextEquiv>
+                    <Unicode>teiligten die Beſtimmungen zur Ausführung dieſer Verordnung. Sie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r28l21" custom="readingOrder {index:20;}">
+                <Coords points="3112,6485 3153,6484 3244,6484 3580,6486 3779,6488 4056,6491 4291,6495 4450,6498 4541,6504 4541,6540 4413,6545 4266,6545 3747,6533 3153,6526 3112,6523 3112,6485"/>
+                <Baseline points="3112,6523 3313,6524 3340,6524 3580,6525 3620,6525 3779,6526 3817,6527 3897,6527 3922,6527 3979,6529 4006,6529 4214,6535 4241,6535 4450,6536 4473,6536 4541,6536"/>
+                <TextEquiv>
+                    <Unicode>beſtimmen insbeſondere darüber, was als Gemeinde, Gutsbezirk und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r28l22" custom="readingOrder {index:21;}">
+                <Coords points="3113,6531 3186,6531 3599,6533 3880,6535 4366,6543 4523,6547 4542,6557 4542,6586 4507,6587 4366,6589 4325,6589 4061,6586 3164,6572 3113,6571 3113,6531"/>
+                <Baseline points="3113,6571 3461,6571 3490,6571 3537,6571 3554,6571 3682,6572 3708,6573 3814,6573 3840,6574 4081,6577 4109,6578 4296,6580 4325,6582 4374,6583 4401,6583 4466,6583 4489,6583 4542,6583"/>
+                <TextEquiv>
+                    <Unicode>Gemeindeverband im Sinne dieſer Verordnung anzuſehen iſt, wie die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r28l23" custom="readingOrder {index:22;}">
+                <Coords points="3113,6578 3136,6577 3136,6577 3329,6577 3640,6579 4207,6585 4543,6592 4543,6633 4329,6638 4115,6638 3357,6634 3136,6625 3113,6617 3113,6578"/>
+                <Baseline points="3113,6617 3329,6617 3357,6617 3425,6618 3452,6618 3845,6620 3883,6621 3952,6622 3986,6622 4061,6624 4089,6624 4329,6628 4354,6628 4391,6628 4426,6628 4543,6628"/>
+                <TextEquiv>
+                    <Unicode>Verfaſſung der Wohnungsverbände und ihre Verwaltung zu regeln</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r28l24" custom="readingOrder {index:23;}">
+                <Coords points="3112,6624 3701,6624 3991,6628 4155,6631 4436,6639 4547,6637 4547,6683 3701,6677 3451,6671 3138,6666 3112,6663 3112,6624"/>
+                <Baseline points="3112,6663 3163,6663 3190,6663 3254,6663 3279,6663 3329,6664 3354,6664 3451,6664 3480,6664 3701,6665 3738,6665 3991,6671 4030,6673 4155,6670 4194,6670 4263,6670 4302,6670 4369,6670 4406,6670 4545,6674"/>
+                <TextEquiv>
+                    <Unicode>iſt, wie ſie ihren Geldbedarf aufzubringen haben, und von welcher</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r28l25" custom="readingOrder {index:24;}">
+                <Coords points="3112,6670 3159,6670 3557,6671 4464,6679 4542,6698 4542,6735 4464,6739 4031,6726 3324,6716 3112,6712 3112,6670"/>
+                <Baseline points="3112,6712 3277,6710 3300,6710 3359,6710 3384,6711 3557,6711 3584,6712 3862,6715 3895,6715 3953,6716 3978,6716 4225,6721 4251,6722 4321,6723 4348,6724 4542,6725"/>
+                <TextEquiv>
+                    <Unicode>Behörde die ſtaatliche Genehmigung zur Begründung und Auflöſung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r28l26" custom="readingOrder {index:25;}">
+                <Coords points="3112,6718 3194,6716 3194,6716 3355,6716 3578,6718 3684,6720 3709,6724 3709,6760 3684,6766 3657,6766 3410,6765 3112,6758 3112,6718"/>
+                <Baseline points="3112,6758 3169,6758 3194,6758 3385,6758 3410,6758 3452,6758 3477,6758 3622,6759 3657,6759 3709,6758"/>
+                <TextEquiv>
+                    <Unicode>der Verbände zu erteilen iſt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Bekanntmachung
+über die Bildung von Wohnungsverbänden.
+Vom 7. November 1918.
+Der Bundesrat hat auf Grund des § 3 des Geſetzes über
+die Ermächtigung des Bundesrats zu wirtſchaftlichen Maß⸗
+nahmen uſw. vom 4. Auguſt 1914 (Reichs⸗Geſetzbl. S. 327)
+folgende Verordnung erlaſſen:
+§ 1
+Gemeinden, Gutsbezirke und Gemeindeverbände können ſich zur
+Vorbereitung und Durchführung von Notmaßnahmen zur Bekämpfung
+des Wohnungsmangels zu Verbänden (Wohnungsverbänden) mit
+ſtaatlicher Genehmigung zuſammenſchließen.
+§ 2
+Gemeinden, Gutsbezirke und Gemeindeverbände, die räumlich
+oder wirtſchaftlich zuſammengehören, können auch durch Anordnung
+der Landeszentralbehörde zu Wohnungsverbänden (§ 1) zuſammen⸗
+geſchloſſen werden.
+§ 3
+Die Landeszentralbehörden erlaſſen nach Anhörung der Be⸗
+teiligten die Beſtimmungen zur Ausführung dieſer Verordnung. Sie
+beſtimmen insbeſondere darüber, was als Gemeinde, Gutsbezirk und
+Gemeindeverband im Sinne dieſer Verordnung anzuſehen iſt, wie die
+Verfaſſung der Wohnungsverbände und ihre Verwaltung zu regeln
+iſt, wie ſie ihren Geldbedarf aufzubringen haben, und von welcher
+Behörde die ſtaatliche Genehmigung zur Begründung und Auflöſung
+der Verbände zu erteilen iſt.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_19" custom="readingOrder {index:29;}">
+            <Coords points="1358,1504 1758,1504 1758,1518 1358,1518"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_20" custom="readingOrder {index:30;}">
+            <Coords points="2956,1513 3244,1513 3244,1520 2956,1520"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_21" custom="readingOrder {index:31;}">
+            <Coords points="3692,1523 4258,1523 4258,1538 3692,1538"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_22" custom="readingOrder {index:32;}">
+            <Coords points="442,1808 1732,1808 1732,1830 442,1830"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_23" custom="readingOrder {index:33;}">
+            <Coords points="2930,1824 4238,1824 4238,1854 2930,1854"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_24" custom="readingOrder {index:34;}">
+            <Coords points="586,1819 1442,1819 1442,1830 586,1830"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_25" custom="readingOrder {index:35;}">
+            <Coords points="165,1970 4457,1970 4457,2023 165,2023"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_26" custom="readingOrder {index:36;}">
+            <Coords points="3475,2016 4457,2016 4457,2031 3475,2031"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_27" custom="readingOrder {index:37;}">
+            <Coords points="137,4107 1555,4107 1555,4147 137,4147"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_28" custom="readingOrder {index:38;}">
+            <Coords points="0,7524 4999,7524 4999,7648 0,7648"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_29" custom="readingOrder {index:39;}">
+            <Coords points="1568,1981 1621,1981 1621,6745 1568,6745"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_30" custom="readingOrder {index:40;}">
+            <Coords points="1768,1586 1775,1586 1775,1842 1768,1842"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_31" custom="readingOrder {index:41;}">
+            <Coords points="2940,1599 2945,1599 2945,1822 2940,1822"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_32" custom="readingOrder {index:42;}">
+            <Coords points="3069,3305 3107,3305 3107,6757 3069,6757"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_33" custom="readingOrder {index:43;}">
+            <Coords points="3103,1987 3119,1987 3119,3305 3103,3305"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_34" custom="readingOrder {index:44;}">
+            <Coords points="4274,1544 4281,1544 4281,1820 4274,1820"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_35" custom="readingOrder {index:45;}">
+            <Coords points="4874,1929 4887,1929 4887,2209 4874,2209"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_36" custom="readingOrder {index:46;}">
+            <Coords points="618,1817 684,1817 684,1820 618,1820"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_37" custom="readingOrder {index:47;}">
+            <Coords points="1891,1999 1977,1999 1977,2001 1891,2001"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_38" custom="readingOrder {index:48;}">
+            <Coords points="3803,2997 4291,2997 4291,3014 3803,3014"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_39" custom="readingOrder {index:49;}">
+            <Coords points="3433,3367 4279,3367 4279,3386 3433,3386"/>
+        </SeparatorRegion>
+    </Page>
+</PcGts>

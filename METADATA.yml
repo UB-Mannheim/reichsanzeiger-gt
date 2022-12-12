@@ -8,6 +8,11 @@ authors:
     roles:
       - project-manager
       - support
+  - name: Schmidt
+    surname: Thomas
+    roles:
+      - project-manager
+      - quality-control
   - name: Bartz
     surname: Franziska
     roles:
@@ -24,22 +29,13 @@ authors:
     surname: Dilara
     roles:
       - transcriber
-  - name: Schmidt
-    surname: Thomas
-    roles:
-      - project-manager
-      - quality-control
 description: >-
-  reichsanzeiger-gt provides ground truth for the historical German newspaper
+  Reichsanzeiger-gt provides ground truth for the historical German newspaper
   "Deutscher Reichsanzeiger und Preußischer Staatsanzeiger" (German Imperial
   Gazette and Prussian Official Gazette), which was published under changing
   names from 1819 to 1945. The ground truth dataset provides PAGE-XMLs and URLs
-  for the corresponding newspaper scans/images. On this day (20th July 2022) the
-  dataset contains 64 double pages (~68.000 lines) of ground truth.
-
-
-  Reichsanzeiger-GT is a work in progress. Additional ground truth will be added
-  in the near future.
+  for the corresponding newspaper scans/images. The dataset contains 117 single 
+  pages (119.435 lines) of ground truth.
 project-name: >-
   OCR-D "Workflow for work-specific training based on generic models with
   OCR-D   and ground truth enhancement"
@@ -51,13 +47,14 @@ language:
   - deu
   - por
   - lat
+  - ita
 script:
   - Latn
   - Latf
 script-type: print
 time:
   notBefore: '1820'
-  notAfter: '1906'
+  notAfter: '1939'
 hands:
   count: more-than-3
   level: levelmix
@@ -71,9 +68,9 @@ sources:
     link: 'link: https://digi.bib.uni-mannheim.de/periodika/reichsanzeiger/'
 volume:
   - metric: lines
-    count: 68000
+    count: 119435
   - metric: pages
-    count: 128
+    count: 197
 transcription-guidelines: >-
   The transcription rules are based on the OCR-D transcription guidelines Level
   2 with some exceptions (see below No. 2):
@@ -83,9 +80,9 @@ transcription-guidelines: >-
 
   - Long s (ſ)
 
-  - German Mark (ℳ) and Pfennig (₰)
+  - Currency symbols: German Mark (ℳ) and Pfennig (₰), $, £
 
-  - Fractions (½ ...)
+  - Fractions (¼ ½ ¾ ⅐ ⅑ ⅒ ⅓ ⅔ ⅕ ⅖ ⅗ ⅘ ⅙ ⅚ ⅛ ⅜ ⅝ ⅞)
 
   - R rotunda (ꝛ)
 
@@ -97,11 +94,13 @@ transcription-guidelines: >-
 
   - Black Left Pointing Index (☚)
 
+  - Superscript Numbers 0-9 (⁰ ¹ ² ³ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹)
+
+  - White square (□)
+
 
   2) Additional characters transcribed true to original (contrary to OCR-D Level
   2):
-
-  - Roman numerals (ⅤⅬⅠⅩ Ⅿ)
 
   - Double oblique hyphen (⸗)
 

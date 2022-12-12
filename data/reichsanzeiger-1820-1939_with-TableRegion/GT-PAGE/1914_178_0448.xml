@@ -1,0 +1,1044 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2021-12-14T12:17:55.092+01:00</Created>
+        <LastChange>2022-12-07T16:04:33.437+01:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="1028597" pageId="43217657" pageNr="8" tsid="105747697" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=XGXVKBQMEMLZEWCXQOSYVVDS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NNXBIPUJDXRUBDCEOEJDSORX" imageId="35453669"/>
+    </Metadata>
+    <Page imageFilename="1914_178_0448.jpg" imageWidth="9960" imageHeight="7096">
+        <PrintSpace>
+            <Coords points="4899,400 9555,366 9527,6238 4855,6214"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1670486865514" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+                <RegionRefIndexed index="2" regionRef="r3"/>
+                <RegionRefIndexed index="4" regionRef="r4"/>
+                <RegionRefIndexed index="5" regionRef="r5"/>
+                <RegionRefIndexed index="6" regionRef="r6"/>
+                <RegionRefIndexed index="7" regionRef="r7"/>
+                <RegionRefIndexed index="8" regionRef="r8"/>
+                <RegionRefIndexed index="9" regionRef="r9"/>
+                <RegionRefIndexed index="10" regionRef="r10"/>
+                <RegionRefIndexed index="11" regionRef="r11"/>
+                <RegionRefIndexed index="12" regionRef="r12"/>
+                <RegionRefIndexed index="13" regionRef="r13"/>
+                <RegionRefIndexed index="14" regionRef="r14"/>
+                <RegionRefIndexed index="15" regionRef="r15"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="header" id="r1" custom="readingOrder {index:0;} structure {type:header;}">
+            <Coords points="5958,419 8570,391 8570,646 5958,674"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="5972,442 8494,406 8492,619 5970,655 5972,442"/>
+                <Baseline points="6002,644 8477,586"/>
+                <TextEquiv>
+                    <Unicode>Deutſcher Reichsanzeiger</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Deutſcher Reichsanzeiger</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="header" id="r2" custom="readingOrder {index:1;} structure {type:header;}">
+            <Coords points="7159,734 7320,734 7320,843 7159,843"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="7166,769 7258,750 7258,750 7298,750 7298,821 7211,826 7166,826 7166,769"/>
+                <Baseline points="7166,826 7298,820"/>
+                <TextEquiv>
+                    <Unicode>und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>und</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="header" id="r3" custom="readingOrder {index:2;} structure {type:header;}">
+            <Coords points="5138,943 9168,890 9170,1174 5151,1243"/>
+            <TextLine id="r3l1" custom="readingOrder {index:0;}">
+                <Coords points="5176,986 9149,912 9151,1143 5185,1229 5176,986"/>
+                <Baseline points="5185,1182 9146,1102"/>
+                <TextEquiv>
+                    <Unicode>Königlich Preußiſcher Staatsanzeiger.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Königlich Preußiſcher Staatsanzeiger.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="r_1" custom="readingOrder {index:3;} structure {type:header;}">
+            <Coords points="7047,1220 7428,1209 7430,1624 7049,1635"/>
+        </GraphicRegion>
+        <TextRegion type="header" id="r4" custom="readingOrder {index:4;} structure {type:header;}">
+            <Coords points="4928,1673 5870,1673 5865,1782 4928,1808"/>
+            <TextLine id="r4l1" custom="readingOrder {index:0;}">
+                <Coords points="4940,1701 5653,1686 5653,1686 5726,1686 5767,1690 5863,1708 5863,1762 5799,1783 5367,1795 4940,1776 4940,1701"/>
+                <Baseline points="4940,1776 5863,1760"/>
+                <TextEquiv>
+                    <Unicode>Sonderausgabe.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Sonderausgabe.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="header" id="r5" custom="readingOrder {index:5;} structure {type:header;}">
+            <Coords points="6549,1650 7988,1632 7986,1744 6546,1774"/>
+            <TextLine id="r5l1" custom="readingOrder {index:0;}">
+                <Coords points="6557,1676 6599,1671 7691,1650 7691,1650 7774,1650 7978,1652 7978,1711 7859,1733 7136,1752 6829,1753 6599,1753 6557,1743 6557,1676"/>
+                <Baseline points="6558,1736 6829,1738 6878,1738 7151,1735 7196,1733 7293,1729 7340,1727 7398,1725 7433,1724 7643,1721 7691,1720 7978,1710"/>
+                <TextEquiv>
+                    <Unicode>Berlin, Sonntag, den 2. Auguſt, Morgens.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Berlin, Sonntag, den 2. Auguſt, Morgens.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="header" id="r6" custom="readingOrder {index:6;} structure {type:header;}">
+            <Coords points="9071,1599 9399,1599 9399,1705 9071,1705"/>
+            <TextLine id="r6l1" custom="readingOrder {index:0;}">
+                <Coords points="9071,1599 9218,1599 9356,1610 9398,1657 9398,1682 9290,1693 9148,1694 9071,1694 9071,1599"/>
+                <Baseline points="9071,1688 9398,1675"/>
+                <TextEquiv>
+                    <Unicode>1914.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1914.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="heading" id="r7" custom="readingOrder {index:7;} structure {type:heading;}">
+            <Coords points="5490,2153 6024,2156 6024,2235 5489,2228"/>
+            <TextLine id="r7l1" custom="readingOrder {index:0;}">
+                <Coords points="5523,2160 5701,2160 5861,2155 6006,2176 6006,2229 5565,2229 5554,2228 5514,2227 5515,2158"/>
+                <Baseline points="5522,2219 6006,2214"/>
+                <TextEquiv>
+                    <Unicode>Verordnung,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Verordnung,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r8" custom="readingOrder {index:8;} structure {type:paragraph;}">
+            <Coords points="4923,2238 6516,2238 6533,3452 4922,3452"/>
+            <TextLine id="r8l1" custom="readingOrder {index:0;}">
+                <Coords points="5035,2280 5192,2276 6202,2253 6347,2253 6410,2257 6410,2297 6347,2311 5349,2323 5192,2327 5035,2321 5035,2280"/>
+                <Baseline points="5035,2321 5371,2315 5421,2314 5523,2312 5559,2312 5921,2306 5949,2305 6045,2303 6077,2303 6410,2296"/>
+                <TextEquiv>
+                    <Unicode>betreffend die Berufung des Reichstags.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l2" custom="readingOrder {index:1;}">
+                <Coords points="5427,2358 5753,2350 6031,2349 6031,2349 6082,2349 6082,2389 5918,2402 5853,2403 5753,2403 5427,2398 5427,2358"/>
+                <Baseline points="5427,2388 5563,2397 5595,2397 5671,2395 5712,2395 5918,2391 5942,2391 6082,2389"/>
+                <TextEquiv>
+                    <Unicode>Vom 2. Auguſt 1914.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l3" custom="readingOrder {index:2;}">
+                <Coords points="5066,2449 6291,2422 6428,2422 6450,2426 6501,2436 6501,2467 6428,2481 6291,2481 5067,2494 5066,2449"/>
+                <Baseline points="5066,2491 5168,2489 5204,2489 5596,2483 5660,2482 5793,2480 5835,2480 6006,2476 6045,2476 6229,2472 6265,2471 6501,2467"/>
+                <TextEquiv>
+                    <Unicode>Wir Wilhelm, von Gottes Gnaden Deutſcher</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l4" custom="readingOrder {index:3;}">
+                <Coords points="5174,2520 5800,2508 5800,2508 5962,2508 6102,2519 6102,2549 5962,2561 5855,2563 5377,2571 5275,2571 5174,2564 5174,2520"/>
+                <Baseline points="5174,2564 5377,2560 5416,2559 5587,2556 5625,2556 5765,2554 5800,2553 6020,2550 6047,2550 6102,2549"/>
+                <TextEquiv>
+                    <Unicode>Kaiſer, König von Preußen ꝛc.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l5" custom="readingOrder {index:4;}">
+                <Coords points="4952,2607 5206,2591 6260,2573 6396,2567 6505,2583 6505,2623 6396,2632 5238,2647 5208,2647 4952,2642 4952,2607"/>
+                <Baseline points="4952,2642 5006,2641 5048,2640 5238,2637 5263,2636 5360,2635 5406,2634 5598,2631 5640,2630 5768,2629 5811,2628 6019,2624 6047,2624 6106,2622 6131,2622 6207,2620 6232,2620 6505,2615"/>
+                <TextEquiv>
+                    <Unicode>verordnen auf Grund des Artikels 12 der Verfaſſung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l6" custom="readingOrder {index:5;}">
+                <Coords points="4950,2673 5405,2664 5846,2659 5846,2659 5915,2659 5981,2661 5981,2699 5940,2710 5560,2716 5405,2716 4950,2715 4950,2673"/>
+                <Baseline points="4950,2715 5015,2714 5053,2714 5234,2711 5266,2710 5368,2709 5405,2708 5615,2705 5664,2704 5813,2701 5846,2701 5981,2699"/>
+                <TextEquiv>
+                    <Unicode>im Namen des Reichs, was folgt:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l7" custom="readingOrder {index:6;}">
+                <Coords points="5171,2744 5345,2740 6227,2724 6474,2721 6509,2721 6509,2761 6361,2780 5476,2790 5345,2790 5171,2787 5171,2744"/>
+                <Baseline points="5171,2786 5281,2784 5303,2784 5597,2780 5621,2779 5796,2777 5829,2776 6025,2772 6045,2772 6114,2770 6130,2770 6175,2769 6180,2768 6364,2764 6382,2764 6509,2761"/>
+                <TextEquiv>
+                    <Unicode>Der Reichstag wird berufen, am 4. Auguſt 1914</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l8" custom="readingOrder {index:7;}">
+                <Coords points="5110,2820 5205,2812 6426,2796 6454,2796 6510,2806 6510,2838 6354,2850 5954,2859 5235,2869 5203,2869 5163,2872 5110,2862 5110,2820"/>
+                <Baseline points="5110,2862 5153,2861 5171,2861 5369,2858 5394,2857 5955,2848 5997,2847 6102,2845 6119,2845 6408,2839 6426,2838 6510,2837"/>
+                <TextEquiv>
+                    <Unicode>in Berlin zuſammenzutreten. Wir beauftragen den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l9" custom="readingOrder {index:8;}">
+                <Coords points="5107,2893 5224,2889 6160,2873 6380,2870 6380,2870 6427,2870 6511,2879 6511,2911 6456,2922 5506,2944 5193,2944 5107,2937 5107,2893"/>
+                <Baseline points="5107,2936 5506,2929 5544,2929 5650,2927 5715,2926 5828,2924 5871,2923 5920,2922 5949,2922 6107,2918 6131,2918 6301,2914 6328,2914 6511,2910"/>
+                <TextEquiv>
+                    <Unicode>Reichskanzler mit den zu dieſem Zwecke nötigen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l10" custom="readingOrder {index:9;}">
+                <Coords points="5113,2969 5335,2965 5335,2965 5445,2965 5571,2973 5571,3003 5498,3014 5352,3014 5113,3009 5113,2969"/>
+                <Baseline points="5113,3009 5571,3002"/>
+                <TextEquiv>
+                    <Unicode>Vorbereitungen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l11" custom="readingOrder {index:10;}">
+                <Coords points="5077,3043 6253,3013 6445,3013 6515,3020 6515,3060 6495,3070 6445,3070 5361,3090 5309,3090 5077,3086 5077,3043"/>
+                <Baseline points="5077,3086 5361,3081 5410,3080 5562,3078 5599,3077 5867,3072 5899,3072 6199,3066 6225,3065 6515,3060"/>
+                <TextEquiv>
+                    <Unicode>Urkundlich unter Unſerer Höchſteignen Unterſchrift</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l12" custom="readingOrder {index:11;}">
+                <Coords points="4952,3129 4983,3118 5280,3111 5932,3098 6124,3098 6124,3141 6069,3151 6024,3154 5474,3159 5155,3167 4952,3161 4952,3129"/>
+                <Baseline points="4952,3161 5062,3159 5089,3159 5473,3152 5505,3151 5886,3144 5910,3144 6124,3140"/>
+                <TextEquiv>
+                    <Unicode>und beigedrucktem Kaiſerlichen Inſiegel.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l13" custom="readingOrder {index:12;}">
+                <Coords points="5077,3202 6448,3173 6462,3173 6461,3219 6293,3232 6237,3234 5832,3242 5177,3253 5151,3253 5077,3246 5077,3202"/>
+                <Baseline points="5077,3245 5301,3241 5337,3240 5542,3236 5573,3236 5659,3234 5705,3233 5923,3230 5946,3229 6034,3227 6057,3227 6105,3226 6122,3225 6293,3222 6319,3221 6461,3218"/>
+                <TextEquiv>
+                    <Unicode>Gegeben Berlin im Schloß, den 2. Auguſt 1914.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l14" custom="readingOrder {index:13;}">
+                <Coords points="5179,3308 5480,3298 6242,3287 6267,3287 6369,3281 6374,3333 6008,3345 5240,3361 5179,3361 5179,3308"/>
+                <Baseline points="5179,3351 5494,3345 5913,3337 6201,3331 6242,3330 6282,3329 6419,3326 6437,3326"/>
+                <TextEquiv>
+                    <Unicode>(L.S.) Wilhelm I. R.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l15" custom="readingOrder {index:14;}">
+                <Coords points="5830,3379 6302,3354 6343,3354 6440,3362 6458,3370 6457,3409 6409,3412 6252,3416 6182,3416 5830,3415 5830,3379"/>
+                <Baseline points="5830,3414 5920,3412 5944,3411 6198,3406 6229,3406 6454,3401"/>
+                <TextEquiv>
+                    <Unicode>von Bethmann Hollweg.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>betreffend die Berufung des Reichstags.
+Vom 2. Auguſt 1914.
+Wir Wilhelm, von Gottes Gnaden Deutſcher
+Kaiſer, König von Preußen ꝛc.
+verordnen auf Grund des Artikels 12 der Verfaſſung
+im Namen des Reichs, was folgt:
+Der Reichstag wird berufen, am 4. Auguſt 1914
+in Berlin zuſammenzutreten. Wir beauftragen den
+Reichskanzler mit den zu dieſem Zwecke nötigen
+Vorbereitungen.
+Urkundlich unter Unſerer Höchſteignen Unterſchrift
+und beigedrucktem Kaiſerlichen Inſiegel.
+Gegeben Berlin im Schloß, den 2. Auguſt 1914.
+(L.S.) Wilhelm I. R.
+von Bethmann Hollweg.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="heading" id="r9" custom="readingOrder {index:9;} structure {type:heading;}">
+            <Coords points="5445,3688 6115,3688 6116,3769 5446,3769"/>
+            <TextLine id="r9l1" custom="readingOrder {index:0;}">
+                <Coords points="5454,3699 6106,3695 6109,3759 5457,3763 5454,3699"/>
+                <Baseline points="5461,3756 6105,3748"/>
+                <TextEquiv>
+                    <Unicode>Bekanntmachung,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Bekanntmachung,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r10" custom="readingOrder {index:10;} structure {type:paragraph;}">
+            <Coords points="4952,3769 6569,3769 6574,4897 4973,4941"/>
+            <TextLine id="r10l1" custom="readingOrder {index:0;}">
+                <Coords points="4965,3823 5420,3807 6402,3785 6402,3785 6510,3785 6533,3794 6533,3826 6446,3838 6208,3847 5226,3869 5110,3869 4965,3865 4965,3823"/>
+                <Baseline points="4965,3864 5226,3857 5274,3856 5363,3854 5420,3852 5698,3847 5755,3845 6056,3838 6095,3837 6362,3830 6402,3829 6533,3826"/>
+                <TextEquiv>
+                    <Unicode>betreffend die ſofortige Einzahlung geſtundeter Zölle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l2" custom="readingOrder {index:1;}">
+                <Coords points="5509,3893 5575,3882 5652,3876 5652,3876 6014,3876 6050,3882 6065,3898 6065,3912 6014,3927 5652,3927 5509,3923 5509,3893"/>
+                <Baseline points="5509,3923 5609,3921 5651,3921 6065,3912"/>
+                <TextEquiv>
+                    <Unicode>und Reichsſteuern.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l3" custom="readingOrder {index:2;}">
+                <Coords points="5103,3977 5164,3975 6183,3945 6464,3943 6464,3943 6537,3943 6537,3985 6414,3996 6365,3998 5952,4010 5180,4027 5164,4027 5103,4021 5103,3977"/>
+                <Baseline points="5103,4020 5180,4018 5211,4017 5387,4012 5443,4011 5518,4009 5548,4008 5647,4006 5694,4005 5788,4003 5823,4002 5898,4001 5922,4000 6008,3998 6037,3997 6134,3995 6160,3994 6439,3987 6464,3986 6537,3985"/>
+                <TextEquiv>
+                    <Unicode>Auf Grund der mir für den Fall einer Kriegsgefahr bei⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l4" custom="readingOrder {index:3;}">
+                <Coords points="4972,4065 5027,4052 5181,4047 5253,4045 5753,4033 5753,4033 5809,4033 5843,4046 5843,4085 5155,4105 4972,4105 4972,4065"/>
+                <Baseline points="4972,4096 5155,4091 5181,4090 5424,4084 5461,4083 5712,4078 5753,4077 5843,4075"/>
+                <TextEquiv>
+                    <Unicode>gelegten Befugnis beſtimme ich:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l5" custom="readingOrder {index:4;}">
+                <Coords points="5103,4126 5179,4122 5205,4121 6319,4090 6319,4090 6500,4090 6541,4101 6541,4132 6500,4146 5641,4166 5321,4170 5301,4170 5103,4166 5103,4126"/>
+                <Baseline points="5103,4166 5136,4165 5179,4164 5269,4162 5301,4162 5475,4158 5507,4157 5824,4150 5871,4149 5940,4147 5982,4146 6044,4144 6081,4143 6166,4141 6207,4140 6279,4138 6319,4137 6541,4132"/>
+                <TextEquiv>
+                    <Unicode>1. Die zurzeit geſtundeten und die nach den geſetzlichen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l6" custom="readingOrder {index:5;}">
+                <Coords points="4975,4202 4999,4196 6389,4164 6389,4164 6515,4164 6543,4171 6543,4207 6515,4216 6171,4226 5252,4251 4999,4251 4975,4245 4975,4202"/>
+                <Baseline points="4975,4244 5252,4237 5282,4237 5396,4234 5434,4233 5489,4231 5518,4231 5822,4224 5861,4223 5977,4220 5990,4219 6036,4218 6063,4217 6110,4216 6128,4216 6258,4212 6284,4212 6362,4210 6389,4209 6543,4205"/>
+                <TextEquiv>
+                    <Unicode>Vorſchriften noch zu ſtundenden Beträge an Zöllen und Reichs⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l7" custom="readingOrder {index:6;}">
+                <Coords points="4978,4275 5770,4252 6382,4240 6382,4240 6404,4240 6543,4249 6543,4280 6503,4289 6240,4299 5138,4327 4978,4327 4978,4275"/>
+                <Baseline points="4978,4318 5138,4314 5176,4313 5258,4311 5290,4310 5571,4304 5623,4302 5729,4300 5770,4299 5997,4293 6009,4293 6122,4290 6161,4289 6240,4287 6281,4286 6342,4284 6382,4283 6447,4282 6487,4281 6543,4279"/>
+                <TextEquiv>
+                    <Unicode>ſteuern mit Ausnahme der Erbſchaftsſteuer ſind bei der zu⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l8" custom="readingOrder {index:7;}">
+                <Coords points="4981,4350 5276,4341 6171,4314 6383,4310 6413,4310 6546,4319 6546,4354 6520,4363 6205,4374 5188,4401 4981,4401 4981,4350"/>
+                <Baseline points="4981,4392 5188,4387 5219,4386 5347,4383 5380,4382 5492,4380 5512,4379 5840,4371 5863,4370 5972,4368 5991,4367 6171,4363 6232,4362 6242,4361 6262,4361 6368,4358 6383,4358 6546,4354"/>
+                <TextEquiv>
+                    <Unicode>ſtändigen Zoll⸗ oder Steuerſtelle gegen Gewährung eines Abzugs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l9" custom="readingOrder {index:8;}">
+                <Coords points="4981,4437 5102,4423 5415,4412 6436,4382 6436,4382 6458,4382 6490,4386 6535,4397 6547,4418 6547,4437 6458,4445 5555,4466 5176,4470 5144,4470 4981,4466 4981,4437"/>
+                <Baseline points="4981,4458 5075,4464 5102,4464 5176,4462 5205,4461 5309,4458 5345,4457 5555,4452 5602,4451 5705,4448 5749,4447 5826,4446 5858,4445 5958,4442 5998,4441 6146,4437 6186,4436 6257,4435 6299,4433 6547,4427"/>
+                <TextEquiv>
+                    <Unicode>von 6 ¼ vom Hundert für ein Jahr ſogleich bar einzuzahlen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l10" custom="readingOrder {index:9;}">
+                <Coords points="4989,4499 5300,4482 5795,4476 6484,4460 6507,4460 6549,4471 6549,4503 6422,4514 6373,4517 5825,4529 5128,4552 4989,4552 4989,4499"/>
+                <Baseline points="4989,4541 5128,4537 5161,4536 5231,4535 5263,4534 5784,4521 5797,4521 5855,4519 5921,4518 6015,4515 6055,4514 6226,4510 6268,4509 6310,4508 6337,4507 6446,4504 6484,4503 6549,4502"/>
+                <TextEquiv>
+                    <Unicode>ſofern der Stundungsnehmer es nicht vorzieht, in Höhe der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l11" custom="readingOrder {index:10;}">
+                <Coords points="5000,4584 5059,4571 5561,4555 6385,4533 6385,4533 6406,4533 6454,4547 6454,4578 6406,4595 5254,4624 5000,4624 5000,4584"/>
+                <Baseline points="5000,4614 5254,4609 5286,4608 5503,4603 5530,4602 5761,4598 5797,4596 5850,4595 5878,4594 6037,4589 6062,4589 6135,4586 6162,4586 6204,4584 6229,4584 6454,4577"/>
+                <TextEquiv>
+                    <Unicode>geſtundeten Beträge Wechſel zu zeichnen und zu übergeben.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l12" custom="readingOrder {index:11;}">
+                <Coords points="5124,4643 5180,4641 5349,4636 5661,4628 6425,4609 6425,4609 6484,4609 6553,4619 6553,4650 6526,4659 5473,4689 5240,4693 5180,4693 5124,4687 5124,4643"/>
+                <Baseline points="5124,4686 5240,4683 5271,4682 5598,4674 5661,4673 5829,4669 5868,4668 5959,4665 5986,4664 6247,4657 6287,4656 6398,4653 6425,4652 6484,4651 6510,4650 6553,4649"/>
+                <TextEquiv>
+                    <Unicode>Dieſe Beſtimmung findet keine Anwendung, wenn die zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l13" custom="readingOrder {index:12;}">
+                <Coords points="5004,4733 5041,4721 5183,4708 6384,4684 6445,4684 6555,4692 6555,4724 6445,4736 6013,4751 5363,4768 5183,4768 5004,4763 5004,4733"/>
+                <Baseline points="5004,4763 5028,4762 5041,4762 5163,4759 5183,4758 5426,4752 5449,4752 5573,4749 5593,4748 5894,4741 5911,4741 6138,4734 6154,4734 6321,4729 6339,4729 6555,4723"/>
+                <TextEquiv>
+                    <Unicode>einem Zeitpunkt fällig werdenden geſtundeten Beträge zuſammen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l14" custom="readingOrder {index:13;}">
+                <Coords points="5012,4794 5637,4775 5940,4767 6192,4761 6296,4759 6486,4756 6508,4756 6556,4767 6556,4798 6369,4811 6113,4820 5197,4840 5110,4840 5012,4837 5012,4794"/>
+                <Baseline points="5012,4837 5086,4836 5111,4835 5296,4830 5329,4829 5430,4827 5463,4826 5552,4824 5579,4823 5760,4819 5794,4818 5902,4815 5925,4814 6113,4809 6164,4808 6267,4805 6296,4804 6386,4801 6413,4800 6458,4799 6486,4798 6556,4796"/>
+                <TextEquiv>
+                    <Unicode>die Summe von 300 Mark nicht erreichen. Doch ſteht es den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l15" custom="readingOrder {index:14;}">
+                <Coords points="5004,4868 5036,4859 6330,4832 6330,4832 6352,4832 6559,4840 6559,4872 6510,4882 6486,4883 5928,4899 5241,4914 5036,4914 5004,4912 5004,4868"/>
+                <Baseline points="5004,4911 5506,4899 5547,4898 5595,4896 5656,4895 5846,4891 5886,4889 5986,4886 6027,4885 6108,4883 6147,4882 6203,4880 6229,4879 6400,4874 6441,4873 6559,4870"/>
+                <TextEquiv>
+                    <Unicode>Stundungsnehmern in dieſem Falle frei, die Beträge gegen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>betreffend die ſofortige Einzahlung geſtundeter Zölle
+und Reichsſteuern.
+Auf Grund der mir für den Fall einer Kriegsgefahr bei⸗
+gelegten Befugnis beſtimme ich:
+1. Die zurzeit geſtundeten und die nach den geſetzlichen
+Vorſchriften noch zu ſtundenden Beträge an Zöllen und Reichs⸗
+ſteuern mit Ausnahme der Erbſchaftsſteuer ſind bei der zu⸗
+ſtändigen Zoll⸗ oder Steuerſtelle gegen Gewährung eines Abzugs
+von 6 ¼ vom Hundert für ein Jahr ſogleich bar einzuzahlen,
+ſofern der Stundungsnehmer es nicht vorzieht, in Höhe der
+geſtundeten Beträge Wechſel zu zeichnen und zu übergeben.
+Dieſe Beſtimmung findet keine Anwendung, wenn die zu
+einem Zeitpunkt fällig werdenden geſtundeten Beträge zuſammen
+die Summe von 300 Mark nicht erreichen. Doch ſteht es den
+Stundungsnehmern in dieſem Falle frei, die Beträge gegen</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r11" custom="readingOrder {index:11;} structure {type:paragraph;}">
+            <Coords points="6554,2119 7959,2119 7959,2224 7958,2848 6557,2848 6554,2224"/>
+            <TextLine id="r11l1" custom="readingOrder {index:0;}">
+                <Coords points="6565,2161 6954,2146 7909,2130 7936,2141 7950,2147 7950,2166 7936,2172 7749,2188 7430,2198 7415,2199 6651,2211 6565,2207 6565,2161"/>
+                <Baseline points="6565,2205 6814,2199 6840,2198 6911,2197 6937,2196 6980,2195 7005,2194 7132,2191 7163,2190 7175,2190 7201,2190 7434,2184 7456,2183 7612,2180 7637,2179 7749,2176 7775,2176 7846,2174 7875,2173 7950,2161"/>
+                <TextEquiv>
+                    <Unicode>Gewährung des in Abſatz feſtgeſetzten Abzugs ſofort bar ein⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r11l2" custom="readingOrder {index:1;}">
+                <Coords points="6566,2248 6651,2234 6678,2233 6678,2233 6725,2233 6751,2245 6751,2275 6725,2288 6566,2288 6566,2248"/>
+                <Baseline points="6566,2278 6751,2274"/>
+                <TextEquiv>
+                    <Unicode>zuzahlen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r11l3" custom="readingOrder {index:2;}">
+                <Coords points="6671,2308 6755,2304 6858,2300 7590,2283 7907,2274 7953,2288 7953,2319 7906,2330 7107,2351 6858,2351 6700,2349 6671,2348 6671,2308"/>
+                <Baseline points="6671,2338 6710,2349 6755,2348 6832,2346 6858,2346 7107,2340 7133,2339 7219,2337 7259,2337 7368,2333 7394,2333 7542,2329 7569,2328 7953,2318"/>
+                <TextEquiv>
+                    <Unicode>2. Die Anrechnung noch nicht fälliger Branntweinſteuer⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r11l4" custom="readingOrder {index:3;}">
+                <Coords points="6569,2395 6661,2380 6721,2372 7013,2371 7690,2352 7853,2352 7940,2363 7956,2366 7956,2386 7940,2393 7833,2410 6928,2430 6721,2436 6638,2435 6569,2425 6569,2395"/>
+                <Baseline points="6569,2425 6955,2418 6992,2417 7558,2403 7588,2402 7663,2400 7690,2399 7956,2389"/>
+                <TextEquiv>
+                    <Unicode>vergütungsſcheine, Branntweinſteuergutſcheine und Zuckerſteuer⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r11l5" custom="readingOrder {index:4;}">
+                <Coords points="6571,2468 6664,2453 6953,2445 7182,2439 7787,2426 7847,2426 7956,2432 7956,2467 7849,2478 6709,2508 6640,2508 6571,2499 6571,2468"/>
+                <Baseline points="6571,2498 6831,2493 6856,2492 6926,2491 6953,2490 7157,2486 7182,2486 7367,2481 7401,2481 7444,2479 7474,2479 7539,2477 7573,2476 7636,2474 7662,2474 7787,2470 7838,2469 7847,2469 7867,2468 7956,2466"/>
+                <TextEquiv>
+                    <Unicode>vergütungen auf geſtundete Abgaben iſt bis auf weiteres aus⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r11l6" custom="readingOrder {index:5;}">
+                <Coords points="6574,2541 6612,2522 6612,2522 6702,2522 6746,2526 6791,2537 6803,2557 6803,2566 6746,2578 6702,2585 6612,2585 6574,2581 6574,2541"/>
+                <Baseline points="6574,2572 6702,2570 6717,2569 6803,2566"/>
+                <TextEquiv>
+                    <Unicode>geſchloſſen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r11l7" custom="readingOrder {index:6;}">
+                <Coords points="6681,2612 6701,2610 7040,2603 7267,2601 7293,2601 7304,2633 7304,2641 7140,2659 6944,2660 6903,2660 6701,2661 6681,2656 6681,2612"/>
+                <Baseline points="6681,2655 6831,2652 6857,2652 6943,2650 6955,2650 6991,2649 7017,2650 7165,2645 7191,2645 7304,2641"/>
+                <TextEquiv>
+                    <Unicode>Berlin, den 1. Auguſt 1914.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r11l8" custom="readingOrder {index:7;}">
+                <Coords points="7073,2700 7183,2691 7183,2691 7421,2691 7460,2703 7471,2723 7471,2734 7406,2744 7306,2746 7183,2746 7073,2744 7073,2700"/>
+                <Baseline points="7073,2743 7158,2741 7183,2740 7471,2733"/>
+                <TextEquiv>
+                    <Unicode>Der Reichskanzler.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r11l9" custom="readingOrder {index:8;}">
+                <Coords points="7020,2776 7109,2772 7441,2764 7441,2764 7478,2764 7522,2776 7522,2806 7478,2817 7337,2821 7083,2825 7020,2825 7020,2776"/>
+                <Baseline points="7020,2818 7083,2816 7109,2816 7355,2810 7384,2809 7522,2805"/>
+                <TextEquiv>
+                    <Unicode>In Vertretung: Kühn.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Gewährung des in Abſatz feſtgeſetzten Abzugs ſofort bar ein⸗
+zuzahlen.
+2. Die Anrechnung noch nicht fälliger Branntweinſteuer⸗
+vergütungsſcheine, Branntweinſteuergutſcheine und Zuckerſteuer⸗
+vergütungen auf geſtundete Abgaben iſt bis auf weiteres aus⸗
+geſchloſſen.
+Berlin, den 1. Auguſt 1914.
+Der Reichskanzler.
+In Vertretung: Kühn.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="heading" id="r12" custom="readingOrder {index:12;} structure {type:heading;}">
+            <Coords points="6995,2986 7569,2986 7570,3069 6996,3069"/>
+            <TextLine id="r12l1" custom="readingOrder {index:0;}">
+                <Coords points="6995,3000 7044,2996 7416,2996 7533,3006 7554,3026 7554,3044 7533,3058 7390,3063 6996,3069 6995,3000"/>
+                <Baseline points="7006,3059 7554,3044"/>
+                <TextEquiv>
+                    <Unicode>Bekanntmachung.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Bekanntmachung.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r13" custom="readingOrder {index:13;} structure {type:paragraph;}">
+            <Coords points="6578,3095 7991,3067 8026,4865 6612,4888"/>
+            <TextLine id="r13l1" custom="readingOrder {index:0;}">
+                <Coords points="6697,3111 7971,3080 7972,3130 6698,3161"/>
+                <Baseline points="6698,3156 7972,3125"/>
+                <TextEquiv>
+                    <Unicode>1) Seine Majeſtät der Kaiſer und König</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r13l2" custom="readingOrder {index:1;}">
+                <Coords points="6595,3188 7657,3162 7658,3212 6596,3238"/>
+                <Baseline points="6596,3233 7658,3207"/>
+                <TextEquiv>
+                    <Unicode>haben die Mobilmachung befohlen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r13l3" custom="readingOrder {index:2;}">
+                <Coords points="6693,3261 7971,3227 7972,3277 6694,3311"/>
+                <Baseline points="6694,3306 7972,3272"/>
+                <TextEquiv>
+                    <Unicode>Der 2. Auguſt 1914 gilt als erſter Mobil⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r13l4" custom="readingOrder {index:3;}">
+                <Coords points="6596,3335 6996,3323 6997,3373 6597,3385"/>
+                <Baseline points="6597,3380 6997,3368"/>
+                <TextEquiv>
+                    <Unicode>machungstag.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r13l5" custom="readingOrder {index:4;}">
+                <Coords points="6700,3407 7982,3376 7983,3426 6701,3457"/>
+                <Baseline points="6701,3452 7983,3421"/>
+                <TextEquiv>
+                    <Unicode>Der 3. Auguſt 1914 gil als zweiter Mobil⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r13l6" custom="readingOrder {index:5;}">
+                <Coords points="6597,3482 7010,3473 7011,3523 6598,3532"/>
+                <Baseline points="6598,3527 7011,3518"/>
+                <TextEquiv>
+                    <Unicode>machungstag.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r13l7" custom="readingOrder {index:6;}">
+                <Coords points="6699,3553 7979,3523 7980,3573 6700,3603"/>
+                <Baseline points="6700,3598 7980,3568"/>
+                <TextEquiv>
+                    <Unicode>Der 4. Auguſt 1914 gil ls dritter Mobil⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r13l8" custom="readingOrder {index:7;}">
+                <Coords points="6596,3629 7007,3619 7008,3669 6597,3679"/>
+                <Baseline points="6597,3674 7008,3664"/>
+                <TextEquiv>
+                    <Unicode>machungstag.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r13l9" custom="readingOrder {index:8;}">
+                <Coords points="7306,3688 7806,3674 7981,3674 7981,3714 7450,3734 7376,3734 6702,3746 6701,3700"/>
+                <Baseline points="6707,3741 7323,3732 7376,3730 7450,3727 7496,3726 7714,3721 7762,3719 7981,3713"/>
+                <TextEquiv>
+                    <Unicode>Der 5. Auguſt 1914 gil als vierter Mobil⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r13l10" custom="readingOrder {index:9;}">
+                <Coords points="6606,3789 6682,3769 6682,3769 7010,3769 7010,3820 6885,3825 6682,3825 6606,3819 6606,3789"/>
+                <Baseline points="6606,3819 7010,3810"/>
+                <TextEquiv>
+                    <Unicode>machungstag.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r13l11" custom="readingOrder {index:10;}">
+                <Coords points="6710,3848 7807,3818 7807,3818 7842,3818 7981,3822 7981,3861 7842,3878 7101,3894 6979,3894 6710,3891 6710,3848"/>
+                <Baseline points="6710,3891 6796,3889 6828,3888 6865,3887 6901,3887 7101,3882 7136,3881 7234,3878 7271,3877 7338,3876 7390,3875 7452,3874 7498,3873 7720,3868 7766,3866 7981,3861"/>
+                <TextEquiv>
+                    <Unicode>Der 6. Auguſt 1914 gilt als fünfter Mobil⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r13l12" custom="readingOrder {index:11;}">
+                <Coords points="6613,3936 6690,3922 6690,3922 6933,3922 7008,3930 7008,3969 6745,3974 6690,3974 6613,3966 6613,3936"/>
+                <Baseline points="6613,3966 7008,3957"/>
+                <TextEquiv>
+                    <Unicode>machungstag</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r13l13" custom="readingOrder {index:12;}">
+                <Coords points="6719,4009 6736,3997 6881,3993 7032,3991 7032,3991 7050,3991 7123,3994 7123,4032 7050,4043 6858,4047 6820,4047 6719,4039 6719,4009"/>
+                <Baseline points="6719,4039 6799,4037 6820,4037 6858,4036 6881,4036 7011,4033 7032,4033 7123,4031"/>
+                <TextEquiv>
+                    <Unicode>und ſo weiter fort.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r13l14" custom="readingOrder {index:13;}">
+                <Coords points="6720,4069 7106,4056 7716,4040 7716,4040 7738,4040 7926,4044 7993,4054 7993,4084 7893,4097 7738,4102 7446,4110 7039,4118 6840,4118 6720,4113 6720,4069"/>
+                <Baseline points="6720,4113 6808,4111 6840,4110 7039,4106 7074,4105 7446,4096 7483,4095 7659,4091 7695,4090 7993,4084"/>
+                <TextEquiv>
+                    <Unicode>Alle Offiziere, Sanitätsoffiziere, Beamte, Unteroffiziere</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r13l15" custom="readingOrder {index:14;}">
+                <Coords points="6617,4158 6673,4146 6749,4140 7204,4129 7644,4121 7877,4118 7877,4118 7921,4118 7973,4122 7990,4136 7990,4151 7973,4169 7834,4175 6945,4192 6749,4192 6646,4189 6617,4188 6617,4158"/>
+                <Baseline points="6617,4180 6695,4187 6717,4187 7013,4180 7036,4180 7104,4178 7128,4178 7546,4167 7567,4167 7834,4161 7848,4161 7990,4147"/>
+                <TextEquiv>
+                    <Unicode>und Mannſchaften des Beurlaubtenſtandes einſchließlich Erſatz⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r13l16" custom="readingOrder {index:15;}">
+                <Coords points="6619,4233 6662,4220 7318,4201 7969,4192 7969,4192 7990,4192 7990,4230 7965,4232 7638,4255 7201,4263 6752,4271 6662,4271 6619,4261 6619,4233"/>
+                <Baseline points="6619,4254 6765,4259 6793,4259 6914,4256 6940,4255 7022,4254 7049,4253 7266,4249 7293,4248 7638,4240 7665,4239 7710,4238 7740,4237 7885,4234 7912,4233 7990,4220"/>
+                <TextEquiv>
+                    <Unicode>reſerve haben ihre häuslichen Angelegenheiten zu ordnen und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r13l17" custom="readingOrder {index:16;}">
+                <Coords points="6616,4295 6888,4287 7685,4269 7877,4265 7877,4265 7921,4265 7987,4277 7987,4305 7942,4315 7804,4320 7159,4340 6725,4346 6637,4346 6616,4336 6616,4295"/>
+                <Baseline points="6616,4336 6725,4334 6767,4333 7159,4325 7202,4324 7297,4322 7349,4321 7643,4314 7683,4313 7821,4309 7877,4308 7987,4305"/>
+                <TextEquiv>
+                    <Unicode>ihrer Kriegsbeorderung, ohne anderweitigen Befehl abzu⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r13l18" custom="readingOrder {index:17;}">
+                <Coords points="6620,4381 6642,4372 6805,4364 7018,4360 7018,4360 7096,4360 7145,4371 7157,4391 7157,4400 7096,4411 6846,4416 6805,4416 6642,4412 6620,4411 6620,4381"/>
+                <Baseline points="6620,4411 6780,4408 6805,4407 6927,4405 6952,4404 6993,4403 7018,4403 7157,4400"/>
+                <TextEquiv>
+                    <Unicode>warten, Folge zu leiſten.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r13l19" custom="readingOrder {index:18;}">
+                <Coords points="6726,4452 6804,4449 7715,4425 7715,4425 7932,4425 7982,4436 7998,4457 7998,4474 7932,4477 7646,4487 6768,4502 6753,4502 6726,4492 6726,4452"/>
+                <Baseline points="6729,4493 6768,4492 6804,4492 6886,4490 6923,4489 7020,4487 7060,4486 7180,4484 7218,4483 7415,4478 7450,4477 7646,4473 7684,4472 7998,4465"/>
+                <TextEquiv>
+                    <Unicode>2) Die etwa außer Kontrolle ſtehenden Mannſchaften,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r13l20" custom="readingOrder {index:19;}">
+                <Coords points="6625,4528 7380,4509 7407,4509 7871,4495 7934,4499 8000,4505 8000,4547 7871,4552 6638,4579 6625,4579 6625,4528"/>
+                <Baseline points="6625,4570 6736,4567 6764,4566 6991,4563 7020,4562 7149,4559 7178,4558 7252,4556 7282,4555 7558,4549 7577,4548 8000,4538"/>
+                <TextEquiv>
+                    <Unicode>ſowie diejenigen, welche von auswärtigen Bezirkskommandos,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r13l21" custom="readingOrder {index:20;}">
+                <Coords points="6625,4615 6764,4594 7363,4578 7866,4572 7866,4572 8000,4572 8000,4620 7642,4631 6881,4647 6764,4647 6625,4643 6625,4615"/>
+                <Baseline points="6625,4636 6716,4642 6743,4641 7000,4635 7028,4635 7115,4633 7144,4632 7307,4629 7334,4628 7763,4618 7789,4617 8000,4612"/>
+                <TextEquiv>
+                    <Unicode>vom Truppenteil oder anderen Kommandobehörden kommend,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r13l22" custom="readingOrder {index:21;}">
+                <Coords points="6629,4676 6658,4675 7090,4661 7275,4656 7954,4643 7975,4643 8003,4658 8003,4696 7975,4704 7112,4715 7088,4715 6629,4726 6629,4676"/>
+                <Baseline points="6629,4717 6693,4715 6706,4715 6837,4713 6853,4712 6943,4711 6963,4710 7090,4708 7100,4708 7114,4707 7124,4707 7224,4705 7251,4705 7603,4696 7619,4696 7853,4691 7867,4690 8003,4687"/>
+                <TextEquiv>
+                    <Unicode>ſich bisher noch nicht beim Bezirksfeldwebel angemeldet haben,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r13l23" custom="readingOrder {index:22;}">
+                <Coords points="6633,4750 6682,4748 6777,4745 7514,4729 7964,4724 8005,4732 8005,4761 7787,4780 6837,4797 6653,4799 6633,4799 6633,4750"/>
+                <Baseline points="6633,4790 6754,4788 6777,4788 6842,4787 6859,4786 6981,4784 7003,4784 7061,4782 7085,4782 7208,4779 7228,4779 7469,4773 7492,4773 7879,4764 7892,4764 8005,4761"/>
+                <TextEquiv>
+                    <Unicode>haben ſich ſofort bei ihrem zuſtändigen Bezirkskommando unter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r13l24" custom="readingOrder {index:23;}">
+                <Coords points="6628,4823 6953,4813 7588,4803 7588,4803 7609,4803 7733,4813 7733,4842 7651,4854 7184,4865 6776,4873 6652,4873 6628,4866 6628,4823"/>
+                <Baseline points="6628,4866 6797,4862 6823,4862 6927,4860 6953,4859 7257,4853 7283,4852 7325,4851 7351,4851 7506,4847 7534,4847 7609,4845 7636,4844 7733,4842"/>
+                <TextEquiv>
+                    <Unicode>Vorlage ihrer Militärpapiere zu melden, und zwar</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1) Seine Majeſtät der Kaiſer und König
+haben die Mobilmachung befohlen.
+Der 2. Auguſt 1914 gilt als erſter Mobil⸗
+machungstag.
+Der 3. Auguſt 1914 gil als zweiter Mobil⸗
+machungstag.
+Der 4. Auguſt 1914 gil ls dritter Mobil⸗
+machungstag.
+Der 5. Auguſt 1914 gil als vierter Mobil⸗
+machungstag.
+Der 6. Auguſt 1914 gilt als fünfter Mobil⸗
+machungstag
+und ſo weiter fort.
+Alle Offiziere, Sanitätsoffiziere, Beamte, Unteroffiziere
+und Mannſchaften des Beurlaubtenſtandes einſchließlich Erſatz⸗
+reſerve haben ihre häuslichen Angelegenheiten zu ordnen und
+ihrer Kriegsbeorderung, ohne anderweitigen Befehl abzu⸗
+warten, Folge zu leiſten.
+2) Die etwa außer Kontrolle ſtehenden Mannſchaften,
+ſowie diejenigen, welche von auswärtigen Bezirkskommandos,
+vom Truppenteil oder anderen Kommandobehörden kommend,
+ſich bisher noch nicht beim Bezirksfeldwebel angemeldet haben,
+haben ſich ſofort bei ihrem zuſtändigen Bezirkskommando unter
+Vorlage ihrer Militärpapiere zu melden, und zwar</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r14" custom="readingOrder {index:14;} structure {type:paragraph;}">
+            <Coords points="8003,2094 9431,2069 9499,4849 8062,4840"/>
+            <TextLine id="r14l1" custom="readingOrder {index:0;}">
+                <Coords points="8118,2111 9408,2079 9409,2129 8119,2161"/>
+                <Baseline points="8119,2156 9409,2124"/>
+                <TextEquiv>
+                    <Unicode>mündlich: bei der zu dieſem Zwecke beſonders ein⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r14l2" custom="readingOrder {index:1;}">
+                <Coords points="8024,2199 8063,2184 8322,2174 8548,2172 8548,2226 8237,2237 8024,2237 8024,2199"/>
+                <Baseline points="8024,2229 8237,2224 8261,2224 8542,2216"/>
+                <TextEquiv>
+                    <Unicode>gerichteten Anmeldeſtelle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r14l3" custom="readingOrder {index:2;}">
+                <Coords points="8235,2254 8305,2249 8615,2240 9032,2235 9102,2233 9102,2273 9099,2287 8919,2291 8556,2300 8305,2304 8235,2296 8235,2254"/>
+                <Baseline points="8235,2296 8275,2296 8301,2295 8556,2291 8582,2290 8917,2281 8937,2280 9008,2280 9032,2279 9096,2278"/>
+                <TextEquiv>
+                    <Unicode>in Schöneberg, Kolonnenſtraße Nr. 23,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r14l4" custom="readingOrder {index:3;}">
+                <Coords points="8128,2331 8181,2323 8847,2304 9254,2302 9404,2302 9403,2355 9109,2362 8396,2378 8128,2383 8128,2331"/>
+                <Baseline points="8128,2372 8438,2366 8480,2365 8508,2365 8536,2364 8587,2363 8623,2363 8714,2361 8739,2360 8800,2359 8825,2359 9110,2353 9133,2352 9201,2351 9226,2350 9404,2346"/>
+                <TextEquiv>
+                    <Unicode>ſchriftlich: z. B. „An die Anmeldeſtelle des Bezirks⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r14l5" custom="readingOrder {index:4;}">
+                <Coords points="8032,2408 8407,2394 8515,2390 8515,2424 8511,2439 8168,2448 8032,2453 8032,2408"/>
+                <Baseline points="8032,2448 8277,2443 8308,2442 8340,2441 8369,2440 8509,2438"/>
+                <TextEquiv>
+                    <Unicode>kommandos I. Berlin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r14l6" custom="readingOrder {index:5;}">
+                <Coords points="8239,2476 8304,2470 8678,2463 8931,2459 9014,2459 9099,2454 9110,2497 9112,2507 9008,2513 8930,2513 8304,2530 8239,2517 8239,2476"/>
+                <Baseline points="8239,2506 8282,2517 8301,2517 8557,2512 8574,2511 8932,2504 9010,2502 9059,2500 9089,2499 9102,2500"/>
+                <TextEquiv>
+                    <Unicode>in Schöneberg, Kolonnenſtraße Nr. 23“.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r14l7" custom="readingOrder {index:6;}">
+                <Coords points="8133,2550 8371,2539 8867,2533 9305,2521 9381,2527 9411,2534 9413,2563 9413,2576 9262,2580 8552,2594 8133,2594 8133,2550"/>
+                <Baseline points="8133,2594 8230,2591 8263,2591 8344,2589 8371,2588 8579,2584 8619,2583 8732,2582 8748,2582 8843,2579 8866,2579 8939,2577 8968,2576 9263,2571 9289,2570 9409,2568"/>
+                <TextEquiv>
+                    <Unicode>Wer dies unterläßt, wird nach den Kriegsgeſetzen ſtreng</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r14l8" custom="readingOrder {index:7;}">
+                <Coords points="8035,2628 8127,2622 8146,2622 8202,2627 8202,2665 8173,2675 8144,2676 8125,2676 8081,2678 8035,2668 8035,2628"/>
+                <Baseline points="8035,2668 8202,2664"/>
+                <TextEquiv>
+                    <Unicode>beſtraft.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r14l9" custom="readingOrder {index:8;}">
+                <Coords points="8140,2700 8923,2673 9275,2668 9349,2669 9397,2674 9417,2689 9417,2705 9418,2718 9349,2724 9249,2730 8910,2737 8182,2750 8168,2750 8140,2740"/>
+                <Baseline points="8140,2740 8182,2739 8207,2739 8514,2733 8537,2732 8662,2730 8678,2730 8738,2728 8758,2728 8802,2726 8835,2724 8892,2724 8921,2730 9037,2729 9057,2729 9253,2726 9273,2725 9415,2712"/>
+                <TextEquiv>
+                    <Unicode>3) Mannſchaften, denen im Frieden eine Paßnotiz behän⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r14l10" custom="readingOrder {index:9;}">
+                <Coords points="8041,2776 8602,2760 8996,2750 9028,2751 9420,2744 9420,2787 9386,2796 9249,2798 9022,2802 8211,2824 8083,2824 8041,2815 8041,2776"/>
+                <Baseline points="8041,2815 8120,2816 8151,2815 8211,2813 8244,2813 8366,2809 8398,2808 8511,2807 8544,2807 8769,2801 8802,2798 8959,2794 8981,2795 9024,2791 9028,2791 9255,2790 9316,2788 9420,2786"/>
+                <TextEquiv>
+                    <Unicode>digt iſt, haben einen beſonderen Befehl zu erwarten. Jede</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r14l11" custom="readingOrder {index:10;}">
+                <Coords points="8043,2848 8077,2845 8807,2824 9077,2820 9386,2819 9420,2829 9420,2859 9386,2862 9211,2875 8506,2893 8078,2899 8043,2892 8043,2848"/>
+                <Baseline points="8043,2892 8547,2879 8616,2877 8735,2876 8808,2874 9107,2866 9167,2865 9211,2864 9275,2862 9420,2859"/>
+                <TextEquiv>
+                    <Unicode>Wohnungsveränderung dieſer Mannſchaften iſt binnen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r14l12" custom="readingOrder {index:11;}">
+                <Coords points="8044,2923 8445,2907 8724,2901 9324,2891 9400,2891 9423,2902 9423,2931 9400,2935 8962,2952 8721,2956 8044,2963 8044,2923"/>
+                <Baseline points="8044,2953 8092,2963 8117,2963 8303,2958 8323,2958 8408,2956 8432,2955 8676,2950 8694,2949 9049,2941 9071,2940 9118,2939 9141,2939 9301,2935 9324,2934 9423,2923"/>
+                <TextEquiv>
+                    <Unicode>48 Stunden dem zuſtändigen Bezirksfeldwebel zu melden. Wer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r14l13" custom="readingOrder {index:12;}">
+                <Coords points="8045,2997 8391,2988 9253,2964 9398,2964 9422,2968 9422,3006 9398,3018 8681,3033 8395,3043 8086,3046 8045,3037 8045,2997"/>
+                <Baseline points="8045,3037 8141,3036 8162,3035 8358,3031 8376,3031 8595,3026 8612,3025 8705,3023 8723,3023 8820,3021 8840,3021 8912,3019 8934,3018 9236,3010 9253,3010 9422,3006"/>
+                <TextEquiv>
+                    <Unicode>dieſe Meldung unterläßt, wird nach den Kriegsgeſetzen beſtraft.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r14l14" custom="readingOrder {index:13;}">
+                <Coords points="8149,3067 8241,3063 8686,3049 9301,3039 9369,3033 9425,3038 9425,3079 9370,3088 9027,3099 8189,3118 8177,3118 8149,3107 8149,3067"/>
+                <Baseline points="8151,3106 8189,3107 8219,3107 8404,3103 8430,3103 8629,3098 8660,3097 9027,3089 9054,3089 9133,3087 9165,3086 9274,3083 9301,3083 9425,3079"/>
+                <TextEquiv>
+                    <Unicode>4) Inaktive Offiziere, Sanitätsoffiziere und obere Mili⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r14l15" custom="readingOrder {index:14;}">
+                <Coords points="8043,3146 8104,3142 9349,3106 9373,3106 9429,3123 9429,3153 9371,3162 8671,3187 8313,3189 8251,3189 8043,3185 8043,3146"/>
+                <Baseline points="8043,3175 8260,3181 8285,3180 8409,3177 8448,3176 8671,3171 8699,3170 8832,3168 8868,3167 8935,3166 8975,3165 9063,3162 9103,3161 9196,3159 9234,3158 9300,3156 9329,3156 9429,3153"/>
+                <TextEquiv>
+                    <Unicode>tärbeamte, ſowie Zivilärzte, welche ſich noch nicht zur Ver⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r14l16" custom="readingOrder {index:15;}">
+                <Coords points="8050,3227 8098,3216 9286,3184 9318,3184 9390,3185 9428,3196 9428,3226 9316,3241 8241,3264 8098,3264 8050,3258 8050,3227"/>
+                <Baseline points="8050,3258 8241,3254 8263,3254 8386,3251 8411,3250 8549,3247 8579,3246 8712,3243 8736,3243 8856,3241 8879,3240 8942,3238 8968,3238 9069,3236 9097,3235 9206,3233 9230,3234 9318,3230 9347,3229 9428,3226"/>
+                <TextEquiv>
+                    <Unicode>wendung bereit erklärt haben, ſowie die nicht mehr dem Be⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r14l17" custom="readingOrder {index:16;}">
+                <Coords points="8055,3301 8103,3288 8124,3283 9239,3258 9406,3258 9422,3262 9439,3290 9438,3311 9401,3310 8978,3323 8325,3337 8124,3337 8055,3331 8055,3301"/>
+                <Baseline points="8055,3331 8388,3324 8405,3324 8665,3319 8683,3319 9002,3311 9021,3311 9105,3308 9122,3308 9439,3304"/>
+                <TextEquiv>
+                    <Unicode>urlaubtenſtande angehörigen Büchſenmacher und Unteroffiziere,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r14l18" custom="readingOrder {index:17;}">
+                <Coords points="8055,3373 8079,3361 8380,3352 9067,3335 9394,3330 9433,3333 9434,3372 9391,3385 8254,3412 8079,3412 8055,3405 8055,3373"/>
+                <Baseline points="8055,3405 8185,3402 8208,3402 8272,3400 8295,3400 8357,3398 8379,3398 8517,3395 8541,3394 8610,3393 8633,3392 8805,3389 8830,3388 9044,3383 9063,3382 9278,3377 9298,3376 9446,3373"/>
+                <TextEquiv>
+                    <Unicode>welche für die Dauer des mobilen Zuſtandes freiwillig wieder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r14l19" custom="readingOrder {index:18;}">
+                <Coords points="8058,3436 8218,3431 9203,3404 9205,3404 9321,3407 9436,3416 9436,3447 9403,3457 9325,3461 8354,3484 8218,3484 8072,3478 8058,3477 8058,3436"/>
+                <Baseline points="8058,3477 8098,3478 8122,3478 8196,3477 8218,3476 8354,3473 8378,3472 8498,3469 8518,3469 8669,3465 8691,3465 8846,3461 8865,3460 9147,3454 9203,3452 9205,3452 9257,3451 9321,3450 9342,3449 9436,3447"/>
+                <TextEquiv>
+                    <Unicode>in den Dienſt treten wollen, werden aufgefordert, ſich bis zum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r14l20" custom="readingOrder {index:19;}">
+                <Coords points="8055,3508 8111,3503 8605,3495 8733,3491 9407,3474 9437,3482 9437,3532 9409,3533 8728,3543 8598,3548 8111,3552 8056,3556 8055,3508"/>
+                <Baseline points="8059,3550 8096,3549 8111,3549 8597,3538 8724,3536 8906,3533 8929,3535 9064,3532 9112,3531 9133,3530 9256,3527 9437,3523"/>
+                <TextEquiv>
+                    <Unicode>5. Mobilmachungstage unter Mitbringung ihrer Perſonal⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r14l21" custom="readingOrder {index:20;}">
+                <Coords points="8058,3592 8138,3580 8582,3570 9050,3557 9229,3555 9436,3562 9436,3593 9050,3609 8578,3623 8058,3630 8058,3592"/>
+                <Baseline points="8058,3621 8212,3620 8243,3619 8302,3617 8331,3617 8417,3615 8448,3614 8699,3609 8719,3609 9105,3600 9137,3599 9179,3598 9204,3597 9280,3595 9309,3595 9436,3592"/>
+                <TextEquiv>
+                    <Unicode>papiere bei dem zuſtändigen Bezirkskommando in den neuen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r14l22" custom="readingOrder {index:21;}">
+                <Coords points="8060,3653 8723,3633 8844,3633 9402,3625 9437,3635 9437,3666 9402,3678 8848,3690 8276,3703 8153,3703 8060,3699 8060,3655"/>
+                <Baseline points="8062,3693 8389,3689 8425,3688 8491,3687 8523,3686 8605,3684 8640,3684 8910,3677 8940,3677 9069,3674 9100,3673 9276,3669 9307,3669 9437,3666"/>
+                <TextEquiv>
+                    <Unicode>Dienſtgebäuden auf dem Tempelhofer Felde, General Pape⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r14l23" custom="readingOrder {index:22;}">
+                <Coords points="8063,3729 8105,3727 8315,3723 8315,3723 8404,3723 8454,3733 8454,3762 8194,3776 8124,3778 8063,3778 8063,3729"/>
+                <Baseline points="8063,3767 8194,3766 8222,3765 8265,3765 8293,3764 8454,3760"/>
+                <TextEquiv>
+                    <Unicode>ſtraße, zu melden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r14l24" custom="readingOrder {index:23;}">
+                <Coords points="8165,3799 8227,3796 9062,3771 9370,3771 9440,3780 9440,3811 9411,3822 9371,3823 8205,3847 8193,3847 8165,3838 8165,3799"/>
+                <Baseline points="8163,3833 8205,3837 8227,3837 8304,3836 8325,3835 8608,3829 8632,3828 8750,3825 8774,3825 8841,3824 8863,3823 8912,3822 8934,3822 9043,3819 9062,3819 9370,3812 9392,3812 9440,3811"/>
+                <TextEquiv>
+                    <Unicode>5) Die Einberufenen haben ſich an ihren Geſtellungsort zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r14l25" custom="readingOrder {index:24;}">
+                <Coords points="8061,3874 9194,3847 9368,3842 9428,3853 9441,3874 9441,3882 9398,3894 9365,3900 8130,3921 8107,3921 8061,3913 8061,3874"/>
+                <Baseline points="8062,3911 8234,3910 8260,3909 8352,3907 8376,3906 8505,3904 8529,3903 8659,3900 8682,3899 8938,3894 8965,3893 9104,3890 9128,3890 9173,3889 9192,3888 9441,3880"/>
+                <TextEquiv>
+                    <Unicode>begeben, ohne irgend welche Gebührniſſe vorher zu empfangen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r14l26" custom="readingOrder {index:25;}">
+                <Coords points="8063,3946 8086,3945 8666,3926 9357,3911 9368,3911 9398,3911 9443,3922 9472,3941 9472,3957 9302,3969 8311,3991 8154,3994 8086,3994 8063,3986 8063,3946"/>
+                <Baseline points="8063,3986 8262,3983 8297,3982 8375,3980 8412,3979 8475,3977 8510,3976 8633,3975 8666,3974 8987,3965 9018,3964 9118,3963 9151,3963 9302,3960 9336,3958 9472,3953"/>
+                <TextEquiv>
+                    <Unicode>Dieſelben ſind zur freien Eiſenbahnfahrt ohne Löſung einer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r14l27" custom="readingOrder {index:26;}">
+                <Coords points="8066,4019 8091,4017 8537,4006 9169,3992 9382,3990 9418,3990 9443,4002 9443,4030 9276,4043 9134,4043 8113,4065 8066,4068 8066,4019"/>
+                <Baseline points="8066,4058 8272,4055 8302,4054 8378,4053 8414,4052 8505,4050 8537,4049 8734,4045 8765,4044 8940,4040 8970,4040 9025,4038 9052,4038 9138,4036 9169,4036 9348,4032 9382,4031 9443,4030"/>
+                <TextEquiv>
+                    <Unicode>Fahrkarte und ohne vorherige Anfrage an dem Schalter be⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r14l28" custom="readingOrder {index:27;}">
+                <Coords points="8068,4104 8110,4091 8279,4085 9166,4063 9426,4063 9444,4081 9448,4102 9397,4111 8422,4137 8146,4141 8134,4141 8068,4132 8068,4104"/>
+                <Baseline points="8068,4132 8230,4129 8250,4129 8422,4125 8448,4125 8513,4124 8536,4123 8678,4120 8703,4120 8768,4118 8791,4117 9032,4112 9056,4111 9123,4110 9148,4109 9442,4099"/>
+                <TextEquiv>
+                    <Unicode>rechtigt, lediglich auf Grund der Vorzeigung der Kriegsbeorde⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r14l29" custom="readingOrder {index:28;}">
+                <Coords points="8069,4177 8216,4163 8631,4152 9084,4142 9362,4136 9427,4136 9445,4154 9445,4170 9446,4182 9410,4184 9022,4196 8740,4202 8170,4212 8144,4212 8090,4209 8069,4207 8069,4177"/>
+                <Baseline points="8070,4205 8170,4203 8197,4202 8278,4201 8306,4200 8465,4198 8492,4197 8814,4191 8839,4190 8925,4188 8951,4188 9022,4186 9046,4186 9186,4183 9213,4182 9283,4180 9307,4180 9444,4178"/>
+                <TextEquiv>
+                    <Unicode>rung oder anderer Militärpapiere oder auf Grund der münd⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r14l30" custom="readingOrder {index:29;}">
+                <Coords points="8068,4238 8083,4237 8584,4225 9235,4211 9235,4211 9397,4211 9448,4222 9448,4250 9397,4264 9138,4272 8182,4286 8099,4286 8068,4277 8068,4238"/>
+                <Baseline points="8068,4277 8182,4275 8209,4275 8425,4272 8448,4271 8535,4270 8562,4269 8788,4264 8818,4264 8903,4262 8929,4262 9192,4256 9217,4255 9448,4250"/>
+                <TextEquiv>
+                    <Unicode>lichen Erklärung dem Bahnſteig⸗ oder Zugbeamten gegenüber.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r14l31" custom="readingOrder {index:30;}">
+                <Coords points="8069,4310 8089,4305 9140,4285 9449,4285 9449,4325 9422,4337 8432,4354 8089,4358 8069,4352 8069,4310"/>
+                <Baseline points="8069,4351 8428,4344 8458,4344 8577,4342 8602,4341 8687,4340 8715,4339 9022,4333 9046,4332 9111,4331 9140,4330 9449,4324"/>
+                <TextEquiv>
+                    <Unicode>Kriegsfreiwillige haben eine Beſcheinigung der Polizeibehörde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r14l32" custom="readingOrder {index:31;}">
+                <Coords points="8072,4387 8100,4384 8882,4361 9005,4361 9054,4377 9054,4406 9006,4419 8225,4434 8194,4434 8072,4425 8072,4387"/>
+                <Baseline points="8072,4425 8164,4423 8194,4423 8311,4421 8338,4420 8416,4419 8448,4418 8532,4417 8560,4415 8625,4414 8655,4413 8765,4411 8795,4410 9054,4405"/>
+                <TextEquiv>
+                    <Unicode>über Zweck und Ziel der Reiſe vorzuzeigen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r14l33" custom="readingOrder {index:32;}">
+                <Coords points="8177,4457 8222,4455 8603,4444 8908,4436 9360,4431 9435,4431 9453,4449 9453,4465 9454,4481 8798,4497 8337,4506 8288,4506 8177,4498 8177,4457"/>
+                <Baseline points="8177,4497 8254,4496 8288,4495 8470,4491 8504,4491 8567,4489 8603,4489 8847,4484 8879,4483 9135,4478 9172,4477 9310,4474 9344,4473 9453,4470"/>
+                <TextEquiv>
+                    <Unicode>Die Zahlung der zuſtehenden Gebührniſſe erfolgt nach⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r14l34" custom="readingOrder {index:33;}">
+                <Coords points="8078,4533 8116,4531 8198,4528 8420,4520 8420,4520 8658,4520 8658,4560 8528,4571 8510,4572 8232,4579 8144,4579 8078,4571 8078,4533"/>
+                <Baseline points="8078,4571 8232,4568 8260,4568 8361,4567 8391,4566 8658,4559"/>
+                <TextEquiv>
+                    <Unicode>träglich beim Truppenteil.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r14l35" custom="readingOrder {index:34;}">
+                <Coords points="8182,4613 8217,4610 8641,4602 8851,4600 8898,4600 8910,4632 8910,4647 8765,4653 8737,4654 8410,4659 8217,4659 8182,4655 8182,4613"/>
+                <Baseline points="8182,4654 8410,4649 8443,4649 8513,4647 8546,4647 8580,4646 8615,4645 8765,4642 8799,4641 8910,4639"/>
+                <TextEquiv>
+                    <Unicode>Berlin, den 1. Auguſt 1914.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r14l36" custom="readingOrder {index:35;}">
+                <Coords points="8080,4710 8106,4707 8452,4700 9215,4686 9254,4686 9461,4682 9462,4730 9179,4739 9056,4742 8551,4754 8286,4759 8106,4759 8080,4754 8080,4710"/>
+                <Baseline points="8080,4754 8294,4748 8330,4748 8738,4739 8775,4738 8824,4737 8860,4736 8928,4736 8965,4734 9056,4733 9093,4732 9179,4731 9215,4730 9463,4725"/>
+                <TextEquiv>
+                    <Unicode>Königliche Bezirkskommandos I., II., III., IV., V. u. VI.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r14l37" custom="readingOrder {index:36;}">
+                <Coords points="8688,4771 8710,4768 8710,4768 8805,4768 8845,4777 8845,4813 8775,4816 8688,4816 8688,4771"/>
+                <Baseline points="8688,4816 8845,4812"/>
+                <TextEquiv>
+                    <Unicode>Berlin.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>mündlich: bei der zu dieſem Zwecke beſonders ein⸗
+gerichteten Anmeldeſtelle
+in Schöneberg, Kolonnenſtraße Nr. 23,
+ſchriftlich: z. B. „An die Anmeldeſtelle des Bezirks⸗
+kommandos I. Berlin
+in Schöneberg, Kolonnenſtraße Nr. 23“.
+Wer dies unterläßt, wird nach den Kriegsgeſetzen ſtreng
+beſtraft.
+3) Mannſchaften, denen im Frieden eine Paßnotiz behän⸗
+digt iſt, haben einen beſonderen Befehl zu erwarten. Jede
+Wohnungsveränderung dieſer Mannſchaften iſt binnen
+48 Stunden dem zuſtändigen Bezirksfeldwebel zu melden. Wer
+dieſe Meldung unterläßt, wird nach den Kriegsgeſetzen beſtraft.
+4) Inaktive Offiziere, Sanitätsoffiziere und obere Mili⸗
+tärbeamte, ſowie Zivilärzte, welche ſich noch nicht zur Ver⸗
+wendung bereit erklärt haben, ſowie die nicht mehr dem Be⸗
+urlaubtenſtande angehörigen Büchſenmacher und Unteroffiziere,
+welche für die Dauer des mobilen Zuſtandes freiwillig wieder
+in den Dienſt treten wollen, werden aufgefordert, ſich bis zum
+5. Mobilmachungstage unter Mitbringung ihrer Perſonal⸗
+papiere bei dem zuſtändigen Bezirkskommando in den neuen
+Dienſtgebäuden auf dem Tempelhofer Felde, General Pape⸗
+ſtraße, zu melden.
+5) Die Einberufenen haben ſich an ihren Geſtellungsort zu
+begeben, ohne irgend welche Gebührniſſe vorher zu empfangen.
+Dieſelben ſind zur freien Eiſenbahnfahrt ohne Löſung einer
+Fahrkarte und ohne vorherige Anfrage an dem Schalter be⸗
+rechtigt, lediglich auf Grund der Vorzeigung der Kriegsbeorde⸗
+rung oder anderer Militärpapiere oder auf Grund der münd⸗
+lichen Erklärung dem Bahnſteig⸗ oder Zugbeamten gegenüber.
+Kriegsfreiwillige haben eine Beſcheinigung der Polizeibehörde
+über Zweck und Ziel der Reiſe vorzuzeigen.
+Die Zahlung der zuſtehenden Gebührniſſe erfolgt nach⸗
+träglich beim Truppenteil.
+Berlin, den 1. Auguſt 1914.
+Königliche Bezirkskommandos I., II., III., IV., V. u. VI.
+Berlin.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r15" custom="readingOrder {index:15;} structure {type:paragraph;}">
+            <Coords points="8650,6117 9349,6117 9349,6205 8650,6205"/>
+            <TextLine id="r15l1" custom="readingOrder {index:0;}">
+                <Coords points="8660,6141 9137,6129 9137,6129 9339,6129 9339,6183 8775,6196 8660,6196 8660,6141"/>
+                <Baseline points="8660,6187 8918,6180 8945,6179 9054,6177 9079,6176 9339,6171"/>
+                <TextEquiv>
+                    <Unicode>Fahrpläne ſiehe umſtehend.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Fahrpläne ſiehe umſtehend.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_13" custom="readingOrder {index:16;}">
+            <Coords points="4937,1721 9380,1721 9380,1837 4937,1837"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_14" custom="readingOrder {index:17;}">
+            <Coords points="6571,1789 7359,1789 7359,1809 6571,1809"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_15" custom="readingOrder {index:18;}">
+            <Coords points="5725,3536 5899,3536 5899,3545 5725,3545"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_16" custom="readingOrder {index:19;}">
+            <Coords points="4802,6475 4821,6475 4821,6921 4802,6921"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_17" custom="readingOrder {index:20;}">
+            <Coords points="4807,6315 4818,6315 4818,6475 4807,6475"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_18" custom="readingOrder {index:21;}">
+            <Coords points="4809,5839 4819,5839 4819,6315 4809,6315"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_19" custom="readingOrder {index:22;}">
+            <Coords points="4810,5081 4824,5081 4824,5793 4810,5793"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_20" custom="readingOrder {index:23;}">
+            <Coords points="4817,4144 4829,4144 4829,4665 4817,4665"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_21" custom="readingOrder {index:24;}">
+            <Coords points="4818,3712 4830,3712 4830,4144 4818,4144"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_22" custom="readingOrder {index:25;}">
+            <Coords points="4819,3092 4835,3092 4835,3376 4819,3376"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_23" custom="readingOrder {index:26;}">
+            <Coords points="4820,595 4853,595 4853,2784 4820,2784"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_24" custom="readingOrder {index:27;}">
+            <Coords points="6523,2086 6597,2086 6597,4878 6523,4878"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_25" custom="readingOrder {index:28;}">
+            <Coords points="7974,2048 8046,2048 8046,4836 7974,4836"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_26" custom="readingOrder {index:29;}">
+            <Coords points="6473,1802 6529,1802 6529,1805 6473,1805"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_27" custom="readingOrder {index:30;}">
+            <Coords points="299,4919 306,4919 306,4983 299,4983"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_28" custom="readingOrder {index:31;}">
+            <Coords points="6896,6638 6908,6638 6908,6748 6896,6748"/>
+        </SeparatorRegion>
+    </Page>
+</PcGts>
