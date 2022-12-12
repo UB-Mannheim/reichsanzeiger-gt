@@ -10,7 +10,7 @@ Images can be downloaded via script
 
 ### Quantity:
 - 197 single newspaper pages
-- approx. 119.435 ground truth lines
+- 119.435 ground truth lines
 
 ### Period:
 1820–1939 
