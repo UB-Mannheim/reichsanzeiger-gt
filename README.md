@@ -26,7 +26,7 @@ All transcriptions were created using [Transkribus](https://readcoop.eu/transkri
 
 **Special characters**: 
 - Long s (ſ)
-- German Mark (ℳ) and Pfennig (₰)
+- Currency symbols: German Mark (ℳ) and Pfennig (₰), $, £
 - Fractions (¼ ½ ¾ ⅐ ⅑ ⅒ ⅓ ⅔ ⅕ ⅖ ⅗ ⅘ ⅙ ⅚ ⅛ ⅜ ⅝ ⅞)
 - R rotunda (ꝛ)
 - Combining Latin Small Letter E for old German Umlaut ( ͤ )
