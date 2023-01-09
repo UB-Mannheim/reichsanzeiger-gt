@@ -19,7 +19,7 @@ Images can be downloaded via script
 Fraktur, Latin
 
 ### Languages:
-German, English, French, Portugese, Italian, Latin
+German, English, French, Portuguese, Italian, Latin
 
 ### Transcription guidelines:
 All transcriptions were created using [Transkribus](https://readcoop.eu/transkribus/?sc=Transkribus). The transcription rules are based on the [OCR-D transcription guidelines Level 2](https://ocr-d.de/en/gt-guidelines/trans/trLevels.html) with some exceptions (see below):
