@@ -44,6 +44,9 @@ All transcriptions were created using [Transkribus](https://readcoop.eu/transkri
 **Additional characters transcribed true to original** (contrary to OCR-D Level 2):
 - Double oblique hyphen (⸗)
 
+### Funding
+This revision is predominantly funded by the [German Research Foundation (DFG)](https://www.dfg.de/foerderung/info_wissenschaft/2020/info_wissenschaft_20_15/index.html).
+
 # Links
 + A [digital edition of the *Reichsanzeiger*](https://digi.bib.uni-mannheim.de/periodika/reichsanzeiger/) is provided by [Mannheim University Library](https://www.bib.uni-mannheim.de/en/).
 + See the [*Reichsanzeiger* wiki](https://github.com/UB-Mannheim/Reichsanzeiger/wiki) for more information.
