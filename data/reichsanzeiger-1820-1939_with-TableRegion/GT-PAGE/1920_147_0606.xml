@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
     <Metadata>
         <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.7.3:model_id=40804:lm=none:date=11_08_2022_16:03
@@ -18,7 +18,7 @@ Transkribus</Creator>
             <Coords points="904,870 9791,886 9803,7075 874,7070"/>
         </PrintSpace>
         <ReadingOrder>
-            <OrderedGroup id="ro_1670486859845" caption="Regions reading order">
+            <OrderedGroup id="ro_1690359974969" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
                 <RegionRefIndexed index="1" regionRef="r2"/>
                 <RegionRefIndexed index="2" regionRef="r3"/>
@@ -216,7 +216,7 @@ Transkribus</Creator>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l24" custom="readingOrder {index:23;}">
-                <Coords points="1049,1988 1397,1986 1397,1986 2016,1986 2323,1987 2412,1994 2412,2025 2377,2031 2260,2031 1049,2030"/>
+                <Coords points="1049,1988 1397,1986 2016,1986 2323,1987 2412,1994 2412,2025 2377,2031 2260,2031 1049,2030"/>
                 <Baseline points="1049,2025 1218,2023 1284,2023 1354,2023 1397,2023 1631,2022 1683,2022 1734,2022 1775,2022 1828,2022 1867,2022 2016,2023 2055,2023 2109,2023 2150,2024 2412,2025"/>
                 <TextEquiv>
                     <Unicode>vertiefen. Die Entſcheidung für die Zukunft der Abſtimmungs⸗</Unicode>
@@ -507,7 +507,7 @@ der Gegner zerſplittern.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l26" custom="readingOrder {index:25;}">
-                <Coords points="1042,3856 1099,3844 1112,3843 1112,3843 1151,3843 1860,3844 1900,3845 1988,3858 1988,3884 1927,3891 1815,3893 1680,3893 1042,3891"/>
+                <Coords points="1042,3856 1099,3844 1112,3843 1151,3843 1860,3844 1900,3845 1988,3858 1988,3884 1927,3891 1815,3893 1680,3893 1042,3891"/>
                 <Baseline points="1042,3882 1207,3882 1237,3882 1302,3883 1331,3883 1454,3883 1479,3883 1651,3883 1680,3883 1988,3884"/>
                 <TextEquiv>
                     <Unicode>zwiſchen den beiden Ländern herbeizuführen.</Unicode>
@@ -1108,7 +1108,7 @@ vertagte ſich hierauf</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l14" custom="readingOrder {index:13;}">
-                <Coords points="2486,1593 2504,1581 2504,1581 2767,1581 3572,1583 3680,1584 3775,1586 3841,1598 3841,1634 3807,1634 2999,1632 2504,1630 2486,1620"/>
+                <Coords points="2486,1593 2504,1581 2767,1581 3572,1583 3680,1584 3775,1586 3841,1598 3841,1634 3807,1634 2999,1632 2504,1630 2486,1620"/>
                 <Baseline points="2486,1620 2650,1621 2693,1621 2767,1622 2837,1623 2955,1623 2999,1623 3109,1623 3134,1623 3423,1623 3468,1623 3616,1623 3659,1624 3714,1624 3743,1626 3841,1624"/>
                 <TextEquiv>
                     <Unicode>erfolgen ſoll. Unter dieſer Vorausſetzung würden die Eng⸗</Unicode>
@@ -1213,7 +1213,7 @@ vertagte ſich hierauf</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l29" custom="readingOrder {index:28;}">
-                <Coords points="2480,2347 2503,2336 2530,2335 2707,2334 2707,2334 2898,2334 3076,2335 3106,2347 3116,2367 3116,2374 3076,2382 2898,2384 2530,2384 2480,2376"/>
+                <Coords points="2480,2347 2503,2336 2530,2335 2707,2334 2898,2334 3076,2335 3106,2347 3116,2367 3116,2374 3076,2382 2898,2384 2530,2384 2480,2376"/>
                 <Baseline points="2480,2376 2679,2374 2707,2374 2917,2374 2943,2374 3116,2374"/>
                 <TextEquiv>
                     <Unicode>möglichen Auskünfte erhalten.</Unicode>
@@ -1360,7 +1360,7 @@ vertagte ſich hierauf</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l50" custom="readingOrder {index:49;}">
-                <Coords points="2986,3588 3011,3587 3011,3587 3282,3587 3312,3589 3312,3628 3282,3637 3011,3637 2986,3628"/>
+                <Coords points="2986,3588 3011,3587 3282,3587 3312,3589 3312,3628 3282,3637 3011,3637 2986,3628"/>
                 <Baseline points="2986,3628 3312,3628"/>
                 <TextEquiv>
                     <Unicode>Griechenland.</Unicode>
@@ -1458,7 +1458,7 @@ vertagte ſich hierauf</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l64" custom="readingOrder {index:63;}">
-                <Coords points="3068,4259 3091,4258 3091,4258 3184,4258 3212,4270 3212,4298 3184,4305 3091,4305 3068,4298"/>
+                <Coords points="3068,4259 3091,4258 3184,4258 3212,4270 3212,4298 3184,4305 3091,4305 3068,4298"/>
                 <Baseline points="3068,4298 3212,4298"/>
                 <TextEquiv>
                     <Unicode>Aſien.</Unicode>
@@ -1549,7 +1549,7 @@ vertagte ſich hierauf</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l77" custom="readingOrder {index:76;}">
-                <Coords points="2460,4934 2476,4920 2476,4920 2618,4920 3453,4923 3688,4925 3708,4930 3708,4965 3688,4974 3654,4974 2476,4971 2460,4962"/>
+                <Coords points="2460,4934 2476,4920 2618,4920 3453,4923 3688,4925 3708,4930 3708,4965 3688,4974 3654,4974 2476,4971 2460,4962"/>
                 <Baseline points="2460,4962 2618,4961 2657,4961 2699,4961 2711,4961 2863,4962 2894,4962 2955,4963 2979,4963 3198,4963 3225,4963 3453,4964 3480,4964 3627,4963 3654,4964 3708,4965"/>
                 <TextEquiv>
                     <Unicode>ruſſiſche Regierung für Oſtſibirien aufgerichtet worden iſt.</Unicode>
@@ -1577,7 +1577,7 @@ vertagte ſich hierauf</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l81" custom="readingOrder {index:80;}">
-                <Coords points="2457,5144 2510,5132 2523,5131 2537,5130 2537,5130 2770,5130 3419,5132 3438,5136 3438,5173 3419,5183 3298,5183 2457,5180"/>
+                <Coords points="2457,5144 2510,5132 2523,5131 2537,5130 2770,5130 3419,5132 3438,5136 3438,5173 3419,5183 3298,5183 2457,5180"/>
                 <Baseline points="2457,5170 2620,5171 2647,5171 2770,5171 2798,5171 2968,5172 2995,5172 3071,5172 3101,5172 3436,5173"/>
                 <TextEquiv>
                     <Unicode>zwiſchen beiden Ländern ſind wiederhergeſtellt.</Unicode>
@@ -2184,7 +2184,7 @@ Streiktage werden nicht vergütet.</Unicode>
         <TextRegion type="paragraph" id="r6" custom="readingOrder {index:5;} structure {type:paragraph;}">
             <Coords points="3896,2221 5280,2221 5280,2628 3896,2628"/>
             <TextLine id="r6l1" custom="readingOrder {index:0;}">
-                <Coords points="3999,2236 4015,2234 4205,2233 4205,2233 4674,2233 4901,2234 5067,2235 5165,2237 5165,2280 5125,2281 5016,2281 4205,2280 3999,2279"/>
+                <Coords points="3999,2236 4015,2234 4205,2233 4674,2233 4901,2234 5067,2235 5165,2237 5165,2280 5125,2281 5016,2281 4205,2280 3999,2279"/>
                 <Baseline points="3999,2272 4162,2272 4190,2272 4423,2272 4446,2272 4674,2272 4701,2272 4724,2272 4751,2272 4776,2272 4799,2272 4827,2273 4851,2273 4975,2274 4997,2274 5165,2273"/>
                 <TextEquiv>
                     <Unicode>(Weitere „Statiſtiſche Nachrichten“ ſ. i. d. Erſten Beilage.)</Unicode>
@@ -2536,7 +2536,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 2 3 5</CornerPts>
             </TableCell>
@@ -2550,7 +2550,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 2 3 5</CornerPts>
             </TableCell>
@@ -2564,7 +2564,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 2 4 6</CornerPts>
             </TableCell>
@@ -2592,7 +2592,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 2 3 5</CornerPts>
             </TableCell>
@@ -2606,7 +2606,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -2620,7 +2620,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 2 3 5</CornerPts>
             </TableCell>
@@ -2648,7 +2648,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 2 3 5</CornerPts>
             </TableCell>
@@ -2662,7 +2662,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2676,7 +2676,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2690,7 +2690,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2704,7 +2704,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2718,7 +2718,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2732,7 +2732,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2746,7 +2746,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2764,7 +2764,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2778,7 +2778,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2792,7 +2792,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2806,7 +2806,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2820,7 +2820,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2834,7 +2834,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2848,7 +2848,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2873,7 +2873,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 7 8 15</CornerPts>
             </TableCell>
@@ -2887,7 +2887,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2901,7 +2901,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2915,7 +2915,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2929,7 +2929,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2943,7 +2943,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2961,7 +2961,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2975,7 +2975,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2989,7 +2989,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3003,7 +3003,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3017,7 +3017,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3035,7 +3035,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3049,7 +3049,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3063,7 +3063,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3077,7 +3077,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3091,7 +3091,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3109,7 +3109,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3123,7 +3123,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3137,7 +3137,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3151,7 +3151,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3165,7 +3165,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3183,7 +3183,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3197,7 +3197,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3211,7 +3211,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3225,7 +3225,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3247,7 +3247,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3261,7 +3261,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3275,7 +3275,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3289,7 +3289,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3311,7 +3311,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3325,7 +3325,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3368,7 +3368,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3382,7 +3382,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3396,7 +3396,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -3424,7 +3424,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 2 3 5</CornerPts>
             </TableCell>
@@ -3438,7 +3438,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -3452,7 +3452,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 2 3 5</CornerPts>
             </TableCell>
@@ -3466,7 +3466,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 2 3 5</CornerPts>
             </TableCell>
@@ -3480,7 +3480,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 2 3 5</CornerPts>
             </TableCell>
@@ -3494,7 +3494,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 2 3 5</CornerPts>
             </TableCell>
@@ -3508,7 +3508,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 2 3 5</CornerPts>
             </TableCell>
@@ -3536,7 +3536,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 2 3 5</CornerPts>
             </TableCell>
@@ -3550,7 +3550,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3564,7 +3564,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3578,7 +3578,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3596,7 +3596,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3610,7 +3610,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3624,7 +3624,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3638,7 +3638,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3652,7 +3652,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3666,7 +3666,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3680,7 +3680,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3698,7 +3698,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3712,7 +3712,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3726,7 +3726,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3740,7 +3740,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3754,7 +3754,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3768,7 +3768,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3786,7 +3786,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3800,7 +3800,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3814,7 +3814,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3828,7 +3828,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3842,7 +3842,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3856,7 +3856,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3874,7 +3874,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3888,7 +3888,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3902,7 +3902,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3916,7 +3916,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3930,7 +3930,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3944,7 +3944,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3962,7 +3962,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3976,7 +3976,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3990,7 +3990,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4004,7 +4004,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4018,7 +4018,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4032,7 +4032,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4050,7 +4050,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4064,7 +4064,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4078,7 +4078,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4092,7 +4092,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4106,7 +4106,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4120,7 +4120,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4138,7 +4138,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4152,7 +4152,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4166,7 +4166,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4180,7 +4180,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4194,7 +4194,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4208,7 +4208,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4226,7 +4226,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4240,7 +4240,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4254,7 +4254,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4268,7 +4268,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4282,7 +4282,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4296,7 +4296,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4310,7 +4310,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4324,7 +4324,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4338,7 +4338,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4352,7 +4352,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4366,7 +4366,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4380,7 +4380,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4394,7 +4394,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4412,7 +4412,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4426,7 +4426,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4440,7 +4440,7 @@ Lindenberg, Kr. Beeskow.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4608,7 +4608,7 @@ und Erſte und Zweite Zentral⸗Handelsregiſter⸗Beilage.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r16l2" custom="readingOrder {index:1;}">
-                <Coords points="5569,1101 5762,1069 5762,1069 6305,1069 9476,1089 9697,1115 9697,1199 9560,1210 9360,1214 8320,1214 6814,1206 6109,1199 5569,1186"/>
+                <Coords points="5569,1101 5762,1069 6305,1069 9476,1089 9697,1115 9697,1199 9560,1210 9360,1214 8320,1214 6814,1206 6109,1199 5569,1186"/>
                 <Baseline points="5569,1174 5731,1176 5762,1177 6441,1185 6463,1185 7545,1188 7572,1189 7728,1190 7759,1191 8602,1201 8631,1201 9697,1198"/>
                 <TextEquiv>
                     <Unicode>zum Deutſchen Reichsanzeiger und Preußiſchen Staatsanzeiger</Unicode>
@@ -5640,7 +5640,7 @@ J. A.: Dr. Hausmann.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r24l26" custom="readingOrder {index:25;}">
-                <Coords points="6948,3048 6988,3047 6988,3047 7043,3047 7362,3048 7385,3061 7385,3089 7362,3097 6948,3097"/>
+                <Coords points="6948,3048 6988,3047 7043,3047 7362,3048 7385,3061 7385,3089 7362,3097 6948,3097"/>
                 <Baseline points="6948,3088 7063,3088 7088,3088 7148,3088 7175,3088 7218,3088 7248,3088 7385,3089"/>
                 <TextEquiv>
                     <Unicode>ſtraße 33, zu richten.</Unicode>
@@ -5835,7 +5835,7 @@ J. A.: Dr. Buſſe.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r25l20" custom="readingOrder {index:19;}">
-                <Coords points="7395,4365 7472,4363 7472,4363 7491,4363 7621,4364 7726,4365 7768,4366 7788,4367 7823,4379 7823,4407 7788,4415 7701,4415 7395,4411"/>
+                <Coords points="7395,4365 7472,4363 7491,4363 7621,4364 7726,4365 7768,4366 7788,4367 7823,4379 7823,4407 7788,4415 7701,4415 7395,4411"/>
                 <Baseline points="7395,4401 7442,4402 7472,4403 7538,4404 7573,4404 7645,4404 7673,4405 7823,4407"/>
                 <TextEquiv>
                     <Unicode>J. A.: Dr. Buſſe.</Unicode>
@@ -6353,7 +6353,7 @@ J. A.: Dr. Hausmann.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r28l21" custom="readingOrder {index:20;}">
-                <Coords points="8375,2429 8671,2428 8671,2428 8789,2428 8811,2442 8811,2470 8789,2478 8435,2479 8375,2479"/>
+                <Coords points="8375,2429 8671,2428 8789,2428 8811,2442 8811,2470 8789,2478 8435,2479 8375,2479"/>
                 <Baseline points="8375,2470 8490,2470 8517,2470 8580,2470 8606,2470 8645,2470 8671,2470 8811,2470"/>
                 <TextEquiv>
                     <Unicode>ſtraße 33, zu richten.</Unicode>

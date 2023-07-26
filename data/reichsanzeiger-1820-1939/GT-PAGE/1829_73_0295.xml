@@ -5,20 +5,20 @@
 prov=READ-COOP:name=PyLaia@Transkribus:version=0.7.1:model_id=40804:date=04_07_2022_13:21
 Transkribus</Creator>
         <Created>2021-12-14T11:22:44.921+01:00</Created>
-        <LastChange>2022-12-07T16:13:37.172+01:00</LastChange>
+        <LastChange>2023-07-26T12:28:18.425+02:00</LastChange>
         <Comments>
                 Measurement unit: pixel
                 PrimaryLanguage: 
                 Producer: Transkribus
             </Comments>
-        <TranskribusMetadata docId="1256538" pageId="50892348" pageNr="2" tsid="105748324" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=HZNZTQXQSBMUYFTOKJNSVOXV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ONXEBXCYLEOUEUOGMGFBQJLM" imageId="27308943"/>
+        <TranskribusMetadata docId="1256538" pageId="50892348" pageNr="2" tsid="130936414" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=HZNZTQXQSBMUYFTOKJNSVOXV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OCLXQGUQBGMKRVPPXZCZBJKD" imageId="27308943"/>
     </Metadata>
     <Page imageFilename="1829_73_0295.jpg" imageWidth="8664" imageHeight="6408">
         <PrintSpace>
             <Coords points="624,271 8101,229 8081,5989 604,6031"/>
         </PrintSpace>
         <ReadingOrder>
-            <OrderedGroup id="ro_1670487783188" caption="Regions reading order">
+            <OrderedGroup id="ro_1690386034913" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
                 <RegionRefIndexed index="1" regionRef="r2"/>
                 <RegionRefIndexed index="2" regionRef="r3"/>
@@ -2439,7 +2439,7 @@ chend darthun.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r25l6" custom="readingOrder {index:5;}">
-                <Coords points="6185,2887 7815,2881 7837,2881 7971,2895 7989,2938 8031,2933 7837,2945 6669,2954 6457,2954 6274,2952 6185,2942"/>
+                <Coords points="7815,2881 6185,2887 6185,2942 6274,2952 6457,2954 6669,2954 7837,2945 7989,2938 8031,2933 7971,2895 7837,2881"/>
                 <Baseline points="6185,2942 6372,2939 6412,2940 6669,2941 6711,2941 6840,2941 6880,2941 7081,2939 7126,2939 7448,2938 7498,2937 7598,2936 7649,2935 7837,2934 7867,2934 7971,2933"/>
                 <TextEquiv>
                     <Unicode>Kohan Wrßowiz 1003 toͤdtlich verwundet, und darauf von</Unicode>

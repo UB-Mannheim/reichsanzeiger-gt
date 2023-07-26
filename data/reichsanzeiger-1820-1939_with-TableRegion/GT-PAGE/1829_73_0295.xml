@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
     <Metadata>
         <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.7.1:model_id=40804:lm=none:date=04_07_2022_13:21
@@ -18,7 +18,7 @@ Transkribus</Creator>
             <Coords points="624,271 8101,229 8081,5989 604,6031"/>
         </PrintSpace>
         <ReadingOrder>
-            <OrderedGroup id="ro_1670486884255" caption="Regions reading order">
+            <OrderedGroup id="ro_1690360019581" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
                 <RegionRefIndexed index="1" regionRef="r2"/>
                 <RegionRefIndexed index="2" regionRef="r3"/>
@@ -2439,7 +2439,7 @@ chend darthun.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r25l6" custom="readingOrder {index:5;}">
-                <Coords points="6185,2887 7815,2881 7837,2881 7971,2895 7989,2938 8031,2933 7837,2945 6669,2954 6457,2954 6274,2952 6185,2942"/>
+                <Coords points="7815,2881 6185,2887 6185,2942 6274,2952 6457,2954 6669,2954 7837,2945 7989,2938 8031,2933 7971,2895 7837,2881"/>
                 <Baseline points="6185,2942 6372,2939 6412,2940 6669,2941 6711,2941 6840,2941 6880,2941 7081,2939 7126,2939 7448,2938 7498,2937 7598,2936 7649,2935 7837,2934 7867,2934 7971,2933"/>
                 <TextEquiv>
                     <Unicode>Kohan Wrßowiz 1003 toͤdtlich verwundet, und darauf von</Unicode>

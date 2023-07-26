@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
     <Metadata>
         <Creator>Transkribus</Creator>
@@ -16,7 +16,7 @@
             <Coords points="5208,220 9689,321 9712,6601 5058,6569"/>
         </PrintSpace>
         <ReadingOrder>
-            <OrderedGroup id="ro_1670486865574" caption="Regions reading order">
+            <OrderedGroup id="ro_1690359980813" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
                 <RegionRefIndexed index="1" regionRef="r2"/>
                 <RegionRefIndexed index="2" regionRef="r3"/>
@@ -32,7 +32,7 @@
         <TextRegion type="header" id="r1" custom="readingOrder {index:0;} structure {type:header;}">
             <Coords points="6095,356 8710,386 8710,693 6095,663"/>
             <TextLine id="r1l1" custom="readingOrder {index:0;}">
-                <Coords points="6179,401 8692,401 8692,670 6708,622 6182,616 6179,401"/>
+                <Coords points="6179,401 8692,401 8692,670 6708,622 6182,616"/>
                 <Baseline points="6179,597 8689,629"/>
                 <TextEquiv>
                     <Unicode>Deutſcher Reichsanzeiger</Unicode>
@@ -45,7 +45,7 @@
         <TextRegion type="header" id="r2" custom="readingOrder {index:1;} structure {type:header;}">
             <Coords points="7326,708 7539,704 7535,806 7322,810"/>
             <TextLine id="r2l1" custom="readingOrder {index:0;}">
-                <Coords points="7352,720 7511,717 7511,717 7508,793 7349,796 7352,720"/>
+                <Coords points="7352,720 7511,717 7508,793 7349,796"/>
                 <Baseline points="7352,787 7510,787"/>
                 <TextEquiv>
                     <Unicode>und</Unicode>
@@ -58,7 +58,7 @@
         <TextRegion type="header" id="r3" custom="readingOrder {index:2;} structure {type:header;}">
             <Coords points="5509,876 9344,876 9344,1194 5509,1194"/>
             <TextLine id="r3l1" custom="readingOrder {index:0;}">
-                <Coords points="5523,880 9330,954 9330,1193 5523,1119 5523,880"/>
+                <Coords points="5523,880 9330,954 9330,1193 5523,1119"/>
                 <Baseline points="5526,1075 9324,1139"/>
                 <TextEquiv>
                     <Unicode>Königlich Preußiſcher Staatsanzeiger.</Unicode>
@@ -74,7 +74,7 @@
         <TextRegion type="header" id="r4" custom="readingOrder {index:4;} structure {type:header;}">
             <Coords points="5259,1622 6044,1640 6066,1740 5260,1735"/>
             <TextLine id="r4l1" custom="readingOrder {index:0;}">
-                <Coords points="5276,1633 6040,1646 6039,1732 5277,1718 5276,1633"/>
+                <Coords points="5276,1633 6040,1646 6039,1732 5277,1718"/>
                 <Baseline points="5281,1711 6036,1720"/>
                 <TextEquiv>
                     <Unicode>Sonderausgabe.</Unicode>
@@ -100,7 +100,7 @@
         <TextRegion type="header" id="r6" custom="readingOrder {index:6;} structure {type:header;}">
             <Coords points="9256,1679 9600,1685 9604,1781 9260,1775"/>
             <TextLine id="r6l1" custom="readingOrder {index:0;}">
-                <Coords points="9256,1679 9370,1681 9563,1698 9596,1745 9596,1772 9442,1778 9260,1775 9256,1679"/>
+                <Coords points="9256,1679 9370,1681 9563,1698 9596,1745 9596,1772 9442,1778 9260,1775"/>
                 <Baseline points="9260,1772 9596,1772"/>
                 <TextEquiv>
                     <Unicode>1914.</Unicode>
@@ -113,7 +113,7 @@
         <TextRegion type="heading" id="r7" custom="readingOrder {index:7;} structure {type:heading;}">
             <Coords points="6029,2577 8854,2607 8854,2761 6029,2739"/>
             <TextLine id="r7l1" custom="readingOrder {index:0;}">
-                <Coords points="6049,2608 6152,2608 6939,2616 8279,2632 8504,2637 8658,2642 8819,2669 8819,2736 8279,2749 8132,2749 6545,2731 6049,2703 6049,2608"/>
+                <Coords points="6049,2608 6152,2608 6939,2616 8279,2632 8504,2637 8658,2642 8819,2669 8819,2736 8279,2749 8132,2749 6545,2731 6049,2703"/>
                 <Baseline points="6049,2703 6225,2705 6289,2706 6475,2707 6545,2708 6977,2712 7040,2713 7317,2717 7374,2718 7576,2720 7639,2721 7792,2723 7858,2724 8279,2730 8345,2731 8819,2736"/>
                 <TextEquiv>
                     <Unicode>An das deutſche Heer und die deutſche Marine.</Unicode>
@@ -126,77 +126,77 @@
         <TextRegion type="paragraph" id="r8" custom="readingOrder {index:8;} structure {type:paragraph;}">
             <Coords points="5219,2892 9610,2897 9611,4396 5222,4396"/>
             <TextLine id="r8l1" custom="readingOrder {index:0;}">
-                <Coords points="5540,2920 5716,2916 5716,2916 5932,2916 8621,2955 8664,2971 8664,3019 8621,3029 8193,3029 7878,3027 5716,3005 5570,2997 5540,2982 5540,2920"/>
+                <Coords points="5540,2920 5716,2916 5932,2916 8621,2955 8664,2971 8664,3019 8621,3029 8193,3029 7878,3027 5716,3005 5570,2997 5540,2982"/>
                 <Baseline points="5540,2981 5674,2983 5716,2983 6358,2991 6401,2991 6754,2996 6796,2996 6909,2997 6950,2998 7044,2999 7089,3000 7166,3001 7210,3001 7429,3004 7471,3004 7783,3008 7825,3009 8151,3013 8193,3013 8250,3014 8291,3015 8394,3016 8437,3017 8664,3019"/>
                 <TextEquiv>
                     <Unicode>Nach dreiundvierzigjähriger Friedenszeit rufe Ich die deutſche wehrfähige Mannſchaft zu den Waffen.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r8l2" custom="readingOrder {index:1;}">
-                <Coords points="5536,3047 5602,3046 5602,3046 6024,3046 8643,3080 8761,3084 8761,3144 8670,3158 8528,3158 7844,3151 5765,3125 5602,3122 5536,3107 5536,3047"/>
+                <Coords points="5536,3047 5602,3046 6024,3046 8643,3080 8761,3084 8761,3144 8670,3158 8528,3158 7844,3151 5765,3125 5602,3122 5536,3107"/>
                 <Baseline points="5536,3107 5721,3109 5765,3109 6024,3112 6070,3113 6266,3115 6308,3116 6407,3117 6451,3117 6768,3121 6813,3122 6907,3123 6953,3123 7159,3126 7202,3126 7339,3128 7385,3128 7485,3130 7526,3130 7583,3131 7624,3131 7785,3133 7827,3134 8081,3137 8123,3137 8386,3140 8428,3141 8486,3142 8528,3142 8761,3143"/>
                 <TextEquiv>
                     <Unicode>Unſere heiligſten Güter, das Vaterland, den eigenen Herd gilt es gegen ruchloſen Ueberfall zu ſchützen!</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r8l3" custom="readingOrder {index:2;}">
-                <Coords points="5531,3172 5699,3172 6860,3183 8509,3203 8753,3207 8898,3223 8898,3270 8509,3279 8365,3279 8190,3278 6549,3261 5531,3249 5531,3172"/>
+                <Coords points="5531,3172 5699,3172 6860,3183 8509,3203 8753,3207 8898,3223 8898,3270 8509,3279 8365,3279 8190,3278 6549,3261 5531,3249"/>
                 <Baseline points="5531,3233 5728,3235 5771,3236 6039,3239 6112,3239 6236,3241 6281,3241 6334,3242 6378,3242 6475,3243 6521,3244 6860,3248 6903,3248 6990,3249 7030,3249 7187,3251 7282,3252 7382,3254 7426,3254 7651,3257 7694,3257 7912,3260 7952,3260 8109,3262 8153,3262 8320,3264 8365,3265 8528,3267 8571,3267 8679,3268 8723,3269 8898,3258"/>
                 <TextEquiv>
                     <Unicode>Feinde ringsum! Das iſt das Kennzeichen der Lage. Ein ſchwerer Kampf, große Opfer ſtehen uns bevor.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r8l4" custom="readingOrder {index:3;}">
-                <Coords points="5530,3297 5592,3297 6075,3301 7612,3315 9547,3334 9588,3338 9588,3408 9547,3420 9424,3420 5530,3374 5530,3297"/>
+                <Coords points="5530,3297 5592,3297 6075,3301 7612,3315 9547,3334 9588,3338 9588,3408 9547,3420 9424,3420 5530,3374"/>
                 <Baseline points="5530,3359 5624,3360 5670,3361 5927,3363 5973,3364 6075,3365 6118,3365 6208,3366 6256,3367 6359,3368 6402,3368 6713,3371 6755,3372 6892,3373 6942,3373 7059,3375 7108,3375 7162,3376 7214,3376 7328,3377 7378,3378 7632,3380 7673,3381 7835,3383 7881,3383 8000,3385 8053,3386 8197,3387 8237,3388 8516,3391 8559,3392 8871,3396 8913,3396 9073,3396 9120,3397 9208,3397 9251,3398 9345,3399 9393,3399 9588,3405"/>
                 <TextEquiv>
                     <Unicode>Ich vertraue, daß der alte kriegeriſche Geiſt noch in dem deutſchen Volke lebt, jener gewaltige kriegeriſche Geiſt, der den Feind,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r8l5" custom="readingOrder {index:4;}">
-                <Coords points="5220,3423 5278,3415 5551,3415 9093,3459 9122,3460 9122,3522 9093,3534 8776,3534 5282,3490 5220,3488 5220,3423"/>
+                <Coords points="5220,3423 5278,3415 5551,3415 9093,3459 9122,3460 9122,3522 9093,3534 8776,3534 5282,3490 5220,3488"/>
                 <Baseline points="5313,3479 5346,3481 5415,3481 5448,3482 5527,3483 5551,3483 5804,3486 5831,3486 6078,3487 6120,3488 6249,3489 6291,3490 6366,3490 6411,3491 6530,3492 6574,3493 6629,3493 6676,3494 6844,3495 6893,3496 6981,3497 7023,3498 7125,3499 7165,3500 7309,3502 7347,3501 7431,3502 7470,3503 7656,3505 7698,3505 7804,3507 7852,3507 7937,3508 7977,3509 8240,3513 8278,3513 8491,3515 8533,3516 8733,3518 8776,3518 9004,3520 9047,3521 9122,3522"/>
                 <TextEquiv>
                     <Unicode>wo er ihn findet, angreift, koſte es, was es wolle, der von jeher die Furcht und der Schrecken unſerer Feinde geweſen iſt.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r8l6" custom="readingOrder {index:5;}">
-                <Coords points="5528,3542 5598,3542 9598,3558 9594,3672 9529,3672 5528,3620 5528,3542"/>
+                <Coords points="5528,3542 5598,3542 9598,3558 9594,3672 9529,3672 5528,3620"/>
                 <Baseline points="5528,3605 5622,3606 5668,3606 5908,3609 5959,3610 6056,3611 6103,3612 6261,3612 6313,3613 6426,3615 6473,3615 6732,3619 6775,3619 7067,3623 7150,3624 7241,3625 7292,3625 7452,3627 7500,3628 7604,3629 7652,3630 7785,3631 7836,3631 7941,3633 7987,3634 8078,3635 8125,3636 8282,3638 8336,3638 8482,3639 8532,3640 8694,3641 8743,3641 8805,3642 8855,3642 9213,3647 9266,3647 9420,3649 9469,3649 9598,3651"/>
                 <TextEquiv>
                     <Unicode>Ich vertraue auf Euch, Ihr deutſchen Soldaten! In jedem von Euch lebt der heiße, durch nichts zu bezwingende Wille zum</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r8l7" custom="readingOrder {index:6;}">
-                <Coords points="5247,3669 5624,3669 6181,3674 6652,3679 6820,3681 7556,3693 7639,3708 7639,3754 7467,3766 7348,3767 7328,3767 5517,3748 5355,3745 5247,3730 5247,3669"/>
+                <Coords points="5247,3669 5624,3669 6181,3674 6652,3679 6820,3681 7556,3693 7639,3708 7639,3754 7467,3766 7348,3767 7328,3767 5517,3748 5355,3745 5247,3730"/>
                 <Baseline points="5247,3729 5431,3730 5517,3731 5684,3732 5724,3733 5830,3735 5872,3735 6005,3736 6051,3737 6203,3738 6253,3739 6404,3740 6448,3741 6503,3741 6550,3742 6652,3743 6699,3743 6840,3745 6889,3746 6987,3747 7029,3748 7111,3749 7152,3749 7290,3751 7328,3751 7388,3752 7434,3753 7639,3742"/>
                 <TextEquiv>
                     <Unicode>Siege. Jeder von Euch weiß, wenn es ſein muß, wie ein Held zu ſterben.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r8l8" custom="readingOrder {index:7;}">
-                <Coords points="5526,3797 5609,3796 5609,3796 5639,3796 6004,3798 6584,3803 7035,3810 7130,3815 7130,3874 7035,3884 6936,3886 6714,3886 6048,3877 5872,3874 5526,3859 5526,3797"/>
+                <Coords points="5526,3797 5609,3796 5639,3796 6004,3798 6584,3803 7035,3810 7130,3815 7130,3874 7035,3884 6936,3886 6714,3886 6048,3877 5872,3874 5526,3859"/>
                 <Baseline points="5526,3859 5753,3860 5798,3860 6004,3862 6048,3863 6249,3865 6291,3865 6635,3869 6681,3869 7130,3874"/>
                 <TextEquiv>
                     <Unicode>Gedenkt unſerer großen ruhmreichen Vergangenheit!</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r8l9" custom="readingOrder {index:8;}">
-                <Coords points="5522,3924 5911,3924 6497,3931 6532,3934 6532,3993 6444,4006 6110,4006 5955,4004 5522,3987 5522,3924"/>
+                <Coords points="5522,3924 5911,3924 6497,3931 6532,3934 6532,3993 6444,4006 6110,4006 5955,4004 5522,3987"/>
                 <Baseline points="5522,3986 5768,3989 5814,3988 5911,3988 5955,3988 6068,3990 6110,3990 6355,3992 6398,3992 6532,3993"/>
                 <TextEquiv>
                     <Unicode>Gedenkt, daß Ihr Deutſche ſeid!</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r8l10" custom="readingOrder {index:9;}">
-                <Coords points="5522,4050 5727,4050 5805,4051 6006,4054 6006,4114 5805,4126 5781,4126 5698,4125 5522,4113 5522,4050"/>
+                <Coords points="5522,4050 5727,4050 5805,4051 6006,4054 6006,4114 5805,4126 5781,4126 5698,4125 5522,4113"/>
                 <Baseline points="5522,4113 5656,4113 5698,4113 5831,4113 5872,4114 6006,4099"/>
                 <TextEquiv>
                     <Unicode>Gott helfe uns!</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r8l11" custom="readingOrder {index:10;}">
-                <Coords points="5659,4266 5741,4266 6043,4268 6915,4276 6915,4338 6698,4350 6619,4351 6569,4351 6003,4348 5701,4337 5659,4330 5659,4266"/>
+                <Coords points="5659,4266 5741,4266 6043,4268 6915,4276 6915,4338 6698,4350 6619,4351 6569,4351 6003,4348 5701,4337 5659,4330"/>
                 <Baseline points="5659,4329 5907,4333 5953,4334 6209,4340 6258,4345 6350,4334 6395,4335 6450,4335 6495,4335 6698,4337 6746,4337 6915,4338"/>
                 <TextEquiv>
                     <Unicode>Berlin, Schloß, den 6. Auguſt 1914.</Unicode>
@@ -219,7 +219,7 @@ Berlin, Schloß, den 6. Auguſt 1914.</Unicode>
         <TextRegion type="paragraph" id="r9" custom="readingOrder {index:9;} structure {type:paragraph;}">
             <Coords points="7874,4620 8599,4620 8599,4775 7874,4775"/>
             <TextLine id="r9l1" custom="readingOrder {index:0;}">
-                <Coords points="7890,4637 8484,4637 8583,4670 8583,4739 8484,4756 7982,4756 7890,4734 7890,4637"/>
+                <Coords points="7890,4637 8484,4637 8583,4670 8583,4739 8484,4756 7982,4756 7890,4734"/>
                 <Baseline points="7890,4733 8583,4739"/>
                 <TextEquiv>
                     <Unicode>Wilhelm.</Unicode>
@@ -232,14 +232,14 @@ Berlin, Schloß, den 6. Auguſt 1914.</Unicode>
         <TextRegion type="footnote" id="r10" custom="readingOrder {index:10;} structure {type:footnote;}">
             <Coords points="6236,6410 8480,6419 8482,6554 6236,6554"/>
             <TextLine id="r10l1" custom="readingOrder {index:0;}">
-                <Coords points="6253,6422 6882,6422 7308,6424 7498,6426 8362,6436 8433,6437 8466,6449 8466,6476 8235,6482 8136,6482 6277,6468 6253,6462 6253,6422"/>
+                <Coords points="6253,6422 6882,6422 7308,6424 7498,6426 8362,6436 8433,6437 8466,6449 8466,6476 8235,6482 8136,6482 6277,6468 6253,6462"/>
                 <Baseline points="6253,6461 6580,6461 6604,6461 6813,6460 6851,6460 6892,6459 6918,6460 6987,6461 7026,6462 7179,6463 7206,6463 7245,6463 7271,6463 7409,6463 7462,6464 7594,6466 7617,6466 7672,6467 7699,6468 7906,6471 7929,6471 7986,6471 8014,6473 8082,6472 8107,6473 8235,6475 8259,6475 8292,6475 8320,6475 8466,6475"/>
                 <TextEquiv>
                     <Unicode>Verantwortlicher Redakteur: J. V.: Weber in Berlin. Verlag der Expedition (J. V.: Koye) in Berlin.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r10l2" custom="readingOrder {index:1;}">
-                <Coords points="6380,6492 6404,6490 7144,6490 7587,6493 8245,6503 8334,6505 8346,6532 8345,6546 8333,6547 8157,6551 7922,6551 6623,6538 6380,6531 6380,6492"/>
+                <Coords points="6380,6492 6404,6490 7144,6490 7587,6493 8245,6503 8334,6505 8346,6532 8345,6546 8333,6547 8157,6551 7922,6551 6623,6538 6380,6531"/>
                 <Baseline points="6380,6531 6491,6529 6516,6529 6573,6529 6595,6530 6866,6530 6889,6530 7144,6531 7169,6531 7240,6532 7267,6532 7587,6535 7612,6536 7744,6537 7769,6537 7871,6539 7897,6539 8176,6543 8200,6543 8262,6543 8287,6543 8346,6539"/>
                 <TextEquiv>
                     <Unicode>Druck der Norddeutſchen Buchdruckerei und Verlags⸗Anſtalt, Berlin SW., Wilhelmſtraße Nr. 32.</Unicode>

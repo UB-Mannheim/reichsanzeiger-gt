@@ -28,6 +28,9 @@ All transcriptions were created using [Transkribus](https://readcoop.eu/transkri
 - Long s (ſ)
 - Currency symbols: German Mark (ℳ) and Pfennig (₰), $, £
 - Fractions (¼ ½ ¾ ⅐ ⅑ ⅒ ⅓ ⅔ ⅕ ⅖ ⅗ ⅘ ⅙ ⅚ ⅛ ⅜ ⅝ ⅞)
+- Fraction slash (⁄) (U+2044), if
+    - can't be transcribed by a unicode fraction representation
+    - numerator and denominator are not on the same baseline height
 - R rotunda (ꝛ)
 - Combining Latin Small Letter E for old German Umlaut ( ͤ )
 - Dagger (†)

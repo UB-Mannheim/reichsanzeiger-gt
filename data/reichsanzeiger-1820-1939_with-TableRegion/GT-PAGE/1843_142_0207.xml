@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
     <Metadata>
         <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.7.1:model_id=40804:lm=none:date=04_07_2022_16:21
@@ -18,7 +18,7 @@ Transkribus</Creator>
             <Coords points="296,287 9644,287 9650,6413 302,6413"/>
         </PrintSpace>
         <ReadingOrder>
-            <OrderedGroup id="ro_1670486883730" caption="Regions reading order">
+            <OrderedGroup id="ro_1690360017329" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
                 <RegionRefIndexed index="1" regionRef="r2"/>
                 <RegionRefIndexed index="2" regionRef="r3"/>
@@ -1337,7 +1337,7 @@ Geſellſchaft.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r20l18" custom="readingOrder {index:17;}">
-                <Coords points="1617,2182 1806,2172 1878,2172 1890,2175 1890,2215 1891,2215 1819,2215 1617,2223"/>
+                <Coords points="1617,2182 1806,2172 1878,2172 1890,2175 1890,2215 1819,2215 1617,2223"/>
                 <Baseline points="1617,2213 1806,2210 1865,2209 1878,2209 1887,2206"/>
                 <TextEquiv>
                     <Unicode>Punkte ab⸗</Unicode>
