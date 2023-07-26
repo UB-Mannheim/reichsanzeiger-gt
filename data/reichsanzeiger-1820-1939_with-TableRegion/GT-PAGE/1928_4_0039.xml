@@ -1,24 +1,24 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
     <Metadata>
         <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.7.4:model_id=40804:lm=provided:date=08_09_2022_22:03
 prov=READ-COOP:name=PyLaia@Transkribus:version=0.7.4:model_id=40804:lm=provided:date=08_09_2022_22:03
 Transkribus</Creator>
         <Created>2022-07-11T15:58:14.772+02:00</Created>
-        <LastChange>2022-12-07T16:02:57.294+01:00</LastChange>
+        <LastChange>2023-06-13T16:40:06.138+02:00</LastChange>
         <Comments>
                 Measurement unit: pixel
                 PrimaryLanguage: 
                 Producer: Transkribus
             </Comments>
-        <TranskribusMetadata docId="1086109" pageId="44913501" pageNr="7" tsid="105747638" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=TDCAMVBACTPJRTIEYJHEKRFJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EQJSAFZCWDLCOVFMLIDNEVIY" imageId="36438822"/>
+        <TranskribusMetadata docId="1086109" pageId="44913501" pageNr="7" tsid="126873972" status="GT" userId="109938" imgUrl="https://files.transkribus.eu/Get?id=TDCAMVBACTPJRTIEYJHEKRFJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MUNEPSAGWXHUTOJEWCWAVUBS" imageId="36438822"/>
     </Metadata>
     <Page imageFilename="1928_4_0039.jpg" imageWidth="10712" imageHeight="7512">
         <PrintSpace>
             <Coords points="99,484 10599,484 10599,7507 99,7507"/>
         </PrintSpace>
         <ReadingOrder>
-            <OrderedGroup id="ro_1670486860044" caption="Regions reading order">
+            <OrderedGroup id="ro_1690359975196" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
                 <RegionRefIndexed index="1" regionRef="r2"/>
                 <RegionRefIndexed index="2" regionRef="r3"/>
@@ -284,7 +284,7 @@ den 29. Dezember 1927.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l6" custom="readingOrder {index:5;}">
-                <Coords points="971,1650 990,1649 1230,1645 1498,1643 1498,1643 1586,1643 1613,1644 1624,1670 1624,1684 1555,1685 1324,1688 1169,1690 1081,1690 971,1684"/>
+                <Coords points="971,1650 990,1649 1230,1645 1498,1643 1586,1643 1613,1644 1624,1670 1624,1684 1555,1685 1324,1688 1169,1690 1081,1690 971,1684"/>
                 <Baseline points="971,1683 1197,1681 1230,1680 1436,1679 1467,1679 1622,1677"/>
                 <TextEquiv>
                     <Unicode>Amtsgericht Lengenfeld (Vogtl.),</Unicode>
@@ -462,7 +462,7 @@ Amtsgericht Lößnitz, 29. Dezember 1927.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r7l8" custom="readingOrder {index:7;}">
-                <Coords points="904,2500 996,2498 1504,2493 1504,2493 1641,2493 1700,2502 1700,2534 1082,2541 996,2541 904,2534"/>
+                <Coords points="904,2500 996,2498 1504,2493 1641,2493 1700,2502 1700,2534 1082,2541 996,2541 904,2534"/>
                 <Baseline points="904,2534 1180,2531 1345,2530 1700,2526"/>
                 <TextEquiv>
                     <Unicode>22. Dezember 1927 iſt die Beſtellung</Unicode>
@@ -490,14 +490,14 @@ Amtsgericht Lößnitz, 29. Dezember 1927.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r7l12" custom="readingOrder {index:11;}">
-                <Coords points="905,2674 969,2673 1333,2669 1333,2669 1446,2669 1463,2678 1463,2705 1446,2709 1241,2714 1065,2715 1025,2715 905,2709"/>
+                <Coords points="905,2674 969,2673 1333,2669 1446,2669 1463,2678 1463,2705 1446,2709 1241,2714 1065,2715 1025,2715 905,2709"/>
                 <Baseline points="905,2708 942,2708 969,2708 1065,2707 1090,2707 1305,2705 1333,2705 1463,2705"/>
                 <TextEquiv>
                     <Unicode>in Groß Lichterfelde beſtellt.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r7l13" custom="readingOrder {index:12;}">
-                <Coords points="1051,2718 1149,2715 1371,2713 1371,2713 1507,2713 1529,2714 1558,2721 1558,2755 1178,2756 1149,2756 1051,2752"/>
+                <Coords points="1051,2718 1149,2715 1371,2713 1507,2713 1529,2714 1558,2721 1558,2755 1178,2756 1149,2756 1051,2752"/>
                 <Baseline points="1051,2752 1558,2746"/>
                 <TextEquiv>
                     <Unicode>Amtsgericht Luckenwalde,</Unicode>
@@ -550,7 +550,7 @@ den 27. Dezember 1927.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r9l2" custom="readingOrder {index:1;}">
-                <Coords points="956,2870 1168,2866 1537,2865 1537,2865 1583,2865 1702,2867 1702,2896 1625,2903 1442,2910 984,2911 956,2911"/>
+                <Coords points="956,2870 1168,2866 1537,2865 1583,2865 1702,2867 1702,2896 1625,2903 1442,2910 984,2911 956,2911"/>
                 <Baseline points="956,2903 1009,2903 1033,2902 1132,2902 1153,2902 1442,2899 1469,2899 1583,2897 1616,2897 1702,2895"/>
                 <TextEquiv>
                     <Unicode>In unſer Handelsregiſter wurde heute</Unicode>
@@ -571,7 +571,7 @@ den 27. Dezember 1927.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r9l5" custom="readingOrder {index:4;}">
-                <Coords points="909,3011 935,3001 1260,2997 1423,2996 1602,2995 1602,2995 1649,2995 1704,2996 1704,3033 1649,3036 1396,3039 1375,3039 1103,3038 909,3036"/>
+                <Coords points="909,3011 935,3001 1260,2997 1423,2996 1602,2995 1649,2995 1704,2996 1704,3033 1649,3036 1396,3039 1375,3039 1103,3038 909,3036"/>
                 <Baseline points="909,3035 1074,3033 1260,3031 1704,3027"/>
                 <TextEquiv>
                     <Unicode>mit dem Sitz in Mainz, Mitternacht 4,</Unicode>
@@ -613,14 +613,14 @@ den 27. Dezember 1927.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r9l11" custom="readingOrder {index:10;}">
-                <Coords points="954,3261 1288,3259 1517,3258 1517,3258 1593,3258 1593,3293 1361,3302 1091,3304 981,3304 954,3296"/>
+                <Coords points="954,3261 1288,3259 1517,3258 1593,3258 1593,3293 1361,3302 1091,3304 981,3304 954,3296"/>
                 <Baseline points="954,3296 1178,3295 1288,3294 1471,3293 1593,3293"/>
                 <TextEquiv>
                     <Unicode>Mainz, den 29. Dezember 1927.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r9l12" custom="readingOrder {index:11;}">
-                <Coords points="1132,3304 1150,3303 1438,3302 1438,3302 1457,3302 1483,3305 1483,3336 1457,3344 1373,3345 1204,3347 1150,3347 1132,3346"/>
+                <Coords points="1132,3304 1150,3303 1438,3302 1457,3302 1483,3305 1483,3336 1457,3344 1373,3345 1204,3347 1150,3347 1132,3346"/>
                 <Baseline points="1132,3339 1214,3338 1242,3338 1483,3336"/>
                 <TextEquiv>
                     <Unicode>Heſſ. Amtsgericht.</Unicode>
@@ -644,7 +644,7 @@ Heſſ. Amtsgericht.</Unicode>
         <TextRegion id="r10" custom="readingOrder {index:9;} structure {type:reference;}">
             <Coords points="1564,3359 1715,3359 1714,3409 1564,3411"/>
             <TextLine id="r10l1" custom="readingOrder {index:0;}">
-                <Coords points="1570,3366 1630,3364 1630,3364 1693,3364 1706,3365 1706,3407 1649,3408 1570,3408"/>
+                <Coords points="1570,3366 1630,3364 1693,3364 1706,3365 1706,3407 1649,3408 1570,3408"/>
                 <Baseline points="1570,3400 1706,3398"/>
                 <TextEquiv>
                     <Unicode>[83903]</Unicode>
@@ -699,7 +699,7 @@ Heſſ. Amtsgericht.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r11l7" custom="readingOrder {index:6;}">
-                <Coords points="910,3632 1349,3628 1487,3627 1691,3626 1691,3626 1710,3626 1710,3669 922,3676 910,3676"/>
+                <Coords points="910,3632 1349,3628 1487,3627 1691,3626 1710,3626 1710,3669 922,3676 910,3676"/>
                 <Baseline points="910,3666 1148,3666 1185,3665 1216,3665 1254,3665 1314,3664 1349,3664 1452,3663 1487,3663 1611,3662 1645,3661 1710,3661"/>
                 <TextEquiv>
                     <Unicode>ſamtprokura in der Weiſe erteilt, daß</Unicode>
@@ -748,7 +748,7 @@ Heſſ. Amtsgericht.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r11l14" custom="readingOrder {index:13;}">
-                <Coords points="1136,3936 1187,3935 1415,3933 1415,3933 1465,3933 1486,3936 1486,3967 1465,3976 1165,3979 1136,3979"/>
+                <Coords points="1136,3936 1187,3935 1415,3933 1465,3933 1486,3936 1486,3967 1465,3976 1165,3979 1136,3979"/>
                 <Baseline points="1136,3972 1484,3968"/>
                 <TextEquiv>
                     <Unicode>Heſſ. Amtsgericht.</Unicode>
@@ -991,7 +991,7 @@ Heſſ. Amtsgericht.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r15l15" custom="readingOrder {index:14;}">
-                <Coords points="918,5116 1144,5113 1447,5109 1447,5109 1586,5109 1606,5118 1606,5145 1586,5151 1035,5159 1004,5159 918,5151"/>
+                <Coords points="918,5116 1144,5113 1447,5109 1586,5109 1606,5118 1606,5145 1586,5151 1035,5159 1004,5159 918,5151"/>
                 <Baseline points="919,5152 1144,5149 1322,5146 1447,5145 1606,5145"/>
                 <TextEquiv>
                     <Unicode>des Jules Catteau bleibt beſtehen.</Unicode>
@@ -1005,7 +1005,7 @@ Heſſ. Amtsgericht.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r15l17" custom="readingOrder {index:16;}">
-                <Coords points="1145,5202 1163,5200 1440,5197 1440,5197 1476,5197 1496,5201 1496,5232 1476,5242 1207,5244 1163,5244 1145,5243"/>
+                <Coords points="1145,5202 1163,5200 1440,5197 1476,5197 1496,5201 1496,5232 1476,5242 1207,5244 1163,5244 1145,5243"/>
                 <Baseline points="1145,5237 1225,5235 1255,5235 1496,5232"/>
                 <TextEquiv>
                     <Unicode>Heſſ. Amtsgericht.</Unicode>
@@ -1034,7 +1034,7 @@ Heſſ. Amtsgericht.</Unicode>
         <TextRegion id="r16" custom="readingOrder {index:15;} structure {type:reference;}">
             <Coords points="1572,5256 1733,5254 1733,5304 1572,5307"/>
             <TextLine id="r16l1" custom="readingOrder {index:0;}">
-                <Coords points="1580,5261 1704,5258 1704,5258 1717,5258 1717,5301 1592,5302 1580,5302"/>
+                <Coords points="1580,5261 1704,5258 1717,5258 1717,5301 1592,5302 1580,5302"/>
                 <Baseline points="1580,5295 1717,5293"/>
                 <TextEquiv>
                     <Unicode>[83901]</Unicode>
@@ -1124,7 +1124,7 @@ Heſſ. Amtsgericht.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r17l12" custom="readingOrder {index:11;}">
-                <Coords points="921,5747 1523,5740 1523,5740 1603,5740 1720,5741 1720,5774 1372,5785 1364,5785 921,5784"/>
+                <Coords points="921,5747 1523,5740 1603,5740 1720,5741 1720,5774 1372,5785 1364,5785 921,5784"/>
                 <Baseline points="921,5783 1181,5780 1229,5779 1317,5779 1364,5778 1390,5778 1424,5777 1488,5776 1523,5776 1603,5775 1653,5774 1720,5773"/>
                 <TextEquiv>
                     <Unicode>Stammaktien über je 200 RM und</Unicode>
@@ -1291,14 +1291,14 @@ Heſſ. Amtsgericht.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r19l7" custom="readingOrder {index:6;}">
-                <Coords points="925,6552 1005,6549 1304,6545 1304,6545 1626,6545 1724,6553 1724,6586 1107,6593 925,6593"/>
+                <Coords points="925,6552 1005,6549 1304,6545 1626,6545 1724,6553 1724,6586 1107,6593 925,6593"/>
                 <Baseline points="925,6587 1107,6584 1151,6583 1213,6582 1256,6581 1512,6579 1548,6579 1724,6578"/>
                 <TextEquiv>
                     <Unicode>ſellſchaft mit beſchränkter Haftung</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r19l8" custom="readingOrder {index:7;}">
-                <Coords points="924,6596 1253,6591 1476,6589 1604,6588 1604,6588 1630,6588 1723,6590 1723,6622 1311,6634 1059,6634 924,6632"/>
+                <Coords points="924,6596 1253,6591 1476,6589 1604,6588 1630,6588 1723,6590 1723,6622 1311,6634 1059,6634 924,6632"/>
                 <Baseline points="924,6631 1311,6624 1723,6622"/>
                 <TextEquiv>
                     <Unicode>in Liquidation“, 3. „Saar⸗Land⸗</Unicode>
@@ -1387,7 +1387,7 @@ Schönauer II.“ (Mainz⸗Kaſtel),
                 </TextEquiv>
             </TextLine>
             <TextLine id="r20l4" custom="readingOrder {index:3;}">
-                <Coords points="1951,941 1969,939 2232,938 2232,938 2283,938 2302,942 2302,976 2283,981 1992,983 1951,983"/>
+                <Coords points="1951,941 1969,939 2232,938 2283,938 2302,942 2302,976 2283,981 1992,983 1951,983"/>
                 <Baseline points="1951,975 2035,974 2061,973 2302,972"/>
                 <TextEquiv>
                     <Unicode>Heſſ. Amtsgericht.</Unicode>
@@ -1477,7 +1477,7 @@ den 28. Dezember 1927.</Unicode>
         <TextRegion id="r23" custom="readingOrder {index:22;} structure {type:reference;}">
             <Coords points="2389,1364 2542,1364 2542,1421 2389,1421"/>
             <TextLine id="r23l1" custom="readingOrder {index:0;}">
-                <Coords points="2393,1372 2431,1369 2431,1369 2528,1369 2528,1412 2451,1414 2393,1414"/>
+                <Coords points="2393,1372 2431,1369 2528,1369 2528,1412 2451,1414 2393,1414"/>
                 <Baseline points="2393,1407 2528,1405"/>
                 <TextEquiv>
                     <Unicode>[82784]</Unicode>
@@ -1560,7 +1560,7 @@ den 28. Dezember 1927.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r24l11" custom="readingOrder {index:10;}">
-                <Coords points="1781,1817 1842,1816 2387,1812 2387,1812 2458,1812 2479,1813 2529,1822 2529,1844 2479,1853 2458,1855 2243,1856 1812,1857 1781,1857"/>
+                <Coords points="1781,1817 1842,1816 2387,1812 2458,1812 2479,1813 2529,1822 2529,1844 2479,1853 2458,1855 2243,1856 1812,1857 1781,1857"/>
                 <Baseline points="1781,1851 2529,1845"/>
                 <TextEquiv>
                     <Unicode>H.⸗R. A 2566/4, zur Firma „Johann</Unicode>
@@ -1623,21 +1623,21 @@ den 28. Dezember 1927.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r24l20" custom="readingOrder {index:19;}">
-                <Coords points="1741,2213 2136,2210 2406,2209 2406,2209 2533,2209 2533,2242 2474,2250 1914,2254 1741,2254"/>
+                <Coords points="1741,2213 2136,2210 2406,2209 2533,2209 2533,2242 2474,2250 1914,2254 1741,2254"/>
                 <Baseline points="1741,2247 1926,2246 1952,2246 1990,2246 2012,2246 2111,2246 2136,2245 2206,2245 2230,2244 2299,2244 2324,2244 2379,2243 2406,2243 2533,2242"/>
                 <TextEquiv>
                     <Unicode>Schnitzler iſt durch Tod aus der Geſell⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r24l21" custom="readingOrder {index:20;}">
-                <Coords points="1740,2258 1756,2257 1935,2255 2223,2253 2223,2253 2535,2253 2535,2293 2356,2295 2169,2297 1740,2297"/>
+                <Coords points="1740,2258 1756,2257 1935,2255 2223,2253 2535,2253 2535,2293 2356,2295 2169,2297 1740,2297"/>
                 <Baseline points="1740,2291 1840,2290 1895,2290 2169,2289 2223,2288 2441,2285 2499,2285 2535,2286"/>
                 <TextEquiv>
                     <Unicode>ſchaft ausgeſchieden. Gleichzeitig iſt</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r24l22" custom="readingOrder {index:21;}">
-                <Coords points="1742,2302 2040,2298 2409,2297 2409,2297 2503,2297 2536,2304 2536,2332 2491,2338 1831,2343 1742,2343"/>
+                <Coords points="1742,2302 2040,2298 2409,2297 2503,2297 2536,2304 2536,2332 2491,2338 1831,2343 1742,2343"/>
                 <Baseline points="1742,2334 1831,2334 1869,2333 2007,2333 2040,2333 2173,2332 2208,2332 2371,2331 2409,2331 2536,2332"/>
                 <TextEquiv>
                     <Unicode>ſeine Witwe, Aloiſia geborene Birzle,</Unicode>
@@ -1722,7 +1722,7 @@ Amtsgericht M.⸗Gladbach, 20. 12. 1927.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r26l3" custom="readingOrder {index:2;}">
-                <Coords points="1786,2607 2211,2604 2413,2603 2413,2603 2457,2603 2535,2611 2535,2637 2497,2643 2206,2647 1816,2648 1786,2648"/>
+                <Coords points="1786,2607 2211,2604 2413,2603 2457,2603 2535,2611 2535,2637 2497,2643 2206,2647 1816,2648 1786,2648"/>
                 <Baseline points="1786,2641 2057,2639 2324,2638 2535,2635"/>
                 <TextEquiv>
                     <Unicode>H.⸗R. A 1761 zur Firma „H. Meyer</Unicode>
@@ -2777,7 +2777,7 @@ Das Amtsgericht.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r38l8" custom="readingOrder {index:7;}">
-                <Coords points="2618,1863 3078,1858 3345,1856 3345,1856 3364,1856 3374,1885 3374,1892 3237,1902 2728,1905 2647,1905 2618,1899"/>
+                <Coords points="2618,1863 3078,1858 3345,1856 3364,1856 3374,1885 3374,1892 3237,1902 2728,1905 2647,1905 2618,1899"/>
                 <Baseline points="2618,1899 2844,1897 2934,1896 3010,1896 3263,1893 3374,1892"/>
                 <TextEquiv>
                     <Unicode>Münſter i. W., den 29. Dezember 1927.</Unicode>
@@ -2895,7 +2895,7 @@ Das Amtsgericht.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r40l12" custom="readingOrder {index:11;}">
-                <Coords points="2579,2461 2594,2460 2947,2455 3332,2451 3332,2451 3358,2451 3381,2456 3381,2487 3358,2494 3199,2496 2769,2501 2579,2501"/>
+                <Coords points="2579,2461 2594,2460 2947,2455 3332,2451 3358,2451 3381,2456 3381,2487 3358,2494 3199,2496 2769,2501 2579,2501"/>
                 <Baseline points="2579,2495 2889,2492 3148,2489 3381,2486"/>
                 <TextEquiv>
                     <Unicode>(Grundkapital) entſprechend geändert iſt.</Unicode>
@@ -3293,7 +3293,7 @@ Das Amtsgericht.</Unicode>
         <TextRegion id="r47" custom="readingOrder {index:46;} structure {type:reference;}">
             <Coords points="3250,4374 3410,4372 3410,4423 3252,4426"/>
             <TextLine id="r47l1" custom="readingOrder {index:0;}">
-                <Coords points="3259,4380 3384,4376 3384,4376 3397,4376 3397,4420 3271,4423 3259,4423"/>
+                <Coords points="3259,4380 3384,4376 3397,4376 3397,4420 3271,4423 3259,4423"/>
                 <Baseline points="3262,4415 3397,4414"/>
                 <TextEquiv>
                     <Unicode>[83917]</Unicode>
@@ -3513,7 +3513,7 @@ Amtsgericht Neresheim.</Unicode>
         <TextRegion id="r51" custom="readingOrder {index:50;} structure {type:reference;}">
             <Coords points="3259,5443 3417,5443 3417,5496 3260,5497"/>
             <TextLine id="r51l1" custom="readingOrder {index:0;}">
-                <Coords points="3266,5452 3367,5448 3367,5448 3403,5448 3403,5491 3276,5495 3266,5495"/>
+                <Coords points="3266,5452 3367,5448 3403,5448 3403,5491 3276,5495 3266,5495"/>
                 <Baseline points="3267,5488 3402,5485"/>
                 <TextEquiv>
                     <Unicode>[81432]</Unicode>
@@ -3887,7 +3887,7 @@ Amtsgericht. Abt. 1.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r56l12" custom="readingOrder {index:11;}">
-                <Coords points="3416,1281 3463,1272 3463,1272 3561,1272 3616,1283 3616,1311 3561,1313 3477,1316 3416,1316"/>
+                <Coords points="3416,1281 3463,1272 3561,1272 3616,1283 3616,1311 3561,1313 3477,1316 3416,1316"/>
                 <Baseline points="3416,1307 3616,1306"/>
                 <TextEquiv>
                     <Unicode>geſchloſſen.</Unicode>
@@ -3943,7 +3943,7 @@ Amtsgericht. Abt. 1.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r56l20" custom="readingOrder {index:19;}">
-                <Coords points="3417,1630 3430,1620 3430,1620 3490,1620 3505,1621 3527,1626 3527,1656 3505,1660 3481,1663 3417,1663"/>
+                <Coords points="3417,1630 3430,1620 3490,1620 3505,1621 3527,1626 3527,1656 3505,1660 3481,1663 3417,1663"/>
                 <Baseline points="3417,1655 3527,1654"/>
                 <TextEquiv>
                     <Unicode>gelöſt.</Unicode>
@@ -4034,7 +4034,7 @@ Amtsgericht. Abt. 1.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r56l33" custom="readingOrder {index:32;}">
-                <Coords points="3464,2182 3632,2179 4174,2175 4174,2175 4215,2175 4215,2209 3700,2223 3632,2223 3498,2219 3464,2217"/>
+                <Coords points="3464,2182 3632,2179 4174,2175 4215,2175 4215,2209 3700,2223 3632,2223 3498,2219 3464,2217"/>
                 <Baseline points="3464,2217 3606,2216 3818,2214 3952,2213 4138,2210 4215,2209"/>
                 <TextEquiv>
                     <Unicode>Am 22. Dezember 1927 unter Nr. 129</Unicode>
@@ -4167,14 +4167,14 @@ Amtsgericht. Abt. 1.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r56l52" custom="readingOrder {index:51;}">
-                <Coords points="3429,3006 4185,2994 4185,2994 4223,2994 4223,3037 4071,3040 3712,3045 3486,3048 3468,3048 3429,3042"/>
+                <Coords points="3429,3006 4185,2994 4223,2994 4223,3037 4071,3040 3712,3045 3486,3048 3468,3048 3429,3042"/>
                 <Baseline points="3429,3042 3644,3041 3885,3037 4035,3033 4223,3029"/>
                 <TextEquiv>
                     <Unicode>Liquidation iſt beendet. Die Firma iſt</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r56l53" custom="readingOrder {index:52;}">
-                <Coords points="3428,3061 3466,3051 3502,3050 3502,3050 3551,3050 3589,3059 3589,3084 3551,3091 3502,3091 3428,3085"/>
+                <Coords points="3428,3061 3466,3051 3502,3050 3551,3050 3589,3059 3589,3084 3551,3091 3502,3091 3428,3085"/>
                 <Baseline points="3428,3085 3589,3084"/>
                 <TextEquiv>
                     <Unicode>erloſchen</Unicode>
@@ -4329,7 +4329,7 @@ Amtsgericht Oelsnitz, 28. Dezbr. 1927.</Unicode>
         <TextRegion id="r59" custom="readingOrder {index:58;} structure {type:reference;}">
             <Coords points="4081,3569 4236,3568 4236,3616 4084,3618"/>
             <TextLine id="r59l1" custom="readingOrder {index:0;}">
-                <Coords points="4090,3573 4124,3572 4228,3571 4228,3613 4227,3613 4138,3615 4093,3616"/>
+                <Coords points="4090,3573 4124,3572 4228,3571 4228,3613 4138,3615 4093,3616"/>
                 <Baseline points="4091,3609 4225,3606"/>
                 <TextEquiv>
                     <Unicode>[83923]</Unicode>
@@ -4405,7 +4405,7 @@ Amtsgericht Oelsnitz, 28. Dezbr. 1927.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r60l10" custom="readingOrder {index:9;}">
-                <Coords points="3433,3983 3474,3978 3474,3978 3538,3978 3594,3982 3594,4007 3452,4017 3433,4017"/>
+                <Coords points="3433,3983 3474,3978 3538,3978 3594,3982 3594,4007 3452,4017 3433,4017"/>
                 <Baseline points="3433,4010 3594,4006"/>
                 <TextEquiv>
                     <Unicode>getreten.</Unicode>
@@ -4680,7 +4680,7 @@ Thüring. Amtsgericht.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r66l5" custom="readingOrder {index:4;}">
-                <Coords points="3442,5255 3612,5250 3958,5243 4131,5242 4131,5242 4203,5242 4233,5250 4233,5276 4107,5287 3585,5294 3534,5294 3442,5290"/>
+                <Coords points="3442,5255 3612,5250 3958,5243 4131,5242 4203,5242 4233,5250 4233,5276 4107,5287 3585,5294 3534,5294 3442,5290"/>
                 <Baseline points="3442,5290 3585,5287 3736,5284 3907,5282 4233,5274"/>
                 <TextEquiv>
                     <Unicode>Sileſia G. m. b. H., Königlich Neu⸗</Unicode>
@@ -5040,7 +5040,7 @@ Wanna,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r71l6" custom="readingOrder {index:5;}">
-                <Coords points="4300,1015 4465,1014 4792,1013 4792,1013 5010,1013 5010,1056 4792,1056 4300,1050"/>
+                <Coords points="4300,1015 4465,1014 4792,1013 5010,1013 5010,1056 4792,1056 4300,1050"/>
                 <Baseline points="4300,1050 4362,1050 4465,1049 4591,1050 4758,1049 5010,1049"/>
                 <TextEquiv>
                     <Unicode>Nr. 87. Emil Weinert, Otterndorf,</Unicode>
@@ -5089,7 +5089,7 @@ Wanna,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r71l13" custom="readingOrder {index:12;}">
-                <Coords points="4261,1325 4282,1324 4282,1324 4338,1324 4508,1325 4508,1364 4300,1366 4261,1366"/>
+                <Coords points="4261,1325 4282,1324 4338,1324 4508,1325 4508,1364 4300,1366 4261,1366"/>
                 <Baseline points="4261,1358 4508,1360"/>
                 <TextEquiv>
                     <Unicode>Ihlienworth,</Unicode>
@@ -5131,7 +5131,7 @@ Wanna,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r71l19" custom="readingOrder {index:18;}">
-                <Coords points="4253,1590 4274,1588 4274,1588 4332,1588 4501,1590 4501,1629 4292,1631 4253,1631"/>
+                <Coords points="4253,1590 4274,1588 4332,1588 4501,1590 4501,1629 4292,1631 4253,1631"/>
                 <Baseline points="4253,1624 4501,1624"/>
                 <TextEquiv>
                     <Unicode>Ihlienworth,</Unicode>
@@ -5145,21 +5145,21 @@ Wanna,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r71l21" custom="readingOrder {index:20;}">
-                <Coords points="4251,1678 4284,1677 4284,1677 4331,1677 4499,1678 4499,1718 4281,1720 4251,1720"/>
+                <Coords points="4251,1678 4284,1677 4331,1677 4499,1678 4499,1718 4281,1720 4251,1720"/>
                 <Baseline points="4251,1712 4499,1714"/>
                 <TextEquiv>
                     <Unicode>Ihlienworth,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r71l22" custom="readingOrder {index:21;}">
-                <Coords points="4292,1721 4784,1716 4784,1716 4983,1716 5048,1727 5048,1754 4933,1762 4512,1763 4480,1763 4328,1759 4292,1758"/>
+                <Coords points="4292,1721 4784,1716 4983,1716 5048,1727 5048,1754 4933,1762 4512,1763 4480,1763 4328,1759 4292,1758"/>
                 <Baseline points="4292,1758 4457,1755 4601,1755 4760,1755 5048,1754"/>
                 <TextEquiv>
                     <Unicode>Nr. 110. J. W. Meyer, Oſter⸗Ihlien⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r71l23" custom="readingOrder {index:22;}">
-                <Coords points="4251,1773 4279,1767 4279,1767 4370,1767 4370,1807 4279,1807 4251,1800"/>
+                <Coords points="4251,1773 4279,1767 4370,1767 4370,1807 4279,1807 4251,1800"/>
                 <Baseline points="4251,1800 4370,1800"/>
                 <TextEquiv>
                     <Unicode>worth,</Unicode>
@@ -5173,7 +5173,7 @@ Wanna,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r71l25" custom="readingOrder {index:24;}">
-                <Coords points="4253,1855 4287,1854 4322,1853 4322,1853 4417,1853 4502,1855 4502,1894 4417,1897 4253,1897"/>
+                <Coords points="4253,1855 4287,1854 4322,1853 4417,1853 4502,1855 4502,1894 4417,1897 4253,1897"/>
                 <Baseline points="4253,1891 4501,1890"/>
                 <TextEquiv>
                     <Unicode>Ihlienworth,</Unicode>
@@ -5208,7 +5208,7 @@ Wanna,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r71l30" custom="readingOrder {index:29;}">
-                <Coords points="4296,2074 4796,2072 4796,2072 4906,2072 4969,2073 4979,2100 4979,2112 4602,2115 4590,2115 4296,2110"/>
+                <Coords points="4296,2074 4796,2072 4906,2072 4969,2073 4979,2100 4979,2112 4602,2115 4590,2115 4296,2110"/>
                 <Baseline points="4296,2110 4484,2108 4645,2109 4796,2108 4979,2107"/>
                 <TextEquiv>
                     <Unicode>Nr. 120. Auguſt Evers, Nordleda,</Unicode>
@@ -5243,35 +5243,35 @@ Wanna,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r71l35" custom="readingOrder {index:34;}">
-                <Coords points="4304,2297 4443,2295 4533,2294 4786,2292 4919,2291 4919,2291 5034,2291 5059,2300 5059,2327 5034,2333 4665,2338 4506,2338 4304,2333"/>
+                <Coords points="4304,2297 4443,2295 4533,2294 4786,2292 4919,2291 5034,2291 5059,2300 5059,2327 5034,2333 4665,2338 4506,2338 4304,2333"/>
                 <Baseline points="4304,2332 4506,2330 4697,2329 4919,2327 5059,2326"/>
                 <TextEquiv>
                     <Unicode>Nr. 129. Heinrich M. Kopf, Weſter⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r71l36" custom="readingOrder {index:35;}">
-                <Coords points="4263,2340 4284,2339 4284,2339 4429,2339 4501,2340 4514,2367 4514,2378 4501,2380 4429,2382 4263,2382"/>
+                <Coords points="4263,2340 4284,2339 4429,2339 4501,2340 4514,2367 4514,2378 4501,2380 4429,2382 4263,2382"/>
                 <Baseline points="4263,2375 4514,2374"/>
                 <TextEquiv>
                     <Unicode>Ihlienworth,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r71l37" custom="readingOrder {index:36;}">
-                <Coords points="4302,2383 4525,2381 4915,2380 4915,2380 5032,2380 5057,2387 5057,2414 5032,2422 4575,2424 4557,2424 4302,2420"/>
+                <Coords points="4302,2383 4525,2381 4915,2380 5032,2380 5057,2387 5057,2414 5032,2422 4575,2424 4557,2424 4302,2420"/>
                 <Baseline points="4302,2420 4482,2418 4670,2417 4892,2415 5057,2413"/>
                 <TextEquiv>
                     <Unicode>Nr. 131. Wilhelm Rodegerdts, Weſter⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r71l38" custom="readingOrder {index:37;}">
-                <Coords points="4261,2429 4314,2428 4314,2428 4341,2428 4511,2429 4511,2467 4290,2471 4261,2471"/>
+                <Coords points="4261,2429 4314,2428 4341,2428 4511,2429 4511,2467 4290,2471 4261,2471"/>
                 <Baseline points="4261,2463 4511,2464"/>
                 <TextEquiv>
                     <Unicode>Ihlienworth,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r71l39" custom="readingOrder {index:38;}">
-                <Coords points="4303,2471 4777,2468 4777,2468 4977,2468 4990,2495 4990,2508 4977,2509 4597,2512 4489,2512 4329,2508 4303,2507"/>
+                <Coords points="4303,2471 4777,2468 4977,2468 4990,2495 4990,2508 4977,2509 4597,2512 4489,2512 4329,2508 4303,2507"/>
                 <Baseline points="4304,2507 4466,2506 4624,2506 4749,2505 4990,2502"/>
                 <TextEquiv>
                     <Unicode>Nr. 138. Peter Meyn, Oſterbruch,</Unicode>
@@ -5299,14 +5299,14 @@ Wanna,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r71l43" custom="readingOrder {index:42;}">
-                <Coords points="4265,2654 4285,2650 4285,2650 4366,2650 4385,2660 4385,2690 4285,2690 4265,2684"/>
+                <Coords points="4265,2654 4285,2650 4366,2650 4385,2660 4385,2690 4285,2690 4265,2684"/>
                 <Baseline points="4265,2684 4385,2684"/>
                 <TextEquiv>
                     <Unicode>worth,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r71l44" custom="readingOrder {index:43;}">
-                <Coords points="4306,2693 4496,2691 4816,2688 4816,2688 4919,2688 4965,2698 4965,2727 4725,2730 4592,2731 4353,2731 4306,2728"/>
+                <Coords points="4306,2693 4496,2691 4816,2688 4919,2688 4965,2698 4965,2727 4725,2730 4592,2731 4353,2731 4306,2728"/>
                 <Baseline points="4306,2728 4471,2727 4659,2728 4816,2725 4965,2723"/>
                 <TextEquiv>
                     <Unicode>Nr. 141. Wilhelm Poit, Wanna,</Unicode>
@@ -5369,7 +5369,7 @@ Wanna,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r71l53" custom="readingOrder {index:52;}">
-                <Coords points="4264,3092 4401,3090 4401,3090 4424,3090 4483,3101 4483,3131 4295,3135 4264,3135"/>
+                <Coords points="4264,3092 4401,3090 4424,3090 4483,3101 4483,3131 4295,3135 4264,3135"/>
                 <Baseline points="4264,3125 4483,3126"/>
                 <TextEquiv>
                     <Unicode>Feuerſtätte,</Unicode>
@@ -5404,14 +5404,14 @@ Wanna,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r71l58" custom="readingOrder {index:57;}">
-                <Coords points="4268,3311 4995,3304 4995,3304 5044,3304 5065,3314 5065,3340 5044,3342 4768,3352 4512,3354 4385,3354 4338,3353 4268,3351"/>
+                <Coords points="4268,3311 4995,3304 5044,3304 5065,3314 5065,3340 5044,3342 4768,3352 4512,3354 4385,3354 4338,3353 4268,3351"/>
                 <Baseline points="4268,3346 4512,3345 4768,3344 4951,3342 5066,3340"/>
                 <TextEquiv>
                     <Unicode>iſt folgendes eingetragen worden: Die</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r71l59" custom="readingOrder {index:58;}">
-                <Coords points="4267,3357 4481,3354 4481,3354 4630,3354 4654,3365 4654,3390 4630,3395 4296,3399 4267,3399"/>
+                <Coords points="4267,3357 4481,3354 4630,3354 4654,3365 4654,3390 4630,3395 4296,3399 4267,3399"/>
                 <Baseline points="4267,3391 4388,3392 4654,3389"/>
                 <TextEquiv>
                     <Unicode>Firma iſt erloſchen.</Unicode>
@@ -5425,7 +5425,7 @@ Wanna,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r71l61" custom="readingOrder {index:60;}">
-                <Coords points="4546,3443 4572,3440 4572,3440 4768,3440 4786,3443 4786,3475 4768,3483 4572,3483 4546,3479"/>
+                <Coords points="4546,3443 4572,3440 4768,3440 4786,3443 4786,3475 4768,3483 4572,3483 4546,3479"/>
                 <Baseline points="4546,3479 4786,3474"/>
                 <TextEquiv>
                     <Unicode>Amtsgericht.</Unicode>
@@ -5539,7 +5539,7 @@ Amtsgericht.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r73l5" custom="readingOrder {index:4;}">
-                <Coords points="4271,3716 4305,3705 4380,3704 4638,3701 4955,3698 4955,3698 5063,3698 5063,3734 4668,3743 4342,3749 4271,3749"/>
+                <Coords points="4271,3716 4305,3705 4380,3704 4638,3701 4955,3698 5063,3698 5063,3734 4668,3743 4342,3749 4271,3749"/>
                 <Baseline points="4271,3741 4452,3739 4668,3737 4835,3735 5063,3733"/>
                 <TextEquiv>
                     <Unicode>zell: Der Umtauſch der bei der Gold⸗</Unicode>
@@ -5553,7 +5553,7 @@ Amtsgericht.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r73l7" custom="readingOrder {index:6;}">
-                <Coords points="4271,3792 4536,3788 4536,3788 4665,3788 4724,3793 4724,3824 4665,3831 4320,3833 4284,3833 4271,3832"/>
+                <Coords points="4271,3792 4536,3788 4665,3788 4724,3793 4724,3824 4665,3831 4320,3833 4284,3833 4271,3832"/>
                 <Baseline points="4271,3826 4390,3825 4476,3825 4724,3823"/>
                 <TextEquiv>
                     <Unicode>ſcheine iſt durchgeführt.</Unicode>
@@ -5615,7 +5615,7 @@ Bad. Amtsgericht. I.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r75l3" custom="readingOrder {index:2;}">
-                <Coords points="4272,4047 4421,4045 4950,4039 4950,4039 4978,4039 5065,4048 5065,4074 5028,4082 4302,4089 4272,4089"/>
+                <Coords points="4272,4047 4421,4045 4950,4039 4978,4039 5065,4048 5065,4074 5028,4082 4302,4089 4272,4089"/>
                 <Baseline points="4272,4081 4391,4080 4523,4078 4663,4076 4773,4075 4950,4075 5065,4074"/>
                 <TextEquiv>
                     <Unicode>Firma Gebr. Lange in Roſtock einge⸗</Unicode>
@@ -5643,7 +5643,7 @@ Bad. Amtsgericht. I.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r75l7" custom="readingOrder {index:6;}">
-                <Coords points="4272,4220 4328,4218 4469,4217 4469,4217 4648,4217 4670,4224 4670,4252 4648,4259 4383,4262 4272,4262"/>
+                <Coords points="4272,4220 4328,4218 4469,4217 4648,4217 4670,4224 4670,4252 4648,4259 4383,4262 4272,4262"/>
                 <Baseline points="4272,4255 4424,4253 4450,4253 4670,4252"/>
                 <TextEquiv>
                     <Unicode>ſellſchaft eingetreten.</Unicode>
@@ -5768,7 +5768,7 @@ Amtsgericht.</Unicode>
         <TextRegion id="r78" custom="readingOrder {index:77;} structure {type:reference;}">
             <Coords points="4924,4813 5080,4813 5080,4870 4926,4875 4925,4816"/>
             <TextLine id="r78l1" custom="readingOrder {index:0;}">
-                <Coords points="4934,4828 5059,4826 5059,4826 5074,4826 5074,4869 4968,4870 4934,4870"/>
+                <Coords points="4934,4828 5059,4826 5074,4826 5074,4869 4968,4870 4934,4870"/>
                 <Baseline points="4934,4863 5074,4861"/>
                 <TextEquiv>
                     <Unicode>[83931]</Unicode>
@@ -5830,7 +5830,7 @@ Amtsgericht.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r79l8" custom="readingOrder {index:7;}">
-                <Coords points="4275,5145 4450,5141 5001,5131 5001,5131 5073,5131 5073,5168 4602,5183 4310,5187 4275,5187"/>
+                <Coords points="4275,5145 4450,5141 5001,5131 5073,5131 5073,5168 4602,5183 4310,5187 4275,5187"/>
                 <Baseline points="4275,5180 4450,5177 4602,5174 4765,5172 5073,5168"/>
                 <TextEquiv>
                     <Unicode>iſt durch Vertrag vom 4. November 1927</Unicode>
@@ -5886,7 +5886,7 @@ Amtsgericht.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r79l16" custom="readingOrder {index:15;}">
-                <Coords points="4279,5493 4299,5490 4947,5482 4947,5482 5055,5482 5075,5487 5075,5515 4896,5527 4463,5531 4299,5531 4279,5530"/>
+                <Coords points="4279,5493 4299,5490 4947,5482 5055,5482 5075,5487 5075,5515 4896,5527 4463,5531 4299,5531 4279,5530"/>
                 <Baseline points="4279,5530 4463,5525 4651,5523 4896,5518 5075,5515"/>
                 <TextEquiv>
                     <Unicode>Schleicher in Bad Blankenburg und der</Unicode>
@@ -5991,7 +5991,7 @@ Thüringiſches Amtsgericht.</Unicode>
         <TextRegion type="paragraph" id="r81" custom="readingOrder {index:80;} structure {type:paragraph;}">
             <Coords points="4271,5936 4937,5922 4938,5971 5090,5967 5094,6336 4277,6336"/>
             <TextLine id="r81l1" custom="readingOrder {index:0;}">
-                <Coords points="4284,5944 4458,5941 4748,5937 4748,5937 4780,5937 4811,5945 4811,5970 4780,5972 4591,5978 4284,5978"/>
+                <Coords points="4284,5944 4458,5941 4748,5937 4780,5937 4811,5945 4811,5970 4780,5972 4591,5978 4284,5978"/>
                 <Baseline points="4284,5978 4591,5973 4630,5972 4811,5970"/>
                 <TextEquiv>
                     <Unicode>Rüdesheim, Rhein.</Unicode>
@@ -6191,7 +6191,7 @@ Wilhelmſtraße 32.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r86l2" custom="readingOrder {index:1;}">
-                <Coords points="5833,1794 6329,1787 6669,1785 6669,1785 6856,1785 6921,1787 6963,1792 6963,1816 6856,1823 6237,1830 5954,1831 5918,1831 5833,1827"/>
+                <Coords points="5833,1794 6329,1787 6669,1785 6856,1785 6921,1787 6963,1792 6963,1816 6856,1823 6237,1830 5954,1831 5918,1831 5833,1827"/>
                 <Baseline points="5833,1827 5905,1826 5918,1826 6160,1822 6176,1822 6313,1820 6329,1820 6518,1819 6532,1819 6585,1818 6603,1817 6652,1816 6669,1816 6779,1816 6792,1816 6889,1816 6904,1816 6963,1816"/>
                 <TextEquiv>
                     <Unicode>Alle Poſtanſtalten nehmen Beſtellung an, für Berlin außer den</Unicode>
@@ -6205,14 +6205,14 @@ Wilhelmſtraße 32.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r86l4" custom="readingOrder {index:3;}">
-                <Coords points="5936,1881 5955,1878 6348,1872 6718,1871 6718,1871 6774,1871 6866,1872 6866,1905 6677,1914 6640,1915 6181,1920 5955,1920 5936,1912"/>
+                <Coords points="5936,1881 5955,1878 6348,1872 6718,1871 6774,1871 6866,1872 6866,1905 6677,1914 6640,1915 6181,1920 5955,1920 5936,1912"/>
                 <Baseline points="5936,1912 6181,1909 6205,1909 6291,1908 6319,1907 6391,1908 6415,1908 6695,1906 6718,1906 6784,1905 6808,1905 6866,1905"/>
                 <TextEquiv>
                     <Unicode>Geſchäftsſtelle SW. 48, Wilhelmſtraße Nr. 32.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r86l5" custom="readingOrder {index:4;}">
-                <Coords points="5877,1924 6119,1920 6680,1914 6680,1914 6920,1914 6920,1948 6890,1957 6080,1963 5967,1963 5877,1957"/>
+                <Coords points="5877,1924 6119,1920 6680,1914 6920,1914 6920,1948 6890,1957 6080,1963 5967,1963 5877,1957"/>
                 <Baseline points="5877,1955 6080,1954 6119,1954 6339,1951 6380,1950 6513,1950 6553,1950 6634,1950 6657,1950 6920,1948"/>
                 <TextEquiv>
                     <Unicode>Einzelne Nummern koſten 0,30 Reichsmark.</Unicode>
@@ -6265,7 +6265,7 @@ Fernſprecher: Zentrum 1573.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r87l5" custom="readingOrder {index:4;}">
-                <Coords points="8094,1896 8183,1894 8773,1887 8773,1887 8987,1887 9061,1895 9061,1919 9008,1928 8408,1935 8183,1935 8094,1929"/>
+                <Coords points="8094,1896 8183,1894 8773,1887 8987,1887 9061,1895 9061,1919 9008,1928 8408,1935 8183,1935 8094,1929"/>
                 <Baseline points="8094,1929 8142,1928 8167,1928 8408,1925 8440,1925 8495,1924 8520,1924 8651,1922 8682,1922 8748,1922 8773,1921 9061,1919"/>
                 <TextEquiv>
                     <Unicode>die Geſchäftsſtelle des Reichs⸗ und Staatsanzeigers</Unicode>
@@ -6338,14 +6338,14 @@ Poſtſcheckkonto: Berlin 41821.
         <TextRegion type="header" id="r89" custom="readingOrder {index:89;} structure {type:header;}">
             <Coords points="5551,2349 9434,2305 9434,2483 5545,2515"/>
             <TextLine id="r89l1" custom="readingOrder {index:0;}">
-                <Coords points="5565,2367 6571,2352 9148,2316 9148,2316 9189,2316 9419,2321 9419,2367 9349,2380 9189,2385 5869,2426 5689,2426 5565,2418"/>
+                <Coords points="5565,2367 6571,2352 9148,2316 9189,2316 9419,2321 9419,2367 9349,2380 9189,2385 5869,2426 5689,2426 5565,2418"/>
                 <Baseline points="5565,2417 6072,2410 6112,2409 6245,2407 6285,2407 6531,2403 6571,2403 6866,2398 6911,2398 7139,2395 7179,2395 7291,2393 7330,2393 7505,2391 7547,2390 8007,2385 8047,2384 8180,2383 8218,2383 8520,2379 8559,2378 8928,2374 8964,2373 9068,2372 9106,2371 9419,2367"/>
                 <TextEquiv>
                     <Unicode>Einzelnummern oder einzelne Beilagen werden nur gegen Barbezahlung oder vorherige Einſendung des Betrages</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r89l2" custom="readingOrder {index:1;}">
-                <Coords points="6898,2447 6930,2435 7045,2432 7815,2422 7815,2422 8001,2422 8092,2433 8092,2470 7933,2485 7869,2486 7299,2493 7045,2493 6993,2492 6898,2482"/>
+                <Coords points="6898,2447 6930,2435 7045,2432 7815,2422 8001,2422 8092,2433 8092,2470 7933,2485 7869,2486 7299,2493 7045,2493 6993,2492 6898,2482"/>
                 <Baseline points="6898,2482 7299,2480 7336,2479 7436,2478 7473,2478 7714,2476 7751,2475 8092,2469"/>
                 <TextEquiv>
                     <Unicode>einſchließlich des Portos abgegeben.</Unicode>
@@ -6359,14 +6359,14 @@ einſchließlich des Portos abgegeben.</Unicode>
         <TextRegion type="paragraph" id="r90" custom="readingOrder {index:90;} structure {type:paragraph;}">
             <Coords points="5425,2620 6785,2620 6785,3355 5425,3355"/>
             <TextLine id="r90l1" custom="readingOrder {index:0;}">
-                <Coords points="5759,2641 6316,2635 6316,2635 6385,2635 6436,2638 6455,2645 6455,2675 6223,2684 5798,2690 5759,2690"/>
+                <Coords points="5759,2641 6316,2635 6385,2635 6436,2638 6455,2645 6455,2675 6223,2684 5798,2690 5759,2690"/>
                 <Baseline points="5759,2681 5918,2679 5947,2679 6025,2678 6053,2677 6266,2676 6295,2675 6455,2675"/>
                 <TextEquiv>
                     <Unicode>Inhalt des amtlichen Teiles:</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r90l2" custom="readingOrder {index:1;}">
-                <Coords points="5917,2721 6171,2719 6171,2719 6254,2719 6296,2720 6310,2745 6310,2758 6296,2766 6094,2767 5945,2767 5917,2762"/>
+                <Coords points="5917,2721 6171,2719 6254,2719 6296,2720 6310,2745 6310,2758 6296,2766 6094,2767 5945,2767 5917,2762"/>
                 <Baseline points="5917,2762 6143,2759 6171,2759 6310,2757"/>
                 <TextEquiv>
                     <Unicode>Deutſches Reich.</Unicode>
@@ -6394,14 +6394,14 @@ einſchließlich des Portos abgegeben.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r90l6" custom="readingOrder {index:5;}">
-                <Coords points="5441,2944 5468,2943 6095,2936 6095,2936 6281,2936 6356,2944 6356,2976 6281,2984 5665,2991 5468,2991 5441,2985"/>
+                <Coords points="5441,2944 5468,2943 6095,2936 6281,2936 6356,2944 6356,2976 6281,2984 5665,2991 5468,2991 5441,2985"/>
                 <Baseline points="5441,2984 5665,2982 5781,2981 5938,2980 6095,2978 6356,2974"/>
                 <TextEquiv>
                     <Unicode>Aufhebung des Verbots eines Bildſtreifens.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r90l7" custom="readingOrder {index:6;}">
-                <Coords points="5441,3004 6388,2994 6666,2992 6666,2992 6705,2992 6726,2993 6771,3003 6771,3032 6726,3039 6705,3041 5794,3051 5464,3051 5441,3046"/>
+                <Coords points="5441,3004 6388,2994 6666,2992 6705,2992 6726,2993 6771,3003 6771,3032 6726,3039 6705,3041 5794,3051 5464,3051 5441,3046"/>
                 <Baseline points="5441,3044 5794,3041 6017,3039 6138,3038 6291,3036 6771,3032"/>
                 <TextEquiv>
                     <Unicode>Bekanntmachung, betreffend eine Anleihe der Württembergiſchen</Unicode>
@@ -6429,14 +6429,14 @@ einſchließlich des Portos abgegeben.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r90l11" custom="readingOrder {index:10;}">
-                <Coords points="5998,3243 6025,3241 6025,3241 6135,3241 6211,3251 6211,3278 6145,3286 5998,3286"/>
+                <Coords points="5998,3243 6025,3241 6135,3241 6211,3251 6211,3278 6145,3286 5998,3286"/>
                 <Baseline points="5998,3280 6211,3278"/>
                 <TextEquiv>
                     <Unicode>Preußen.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r90l12" custom="readingOrder {index:11;}">
-                <Coords points="5444,3302 6257,3297 6257,3297 6450,3297 6496,3308 6496,3334 6450,3343 5966,3348 5670,3349 5650,3349 5444,3344"/>
+                <Coords points="5444,3302 6257,3297 6450,3297 6496,3308 6496,3334 6450,3343 5966,3348 5670,3349 5650,3349 5444,3344"/>
                 <Baseline points="5444,3344 5715,3341 5841,3342 6016,3340 6496,3334"/>
                 <TextEquiv>
                     <Unicode>Ernennungen und ſonſtige Perſonalveränderungen.</Unicode>
@@ -6480,7 +6480,7 @@ Ernennungen und ſonſtige Perſonalveränderungen.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r92l2" custom="readingOrder {index:1;}">
-                <Coords points="5546,3731 5748,3727 5912,3725 6535,3718 6535,3718 6730,3718 6771,3725 6771,3758 6644,3767 5776,3775 5748,3775 5546,3771"/>
+                <Coords points="5546,3731 5748,3727 5912,3725 6535,3718 6730,3718 6771,3725 6771,3758 6644,3767 5776,3775 5748,3775 5546,3771"/>
                 <Baseline points="5546,3771 5624,3770 5665,3769 5875,3765 5912,3766 6061,3764 6099,3764 6302,3762 6340,3761 6379,3762 6417,3760 6497,3760 6535,3759 6672,3758 6711,3758 6771,3758"/>
                 <TextEquiv>
                     <Unicode>Der Kaufmann Walter Scharpp iſt zum Konſul des</Unicode>
@@ -6628,7 +6628,7 @@ J. V.: Dr. Joël.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r93l3" custom="readingOrder {index:2;}">
-                <Coords points="5453,4852 6454,4845 6454,4845 6506,4845 6754,4846 6778,4847 6778,4886 6532,4893 6025,4899 5504,4902 5453,4902"/>
+                <Coords points="5453,4852 6454,4845 6506,4845 6754,4846 6778,4847 6778,4886 6532,4893 6025,4899 5504,4902 5453,4902"/>
                 <Baseline points="5453,4893 5695,4891 6025,4891 6146,4889 6342,4886 6454,4885 6654,4885 6778,4886"/>
                 <TextEquiv>
                     <Unicode>Preußiſchen Staatsanzeiger Nr. 292 vom 14. Dezember 1927</Unicode>
@@ -6649,7 +6649,7 @@ J. V.: Dr. Joël.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r93l6" custom="readingOrder {index:5;}">
-                <Coords points="5451,5003 5794,4999 6002,4997 6116,4996 6635,4995 6635,4995 6659,4995 6741,4997 6779,5007 6779,5042 6147,5048 5468,5051 5451,5051"/>
+                <Coords points="5451,5003 5794,4999 6002,4997 6116,4996 6635,4995 6659,4995 6741,4997 6779,5007 6779,5042 6147,5048 5468,5051 5451,5051"/>
                 <Baseline points="5451,5043 5671,5040 5794,5040 5973,5038 6095,5037 6215,5037 6307,5037 6419,5036 6779,5034"/>
                 <TextEquiv>
                     <Unicode>fabrikation und Vertrieb, Inh. Frau Dr. Lotte Dietrich, Berlin,</Unicode>
@@ -6684,7 +6684,7 @@ J. V.: Dr. Joël.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r93l11" custom="readingOrder {index:10;}">
-                <Coords points="5453,5253 5479,5251 5766,5249 6540,5246 6540,5246 6679,5246 6781,5255 6781,5285 6679,5295 5678,5298 5479,5298 5453,5292"/>
+                <Coords points="5453,5253 5479,5251 5766,5249 6540,5246 6679,5246 6781,5255 6781,5285 6679,5295 5678,5298 5479,5298 5453,5292"/>
                 <Baseline points="5453,5292 5678,5291 5707,5291 5945,5288 5991,5288 6040,5288 6066,5289 6261,5288 6289,5288 6422,5287 6457,5287 6573,5286 6599,5286 6690,5286 6715,5286 6781,5285"/>
                 <TextEquiv>
                     <Unicode>öffentlichen Vorführung im Deutſchen Reiche, jedoch nicht vor</Unicode>
@@ -6698,7 +6698,7 @@ J. V.: Dr. Joël.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r93l13" custom="readingOrder {index:12;}">
-                <Coords points="5552,5363 5868,5360 6088,5359 6088,5359 6145,5359 6156,5390 6156,5400 5898,5409 5687,5409 5552,5403"/>
+                <Coords points="5552,5363 5868,5360 6088,5359 6145,5359 6156,5390 6156,5400 5898,5409 5687,5409 5552,5403"/>
                 <Baseline points="5552,5403 5698,5402 5724,5402 5789,5401 5814,5401 5848,5401 5868,5401 6023,5399 6051,5399 6156,5400"/>
                 <TextEquiv>
                     <Unicode>Berlin, den 3. Januar 1928.</Unicode>
@@ -6712,7 +6712,7 @@ J. V.: Dr. Joël.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r93l15" custom="readingOrder {index:14;}">
-                <Coords points="5841,5471 6371,5467 6371,5467 6392,5467 6392,5507 6331,5515 5871,5519 5841,5519"/>
+                <Coords points="5841,5471 6371,5467 6392,5467 6392,5507 6331,5515 5871,5519 5841,5519"/>
                 <Baseline points="5841,5511 6118,5510 6392,5506"/>
                 <TextEquiv>
                     <Unicode>J. V.: Dr. Löwenthal.</Unicode>
@@ -6726,21 +6726,21 @@ J. V.: Dr. Joël.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r93l17" custom="readingOrder {index:16;}">
-                <Coords points="5450,5649 6323,5640 6323,5640 6736,5640 6781,5650 6781,5679 6759,5685 6682,5687 6567,5688 6199,5691 5615,5694 5595,5694 5450,5691"/>
+                <Coords points="5450,5649 6323,5640 6736,5640 6781,5650 6781,5679 6759,5685 6682,5687 6567,5688 6199,5691 5615,5694 5595,5694 5450,5691"/>
                 <Baseline points="5450,5690 5698,5686 5740,5686 5858,5685 5900,5684 5956,5685 5997,5685 6279,5682 6323,5682 6447,5681 6493,5681 6567,5680 6581,5680 6781,5679"/>
                 <TextEquiv>
                     <Unicode>Stuttgart wurde die Genehmigung erteilt, 4 ½ prozentige</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r93l18" custom="readingOrder {index:17;}">
-                <Coords points="5450,5699 5758,5696 6098,5693 6342,5691 6734,5689 6734,5689 6783,5689 6783,5728 6683,5735 6112,5743 6003,5744 5499,5744 5450,5741"/>
+                <Coords points="5450,5699 5758,5696 6098,5693 6342,5691 6734,5689 6783,5689 6783,5728 6683,5735 6112,5743 6003,5744 5499,5744 5450,5741"/>
                 <Baseline points="5450,5739 6022,5733 6049,5733 6112,5732 6140,5732 6203,5731 6230,5731 6400,5732 6427,5732 6466,5731 6486,5731 6643,5729 6669,5729 6708,5729 6734,5728 6783,5728"/>
                 <TextEquiv>
                     <Unicode>Liquidationsgoldpfandbriefe auf den Inhaber in Stücken zu 50</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r93l19" custom="readingOrder {index:18;}">
-                <Coords points="5451,5751 5564,5748 5667,5746 6035,5742 6142,5741 6670,5739 6670,5739 6710,5739 6782,5742 6782,5778 6710,5782 6411,5791 6142,5791 5451,5789"/>
+                <Coords points="5451,5751 5564,5748 5667,5746 6035,5742 6142,5741 6670,5739 6710,5739 6782,5742 6782,5778 6710,5782 6411,5791 6142,5791 5451,5789"/>
                 <Baseline points="5451,5789 5513,5788 5540,5788 5639,5787 5667,5787 5865,5785 5905,5784 5993,5784 6035,5783 6094,5783 6120,5783 6411,5780 6450,5780 6557,5779 6595,5779 6645,5779 6670,5778 6782,5778"/>
                 <TextEquiv>
                     <Unicode>bis 2000 Goldmark und, für Spitzenbeträge unter 50 Gold⸗</Unicode>
@@ -6754,7 +6754,7 @@ J. V.: Dr. Joël.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r93l21" custom="readingOrder {index:20;}">
-                <Coords points="5450,5859 5545,5848 5611,5847 6587,5840 6587,5840 6784,5840 6784,5879 6704,5888 5494,5895 5450,5895"/>
+                <Coords points="5450,5859 5545,5848 5611,5847 6587,5840 6784,5840 6784,5879 6704,5888 5494,5895 5450,5895"/>
                 <Baseline points="5450,5887 5494,5887 5545,5887 5568,5887 5611,5887 5672,5886 5715,5885 5763,5886 5807,5886 6010,5884 6068,5883 6119,5883 6171,5882 6402,5881 6462,5881 6536,5880 6587,5880 6784,5879"/>
                 <TextEquiv>
                     <Unicode>zu 5 bis 30 Goldmark im Nennbetrag von insgeſamt</Unicode>
@@ -6775,7 +6775,7 @@ J. V.: Dr. Joël.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r93l24" custom="readingOrder {index:23;}">
-                <Coords points="5877,6016 6057,6013 6057,6013 6218,6013 6285,6014 6359,6023 6359,6051 6085,6067 6074,6067 5877,6057"/>
+                <Coords points="5877,6016 6057,6013 6218,6013 6285,6014 6359,6023 6359,6051 6085,6067 6074,6067 5877,6057"/>
                 <Baseline points="5877,6057 6359,6051"/>
                 <TextEquiv>
                     <Unicode>Wirtſchaftsminiſterium.</Unicode>
@@ -6819,14 +6819,14 @@ J. V.: Rau.</Unicode>
         <TextRegion type="paragraph" id="r94" custom="readingOrder {index:94;} structure {type:paragraph;}">
             <Coords points="5427,6173 6794,6173 6794,6921 5427,6924"/>
             <TextLine id="r94l1" custom="readingOrder {index:0;}">
-                <Coords points="5847,6190 5892,6189 6250,6186 6250,6186 6271,6186 6393,6198 6393,6234 6355,6234 5847,6230"/>
+                <Coords points="5847,6190 5892,6189 6250,6186 6271,6186 6393,6198 6393,6234 6355,6234 5847,6230"/>
                 <Baseline points="5847,6230 6069,6227 6101,6227 6393,6226"/>
                 <TextEquiv>
                     <Unicode>Siebente Verordnung</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r94l2" custom="readingOrder {index:1;}">
-                <Coords points="5452,6254 5489,6253 5783,6250 6493,6243 6493,6243 6763,6243 6786,6251 6786,6285 6763,6294 5839,6301 5800,6301 5452,6296"/>
+                <Coords points="5452,6254 5489,6253 5783,6250 6493,6243 6763,6243 6786,6251 6786,6285 6763,6294 5839,6301 5800,6301 5452,6296"/>
                 <Baseline points="5452,6295 5563,6293 5591,6293 5661,6292 5675,6292 6024,6288 6051,6288 6126,6288 6142,6288 6786,6284"/>
                 <TextEquiv>
                     <Unicode>über die Durchführung des Anleiheablöſungsgeſetzes.</Unicode>
@@ -6840,14 +6840,14 @@ J. V.: Rau.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r94l4" custom="readingOrder {index:3;}">
-                <Coords points="5559,6397 5610,6395 5667,6393 6525,6386 6525,6386 6643,6386 6692,6387 6787,6398 6787,6434 6692,6436 5982,6441 5637,6442 5610,6442 5559,6436"/>
+                <Coords points="5559,6397 5610,6395 5667,6393 6525,6386 6643,6386 6692,6387 6787,6398 6787,6434 6692,6436 5982,6441 5637,6442 5610,6442 5559,6436"/>
                 <Baseline points="5562,6437 5637,6436 5667,6435 5797,6432 5837,6432 5896,6432 5934,6432 6096,6432 6124,6432 6363,6430 6402,6430 6466,6429 6504,6429 6787,6426"/>
                 <TextEquiv>
                     <Unicode>Auf Grund der Zweiten Verordnung zur Durchführung</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r94l5" custom="readingOrder {index:4;}">
-                <Coords points="5453,6448 5560,6446 5988,6440 6480,6437 6480,6437 6660,6437 6787,6447 6787,6477 6660,6481 6439,6487 5718,6493 5560,6493 5453,6489"/>
+                <Coords points="5453,6448 5560,6446 5988,6440 6480,6437 6660,6437 6787,6447 6787,6477 6660,6481 6439,6487 5718,6493 5560,6493 5453,6489"/>
                 <Baseline points="5453,6489 5519,6488 5560,6487 5718,6484 5762,6484 5848,6482 5890,6482 5944,6481 5988,6481 6172,6480 6223,6480 6439,6479 6480,6478 6660,6477 6704,6476 6787,6477"/>
                 <TextEquiv>
                     <Unicode>des Geſetzes über die Ablöſung öffentlicher Anleihen vom</Unicode>
@@ -6896,7 +6896,7 @@ J. V.: Rau.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r94l12" custom="readingOrder {index:11;}">
-                <Coords points="5455,6782 5474,6781 6512,6771 6512,6771 6734,6771 6777,6778 6791,6789 6791,6801 6777,6814 6174,6820 5599,6823 5582,6823 5455,6819"/>
+                <Coords points="5455,6782 5474,6781 6512,6771 6734,6771 6777,6778 6791,6789 6791,6801 6777,6814 6174,6820 5599,6823 5582,6823 5455,6819"/>
                 <Baseline points="5455,6819 5698,6817 6174,6813 6329,6809 6466,6809 6581,6807 6792,6810"/>
                 <TextEquiv>
                     <Unicode>führung des Anleiheablöſungsgeſetzes vom 7. Juli 1926 — Geſetz⸗</Unicode>
@@ -6910,7 +6910,7 @@ J. V.: Rau.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r94l14" custom="readingOrder {index:13;}">
-                <Coords points="5456,6880 5475,6869 5496,6866 5496,6866 5600,6866 5999,6868 6054,6878 6066,6893 6066,6903 6015,6913 5456,6913"/>
+                <Coords points="5456,6880 5475,6869 5496,6866 5600,6866 5999,6868 6054,6878 6066,6893 6066,6903 6015,6913 5456,6913"/>
                 <Baseline points="5456,6905 5600,6905 5625,6905 5799,6905 5822,6905 6066,6903"/>
                 <TextEquiv>
                     <Unicode>zöſiſcher Währung gleichzuſetzen.</Unicode>
@@ -6989,7 +6989,7 @@ Müller. Dr. Weber.</Unicode>
         <TextRegion type="paragraph" id="r96" custom="readingOrder {index:96;} structure {type:paragraph;}">
             <Coords points="6823,2988 8177,2988 8177,3492 6823,3492"/>
             <TextLine id="r96l1" custom="readingOrder {index:0;}">
-                <Coords points="7353,3004 7501,3000 7501,3000 7557,3000 7647,3011 7647,3039 7557,3049 7353,3049"/>
+                <Coords points="7353,3004 7501,3000 7557,3000 7647,3011 7647,3039 7557,3049 7353,3049"/>
                 <Baseline points="7353,3042 7647,3039"/>
                 <TextEquiv>
                     <Unicode>Preußen.</Unicode>
@@ -7010,7 +7010,7 @@ Müller. Dr. Weber.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r96l4" custom="readingOrder {index:3;}">
-                <Coords points="6939,3174 7079,3170 7920,3163 7920,3163 8087,3163 8162,3170 8162,3203 8123,3212 8087,3213 7467,3218 7079,3218 6939,3215"/>
+                <Coords points="6939,3174 7079,3170 7920,3163 8087,3163 8162,3170 8162,3203 8123,3212 8087,3213 7467,3218 7079,3218 6939,3215"/>
                 <Baseline points="6939,3214 7013,3213 7053,3213 7467,3209 7506,3209 7792,3206 7832,3206 7884,3205 7920,3204 8162,3201"/>
                 <TextEquiv>
                     <Unicode>Die Oberförſterſtelle Karlshafen im Regierungs⸗</Unicode>
@@ -7024,14 +7024,14 @@ Müller. Dr. Weber.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r96l6" custom="readingOrder {index:5;}">
-                <Coords points="6842,3284 6882,3274 6908,3272 7586,3266 7586,3266 7718,3266 7764,3277 7764,3305 7718,3315 7149,3319 6908,3319 6842,3314"/>
+                <Coords points="6842,3284 6882,3274 6908,3272 7586,3266 7718,3266 7764,3277 7764,3305 7718,3315 7149,3319 6908,3319 6842,3314"/>
                 <Baseline points="6842,3313 6978,3312 7094,3311 7283,3309 7458,3307 7558,3306 7764,3304"/>
                 <TextEquiv>
                     <Unicode>müſſen bis zum 22. Januar 1928 eingehen.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r96l7" custom="readingOrder {index:6;}">
-                <Coords points="6939,3333 7099,3329 7828,3321 7828,3321 8165,3321 8165,3362 8112,3370 8018,3372 7458,3381 7099,3381 6939,3374"/>
+                <Coords points="6939,3333 7099,3329 7828,3321 8165,3321 8165,3362 8112,3370 8018,3372 7458,3381 7099,3381 6939,3374"/>
                 <Baseline points="6939,3373 7013,3373 7458,3368 7714,3366 7828,3365 8165,3361"/>
                 <TextEquiv>
                     <Unicode>Die Oberförſterſtelle Padrojen im Regierungsbezirk</Unicode>
@@ -7045,7 +7045,7 @@ Müller. Dr. Weber.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r96l9" custom="readingOrder {index:8;}">
-                <Coords points="6841,3443 6880,3432 6907,3431 7502,3426 7502,3426 7722,3426 7769,3437 7769,3464 7722,3472 6932,3478 6907,3478 6841,3471"/>
+                <Coords points="6841,3443 6880,3432 6907,3431 7502,3426 7722,3426 7769,3437 7769,3464 7722,3472 6932,3478 6907,3478 6841,3471"/>
                 <Baseline points="6841,3471 6976,3470 7005,3470 7064,3470 7092,3469 7170,3469 7196,3468 7260,3467 7282,3467 7427,3466 7459,3466 7557,3465 7593,3465 7769,3464"/>
                 <TextEquiv>
                     <Unicode>müſſen bis zum 22. Januar 1928 eingehen.</Unicode>
@@ -7079,7 +7079,7 @@ müſſen bis zum 22. Januar 1928 eingehen.</Unicode>
         <TextRegion type="paragraph" id="r98" custom="readingOrder {index:98;} structure {type:paragraph;}">
             <Coords points="8213,2712 9567,2712 9567,2963 8213,2963"/>
             <TextLine id="r98l1" custom="readingOrder {index:0;}">
-                <Coords points="8704,2725 8950,2721 8950,2721 9033,2721 9073,2722 9088,2747 9088,2761 9073,2768 8874,2771 8758,2771 8704,2766"/>
+                <Coords points="8704,2725 8950,2721 9033,2721 9073,2722 9088,2747 9088,2761 9073,2768 8874,2771 8758,2771 8704,2766"/>
                 <Baseline points="8704,2766 8922,2763 8950,2763 9088,2761"/>
                 <TextEquiv>
                     <Unicode>Deutſches Reich.</Unicode>
@@ -7093,7 +7093,7 @@ müſſen bis zum 22. Januar 1928 eingehen.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r98l3" custom="readingOrder {index:2;}">
-                <Coords points="8230,2873 8270,2860 9139,2847 9456,2846 9456,2846 9466,2846 9509,2847 9551,2855 9551,2884 9384,2897 8484,2910 8230,2910"/>
+                <Coords points="8230,2873 8270,2860 9139,2847 9456,2846 9466,2846 9509,2847 9551,2855 9551,2884 9384,2897 8484,2910 8230,2910"/>
                 <Baseline points="8230,2902 8484,2899 8640,2898 8835,2895 9119,2891 9421,2886 9551,2883"/>
                 <TextEquiv>
                     <Unicode>zurückgekehrt und hat die Leitung der Geſandtſchaft wieder</Unicode>
@@ -7116,21 +7116,21 @@ zurückgekehrt und hat die Leitung der Geſandtſchaft wieder
         <TextRegion type="paragraph" id="r99" custom="readingOrder {index:99;} structure {type:paragraph;}">
             <Coords points="8220,3103 9573,3103 9572,3526 8219,3526"/>
             <TextLine id="r99l1" custom="readingOrder {index:0;}">
-                <Coords points="8240,3125 8748,3114 9301,3110 9301,3110 9552,3110 9552,3147 9507,3154 8442,3168 8329,3169 8313,3169 8240,3164"/>
+                <Coords points="8240,3125 8748,3114 9301,3110 9552,3110 9552,3147 9507,3154 8442,3168 8329,3169 8313,3169 8240,3164"/>
                 <Baseline points="8240,3164 8685,3158 8723,3157 9080,3152 9111,3151 9195,3150 9228,3150 9552,3145"/>
                 <TextEquiv>
                     <Unicode>Geſundheitsweſen, Tierkrankheiten und Abſperrungs⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r99l2" custom="readingOrder {index:1;}">
-                <Coords points="8765,3188 8832,3175 8832,3175 8974,3175 9003,3184 9018,3200 9018,3213 8945,3223 8832,3223 8765,3216"/>
+                <Coords points="8765,3188 8832,3175 8974,3175 9003,3184 9018,3200 9018,3213 8945,3223 8832,3223 8765,3216"/>
                 <Baseline points="8765,3216 9018,3213"/>
                 <TextEquiv>
                     <Unicode>maßregeln.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r99l3" custom="readingOrder {index:2;}">
-                <Coords points="8322,3252 9155,3237 9515,3236 9515,3236 9556,3236 9556,3278 9480,3280 8673,3290 8628,3290 8322,3289"/>
+                <Coords points="8322,3252 9155,3237 9515,3236 9556,3236 9556,3278 9480,3280 8673,3290 8628,3290 8322,3289"/>
                 <Baseline points="8322,3289 8414,3288 8673,3285 8815,3283 9014,3280 9480,3274 9556,3273"/>
                 <TextEquiv>
                     <Unicode>Der Ausbruch der Maul⸗ und Klauenſeuche iſt</Unicode>
@@ -7151,21 +7151,21 @@ zurückgekehrt und hat die Leitung der Geſandtſchaft wieder
                 </TextEquiv>
             </TextLine>
             <TextLine id="r99l6" custom="readingOrder {index:5;}">
-                <Coords points="8233,3386 8295,3385 9328,3370 9328,3370 9367,3370 9498,3372 9557,3378 9557,3405 9367,3410 8947,3419 8578,3425 8419,3427 8402,3427 8319,3424 8233,3420"/>
+                <Coords points="8233,3386 8295,3385 9328,3370 9367,3370 9498,3372 9557,3378 9557,3405 9367,3410 8947,3419 8578,3425 8419,3427 8402,3427 8319,3424 8233,3420"/>
                 <Baseline points="8233,3420 8419,3420 8446,3419 8509,3419 8546,3418 8734,3416 8767,3416 8837,3414 8861,3414 8892,3413 8916,3413 9062,3411 9103,3410 9162,3410 9197,3409 9443,3406 9479,3406 9557,3405"/>
                 <TextEquiv>
                     <Unicode>Leipzig und Plauen vom 3. Januar, das Erlöſchen der</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r99l7" custom="readingOrder {index:6;}">
-                <Coords points="8234,3427 9341,3414 9341,3414 9533,3414 9558,3422 9558,3448 9488,3455 9203,3459 8835,3462 8373,3464 8361,3464 8234,3463"/>
+                <Coords points="8234,3427 9341,3414 9533,3414 9558,3422 9558,3448 9488,3455 9203,3459 8835,3462 8373,3464 8361,3464 8234,3463"/>
                 <Baseline points="8234,3463 8398,3463 8436,3463 8521,3462 8557,3462 8886,3458 8920,3457 8994,3456 9033,3457 9203,3454 9239,3453 9301,3452 9341,3452 9488,3449 9523,3449 9558,3448"/>
                 <TextEquiv>
                     <Unicode>Maul⸗ und Klauenſeuche vom Schlacht⸗ und Viehhof in</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r99l8" custom="readingOrder {index:7;}">
-                <Coords points="8232,3471 8908,3464 9111,3463 9111,3463 9205,3463 9333,3465 9368,3470 9368,3495 9129,3507 8462,3516 8358,3516 8278,3513 8232,3509"/>
+                <Coords points="8232,3471 8908,3464 9111,3463 9205,3463 9333,3465 9368,3470 9368,3495 9129,3507 8462,3516 8358,3516 8278,3513 8232,3509"/>
                 <Baseline points="8232,3509 8462,3506 8599,3505 8764,3503 8896,3501 9024,3500 9205,3498 9370,3496"/>
                 <TextEquiv>
                     <Unicode>Chemnitz am 3. Januar 1928 amtlich gemeldet worden.</Unicode>
@@ -7185,7 +7185,7 @@ Chemnitz am 3. Januar 1928 amtlich gemeldet worden.</Unicode>
         <TextRegion type="heading" id="r100" custom="readingOrder {index:100;} structure {type:heading;}">
             <Coords points="6870,3639 9539,3639 9540,3826 6870,3838"/>
             <TextLine id="r100l1" custom="readingOrder {index:0;}">
-                <Coords points="7852,3659 7956,3658 8237,3656 8237,3656 8527,3656 8560,3660 8560,3693 8518,3701 7971,3701 7852,3698"/>
+                <Coords points="7852,3659 7956,3658 8237,3656 8527,3656 8560,3660 8560,3693 8518,3701 7971,3701 7852,3698"/>
                 <Baseline points="7852,3697 8043,3697 8070,3696 8152,3696 8179,3696 8560,3693"/>
                 <TextEquiv>
                     <Unicode>Statiſtik und Volkswirtſchaft.</Unicode>
@@ -7223,21 +7223,21 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 3 4 7</CornerPts>
             </TableCell>
             <TableCell row="0" col="1" rowSpan="3" colSpan="1" id="TableCell_1657943193302_2158">
                 <Coords points="7173,3857 7174,3972 7174,4057 7175,4128 8181,4120 8181,4057 8180,3972 8179,3857"/>
                 <TextLine id="TableCell_1657943193302_2158l1" custom="readingOrder {index:0;}">
-                    <Coords points="7438,3982 7615,3981 7615,3981 7774,3981 7937,3992 7937,4025 7438,4025"/>
+                    <Coords points="7438,3982 7615,3981 7774,3981 7937,3992 7937,4025 7438,4025"/>
                     <Baseline points="7438,4017 7937,4016"/>
                     <TextEquiv>
                         <Unicode>Handelsbedingung</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 3 4 7</CornerPts>
             </TableCell>
@@ -7265,21 +7265,21 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 2 4 6</CornerPts>
             </TableCell>
             <TableCell row="0" col="4" rowSpan="3" colSpan="1" id="TableCell_1657943201191_2168">
                 <Coords points="8509,3857 8510,3972 8511,4057 8512,4118 8726,4117 8726,4057 8725,3972 8724,3857"/>
                 <TextLine id="TableCell_1657943201191_2168l0" custom="readingOrder {index:0;}">
-                    <Coords points="8553,3969 8576,3968 8576,3968 8589,3968 8694,3978 8694,4003 8651,4011 8614,4011 8553,4006"/>
+                    <Coords points="8553,3969 8576,3968 8589,3968 8694,3978 8694,4003 8651,4011 8614,4011 8553,4006"/>
                     <Baseline points="8553,4006 8694,4003"/>
                     <TextEquiv>
                         <Unicode>Roggen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 3 4 7</CornerPts>
             </TableCell>
@@ -7293,7 +7293,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 3 4 7</CornerPts>
             </TableCell>
@@ -7307,7 +7307,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -7321,7 +7321,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 3 4 7</CornerPts>
             </TableCell>
@@ -7342,7 +7342,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 2 3 5</CornerPts>
             </TableCell>
@@ -7363,7 +7363,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 2 3 5</CornerPts>
             </TableCell>
@@ -7377,7 +7377,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7391,7 +7391,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7405,7 +7405,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7419,7 +7419,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7433,7 +7433,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7447,7 +7447,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7461,7 +7461,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7475,7 +7475,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7489,7 +7489,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7503,7 +7503,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7517,7 +7517,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7531,7 +7531,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7545,7 +7545,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7559,7 +7559,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7573,7 +7573,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7587,7 +7587,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7601,7 +7601,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7615,7 +7615,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7629,7 +7629,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7643,7 +7643,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7657,7 +7657,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7671,7 +7671,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7685,7 +7685,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7699,7 +7699,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7713,7 +7713,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7727,7 +7727,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7741,7 +7741,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7755,7 +7755,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7769,7 +7769,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7783,7 +7783,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7797,7 +7797,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7811,7 +7811,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7825,7 +7825,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7839,7 +7839,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7853,7 +7853,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7867,7 +7867,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7881,7 +7881,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7895,7 +7895,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7909,7 +7909,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7923,7 +7923,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7937,7 +7937,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7951,7 +7951,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7965,7 +7965,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7979,7 +7979,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7993,7 +7993,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -8007,7 +8007,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8021,7 +8021,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8035,7 +8035,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8049,7 +8049,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8063,7 +8063,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8077,7 +8077,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8091,7 +8091,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8105,7 +8105,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8119,7 +8119,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8133,7 +8133,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8147,7 +8147,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8161,7 +8161,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8175,7 +8175,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8189,7 +8189,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8203,7 +8203,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8217,7 +8217,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8231,7 +8231,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8245,7 +8245,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8259,7 +8259,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8273,7 +8273,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8294,7 +8294,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8308,7 +8308,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8322,7 +8322,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8336,7 +8336,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8350,7 +8350,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8364,7 +8364,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8378,7 +8378,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8392,7 +8392,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8406,7 +8406,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8420,7 +8420,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8434,7 +8434,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8448,7 +8448,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8462,7 +8462,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8476,7 +8476,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8490,7 +8490,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8504,7 +8504,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8518,7 +8518,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8532,7 +8532,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8553,7 +8553,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8567,7 +8567,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8581,7 +8581,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8595,7 +8595,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8609,7 +8609,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8623,7 +8623,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8637,7 +8637,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8651,7 +8651,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8665,7 +8665,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8679,7 +8679,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8693,7 +8693,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8707,7 +8707,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8721,7 +8721,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8735,7 +8735,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8749,7 +8749,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8763,7 +8763,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8777,7 +8777,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8791,7 +8791,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8805,7 +8805,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8819,7 +8819,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8833,7 +8833,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8847,7 +8847,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8861,7 +8861,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8875,7 +8875,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8889,7 +8889,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8903,7 +8903,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8917,7 +8917,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8931,7 +8931,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8945,7 +8945,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8959,7 +8959,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8973,7 +8973,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8987,7 +8987,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9001,7 +9001,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9015,7 +9015,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9029,7 +9029,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9043,7 +9043,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9057,7 +9057,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9071,7 +9071,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9085,7 +9085,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9099,7 +9099,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9113,7 +9113,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9127,7 +9127,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9141,7 +9141,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9155,7 +9155,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9169,7 +9169,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9183,7 +9183,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9197,7 +9197,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9211,7 +9211,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9225,7 +9225,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9239,7 +9239,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9253,7 +9253,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9267,7 +9267,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9281,7 +9281,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9299,7 +9299,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9313,7 +9313,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9327,7 +9327,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9341,7 +9341,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9355,7 +9355,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9369,7 +9369,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9383,7 +9383,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9397,7 +9397,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9411,7 +9411,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9425,7 +9425,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9439,7 +9439,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9453,7 +9453,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9467,7 +9467,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9481,7 +9481,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9495,7 +9495,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9509,7 +9509,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9523,7 +9523,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9537,7 +9537,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9551,7 +9551,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9565,7 +9565,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9579,7 +9579,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9593,7 +9593,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9607,7 +9607,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9621,7 +9621,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9635,7 +9635,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9649,7 +9649,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9663,7 +9663,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9677,7 +9677,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9691,7 +9691,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9705,7 +9705,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9719,7 +9719,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9733,7 +9733,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9747,7 +9747,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9761,7 +9761,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9775,7 +9775,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9789,7 +9789,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9803,7 +9803,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9817,7 +9817,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9831,7 +9831,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9845,7 +9845,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9859,7 +9859,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9873,7 +9873,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9887,7 +9887,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9901,7 +9901,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9915,7 +9915,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9929,7 +9929,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9943,7 +9943,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9957,7 +9957,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9971,7 +9971,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9985,7 +9985,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9999,7 +9999,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10013,7 +10013,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10027,7 +10027,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10041,7 +10041,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10055,7 +10055,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10069,7 +10069,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10083,7 +10083,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10097,7 +10097,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10111,7 +10111,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10125,7 +10125,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10139,7 +10139,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10153,7 +10153,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10167,7 +10167,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10181,7 +10181,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10195,7 +10195,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10209,7 +10209,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10223,7 +10223,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10237,7 +10237,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10251,7 +10251,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10265,7 +10265,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10279,7 +10279,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10293,7 +10293,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10307,7 +10307,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10321,7 +10321,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10335,7 +10335,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10349,7 +10349,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10363,7 +10363,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10377,7 +10377,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10391,7 +10391,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10405,7 +10405,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10419,7 +10419,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10433,7 +10433,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10447,7 +10447,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10461,7 +10461,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10475,7 +10475,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10489,7 +10489,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10503,7 +10503,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10517,7 +10517,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10531,7 +10531,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10545,7 +10545,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10559,7 +10559,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10573,7 +10573,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10587,7 +10587,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10601,7 +10601,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10615,7 +10615,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10629,7 +10629,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10643,7 +10643,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10657,7 +10657,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10671,7 +10671,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10692,7 +10692,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10706,7 +10706,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10720,7 +10720,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10734,7 +10734,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10748,7 +10748,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10762,7 +10762,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10776,7 +10776,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10790,7 +10790,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10804,7 +10804,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10818,7 +10818,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10832,7 +10832,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10846,7 +10846,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10860,7 +10860,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10874,7 +10874,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10888,7 +10888,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10902,7 +10902,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10916,7 +10916,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10930,7 +10930,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10944,7 +10944,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10958,7 +10958,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10972,7 +10972,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10986,7 +10986,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11000,7 +11000,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11014,7 +11014,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11028,7 +11028,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11042,7 +11042,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11056,7 +11056,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11070,7 +11070,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11084,7 +11084,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11098,7 +11098,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11112,7 +11112,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11126,7 +11126,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11140,7 +11140,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11154,7 +11154,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11168,7 +11168,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11182,7 +11182,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11196,7 +11196,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11210,7 +11210,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11224,7 +11224,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11238,7 +11238,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11252,7 +11252,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11266,7 +11266,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11280,7 +11280,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11294,7 +11294,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11308,7 +11308,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11322,7 +11322,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11336,7 +11336,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11350,7 +11350,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11364,7 +11364,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11378,7 +11378,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11392,7 +11392,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11406,7 +11406,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11420,7 +11420,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11434,7 +11434,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11448,7 +11448,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11462,7 +11462,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11476,7 +11476,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11490,7 +11490,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11504,7 +11504,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11518,7 +11518,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11532,7 +11532,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11546,7 +11546,7 @@ Für 1000 kg in Reichsmark.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11629,7 +11629,7 @@ Berlin, den 4. Januar 1928.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 2 3 5</CornerPts>
             </TableCell>
@@ -11643,7 +11643,7 @@ Berlin, den 4. Januar 1928.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 2 3 5</CornerPts>
             </TableCell>
@@ -11664,7 +11664,7 @@ Berlin, den 4. Januar 1928.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -11685,7 +11685,7 @@ Berlin, den 4. Januar 1928.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 4 5</CornerPts>
             </TableCell>
@@ -11699,7 +11699,7 @@ Berlin, den 4. Januar 1928.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11713,7 +11713,7 @@ Berlin, den 4. Januar 1928.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11727,7 +11727,7 @@ Berlin, den 4. Januar 1928.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11741,7 +11741,7 @@ Berlin, den 4. Januar 1928.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11755,7 +11755,7 @@ Berlin, den 4. Januar 1928.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11769,7 +11769,7 @@ Berlin, den 4. Januar 1928.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11783,7 +11783,7 @@ Berlin, den 4. Januar 1928.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11808,7 +11808,7 @@ Berlin, den 4. Januar 1928.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11822,7 +11822,7 @@ Berlin, den 4. Januar 1928.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11836,7 +11836,7 @@ Berlin, den 4. Januar 1928.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11850,7 +11850,7 @@ Berlin, den 4. Januar 1928.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11864,7 +11864,7 @@ Berlin, den 4. Januar 1928.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11878,7 +11878,7 @@ Berlin, den 4. Januar 1928.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11892,7 +11892,7 @@ Berlin, den 4. Januar 1928.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11906,7 +11906,7 @@ Berlin, den 4. Januar 1928.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11920,7 +11920,7 @@ Berlin, den 4. Januar 1928.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11934,7 +11934,7 @@ Berlin, den 4. Januar 1928.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11948,7 +11948,7 @@ Berlin, den 4. Januar 1928.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11962,7 +11962,7 @@ Berlin, den 4. Januar 1928.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11976,7 +11976,7 @@ Berlin, den 4. Januar 1928.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11990,7 +11990,7 @@ Berlin, den 4. Januar 1928.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -12004,7 +12004,7 @@ Berlin, den 4. Januar 1928.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -12018,7 +12018,7 @@ Berlin, den 4. Januar 1928.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -12032,7 +12032,7 @@ Berlin, den 4. Januar 1928.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -12046,7 +12046,7 @@ Berlin, den 4. Januar 1928.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -12060,7 +12060,7 @@ Berlin, den 4. Januar 1928.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -12074,7 +12074,7 @@ Berlin, den 4. Januar 1928.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -12088,7 +12088,7 @@ Berlin, den 4. Januar 1928.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -12102,7 +12102,7 @@ Berlin, den 4. Januar 1928.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -12116,7 +12116,7 @@ Berlin, den 4. Januar 1928.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -12130,7 +12130,7 @@ Berlin, den 4. Januar 1928.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -12144,7 +12144,7 @@ Berlin, den 4. Januar 1928.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -12158,7 +12158,7 @@ Berlin, den 4. Januar 1928.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -12172,7 +12172,7 @@ Berlin, den 4. Januar 1928.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -12186,7 +12186,7 @@ Berlin, den 4. Januar 1928.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -12200,7 +12200,7 @@ Berlin, den 4. Januar 1928.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -12214,7 +12214,7 @@ Berlin, den 4. Januar 1928.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -12228,7 +12228,7 @@ Berlin, den 4. Januar 1928.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -12242,7 +12242,7 @@ Berlin, den 4. Januar 1928.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>

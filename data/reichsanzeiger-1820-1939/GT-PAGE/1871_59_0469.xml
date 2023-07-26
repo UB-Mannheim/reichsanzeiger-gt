@@ -5,20 +5,20 @@
 prov=READ-COOP:name=PyLaia@Transkribus:version=0.7.1:model_id=40804:date=05_07_2022_11:37
 Transkribus</Creator>
         <Created>2021-12-14T11:43:01.484+01:00</Created>
-        <LastChange>2022-12-07T16:38:06.802+01:00</LastChange>
+        <LastChange>2023-07-26T14:55:22.613+02:00</LastChange>
         <Comments>
                 Measurement unit: pixel
                 PrimaryLanguage: 
                 Producer: Transkribus
             </Comments>
-        <TranskribusMetadata docId="1256542" pageId="50892376" pageNr="7" tsid="105748886" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=JJQLOZUDRKUEYQOGGOADIKLL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YNJKCULKRJBAUGPPMMJHNTIS" imageId="27583901"/>
+        <TranskribusMetadata docId="1256542" pageId="50892376" pageNr="7" tsid="130958234" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=JJQLOZUDRKUEYQOGGOADIKLL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZPLLDHCILZFLCANHXACPILON" imageId="27583901"/>
     </Metadata>
     <Page imageFilename="1871_59_0469.jpg" imageWidth="10720" imageHeight="7440">
         <PrintSpace>
             <Coords points="845,1032 9884,995 10025,7137 986,7174"/>
         </PrintSpace>
         <ReadingOrder>
-            <OrderedGroup id="ro_1670487782166" caption="Regions reading order">
+            <OrderedGroup id="ro_1690386033248" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
                 <RegionRefIndexed index="1" regionRef="r2"/>
                 <RegionRefIndexed index="2" regionRef="r3"/>
@@ -40,15 +40,15 @@ Transkribus</Creator>
                 <RegionRefIndexed index="18" regionRef="r19"/>
                 <RegionRefIndexed index="19" regionRef="r20"/>
                 <RegionRefIndexed index="20" regionRef="r21"/>
-                <RegionRefIndexed index="44" regionRef="TextRegion_1670427486548_40661"/>
-                <RegionRefIndexed index="45" regionRef="TextRegion_1670427486549_40662"/>
-                <RegionRefIndexed index="46" regionRef="TextRegion_1670427486555_40667"/>
-                <RegionRefIndexed index="47" regionRef="TextRegion_1670427486550_40663"/>
-                <RegionRefIndexed index="48" regionRef="TextRegion_1670427486551_40664"/>
-                <RegionRefIndexed index="49" regionRef="TextRegion_1670427486556_40668"/>
-                <RegionRefIndexed index="50" regionRef="TextRegion_1670427486552_40665"/>
-                <RegionRefIndexed index="51" regionRef="TextRegion_1670427486553_40666"/>
-                <RegionRefIndexed index="52" regionRef="TextRegion_1670427486558_40669"/>
+                <RegionRefIndexed index="44" regionRef="TextRegion_1690376122375_36577"/>
+                <RegionRefIndexed index="45" regionRef="TextRegion_1690376122377_36578"/>
+                <RegionRefIndexed index="46" regionRef="TextRegion_1690376122381_36583"/>
+                <RegionRefIndexed index="47" regionRef="TextRegion_1690376122378_36579"/>
+                <RegionRefIndexed index="48" regionRef="TextRegion_1690376122379_36580"/>
+                <RegionRefIndexed index="49" regionRef="TextRegion_1690376122382_36584"/>
+                <RegionRefIndexed index="50" regionRef="TextRegion_1690376122380_36581"/>
+                <RegionRefIndexed index="51" regionRef="TextRegion_1690376122380_36582"/>
+                <RegionRefIndexed index="52" regionRef="TextRegion_1690376122383_36585"/>
             </OrderedGroup>
         </ReadingOrder>
         <TextRegion type="page-number" id="r1" custom="readingOrder {index:0;} structure {type:page-number;}">
@@ -2809,7 +2809,7 @@ und der zum Quellengebiet der Brüche gehörige Theil des Kan⸗</Unicode>
         <SeparatorRegion id="r_44" custom="readingOrder {index:43;}">
             <Coords points="1790,1629 2510,1629 2510,1646 1790,1646"/>
         </SeparatorRegion>
-        <TextRegion id="TextRegion_1670427486548_40661" custom="readingOrder {index:44;} structure {type:T0C0;}">
+        <TextRegion id="TextRegion_1690376122375_36577" custom="readingOrder {index:44;} structure {type:T0C0;}">
             <Coords points="1137,1327 1136,1388 2540,1393 2541,1325"/>
             <TextLine id="line_1644228876649_47" custom="readingOrder {index:0;}">
                 <Coords points="1187,1326 1977,1326 1977,1389 1185,1386"/>
@@ -2822,7 +2822,7 @@ und der zum Quellengebiet der Brüche gehörige Theil des Kan⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427486549_40662" custom="readingOrder {index:45;} structure {type:T0C0;}">
+        <TextRegion id="TextRegion_1690376122377_36578" custom="readingOrder {index:45;} structure {type:T0C0;}">
             <Coords points="1136,1388 1136,1457 2541,1457 2540,1393"/>
             <TextLine id="line_1644228982585_50" custom="readingOrder {index:0;}">
                 <Coords points="1184,1389 1834,1391 1836,1455 1184,1454"/>
@@ -2835,7 +2835,7 @@ und der zum Quellengebiet der Brüche gehörige Theil des Kan⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427486555_40667" custom="readingOrder {index:46;} structure {type:T0C0;}">
+        <TextRegion id="TextRegion_1690376122381_36583" custom="readingOrder {index:46;} structure {type:T0C0;}">
             <Coords points="1136,1457 1135,1647 2541,1652 2541,1457"/>
             <TextLine id="line_1644229092692_53" custom="readingOrder {index:0;}">
                 <Coords points="1189,1458 2513,1457 2516,1526 1188,1527"/>
@@ -2862,7 +2862,7 @@ und der zum Quellengebiet der Brüche gehörige Theil des Kan⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427486550_40663" custom="readingOrder {index:47;} structure {type:T0C1;}">
+        <TextRegion id="TextRegion_1690376122378_36579" custom="readingOrder {index:47;} structure {type:T0C1;}">
             <Coords points="2541,1325 2540,1393 2729,1393 2730,1325"/>
             <TextLine id="line_1644228910453_48" custom="readingOrder {index:0;}">
                 <Coords points="2554,1329 2715,1327 2716,1386 2555,1388"/>
@@ -2875,7 +2875,7 @@ und der zum Quellengebiet der Brüche gehörige Theil des Kan⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427486551_40664" custom="readingOrder {index:48;} structure {type:T0C1;}">
+        <TextRegion id="TextRegion_1690376122379_36580" custom="readingOrder {index:48;} structure {type:T0C1;}">
             <Coords points="2540,1393 2541,1457 2732,1464 2729,1393"/>
             <TextLine id="line_1644229013683_51" custom="readingOrder {index:0;}">
                 <Coords points="2620,1396 2647,1396 2647,1446 2620,1446"/>
@@ -2888,7 +2888,7 @@ und der zum Quellengebiet der Brüche gehörige Theil des Kan⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427486556_40668" custom="readingOrder {index:49;} structure {type:T0C1;}">
+        <TextRegion id="TextRegion_1690376122382_36584" custom="readingOrder {index:49;} structure {type:T0C1;}">
             <Coords points="2541,1457 2541,1652 2727,1654 2732,1464"/>
             <TextLine id="line_1644229105506_56" custom="readingOrder {index:0;}">
                 <Coords points="2623,1592 2647,1592 2647,1642 2623,1642"/>
@@ -2901,7 +2901,7 @@ und der zum Quellengebiet der Brüche gehörige Theil des Kan⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427486552_40665" custom="readingOrder {index:50;} structure {type:T0C2;}">
+        <TextRegion id="TextRegion_1690376122380_36581" custom="readingOrder {index:50;} structure {type:T0C2;}">
             <Coords points="2730,1325 2729,1393 3099,1393 3099,1325"/>
             <TextLine id="line_1644228935383_49" custom="readingOrder {index:0;}">
                 <Coords points="2745,1327 3084,1326 3084,1390 2745,1388"/>
@@ -2914,7 +2914,7 @@ und der zum Quellengebiet der Brüche gehörige Theil des Kan⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427486553_40666" custom="readingOrder {index:51;} structure {type:T0C2;}">
+        <TextRegion id="TextRegion_1690376122380_36582" custom="readingOrder {index:51;} structure {type:T0C2;}">
             <Coords points="2729,1393 2732,1464 3101,1464 3099,1393"/>
             <TextLine id="line_1644229028161_52" custom="readingOrder {index:0;}">
                 <Coords points="2785,1395 3086,1395 3086,1460 2782,1459"/>
@@ -2927,7 +2927,7 @@ und der zum Quellengebiet der Brüche gehörige Theil des Kan⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427486558_40669" custom="readingOrder {index:52;} structure {type:T0C2;}">
+        <TextRegion id="TextRegion_1690376122383_36585" custom="readingOrder {index:52;} structure {type:T0C2;}">
             <Coords points="2732,1464 2727,1654 3097,1657 3101,1464"/>
             <TextLine id="line_1644229108520_57" custom="readingOrder {index:0;}">
                 <Coords points="2815,1592 3085,1588 3084,1655 2814,1654"/>

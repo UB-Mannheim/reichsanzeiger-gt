@@ -5,20 +5,20 @@
 prov=READ-COOP:name=PyLaia@Transkribus:version=0.6.8:model_id=40804:date=11_05_2022_09:47
 Transkribus</Creator>
         <Created>2021-12-14T11:54:12.915+01:00</Created>
-        <LastChange>2022-12-07T16:35:55.794+01:00</LastChange>
+        <LastChange>2023-07-26T14:47:20.966+02:00</LastChange>
         <Comments>
                 Measurement unit: pixel
                 PrimaryLanguage: 
                 Producer: Transkribus
             </Comments>
-        <TranskribusMetadata docId="1256534" pageId="50892323" pageNr="3" tsid="105748837" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=CHQMTEAUMTXJFVYFUMEPIQWG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HIUITTMHTVDRNBIWXJGVGMRS" imageId="30635769"/>
+        <TranskribusMetadata docId="1256534" pageId="50892323" pageNr="3" tsid="130957045" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=CHQMTEAUMTXJFVYFUMEPIQWG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IUGDNXYPWIHCBCHMQKGMSBOH" imageId="30635769"/>
     </Metadata>
     <Page imageFilename="1891_33_0452.jpg" imageWidth="9944" imageHeight="6680">
         <PrintSpace>
             <Coords points="454,290 9555,194 9555,6424 490,6443"/>
         </PrintSpace>
         <ReadingOrder>
-            <OrderedGroup id="ro_1670487784856" caption="Regions reading order">
+            <OrderedGroup id="ro_1690386037605" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
                 <RegionRefIndexed index="1" regionRef="r2"/>
                 <RegionRefIndexed index="2" regionRef="r3"/>
@@ -39,195 +39,195 @@ Transkribus</Creator>
                 <RegionRefIndexed index="17" regionRef="r18"/>
                 <RegionRefIndexed index="18" regionRef="r19"/>
                 <RegionRefIndexed index="19" regionRef="r20"/>
-                <RegionRefIndexed index="48" regionRef="TextRegion_1670427355243_36864"/>
-                <RegionRefIndexed index="49" regionRef="TextRegion_1670427355244_36867"/>
-                <RegionRefIndexed index="50" regionRef="TextRegion_1670427355244_36870"/>
-                <RegionRefIndexed index="51" regionRef="TextRegion_1670427355244_36873"/>
-                <RegionRefIndexed index="52" regionRef="TextRegion_1670427355245_36876"/>
-                <RegionRefIndexed index="53" regionRef="TextRegion_1670427355245_36879"/>
-                <RegionRefIndexed index="54" regionRef="TextRegion_1670427355246_36882"/>
-                <RegionRefIndexed index="55" regionRef="TextRegion_1670427355246_36885"/>
-                <RegionRefIndexed index="56" regionRef="TextRegion_1670427355247_36888"/>
-                <RegionRefIndexed index="57" regionRef="TextRegion_1670427355247_36891"/>
-                <RegionRefIndexed index="58" regionRef="TextRegion_1670427355248_36894"/>
-                <RegionRefIndexed index="59" regionRef="TextRegion_1670427355248_36897"/>
-                <RegionRefIndexed index="60" regionRef="TextRegion_1670427355249_36900"/>
-                <RegionRefIndexed index="61" regionRef="TextRegion_1670427355249_36903"/>
-                <RegionRefIndexed index="62" regionRef="TextRegion_1670427355250_36906"/>
-                <RegionRefIndexed index="63" regionRef="TextRegion_1670427355250_36909"/>
-                <RegionRefIndexed index="64" regionRef="TextRegion_1670427355251_36912"/>
-                <RegionRefIndexed index="65" regionRef="TextRegion_1670427355251_36915"/>
-                <RegionRefIndexed index="66" regionRef="TextRegion_1670427355252_36918"/>
-                <RegionRefIndexed index="67" regionRef="TextRegion_1670427355252_36921"/>
-                <RegionRefIndexed index="68" regionRef="TextRegion_1670427355253_36924"/>
-                <RegionRefIndexed index="69" regionRef="TextRegion_1670427355253_36927"/>
-                <RegionRefIndexed index="70" regionRef="TextRegion_1670427355254_36930"/>
-                <RegionRefIndexed index="71" regionRef="TextRegion_1670427355254_36933"/>
-                <RegionRefIndexed index="72" regionRef="TextRegion_1670427355255_36936"/>
-                <RegionRefIndexed index="73" regionRef="TextRegion_1670427355255_36939"/>
-                <RegionRefIndexed index="74" regionRef="TextRegion_1670427355255_36942"/>
-                <RegionRefIndexed index="75" regionRef="TextRegion_1670427355243_36865"/>
-                <RegionRefIndexed index="76" regionRef="TextRegion_1670427355244_36868"/>
-                <RegionRefIndexed index="77" regionRef="TextRegion_1670427355244_36871"/>
-                <RegionRefIndexed index="78" regionRef="TextRegion_1670427355245_36874"/>
-                <RegionRefIndexed index="79" regionRef="TextRegion_1670427355245_36877"/>
-                <RegionRefIndexed index="80" regionRef="TextRegion_1670427355246_36880"/>
-                <RegionRefIndexed index="81" regionRef="TextRegion_1670427355246_36883"/>
-                <RegionRefIndexed index="82" regionRef="TextRegion_1670427355247_36886"/>
-                <RegionRefIndexed index="83" regionRef="TextRegion_1670427355247_36889"/>
-                <RegionRefIndexed index="84" regionRef="TextRegion_1670427355247_36892"/>
-                <RegionRefIndexed index="85" regionRef="TextRegion_1670427355248_36895"/>
-                <RegionRefIndexed index="86" regionRef="TextRegion_1670427355248_36898"/>
-                <RegionRefIndexed index="87" regionRef="TextRegion_1670427355249_36901"/>
-                <RegionRefIndexed index="88" regionRef="TextRegion_1670427355249_36904"/>
-                <RegionRefIndexed index="89" regionRef="TextRegion_1670427355250_36907"/>
-                <RegionRefIndexed index="90" regionRef="TextRegion_1670427355250_36910"/>
-                <RegionRefIndexed index="91" regionRef="TextRegion_1670427355251_36913"/>
-                <RegionRefIndexed index="92" regionRef="TextRegion_1670427355251_36916"/>
-                <RegionRefIndexed index="93" regionRef="TextRegion_1670427355252_36919"/>
-                <RegionRefIndexed index="94" regionRef="TextRegion_1670427355252_36922"/>
-                <RegionRefIndexed index="95" regionRef="TextRegion_1670427355253_36925"/>
-                <RegionRefIndexed index="96" regionRef="TextRegion_1670427355253_36928"/>
-                <RegionRefIndexed index="97" regionRef="TextRegion_1670427355254_36931"/>
-                <RegionRefIndexed index="98" regionRef="TextRegion_1670427355254_36934"/>
-                <RegionRefIndexed index="99" regionRef="TextRegion_1670427355255_36937"/>
-                <RegionRefIndexed index="100" regionRef="TextRegion_1670427355255_36940"/>
-                <RegionRefIndexed index="101" regionRef="TextRegion_1670427355256_36943"/>
-                <RegionRefIndexed index="102" regionRef="TextRegion_1670427355243_36866"/>
-                <RegionRefIndexed index="103" regionRef="TextRegion_1670427355244_36869"/>
-                <RegionRefIndexed index="104" regionRef="TextRegion_1670427355244_36872"/>
-                <RegionRefIndexed index="105" regionRef="TextRegion_1670427355245_36875"/>
-                <RegionRefIndexed index="106" regionRef="TextRegion_1670427355245_36878"/>
-                <RegionRefIndexed index="107" regionRef="TextRegion_1670427355246_36881"/>
-                <RegionRefIndexed index="108" regionRef="TextRegion_1670427355246_36884"/>
-                <RegionRefIndexed index="109" regionRef="TextRegion_1670427355247_36887"/>
-                <RegionRefIndexed index="110" regionRef="TextRegion_1670427355247_36890"/>
-                <RegionRefIndexed index="111" regionRef="TextRegion_1670427355248_36893"/>
-                <RegionRefIndexed index="112" regionRef="TextRegion_1670427355248_36896"/>
-                <RegionRefIndexed index="113" regionRef="TextRegion_1670427355248_36899"/>
-                <RegionRefIndexed index="114" regionRef="TextRegion_1670427355249_36902"/>
-                <RegionRefIndexed index="115" regionRef="TextRegion_1670427355249_36905"/>
-                <RegionRefIndexed index="116" regionRef="TextRegion_1670427355250_36908"/>
-                <RegionRefIndexed index="117" regionRef="TextRegion_1670427355250_36911"/>
-                <RegionRefIndexed index="118" regionRef="TextRegion_1670427355251_36914"/>
-                <RegionRefIndexed index="119" regionRef="TextRegion_1670427355251_36917"/>
-                <RegionRefIndexed index="120" regionRef="TextRegion_1670427355252_36920"/>
-                <RegionRefIndexed index="121" regionRef="TextRegion_1670427355252_36923"/>
-                <RegionRefIndexed index="122" regionRef="TextRegion_1670427355253_36926"/>
-                <RegionRefIndexed index="123" regionRef="TextRegion_1670427355253_36929"/>
-                <RegionRefIndexed index="124" regionRef="TextRegion_1670427355254_36932"/>
-                <RegionRefIndexed index="125" regionRef="TextRegion_1670427355254_36935"/>
-                <RegionRefIndexed index="126" regionRef="TextRegion_1670427355255_36938"/>
-                <RegionRefIndexed index="127" regionRef="TextRegion_1670427355255_36941"/>
-                <RegionRefIndexed index="128" regionRef="TextRegion_1670427355256_36944"/>
-                <RegionRefIndexed index="129" regionRef="TextRegion_1670427355258_36945"/>
-                <RegionRefIndexed index="130" regionRef="TextRegion_1670427355259_36948"/>
-                <RegionRefIndexed index="131" regionRef="TextRegion_1670427355259_36951"/>
-                <RegionRefIndexed index="132" regionRef="TextRegion_1670427355260_36954"/>
-                <RegionRefIndexed index="133" regionRef="TextRegion_1670427355260_36957"/>
-                <RegionRefIndexed index="134" regionRef="TextRegion_1670427355260_36960"/>
-                <RegionRefIndexed index="135" regionRef="TextRegion_1670427355261_36963"/>
-                <RegionRefIndexed index="136" regionRef="TextRegion_1670427355261_36966"/>
-                <RegionRefIndexed index="137" regionRef="TextRegion_1670427355262_36969"/>
-                <RegionRefIndexed index="138" regionRef="TextRegion_1670427355262_36972"/>
-                <RegionRefIndexed index="139" regionRef="TextRegion_1670427355262_36975"/>
-                <RegionRefIndexed index="140" regionRef="TextRegion_1670427355263_36978"/>
-                <RegionRefIndexed index="141" regionRef="TextRegion_1670427355263_36981"/>
-                <RegionRefIndexed index="142" regionRef="TextRegion_1670427355263_36984"/>
-                <RegionRefIndexed index="143" regionRef="TextRegion_1670427355264_36987"/>
-                <RegionRefIndexed index="144" regionRef="TextRegion_1670427355264_36990"/>
-                <RegionRefIndexed index="145" regionRef="TextRegion_1670427355265_36993"/>
-                <RegionRefIndexed index="146" regionRef="TextRegion_1670427355265_36996"/>
-                <RegionRefIndexed index="147" regionRef="TextRegion_1670427355265_36999"/>
-                <RegionRefIndexed index="148" regionRef="TextRegion_1670427355266_37002"/>
-                <RegionRefIndexed index="149" regionRef="TextRegion_1670427355266_37005"/>
-                <RegionRefIndexed index="150" regionRef="TextRegion_1670427355266_37008"/>
-                <RegionRefIndexed index="151" regionRef="TextRegion_1670427355267_37011"/>
-                <RegionRefIndexed index="152" regionRef="TextRegion_1670427355267_37014"/>
-                <RegionRefIndexed index="153" regionRef="TextRegion_1670427355267_37017"/>
-                <RegionRefIndexed index="154" regionRef="TextRegion_1670427355268_37020"/>
-                <RegionRefIndexed index="155" regionRef="TextRegion_1670427355268_37023"/>
-                <RegionRefIndexed index="156" regionRef="TextRegion_1670427355269_37026"/>
-                <RegionRefIndexed index="157" regionRef="TextRegion_1670427355258_36946"/>
-                <RegionRefIndexed index="158" regionRef="TextRegion_1670427355259_36949"/>
-                <RegionRefIndexed index="159" regionRef="TextRegion_1670427355259_36952"/>
-                <RegionRefIndexed index="160" regionRef="TextRegion_1670427355260_36955"/>
-                <RegionRefIndexed index="161" regionRef="TextRegion_1670427355260_36958"/>
-                <RegionRefIndexed index="162" regionRef="TextRegion_1670427355261_36961"/>
-                <RegionRefIndexed index="163" regionRef="TextRegion_1670427355261_36964"/>
-                <RegionRefIndexed index="164" regionRef="TextRegion_1670427355261_36967"/>
-                <RegionRefIndexed index="165" regionRef="TextRegion_1670427355262_36970"/>
-                <RegionRefIndexed index="166" regionRef="TextRegion_1670427355262_36973"/>
-                <RegionRefIndexed index="167" regionRef="TextRegion_1670427355263_36976"/>
-                <RegionRefIndexed index="168" regionRef="TextRegion_1670427355263_36979"/>
-                <RegionRefIndexed index="169" regionRef="TextRegion_1670427355263_36982"/>
-                <RegionRefIndexed index="170" regionRef="TextRegion_1670427355264_36985"/>
-                <RegionRefIndexed index="171" regionRef="TextRegion_1670427355264_36988"/>
-                <RegionRefIndexed index="172" regionRef="TextRegion_1670427355264_36991"/>
-                <RegionRefIndexed index="173" regionRef="TextRegion_1670427355265_36994"/>
-                <RegionRefIndexed index="174" regionRef="TextRegion_1670427355265_36997"/>
-                <RegionRefIndexed index="175" regionRef="TextRegion_1670427355265_37000"/>
-                <RegionRefIndexed index="176" regionRef="TextRegion_1670427355266_37003"/>
-                <RegionRefIndexed index="177" regionRef="TextRegion_1670427355266_37006"/>
-                <RegionRefIndexed index="178" regionRef="TextRegion_1670427355266_37009"/>
-                <RegionRefIndexed index="179" regionRef="TextRegion_1670427355267_37012"/>
-                <RegionRefIndexed index="180" regionRef="TextRegion_1670427355267_37015"/>
-                <RegionRefIndexed index="181" regionRef="TextRegion_1670427355268_37018"/>
-                <RegionRefIndexed index="182" regionRef="TextRegion_1670427355268_37021"/>
-                <RegionRefIndexed index="183" regionRef="TextRegion_1670427355268_37024"/>
-                <RegionRefIndexed index="184" regionRef="TextRegion_1670427355269_37027"/>
-                <RegionRefIndexed index="185" regionRef="TextRegion_1670427355258_36947"/>
-                <RegionRefIndexed index="186" regionRef="TextRegion_1670427355259_36950"/>
-                <RegionRefIndexed index="187" regionRef="TextRegion_1670427355259_36953"/>
-                <RegionRefIndexed index="188" regionRef="TextRegion_1670427355260_36956"/>
-                <RegionRefIndexed index="189" regionRef="TextRegion_1670427355260_36959"/>
-                <RegionRefIndexed index="190" regionRef="TextRegion_1670427355261_36962"/>
-                <RegionRefIndexed index="191" regionRef="TextRegion_1670427355261_36965"/>
-                <RegionRefIndexed index="192" regionRef="TextRegion_1670427355261_36968"/>
-                <RegionRefIndexed index="193" regionRef="TextRegion_1670427355262_36971"/>
-                <RegionRefIndexed index="194" regionRef="TextRegion_1670427355262_36974"/>
-                <RegionRefIndexed index="195" regionRef="TextRegion_1670427355263_36977"/>
-                <RegionRefIndexed index="196" regionRef="TextRegion_1670427355263_36980"/>
-                <RegionRefIndexed index="197" regionRef="TextRegion_1670427355263_36983"/>
-                <RegionRefIndexed index="198" regionRef="TextRegion_1670427355264_36986"/>
-                <RegionRefIndexed index="199" regionRef="TextRegion_1670427355264_36989"/>
-                <RegionRefIndexed index="200" regionRef="TextRegion_1670427355264_36992"/>
-                <RegionRefIndexed index="201" regionRef="TextRegion_1670427355265_36995"/>
-                <RegionRefIndexed index="202" regionRef="TextRegion_1670427355265_36998"/>
-                <RegionRefIndexed index="203" regionRef="TextRegion_1670427355265_37001"/>
-                <RegionRefIndexed index="204" regionRef="TextRegion_1670427355266_37004"/>
-                <RegionRefIndexed index="205" regionRef="TextRegion_1670427355266_37007"/>
-                <RegionRefIndexed index="206" regionRef="TextRegion_1670427355266_37010"/>
-                <RegionRefIndexed index="207" regionRef="TextRegion_1670427355267_37013"/>
-                <RegionRefIndexed index="208" regionRef="TextRegion_1670427355267_37016"/>
-                <RegionRefIndexed index="209" regionRef="TextRegion_1670427355268_37019"/>
-                <RegionRefIndexed index="210" regionRef="TextRegion_1670427355268_37022"/>
-                <RegionRefIndexed index="211" regionRef="TextRegion_1670427355268_37025"/>
-                <RegionRefIndexed index="212" regionRef="TextRegion_1670427355269_37028"/>
-                <RegionRefIndexed index="213" regionRef="TextRegion_1670427355271_37029"/>
-                <RegionRefIndexed index="214" regionRef="TextRegion_1670427355271_37033"/>
-                <RegionRefIndexed index="215" regionRef="TextRegion_1670427355272_37037"/>
-                <RegionRefIndexed index="216" regionRef="TextRegion_1670427355272_37041"/>
-                <RegionRefIndexed index="217" regionRef="TextRegion_1670427355273_37045"/>
-                <RegionRefIndexed index="218" regionRef="TextRegion_1670427355273_37049"/>
-                <RegionRefIndexed index="219" regionRef="TextRegion_1670427355271_37030"/>
-                <RegionRefIndexed index="220" regionRef="TextRegion_1670427355271_37034"/>
-                <RegionRefIndexed index="221" regionRef="TextRegion_1670427355272_37038"/>
-                <RegionRefIndexed index="222" regionRef="TextRegion_1670427355272_37042"/>
-                <RegionRefIndexed index="223" regionRef="TextRegion_1670427355273_37046"/>
-                <RegionRefIndexed index="224" regionRef="TextRegion_1670427355273_37050"/>
-                <RegionRefIndexed index="225" regionRef="TextRegion_1670427355271_37031"/>
-                <RegionRefIndexed index="226" regionRef="TextRegion_1670427355272_37035"/>
-                <RegionRefIndexed index="227" regionRef="TextRegion_1670427355272_37039"/>
-                <RegionRefIndexed index="228" regionRef="TextRegion_1670427355272_37043"/>
-                <RegionRefIndexed index="229" regionRef="TextRegion_1670427355273_37047"/>
-                <RegionRefIndexed index="230" regionRef="TextRegion_1670427355273_37051"/>
-                <RegionRefIndexed index="231" regionRef="TextRegion_1670427355271_37032"/>
-                <RegionRefIndexed index="232" regionRef="TextRegion_1670427355272_37036"/>
-                <RegionRefIndexed index="233" regionRef="TextRegion_1670427355272_37040"/>
-                <RegionRefIndexed index="234" regionRef="TextRegion_1670427355273_37044"/>
-                <RegionRefIndexed index="235" regionRef="TextRegion_1670427355273_37048"/>
-                <RegionRefIndexed index="236" regionRef="TextRegion_1670427355273_37052"/>
+                <RegionRefIndexed index="48" regionRef="TextRegion_1690375640461_32780"/>
+                <RegionRefIndexed index="49" regionRef="TextRegion_1690375640461_32783"/>
+                <RegionRefIndexed index="50" regionRef="TextRegion_1690375640462_32786"/>
+                <RegionRefIndexed index="51" regionRef="TextRegion_1690375640462_32789"/>
+                <RegionRefIndexed index="52" regionRef="TextRegion_1690375640463_32792"/>
+                <RegionRefIndexed index="53" regionRef="TextRegion_1690375640463_32795"/>
+                <RegionRefIndexed index="54" regionRef="TextRegion_1690375640464_32798"/>
+                <RegionRefIndexed index="55" regionRef="TextRegion_1690375640465_32801"/>
+                <RegionRefIndexed index="56" regionRef="TextRegion_1690375640465_32804"/>
+                <RegionRefIndexed index="57" regionRef="TextRegion_1690375640466_32807"/>
+                <RegionRefIndexed index="58" regionRef="TextRegion_1690375640466_32810"/>
+                <RegionRefIndexed index="59" regionRef="TextRegion_1690375640466_32813"/>
+                <RegionRefIndexed index="60" regionRef="TextRegion_1690375640467_32816"/>
+                <RegionRefIndexed index="61" regionRef="TextRegion_1690375640467_32819"/>
+                <RegionRefIndexed index="62" regionRef="TextRegion_1690375640467_32822"/>
+                <RegionRefIndexed index="63" regionRef="TextRegion_1690375640467_32825"/>
+                <RegionRefIndexed index="64" regionRef="TextRegion_1690375640468_32828"/>
+                <RegionRefIndexed index="65" regionRef="TextRegion_1690375640468_32831"/>
+                <RegionRefIndexed index="66" regionRef="TextRegion_1690375640468_32834"/>
+                <RegionRefIndexed index="67" regionRef="TextRegion_1690375640468_32837"/>
+                <RegionRefIndexed index="68" regionRef="TextRegion_1690375640469_32840"/>
+                <RegionRefIndexed index="69" regionRef="TextRegion_1690375640469_32843"/>
+                <RegionRefIndexed index="70" regionRef="TextRegion_1690375640469_32846"/>
+                <RegionRefIndexed index="71" regionRef="TextRegion_1690375640469_32849"/>
+                <RegionRefIndexed index="72" regionRef="TextRegion_1690375640470_32852"/>
+                <RegionRefIndexed index="73" regionRef="TextRegion_1690375640470_32855"/>
+                <RegionRefIndexed index="74" regionRef="TextRegion_1690375640470_32858"/>
+                <RegionRefIndexed index="75" regionRef="TextRegion_1690375640461_32781"/>
+                <RegionRefIndexed index="76" regionRef="TextRegion_1690375640462_32784"/>
+                <RegionRefIndexed index="77" regionRef="TextRegion_1690375640462_32787"/>
+                <RegionRefIndexed index="78" regionRef="TextRegion_1690375640462_32790"/>
+                <RegionRefIndexed index="79" regionRef="TextRegion_1690375640463_32793"/>
+                <RegionRefIndexed index="80" regionRef="TextRegion_1690375640464_32796"/>
+                <RegionRefIndexed index="81" regionRef="TextRegion_1690375640464_32799"/>
+                <RegionRefIndexed index="82" regionRef="TextRegion_1690375640465_32802"/>
+                <RegionRefIndexed index="83" regionRef="TextRegion_1690375640465_32805"/>
+                <RegionRefIndexed index="84" regionRef="TextRegion_1690375640466_32808"/>
+                <RegionRefIndexed index="85" regionRef="TextRegion_1690375640466_32811"/>
+                <RegionRefIndexed index="86" regionRef="TextRegion_1690375640466_32814"/>
+                <RegionRefIndexed index="87" regionRef="TextRegion_1690375640467_32817"/>
+                <RegionRefIndexed index="88" regionRef="TextRegion_1690375640467_32820"/>
+                <RegionRefIndexed index="89" regionRef="TextRegion_1690375640467_32823"/>
+                <RegionRefIndexed index="90" regionRef="TextRegion_1690375640468_32826"/>
+                <RegionRefIndexed index="91" regionRef="TextRegion_1690375640468_32829"/>
+                <RegionRefIndexed index="92" regionRef="TextRegion_1690375640468_32832"/>
+                <RegionRefIndexed index="93" regionRef="TextRegion_1690375640468_32835"/>
+                <RegionRefIndexed index="94" regionRef="TextRegion_1690375640469_32838"/>
+                <RegionRefIndexed index="95" regionRef="TextRegion_1690375640469_32841"/>
+                <RegionRefIndexed index="96" regionRef="TextRegion_1690375640469_32844"/>
+                <RegionRefIndexed index="97" regionRef="TextRegion_1690375640469_32847"/>
+                <RegionRefIndexed index="98" regionRef="TextRegion_1690375640470_32850"/>
+                <RegionRefIndexed index="99" regionRef="TextRegion_1690375640470_32853"/>
+                <RegionRefIndexed index="100" regionRef="TextRegion_1690375640470_32856"/>
+                <RegionRefIndexed index="101" regionRef="TextRegion_1690375640470_32859"/>
+                <RegionRefIndexed index="102" regionRef="TextRegion_1690375640461_32782"/>
+                <RegionRefIndexed index="103" regionRef="TextRegion_1690375640462_32785"/>
+                <RegionRefIndexed index="104" regionRef="TextRegion_1690375640462_32788"/>
+                <RegionRefIndexed index="105" regionRef="TextRegion_1690375640462_32791"/>
+                <RegionRefIndexed index="106" regionRef="TextRegion_1690375640463_32794"/>
+                <RegionRefIndexed index="107" regionRef="TextRegion_1690375640464_32797"/>
+                <RegionRefIndexed index="108" regionRef="TextRegion_1690375640464_32800"/>
+                <RegionRefIndexed index="109" regionRef="TextRegion_1690375640465_32803"/>
+                <RegionRefIndexed index="110" regionRef="TextRegion_1690375640466_32806"/>
+                <RegionRefIndexed index="111" regionRef="TextRegion_1690375640466_32809"/>
+                <RegionRefIndexed index="112" regionRef="TextRegion_1690375640466_32812"/>
+                <RegionRefIndexed index="113" regionRef="TextRegion_1690375640467_32815"/>
+                <RegionRefIndexed index="114" regionRef="TextRegion_1690375640467_32818"/>
+                <RegionRefIndexed index="115" regionRef="TextRegion_1690375640467_32821"/>
+                <RegionRefIndexed index="116" regionRef="TextRegion_1690375640467_32824"/>
+                <RegionRefIndexed index="117" regionRef="TextRegion_1690375640468_32827"/>
+                <RegionRefIndexed index="118" regionRef="TextRegion_1690375640468_32830"/>
+                <RegionRefIndexed index="119" regionRef="TextRegion_1690375640468_32833"/>
+                <RegionRefIndexed index="120" regionRef="TextRegion_1690375640468_32836"/>
+                <RegionRefIndexed index="121" regionRef="TextRegion_1690375640469_32839"/>
+                <RegionRefIndexed index="122" regionRef="TextRegion_1690375640469_32842"/>
+                <RegionRefIndexed index="123" regionRef="TextRegion_1690375640469_32845"/>
+                <RegionRefIndexed index="124" regionRef="TextRegion_1690375640469_32848"/>
+                <RegionRefIndexed index="125" regionRef="TextRegion_1690375640470_32851"/>
+                <RegionRefIndexed index="126" regionRef="TextRegion_1690375640470_32854"/>
+                <RegionRefIndexed index="127" regionRef="TextRegion_1690375640470_32857"/>
+                <RegionRefIndexed index="128" regionRef="TextRegion_1690375640470_32860"/>
+                <RegionRefIndexed index="129" regionRef="TextRegion_1690375640472_32861"/>
+                <RegionRefIndexed index="130" regionRef="TextRegion_1690375640472_32864"/>
+                <RegionRefIndexed index="131" regionRef="TextRegion_1690375640472_32867"/>
+                <RegionRefIndexed index="132" regionRef="TextRegion_1690375640472_32870"/>
+                <RegionRefIndexed index="133" regionRef="TextRegion_1690375640472_32873"/>
+                <RegionRefIndexed index="134" regionRef="TextRegion_1690375640472_32876"/>
+                <RegionRefIndexed index="135" regionRef="TextRegion_1690375640473_32879"/>
+                <RegionRefIndexed index="136" regionRef="TextRegion_1690375640473_32882"/>
+                <RegionRefIndexed index="137" regionRef="TextRegion_1690375640473_32885"/>
+                <RegionRefIndexed index="138" regionRef="TextRegion_1690375640473_32888"/>
+                <RegionRefIndexed index="139" regionRef="TextRegion_1690375640473_32891"/>
+                <RegionRefIndexed index="140" regionRef="TextRegion_1690375640473_32894"/>
+                <RegionRefIndexed index="141" regionRef="TextRegion_1690375640474_32897"/>
+                <RegionRefIndexed index="142" regionRef="TextRegion_1690375640474_32900"/>
+                <RegionRefIndexed index="143" regionRef="TextRegion_1690375640474_32903"/>
+                <RegionRefIndexed index="144" regionRef="TextRegion_1690375640474_32906"/>
+                <RegionRefIndexed index="145" regionRef="TextRegion_1690375640474_32909"/>
+                <RegionRefIndexed index="146" regionRef="TextRegion_1690375640474_32912"/>
+                <RegionRefIndexed index="147" regionRef="TextRegion_1690375640475_32915"/>
+                <RegionRefIndexed index="148" regionRef="TextRegion_1690375640475_32918"/>
+                <RegionRefIndexed index="149" regionRef="TextRegion_1690375640475_32921"/>
+                <RegionRefIndexed index="150" regionRef="TextRegion_1690375640475_32924"/>
+                <RegionRefIndexed index="151" regionRef="TextRegion_1690375640475_32927"/>
+                <RegionRefIndexed index="152" regionRef="TextRegion_1690375640475_32930"/>
+                <RegionRefIndexed index="153" regionRef="TextRegion_1690375640480_32933"/>
+                <RegionRefIndexed index="154" regionRef="TextRegion_1690375640481_32936"/>
+                <RegionRefIndexed index="155" regionRef="TextRegion_1690375640481_32939"/>
+                <RegionRefIndexed index="156" regionRef="TextRegion_1690375640481_32942"/>
+                <RegionRefIndexed index="157" regionRef="TextRegion_1690375640472_32862"/>
+                <RegionRefIndexed index="158" regionRef="TextRegion_1690375640472_32865"/>
+                <RegionRefIndexed index="159" regionRef="TextRegion_1690375640472_32868"/>
+                <RegionRefIndexed index="160" regionRef="TextRegion_1690375640472_32871"/>
+                <RegionRefIndexed index="161" regionRef="TextRegion_1690375640472_32874"/>
+                <RegionRefIndexed index="162" regionRef="TextRegion_1690375640472_32877"/>
+                <RegionRefIndexed index="163" regionRef="TextRegion_1690375640473_32880"/>
+                <RegionRefIndexed index="164" regionRef="TextRegion_1690375640473_32883"/>
+                <RegionRefIndexed index="165" regionRef="TextRegion_1690375640473_32886"/>
+                <RegionRefIndexed index="166" regionRef="TextRegion_1690375640473_32889"/>
+                <RegionRefIndexed index="167" regionRef="TextRegion_1690375640473_32892"/>
+                <RegionRefIndexed index="168" regionRef="TextRegion_1690375640474_32895"/>
+                <RegionRefIndexed index="169" regionRef="TextRegion_1690375640474_32898"/>
+                <RegionRefIndexed index="170" regionRef="TextRegion_1690375640474_32901"/>
+                <RegionRefIndexed index="171" regionRef="TextRegion_1690375640474_32904"/>
+                <RegionRefIndexed index="172" regionRef="TextRegion_1690375640474_32907"/>
+                <RegionRefIndexed index="173" regionRef="TextRegion_1690375640474_32910"/>
+                <RegionRefIndexed index="174" regionRef="TextRegion_1690375640475_32913"/>
+                <RegionRefIndexed index="175" regionRef="TextRegion_1690375640475_32916"/>
+                <RegionRefIndexed index="176" regionRef="TextRegion_1690375640475_32919"/>
+                <RegionRefIndexed index="177" regionRef="TextRegion_1690375640475_32922"/>
+                <RegionRefIndexed index="178" regionRef="TextRegion_1690375640475_32925"/>
+                <RegionRefIndexed index="179" regionRef="TextRegion_1690375640475_32928"/>
+                <RegionRefIndexed index="180" regionRef="TextRegion_1690375640476_32931"/>
+                <RegionRefIndexed index="181" regionRef="TextRegion_1690375640481_32934"/>
+                <RegionRefIndexed index="182" regionRef="TextRegion_1690375640481_32937"/>
+                <RegionRefIndexed index="183" regionRef="TextRegion_1690375640481_32940"/>
+                <RegionRefIndexed index="184" regionRef="TextRegion_1690375640481_32943"/>
+                <RegionRefIndexed index="185" regionRef="TextRegion_1690375640472_32863"/>
+                <RegionRefIndexed index="186" regionRef="TextRegion_1690375640472_32866"/>
+                <RegionRefIndexed index="187" regionRef="TextRegion_1690375640472_32869"/>
+                <RegionRefIndexed index="188" regionRef="TextRegion_1690375640472_32872"/>
+                <RegionRefIndexed index="189" regionRef="TextRegion_1690375640472_32875"/>
+                <RegionRefIndexed index="190" regionRef="TextRegion_1690375640473_32878"/>
+                <RegionRefIndexed index="191" regionRef="TextRegion_1690375640473_32881"/>
+                <RegionRefIndexed index="192" regionRef="TextRegion_1690375640473_32884"/>
+                <RegionRefIndexed index="193" regionRef="TextRegion_1690375640473_32887"/>
+                <RegionRefIndexed index="194" regionRef="TextRegion_1690375640473_32890"/>
+                <RegionRefIndexed index="195" regionRef="TextRegion_1690375640473_32893"/>
+                <RegionRefIndexed index="196" regionRef="TextRegion_1690375640474_32896"/>
+                <RegionRefIndexed index="197" regionRef="TextRegion_1690375640474_32899"/>
+                <RegionRefIndexed index="198" regionRef="TextRegion_1690375640474_32902"/>
+                <RegionRefIndexed index="199" regionRef="TextRegion_1690375640474_32905"/>
+                <RegionRefIndexed index="200" regionRef="TextRegion_1690375640474_32908"/>
+                <RegionRefIndexed index="201" regionRef="TextRegion_1690375640474_32911"/>
+                <RegionRefIndexed index="202" regionRef="TextRegion_1690375640475_32914"/>
+                <RegionRefIndexed index="203" regionRef="TextRegion_1690375640475_32917"/>
+                <RegionRefIndexed index="204" regionRef="TextRegion_1690375640475_32920"/>
+                <RegionRefIndexed index="205" regionRef="TextRegion_1690375640475_32923"/>
+                <RegionRefIndexed index="206" regionRef="TextRegion_1690375640475_32926"/>
+                <RegionRefIndexed index="207" regionRef="TextRegion_1690375640475_32929"/>
+                <RegionRefIndexed index="208" regionRef="TextRegion_1690375640480_32932"/>
+                <RegionRefIndexed index="209" regionRef="TextRegion_1690375640481_32935"/>
+                <RegionRefIndexed index="210" regionRef="TextRegion_1690375640481_32938"/>
+                <RegionRefIndexed index="211" regionRef="TextRegion_1690375640481_32941"/>
+                <RegionRefIndexed index="212" regionRef="TextRegion_1690375640481_32944"/>
+                <RegionRefIndexed index="213" regionRef="TextRegion_1690375640483_32945"/>
+                <RegionRefIndexed index="214" regionRef="TextRegion_1690375640483_32949"/>
+                <RegionRefIndexed index="215" regionRef="TextRegion_1690375640483_32953"/>
+                <RegionRefIndexed index="216" regionRef="TextRegion_1690375640484_32957"/>
+                <RegionRefIndexed index="217" regionRef="TextRegion_1690375640484_32961"/>
+                <RegionRefIndexed index="218" regionRef="TextRegion_1690375640484_32965"/>
+                <RegionRefIndexed index="219" regionRef="TextRegion_1690375640483_32946"/>
+                <RegionRefIndexed index="220" regionRef="TextRegion_1690375640483_32950"/>
+                <RegionRefIndexed index="221" regionRef="TextRegion_1690375640484_32954"/>
+                <RegionRefIndexed index="222" regionRef="TextRegion_1690375640484_32958"/>
+                <RegionRefIndexed index="223" regionRef="TextRegion_1690375640484_32962"/>
+                <RegionRefIndexed index="224" regionRef="TextRegion_1690375640484_32966"/>
+                <RegionRefIndexed index="225" regionRef="TextRegion_1690375640483_32947"/>
+                <RegionRefIndexed index="226" regionRef="TextRegion_1690375640483_32951"/>
+                <RegionRefIndexed index="227" regionRef="TextRegion_1690375640484_32955"/>
+                <RegionRefIndexed index="228" regionRef="TextRegion_1690375640484_32959"/>
+                <RegionRefIndexed index="229" regionRef="TextRegion_1690375640484_32963"/>
+                <RegionRefIndexed index="230" regionRef="TextRegion_1690375640484_32967"/>
+                <RegionRefIndexed index="231" regionRef="TextRegion_1690375640483_32948"/>
+                <RegionRefIndexed index="232" regionRef="TextRegion_1690375640483_32952"/>
+                <RegionRefIndexed index="233" regionRef="TextRegion_1690375640484_32956"/>
+                <RegionRefIndexed index="234" regionRef="TextRegion_1690375640484_32960"/>
+                <RegionRefIndexed index="235" regionRef="TextRegion_1690375640484_32964"/>
+                <RegionRefIndexed index="236" regionRef="TextRegion_1690375640484_32968"/>
             </OrderedGroup>
         </ReadingOrder>
         <TextRegion type="paragraph" id="r1" custom="readingOrder {index:0;} structure {type:paragraph;}">
@@ -331,7 +331,7 @@ Transkribus</Creator>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l15" custom="readingOrder {index:14;}">
-                <Coords points="636,1103 658,1091 876,1088 876,1088 900,1088 970,1091 970,1127 900,1138 658,1138 636,1131"/>
+                <Coords points="636,1103 658,1091 876,1088 900,1088 970,1091 970,1127 900,1138 658,1138 636,1131"/>
                 <Baseline points="636,1131 849,1128 876,1127 908,1126 942,1125 970,1125"/>
                 <TextEquiv>
                     <Unicode>modifizirte §. 1.</Unicode>
@@ -408,7 +408,7 @@ Transkribus</Creator>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l26" custom="readingOrder {index:25;}">
-                <Coords points="734,1607 835,1601 1308,1591 1308,1591 1646,1591 1959,1594 1959,1622 1881,1635 1646,1640 857,1651 835,1651 734,1646"/>
+                <Coords points="734,1607 835,1601 1308,1591 1646,1591 1959,1594 1959,1622 1881,1635 1646,1640 857,1651 835,1651 734,1646"/>
                 <Baseline points="734,1644 808,1642 835,1642 866,1641 897,1640 919,1640 946,1639 1033,1637 1075,1636 1114,1636 1144,1635 1204,1634 1231,1633 1646,1627 1680,1627 1959,1622"/>
                 <TextEquiv>
                     <Unicode>Der §. 3 wird in der Kommiſſionsfaſſung angenommen.</Unicode>
@@ -499,14 +499,14 @@ Transkribus</Creator>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l39" custom="readingOrder {index:38;}">
-                <Coords points="628,2235 666,2222 981,2218 981,2218 1093,2218 1148,2222 1148,2254 1114,2255 758,2265 666,2265 628,2263"/>
+                <Coords points="628,2235 666,2222 981,2218 1093,2218 1148,2222 1148,2254 1114,2255 758,2265 666,2265 628,2263"/>
                 <Baseline points="628,2263 777,2260 806,2259 1017,2256 1045,2256 1148,2254"/>
                 <TextEquiv>
                     <Unicode>vorlage einverleibt wird.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l40" custom="readingOrder {index:39;}">
-                <Coords points="730,2271 1242,2261 1409,2258 1654,2257 1654,2257 1807,2257 1807,2293 1778,2303 905,2316 848,2316 730,2310"/>
+                <Coords points="730,2271 1242,2261 1409,2258 1654,2257 1807,2257 1807,2293 1778,2303 905,2316 848,2316 730,2310"/>
                 <Baseline points="730,2310 799,2309 827,2308 905,2307 934,2307 1009,2305 1039,2305 1131,2304 1161,2303 1215,2302 1242,2302 1381,2299 1409,2299 1626,2295 1654,2295 1807,2292"/>
                 <TextEquiv>
                     <Unicode>Um 3 ¾ Uhr wird die weitere Berathung vertagt.</Unicode>
@@ -1264,7 +1264,7 @@ lage zur Regelung der Entſchädigungsfrage vorgeſehene Zeit⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r4l9" custom="readingOrder {index:8;}">
-                <Coords points="2030,784 3280,766 3280,766 3302,766 3359,775 3359,805 3302,816 2982,821 2517,828 2206,830 2030,830"/>
+                <Coords points="2030,784 3280,766 3302,766 3359,775 3359,805 3302,816 2982,821 2517,828 2206,830 2030,830"/>
                 <Baseline points="2030,827 2284,823 2314,822 2517,818 2559,818 2704,816 2747,815 2786,815 2820,814 2867,814 2914,813 3024,811 3069,810 3124,810 3165,809 3358,806"/>
                 <TextEquiv>
                     <Unicode>Steuerfreien erleichtern würde; es ſei daher die Annahme</Unicode>
@@ -1334,7 +1334,7 @@ lage zur Regelung der Entſchädigungsfrage vorgeſehene Zeit⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r4l19" custom="readingOrder {index:18;}">
-                <Coords points="2029,1279 2479,1271 3233,1261 3233,1261 3260,1261 3364,1263 3364,1299 3188,1311 3151,1312 2894,1318 2370,1324 2268,1325 2029,1325"/>
+                <Coords points="2029,1279 2479,1271 3233,1261 3260,1261 3364,1263 3364,1299 3188,1311 3151,1312 2894,1318 2370,1324 2268,1325 2029,1325"/>
                 <Baseline points="2029,1319 2268,1317 2297,1316 2386,1314 2415,1313 2655,1310 2683,1310 2722,1310 2742,1309 2968,1306 2983,1306 3151,1303 3167,1302 3364,1299"/>
                 <TextEquiv>
                     <Unicode>Mehrertrag nicht andererſeits in erheblichem Umfang gemindert</Unicode>
@@ -1383,7 +1383,7 @@ lage zur Regelung der Entſchädigungsfrage vorgeſehene Zeit⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r4l26" custom="readingOrder {index:25;}">
-                <Coords points="2032,1626 2057,1625 2712,1614 3244,1607 3244,1607 3334,1607 3367,1617 3367,1647 3334,1655 2182,1672 2032,1672"/>
+                <Coords points="2032,1626 2057,1625 2712,1614 3244,1607 3334,1607 3367,1617 3367,1647 3334,1655 2182,1672 2032,1672"/>
                 <Baseline points="2032,1665 2182,1663 2255,1662 2296,1661 2373,1660 2439,1659 2510,1658 2638,1656 2712,1656 2856,1653 2927,1652 3172,1649 3244,1647 3367,1646"/>
                 <TextEquiv>
                     <Unicode>höhung in den oberen Stufen andererſeits Mehr⸗</Unicode>
@@ -1439,7 +1439,7 @@ lage zur Regelung der Entſchädigungsfrage vorgeſehene Zeit⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r4l34" custom="readingOrder {index:33;}">
-                <Coords points="2029,2030 2072,2022 2273,2014 2526,2008 3206,2002 3206,2002 3336,2002 3369,2011 3369,2040 3227,2048 2859,2061 2188,2062 2029,2062"/>
+                <Coords points="2029,2030 2072,2022 2273,2014 2526,2008 3206,2002 3336,2002 3369,2011 3369,2040 3227,2048 2859,2061 2188,2062 2029,2062"/>
                 <Baseline points="2029,2058 2188,2056 2256,2055 2314,2054 2393,2053 2474,2052 2526,2051 2859,2047 2927,2046 3089,2043 3157,2042 3227,2041 3294,2040 3369,2039"/>
                 <TextEquiv>
                     <Unicode>getreten ſei. Der Finanz⸗Miniſter erklärte, daß eine</Unicode>
@@ -1460,21 +1460,21 @@ lage zur Regelung der Entſchädigungsfrage vorgeſehene Zeit⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r4l37" custom="readingOrder {index:36;}">
-                <Coords points="2030,2166 2431,2159 3101,2152 3101,2152 3330,2152 3370,2161 3370,2197 3339,2199 2278,2212 2258,2212 2088,2210 2030,2206"/>
+                <Coords points="2030,2166 2431,2159 3101,2152 3330,2152 3370,2161 3370,2197 3339,2199 2278,2212 2258,2212 2088,2210 2030,2206"/>
                 <Baseline points="2030,2206 2400,2201 2431,2200 2682,2197 2710,2197 2852,2195 2881,2195 2976,2194 3017,2193 3072,2193 3101,2193 3370,2189"/>
                 <TextEquiv>
                     <Unicode>Reformprogramm durchgeführt werden ſolle, die Mehrerträge,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r4l38" custom="readingOrder {index:37;}">
-                <Coords points="2030,2228 2083,2215 2854,2203 3144,2201 3324,2200 3324,2200 3337,2200 3370,2201 3370,2239 3296,2248 3175,2251 2909,2254 2095,2261 2083,2261 2030,2256"/>
+                <Coords points="2030,2228 2083,2215 2854,2203 3144,2201 3324,2200 3337,2200 3370,2201 3370,2239 3296,2248 3175,2251 2909,2254 2095,2261 2083,2261 2030,2256"/>
                 <Baseline points="2030,2255 2095,2254 2137,2254 2192,2253 2232,2252 2321,2251 2363,2251 2508,2248 2547,2248 2674,2246 2715,2246 2806,2245 2833,2245 3087,2243 3144,2242 3296,2241 3324,2241 3370,2239"/>
                 <TextEquiv>
                     <Unicode>auf die man rechnen könne, nicht wegſtreichen. Freilich ſei</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r4l39" custom="readingOrder {index:38;}">
-                <Coords points="2031,2267 2141,2263 2546,2258 2796,2255 3233,2250 3233,2250 3352,2250 3370,2261 3370,2290 3352,2297 3254,2300 2754,2307 2208,2308 2141,2308 2031,2305"/>
+                <Coords points="2031,2267 2141,2263 2546,2258 2796,2255 3233,2250 3352,2250 3370,2261 3370,2290 3352,2297 3254,2300 2754,2307 2208,2308 2141,2308 2031,2305"/>
                 <Baseline points="2031,2305 2095,2304 2141,2304 2208,2303 2236,2303 2506,2297 2546,2297 2754,2296 2796,2296 3070,2292 3113,2292 3192,2291 3233,2291 3370,2289"/>
                 <TextEquiv>
                     <Unicode>den auf Erleichterung gerichteten Beſtrebungen eine gewiſſe</Unicode>
@@ -1495,7 +1495,7 @@ lage zur Regelung der Entſchädigungsfrage vorgeſehene Zeit⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r4l42" custom="readingOrder {index:41;}">
-                <Coords points="2029,2414 2861,2403 3121,2401 3121,2401 3214,2401 3371,2412 3371,2446 2292,2464 2029,2464"/>
+                <Coords points="2029,2414 2861,2403 3121,2401 3214,2401 3371,2412 3371,2446 2292,2464 2029,2464"/>
                 <Baseline points="2029,2455 2292,2451 2362,2450 2421,2449 2493,2448 2644,2446 2717,2445 2792,2444 2861,2443 3050,2442 3121,2441 3371,2438"/>
                 <TextEquiv>
                     <Unicode>Herabſetzung der unteren und mittleren Einkommen,</Unicode>
@@ -1523,7 +1523,7 @@ lage zur Regelung der Entſchädigungsfrage vorgeſehene Zeit⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r4l46" custom="readingOrder {index:45;}">
-                <Coords points="2031,2616 2118,2612 2388,2607 2579,2604 3131,2598 3131,2598 3352,2598 3373,2608 3373,2646 2190,2660 2031,2660"/>
+                <Coords points="2031,2616 2118,2612 2388,2607 2579,2604 3131,2598 3352,2598 3373,2608 3373,2646 2190,2660 2031,2660"/>
                 <Baseline points="2031,2654 2138,2652 2169,2651 2278,2649 2309,2649 2361,2648 2388,2648 2553,2646 2579,2646 2809,2643 2850,2643 3093,2640 3131,2640 3288,2638 3316,2638 3373,2637"/>
                 <TextEquiv>
                     <Unicode>herab gegen die Vorlage verſchärfte; andererſeits beſchloß ſie,</Unicode>
@@ -1551,7 +1551,7 @@ lage zur Regelung der Entſchädigungsfrage vorgeſehene Zeit⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r4l50" custom="readingOrder {index:49;}">
-                <Coords points="2030,2813 2263,2809 2927,2799 3288,2797 3288,2797 3319,2797 3344,2798 3372,2809 3372,2836 3172,2847 2221,2859 2049,2859 2030,2856"/>
+                <Coords points="2030,2813 2263,2809 2927,2799 3288,2797 3319,2797 3344,2798 3372,2809 3372,2836 3172,2847 2221,2859 2049,2859 2030,2856"/>
                 <Baseline points="2030,2852 2221,2849 2263,2849 2438,2846 2467,2846 2540,2845 2584,2844 2639,2843 2668,2843 2768,2842 2814,2841 2899,2840 2927,2840 2990,2839 3019,2839 3073,2838 3103,2838 3259,2837 3288,2836 3372,2835"/>
                 <TextEquiv>
                     <Unicode>ſteuerung eintreten ſoll, die dann aber für die höheren Ein⸗</Unicode>
@@ -2360,7 +2360,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r7l80" custom="readingOrder {index:79;}">
-                <Coords points="3457,4374 3855,4363 4053,4359 4053,4359 4359,4359 4386,4361 4474,4371 4474,4398 4411,4408 3686,4418 3469,4420 3457,4420"/>
+                <Coords points="3457,4374 3855,4363 4053,4359 4359,4359 4386,4361 4474,4371 4474,4398 4411,4408 3686,4418 3469,4420 3457,4420"/>
                 <Baseline points="3457,4414 3581,4411 3609,4410 3803,4406 3835,4405 3957,4402 3986,4402 4026,4401 4053,4401 4084,4401 4117,4401 4164,4400 4194,4400 4474,4398"/>
                 <TextEquiv>
                     <Unicode>ferner folgenden Abſatz in §. 79 hinzuzufügen:</Unicode>
@@ -2416,7 +2416,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r7l88" custom="readingOrder {index:87;}">
-                <Coords points="3567,4727 3671,4725 4305,4718 4654,4716 4654,4716 4700,4716 4812,4726 4812,4765 3596,4775 3567,4775"/>
+                <Coords points="3567,4727 3671,4725 4305,4718 4654,4716 4700,4716 4812,4726 4812,4765 3596,4775 3567,4775"/>
                 <Baseline points="3567,4765 3624,4765 3653,4764 4031,4761 4083,4760 4152,4760 4197,4760 4256,4760 4283,4760 4495,4758 4549,4757 4610,4756 4654,4756 4812,4755"/>
                 <TextEquiv>
                     <Unicode>In Uebereinſtimmung mit der Erklärung des Finanz⸗</Unicode>
@@ -2563,7 +2563,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r7l109" custom="readingOrder {index:108;}">
-                <Coords points="3475,5778 3496,5769 4269,5760 4460,5758 4460,5758 4718,5758 4825,5766 4825,5795 4718,5804 4485,5810 4035,5817 3496,5817 3475,5808"/>
+                <Coords points="3475,5778 3496,5769 4269,5760 4460,5758 4718,5758 4825,5766 4825,5795 4718,5804 4485,5810 4035,5817 3496,5817 3475,5808"/>
                 <Baseline points="3475,5808 3741,5807 3772,5806 4035,5805 4080,5804 4130,5804 4176,5802 4231,5801 4269,5801 4651,5794 4696,5795 4825,5794"/>
                 <TextEquiv>
                     <Unicode>weitgehenden Forderungen an die Finanzverwaltung heran⸗</Unicode>
@@ -2598,7 +2598,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r7l114" custom="readingOrder {index:113;}">
-                <Coords points="3480,6018 3506,6017 3566,6016 3762,6013 4535,6003 4535,6003 4746,6003 4832,6013 4832,6044 4805,6050 4746,6053 4076,6060 3711,6063 3690,6063 3480,6056"/>
+                <Coords points="3480,6018 3506,6017 3566,6016 3762,6013 4535,6003 4746,6003 4832,6013 4832,6044 4805,6050 4746,6053 4076,6060 3711,6063 3690,6063 3480,6056"/>
                 <Baseline points="3480,6056 3535,6055 3566,6055 3732,6053 3762,6053 3896,6052 3938,6052 4123,6050 4159,6049 4215,6048 4259,6048 4402,6046 4431,6046 4486,6045 4515,6045 4760,6043 4788,6043 4832,6044"/>
                 <TextEquiv>
                     <Unicode>die Vorlage wollte) ergangen iſt, werden die Ueberſchüſſe zu</Unicode>
@@ -3127,7 +3127,7 @@ erſten Mal in Anwendung kommen ſoll.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r9l51" custom="readingOrder {index:50;}">
-                <Coords points="5226,2622 5305,2621 5305,2621 5346,2621 5761,2627 5813,2628 5837,2630 5837,2665 5699,2668 5534,2668 5327,2663 5226,2657"/>
+                <Coords points="5226,2622 5305,2621 5346,2621 5761,2627 5813,2628 5837,2630 5837,2665 5699,2668 5534,2668 5327,2663 5226,2657"/>
                 <Baseline points="5226,2657 5280,2658 5305,2658 5509,2660 5534,2660 5699,2662 5724,2662 5837,2665"/>
                 <TextEquiv>
                     <Unicode>des Verfahrens unterſagt bleibt.</Unicode>
@@ -3302,7 +3302,7 @@ erſten Mal in Anwendung kommen ſoll.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r9l76" custom="readingOrder {index:75;}">
-                <Coords points="5222,3739 5239,3728 5239,3728 5768,3728 6167,3733 6338,3736 6555,3750 6555,3774 6448,3780 6313,3780 5333,3773 5222,3763"/>
+                <Coords points="5222,3739 5239,3728 5768,3728 6167,3733 6338,3736 6555,3750 6555,3774 6448,3780 6313,3780 5333,3773 5222,3763"/>
                 <Baseline points="5222,3763 5287,3763 5333,3764 5602,3765 5627,3766 5801,3767 5842,3767 5893,3768 5918,3768 6167,3772 6195,3772 6469,3774 6508,3774 6555,3768"/>
                 <TextEquiv>
                     <Unicode>eine reichsgeſetzliche Regelung der einſchlagenden Beſtimmungen er⸗</Unicode>
@@ -4128,7 +4128,7 @@ geben) wird die außergewöhnlich lang andauernde Arbeitsloſigkeit</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r12l41" custom="readingOrder {index:40;}">
-                <Coords points="6643,2132 6721,2120 6721,2120 6809,2120 7115,2121 7926,2136 7979,2148 7979,2171 7945,2177 7932,2177 6643,2162"/>
+                <Coords points="6643,2132 6721,2120 6809,2120 7115,2121 7926,2136 7979,2148 7979,2171 7945,2177 7932,2177 6643,2162"/>
                 <Baseline points="6643,2155 6857,2157 6908,2157 7115,2159 7155,2160 7210,2160 7250,2161 7361,2163 7400,2164 7578,2167 7622,2168 7823,2169 7867,2170 7979,2171"/>
                 <TextEquiv>
                     <Unicode>zugeſtimmt. Hinſichtlich des früher erwähnten Verhaltens einiger</Unicode>
@@ -4177,7 +4177,7 @@ geben) wird die außergewöhnlich lang andauernde Arbeitsloſigkeit</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r12l48" custom="readingOrder {index:47;}">
-                <Coords points="6640,2441 6795,2434 6896,2431 6896,2431 6926,2431 7109,2432 7923,2443 7977,2457 7977,2480 7923,2486 7733,2486 6640,2473"/>
+                <Coords points="6640,2441 6795,2434 6896,2431 6926,2431 7109,2432 7923,2443 7977,2457 7977,2480 7923,2486 7733,2486 6640,2473"/>
                 <Baseline points="6640,2465 6769,2466 6795,2466 6847,2467 6877,2467 6993,2468 7026,2468 7197,2471 7226,2471 7284,2472 7310,2473 7364,2474 7393,2474 7442,2475 7471,2475 7497,2476 7524,2476 7578,2477 7607,2476 7672,2478 7700,2478 7977,2480"/>
                 <TextEquiv>
                     <Unicode>gramm der „Köln. V.⸗Ztg.“, daß am 15. d. M. eine Delegirten⸗</Unicode>
@@ -4233,7 +4233,7 @@ geben) wird die außergewöhnlich lang andauernde Arbeitsloſigkeit</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r12l56" custom="readingOrder {index:55;}">
-                <Coords points="6633,2796 6649,2787 6810,2785 6810,2785 6872,2785 6905,2796 6905,2828 6810,2828 6688,2827 6633,2826"/>
+                <Coords points="6633,2796 6649,2787 6810,2785 6872,2785 6905,2796 6905,2828 6810,2828 6688,2827 6633,2826"/>
                 <Baseline points="6633,2819 6781,2820 6810,2820 6905,2821"/>
                 <TextEquiv>
                     <Unicode>ziehung“ einig.</Unicode>
@@ -4303,14 +4303,14 @@ geben) wird die außergewöhnlich lang andauernde Arbeitsloſigkeit</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r12l66" custom="readingOrder {index:65;}">
-                <Coords points="6633,3225 7021,3223 7021,3223 7069,3223 7241,3225 7754,3231 7922,3235 7986,3239 7986,3271 7810,3273 7778,3273 6666,3267 6633,3260"/>
+                <Coords points="6633,3225 7021,3223 7069,3223 7241,3225 7754,3231 7922,3235 7986,3239 7986,3271 7810,3273 7778,3273 6666,3267 6633,3260"/>
                 <Baseline points="6633,3258 6790,3259 6816,3259 6909,3260 6934,3260 6995,3260 7021,3260 7199,3261 7226,3261 7297,3261 7335,3262 7392,3262 7430,3262 7471,3264 7498,3264 7611,3266 7638,3266 7754,3268 7778,3268 7847,3269 7878,3270 7986,3271"/>
                 <TextEquiv>
                     <Unicode>Agitator Paul aus Hannover kam erſt an dritter Stelle zum Wort.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r12l67" custom="readingOrder {index:66;}">
-                <Coords points="6634,3268 6901,3267 6901,3267 6921,3267 7195,3268 7369,3270 7542,3272 7932,3278 7962,3280 7978,3283 7988,3307 7988,3320 7916,3320 7735,3319 6945,3310 6634,3305"/>
+                <Coords points="6634,3268 6901,3267 6921,3267 7195,3268 7369,3270 7542,3272 7932,3278 7962,3280 7978,3283 7988,3307 7988,3320 7916,3320 7735,3319 6945,3310 6634,3305"/>
                 <Baseline points="6634,3305 6683,3304 6712,3305 6800,3303 6826,3302 6876,3303 6901,3303 6979,3303 7008,3304 7224,3305 7254,3305 7407,3306 7434,3306 7498,3307 7524,3307 7593,3309 7619,3309 7676,3310 7697,3311 7779,3312 7797,3312 7988,3314"/>
                 <TextEquiv>
                     <Unicode>Er hatte die Lage vollkommen begriffen und half ſich nicht ungeſchickt,</Unicode>
@@ -4352,7 +4352,7 @@ geben) wird die außergewöhnlich lang andauernde Arbeitsloſigkeit</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r12l73" custom="readingOrder {index:72;}">
-                <Coords points="6633,3534 7005,3533 7005,3533 7164,3533 7257,3534 7404,3536 7856,3543 7984,3556 7984,3580 7385,3580 6725,3576 6668,3573 6633,3571"/>
+                <Coords points="6633,3534 7005,3533 7164,3533 7257,3534 7404,3536 7856,3543 7984,3556 7984,3580 7385,3580 6725,3576 6668,3573 6633,3571"/>
                 <Baseline points="6633,3571 6773,3568 6811,3568 6844,3569 6871,3569 6924,3569 6948,3569 6979,3569 7005,3569 7066,3570 7091,3570 7164,3570 7208,3570 7276,3571 7301,3571 7466,3572 7491,3573 7583,3575 7618,3575 7680,3576 7709,3576 7802,3578 7828,3578 7984,3580"/>
                 <TextEquiv>
                     <Unicode>Thema, in der er ſich auch ſehr gemäßigt zeigte und unter Anderem</Unicode>
@@ -4877,7 +4877,7 @@ die Arbeit eingeſtellt.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r14l38" custom="readingOrder {index:37;}">
-                <Coords points="6611,6271 6644,6263 7010,6261 7010,6261 7052,6261 7875,6262 7953,6274 7953,6301 7904,6304 7875,6305 7462,6306 6835,6306 6611,6298"/>
+                <Coords points="6611,6271 6644,6263 7010,6261 7052,6261 7875,6262 7953,6274 7953,6301 7904,6304 7875,6305 7462,6306 6835,6306 6611,6298"/>
                 <Baseline points="6611,6298 6693,6300 6719,6300 6871,6299 6896,6299 6959,6299 6974,6299 7199,6298 7226,6298 7301,6297 7328,6298 7502,6297 7518,6297 7953,6297"/>
                 <TextEquiv>
                     <Unicode>wird verlangt eine Abhandlung über diejenigen Feuerungseinrichtungen,</Unicode>
@@ -6094,7 +6094,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
         <SeparatorRegion id="r_51" custom="readingOrder {index:47;}">
             <Coords points="9780,304 9784,304 9784,400 9780,400"/>
         </SeparatorRegion>
-        <TextRegion id="TextRegion_1670427355243_36864" custom="readingOrder {index:48;} structure {type:T0C0;}">
+        <TextRegion id="TextRegion_1690375640461_32780" custom="readingOrder {index:48;} structure {type:T0C0;}">
             <Coords points="2062,3612 2059,3652 2495,3644 2495,3605"/>
             <TextLine id="line_1652188040370_1307" custom="readingOrder {index:0;}">
                 <Coords points="2191,3611 2480,3602 2485,3643 2192,3645"/>
@@ -6107,7 +6107,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355244_36867" custom="readingOrder {index:49;} structure {type:T0C0;}">
+        <TextRegion id="TextRegion_1690375640461_32783" custom="readingOrder {index:49;} structure {type:T0C0;}">
             <Coords points="2059,3652 2058,3689 2495,3683 2495,3644"/>
             <TextLine id="TableCell_1643631218817_1287l0" custom="readingOrder {index:0;}">
                 <Coords points="2311,3654 2391,3649 2391,3682 2311,3685"/>
@@ -6120,7 +6120,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355244_36870" custom="readingOrder {index:50;} structure {type:T0C0;}">
+        <TextRegion id="TextRegion_1690375640462_32786" custom="readingOrder {index:50;} structure {type:T0C0;}">
             <Coords points="2058,3689 2057,3732 2496,3726 2495,3683"/>
             <TextLine id="TableCell_1643631218844_1293l0" custom="readingOrder {index:0;}">
                 <Coords points="2305,3688 2440,3689 2441,3721 2301,3726"/>
@@ -6133,7 +6133,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355244_36873" custom="readingOrder {index:51;} structure {type:T0C0;}">
+        <TextRegion id="TextRegion_1690375640462_32789" custom="readingOrder {index:51;} structure {type:T0C0;}">
             <Coords points="2057,3732 2056,3781 2496,3773 2496,3726"/>
             <TextLine id="TableCell_1643631218871_1299l0" custom="readingOrder {index:0;}">
                 <Coords points="2276,3735 2440,3732 2440,3768 2275,3772"/>
@@ -6146,7 +6146,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355245_36876" custom="readingOrder {index:52;} structure {type:T0C0;}">
+        <TextRegion id="TextRegion_1690375640463_32792" custom="readingOrder {index:52;} structure {type:T0C0;}">
             <Coords points="2056,3781 2055,3828 2496,3820 2496,3773"/>
             <TextLine id="TableCell_1643631218897_1305l0" custom="readingOrder {index:0;}">
                 <Coords points="2287,3780 2408,3780 2408,3816 2287,3816"/>
@@ -6159,7 +6159,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355245_36879" custom="readingOrder {index:53;} structure {type:T0C0;}">
+        <TextRegion id="TextRegion_1690375640463_32795" custom="readingOrder {index:53;} structure {type:T0C0;}">
             <Coords points="2055,3828 2054,3870 2497,3863 2496,3820"/>
             <TextLine id="TableCell_1643631218920_1311l0" custom="readingOrder {index:0;}">
                 <Coords points="2284,3826 2407,3824 2407,3859 2283,3860"/>
@@ -6172,7 +6172,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355246_36882" custom="readingOrder {index:54;} structure {type:T0C0;}">
+        <TextRegion id="TextRegion_1690375640464_32798" custom="readingOrder {index:54;} structure {type:T0C0;}">
             <Coords points="2054,3870 2053,3908 2497,3903 2497,3863"/>
             <TextLine id="TableCell_1643631218945_1317l0" custom="readingOrder {index:0;}">
                 <Coords points="2308,3869 2320,3869 2369,3871 2400,3869 2399,3904 2368,3903 2346,3903 2308,3903"/>
@@ -6185,7 +6185,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355246_36885" custom="readingOrder {index:55;} structure {type:T0C0;}">
+        <TextRegion id="TextRegion_1690375640465_32801" custom="readingOrder {index:55;} structure {type:T0C0;}">
             <Coords points="2053,3908 2052,3954 2497,3948 2497,3903"/>
             <TextLine id="TableCell_1643631218970_1323l0" custom="readingOrder {index:0;}">
                 <Coords points="2294,3914 2408,3909 2408,3943 2293,3948"/>
@@ -6198,7 +6198,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355247_36888" custom="readingOrder {index:56;} structure {type:T0C0;}">
+        <TextRegion id="TextRegion_1690375640465_32804" custom="readingOrder {index:56;} structure {type:T0C0;}">
             <Coords points="2052,3954 2051,3996 2498,3991 2497,3948"/>
             <TextLine id="TableCell_1643631218998_1329l0" custom="readingOrder {index:0;}">
                 <Coords points="2302,3958 2351,3956 2371,3956 2398,3957 2398,3990 2302,3991"/>
@@ -6211,7 +6211,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355247_36891" custom="readingOrder {index:57;} structure {type:T0C0;}">
+        <TextRegion id="TextRegion_1690375640466_32807" custom="readingOrder {index:57;} structure {type:T0C0;}">
             <Coords points="2051,3996 2050,4038 2498,4034 2498,3991"/>
             <TextLine id="TableCell_1643631219022_1335l0" custom="readingOrder {index:0;}">
                 <Coords points="2298,4001 2406,3997 2406,4030 2297,4033"/>
@@ -6224,7 +6224,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355248_36894" custom="readingOrder {index:58;} structure {type:T0C0;}">
+        <TextRegion id="TextRegion_1690375640466_32810" custom="readingOrder {index:58;} structure {type:T0C0;}">
             <Coords points="2050,4038 2049,4085 2498,4080 2498,4034"/>
             <TextLine id="TableCell_1643631219045_1341l0" custom="readingOrder {index:0;}">
                 <Coords points="2302,4045 2353,4043 2400,4043 2399,4079 2326,4080 2302,4076"/>
@@ -6237,7 +6237,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355248_36897" custom="readingOrder {index:59;} structure {type:T0C0;}">
+        <TextRegion id="TextRegion_1690375640466_32813" custom="readingOrder {index:59;} structure {type:T0C0;}">
             <Coords points="2049,4085 2048,4131 2499,4126 2498,4080"/>
             <TextLine id="TableCell_1643631219069_1347l0" custom="readingOrder {index:0;}">
                 <Coords points="2300,4086 2407,4083 2408,4121 2299,4124"/>
@@ -6250,7 +6250,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355249_36900" custom="readingOrder {index:60;} structure {type:T0C0;}">
+        <TextRegion id="TextRegion_1690375640467_32816" custom="readingOrder {index:60;} structure {type:T0C0;}">
             <Coords points="2048,4131 2047,4178 2499,4171 2499,4126"/>
             <TextLine id="TableCell_1643631219093_1353l0" custom="readingOrder {index:0;}">
                 <Coords points="2303,4133 2413,4132 2413,4166 2303,4168"/>
@@ -6263,7 +6263,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355249_36903" custom="readingOrder {index:61;} structure {type:T0C0;}">
+        <TextRegion id="TextRegion_1690375640467_32819" custom="readingOrder {index:61;} structure {type:T0C0;}">
             <Coords points="2047,4178 2046,4218 2499,4212 2499,4171"/>
             <TextLine id="TableCell_1643631219119_1359l0" custom="readingOrder {index:0;}">
                 <Coords points="2306,4179 2405,4173 2404,4208 2304,4213"/>
@@ -6276,7 +6276,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355250_36906" custom="readingOrder {index:62;} structure {type:T0C0;}">
+        <TextRegion id="TextRegion_1690375640467_32822" custom="readingOrder {index:62;} structure {type:T0C0;}">
             <Coords points="2046,4218 2046,4259 2499,4255 2499,4212"/>
             <TextLine id="TableCell_1643631219144_1365l0" custom="readingOrder {index:0;}">
                 <Coords points="2310,4223 2337,4220 2358,4219 2402,4219 2402,4251 2354,4253 2337,4253 2310,4253"/>
@@ -6289,7 +6289,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355250_36909" custom="readingOrder {index:63;} structure {type:T0C0;}">
+        <TextRegion id="TextRegion_1690375640467_32825" custom="readingOrder {index:63;} structure {type:T0C0;}">
             <Coords points="2046,4259 2045,4306 2500,4301 2499,4255"/>
             <TextLine id="TableCell_1643631219168_1371l0" custom="readingOrder {index:0;}">
                 <Coords points="2309,4261 2411,4261 2410,4300 2307,4301"/>
@@ -6302,7 +6302,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355251_36912" custom="readingOrder {index:64;} structure {type:T0C0;}">
+        <TextRegion id="TextRegion_1690375640468_32828" custom="readingOrder {index:64;} structure {type:T0C0;}">
             <Coords points="2045,4306 2044,4352 2500,4346 2500,4301"/>
             <TextLine id="TableCell_1643631219193_1377l0" custom="readingOrder {index:0;}">
                 <Coords points="2308,4309 2415,4306 2416,4344 2307,4343"/>
@@ -6315,7 +6315,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355251_36915" custom="readingOrder {index:65;} structure {type:T0C0;}">
+        <TextRegion id="TextRegion_1690375640468_32831" custom="readingOrder {index:65;} structure {type:T0C0;}">
             <Coords points="2044,4352 2043,4397 2500,4391 2500,4346"/>
             <TextLine id="TableCell_1643631219216_1383l0" custom="readingOrder {index:0;}">
                 <Coords points="2309,4354 2416,4352 2416,4386 2309,4388"/>
@@ -6328,7 +6328,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355252_36918" custom="readingOrder {index:66;} structure {type:T0C0;}">
+        <TextRegion id="TextRegion_1690375640468_32834" custom="readingOrder {index:66;} structure {type:T0C0;}">
             <Coords points="2043,4397 2043,4437 2501,4434 2500,4391"/>
             <TextLine id="TableCell_1643631219239_1389l0" custom="readingOrder {index:0;}">
                 <Coords points="2306,4399 2410,4397 2411,4432 2306,4431"/>
@@ -6341,7 +6341,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355252_36921" custom="readingOrder {index:67;} structure {type:T0C0;}">
+        <TextRegion id="TextRegion_1690375640468_32837" custom="readingOrder {index:67;} structure {type:T0C0;}">
             <Coords points="2043,4437 2042,4483 2501,4478 2501,4434"/>
             <TextLine id="TableCell_1643631219263_1395l0" custom="readingOrder {index:0;}">
                 <Coords points="2309,4443 2411,4440 2411,4473 2309,4477"/>
@@ -6354,7 +6354,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355253_36924" custom="readingOrder {index:68;} structure {type:T0C0;}">
+        <TextRegion id="TextRegion_1690375640469_32840" custom="readingOrder {index:68;} structure {type:T0C0;}">
             <Coords points="2042,4483 2042,4528 2501,4522 2501,4478"/>
             <TextLine id="TableCell_1643631219285_1401l0" custom="readingOrder {index:0;}">
                 <Coords points="2308,4485 2406,4482 2406,4518 2308,4522"/>
@@ -6367,7 +6367,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355253_36927" custom="readingOrder {index:69;} structure {type:T0C0;}">
+        <TextRegion id="TextRegion_1690375640469_32843" custom="readingOrder {index:69;} structure {type:T0C0;}">
             <Coords points="2042,4528 2042,4570 2502,4565 2501,4522"/>
             <TextLine id="TableCell_1643631219306_1407l0" custom="readingOrder {index:0;}">
                 <Coords points="2307,4528 2405,4529 2406,4565 2307,4564"/>
@@ -6380,7 +6380,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355254_36930" custom="readingOrder {index:70;} structure {type:T0C0;}">
+        <TextRegion id="TextRegion_1690375640469_32846" custom="readingOrder {index:70;} structure {type:T0C0;}">
             <Coords points="2042,4570 2042,4619 2502,4613 2502,4565"/>
             <TextLine id="TableCell_1643631219327_1413l0" custom="readingOrder {index:0;}">
                 <Coords points="2311,4570 2412,4573 2412,4615 2311,4613"/>
@@ -6393,7 +6393,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355254_36933" custom="readingOrder {index:71;} structure {type:T0C0;}">
+        <TextRegion id="TextRegion_1690375640469_32849" custom="readingOrder {index:71;} structure {type:T0C0;}">
             <Coords points="2042,4619 2042,4664 2502,4656 2502,4613"/>
             <TextLine id="TableCell_1643631219350_1419l0" custom="readingOrder {index:0;}">
                 <Coords points="2313,4617 2411,4617 2411,4655 2313,4657"/>
@@ -6406,7 +6406,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355255_36936" custom="readingOrder {index:72;} structure {type:T0C0;}">
+        <TextRegion id="TextRegion_1690375640470_32852" custom="readingOrder {index:72;} structure {type:T0C0;}">
             <Coords points="2042,4664 2042,4704 2503,4699 2502,4656"/>
             <TextLine id="TableCell_1643631219371_1425l0" custom="readingOrder {index:0;}">
                 <Coords points="2313,4661 2409,4658 2410,4699 2313,4700"/>
@@ -6419,7 +6419,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355255_36939" custom="readingOrder {index:73;} structure {type:T0C0;}">
+        <TextRegion id="TextRegion_1690375640470_32855" custom="readingOrder {index:73;} structure {type:T0C0;}">
             <Coords points="2042,4704 2042,4752 2503,4745 2503,4699"/>
             <TextLine id="TableCell_1643631219392_1431l0" custom="readingOrder {index:0;}">
                 <Coords points="2313,4704 2410,4705 2410,4744 2313,4743"/>
@@ -6432,7 +6432,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355255_36942" custom="readingOrder {index:74;} structure {type:T0C0;}">
+        <TextRegion id="TextRegion_1690375640470_32858" custom="readingOrder {index:74;} structure {type:T0C0;}">
             <Coords points="2042,4752 2042,4782 2503,4781 2503,4745"/>
             <TextLine id="TableCell_1643631219413_1437l0" custom="readingOrder {index:0;}">
                 <Coords points="2312,4748 2413,4749 2413,4784 2312,4778"/>
@@ -6445,7 +6445,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355243_36865" custom="readingOrder {index:75;} structure {type:T0C1;}">
+        <TextRegion id="TextRegion_1690375640461_32781" custom="readingOrder {index:75;} structure {type:T0C1;}">
             <Coords points="2495,3605 2495,3644 2905,3637 2905,3599"/>
             <TextLine id="line_1652188105162_1317" custom="readingOrder {index:0;}">
                 <Coords points="2537,3598 2870,3598 2870,3638 2532,3637"/>
@@ -6458,7 +6458,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355244_36868" custom="readingOrder {index:76;} structure {type:T0C1;}">
+        <TextRegion id="TextRegion_1690375640462_32784" custom="readingOrder {index:76;} structure {type:T0C1;}">
             <Coords points="2495,3644 2495,3683 2905,3677 2905,3637"/>
             <TextLine id="line_1652188169081_1332" custom="readingOrder {index:0;}">
                 <Coords points="2660,3645 2743,3645 2743,3680 2660,3680"/>
@@ -6471,7 +6471,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355244_36871" custom="readingOrder {index:77;} structure {type:T0C1;}">
+        <TextRegion id="TextRegion_1690375640462_32787" custom="readingOrder {index:77;} structure {type:T0C1;}">
             <Coords points="2495,3683 2496,3726 2906,3720 2905,3677"/>
             <TextLine id="TableCell_1643631223585_1455l0" custom="readingOrder {index:0;}">
                 <Coords points="2659,3687 2757,3685 2757,3722 2659,3724"/>
@@ -6484,7 +6484,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355245_36874" custom="readingOrder {index:78;} structure {type:T0C1;}">
+        <TextRegion id="TextRegion_1690375640462_32790" custom="readingOrder {index:78;} structure {type:T0C1;}">
             <Coords points="2496,3726 2496,3773 2906,3766 2906,3720"/>
             <TextLine id="TableCell_1643631223622_1461l0" custom="readingOrder {index:0;}">
                 <Coords points="2659,3733 2717,3731 2756,3733 2756,3765 2716,3768 2661,3766"/>
@@ -6497,7 +6497,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355245_36877" custom="readingOrder {index:79;} structure {type:T0C1;}">
+        <TextRegion id="TextRegion_1690375640463_32793" custom="readingOrder {index:79;} structure {type:T0C1;}">
             <Coords points="2496,3773 2496,3820 2906,3812 2906,3766"/>
             <TextLine id="TableCell_1643631223657_1467l0" custom="readingOrder {index:0;}">
                 <Coords points="2650,3776 2761,3775 2761,3810 2650,3812"/>
@@ -6510,7 +6510,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355246_36880" custom="readingOrder {index:80;} structure {type:T0C1;}">
+        <TextRegion id="TextRegion_1690375640464_32796" custom="readingOrder {index:80;} structure {type:T0C1;}">
             <Coords points="2496,3820 2497,3863 2907,3856 2906,3812"/>
             <TextLine id="TableCell_1643631223692_1473l0" custom="readingOrder {index:0;}">
                 <Coords points="2661,3823 2707,3821 2728,3816 2760,3827 2760,3851 2728,3856 2698,3857 2685,3854 2661,3854"/>
@@ -6523,7 +6523,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355246_36883" custom="readingOrder {index:81;} structure {type:T0C1;}">
+        <TextRegion id="TextRegion_1690375640464_32799" custom="readingOrder {index:81;} structure {type:T0C1;}">
             <Coords points="2497,3863 2497,3903 2907,3899 2907,3856"/>
             <TextLine id="TableCell_1643631223727_1479l0" custom="readingOrder {index:0;}">
                 <Coords points="2652,3865 2761,3861 2760,3899 2651,3901"/>
@@ -6536,7 +6536,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355247_36886" custom="readingOrder {index:82;} structure {type:T0C1;}">
+        <TextRegion id="TextRegion_1690375640465_32802" custom="readingOrder {index:82;} structure {type:T0C1;}">
             <Coords points="2497,3903 2497,3948 2907,3943 2907,3899"/>
             <TextLine id="TableCell_1643631223761_1485l0" custom="readingOrder {index:0;}">
                 <Coords points="2661,3909 2755,3908 2755,3945 2661,3946"/>
@@ -6549,7 +6549,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355247_36889" custom="readingOrder {index:83;} structure {type:T0C1;}">
+        <TextRegion id="TextRegion_1690375640465_32805" custom="readingOrder {index:83;} structure {type:T0C1;}">
             <Coords points="2497,3948 2498,3991 2908,3986 2907,3943"/>
             <TextLine id="TableCell_1643631223791_1491l0" custom="readingOrder {index:0;}">
                 <Coords points="2658,3954 2690,3953 2702,3953 2724,3950 2754,3956 2753,3986 2658,3986"/>
@@ -6562,7 +6562,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355247_36892" custom="readingOrder {index:84;} structure {type:T0C1;}">
+        <TextRegion id="TextRegion_1690375640466_32808" custom="readingOrder {index:84;} structure {type:T0C1;}">
             <Coords points="2498,3991 2498,4034 2908,4031 2908,3986"/>
             <TextLine id="TableCell_1643631223820_1497l0" custom="readingOrder {index:0;}">
                 <Coords points="2652,3996 2764,3994 2763,4031 2651,4033"/>
@@ -6575,7 +6575,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355248_36895" custom="readingOrder {index:85;} structure {type:T0C1;}">
+        <TextRegion id="TextRegion_1690375640466_32811" custom="readingOrder {index:85;} structure {type:T0C1;}">
             <Coords points="2498,4034 2498,4080 2908,4076 2908,4031"/>
             <TextLine id="TableCell_1643631223852_1503l0" custom="readingOrder {index:0;}">
                 <Coords points="2651,4038 2766,4038 2766,4076 2651,4077"/>
@@ -6588,10 +6588,10 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355248_36898" custom="readingOrder {index:86;} structure {type:T0C1;}">
+        <TextRegion id="TextRegion_1690375640466_32814" custom="readingOrder {index:86;} structure {type:T0C1;}">
             <Coords points="2498,4080 2499,4126 2909,4121 2908,4076"/>
             <TextLine id="TableCell_1643631223885_1509l0" custom="readingOrder {index:0;}">
-                <Coords points="2667,4087 2688,4086 2688,4086 2753,4086 2753,4118 2683,4119 2667,4119"/>
+                <Coords points="2667,4087 2688,4086 2753,4086 2753,4118 2683,4119 2667,4119"/>
                 <Baseline points="2667,4119 2750,4116"/>
                 <TextEquiv>
                     <Unicode>3000</Unicode>
@@ -6601,7 +6601,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355249_36901" custom="readingOrder {index:87;} structure {type:T0C1;}">
+        <TextRegion id="TextRegion_1690375640467_32817" custom="readingOrder {index:87;} structure {type:T0C1;}">
             <Coords points="2499,4126 2499,4171 2909,4164 2909,4121"/>
             <TextLine id="TableCell_1643631223918_1515l0" custom="readingOrder {index:0;}">
                 <Coords points="2652,4128 2773,4128 2773,4165 2652,4167"/>
@@ -6614,7 +6614,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355249_36904" custom="readingOrder {index:88;} structure {type:T0C1;}">
+        <TextRegion id="TextRegion_1690375640467_32820" custom="readingOrder {index:88;} structure {type:T0C1;}">
             <Coords points="2499,4171 2499,4212 2909,4206 2909,4164"/>
             <TextLine id="TableCell_1643631223946_1521l0" custom="readingOrder {index:0;}">
                 <Coords points="2664,4175 2691,4172 2760,4172 2760,4210 2691,4210 2661,4209"/>
@@ -6627,7 +6627,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355250_36907" custom="readingOrder {index:89;} structure {type:T0C1;}">
+        <TextRegion id="TextRegion_1690375640467_32823" custom="readingOrder {index:89;} structure {type:T0C1;}">
             <Coords points="2499,4212 2499,4255 2910,4252 2909,4206"/>
             <TextLine id="TableCell_1643631223974_1527l0" custom="readingOrder {index:0;}">
                 <Coords points="2659,4217 2765,4213 2765,4252 2658,4255"/>
@@ -6640,7 +6640,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355250_36910" custom="readingOrder {index:90;} structure {type:T0C1;}">
+        <TextRegion id="TextRegion_1690375640468_32826" custom="readingOrder {index:90;} structure {type:T0C1;}">
             <Coords points="2499,4255 2500,4301 2910,4297 2910,4252"/>
             <TextLine id="TableCell_1643631224004_1533l0" custom="readingOrder {index:0;}">
                 <Coords points="2654,4259 2775,4260 2775,4297 2655,4297"/>
@@ -6653,7 +6653,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355251_36913" custom="readingOrder {index:91;} structure {type:T0C1;}">
+        <TextRegion id="TextRegion_1690375640468_32829" custom="readingOrder {index:91;} structure {type:T0C1;}">
             <Coords points="2500,4301 2500,4346 2910,4341 2910,4297"/>
             <TextLine id="TableCell_1643631224031_1539l0" custom="readingOrder {index:0;}">
                 <Coords points="2661,4310 2695,4306 2715,4305 2746,4305 2764,4305 2764,4336 2746,4342 2661,4342"/>
@@ -6666,7 +6666,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355251_36916" custom="readingOrder {index:92;} structure {type:T0C1;}">
+        <TextRegion id="TextRegion_1690375640468_32832" custom="readingOrder {index:92;} structure {type:T0C1;}">
             <Coords points="2500,4346 2500,4391 2911,4386 2910,4341"/>
             <TextLine id="TableCell_1643631224056_1545l0" custom="readingOrder {index:0;}">
                 <Coords points="2659,4351 2770,4348 2771,4382 2659,4384"/>
@@ -6679,7 +6679,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355252_36919" custom="readingOrder {index:93;} structure {type:T0C1;}">
+        <TextRegion id="TextRegion_1690375640468_32835" custom="readingOrder {index:93;} structure {type:T0C1;}">
             <Coords points="2500,4391 2501,4434 2911,4431 2911,4386"/>
             <TextLine id="TableCell_1643631224085_1551l0" custom="readingOrder {index:0;}">
                 <Coords points="2662,4395 2768,4392 2767,4430 2662,4433"/>
@@ -6692,7 +6692,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355252_36922" custom="readingOrder {index:94;} structure {type:T0C1;}">
+        <TextRegion id="TextRegion_1690375640469_32838" custom="readingOrder {index:94;} structure {type:T0C1;}">
             <Coords points="2501,4434 2501,4478 2911,4474 2911,4431"/>
             <TextLine id="TableCell_1643631224111_1557l0" custom="readingOrder {index:0;}">
                 <Coords points="2661,4439 2765,4438 2765,4471 2661,4472"/>
@@ -6705,7 +6705,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355253_36925" custom="readingOrder {index:95;} structure {type:T0C1;}">
+        <TextRegion id="TextRegion_1690375640469_32841" custom="readingOrder {index:95;} structure {type:T0C1;}">
             <Coords points="2501,4478 2501,4522 2912,4517 2911,4474"/>
             <TextLine id="TableCell_1643631224137_1563l0" custom="readingOrder {index:0;}">
                 <Coords points="2658,4482 2768,4480 2769,4518 2658,4520"/>
@@ -6718,7 +6718,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355253_36928" custom="readingOrder {index:96;} structure {type:T0C1;}">
+        <TextRegion id="TextRegion_1690375640469_32844" custom="readingOrder {index:96;} structure {type:T0C1;}">
             <Coords points="2501,4522 2502,4565 2912,4561 2912,4517"/>
             <TextLine id="TableCell_1643631224167_1569l0" custom="readingOrder {index:0;}">
                 <Coords points="2661,4523 2721,4527 2767,4524 2768,4563 2691,4561 2664,4562"/>
@@ -6731,7 +6731,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355254_36931" custom="readingOrder {index:97;} structure {type:T0C1;}">
+        <TextRegion id="TextRegion_1690375640469_32847" custom="readingOrder {index:97;} structure {type:T0C1;}">
             <Coords points="2502,4565 2502,4613 2912,4607 2912,4561"/>
             <TextLine id="TableCell_1643631224195_1575l0" custom="readingOrder {index:0;}">
                 <Coords points="2654,4569 2778,4571 2778,4607 2651,4609"/>
@@ -6744,10 +6744,10 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355254_36934" custom="readingOrder {index:98;} structure {type:T0C1;}">
+        <TextRegion id="TextRegion_1690375640470_32850" custom="readingOrder {index:98;} structure {type:T0C1;}">
             <Coords points="2502,4613 2502,4656 2913,4650 2912,4607"/>
             <TextLine id="TableCell_1643631224221_1581l0" custom="readingOrder {index:0;}">
-                <Coords points="2669,4610 2707,4610 2707,4610 2763,4610 2763,4652 2669,4652"/>
+                <Coords points="2669,4610 2707,4610 2763,4610 2763,4652 2669,4652"/>
                 <Baseline points="2672,4648 2760,4646"/>
                 <TextEquiv>
                     <Unicode>8000</Unicode>
@@ -6757,7 +6757,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355255_36937" custom="readingOrder {index:99;} structure {type:T0C1;}">
+        <TextRegion id="TextRegion_1690375640470_32853" custom="readingOrder {index:99;} structure {type:T0C1;}">
             <Coords points="2502,4656 2503,4699 2913,4694 2913,4650"/>
             <TextLine id="TableCell_1643631224244_1587l0" custom="readingOrder {index:0;}">
                 <Coords points="2662,4658 2769,4656 2769,4694 2663,4695"/>
@@ -6770,7 +6770,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355255_36940" custom="readingOrder {index:100;} structure {type:T0C1;}">
+        <TextRegion id="TextRegion_1690375640470_32856" custom="readingOrder {index:100;} structure {type:T0C1;}">
             <Coords points="2503,4699 2503,4745 2913,4739 2913,4694"/>
             <TextLine id="TableCell_1643631224270_1593l0" custom="readingOrder {index:0;}">
                 <Coords points="2662,4701 2770,4700 2771,4740 2663,4741"/>
@@ -6783,10 +6783,10 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355256_36943" custom="readingOrder {index:101;} structure {type:T0C1;}">
+        <TextRegion id="TextRegion_1690375640470_32859" custom="readingOrder {index:101;} structure {type:T0C1;}">
             <Coords points="2503,4745 2503,4781 2914,4781 2913,4739"/>
             <TextLine id="TableCell_1643631224291_1599l0" custom="readingOrder {index:0;}">
-                <Coords points="2674,4752 2697,4748 2734,4747 2734,4747 2761,4747 2761,4780 2697,4780 2674,4774"/>
+                <Coords points="2674,4752 2697,4748 2734,4747 2761,4747 2761,4780 2697,4780 2674,4774"/>
                 <Baseline points="2678,4777 2761,4777"/>
                 <TextEquiv>
                     <Unicode>9500</Unicode>
@@ -6796,10 +6796,10 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355243_36866" custom="readingOrder {index:102;} structure {type:T0C2;}">
+        <TextRegion id="TextRegion_1690375640461_32782" custom="readingOrder {index:102;} structure {type:T0C2;}">
             <Coords points="2905,3599 2905,3637 3382,3629 3382,3593"/>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355244_36869" custom="readingOrder {index:103;} structure {type:T0C2;}">
+        <TextRegion id="TextRegion_1690375640462_32785" custom="readingOrder {index:103;} structure {type:T0C2;}">
             <Coords points="2905,3637 2905,3677 3382,3672 3382,3629"/>
             <TextLine id="line_1652188216145_1342" custom="readingOrder {index:0;}">
                 <Coords points="3037,3638 3127,3638 3127,3675 3037,3675"/>
@@ -6812,10 +6812,10 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355244_36872" custom="readingOrder {index:104;} structure {type:T0C2;}">
+        <TextRegion id="TextRegion_1690375640462_32788" custom="readingOrder {index:104;} structure {type:T0C2;}">
             <Coords points="2905,3677 2906,3720 3382,3715 3382,3672"/>
             <TextLine id="TableCell_1643631223585_1453l0" custom="readingOrder {index:0;}">
-                <Coords points="2964,3681 3322,3678 3322,3678 3322,3710 2965,3714"/>
+                <Coords points="2964,3681 3322,3678 3322,3710 2965,3714"/>
                 <Baseline points="3089,3708 3115,3708"/>
                 <TextEquiv>
                     <Unicode>6</Unicode>
@@ -6825,7 +6825,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355245_36875" custom="readingOrder {index:105;} structure {type:T0C2;}">
+        <TextRegion id="TextRegion_1690375640462_32791" custom="readingOrder {index:105;} structure {type:T0C2;}">
             <Coords points="2906,3720 2906,3766 3382,3759 3382,3715"/>
             <TextLine id="line_1652188577640_1360" custom="readingOrder {index:0;}">
                 <Coords points="3072,3724 3132,3724 3132,3761 3072,3761"/>
@@ -6838,7 +6838,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355245_36878" custom="readingOrder {index:106;} structure {type:T0C2;}">
+        <TextRegion id="TextRegion_1690375640463_32794" custom="readingOrder {index:106;} structure {type:T0C2;}">
             <Coords points="2906,3766 2906,3812 3382,3804 3382,3759"/>
             <TextLine id="TableCell_1643631223657_1465l0" custom="readingOrder {index:0;}">
                 <Coords points="3050,3772 3127,3771 3127,3805 3050,3807"/>
@@ -6851,7 +6851,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355246_36881" custom="readingOrder {index:107;} structure {type:T0C2;}">
+        <TextRegion id="TextRegion_1690375640464_32797" custom="readingOrder {index:107;} structure {type:T0C2;}">
             <Coords points="2906,3812 2907,3856 3382,3850 3382,3804"/>
             <TextLine id="line_1652188726608_1385" custom="readingOrder {index:0;}">
                 <Coords points="3062,3812 3126,3812 3126,3851 3062,3851"/>
@@ -6864,7 +6864,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355246_36884" custom="readingOrder {index:108;} structure {type:T0C2;}">
+        <TextRegion id="TextRegion_1690375640464_32800" custom="readingOrder {index:108;} structure {type:T0C2;}">
             <Coords points="2907,3856 2907,3899 3382,3896 3382,3850"/>
             <TextLine id="TableCell_1643631223727_1477l0" custom="readingOrder {index:0;}">
                 <Coords points="3054,3861 3122,3857 3122,3891 3054,3894"/>
@@ -6877,7 +6877,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355247_36887" custom="readingOrder {index:109;} structure {type:T0C2;}">
+        <TextRegion id="TextRegion_1690375640465_32803" custom="readingOrder {index:109;} structure {type:T0C2;}">
             <Coords points="2907,3899 2907,3943 3382,3938 3382,3896"/>
             <TextLine id="TableCell_1643631223761_1483l0" custom="readingOrder {index:0;}">
                 <Coords points="3055,3903 3123,3902 3123,3940 3055,3942"/>
@@ -6890,7 +6890,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355247_36890" custom="readingOrder {index:110;} structure {type:T0C2;}">
+        <TextRegion id="TextRegion_1690375640466_32806" custom="readingOrder {index:110;} structure {type:T0C2;}">
             <Coords points="2907,3943 2908,3986 3382,3982 3382,3938"/>
             <TextLine id="TableCell_1643631223791_1489l0" custom="readingOrder {index:0;}">
                 <Coords points="3057,3949 3126,3947 3126,3984 3058,3986"/>
@@ -6903,7 +6903,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355248_36893" custom="readingOrder {index:111;} structure {type:T0C2;}">
+        <TextRegion id="TextRegion_1690375640466_32809" custom="readingOrder {index:111;} structure {type:T0C2;}">
             <Coords points="2908,3986 2908,4031 3382,4029 3382,3982"/>
             <TextLine id="TableCell_1643631223820_1495l0" custom="readingOrder {index:0;}">
                 <Coords points="3064,3992 3129,3991 3128,4030 3063,4030"/>
@@ -6916,7 +6916,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355248_36896" custom="readingOrder {index:112;} structure {type:T0C2;}">
+        <TextRegion id="TextRegion_1690375640466_32812" custom="readingOrder {index:112;} structure {type:T0C2;}">
             <Coords points="2908,4031 2908,4076 3383,4073 3382,4029"/>
             <TextLine id="TableCell_1643631223852_1501l0" custom="readingOrder {index:0;}">
                 <Coords points="3066,4034 3115,4034 3115,4073 3066,4073"/>
@@ -6929,7 +6929,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355248_36899" custom="readingOrder {index:113;} structure {type:T0C2;}">
+        <TextRegion id="TextRegion_1690375640467_32815" custom="readingOrder {index:113;} structure {type:T0C2;}">
             <Coords points="2908,4076 2909,4121 3384,4117 3383,4073"/>
             <TextLine id="TableCell_1643631223885_1507l0" custom="readingOrder {index:0;}">
                 <Coords points="3051,4080 3127,4080 3128,4118 3052,4118"/>
@@ -6942,7 +6942,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355249_36902" custom="readingOrder {index:114;} structure {type:T0C2;}">
+        <TextRegion id="TextRegion_1690375640467_32818" custom="readingOrder {index:114;} structure {type:T0C2;}">
             <Coords points="2909,4121 2909,4164 3385,4158 3384,4117"/>
             <TextLine id="TableCell_1643631223918_1513l0" custom="readingOrder {index:0;}">
                 <Coords points="3068,4125 3091,4125 3123,4125 3123,4162 3067,4162"/>
@@ -6955,7 +6955,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355249_36905" custom="readingOrder {index:115;} structure {type:T0C2;}">
+        <TextRegion id="TextRegion_1690375640467_32821" custom="readingOrder {index:115;} structure {type:T0C2;}">
             <Coords points="2909,4164 2909,4206 3386,4201 3385,4158"/>
             <TextLine id="TableCell_1643631223946_1519l0" custom="readingOrder {index:0;}">
                 <Coords points="3061,4169 3124,4166 3125,4202 3061,4205"/>
@@ -6968,7 +6968,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355250_36908" custom="readingOrder {index:116;} structure {type:T0C2;}">
+        <TextRegion id="TextRegion_1690375640467_32824" custom="readingOrder {index:116;} structure {type:T0C2;}">
             <Coords points="2909,4206 2910,4252 3387,4249 3386,4201"/>
             <TextLine id="TableCell_1643631223974_1525l0" custom="readingOrder {index:0;}">
                 <Coords points="3058,4213 3127,4210 3128,4246 3058,4247"/>
@@ -6981,7 +6981,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355250_36911" custom="readingOrder {index:117;} structure {type:T0C2;}">
+        <TextRegion id="TextRegion_1690375640468_32827" custom="readingOrder {index:117;} structure {type:T0C2;}">
             <Coords points="2910,4252 2910,4297 3388,4294 3387,4249"/>
             <TextLine id="TableCell_1643631224004_1531l0" custom="readingOrder {index:0;}">
                 <Coords points="3036,4257 3134,4254 3135,4287 3036,4291"/>
@@ -6994,7 +6994,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355251_36914" custom="readingOrder {index:118;} structure {type:T0C2;}">
+        <TextRegion id="TextRegion_1690375640468_32830" custom="readingOrder {index:118;} structure {type:T0C2;}">
             <Coords points="2910,4297 2910,4341 3389,4336 3388,4294"/>
             <TextLine id="TableCell_1643631224031_1537l0" custom="readingOrder {index:0;}">
                 <Coords points="3040,4299 3132,4300 3133,4335 3040,4335"/>
@@ -7007,7 +7007,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355251_36917" custom="readingOrder {index:119;} structure {type:T0C2;}">
+        <TextRegion id="TextRegion_1690375640468_32833" custom="readingOrder {index:119;} structure {type:T0C2;}">
             <Coords points="2910,4341 2911,4386 3390,4382 3389,4336"/>
             <TextLine id="TableCell_1643631224056_1543l0" custom="readingOrder {index:0;}">
                 <Coords points="3046,4344 3127,4345 3129,4386 3048,4384"/>
@@ -7020,7 +7020,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355252_36920" custom="readingOrder {index:120;} structure {type:T0C2;}">
+        <TextRegion id="TextRegion_1690375640468_32836" custom="readingOrder {index:120;} structure {type:T0C2;}">
             <Coords points="2911,4386 2911,4431 3391,4429 3390,4382"/>
             <TextLine id="TableCell_1643631224085_1549l0" custom="readingOrder {index:0;}">
                 <Coords points="3042,4392 3132,4389 3133,4424 3042,4426"/>
@@ -7033,7 +7033,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355252_36923" custom="readingOrder {index:121;} structure {type:T0C2;}">
+        <TextRegion id="TextRegion_1690375640469_32839" custom="readingOrder {index:121;} structure {type:T0C2;}">
             <Coords points="2911,4431 2911,4474 3392,4470 3391,4429"/>
             <TextLine id="TableCell_1643631224111_1555l0" custom="readingOrder {index:0;}">
                 <Coords points="3043,4436 3126,4434 3128,4469 3044,4472"/>
@@ -7046,7 +7046,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355253_36926" custom="readingOrder {index:122;} structure {type:T0C2;}">
+        <TextRegion id="TextRegion_1690375640469_32842" custom="readingOrder {index:122;} structure {type:T0C2;}">
             <Coords points="2911,4474 2912,4517 3393,4513 3392,4470"/>
             <TextLine id="TableCell_1643631224137_1561l0" custom="readingOrder {index:0;}">
                 <Coords points="3045,4478 3127,4478 3127,4515 3046,4515"/>
@@ -7059,7 +7059,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355253_36929" custom="readingOrder {index:123;} structure {type:T0C2;}">
+        <TextRegion id="TextRegion_1690375640469_32845" custom="readingOrder {index:123;} structure {type:T0C2;}">
             <Coords points="2912,4517 2912,4561 3394,4557 3393,4513"/>
             <TextLine id="TableCell_1643631224167_1567l0" custom="readingOrder {index:0;}">
                 <Coords points="3046,4522 3112,4522 3141,4527 3125,4555 3046,4555"/>
@@ -7072,7 +7072,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355254_36932" custom="readingOrder {index:124;} structure {type:T0C2;}">
+        <TextRegion id="TextRegion_1690375640469_32848" custom="readingOrder {index:124;} structure {type:T0C2;}">
             <Coords points="2912,4561 2912,4607 3395,4602 3394,4557"/>
             <TextLine id="line_1652189916711_1505" custom="readingOrder {index:0;}">
                 <Coords points="3043,4564 3131,4563 3131,4602 3043,4603"/>
@@ -7085,7 +7085,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355254_36935" custom="readingOrder {index:125;} structure {type:T0C2;}">
+        <TextRegion id="TextRegion_1690375640470_32851" custom="readingOrder {index:125;} structure {type:T0C2;}">
             <Coords points="2912,4607 2913,4650 3396,4643 3395,4602"/>
             <TextLine id="TableCell_1643631224221_1579l0" custom="readingOrder {index:0;}">
                 <Coords points="3046,4610 3130,4609 3131,4645 3046,4647"/>
@@ -7098,7 +7098,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355255_36938" custom="readingOrder {index:126;} structure {type:T0C2;}">
+        <TextRegion id="TextRegion_1690375640470_32854" custom="readingOrder {index:126;} structure {type:T0C2;}">
             <Coords points="2913,4650 2913,4694 3397,4690 3396,4643"/>
             <TextLine id="line_1652190061359_1529" custom="readingOrder {index:0;}">
                 <Coords points="3048,4651 3130,4651 3130,4693 3048,4693"/>
@@ -7111,7 +7111,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355255_36941" custom="readingOrder {index:127;} structure {type:T0C2;}">
+        <TextRegion id="TextRegion_1690375640470_32857" custom="readingOrder {index:127;} structure {type:T0C2;}">
             <Coords points="2913,4694 2913,4739 3398,4733 3397,4690"/>
             <TextLine id="TableCell_1643631224270_1591l0" custom="readingOrder {index:0;}">
                 <Coords points="3047,4699 3131,4696 3131,4732 3047,4736"/>
@@ -7124,7 +7124,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355256_36944" custom="readingOrder {index:128;} structure {type:T0C2;}">
+        <TextRegion id="TextRegion_1690375640470_32860" custom="readingOrder {index:128;} structure {type:T0C2;}">
             <Coords points="2913,4739 2914,4781 3399,4781 3398,4733"/>
             <TextLine id="TableCell_1643631224291_1597l0" custom="readingOrder {index:0;}">
                 <Coords points="3054,4744 3084,4742 3100,4742 3133,4743 3133,4779 3077,4780 3054,4777"/>
@@ -7137,7 +7137,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355258_36945" custom="readingOrder {index:129;} structure {type:T1C0;}">
+        <TextRegion id="TextRegion_1690375640472_32861" custom="readingOrder {index:129;} structure {type:T1C0;}">
             <Coords points="2204,5112 2204,5151 2534,5148 2534,5108"/>
             <TextLine id="line_1652190435302_1574" custom="readingOrder {index:0;}">
                 <Coords points="2216,5113 2503,5113 2503,5148 2216,5148"/>
@@ -7150,7 +7150,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355259_36948" custom="readingOrder {index:130;} structure {type:T1C0;}">
+        <TextRegion id="TextRegion_1690375640472_32864" custom="readingOrder {index:130;} structure {type:T1C0;}">
             <Coords points="2204,5151 2204,5195 2534,5191 2534,5148"/>
             <TextLine id="TableCell_1643631400634_1814l0" custom="readingOrder {index:0;}">
                 <Coords points="2330,5155 2407,5155 2405,5192 2328,5192"/>
@@ -7163,7 +7163,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355259_36951" custom="readingOrder {index:131;} structure {type:T1C0;}">
+        <TextRegion id="TextRegion_1690375640472_32867" custom="readingOrder {index:131;} structure {type:T1C0;}">
             <Coords points="2204,5195 2204,5241 2534,5237 2534,5191"/>
             <TextLine id="TableCell_1643631400663_1820l0" custom="readingOrder {index:0;}">
                 <Coords points="2343,5200 2367,5198 2413,5199 2415,5236 2369,5235 2343,5233"/>
@@ -7176,7 +7176,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355260_36954" custom="readingOrder {index:132;} structure {type:T1C0;}">
+        <TextRegion id="TextRegion_1690375640472_32870" custom="readingOrder {index:132;} structure {type:T1C0;}">
             <Coords points="2204,5241 2204,5281 2533,5277 2534,5237"/>
             <TextLine id="TableCell_1643631400690_1826l0" custom="readingOrder {index:0;}">
                 <Coords points="2317,5242 2424,5244 2423,5279 2317,5277"/>
@@ -7189,7 +7189,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355260_36957" custom="readingOrder {index:133;} structure {type:T1C0;}">
+        <TextRegion id="TextRegion_1690375640472_32873" custom="readingOrder {index:133;} structure {type:T1C0;}">
             <Coords points="2204,5281 2204,5326 2533,5322 2533,5277"/>
             <TextLine id="TableCell_1643631400717_1832l0" custom="readingOrder {index:0;}">
                 <Coords points="2317,5286 2424,5286 2424,5322 2317,5322"/>
@@ -7202,7 +7202,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355260_36960" custom="readingOrder {index:134;} structure {type:T1C0;}">
+        <TextRegion id="TextRegion_1690375640472_32876" custom="readingOrder {index:134;} structure {type:T1C0;}">
             <Coords points="2204,5326 2204,5370 2533,5366 2533,5322"/>
             <TextLine id="TableCell_1643631400741_1838l0" custom="readingOrder {index:0;}">
                 <Coords points="2317,5330 2419,5327 2419,5364 2317,5367"/>
@@ -7215,7 +7215,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355261_36963" custom="readingOrder {index:135;} structure {type:T1C0;}">
+        <TextRegion id="TextRegion_1690375640473_32879" custom="readingOrder {index:135;} structure {type:T1C0;}">
             <Coords points="2204,5370 2204,5410 2533,5408 2533,5366"/>
             <TextLine id="TableCell_1643631400766_1844l0" custom="readingOrder {index:0;}">
                 <Coords points="2325,5373 2422,5373 2421,5409 2324,5407"/>
@@ -7228,7 +7228,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355261_36966" custom="readingOrder {index:136;} structure {type:T1C0;}">
+        <TextRegion id="TextRegion_1690375640473_32882" custom="readingOrder {index:136;} structure {type:T1C0;}">
             <Coords points="2204,5410 2204,5455 2533,5453 2533,5408"/>
             <TextLine id="TableCell_1643631400789_1850l0" custom="readingOrder {index:0;}">
                 <Coords points="2317,5415 2425,5413 2425,5453 2317,5455"/>
@@ -7241,7 +7241,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355262_36969" custom="readingOrder {index:137;} structure {type:T1C0;}">
+        <TextRegion id="TextRegion_1690375640473_32885" custom="readingOrder {index:137;} structure {type:T1C0;}">
             <Coords points="2204,5455 2204,5503 2532,5498 2533,5453"/>
             <TextLine id="TableCell_1643631400815_1856l0" custom="readingOrder {index:0;}">
                 <Coords points="2322,5461 2428,5460 2427,5498 2322,5502"/>
@@ -7254,7 +7254,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355262_36972" custom="readingOrder {index:138;} structure {type:T1C0;}">
+        <TextRegion id="TextRegion_1690375640473_32888" custom="readingOrder {index:138;} structure {type:T1C0;}">
             <Coords points="2204,5503 2204,5547 2532,5543 2532,5498"/>
             <TextLine id="TableCell_1643631400840_1862l0" custom="readingOrder {index:0;}">
                 <Coords points="2319,5506 2433,5505 2433,5541 2319,5542"/>
@@ -7267,7 +7267,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355262_36975" custom="readingOrder {index:139;} structure {type:T1C0;}">
+        <TextRegion id="TextRegion_1690375640473_32891" custom="readingOrder {index:139;} structure {type:T1C0;}">
             <Coords points="2204,5547 2204,5588 2532,5584 2532,5543"/>
             <TextLine id="TableCell_1643631400868_1868l0" custom="readingOrder {index:0;}">
                 <Coords points="2327,5547 2428,5548 2428,5586 2327,5585"/>
@@ -7280,7 +7280,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355263_36978" custom="readingOrder {index:140;} structure {type:T1C0;}">
+        <TextRegion id="TextRegion_1690375640473_32894" custom="readingOrder {index:140;} structure {type:T1C0;}">
             <Coords points="2204,5588 2204,5629 2532,5626 2532,5584"/>
             <TextLine id="TableCell_1643631400890_1874l0" custom="readingOrder {index:0;}">
                 <Coords points="2329,5593 2377,5588 2388,5593 2430,5593 2423,5626 2329,5628"/>
@@ -7293,7 +7293,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355263_36981" custom="readingOrder {index:141;} structure {type:T1C0;}">
+        <TextRegion id="TextRegion_1690375640474_32897" custom="readingOrder {index:141;} structure {type:T1C0;}">
             <Coords points="2204,5629 2204,5675 2532,5671 2532,5626"/>
             <TextLine id="TableCell_1643631400914_1880l0" custom="readingOrder {index:0;}">
                 <Coords points="2332,5633 2358,5631 2374,5628 2426,5635 2421,5669 2363,5675 2328,5669"/>
@@ -7306,7 +7306,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355263_36984" custom="readingOrder {index:142;} structure {type:T1C0;}">
+        <TextRegion id="TextRegion_1690375640474_32900" custom="readingOrder {index:142;} structure {type:T1C0;}">
             <Coords points="2204,5675 2204,5716 2531,5713 2532,5671"/>
             <TextLine id="TableCell_1643631400937_1886l0" custom="readingOrder {index:0;}">
                 <Coords points="2327,5679 2427,5675 2426,5713 2327,5716"/>
@@ -7319,7 +7319,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355264_36987" custom="readingOrder {index:143;} structure {type:T1C0;}">
+        <TextRegion id="TextRegion_1690375640474_32903" custom="readingOrder {index:143;} structure {type:T1C0;}">
             <Coords points="2204,5716 2204,5763 2531,5760 2531,5713"/>
             <TextLine id="TableCell_1643631400963_1892l0" custom="readingOrder {index:0;}">
                 <Coords points="2331,5719 2439,5718 2436,5760 2328,5761"/>
@@ -7332,7 +7332,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355264_36990" custom="readingOrder {index:144;} structure {type:T1C0;}">
+        <TextRegion id="TextRegion_1690375640474_32906" custom="readingOrder {index:144;} structure {type:T1C0;}">
             <Coords points="2204,5763 2204,5807 2531,5803 2531,5760"/>
             <TextLine id="TableCell_1643631400986_1898l0" custom="readingOrder {index:0;}">
                 <Coords points="2327,5764 2436,5762 2436,5801 2327,5803"/>
@@ -7345,7 +7345,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355265_36993" custom="readingOrder {index:145;} structure {type:T1C0;}">
+        <TextRegion id="TextRegion_1690375640474_32909" custom="readingOrder {index:145;} structure {type:T1C0;}">
             <Coords points="2204,5807 2204,5849 2531,5846 2531,5803"/>
             <TextLine id="TableCell_1643631401008_1904l0" custom="readingOrder {index:0;}">
                 <Coords points="2327,5809 2435,5807 2436,5847 2328,5848"/>
@@ -7358,7 +7358,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355265_36996" custom="readingOrder {index:146;} structure {type:T1C0;}">
+        <TextRegion id="TextRegion_1690375640474_32912" custom="readingOrder {index:146;} structure {type:T1C0;}">
             <Coords points="2204,5849 2204,5892 2531,5889 2531,5846"/>
             <TextLine id="TableCell_1643631401030_1910l1" custom="readingOrder {index:0;}">
                 <Coords points="2332,5856 2394,5849 2426,5853 2426,5867 2426,5888 2374,5889 2362,5890 2334,5889"/>
@@ -7371,7 +7371,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355265_36999" custom="readingOrder {index:147;} structure {type:T1C0;}">
+        <TextRegion id="TextRegion_1690375640475_32915" custom="readingOrder {index:147;} structure {type:T1C0;}">
             <Coords points="2204,5892 2204,5933 2530,5931 2531,5889"/>
             <TextLine id="TableCell_1643631401051_1916l0" custom="readingOrder {index:0;}">
                 <Coords points="2326,5895 2436,5893 2435,5930 2326,5931"/>
@@ -7384,7 +7384,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355266_37002" custom="readingOrder {index:148;} structure {type:T1C0;}">
+        <TextRegion id="TextRegion_1690375640475_32918" custom="readingOrder {index:148;} structure {type:T1C0;}">
             <Coords points="2204,5933 2204,5975 2530,5974 2530,5931"/>
             <TextLine id="TableCell_1643631401073_1922l0" custom="readingOrder {index:0;}">
                 <Coords points="2329,5938 2436,5936 2436,5977 2329,5978"/>
@@ -7397,7 +7397,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355266_37005" custom="readingOrder {index:149;} structure {type:T1C0;}">
+        <TextRegion id="TextRegion_1690375640475_32921" custom="readingOrder {index:149;} structure {type:T1C0;}">
             <Coords points="2204,5975 2204,6019 2530,6017 2530,5974"/>
             <TextLine id="TableCell_1643631401095_1928l0" custom="readingOrder {index:0;}">
                 <Coords points="2327,5981 2436,5980 2435,6017 2326,6019"/>
@@ -7410,7 +7410,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355266_37008" custom="readingOrder {index:150;} structure {type:T1C0;}">
+        <TextRegion id="TextRegion_1690375640475_32924" custom="readingOrder {index:150;} structure {type:T1C0;}">
             <Coords points="2204,6019 2204,6068 2530,6065 2530,6017"/>
             <TextLine id="TableCell_1643631401116_1934l0" custom="readingOrder {index:0;}">
                 <Coords points="2332,6024 2441,6026 2441,6067 2332,6066"/>
@@ -7423,7 +7423,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355267_37011" custom="readingOrder {index:151;} structure {type:T1C0;}">
+        <TextRegion id="TextRegion_1690375640475_32927" custom="readingOrder {index:151;} structure {type:T1C0;}">
             <Coords points="2204,6068 2204,6109 2529,6107 2530,6065"/>
             <TextLine id="TableCell_1643631401137_1940l0" custom="readingOrder {index:0;}">
                 <Coords points="2340,6073 2368,6071 2394,6071 2435,6074 2426,6104 2334,6106"/>
@@ -7436,7 +7436,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355267_37014" custom="readingOrder {index:152;} structure {type:T1C0;}">
+        <TextRegion id="TextRegion_1690375640475_32930" custom="readingOrder {index:152;} structure {type:T1C0;}">
             <Coords points="2204,6109 2204,6153 2529,6150 2529,6107"/>
             <TextLine id="TableCell_1643631401158_1946l0" custom="readingOrder {index:0;}">
                 <Coords points="2320,6114 2437,6114 2436,6150 2319,6151"/>
@@ -7449,7 +7449,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355267_37017" custom="readingOrder {index:153;} structure {type:T1C0;}">
+        <TextRegion id="TextRegion_1690375640480_32933" custom="readingOrder {index:153;} structure {type:T1C0;}">
             <Coords points="2204,6153 2204,6199 2529,6196 2529,6150"/>
             <TextLine id="TableCell_1643631401178_1952l0" custom="readingOrder {index:0;}">
                 <Coords points="2333,6156 2441,6155 2440,6194 2332,6195"/>
@@ -7462,7 +7462,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355268_37020" custom="readingOrder {index:154;} structure {type:T1C0;}">
+        <TextRegion id="TextRegion_1690375640481_32936" custom="readingOrder {index:154;} structure {type:T1C0;}">
             <Coords points="2204,6199 2204,6242 2529,6239 2529,6196"/>
             <TextLine id="TableCell_1643631401199_1958l0" custom="readingOrder {index:0;}">
                 <Coords points="2332,6202 2443,6201 2443,6238 2332,6238"/>
@@ -7475,7 +7475,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355268_37023" custom="readingOrder {index:155;} structure {type:T1C0;}">
+        <TextRegion id="TextRegion_1690375640481_32939" custom="readingOrder {index:155;} structure {type:T1C0;}">
             <Coords points="2204,6242 2204,6288 2529,6285 2529,6239"/>
             <TextLine id="TableCell_1643631401219_1964l0" custom="readingOrder {index:0;}">
                 <Coords points="2330,6245 2438,6243 2438,6280 2330,6282"/>
@@ -7488,7 +7488,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355269_37026" custom="readingOrder {index:156;} structure {type:T1C0;}">
+        <TextRegion id="TextRegion_1690375640481_32942" custom="readingOrder {index:156;} structure {type:T1C0;}">
             <Coords points="2204,6288 2204,6336 2528,6336 2529,6285"/>
             <TextLine id="TableCell_1643631401239_1970l0" custom="readingOrder {index:0;}">
                 <Coords points="2337,6289 2437,6290 2438,6331 2338,6330"/>
@@ -7501,7 +7501,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355258_36946" custom="readingOrder {index:157;} structure {type:T1C1;}">
+        <TextRegion id="TextRegion_1690375640472_32862" custom="readingOrder {index:157;} structure {type:T1C1;}">
             <Coords points="2534,5108 2534,5148 2920,5145 2919,5104"/>
             <TextLine id="TableCell_1643631403550_1976l0" custom="readingOrder {index:0;}">
                 <Coords points="2553,5109 2885,5107 2885,5144 2553,5145"/>
@@ -7514,7 +7514,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355259_36949" custom="readingOrder {index:158;} structure {type:T1C1;}">
+        <TextRegion id="TextRegion_1690375640472_32865" custom="readingOrder {index:158;} structure {type:T1C1;}">
             <Coords points="2534,5148 2534,5191 2920,5186 2920,5145"/>
             <TextLine id="TableCell_1643631403611_1982l0" custom="readingOrder {index:0;}">
                 <Coords points="2685,5153 2762,5155 2762,5188 2685,5188"/>
@@ -7527,7 +7527,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355259_36952" custom="readingOrder {index:159;} structure {type:T1C1;}">
+        <TextRegion id="TextRegion_1690375640472_32868" custom="readingOrder {index:159;} structure {type:T1C1;}">
             <Coords points="2534,5191 2534,5237 2921,5232 2920,5186"/>
             <TextLine id="TableCell_1643631403647_1988l0" custom="readingOrder {index:0;}">
                 <Coords points="2667,5196 2772,5191 2773,5228 2667,5233"/>
@@ -7540,7 +7540,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355260_36955" custom="readingOrder {index:160;} structure {type:T1C1;}">
+        <TextRegion id="TextRegion_1690375640472_32871" custom="readingOrder {index:160;} structure {type:T1C1;}">
             <Coords points="2534,5237 2533,5277 2922,5273 2921,5232"/>
             <TextLine id="TableCell_1643631403682_1994l0" custom="readingOrder {index:0;}">
                 <Coords points="2672,5241 2777,5239 2778,5274 2671,5275"/>
@@ -7553,7 +7553,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355260_36958" custom="readingOrder {index:161;} structure {type:T1C1;}">
+        <TextRegion id="TextRegion_1690375640472_32874" custom="readingOrder {index:161;} structure {type:T1C1;}">
             <Coords points="2533,5277 2533,5322 2923,5317 2922,5273"/>
             <TextLine id="TableCell_1643631403718_2000l0" custom="readingOrder {index:0;}">
                 <Coords points="2674,5283 2778,5281 2778,5322 2673,5324"/>
@@ -7566,7 +7566,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355261_36961" custom="readingOrder {index:162;} structure {type:T1C1;}">
+        <TextRegion id="TextRegion_1690375640472_32877" custom="readingOrder {index:162;} structure {type:T1C1;}">
             <Coords points="2533,5322 2533,5366 2923,5361 2923,5317"/>
             <TextLine id="TableCell_1643631403752_2006l0" custom="readingOrder {index:0;}">
                 <Coords points="2671,5329 2777,5327 2777,5362 2671,5364"/>
@@ -7579,7 +7579,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355261_36964" custom="readingOrder {index:163;} structure {type:T1C1;}">
+        <TextRegion id="TextRegion_1690375640473_32880" custom="readingOrder {index:163;} structure {type:T1C1;}">
             <Coords points="2533,5366 2533,5408 2924,5405 2923,5361"/>
             <TextLine id="TableCell_1643631403782_2012l0" custom="readingOrder {index:0;}">
                 <Coords points="2675,5374 2772,5370 2773,5406 2675,5409"/>
@@ -7592,7 +7592,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355261_36967" custom="readingOrder {index:164;} structure {type:T1C1;}">
+        <TextRegion id="TextRegion_1690375640473_32883" custom="readingOrder {index:164;} structure {type:T1C1;}">
             <Coords points="2533,5408 2533,5453 2925,5450 2924,5405"/>
             <TextLine id="TableCell_1643631403818_2018l0" custom="readingOrder {index:0;}">
                 <Coords points="2679,5416 2776,5411 2777,5455 2680,5461"/>
@@ -7605,7 +7605,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355262_36970" custom="readingOrder {index:165;} structure {type:T1C1;}">
+        <TextRegion id="TextRegion_1690375640473_32886" custom="readingOrder {index:165;} structure {type:T1C1;}">
             <Coords points="2533,5453 2532,5498 2925,5493 2925,5450"/>
             <TextLine id="TableCell_1643631403850_2024l0" custom="readingOrder {index:0;}">
                 <Coords points="2677,5463 2782,5457 2782,5494 2676,5497"/>
@@ -7618,7 +7618,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355262_36973" custom="readingOrder {index:166;} structure {type:T1C1;}">
+        <TextRegion id="TextRegion_1690375640473_32889" custom="readingOrder {index:166;} structure {type:T1C1;}">
             <Coords points="2532,5498 2532,5543 2926,5538 2925,5493"/>
             <TextLine id="TableCell_1643631403880_2030l0" custom="readingOrder {index:0;}">
                 <Coords points="2675,5504 2782,5502 2783,5539 2675,5540"/>
@@ -7631,7 +7631,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355263_36976" custom="readingOrder {index:167;} structure {type:T1C1;}">
+        <TextRegion id="TextRegion_1690375640473_32892" custom="readingOrder {index:167;} structure {type:T1C1;}">
             <Coords points="2532,5543 2532,5584 2927,5580 2926,5538"/>
             <TextLine id="TableCell_1643631403908_2036l0" custom="readingOrder {index:0;}">
                 <Coords points="2675,5549 2780,5544 2780,5580 2675,5584"/>
@@ -7644,7 +7644,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355263_36979" custom="readingOrder {index:168;} structure {type:T1C1;}">
+        <TextRegion id="TextRegion_1690375640474_32895" custom="readingOrder {index:168;} structure {type:T1C1;}">
             <Coords points="2532,5584 2532,5626 2927,5623 2927,5580"/>
             <TextLine id="line_1652191280037_1679" custom="readingOrder {index:0;}">
                 <Coords points="2682,5589 2782,5589 2782,5627 2682,5627"/>
@@ -7657,7 +7657,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355263_36982" custom="readingOrder {index:169;} structure {type:T1C1;}">
+        <TextRegion id="TextRegion_1690375640474_32898" custom="readingOrder {index:169;} structure {type:T1C1;}">
             <Coords points="2532,5626 2532,5671 2928,5667 2927,5623"/>
             <TextLine id="TableCell_1643631403963_2048l0" custom="readingOrder {index:0;}">
                 <Coords points="2674,5634 2783,5633 2784,5670 2674,5671"/>
@@ -7670,7 +7670,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355264_36985" custom="readingOrder {index:170;} structure {type:T1C1;}">
+        <TextRegion id="TextRegion_1690375640474_32901" custom="readingOrder {index:170;} structure {type:T1C1;}">
             <Coords points="2532,5671 2531,5713 2929,5709 2928,5667"/>
             <TextLine id="TableCell_1643631403995_2054l0" custom="readingOrder {index:0;}">
                 <Coords points="2676,5674 2790,5675 2790,5712 2674,5711"/>
@@ -7683,7 +7683,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355264_36988" custom="readingOrder {index:171;} structure {type:T1C1;}">
+        <TextRegion id="TextRegion_1690375640474_32904" custom="readingOrder {index:171;} structure {type:T1C1;}">
             <Coords points="2531,5713 2531,5760 2930,5757 2929,5709"/>
             <TextLine id="TableCell_1643631404024_2060l0" custom="readingOrder {index:0;}">
                 <Coords points="2679,5722 2781,5718 2782,5756 2679,5759"/>
@@ -7696,7 +7696,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355264_36991" custom="readingOrder {index:172;} structure {type:T1C1;}">
+        <TextRegion id="TextRegion_1690375640474_32907" custom="readingOrder {index:172;} structure {type:T1C1;}">
             <Coords points="2531,5760 2531,5803 2930,5799 2930,5757"/>
             <TextLine id="TableCell_1643631404053_2066l0" custom="readingOrder {index:0;}">
                 <Coords points="2683,5769 2733,5763 2781,5769 2781,5800 2683,5801"/>
@@ -7709,7 +7709,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355265_36994" custom="readingOrder {index:173;} structure {type:T1C1;}">
+        <TextRegion id="TextRegion_1690375640474_32910" custom="readingOrder {index:173;} structure {type:T1C1;}">
             <Coords points="2531,5803 2531,5846 2931,5843 2930,5799"/>
             <TextLine id="TableCell_1643631404080_2072l0" custom="readingOrder {index:0;}">
                 <Coords points="2678,5811 2790,5809 2791,5842 2678,5844"/>
@@ -7722,7 +7722,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355265_36997" custom="readingOrder {index:174;} structure {type:T1C1;}">
+        <TextRegion id="TextRegion_1690375640475_32913" custom="readingOrder {index:174;} structure {type:T1C1;}">
             <Coords points="2531,5846 2531,5889 2932,5886 2931,5843"/>
             <TextLine id="TableCell_1643631404106_2078l0" custom="readingOrder {index:0;}">
                 <Coords points="2672,5854 2793,5852 2793,5885 2672,5886"/>
@@ -7735,7 +7735,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355265_37000" custom="readingOrder {index:175;} structure {type:T1C1;}">
+        <TextRegion id="TextRegion_1690375640475_32916" custom="readingOrder {index:175;} structure {type:T1C1;}">
             <Coords points="2531,5889 2530,5931 2932,5929 2932,5886"/>
             <TextLine id="TableCell_1643631404132_2084l0" custom="readingOrder {index:0;}">
                 <Coords points="2681,5893 2787,5893 2787,5932 2680,5932"/>
@@ -7748,7 +7748,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355266_37003" custom="readingOrder {index:176;} structure {type:T1C1;}">
+        <TextRegion id="TextRegion_1690375640475_32919" custom="readingOrder {index:176;} structure {type:T1C1;}">
             <Coords points="2530,5931 2530,5974 2933,5974 2932,5929"/>
             <TextLine id="TableCell_1643631404157_2090l0" custom="readingOrder {index:0;}">
                 <Coords points="2687,5937 2781,5937 2781,5974 2687,5974"/>
@@ -7761,7 +7761,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355266_37006" custom="readingOrder {index:177;} structure {type:T1C1;}">
+        <TextRegion id="TextRegion_1690375640475_32922" custom="readingOrder {index:177;} structure {type:T1C1;}">
             <Coords points="2530,5974 2530,6017 2934,6015 2933,5974"/>
             <TextLine id="TableCell_1643631404183_2096l0" custom="readingOrder {index:0;}">
                 <Coords points="2683,5985 2786,5981 2787,6012 2683,6017"/>
@@ -7774,7 +7774,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355266_37009" custom="readingOrder {index:178;} structure {type:T1C1;}">
+        <TextRegion id="TextRegion_1690375640475_32925" custom="readingOrder {index:178;} structure {type:T1C1;}">
             <Coords points="2530,6017 2530,6065 2934,6061 2934,6015"/>
             <TextLine id="TableCell_1643631404209_2102l0" custom="readingOrder {index:0;}">
                 <Coords points="2688,6023 2786,6024 2786,6061 2688,6060"/>
@@ -7787,7 +7787,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355267_37012" custom="readingOrder {index:179;} structure {type:T1C1;}">
+        <TextRegion id="TextRegion_1690375640475_32928" custom="readingOrder {index:179;} structure {type:T1C1;}">
             <Coords points="2530,6065 2529,6107 2935,6104 2934,6061"/>
             <TextLine id="TableCell_1643631404236_2108l0" custom="readingOrder {index:0;}">
                 <Coords points="2678,6068 2794,6069 2795,6105 2678,6103"/>
@@ -7800,7 +7800,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355267_37015" custom="readingOrder {index:180;} structure {type:T1C1;}">
+        <TextRegion id="TextRegion_1690375640476_32931" custom="readingOrder {index:180;} structure {type:T1C1;}">
             <Coords points="2529,6107 2529,6150 2936,6147 2935,6104"/>
             <TextLine id="TableCell_1643631404263_2114l0" custom="readingOrder {index:0;}">
                 <Coords points="2680,6117 2789,6114 2790,6147 2680,6149"/>
@@ -7813,7 +7813,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355268_37018" custom="readingOrder {index:181;} structure {type:T1C1;}">
+        <TextRegion id="TextRegion_1690375640481_32934" custom="readingOrder {index:181;} structure {type:T1C1;}">
             <Coords points="2529,6150 2529,6196 2937,6192 2936,6147"/>
             <TextLine id="TableCell_1643631404285_2120l0" custom="readingOrder {index:0;}">
                 <Coords points="2686,6157 2788,6155 2788,6191 2686,6194"/>
@@ -7826,7 +7826,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355268_37021" custom="readingOrder {index:182;} structure {type:T1C1;}">
+        <TextRegion id="TextRegion_1690375640481_32937" custom="readingOrder {index:182;} structure {type:T1C1;}">
             <Coords points="2529,6196 2529,6239 2937,6236 2937,6192"/>
             <TextLine id="TableCell_1643631404308_2126l0" custom="readingOrder {index:0;}">
                 <Coords points="2692,6198 2791,6197 2791,6236 2692,6237"/>
@@ -7839,7 +7839,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355268_37024" custom="readingOrder {index:183;} structure {type:T1C1;}">
+        <TextRegion id="TextRegion_1690375640481_32940" custom="readingOrder {index:183;} structure {type:T1C1;}">
             <Coords points="2529,6239 2529,6285 2938,6281 2937,6236"/>
             <TextLine id="TableCell_1643631404333_2132l0" custom="readingOrder {index:0;}">
                 <Coords points="2683,6243 2794,6242 2794,6281 2682,6283"/>
@@ -7852,7 +7852,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355269_37027" custom="readingOrder {index:184;} structure {type:T1C1;}">
+        <TextRegion id="TextRegion_1690375640481_32943" custom="readingOrder {index:184;} structure {type:T1C1;}">
             <Coords points="2529,6285 2528,6336 2939,6336 2938,6281"/>
             <TextLine id="TableCell_1643631404354_2138l0" custom="readingOrder {index:0;}">
                 <Coords points="2669,6287 2802,6289 2802,6329 2669,6326"/>
@@ -7865,10 +7865,10 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355258_36947" custom="readingOrder {index:185;} structure {type:T1C2;}">
+        <TextRegion id="TextRegion_1690375640472_32863" custom="readingOrder {index:185;} structure {type:T1C2;}">
             <Coords points="2919,5104 2920,5145 3283,5144 3283,5102"/>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355259_36950" custom="readingOrder {index:186;} structure {type:T1C2;}">
+        <TextRegion id="TextRegion_1690375640472_32866" custom="readingOrder {index:186;} structure {type:T1C2;}">
             <Coords points="2920,5145 2920,5186 3283,5182 3283,5144"/>
             <TextLine id="TableCell_1643631403611_1980l0" custom="readingOrder {index:0;}">
                 <Coords points="3064,5150 3130,5146 3135,5183 3064,5182"/>
@@ -7881,7 +7881,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355259_36953" custom="readingOrder {index:187;} structure {type:T1C2;}">
+        <TextRegion id="TextRegion_1690375640472_32869" custom="readingOrder {index:187;} structure {type:T1C2;}">
             <Coords points="2920,5186 2921,5232 3283,5228 3283,5182"/>
             <TextLine id="TableCell_1643631403647_1986l0" custom="readingOrder {index:0;}">
                 <Coords points="3093,5189 3146,5189 3146,5226 3094,5226"/>
@@ -7894,7 +7894,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355260_36956" custom="readingOrder {index:188;} structure {type:T1C2;}">
+        <TextRegion id="TextRegion_1690375640472_32872" custom="readingOrder {index:188;} structure {type:T1C2;}">
             <Coords points="2921,5232 2922,5273 3283,5271 3283,5228"/>
             <TextLine id="TableCell_1643631403682_1992l0" custom="readingOrder {index:0;}">
                 <Coords points="3100,5237 3137,5234 3139,5269 3102,5272"/>
@@ -7907,7 +7907,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355260_36959" custom="readingOrder {index:189;} structure {type:T1C2;}">
+        <TextRegion id="TextRegion_1690375640472_32875" custom="readingOrder {index:189;} structure {type:T1C2;}">
             <Coords points="2922,5273 2923,5317 3283,5314 3283,5271"/>
             <TextLine id="TableCell_1643631403718_1998l0" custom="readingOrder {index:0;}">
                 <Coords points="3079,5277 3147,5278 3147,5315 3079,5315"/>
@@ -7920,7 +7920,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355261_36962" custom="readingOrder {index:190;} structure {type:T1C2;}">
+        <TextRegion id="TextRegion_1690375640473_32878" custom="readingOrder {index:190;} structure {type:T1C2;}">
             <Coords points="2923,5317 2923,5361 3283,5358 3283,5314"/>
             <TextLine id="TableCell_1643631403752_2004l0" custom="readingOrder {index:0;}">
                 <Coords points="3081,5323 3146,5324 3146,5357 3081,5356"/>
@@ -7933,7 +7933,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355261_36965" custom="readingOrder {index:191;} structure {type:T1C2;}">
+        <TextRegion id="TextRegion_1690375640473_32881" custom="readingOrder {index:191;} structure {type:T1C2;}">
             <Coords points="2923,5361 2924,5405 3283,5404 3283,5358"/>
             <TextLine id="TableCell_1643631403782_2010l0" custom="readingOrder {index:0;}">
                 <Coords points="3081,5364 3138,5365 3138,5405 3082,5403"/>
@@ -7946,7 +7946,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355261_36968" custom="readingOrder {index:192;} structure {type:T1C2;}">
+        <TextRegion id="TextRegion_1690375640473_32884" custom="readingOrder {index:192;} structure {type:T1C2;}">
             <Coords points="2924,5405 2925,5450 3283,5449 3283,5404"/>
             <TextLine id="TableCell_1643631403818_2016l0" custom="readingOrder {index:0;}">
                 <Coords points="3079,5408 3144,5407 3144,5448 3080,5449"/>
@@ -7959,7 +7959,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355262_36971" custom="readingOrder {index:193;} structure {type:T1C2;}">
+        <TextRegion id="TextRegion_1690375640473_32887" custom="readingOrder {index:193;} structure {type:T1C2;}">
             <Coords points="2925,5450 2925,5493 3283,5489 3283,5449"/>
             <TextLine id="TableCell_1643631403850_2022l0" custom="readingOrder {index:0;}">
                 <Coords points="3086,5455 3143,5453 3143,5487 3086,5491"/>
@@ -7972,7 +7972,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355262_36974" custom="readingOrder {index:194;} structure {type:T1C2;}">
+        <TextRegion id="TextRegion_1690375640473_32890" custom="readingOrder {index:194;} structure {type:T1C2;}">
             <Coords points="2925,5493 2926,5538 3283,5534 3283,5489"/>
             <TextLine id="TableCell_1643631403880_2028l0" custom="readingOrder {index:0;}">
                 <Coords points="3083,5498 3147,5496 3147,5533 3084,5535"/>
@@ -7985,7 +7985,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355263_36977" custom="readingOrder {index:195;} structure {type:T1C2;}">
+        <TextRegion id="TextRegion_1690375640473_32893" custom="readingOrder {index:195;} structure {type:T1C2;}">
             <Coords points="2926,5538 2927,5580 3283,5577 3283,5534"/>
             <TextLine id="line_1652191222901_1664" custom="readingOrder {index:0;}">
                 <Coords points="3081,5540 3156,5540 3156,5581 3081,5581"/>
@@ -7998,7 +7998,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355263_36980" custom="readingOrder {index:196;} structure {type:T1C2;}">
+        <TextRegion id="TextRegion_1690375640474_32896" custom="readingOrder {index:196;} structure {type:T1C2;}">
             <Coords points="2927,5580 2927,5623 3283,5621 3283,5577"/>
             <TextLine id="TableCell_1643631403935_2040l0" custom="readingOrder {index:0;}">
                 <Coords points="3091,5584 3143,5582 3144,5620 3092,5622"/>
@@ -8011,7 +8011,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355263_36983" custom="readingOrder {index:197;} structure {type:T1C2;}">
+        <TextRegion id="TextRegion_1690375640474_32899" custom="readingOrder {index:197;} structure {type:T1C2;}">
             <Coords points="2927,5623 2928,5667 3283,5665 3283,5621"/>
             <TextLine id="TableCell_1643631403963_2046l0" custom="readingOrder {index:0;}">
                 <Coords points="3082,5629 3147,5628 3147,5667 3083,5668"/>
@@ -8024,7 +8024,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355264_36986" custom="readingOrder {index:198;} structure {type:T1C2;}">
+        <TextRegion id="TextRegion_1690375640474_32902" custom="readingOrder {index:198;} structure {type:T1C2;}">
             <Coords points="2928,5667 2929,5709 3283,5707 3283,5665"/>
             <TextLine id="TableCell_1643631403995_2052l0" custom="readingOrder {index:0;}">
                 <Coords points="3094,5669 3151,5670 3149,5703 3113,5708 3091,5706"/>
@@ -8037,7 +8037,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355264_36989" custom="readingOrder {index:199;} structure {type:T1C2;}">
+        <TextRegion id="TextRegion_1690375640474_32905" custom="readingOrder {index:199;} structure {type:T1C2;}">
             <Coords points="2929,5709 2930,5757 3283,5755 3283,5707"/>
             <TextLine id="TableCell_1643631404024_2058l0" custom="readingOrder {index:0;}">
                 <Coords points="3079,5715 3152,5715 3152,5751 3080,5751"/>
@@ -8050,7 +8050,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355264_36992" custom="readingOrder {index:200;} structure {type:T1C2;}">
+        <TextRegion id="TextRegion_1690375640474_32908" custom="readingOrder {index:200;} structure {type:T1C2;}">
             <Coords points="2930,5757 2930,5799 3283,5796 3283,5755"/>
             <TextLine id="TableCell_1643631404053_2064l0" custom="readingOrder {index:0;}">
                 <Coords points="3092,5762 3121,5760 3149,5760 3149,5793 3115,5794 3092,5795"/>
@@ -8063,7 +8063,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355265_36995" custom="readingOrder {index:201;} structure {type:T1C2;}">
+        <TextRegion id="TextRegion_1690375640474_32911" custom="readingOrder {index:201;} structure {type:T1C2;}">
             <Coords points="2930,5799 2931,5843 3283,5841 3283,5796"/>
             <TextLine id="TableCell_1643631404080_2070l0" custom="readingOrder {index:0;}">
                 <Coords points="3068,5803 3157,5801 3157,5840 3069,5841"/>
@@ -8076,7 +8076,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355265_36998" custom="readingOrder {index:202;} structure {type:T1C2;}">
+        <TextRegion id="TextRegion_1690375640475_32914" custom="readingOrder {index:202;} structure {type:T1C2;}">
             <Coords points="2931,5843 2932,5886 3283,5884 3283,5841"/>
             <TextLine id="TableCell_1643631404106_2076l0" custom="readingOrder {index:0;}">
                 <Coords points="3067,5850 3153,5848 3153,5884 3067,5886"/>
@@ -8089,7 +8089,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355265_37001" custom="readingOrder {index:203;} structure {type:T1C2;}">
+        <TextRegion id="TextRegion_1690375640475_32917" custom="readingOrder {index:203;} structure {type:T1C2;}">
             <Coords points="2932,5886 2932,5929 3283,5929 3283,5884"/>
             <TextLine id="TableCell_1643631404132_2082l0" custom="readingOrder {index:0;}">
                 <Coords points="3063,5890 3153,5890 3153,5928 3063,5926"/>
@@ -8102,7 +8102,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355266_37004" custom="readingOrder {index:204;} structure {type:T1C2;}">
+        <TextRegion id="TextRegion_1690375640475_32920" custom="readingOrder {index:204;} structure {type:T1C2;}">
             <Coords points="2932,5929 2933,5974 3283,5974 3283,5929"/>
             <TextLine id="TableCell_1643631404157_2088l0" custom="readingOrder {index:0;}">
                 <Coords points="3065,5937 3151,5933 3151,5969 3066,5973"/>
@@ -8115,7 +8115,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355266_37007" custom="readingOrder {index:205;} structure {type:T1C2;}">
+        <TextRegion id="TextRegion_1690375640475_32923" custom="readingOrder {index:205;} structure {type:T1C2;}">
             <Coords points="2933,5974 2934,6015 3283,6015 3283,5974"/>
             <TextLine id="TableCell_1643631404183_2094l0" custom="readingOrder {index:0;}">
                 <Coords points="3072,5982 3101,5978 3142,5978 3143,6012 3120,6013 3077,6013"/>
@@ -8128,7 +8128,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355266_37010" custom="readingOrder {index:206;} structure {type:T1C2;}">
+        <TextRegion id="TextRegion_1690375640475_32926" custom="readingOrder {index:206;} structure {type:T1C2;}">
             <Coords points="2934,6015 2934,6061 3284,6059 3283,6015"/>
             <TextLine id="TableCell_1643631404209_2100l0" custom="readingOrder {index:0;}">
                 <Coords points="3068,6021 3155,6020 3155,6057 3068,6060"/>
@@ -8141,7 +8141,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355267_37013" custom="readingOrder {index:207;} structure {type:T1C2;}">
+        <TextRegion id="TextRegion_1690375640475_32929" custom="readingOrder {index:207;} structure {type:T1C2;}">
             <Coords points="2934,6061 2935,6104 3285,6103 3284,6059"/>
             <TextLine id="TableCell_1643631404236_2106l0" custom="readingOrder {index:0;}">
                 <Coords points="3073,6068 3099,6067 3148,6067 3148,6103 3073,6103"/>
@@ -8154,7 +8154,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355267_37016" custom="readingOrder {index:208;} structure {type:T1C2;}">
+        <TextRegion id="TextRegion_1690375640480_32932" custom="readingOrder {index:208;} structure {type:T1C2;}">
             <Coords points="2935,6104 2936,6147 3286,6146 3285,6103"/>
             <TextLine id="line_1652192519147_1793" custom="readingOrder {index:0;}">
                 <Coords points="3068,6107 3156,6107 3156,6148 3068,6148"/>
@@ -8167,7 +8167,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355268_37019" custom="readingOrder {index:209;} structure {type:T1C2;}">
+        <TextRegion id="TextRegion_1690375640481_32935" custom="readingOrder {index:209;} structure {type:T1C2;}">
             <Coords points="2936,6147 2937,6192 3287,6190 3286,6146"/>
             <TextLine id="TableCell_1643631404285_2118l0" custom="readingOrder {index:0;}">
                 <Coords points="3067,6153 3157,6154 3158,6191 3068,6191"/>
@@ -8180,7 +8180,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355268_37022" custom="readingOrder {index:210;} structure {type:T1C2;}">
+        <TextRegion id="TextRegion_1690375640481_32938" custom="readingOrder {index:210;} structure {type:T1C2;}">
             <Coords points="2937,6192 2937,6236 3288,6235 3287,6190"/>
             <TextLine id="TableCell_1643631404308_2124l0" custom="readingOrder {index:0;}">
                 <Coords points="3066,6198 3155,6195 3155,6233 3065,6235"/>
@@ -8193,7 +8193,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355268_37025" custom="readingOrder {index:211;} structure {type:T1C2;}">
+        <TextRegion id="TextRegion_1690375640481_32941" custom="readingOrder {index:211;} structure {type:T1C2;}">
             <Coords points="2937,6236 2938,6281 3289,6279 3288,6235"/>
             <TextLine id="TableCell_1643631404333_2130l0" custom="readingOrder {index:0;}">
                 <Coords points="3072,6240 3155,6239 3155,6278 3073,6280"/>
@@ -8206,7 +8206,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355269_37028" custom="readingOrder {index:212;} structure {type:T1C2;}">
+        <TextRegion id="TextRegion_1690375640481_32944" custom="readingOrder {index:212;} structure {type:T1C2;}">
             <Coords points="2938,6281 2939,6336 3290,6336 3289,6279"/>
             <TextLine id="TableCell_1643631404354_2136l0" custom="readingOrder {index:0;}">
                 <Coords points="3064,6286 3159,6283 3160,6326 3065,6328"/>
@@ -8219,7 +8219,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355271_37029" custom="readingOrder {index:213;} structure {type:T2C0;}">
+        <TextRegion id="TextRegion_1690375640483_32945" custom="readingOrder {index:213;} structure {type:T2C0;}">
             <Coords points="3419,419 3418,459 3791,453 3791,411"/>
             <TextLine id="TableCell_1643632098299_2201l0" custom="readingOrder {index:0;}">
                 <Coords points="3488,420 3776,409 3768,448 3498,452"/>
@@ -8232,7 +8232,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355271_37033" custom="readingOrder {index:214;} structure {type:T2C0;}">
+        <TextRegion id="TextRegion_1690375640483_32949" custom="readingOrder {index:214;} structure {type:T2C0;}">
             <Coords points="3418,459 3418,492 3791,488 3791,453"/>
             <TextLine id="TableCell_1643632098334_2207l0" custom="readingOrder {index:0;}">
                 <Coords points="3620,461 3689,456 3687,486 3618,490"/>
@@ -8245,7 +8245,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355272_37037" custom="readingOrder {index:215;} structure {type:T2C0;}">
+        <TextRegion id="TextRegion_1690375640483_32953" custom="readingOrder {index:215;} structure {type:T2C0;}">
             <Coords points="3418,492 3418,540 3791,534 3791,488"/>
             <TextLine id="TableCell_1643632098360_2213l0" custom="readingOrder {index:0;}">
                 <Coords points="3579,494 3717,493 3717,532 3579,535"/>
@@ -8258,7 +8258,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355272_37041" custom="readingOrder {index:216;} structure {type:T2C0;}">
+        <TextRegion id="TextRegion_1690375640484_32957" custom="readingOrder {index:216;} structure {type:T2C0;}">
             <Coords points="3418,540 3418,586 3791,580 3791,534"/>
             <TextLine id="TableCell_1643632098387_2219l0" custom="readingOrder {index:0;}">
                 <Coords points="3584,542 3682,542 3705,543 3711,574 3682,575 3601,576 3584,576"/>
@@ -8271,7 +8271,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355273_37045" custom="readingOrder {index:217;} structure {type:T2C0;}">
+        <TextRegion id="TextRegion_1690375640484_32961" custom="readingOrder {index:217;} structure {type:T2C0;}">
             <Coords points="3418,586 3418,628 3791,622 3791,580"/>
             <TextLine id="TableCell_1643632098409_2225l0" custom="readingOrder {index:0;}">
                 <Coords points="3577,585 3719,586 3719,620 3577,620"/>
@@ -8284,7 +8284,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355273_37049" custom="readingOrder {index:218;} structure {type:T2C0;}">
+        <TextRegion id="TextRegion_1690375640484_32965" custom="readingOrder {index:218;} structure {type:T2C0;}">
             <Coords points="3418,628 3418,664 3791,660 3791,622"/>
             <TextLine id="TableCell_1643632098436_2231l0" custom="readingOrder {index:0;}">
                 <Coords points="3572,630 3714,625 3712,658 3570,662"/>
@@ -8297,7 +8297,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355271_37030" custom="readingOrder {index:219;} structure {type:T2C1;}">
+        <TextRegion id="TextRegion_1690375640483_32946" custom="readingOrder {index:219;} structure {type:T2C1;}">
             <Coords points="3791,411 3791,453 4174,447 4172,403"/>
             <TextLine id="TableCell_1643632100468_2237l0" custom="readingOrder {index:0;}">
                 <Coords points="3839,410 4152,407 4154,445 3839,446"/>
@@ -8310,7 +8310,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355271_37034" custom="readingOrder {index:220;} structure {type:T2C1;}">
+        <TextRegion id="TextRegion_1690375640483_32950" custom="readingOrder {index:220;} structure {type:T2C1;}">
             <Coords points="3791,453 3791,488 4175,484 4174,447"/>
             <TextLine id="TableCell_1643632100530_2243l0" custom="readingOrder {index:0;}">
                 <Coords points="3996,453 4062,450 4063,485 3996,487"/>
@@ -8323,7 +8323,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355272_37038" custom="readingOrder {index:221;} structure {type:T2C1;}">
+        <TextRegion id="TextRegion_1690375640484_32954" custom="readingOrder {index:221;} structure {type:T2C1;}">
             <Coords points="3791,488 3791,534 4176,528 4175,484"/>
             <TextLine id="TableCell_1643632100560_2249l0" custom="readingOrder {index:0;}">
                 <Coords points="3946,491 4089,490 4089,528 4056,529 3946,530"/>
@@ -8336,7 +8336,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355272_37042" custom="readingOrder {index:222;} structure {type:T2C1;}">
+        <TextRegion id="TextRegion_1690375640484_32958" custom="readingOrder {index:222;} structure {type:T2C1;}">
             <Coords points="3791,534 3791,580 4178,573 4176,528"/>
             <TextLine id="TableCell_1643632100589_2255l0" custom="readingOrder {index:0;}">
                 <Coords points="3940,539 4088,536 4090,572 3940,576"/>
@@ -8349,7 +8349,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355273_37046" custom="readingOrder {index:223;} structure {type:T2C1;}">
+        <TextRegion id="TextRegion_1690375640484_32962" custom="readingOrder {index:223;} structure {type:T2C1;}">
             <Coords points="3791,580 3791,622 4179,616 4178,573"/>
             <TextLine id="TableCell_1643632100617_2261l0" custom="readingOrder {index:0;}">
                 <Coords points="3946,579 4011,579 4035,582 4053,582 4083,581 4078,615 3948,617"/>
@@ -8362,7 +8362,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355273_37050" custom="readingOrder {index:224;} structure {type:T2C1;}">
+        <TextRegion id="TextRegion_1690375640484_32966" custom="readingOrder {index:224;} structure {type:T2C1;}">
             <Coords points="3791,622 3791,660 4180,656 4179,616"/>
             <TextLine id="TableCell_1643632100640_2267l0" custom="readingOrder {index:0;}">
                 <Coords points="3924,624 4087,622 4087,658 3924,658"/>
@@ -8375,7 +8375,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355271_37031" custom="readingOrder {index:225;} structure {type:T2C2;}">
+        <TextRegion id="TextRegion_1690375640483_32947" custom="readingOrder {index:225;} structure {type:T2C2;}">
             <Coords points="4172,403 4174,447 4523,441 4520,396"/>
             <TextLine id="TableCell_1643632102123_2273l0" custom="readingOrder {index:0;}">
                 <Coords points="4202,407 4482,402 4484,440 4203,446"/>
@@ -8388,7 +8388,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355272_37035" custom="readingOrder {index:226;} structure {type:T2C2;}">
+        <TextRegion id="TextRegion_1690375640483_32951" custom="readingOrder {index:226;} structure {type:T2C2;}">
             <Coords points="4174,447 4175,484 4526,481 4523,441"/>
             <TextLine id="TableCell_1643632102176_2279l0" custom="readingOrder {index:0;}">
                 <Coords points="4318,450 4392,447 4392,480 4317,480"/>
@@ -8401,7 +8401,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355272_37039" custom="readingOrder {index:227;} structure {type:T2C2;}">
+        <TextRegion id="TextRegion_1690375640484_32955" custom="readingOrder {index:227;} structure {type:T2C2;}">
             <Coords points="4175,484 4176,528 4530,523 4526,481"/>
             <TextLine id="TableCell_1643632102208_2285l0" custom="readingOrder {index:0;}">
                 <Coords points="4286,490 4415,486 4418,521 4287,526"/>
@@ -8414,7 +8414,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355272_37043" custom="readingOrder {index:228;} structure {type:T2C2;}">
+        <TextRegion id="TextRegion_1690375640484_32959" custom="readingOrder {index:228;} structure {type:T2C2;}">
             <Coords points="4176,528 4178,573 4533,567 4530,523"/>
             <TextLine id="TableCell_1643632102236_2291l0" custom="readingOrder {index:0;}">
                 <Coords points="4295,532 4418,531 4421,566 4296,568"/>
@@ -8427,7 +8427,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355273_37047" custom="readingOrder {index:229;} structure {type:T2C2;}">
+        <TextRegion id="TextRegion_1690375640484_32963" custom="readingOrder {index:229;} structure {type:T2C2;}">
             <Coords points="4178,573 4179,616 4536,611 4533,567"/>
             <TextLine id="TableCell_1643632102274_2297l0" custom="readingOrder {index:0;}">
                 <Coords points="4293,576 4416,574 4418,611 4294,612"/>
@@ -8440,7 +8440,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355273_37051" custom="readingOrder {index:230;} structure {type:T2C2;}">
+        <TextRegion id="TextRegion_1690375640484_32967" custom="readingOrder {index:230;} structure {type:T2C2;}">
             <Coords points="4179,616 4180,656 4540,652 4536,611"/>
             <TextLine id="TableCell_1643632102306_2303l0" custom="readingOrder {index:0;}">
                 <Coords points="4289,620 4415,617 4418,655 4289,657"/>
@@ -8453,7 +8453,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355271_37032" custom="readingOrder {index:231;} structure {type:T2C3;}">
+        <TextRegion id="TextRegion_1690375640483_32948" custom="readingOrder {index:231;} structure {type:T2C3;}">
             <Coords points="4520,396 4523,441 4855,437 4855,390"/>
             <TextLine id="TableCell_1643632102123_2271l0" custom="readingOrder {index:0;}">
                 <Coords points="4549,401 4686,394 4686,435 4551,440"/>
@@ -8466,7 +8466,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355272_37036" custom="readingOrder {index:232;} structure {type:T2C3;}">
+        <TextRegion id="TextRegion_1690375640483_32952" custom="readingOrder {index:232;} structure {type:T2C3;}">
             <Coords points="4523,441 4526,481 4855,479 4855,437"/>
             <TextLine id="TableCell_1643632102176_2277l0" custom="readingOrder {index:0;}">
                 <Coords points="4565,445 4636,444 4636,476 4571,479"/>
@@ -8479,7 +8479,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355272_37040" custom="readingOrder {index:233;} structure {type:T2C3;}">
+        <TextRegion id="TextRegion_1690375640484_32956" custom="readingOrder {index:233;} structure {type:T2C3;}">
             <Coords points="4526,481 4530,523 4855,519 4855,479"/>
             <TextLine id="TableCell_1643632102208_2283l0" custom="readingOrder {index:0;}">
                 <Coords points="4567,485 4640,484 4639,519 4569,522"/>
@@ -8492,7 +8492,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355273_37044" custom="readingOrder {index:234;} structure {type:T2C3;}">
+        <TextRegion id="TextRegion_1690375640484_32960" custom="readingOrder {index:234;} structure {type:T2C3;}">
             <Coords points="4530,523 4533,567 4856,563 4855,519"/>
             <TextLine id="TableCell_1643632102236_2289l0" custom="readingOrder {index:0;}">
                 <Coords points="4570,528 4634,528 4635,564 4573,564"/>
@@ -8505,7 +8505,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355273_37048" custom="readingOrder {index:235;} structure {type:T2C3;}">
+        <TextRegion id="TextRegion_1690375640484_32964" custom="readingOrder {index:235;} structure {type:T2C3;}">
             <Coords points="4533,567 4536,611 4857,608 4856,563"/>
             <TextLine id="TableCell_1643632102274_2295l0" custom="readingOrder {index:0;}">
                 <Coords points="4573,572 4643,570 4643,608 4576,610"/>
@@ -8518,7 +8518,7 @@ furt a. O., Budapeſt, Liverpool, London, Odeſſa, Petersburg, War⸗</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427355273_37052" custom="readingOrder {index:236;} structure {type:T2C3;}">
+        <TextRegion id="TextRegion_1690375640484_32968" custom="readingOrder {index:236;} structure {type:T2C3;}">
             <Coords points="4536,611 4540,652 4858,650 4857,608"/>
             <TextLine id="TableCell_1643632102305_2301l0" custom="readingOrder {index:0;}">
                 <Coords points="4556,618 4635,614 4636,649 4559,652"/>

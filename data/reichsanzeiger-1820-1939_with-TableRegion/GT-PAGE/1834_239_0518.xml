@@ -1,24 +1,24 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
     <Metadata>
         <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.7.1:model_id=40804:lm=none:date=04_07_2022_13:48
 prov=READ-COOP:name=PyLaia@Transkribus:version=0.7.1:model_id=40804:date=04_07_2022_13:48
 Transkribus</Creator>
         <Created>2021-12-14T11:23:26.558+01:00</Created>
-        <LastChange>2022-12-07T16:13:57.525+01:00</LastChange>
+        <LastChange>2023-06-13T17:02:04.607+02:00</LastChange>
         <Comments>
                 Measurement unit: pixel
                 PrimaryLanguage: 
                 Producer: Transkribus
             </Comments>
-        <TranskribusMetadata docId="888083" pageId="34058920" pageNr="1" tsid="105747984" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=KKXGWJNWIZPEDDDBJPZFQBUZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UYELTFNQUDNKUSUZHOCJGZNW" imageId="27308918"/>
+        <TranskribusMetadata docId="888083" pageId="34058920" pageNr="1" tsid="126883952" status="GT" userId="109938" imgUrl="https://files.transkribus.eu/Get?id=KKXGWJNWIZPEDDDBJPZFQBUZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OLBPUGFOPMNEBYELZTWIXVGR" imageId="27308918"/>
     </Metadata>
     <Page imageFilename="1834_239_0518.jpg" imageWidth="10344" imageHeight="6936">
         <PrintSpace>
             <Coords points="535,236 10039,228 10026,6793 522,6801"/>
         </PrintSpace>
         <ReadingOrder>
-            <OrderedGroup id="ro_1670486884966" caption="Regions reading order">
+            <OrderedGroup id="ro_1690360020204" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
                 <RegionRefIndexed index="1" regionRef="r2"/>
                 <RegionRefIndexed index="2" regionRef="r3"/>
@@ -408,7 +408,7 @@ mehreren ihnen zu Ehren veranſtalteten Baͤllen beigewohnt.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -429,7 +429,7 @@ mehreren ihnen zu Ehren veranſtalteten Baͤllen beigewohnt.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -443,14 +443,14 @@ mehreren ihnen zu Ehren veranſtalteten Baͤllen beigewohnt.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="TableCell_1639487226337_769l1" custom="readingOrder {index:1;}">
-                    <Coords points="1409,2275 1606,2265 1566,2265 1566,2312 1537,2313 1493,2313 1459,2312 1409,2307"/>
+                    <Coords points="1566,2265 1409,2275 1409,2307 1459,2312 1493,2313 1537,2313 1566,2312 1606,2265"/>
                     <Baseline points="1415,2307 1441,2308 1459,2312 1556,2310"/>
                     <TextEquiv>
                         <Unicode>2 Uhr.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -471,7 +471,7 @@ mehreren ihnen zu Ehren veranſtalteten Baͤllen beigewohnt.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -492,7 +492,7 @@ mehreren ihnen zu Ehren veranſtalteten Baͤllen beigewohnt.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -506,7 +506,7 @@ mehreren ihnen zu Ehren veranſtalteten Baͤllen beigewohnt.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -520,7 +520,7 @@ mehreren ihnen zu Ehren veranſtalteten Baͤllen beigewohnt.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -534,7 +534,7 @@ mehreren ihnen zu Ehren veranſtalteten Baͤllen beigewohnt.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -548,7 +548,7 @@ mehreren ihnen zu Ehren veranſtalteten Baͤllen beigewohnt.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -562,7 +562,7 @@ mehreren ihnen zu Ehren veranſtalteten Baͤllen beigewohnt.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -576,7 +576,7 @@ mehreren ihnen zu Ehren veranſtalteten Baͤllen beigewohnt.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -590,21 +590,21 @@ mehreren ihnen zu Ehren veranſtalteten Baͤllen beigewohnt.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
             <TableCell row="2" col="2" rowSpan="1" colSpan="1" id="TableCell_1639487226386_781">
                 <Coords points="1344,2405 1344,2452 1607,2452 1607,2405"/>
                 <TextLine id="TableCell_1639487226386_781l0" custom="readingOrder {index:0;}">
-                    <Coords points="1352,2406 1600,2406 1600,2454 1607,2453 1434,2450 1352,2447"/>
+                    <Coords points="1352,2406 1352,2447 1434,2450 1600,2454 1607,2453 1600,2406"/>
                     <Baseline points="1371,2444 1464,2445 1569,2447 1581,2445"/>
                     <TextEquiv>
                         <Unicode>18,8 °R.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -618,7 +618,7 @@ mehreren ihnen zu Ehren veranſtalteten Baͤllen beigewohnt.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -632,7 +632,7 @@ mehreren ihnen zu Ehren veranſtalteten Baͤllen beigewohnt.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 2 3 5</CornerPts>
             </TableCell>
@@ -646,7 +646,7 @@ mehreren ihnen zu Ehren veranſtalteten Baͤllen beigewohnt.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -660,21 +660,21 @@ mehreren ihnen zu Ehren veranſtalteten Baͤllen beigewohnt.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
             <TableCell row="3" col="2" rowSpan="1" colSpan="1" id="TableCell_1639487226396_787">
                 <Coords points="1344,2452 1344,2501 1607,2501 1607,2452"/>
                 <TextLine id="TableCell_1639487226396_787l0" custom="readingOrder {index:0;}">
-                    <Coords points="1404,2460 1602,2452 1595,2456 1595,2506 1602,2502 1447,2500 1430,2498 1404,2493"/>
+                    <Coords points="1602,2452 1404,2460 1404,2493 1430,2498 1447,2500 1595,2506 1602,2502"/>
                     <Baseline points="1404,2484 1563,2501 1570,2498 1584,2497"/>
                     <TextEquiv>
                         <Unicode>7,0 °R.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -688,7 +688,7 @@ mehreren ihnen zu Ehren veranſtalteten Baͤllen beigewohnt.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -702,7 +702,7 @@ mehreren ihnen zu Ehren veranſtalteten Baͤllen beigewohnt.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -716,7 +716,7 @@ mehreren ihnen zu Ehren veranſtalteten Baͤllen beigewohnt.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -730,7 +730,7 @@ mehreren ihnen zu Ehren veranſtalteten Baͤllen beigewohnt.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -744,7 +744,7 @@ mehreren ihnen zu Ehren veranſtalteten Baͤllen beigewohnt.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -758,7 +758,7 @@ mehreren ihnen zu Ehren veranſtalteten Baͤllen beigewohnt.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -772,7 +772,7 @@ mehreren ihnen zu Ehren veranſtalteten Baͤllen beigewohnt.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -786,7 +786,7 @@ mehreren ihnen zu Ehren veranſtalteten Baͤllen beigewohnt.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -800,7 +800,7 @@ mehreren ihnen zu Ehren veranſtalteten Baͤllen beigewohnt.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -814,7 +814,7 @@ mehreren ihnen zu Ehren veranſtalteten Baͤllen beigewohnt.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -828,7 +828,7 @@ mehreren ihnen zu Ehren veranſtalteten Baͤllen beigewohnt.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 2 3 5</CornerPts>
             </TableCell>
@@ -842,7 +842,7 @@ mehreren ihnen zu Ehren veranſtalteten Baͤllen beigewohnt.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -856,7 +856,7 @@ mehreren ihnen zu Ehren veranſtalteten Baͤllen beigewohnt.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -870,7 +870,7 @@ mehreren ihnen zu Ehren veranſtalteten Baͤllen beigewohnt.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -884,7 +884,7 @@ mehreren ihnen zu Ehren veranſtalteten Baͤllen beigewohnt.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -898,7 +898,7 @@ mehreren ihnen zu Ehren veranſtalteten Baͤllen beigewohnt.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -912,7 +912,7 @@ mehreren ihnen zu Ehren veranſtalteten Baͤllen beigewohnt.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -926,7 +926,7 @@ mehreren ihnen zu Ehren veranſtalteten Baͤllen beigewohnt.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -940,7 +940,7 @@ mehreren ihnen zu Ehren veranſtalteten Baͤllen beigewohnt.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -954,7 +954,7 @@ mehreren ihnen zu Ehren veranſtalteten Baͤllen beigewohnt.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode/>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1035,7 +1035,7 @@ mehreren ihnen zu Ehren veranſtalteten Baͤllen beigewohnt.</Unicode>
                 <Coords points="807,3170 830,3169 1206,3165 1646,3165 2252,3188 2268,3210 2268,3233 2247,3233 1206,3227 807,3204"/>
                 <Baseline points="807,3203 1016,3206 1037,3206 1081,3207 1144,3207 1206,3208 1220,3208 1227,3209 1251,3209 1391,3211 1419,3211 1526,3213 1569,3214 1624,3215 1644,3215 1646,3215 1669,3215 1751,3217 1801,3217 1920,3218 1952,3218 2005,3218 2033,3218 2147,3221 2174,3222 2268,3224"/>
                 <TextEquiv>
-                    <Unicode>Kanz-Bill. 22 4 ½ % Amort. 89 11/16. 3 ½ % 71 ⅝. Russ. (v. 1831) 96 7/16</Unicode>
+                    <Unicode>Kanz-Bill. 22 4 ½ % Amort. 89 11⁄16. 3 ½ % 71 ⅝. Russ. (v. 1831) 96 7⁄16</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r7l3" custom="readingOrder {index:2;}">
@@ -1053,9 +1053,9 @@ mehreren ihnen zu Ehren veranſtalteten Baͤllen beigewohnt.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>Niederl. wirkl. Schuld 51 ¼ 5 % do. 97 ¾. Ausg. Schuld —
-Kanz-Bill. 22 4 ½ % Amort. 89 11/16. 3 ½ % 71 ⅝. Russ. (v. 1831) 96 7/16
-Preuss. Prämien-Scheine 101 ¾. do. 4 % Anl. —. Oesterr. 97 ¼.
+                <Unicode>Niederl. wirkl. Schuld 51 ¼ 5 % do. 97 ¾. Ausg. Schuld —&#13;
+Kanz-Bill. 22 4 ½ % Amort. 89 11⁄16. 3 ½ % 71 ⅝. Russ. (v. 1831) 96 7⁄16&#13;
+Preuss. Prämien-Scheine 101 ¾. do. 4 % Anl. —. Oesterr. 97 ¼.&#13;
 5 % Span. 44 ¾. 3 % 30 ¼.</Unicode>
             </TextEquiv>
         </TextRegion>
@@ -1167,7 +1167,7 @@ Paris 3 Mt. 113. Silber-Rubel 358. 5 % Silber-Inser. II. Serie 96.
                 <Coords points="2485,895 2559,893 2579,893 3671,903 3761,905 3854,910 3857,932 3857,945 2979,949 2962,946 2746,943 2517,939 2485,930"/>
                 <Baseline points="2485,930 2540,929 2559,929 2642,930 2670,930 2778,932 2862,934 2883,934 2913,935 2996,937 3041,935 3299,937 3327,937 3456,940 3510,941 3617,939 3642,939 3801,940 3825,941 3857,941"/>
                 <TextEquiv>
-                    <Unicode>5 % Met. 98 21/32. 4 % 88 ¼. Bank-Actien 1236 ⅙. Neue Anleihe v.</Unicode>
+                    <Unicode>5 % Met. 98 21⁄32. 4 % 88 ¼. Bank-Actien 1236 ⅙. Neue Anleihe v.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r11l3" custom="readingOrder {index:2;}">
@@ -1178,8 +1178,8 @@ Paris 3 Mt. 113. Silber-Rubel 358. 5 % Silber-Inser. II. Serie 96.
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>Wien, 22 August.
-5 % Met. 98 21/32. 4 % 88 ¼. Bank-Actien 1236 ⅙. Neue Anleihe v.
+                <Unicode>Wien, 22 August.&#13;
+5 % Met. 98 21⁄32. 4 % 88 ¼. Bank-Actien 1236 ⅙. Neue Anleihe v.&#13;
 1834 550 ⅝.</Unicode>
             </TextEquiv>
         </TextRegion>
@@ -1949,7 +1949,7 @@ verſchwunden.</Unicode>
                 <Coords points="3911,2826 4472,2826 4637,2827 5197,2831 5253,2837 5253,2886 5023,2890 3973,2874 3911,2866"/>
                 <Baseline points="3911,2865 4025,2866 4085,2866 4215,2866 4248,2867 4369,2868 4431,2868 4739,2869 4773,2869 4885,2871 4919,2872 4975,2873 5023,2874 5234,2880"/>
                 <TextEquiv>
-                    <Unicode>99 7/16 4 proc. 89 7/16. Bank⸗Aktien 1488. G. Part.⸗Oblig.</Unicode>
+                    <Unicode>99 7⁄16 4 proc. 89 7⁄16. Bank⸗Aktien 1488. G. Part.⸗Oblig.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r29l7" custom="readingOrder {index:6;}">
@@ -1963,7 +1963,7 @@ verſchwunden.</Unicode>
                 <Coords points="3909,2934 3928,2929 4015,2929 4582,2933 5153,2939 5169,2952 5169,2983 5153,2984 5048,2990 5029,2990 3928,2982 3909,2968"/>
                 <Baseline points="3909,2968 4015,2970 4057,2970 4185,2972 4224,2972 4359,2971 4393,2973 4509,2974 4546,2974 4604,2975 4673,2976 4799,2977 4830,2978 4944,2979 4972,2979 5063,2981 5099,2982 5169,2975"/>
                 <TextEquiv>
-                    <Unicode>Holl. 5 proc. Oblig. 95 7/16. G. Poln. Looſe 65 ¼. Br.</Unicode>
+                    <Unicode>Holl. 5 proc. Oblig. 95 7⁄16. G. Poln. Looſe 65 ¼. Br.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r29l9" custom="readingOrder {index:8;}">
@@ -1974,14 +1974,14 @@ verſchwunden.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>— Heute ſchloß 5 proc. Rente pr. compt. 105. 90. fin
-105. 95. 3 proc. pr. compt. 75. 15. fin cour. 75. 25.
-Neap. pr. compt. 93. —. fin cour. 93. 10. 5 proc. Span.
-40 ⅜. 3 proc. do. 26 ¾. Cortes 33. Ausa. Span. Schuld
-Frankfurt a. M., 24. Auguſt. Oeſterr. 5 proc. M
-99 7/16 4 proc. 89 7/16. Bank⸗Aktien 1488. G. Part.⸗Oblig.
-Looſe zu 100 Gulden —. Preuß. Praͤmien⸗Scheine 56 ½.
-Holl. 5 proc. Oblig. 95 7/16. G. Poln. Looſe 65 ¼. Br.
+                <Unicode>— Heute ſchloß 5 proc. Rente pr. compt. 105. 90. fin&#13;
+105. 95. 3 proc. pr. compt. 75. 15. fin cour. 75. 25.&#13;
+Neap. pr. compt. 93. —. fin cour. 93. 10. 5 proc. Span.&#13;
+40 ⅜. 3 proc. do. 26 ¾. Cortes 33. Ausa. Span. Schuld&#13;
+Frankfurt a. M., 24. Auguſt. Oeſterr. 5 proc. M&#13;
+99 7⁄16 4 proc. 89 7⁄16. Bank⸗Aktien 1488. G. Part.⸗Oblig.&#13;
+Looſe zu 100 Gulden —. Preuß. Praͤmien⸗Scheine 56 ½.&#13;
+Holl. 5 proc. Oblig. 95 7⁄16. G. Poln. Looſe 65 ¼. Br.&#13;
 5 proc. Rente 39. 3 proc. 25 ¼. G.</Unicode>
             </TextEquiv>
         </TextRegion>

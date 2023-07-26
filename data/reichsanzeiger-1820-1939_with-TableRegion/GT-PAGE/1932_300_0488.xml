@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
     <Metadata>
         <Creator>Transkribus</Creator>
@@ -11,7 +11,7 @@
             <Coords points="970,682 9699,682 9699,7102 970,7102"/>
         </PrintSpace>
         <ReadingOrder>
-            <OrderedGroup id="ro_1670486857216" caption="Regions reading order">
+            <OrderedGroup id="ro_1690359968139" caption="Regions reading order">
                 <RegionRefIndexed index="2" regionRef="r1"/>
                 <RegionRefIndexed index="3" regionRef="r2"/>
                 <RegionRefIndexed index="6" regionRef="r3"/>
@@ -356,7 +356,7 @@
             <TableCell row="5" col="0" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" id="TableCell_1658212180074_1682">
                 <Coords points="1110,1274 1110,1313 1418,1313 1418,1274"/>
                 <TextLine id="TableCell_1658212180074_1682l0" custom="readingOrder {index:0;}">
-                    <Coords points="1110,1274 1111,1274 1324,1283 1407,1283 1413,1305 1399,1314 1383,1310 1324,1312 1242,1313 1110,1313"/>
+                    <Coords points="1110,1274 1324,1283 1407,1283 1413,1305 1399,1314 1383,1310 1324,1312 1242,1313 1110,1313"/>
                     <Baseline points="1126,1306 1271,1309 1282,1309 1399,1309"/>
                     <TextEquiv>
                         <Unicode>Varztner Paptert.</Unicode>
@@ -620,7 +620,7 @@
             <TableCell row="9" col="0" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" id="TableCell_1658212170208_1538">
                 <Coords points="1110,1442 1110,1510 1418,1510 1418,1442"/>
                 <TextLine id="TableCell_1658212170208_1538l1" custom="readingOrder {index:0;}">
-                    <Coords points="1140,1444 1211,1443 1211,1443 1418,1443 1418,1474 1385,1475 1211,1475 1140,1471"/>
+                    <Coords points="1140,1444 1211,1443 1418,1443 1418,1474 1385,1475 1211,1475 1140,1471"/>
                     <Baseline points="1140,1470 1177,1471 1192,1471 1418,1473"/>
                     <TextEquiv>
                         <Unicode>do. Böhlerſtahlwke.</Unicode>
@@ -733,7 +733,7 @@
             <TableCell row="10" col="3" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" id="TableCell_1658212160498_1520">
                 <Coords points="1536,1510 1536,1571 1602,1571 1602,1510"/>
                 <TextLine id="TableCell_1658212160498_1520l0" custom="readingOrder {index:0;}">
-                    <Coords points="1550,1550 1572,1547 1572,1547 1585,1547 1585,1569 1558,1571 1550,1571"/>
+                    <Coords points="1550,1550 1572,1547 1585,1547 1585,1569 1558,1571 1550,1571"/>
                     <Baseline points="1550,1571 1585,1569"/>
                     <TextEquiv>
                         <Unicode>1.7</Unicode>
@@ -766,7 +766,7 @@
             <TableCell row="11" col="0" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" id="TableCell_1658212157045_1466">
                 <Coords points="1110,1571 1110,1607 1418,1607 1418,1571"/>
                 <TextLine id="TableCell_1658212157045_1466l1" custom="readingOrder {index:0;}">
-                    <Coords points="1110,1572 1145,1571 1145,1571 1177,1571 1418,1572 1418,1604 1373,1605 1242,1607 1110,1607"/>
+                    <Coords points="1110,1572 1145,1571 1177,1571 1418,1572 1418,1604 1373,1605 1242,1607 1110,1607"/>
                     <Baseline points="1145,1603 1177,1603 1200,1603 1280,1605 1302,1604 1418,1603"/>
                     <TextEquiv>
                         <Unicode>do. Dtſch. Nickelw.</Unicode>
@@ -891,7 +891,7 @@
             <TableCell row="13" col="0" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" id="TableCell_1658212152107_1394">
                 <Coords points="1110,1637 1110,1673 1418,1673 1418,1637"/>
                 <TextLine id="TableCell_1658212152107_1394l1" custom="readingOrder {index:0;}">
-                    <Coords points="1110,1638 1111,1638 1418,1641 1418,1668 1393,1673 1110,1673"/>
+                    <Coords points="1110,1638 1418,1641 1418,1668 1393,1673 1110,1673"/>
                     <Baseline points="1141,1667 1176,1666 1199,1666 1316,1669 1325,1669 1418,1667"/>
                     <TextEquiv>
                         <Unicode>do Glanzſt. Fabrik</Unicode>
@@ -957,7 +957,7 @@
             <TableCell row="14" col="0" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" id="TableCell_1658212150644_1358">
                 <Coords points="1110,1673 1110,1703 1418,1703 1418,1673"/>
                 <TextLine id="TableCell_1658212150644_1358l1" custom="readingOrder {index:0;}">
-                    <Coords points="1110,1674 1141,1673 1141,1673 1178,1673 1315,1675 1387,1677 1409,1678 1418,1696 1418,1703 1110,1703"/>
+                    <Coords points="1110,1674 1141,1673 1178,1673 1315,1675 1387,1677 1409,1678 1418,1696 1418,1703 1110,1703"/>
                     <Baseline points="1143,1700 1178,1700 1199,1700 1337,1702 1351,1702 1418,1703"/>
                     <TextEquiv>
                         <Unicode>do Gothania Wke.</Unicode>
@@ -1023,7 +1023,7 @@
             <TableCell row="15" col="0" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" id="TableCell_1658212147012_1322">
                 <Coords points="1110,1703 1110,1740 1418,1740 1418,1703"/>
                 <TextLine id="TableCell_1658212147012_1322l0" custom="readingOrder {index:0;}">
-                    <Coords points="1110,1703 1111,1703 1180,1704 1285,1707 1380,1710 1406,1708 1405,1739 1380,1738 1316,1740 1110,1740"/>
+                    <Coords points="1110,1703 1180,1704 1285,1707 1380,1710 1406,1708 1405,1739 1380,1738 1316,1740 1110,1740"/>
                     <Baseline points="1143,1733 1180,1733 1198,1733 1299,1735 1309,1735 1403,1736"/>
                     <TextEquiv>
                         <Unicode>do Gumb. Maſch.</Unicode>
@@ -1214,7 +1214,7 @@
             <TableCell row="18" col="0" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" id="TableCell_1658212129608_1161">
                 <Coords points="1110,1802 1110,1836 1418,1836 1418,1802"/>
                 <TextLine id="TableCell_1658212129608_1161l1" custom="readingOrder {index:0;}">
-                    <Coords points="1110,1803 1111,1803 1353,1807 1416,1810 1416,1835 1287,1836 1110,1836"/>
+                    <Coords points="1110,1803 1353,1807 1416,1810 1416,1835 1287,1836 1110,1836"/>
                     <Baseline points="1143,1830 1180,1831 1196,1831 1416,1835"/>
                     <TextEquiv>
                         <Unicode>do. Metall Haller N</Unicode>
@@ -1353,14 +1353,14 @@
             <TableCell row="20" col="0" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" id="TableCell_1658212123960_1089">
                 <Coords points="1110,1901 1110,1965 1418,1965 1418,1901"/>
                 <TextLine id="TableCell_1658212123960_1089l1" custom="readingOrder {index:0;}">
-                    <Coords points="1147,1903 1227,1901 1227,1901 1358,1901 1408,1913 1418,1925 1418,1934 1358,1940 1227,1940 1147,1930"/>
+                    <Coords points="1147,1903 1227,1901 1358,1901 1408,1913 1418,1925 1418,1934 1358,1940 1227,1940 1147,1930"/>
                     <Baseline points="1147,1930 1185,1930 1195,1930 1316,1932 1331,1932 1418,1932"/>
                     <TextEquiv>
                         <Unicode>do. Portl⸗Z. Schim.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="TableCell_1658212123960_1089l2" custom="readingOrder {index:1;}">
-                    <Coords points="1166,1936 1213,1932 1213,1932 1400,1932 1417,1940 1417,1965 1201,1965 1166,1962"/>
+                    <Coords points="1166,1936 1213,1932 1400,1932 1417,1940 1417,1965 1201,1965 1166,1962"/>
                     <Baseline points="1166,1961 1278,1964 1289,1965 1417,1958"/>
                     <TextEquiv>
                         <Unicode>Sileſta, Frauend.</Unicode>
@@ -1433,7 +1433,7 @@
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="TableCell_1658212117874_1053l2" custom="readingOrder {index:1;}">
-                    <Coords points="1144,2002 1401,1998 1401,1998 1418,1998 1418,2033 1290,2033 1144,2028"/>
+                    <Coords points="1144,2002 1401,1998 1418,1998 1418,2033 1290,2033 1144,2028"/>
                     <Baseline points="1144,2027 1401,2031 1418,2030"/>
                     <TextEquiv>
                         <Unicode>Berneis⸗Weſſels N</Unicode>
@@ -1558,7 +1558,7 @@
             <TableCell row="23" col="0" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" id="TableCell_1658212084122_886">
                 <Coords points="1110,2062 1110,2098 1418,2098 1418,2062"/>
                 <TextLine id="TableCell_1658212084122_886l1" custom="readingOrder {index:0;}">
-                    <Coords points="1110,2063 1111,2063 1349,2071 1363,2078 1365,2098 1195,2098 1110,2098"/>
+                    <Coords points="1110,2063 1349,2071 1363,2078 1365,2098 1195,2098 1110,2098"/>
                     <Baseline points="1143,2090 1181,2093 1198,2093 1361,2095"/>
                     <TextEquiv>
                         <Unicode>do. Stahlwerke</Unicode>
@@ -1683,7 +1683,7 @@
             <TableCell row="25" col="0" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" id="TableCell_1658212080627_814">
                 <Coords points="1110,2128 1110,2162 1418,2162 1418,2128"/>
                 <TextLine id="TableCell_1658212080627_814l1" custom="readingOrder {index:0;}">
-                    <Coords points="1110,2129 1111,2129 1418,2138 1418,2162 1110,2162"/>
+                    <Coords points="1110,2129 1418,2138 1418,2162 1110,2162"/>
                     <Baseline points="1140,2158 1178,2159 1196,2159 1283,2161 1298,2161 1365,2162 1378,2162 1413,2161"/>
                     <TextEquiv>
                         <Unicode>do. Thür. Met.. N</Unicode>
@@ -1808,7 +1808,7 @@
             <TableCell row="27" col="0" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" id="TableCell_1658212075745_742">
                 <Coords points="1110,2199 1110,2229 1418,2229 1418,2199"/>
                 <TextLine id="TableCell_1658212075745_742l1" custom="readingOrder {index:0;}">
-                    <Coords points="1110,2200 1139,2199 1139,2199 1153,2199 1418,2200 1418,2229 1110,2229"/>
+                    <Coords points="1110,2200 1139,2199 1153,2199 1418,2200 1418,2229 1110,2229"/>
                     <Baseline points="1135,2223 1178,2225 1192,2225 1236,2226 1242,2226 1418,2228"/>
                     <TextEquiv>
                         <Unicode>do. Ultramarinfab,</Unicode>
@@ -1918,7 +1918,7 @@
             <TableCell row="28" col="4" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" id="TableCell_1658212073144_730">
                 <Coords points="1602,2229 1602,2261 1757,2261 1757,2229"/>
                 <TextLine id="TableCell_1658212073144_730l0" custom="readingOrder {index:0;}">
-                    <Coords points="1608,2232 1683,2229 1683,2229 1706,2229 1706,2261 1635,2261 1608,2257"/>
+                    <Coords points="1608,2232 1683,2229 1706,2229 1706,2261 1635,2261 1608,2257"/>
                     <Baseline points="1608,2256 1683,2258 1703,2258 1706,2258"/>
                     <TextEquiv>
                         <Unicode>11 ⅓ b G</Unicode>
@@ -2043,7 +2043,7 @@
             <TableCell row="30" col="4" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" id="TableCell_1658212068878_658">
                 <Coords points="1602,2296 1602,2364 1757,2364 1757,2296"/>
                 <TextLine id="TableCell_1658212068878_658l0" custom="readingOrder {index:0;}">
-                    <Coords points="1602,2330 1671,2313 1671,2313 1689,2313 1689,2364 1602,2364"/>
+                    <Coords points="1602,2330 1671,2313 1689,2313 1689,2364 1602,2364"/>
                     <Baseline points="1602,2354 1671,2356 1687,2357 1689,2357"/>
                     <TextEquiv>
                         <Unicode>31 b G</Unicode>
@@ -2814,7 +2814,7 @@
             <TableCell row="42" col="4" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" id="TableCell_1658212029707_226">
                 <Coords points="1602,2914 1602,2950 1757,2950 1757,2914"/>
                 <TextLine id="TableCell_1658212029707_226l0" custom="readingOrder {index:0;}">
-                    <Coords points="1624,2921 1678,2916 1678,2916 1699,2916 1699,2950 1660,2950 1624,2948"/>
+                    <Coords points="1624,2921 1678,2916 1699,2916 1699,2950 1660,2950 1624,2948"/>
                     <Baseline points="1624,2947 1678,2946 1695,2946 1699,2946"/>
                     <TextEquiv>
                         <Unicode>5,5 G</Unicode>
@@ -3071,7 +3071,7 @@
             <TableCell row="46" col="4" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" id="TableCell_1658212014873_82">
                 <Coords points="1602,3048 1602,3121 1757,3122 1757,3048"/>
                 <TextLine id="TableCell_1658212014873_82l0" custom="readingOrder {index:0;}">
-                    <Coords points="1605,3052 1657,3048 1657,3048 1679,3048 1688,3051 1688,3076 1679,3083 1657,3083 1605,3077"/>
+                    <Coords points="1605,3052 1657,3048 1679,3048 1688,3051 1688,3076 1679,3083 1657,3083 1605,3077"/>
                     <Baseline points="1605,3077 1688,3076"/>
                     <TextEquiv>
                         <Unicode>114 ⅞ b</Unicode>
@@ -3200,7 +3200,7 @@
             <TableCell row="2" col="0" rowSpan="1" colSpan="1" id="TableCell_1658212363543_2489">
                 <Coords points="1962,1014 1961,1113 2258,1113 2258,1014"/>
                 <TextLine id="TableCell_1658212363543_2489l0" custom="readingOrder {index:0;}">
-                    <Coords points="1967,1020 2235,1014 2235,1014 2258,1014 2258,1049 2235,1049 1991,1048 1967,1045"/>
+                    <Coords points="1967,1020 2235,1014 2258,1014 2258,1049 2235,1049 1991,1048 1967,1045"/>
                     <Baseline points="1970,1044 2080,1048 2090,1047 2223,1043 2235,1043 2258,1042"/>
                     <TextEquiv>
                         <Unicode>Wicking Portl.⸗C. N</Unicode>
@@ -3405,7 +3405,7 @@
             <TableCell row="5" col="0" rowSpan="1" colSpan="1" id="TableCell_1658212353002_2381">
                 <Coords points="1961,1179 1961,1210 2258,1210 2258,1179"/>
                 <TextLine id="TableCell_1658212353002_2381l0" custom="readingOrder {index:0;}">
-                    <Coords points="1972,1184 2066,1179 2066,1179 2258,1179 2258,1210 2034,1210 1972,1208"/>
+                    <Coords points="1972,1184 2066,1179 2258,1179 2258,1210 2034,1210 1972,1208"/>
                     <Baseline points="1972,1208 2059,1208 2066,1208 2258,1207"/>
                     <TextEquiv>
                         <Unicode>Wilke Dampfk. u Gas</Unicode>
@@ -3471,7 +3471,7 @@
             <TableCell row="6" col="0" rowSpan="1" colSpan="1" id="TableCell_1658212351697_2345">
                 <Coords points="1961,1210 1961,1245 2258,1245 2258,1210"/>
                 <TextLine id="TableCell_1658212351697_2345l0" custom="readingOrder {index:0;}">
-                    <Coords points="1973,1215 2161,1210 2161,1210 2258,1210 2258,1245 2129,1245 1973,1240"/>
+                    <Coords points="1973,1215 2161,1210 2258,1210 2258,1245 2129,1245 1973,1240"/>
                     <Baseline points="1973,1240 2120,1241 2141,1241 2258,1240"/>
                     <TextEquiv>
                         <Unicode>Wilmersd. Rheing.</Unicode>
@@ -3523,7 +3523,7 @@
             <TableCell row="7" col="0" rowSpan="1" colSpan="1" id="TableCell_1658212349324_2309">
                 <Coords points="1961,1245 1961,1278 2258,1278 2258,1245"/>
                 <TextLine id="TableCell_1658212349324_2309l0" custom="readingOrder {index:0;}">
-                    <Coords points="1971,1247 2162,1245 2162,1245 2258,1245 2258,1278 2114,1278 1971,1275"/>
+                    <Coords points="1971,1247 2162,1245 2258,1245 2258,1278 2114,1278 1971,1275"/>
                     <Baseline points="1971,1272 2002,1272 2016,1272 2126,1272 2141,1274 2258,1274"/>
                     <TextEquiv>
                         <Unicode>H. Wißner Metall.</Unicode>
@@ -3589,7 +3589,7 @@
             <TableCell row="8" col="0" rowSpan="1" colSpan="1" id="TableCell_1658212343013_2273">
                 <Coords points="1961,1278 1961,1312 2258,1312 2258,1278"/>
                 <TextLine id="TableCell_1658212343013_2273l0" custom="readingOrder {index:0;}">
-                    <Coords points="1971,1281 2200,1278 2200,1278 2258,1278 2258,1312 2171,1312 1971,1305"/>
+                    <Coords points="1971,1281 2200,1278 2258,1278 2258,1312 2171,1312 1971,1305"/>
                     <Baseline points="1971,1304 2101,1307 2128,1307 2258,1306"/>
                     <TextEquiv>
                         <Unicode>Wittener Gußſtahl</Unicode>
@@ -3648,7 +3648,7 @@
             <TableCell row="9" col="0" rowSpan="1" colSpan="1" id="TableCell_1658212341044_2237">
                 <Coords points="1961,1312 1961,1347 2258,1347 2258,1312"/>
                 <TextLine id="TableCell_1658212341044_2237l0" custom="readingOrder {index:0;}">
-                    <Coords points="1972,1313 2178,1312 2178,1312 2258,1312 2258,1347 1972,1347"/>
+                    <Coords points="1972,1313 2178,1312 2258,1312 2258,1347 1972,1347"/>
                     <Baseline points="1972,1338 2003,1338 2014,1338 2128,1342 2139,1341 2258,1339"/>
                     <TextEquiv>
                         <Unicode>B. Wittkop Tiefbau</Unicode>
@@ -3773,7 +3773,7 @@
             <TableCell row="11" col="0" rowSpan="1" colSpan="1" id="TableCell_1658212332001_2165">
                 <Coords points="1961,1376 1961,1503 2258,1503 2258,1376"/>
                 <TextLine id="TableCell_1658212332001_2165l0" custom="readingOrder {index:0;}">
-                    <Coords points="1971,1377 2051,1376 2051,1376 2258,1376 2258,1416 2051,1416 1971,1404"/>
+                    <Coords points="1971,1377 2051,1376 2258,1376 2258,1416 2051,1416 1971,1404"/>
                     <Baseline points="1971,1404 2001,1404 2004,1404 2258,1405"/>
                     <TextEquiv>
                         <Unicode>E. Wunderlich u. Co.</Unicode>
@@ -4148,7 +4148,7 @@
             <TableCell row="17" col="0" rowSpan="1" colSpan="1" id="TableCell_1658212320131_1949">
                 <Coords points="1961,1668 1961,1705 2258,1705 2258,1668"/>
                 <TextLine id="TableCell_1658212320131_1949l0" custom="readingOrder {index:0;}">
-                    <Coords points="1975,1674 1990,1672 2100,1668 2100,1668 2258,1668 2258,1705 1975,1705"/>
+                    <Coords points="1975,1674 1990,1672 2100,1668 2258,1668 2258,1705 1975,1705"/>
                     <Baseline points="1975,1696 2083,1699 2100,1699 2135,1699 2139,1699 2258,1698"/>
                     <TextEquiv>
                         <Unicode>Zuckerf. Kl. Wanzlb.</Unicode>
@@ -4301,14 +4301,14 @@
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l2" custom="readingOrder {index:1;}">
-                <Coords points="2004,1973 2377,1972 2377,1972 2690,1972 2708,1973 2719,1974 2719,2002 2690,2003 2558,2007 2377,2007 2004,2002"/>
+                <Coords points="2004,1973 2377,1972 2690,1972 2708,1973 2719,1974 2719,2002 2690,2003 2558,2007 2377,2007 2004,2002"/>
                 <Baseline points="2004,1999 2185,1999 2203,1999 2278,1999 2295,1999 2339,1999 2356,1999 2585,2000 2603,2000 2623,1999 2637,1999 2719,2001"/>
                 <TextEquiv>
                     <Unicode>(Ausnahme: Bank für Brau⸗Induſtrie 1. April</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l3" custom="readingOrder {index:2;}">
-                <Coords points="2150,2014 2165,2013 2252,2011 2252,2011 2540,2011 2573,2012 2582,2014 2582,2038 2573,2039 2540,2042 2498,2042 2150,2038"/>
+                <Coords points="2150,2014 2165,2013 2252,2011 2540,2011 2573,2012 2582,2014 2582,2038 2573,2039 2540,2042 2498,2042 2150,2038"/>
                 <Baseline points="2150,2038 2224,2037 2240,2038 2334,2038 2352,2038 2439,2038 2459,2038 2478,2038 2498,2038 2582,2032"/>
                 <TextEquiv>
                     <Unicode>Bank Elektr. Werte 1. Juli.)</Unicode>
@@ -4387,7 +4387,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
             <TableCell row="1" col="0" rowSpan="1" colSpan="1" id="TableCell_1658212469357_3201">
                 <Coords points="1957,2130 1957,2166 2296,2166 2296,2130"/>
                 <TextLine id="TableCell_1658212469357_3201l1" custom="readingOrder {index:0;}">
-                    <Coords points="1969,2134 2028,2133 2266,2130 2266,2130 2296,2130 2296,2166 2088,2166 1969,2159"/>
+                    <Coords points="1969,2134 2028,2133 2266,2130 2296,2130 2296,2166 2088,2166 1969,2159"/>
                     <Baseline points="1969,2159 2088,2159 2106,2160 2178,2158 2266,2160 2296,2159"/>
                     <TextEquiv>
                         <Unicode>Badiſche Bank N</Unicode>
@@ -4545,7 +4545,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
             <TableCell row="4" col="0" rowSpan="1" colSpan="1" id="TableCell_1658212462800_3111">
                 <Coords points="1956,2264 1956,2298 2296,2298 2296,2264"/>
                 <TextLine id="TableCell_1658212462800_3111l1" custom="readingOrder {index:0;}">
-                    <Coords points="1956,2265 1982,2264 1982,2264 2296,2264 2296,2298 1956,2298"/>
+                    <Coords points="1956,2265 1982,2264 2296,2264 2296,2298 1956,2298"/>
                     <Baseline points="1983,2291 2018,2290 2044,2290 2076,2290 2096,2290 2198,2290 2234,2290 2247,2291 2296,2290"/>
                     <TextEquiv>
                         <Unicode>do. do. Vz.⸗A. kd. 104</Unicode>
@@ -4703,7 +4703,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
             <TableCell row="7" col="0" rowSpan="1" colSpan="1" id="TableCell_1658212456803_3021">
                 <Coords points="1956,2359 1956,2395 2296,2395 2296,2359"/>
                 <TextLine id="TableCell_1658212456803_3021l1" custom="readingOrder {index:0;}">
-                    <Coords points="1956,2360 2134,2359 2134,2359 2296,2359 2296,2395 1956,2395"/>
+                    <Coords points="1956,2360 2134,2359 2296,2359 2296,2395 1956,2395"/>
                     <Baseline points="1969,2391 2063,2390 2072,2390 2147,2388 2169,2389 2184,2389 2296,2390"/>
                     <TextEquiv>
                         <Unicode>Bayer. Hyp. u. Wechſlb.</Unicode>
@@ -4813,7 +4813,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
             <TableCell row="9" col="0" rowSpan="1" colSpan="1" id="TableCell_1658212450323_2961">
                 <Coords points="1956,2428 1956,2460 2296,2460 2296,2428"/>
                 <TextLine id="TableCell_1658212450323_2961l1" custom="readingOrder {index:0;}">
-                    <Coords points="1956,2429 2161,2428 2161,2428 2296,2428 2296,2460 1956,2460"/>
+                    <Coords points="1956,2429 2161,2428 2296,2428 2296,2460 1956,2460"/>
                     <Baseline points="1971,2456 2150,2455 2161,2455 2228,2455 2267,2455 2296,2454"/>
                     <TextEquiv>
                         <Unicode>Berg.⸗Märk. Ind. N</Unicode>
@@ -4971,7 +4971,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
             <TableCell row="12" col="0" rowSpan="1" colSpan="1" id="TableCell_1658212442740_2871">
                 <Coords points="1956,2524 1956,2560 2296,2560 2296,2524"/>
                 <TextLine id="TableCell_1658212442740_2871l1" custom="readingOrder {index:0;}">
-                    <Coords points="1956,2525 2081,2524 2081,2524 2296,2524 2296,2560 1956,2560"/>
+                    <Coords points="1956,2525 2081,2524 2296,2524 2296,2560 1956,2560"/>
                     <Baseline points="1980,2553 2019,2553 2081,2553 2296,2553"/>
                     <TextEquiv>
                         <Unicode>do. Kaſſen⸗Verein</Unicode>
@@ -5081,7 +5081,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
             <TableCell row="14" col="0" rowSpan="1" colSpan="1" id="TableCell_1658212437228_2811">
                 <Coords points="1956,2591 1956,2626 2296,2626 2296,2591"/>
                 <TextLine id="TableCell_1658212437228_2811l1" custom="readingOrder {index:0;}">
-                    <Coords points="1969,2594 2031,2591 2031,2591 2295,2591 2295,2626 1969,2626"/>
+                    <Coords points="1969,2594 2031,2591 2295,2591 2295,2626 1969,2626"/>
                     <Baseline points="1969,2617 2153,2618 2163,2618 2295,2617"/>
                     <TextEquiv>
                         <Unicode>Commerz⸗u. Priv.⸗Bk.</Unicode>
@@ -5676,7 +5676,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
             <TableCell row="2" col="0" rowSpan="1" colSpan="1" id="TableCell_1658212647371_4164">
                 <Coords points="2790,1048 2790,1078 3129,1078 3129,1048"/>
                 <TextLine id="TableCell_1658212647371_4164l1" custom="readingOrder {index:0;}">
-                    <Coords points="2799,1051 2950,1048 2950,1048 3129,1048 3129,1078 2899,1078 2799,1076"/>
+                    <Coords points="2799,1051 2950,1048 3129,1048 3129,1078 2899,1078 2799,1076"/>
                     <Baseline points="2799,1076 2920,1077 2927,1077 3129,1075"/>
                     <TextEquiv>
                         <Unicode>Deutſche Hypothekenb.</Unicode>
@@ -5841,7 +5841,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
             <TableCell row="5" col="0" rowSpan="1" colSpan="1" id="TableCell_1658212641127_4074">
                 <Coords points="2790,1142 2790,1175 3129,1175 3129,1142"/>
                 <TextLine id="TableCell_1658212641127_4074l0" custom="readingOrder {index:0;}">
-                    <Coords points="2800,1149 2974,1142 2974,1142 3129,1142 3129,1175 2800,1175"/>
+                    <Coords points="2800,1149 2974,1142 3129,1142 3129,1175 2800,1175"/>
                     <Baseline points="2800,1175 2939,1174 2951,1174 3121,1173"/>
                     <TextEquiv>
                         <Unicode>Halleſcher Bankverein</Unicode>
@@ -5951,7 +5951,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
             <TableCell row="7" col="0" rowSpan="1" colSpan="1" id="TableCell_1658212637394_4014">
                 <Coords points="2790,1209 2790,1243 3129,1243 3129,1209"/>
                 <TextLine id="TableCell_1658212637394_4014l1" custom="readingOrder {index:0;}">
-                    <Coords points="2801,1215 3113,1209 3113,1209 3129,1209 3129,1243 3009,1243 2801,1241"/>
+                    <Coords points="2801,1215 3113,1209 3129,1209 3129,1243 3009,1243 2801,1241"/>
                     <Baseline points="2801,1241 3065,1239 3074,1239 3129,1239"/>
                     <TextEquiv>
                         <Unicode>Hannov. Bodenkrd. Bk.</Unicode>
@@ -6006,7 +6006,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
             <TableCell row="8" col="0" rowSpan="1" colSpan="1" id="TableCell_1658212635952_3984">
                 <Coords points="2790,1243 2790,1274 3129,1274 3129,1243"/>
                 <TextLine id="TableCell_1658212635952_3984l0" custom="readingOrder {index:0;}">
-                    <Coords points="2801,1250 2823,1248 3113,1243 3113,1243 3129,1243 3129,1274 2957,1274 2801,1273"/>
+                    <Coords points="2801,1250 2823,1248 3113,1243 3129,1243 3129,1274 2957,1274 2801,1273"/>
                     <Baseline points="2801,1273 2920,1272 2947,1272 3129,1271"/>
                     <TextEquiv>
                         <Unicode>Lübecker Comm.⸗Bk.</Unicode>
@@ -6061,7 +6061,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
             <TableCell row="9" col="0" rowSpan="1" colSpan="1" id="TableCell_1658212634794_3954">
                 <Coords points="2790,1274 2790,1311 3129,1311 3129,1274"/>
                 <TextLine id="TableCell_1658212634794_3954l0" custom="readingOrder {index:0;}">
-                    <Coords points="2803,1282 2893,1274 2893,1274 3129,1274 3129,1311 2880,1311 2803,1305"/>
+                    <Coords points="2803,1282 2893,1274 3129,1274 3129,1311 2880,1311 2803,1305"/>
                     <Baseline points="2803,1305 2926,1305 2941,1305 3043,1306 3052,1306 3072,1306 3084,1306 3129,1306"/>
                     <TextEquiv>
                         <Unicode>Luxemb. Intern. i. Fr.</Unicode>
@@ -6123,7 +6123,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="TableCell_1658212631745_3924l2" custom="readingOrder {index:1;}">
-                    <Coords points="2836,1352 2874,1347 2917,1346 2917,1346 3067,1346 3067,1373 2876,1373 2836,1372"/>
+                    <Coords points="2836,1352 2874,1347 2917,1346 3067,1346 3067,1373 2876,1373 2836,1372"/>
                     <Baseline points="2836,1372 2860,1372 2874,1372 3049,1372"/>
                     <TextEquiv>
                         <Unicode>u. Wechſelbank</Unicode>
@@ -6171,7 +6171,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
             <TableCell row="11" col="0" rowSpan="1" colSpan="1" id="TableCell_1658212629451_3894">
                 <Coords points="2790,1373 2790,1408 3129,1408 3129,1373"/>
                 <TextLine id="TableCell_1658212629451_3894l0" custom="readingOrder {index:0;}">
-                    <Coords points="2814,1379 3008,1373 3008,1373 3129,1373 3129,1408 2962,1408 2870,1406 2814,1403"/>
+                    <Coords points="2814,1379 3008,1373 3129,1373 3129,1408 2962,1408 2870,1406 2814,1403"/>
                     <Baseline points="2814,1403 2846,1404 2870,1405 2947,1404 2960,1404 2980,1404 2982,1404 3129,1403"/>
                     <TextEquiv>
                         <Unicode>do Hyp.⸗ u. Wechſelb.</Unicode>
@@ -6226,7 +6226,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
             <TableCell row="12" col="0" rowSpan="1" colSpan="1" id="TableCell_1658212622836_3864">
                 <Coords points="2790,1408 2790,1438 3129,1438 3129,1408"/>
                 <TextLine id="TableCell_1658212622836_3864l1" custom="readingOrder {index:0;}">
-                    <Coords points="2804,1413 3019,1408 3019,1408 3129,1408 3129,1438 2904,1438 2804,1437"/>
+                    <Coords points="2804,1413 3019,1408 3129,1408 3129,1438 2904,1438 2804,1437"/>
                     <Baseline points="2804,1437 2990,1438 3004,1438 3129,1438"/>
                     <TextEquiv>
                         <Unicode>Meckl.⸗Strel. Hyp.⸗Bk.</Unicode>
@@ -6391,7 +6391,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
             <TableCell row="15" col="0" rowSpan="1" colSpan="1" id="TableCell_1658212616232_3774">
                 <Coords points="2790,1506 2790,1535 3129,1535 3129,1506"/>
                 <TextLine id="TableCell_1658212616232_3774l0" custom="readingOrder {index:0;}">
-                    <Coords points="2801,1511 2816,1510 2837,1509 2837,1509 3097,1509 3097,1534 3092,1535 2819,1535 2801,1534"/>
+                    <Coords points="2801,1511 2816,1510 2837,1509 3097,1509 3097,1534 3092,1535 2819,1535 2801,1534"/>
                     <Baseline points="2801,1534 3012,1535 3025,1535 3097,1534"/>
                     <TextEquiv>
                         <Unicode>Niederlauſitzer Bank</Unicode>
@@ -6446,7 +6446,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
             <TableCell row="16" col="0" rowSpan="1" colSpan="1" id="TableCell_1658212613813_3744">
                 <Coords points="2790,1535 2790,1569 3129,1569 3129,1535"/>
                 <TextLine id="TableCell_1658212613813_3744l1" custom="readingOrder {index:0;}">
-                    <Coords points="2803,1543 3000,1535 3000,1535 3129,1535 3129,1569 2847,1569 2803,1568"/>
+                    <Coords points="2803,1543 3000,1535 3129,1535 3129,1569 2847,1569 2803,1568"/>
                     <Baseline points="2803,1568 2930,1567 2949,1567 3129,1567"/>
                     <TextEquiv>
                         <Unicode>Oldenbg. Landesbank</Unicode>
@@ -6831,7 +6831,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
             <TableCell row="23" col="0" rowSpan="1" colSpan="1" id="TableCell_1658212594655_3534">
                 <Coords points="2790,1800 2790,1832 3129,1832 3129,1800"/>
                 <TextLine id="TableCell_1658212594655_3534l1" custom="readingOrder {index:0;}">
-                    <Coords points="2800,1803 2977,1800 2977,1800 2994,1800 3019,1806 3031,1824 3031,1832 2911,1832 2846,1831 2800,1828"/>
+                    <Coords points="2800,1803 2977,1800 2994,1800 3019,1806 3031,1824 3031,1832 2911,1832 2846,1831 2800,1828"/>
                     <Baseline points="2800,1828 2926,1830 2946,1830 3031,1830"/>
                     <TextEquiv>
                         <Unicode>Roſtocker Bank.</Unicode>
@@ -7106,7 +7106,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
             <TableCell row="28" col="0" rowSpan="1" colSpan="1" id="TableCell_1658212584216_3384">
                 <Coords points="2790,1965 2790,2030 3129,2030 3129,1965"/>
                 <TextLine id="TableCell_1658212584216_3384l0" custom="readingOrder {index:0;}">
-                    <Coords points="2801,1968 2913,1967 2913,1967 2981,1967 3118,1968 3118,1994 2981,1998 2933,1998 2838,1997 2801,1992"/>
+                    <Coords points="2801,1968 2913,1967 2981,1967 3118,1968 3118,1994 2981,1998 2933,1998 2838,1997 2801,1992"/>
                     <Baseline points="2801,1991 2902,1993 2913,1993 2981,1993 2999,1993 3118,1992"/>
                     <TextEquiv>
                         <Unicode>Ungar. Allg. Creditb.</Unicode>
@@ -7368,7 +7368,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
         <TextRegion type="heading" id="r3" custom="readingOrder {index:6;} structure {type:heading;}">
             <Coords points="3052,2260 3331,2260 3331,2324 3052,2324"/>
             <TextLine id="r3l1" custom="readingOrder {index:0;}">
-                <Coords points="3061,2272 3129,2271 3129,2271 3282,2271 3320,2279 3320,2307 3282,2311 3155,2311 3061,2307"/>
+                <Coords points="3061,2272 3129,2271 3282,2271 3320,2279 3320,2307 3282,2311 3155,2311 3061,2307"/>
                 <Baseline points="3061,2307 3102,2307 3129,2307 3320,2306"/>
                 <TextEquiv>
                     <Unicode>3. Verkehr.</Unicode>
@@ -7449,7 +7449,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
             <TableCell row="1" col="0" rowSpan="1" colSpan="1" id="TableCell_1658212749202_4737">
                 <Coords points="2787,2392 2787,2426 3088,2426 3088,2392"/>
                 <TextLine id="TableCell_1658212749202_4737l1" custom="readingOrder {index:0;}">
-                    <Coords points="2794,2396 2810,2395 2860,2392 2860,2392 2887,2392 3085,2393 3085,2426 2849,2426 2794,2421"/>
+                    <Coords points="2794,2396 2810,2395 2860,2392 2887,2392 3085,2393 3085,2426 2849,2426 2794,2421"/>
                     <Baseline points="2794,2421 2860,2422 2887,2423 2899,2423 2913,2423 2920,2423 3085,2421"/>
                     <TextEquiv>
                         <Unicode>Akt. G. f. Verkehrsw.</Unicode>
@@ -7522,7 +7522,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="TableCell_1658212745614_4701l1" custom="readingOrder {index:1;}">
-                    <Coords points="2828,2463 2863,2461 2863,2461 2967,2461 2982,2468 2982,2487 2950,2489 2863,2489 2828,2487"/>
+                    <Coords points="2828,2463 2863,2461 2967,2461 2982,2468 2982,2487 2950,2489 2863,2489 2828,2487"/>
                     <Baseline points="2828,2487 2982,2487"/>
                     <TextEquiv>
                         <Unicode>Kraſtwerke</Unicode>
@@ -7713,7 +7713,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
             <TableCell row="5" col="0" rowSpan="1" colSpan="1" id="TableCell_1658212736625_4593">
                 <Coords points="2787,2590 2787,2619 3088,2619 3088,2590"/>
                 <TextLine id="TableCell_1658212736625_4593l0" custom="readingOrder {index:0;}">
-                    <Coords points="2796,2593 2832,2592 3037,2590 3037,2590 3085,2590 3085,2619 2832,2619 2796,2618"/>
+                    <Coords points="2796,2593 2832,2592 3037,2590 3085,2590 3085,2619 2832,2619 2796,2618"/>
                     <Baseline points="2796,2618 3000,2618 3009,2618 3085,2611"/>
                     <TextEquiv>
                         <Unicode>Barm.⸗Elberf. Strb.</Unicode>
@@ -8109,7 +8109,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
             <TableCell row="11" col="0" rowSpan="1" colSpan="1" id="TableCell_1658212724813_4377">
                 <Coords points="2792,2787 2794,2883 3088,2883 3088,2787"/>
                 <TextLine id="TableCell_1658212724813_4377l0" custom="readingOrder {index:0;}">
-                    <Coords points="2796,2792 2947,2789 2947,2789 3046,2789 3072,2791 3080,2809 3080,2816 3072,2820 2947,2820 2796,2817"/>
+                    <Coords points="2796,2792 2947,2789 3046,2789 3072,2791 3080,2809 3080,2816 3072,2820 2947,2820 2796,2817"/>
                     <Baseline points="2796,2817 2907,2816 2932,2816 3080,2816"/>
                     <TextEquiv>
                         <Unicode>Canada Abl.⸗Sch.</Unicode>
@@ -8212,7 +8212,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
             <TableCell row="12" col="4" rowSpan="1" colSpan="1" id="TableCell_1658212723408_4365">
                 <Coords points="3267,2883 3267,2948 3436,2948 3436,2883"/>
                 <TextLine id="TableCell_1658212723408_4365l0" custom="readingOrder {index:0;}">
-                    <Coords points="3296,2917 3310,2916 3310,2916 3355,2916 3355,2946 3310,2946 3296,2944"/>
+                    <Coords points="3296,2917 3310,2916 3355,2916 3355,2946 3310,2946 3296,2944"/>
                     <Baseline points="3296,2944 3355,2946"/>
                     <TextEquiv>
                         <Unicode>6,5 b</Unicode>
@@ -8421,7 +8421,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
             <TableCell row="1" col="0" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" id="TableCell_1658212928645_6414">
                 <Coords points="3632,945 3632,1016 3928,1016 3928,945"/>
                 <TextLine id="TableCell_1658212928645_6414l0" custom="readingOrder {index:0;}">
-                    <Coords points="3640,986 3901,981 3901,981 3928,981 3928,1016 3857,1016 3640,1011"/>
+                    <Coords points="3640,986 3901,981 3928,981 3928,1016 3857,1016 3640,1011"/>
                     <Baseline points="3640,1011 3831,1010 3839,1010 3889,1008 3901,1008 3928,1007"/>
                     <TextEquiv>
                         <Unicode>Eutin⸗Lübeck Lu. A</Unicode>
@@ -8487,7 +8487,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
             <TableCell row="2" col="0" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" id="TableCell_1658212927216_6378">
                 <Coords points="3632,1016 3632,1050 3928,1050 3928,1016"/>
                 <TextLine id="TableCell_1658212927216_6378l0" custom="readingOrder {index:0;}">
-                    <Coords points="3640,1019 3726,1016 3726,1016 3928,1016 3928,1050 3716,1050 3640,1042"/>
+                    <Coords points="3640,1019 3726,1016 3928,1016 3928,1050 3716,1050 3640,1042"/>
                     <Baseline points="3640,1042 3689,1042 3700,1042 3886,1042 3898,1042 3928,1042"/>
                     <TextEquiv>
                         <Unicode>Gr. Kaſſeler Strb. N</Unicode>
@@ -8678,7 +8678,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
             <TableCell row="5" col="0" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" id="TableCell_1658212919870_6270">
                 <Coords points="3632,1146 3632,1178 3928,1178 3928,1146"/>
                 <TextLine id="TableCell_1658212919870_6270l0" custom="readingOrder {index:0;}">
-                    <Coords points="3643,1149 3661,1148 3661,1148 3846,1148 3857,1151 3870,1170 3870,1175 3846,1176 3643,1176"/>
+                    <Coords points="3643,1149 3661,1148 3846,1148 3857,1151 3870,1170 3870,1175 3846,1176 3643,1176"/>
                     <Baseline points="3643,1176 3870,1175"/>
                     <TextEquiv>
                         <Unicode>Halle⸗Hettſtedt.</Unicode>
@@ -8890,7 +8890,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
             <TableCell row="8" col="0" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" id="TableCell_1658212911365_6162">
                 <Coords points="3632,1306 3632,1346 3928,1346 3928,1306"/>
                 <TextLine id="TableCell_1658212911365_6162l0" custom="readingOrder {index:0;}">
-                    <Coords points="3644,1313 3706,1311 3876,1307 3876,1307 3927,1307 3927,1346 3644,1346"/>
+                    <Coords points="3644,1313 3706,1311 3876,1307 3927,1307 3927,1346 3644,1346"/>
                     <Baseline points="3644,1338 3876,1338 3925,1338 3927,1338"/>
                     <TextEquiv>
                         <Unicode>Hambg.⸗Süda. D. N</Unicode>
@@ -9029,7 +9029,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
             <TableCell row="10" col="0" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" id="TableCell_1658212906472_6090">
                 <Coords points="3632,1401 3632,1441 3928,1441 3928,1401"/>
                 <TextLine id="TableCell_1658212906472_6090l0" custom="readingOrder {index:0;}">
-                    <Coords points="3645,1432 3660,1411 3716,1401 3716,1401 3925,1401 3925,1436 3856,1441 3692,1441 3645,1439"/>
+                    <Coords points="3645,1432 3660,1411 3716,1401 3925,1401 3925,1436 3856,1441 3692,1441 3645,1439"/>
                     <Baseline points="3645,1439 3750,1437 3774,1437 3925,1436"/>
                     <TextEquiv>
                         <Unicode>„Hanſa“ Dampfſch N</Unicode>
@@ -9293,7 +9293,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
             <TableCell row="14" col="0" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" id="TableCell_1658212896910_5946">
                 <Coords points="3632,1538 3632,1574 3928,1574 3928,1538"/>
                 <TextLine id="TableCell_1658212896910_5946l0" custom="readingOrder {index:0;}">
-                    <Coords points="3644,1544 3673,1543 3820,1542 3820,1542 3880,1542 3889,1561 3889,1567 3828,1571 3764,1573 3673,1573 3644,1569"/>
+                    <Coords points="3644,1544 3673,1543 3820,1542 3880,1542 3889,1561 3889,1567 3828,1571 3764,1573 3673,1573 3644,1569"/>
                     <Baseline points="3644,1568 3769,1568 3787,1567 3889,1567"/>
                     <TextEquiv>
                         <Unicode>Lauſitzer Eiſenb.</Unicode>
@@ -9432,7 +9432,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
             <TableCell row="16" col="0" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" id="TableCell_1658212892129_5874">
                 <Coords points="3632,1636 3632,1668 3928,1668 3928,1636"/>
                 <TextLine id="TableCell_1658212892129_5874l0" custom="readingOrder {index:0;}">
-                    <Coords points="3656,1642 3778,1636 3778,1636 3928,1636 3928,1668 3717,1668 3656,1667"/>
+                    <Coords points="3656,1642 3778,1636 3928,1636 3928,1668 3717,1668 3656,1667"/>
                     <Baseline points="3656,1667 3692,1666 3711,1666 3751,1666 3764,1666 3806,1666 3817,1666 3842,1666 3849,1666 3913,1665 3927,1665 3928,1665"/>
                     <TextEquiv>
                         <Unicode>do. do. St. A. Lit. B</Unicode>
@@ -9637,7 +9637,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
             <TableCell row="19" col="0" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" id="TableCell_1658212884542_5766">
                 <Coords points="3632,1769 3632,1803 3928,1803 3928,1769"/>
                 <TextLine id="TableCell_1658212884542_5766l0" custom="readingOrder {index:0;}">
-                    <Coords points="3643,1772 3895,1769 3895,1769 3928,1769 3928,1803 3778,1803 3662,1802 3643,1798"/>
+                    <Coords points="3643,1772 3895,1769 3928,1769 3928,1803 3778,1803 3662,1802 3643,1798"/>
                     <Baseline points="3643,1798 3838,1797 3848,1797 3928,1796"/>
                     <TextEquiv>
                         <Unicode>Magdeburger Strb.</Unicode>
@@ -9769,7 +9769,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
             <TableCell row="21" col="0" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" id="TableCell_1658212880812_5694">
                 <Coords points="3632,1834 3632,1894 3928,1898 3928,1834"/>
                 <TextLine id="TableCell_1658212880812_5694l0" custom="readingOrder {index:0;}">
-                    <Coords points="3642,1838 3775,1837 3775,1837 3924,1837 3924,1862 3804,1866 3775,1866 3642,1864"/>
+                    <Coords points="3642,1838 3775,1837 3924,1837 3924,1862 3804,1866 3775,1866 3642,1864"/>
                     <Baseline points="3642,1864 3745,1863 3775,1863 3877,1862 3884,1862 3924,1862"/>
                     <TextEquiv>
                         <Unicode>Mecklb. Fried.⸗W.</Unicode>
@@ -9842,7 +9842,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
             <TableCell row="22" col="0" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" id="TableCell_1658212877313_5658">
                 <Coords points="3632,1894 3632,1930 3928,1930 3928,1898"/>
                 <TextLine id="TableCell_1658212877313_5658l0" custom="readingOrder {index:0;}">
-                    <Coords points="3653,1903 3901,1894 3901,1894 3928,1894 3928,1930 3815,1930 3729,1929 3653,1928"/>
+                    <Coords points="3653,1903 3901,1894 3928,1894 3928,1930 3815,1930 3729,1929 3653,1928"/>
                     <Baseline points="3653,1928 3685,1928 3729,1928 3818,1928 3838,1928 3878,1927 3901,1926 3928,1926"/>
                     <TextEquiv>
                         <Unicode>do St.⸗A. Lit A</Unicode>
@@ -10342,7 +10342,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
             <TableCell row="30" col="0" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" id="TableCell_1658212843407_5317">
                 <Coords points="3632,2158 3632,2192 3928,2192 3928,2158"/>
                 <TextLine id="TableCell_1658212843407_5317l0" custom="readingOrder {index:0;}">
-                    <Coords points="3674,2169 3698,2165 3754,2158 3754,2158 3928,2158 3928,2192 3714,2192 3674,2191"/>
+                    <Coords points="3674,2169 3698,2165 3754,2158 3928,2158 3928,2192 3714,2192 3674,2191"/>
                     <Baseline points="3674,2191 3786,2190 3819,2190 3830,2190 3927,2190 3928,2190"/>
                     <TextEquiv>
                         <Unicode>1St. = 50 Dollar</Unicode>
@@ -10387,7 +10387,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
             <TableCell row="31" col="0" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" id="TableCell_1658212829378_5281">
                 <Coords points="3632,2192 3632,2230 3928,2230 3928,2192"/>
                 <TextLine id="TableCell_1658212829378_5281l0" custom="readingOrder {index:0;}">
-                    <Coords points="3637,2198 3863,2192 3863,2192 3928,2192 3928,2230 3637,2230"/>
+                    <Coords points="3637,2198 3863,2192 3928,2192 3928,2230 3637,2230"/>
                     <Baseline points="3637,2223 3835,2223 3842,2223 3899,2223 3928,2223"/>
                     <TextEquiv>
                         <Unicode>Prignitzer Eb. Pr. A.</Unicode>
@@ -11085,7 +11085,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
             <TableCell row="42" col="0" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" id="TableCell_1658212800950_4885">
                 <Coords points="3632,2558 3632,2586 3928,2586 3928,2558"/>
                 <TextLine id="TableCell_1658212800950_4885l0" custom="readingOrder {index:0;}">
-                    <Coords points="3672,2562 3704,2558 3704,2558 3928,2558 3928,2586 3695,2586 3672,2585"/>
+                    <Coords points="3672,2562 3704,2558 3928,2558 3928,2586 3695,2586 3672,2585"/>
                     <Baseline points="3672,2585 3683,2585 3704,2585 3748,2585 3767,2585 3780,2585 3796,2585 3847,2584 3863,2584 3928,2584"/>
                     <TextEquiv>
                         <Unicode>1 St. = 500 Lire</Unicode>
@@ -11298,7 +11298,7 @@ Albingia: 1. Oktober.</Unicode>
             <TableCell row="0" col="1" rowSpan="1" colSpan="1" id="TableCell_1658213001384_6559">
                 <Coords points="4106,2872 4106,2914 4267,2914 4267,2872"/>
                 <TextLine id="TableCell_1658213001384_6559l0" custom="readingOrder {index:0;}">
-                    <Coords points="4110,2881 4188,2877 4188,2877 4205,2877 4205,2914 4175,2914 4110,2909"/>
+                    <Coords points="4110,2881 4188,2877 4205,2877 4205,2914 4175,2914 4110,2909"/>
                     <Baseline points="4110,2909 4188,2909 4202,2909 4205,2909"/>
                     <TextEquiv>
                         <Unicode>805 b B</Unicode>
@@ -11664,7 +11664,7 @@ Albingia: 1. Oktober.</Unicode>
             <TableCell row="5" col="1" rowSpan="1" colSpan="1" id="TableCell_1658213140831_7134">
                 <Coords points="4940,1112 4940,1174 5100,1174 5100,1112"/>
                 <TextLine id="TableCell_1658213140831_7134l0" custom="readingOrder {index:0;}">
-                    <Coords points="4944,1146 4962,1145 4962,1145 5023,1145 5023,1171 4962,1171 4944,1170"/>
+                    <Coords points="4944,1146 4962,1145 5023,1145 5023,1171 4962,1171 4944,1170"/>
                     <Baseline points="4944,1170 5023,1171"/>
                     <TextEquiv>
                         <Unicode>110 G</Unicode>
@@ -11778,7 +11778,7 @@ Albingia: 1. Oktober.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="TableCell_1658213132804_7056l1" custom="readingOrder {index:1;}">
-                    <Coords points="4763,1312 4911,1309 4911,1309 4934,1309 4934,1335 4881,1338 4763,1338"/>
+                    <Coords points="4763,1312 4911,1309 4934,1309 4934,1335 4881,1338 4763,1338"/>
                     <Baseline points="4763,1338 4804,1337 4819,1336 4881,1337 4911,1336 4934,1335"/>
                     <TextEquiv>
                         <Unicode>Lit C u D</Unicode>
@@ -12942,7 +12942,7 @@ Albingia: 1. Oktober.</Unicode>
             <TableCell row="4" col="0" rowSpan="1" colSpan="1" id="TableCell_1658213188140_7299">
                 <Coords points="4452,2490 4452,2559 4787,2559 4787,2490"/>
                 <TextLine id="TableCell_1658213188140_7299l0" custom="readingOrder {index:0;}">
-                    <Coords points="4466,2494 4588,2490 4588,2490 4664,2490 4755,2493 4771,2494 4771,2519 4664,2520 4466,2520"/>
+                    <Coords points="4466,2494 4588,2490 4664,2490 4755,2493 4771,2494 4771,2519 4664,2520 4466,2520"/>
                     <Baseline points="4466,2520 4547,2520 4569,2520 4664,2519 4685,2519 4709,2519 4723,2519 4771,2519"/>
                     <TextEquiv>
                         <Unicode>Otavi Minen u. Eb.</Unicode>
@@ -13089,7 +13089,7 @@ Albingia: 1. Oktober.</Unicode>
         <TextRegion type="heading" id="r8" custom="readingOrder {index:16;} structure {type:heading;}">
             <Coords points="2533,3307 3842,3307 3842,3401 2533,3401"/>
             <TextLine id="r8l1" custom="readingOrder {index:0;}">
-                <Coords points="2556,3336 3226,3332 3422,3331 3422,3331 3634,3331 3836,3345 3836,3385 3714,3396 2958,3400 2556,3400"/>
+                <Coords points="2556,3336 3226,3332 3422,3331 3634,3331 3836,3345 3836,3385 3714,3396 2958,3400 2556,3400"/>
                 <Baseline points="2556,3390 3173,3385 3226,3385 3836,3383"/>
                 <TextEquiv>
                     <Unicode>Fortlaufende Notierungen.</Unicode>
@@ -13104,7 +13104,7 @@ Albingia: 1. Oktober.</Unicode>
             <TableCell row="0" col="0" rowSpan="2" colSpan="1" leftBorderVisible="false" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" id="TableCell_1658213473640_9023">
                 <Coords points="1093,3391 1093,3514 1093,3558 1669,3558 1669,3514 1669,3399"/>
                 <TextLine id="TableCell_1658213473640_9023l0" custom="readingOrder {index:0;}">
-                    <Coords points="1129,3471 1150,3465 1150,3465 1598,3465 1632,3473 1658,3481 1658,3506 1598,3517 1150,3517 1129,3509"/>
+                    <Coords points="1129,3471 1150,3465 1598,3465 1632,3473 1658,3481 1658,3506 1598,3517 1150,3517 1129,3509"/>
                     <Baseline points="1129,3508 1292,3506 1311,3506 1658,3506"/>
                     <TextEquiv>
                         <Unicode>Deutſche Anl.⸗Ausl.⸗Schein.</Unicode>
@@ -13129,7 +13129,7 @@ Albingia: 1. Oktober.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="TableCell_1658213461875_9005l1" custom="readingOrder {index:1;}">
-                    <Coords points="1703,3484 1727,3476 1781,3474 1781,3474 1860,3474 1860,3514 1749,3514 1703,3509"/>
+                    <Coords points="1703,3484 1727,3476 1781,3474 1860,3474 1860,3514 1749,3514 1703,3509"/>
                     <Baseline points="1703,3509 1860,3508"/>
                     <TextEquiv>
                         <Unicode>abſchluß</Unicode>
@@ -13297,7 +13297,7 @@ Albingia: 1. Oktober.</Unicode>
             <TableCell row="4" col="0" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" id="TableCell_1658213451974_8925">
                 <Coords points="1093,3777 1093,3864 1669,3864 1669,3777"/>
                 <TextLine id="TableCell_1658213451974_8925l0" custom="readingOrder {index:0;}">
-                    <Coords points="1124,3779 1228,3778 1228,3778 1331,3778 1572,3779 1638,3780 1638,3813 1494,3820 1331,3822 1228,3822 1157,3820 1124,3812"/>
+                    <Coords points="1124,3779 1228,3778 1331,3778 1572,3779 1638,3780 1638,3813 1494,3820 1331,3822 1228,3822 1157,3820 1124,3812"/>
                     <Baseline points="1124,3812 1199,3812 1228,3812 1331,3813 1372,3813 1522,3813 1541,3813 1638,3813"/>
                     <TextEquiv>
                         <Unicode>6 % Fried. Krupp⸗ RM⸗</Unicode>
@@ -13637,7 +13637,7 @@ Albingia: 1. Oktober.</Unicode>
             <TableCell row="11" col="1" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" id="TableCell_1658213433130_8763">
                 <Coords points="1669,4214 1669,4302 1879,4302 1879,4214"/>
                 <TextLine id="TableCell_1658213433130_8763l0" custom="readingOrder {index:0;}">
-                    <Coords points="1680,4260 1815,4259 1815,4259 1856,4259 1876,4269 1876,4295 1680,4295"/>
+                    <Coords points="1680,4260 1815,4259 1856,4259 1876,4269 1876,4295 1680,4295"/>
                     <Baseline points="1680,4295 1723,4293 1733,4293 1803,4294 1815,4294 1876,4295"/>
                     <TextEquiv>
                         <Unicode>20 000 Kr.</Unicode>
@@ -13776,7 +13776,7 @@ Albingia: 1. Oktober.</Unicode>
             <TableCell row="14" col="1" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" id="TableCell_1658213414697_8656">
                 <Coords points="1669,4434 1669,4474 1879,4474 1879,4434"/>
                 <TextLine id="TableCell_1658213414697_8656l0" custom="readingOrder {index:0;}">
-                    <Coords points="1677,4437 1822,4436 1822,4436 1875,4436 1875,4470 1677,4470"/>
+                    <Coords points="1677,4437 1822,4436 1875,4436 1875,4470 1677,4470"/>
                     <Baseline points="1677,4469 1718,4469 1730,4469 1798,4470 1822,4470 1875,4470"/>
                     <TextEquiv>
                         <Unicode>25 000 Lei</Unicode>
@@ -13886,7 +13886,7 @@ Albingia: 1. Oktober.</Unicode>
             <TableCell row="16" col="3" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" id="TableCell_1658213410100_8620">
                 <Coords points="2520,4520 2520,4561 3150,4561 3150,4520"/>
                 <TextLine id="TableCell_1658213410100_8620l0" custom="readingOrder {index:0;}">
-                    <Coords points="2566,4522 2726,4521 2726,4521 2747,4521 2782,4522 2782,4557 2716,4561 2648,4561 2566,4559"/>
+                    <Coords points="2566,4522 2726,4521 2747,4521 2782,4522 2782,4557 2716,4561 2648,4561 2566,4559"/>
                     <Baseline points="2566,4555 2618,4555 2632,4555 2650,4555 2667,4556 2747,4557 2760,4557 2782,4557"/>
                     <TextEquiv>
                         <Unicode>4,5 à 4,45 b</Unicode>
@@ -13952,7 +13952,7 @@ Albingia: 1. Oktober.</Unicode>
             <TableCell row="18" col="1" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" id="TableCell_1658213402872_8560">
                 <Coords points="1669,4610 1669,4647 1879,4647 1879,4610"/>
                 <TextLine id="TableCell_1658213402872_8560l0" custom="readingOrder {index:0;}">
-                    <Coords points="1718,4611 1778,4610 1778,4610 1816,4610 1839,4615 1839,4645 1816,4646 1778,4646 1718,4645"/>
+                    <Coords points="1718,4611 1778,4610 1816,4610 1839,4615 1839,4645 1816,4646 1778,4646 1718,4645"/>
                     <Baseline points="1718,4645 1760,4645 1778,4645 1839,4644"/>
                     <TextEquiv>
                         <Unicode>25 St.</Unicode>
@@ -13996,7 +13996,7 @@ Albingia: 1. Oktober.</Unicode>
             <TableCell row="19" col="1" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" id="TableCell_1658213400449_8536">
                 <Coords points="1669,4647 1669,4694 1879,4694 1879,4647"/>
                 <TextLine id="TableCell_1658213400449_8536l0" custom="readingOrder {index:0;}">
-                    <Coords points="1719,4656 1741,4655 1779,4654 1779,4654 1817,4654 1841,4658 1841,4689 1817,4690 1779,4690 1741,4689 1719,4688"/>
+                    <Coords points="1719,4656 1741,4655 1779,4654 1817,4654 1841,4658 1841,4689 1817,4690 1779,4690 1741,4689 1719,4688"/>
                     <Baseline points="1719,4688 1762,4689 1779,4689 1841,4689"/>
                     <TextEquiv>
                         <Unicode>25 St.</Unicode>
@@ -14040,7 +14040,7 @@ Albingia: 1. Oktober.</Unicode>
             <TableCell row="20" col="1" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" id="TableCell_1658213392882_8512">
                 <Coords points="1669,4694 1669,4738 1879,4738 1879,4694"/>
                 <TextLine id="TableCell_1658213392882_8512l0" custom="readingOrder {index:0;}">
-                    <Coords points="1720,4700 1780,4698 1780,4698 1818,4698 1843,4703 1843,4733 1818,4735 1780,4735 1720,4733"/>
+                    <Coords points="1720,4700 1780,4698 1818,4698 1843,4703 1843,4733 1818,4735 1780,4735 1720,4733"/>
                     <Baseline points="1720,4733 1762,4732 1780,4734 1843,4732"/>
                     <TextEquiv>
                         <Unicode>25 St.</Unicode>
@@ -14102,7 +14102,7 @@ Albingia: 1. Oktober.</Unicode>
             <TableCell row="21" col="2" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" id="TableCell_1658213390005_8494">
                 <Coords points="1879,4738 1879,4829 2520,4829 2520,4738"/>
                 <TextLine id="TableCell_1658213390005_8494l0" custom="readingOrder {index:0;}">
-                    <Coords points="1918,4788 2020,4787 2020,4787 2039,4787 2074,4788 2112,4790 2112,4823 2058,4829 1940,4829 1918,4822"/>
+                    <Coords points="1918,4788 2020,4787 2039,4787 2074,4788 2112,4790 2112,4823 2058,4829 1940,4829 1918,4822"/>
                     <Baseline points="1918,4822 1975,4822 1988,4822 2007,4822 2020,4823 2074,4823 2091,4823 2112,4823"/>
                     <TextEquiv>
                         <Unicode>5,6 à 5,9 b</Unicode>
@@ -14142,7 +14142,7 @@ Albingia: 1. Oktober.</Unicode>
             <TableCell row="22" col="1" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" id="TableCell_1658213387398_8464">
                 <Coords points="1669,4829 1669,4912 1879,4912 1879,4829"/>
                 <TextLine id="TableCell_1658213387398_8464l0" custom="readingOrder {index:0;}">
-                    <Coords points="1718,4873 1778,4872 1778,4872 1816,4872 1840,4880 1840,4909 1816,4910 1778,4910 1718,4908"/>
+                    <Coords points="1718,4873 1778,4872 1816,4872 1840,4880 1840,4909 1816,4910 1778,4910 1718,4908"/>
                     <Baseline points="1718,4908 1761,4908 1778,4909 1840,4901"/>
                     <TextEquiv>
                         <Unicode>25 St.</Unicode>
@@ -14244,7 +14244,7 @@ Albingia: 1. Oktober.</Unicode>
             <TableCell row="24" col="1" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" id="TableCell_1658213380179_8416">
                 <Coords points="1669,5004 1669,5091 1879,5091 1879,5004"/>
                 <TextLine id="TableCell_1658213380179_8416l0" custom="readingOrder {index:0;}">
-                    <Coords points="1716,5048 1776,5047 1776,5047 1819,5047 1840,5054 1840,5083 1819,5084 1776,5084 1716,5082"/>
+                    <Coords points="1716,5048 1776,5047 1819,5047 1840,5054 1840,5083 1819,5084 1776,5084 1716,5082"/>
                     <Baseline points="1716,5082 1759,5083 1776,5083 1840,5083"/>
                     <TextEquiv>
                         <Unicode>25 St.</Unicode>
@@ -14255,7 +14255,7 @@ Albingia: 1. Oktober.</Unicode>
             <TableCell row="24" col="2" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" id="TableCell_1658213380273_8422">
                 <Coords points="1879,5004 1879,5091 2520,5091 2520,5004"/>
                 <TextLine id="TableCell_1658213380273_8422l0" custom="readingOrder {index:0;}">
-                    <Coords points="1916,5051 1984,5046 1984,5046 2077,5046 2077,5091 1961,5091 1939,5090 1916,5085"/>
+                    <Coords points="1916,5051 1984,5046 2077,5046 2077,5091 1961,5091 1939,5090 1916,5085"/>
                     <Baseline points="1916,5085 1984,5085 2008,5084 2019,5084 2035,5084 2050,5084 2074,5083 2077,5083"/>
                     <TextEquiv>
                         <Unicode>5,8 à 6 b</Unicode>
@@ -15307,7 +15307,7 @@ Albingia: 1. Oktober.</Unicode>
             <TableCell row="48" col="1" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" id="TableCell_1658213311965_7840">
                 <Coords points="1669,6181 1669,6229 1879,6229 1879,6181"/>
                 <TextLine id="TableCell_1658213311965_7840l0" custom="readingOrder {index:0;}">
-                    <Coords points="1689,6185 1803,6181 1803,6181 1879,6181 1879,6229 1689,6229"/>
+                    <Coords points="1689,6185 1803,6181 1879,6181 1879,6229 1689,6229"/>
                     <Baseline points="1689,6218 1780,6223 1793,6224 1850,6221"/>
                     <TextEquiv>
                         <Unicode>2500 ſfr.</Unicode>
@@ -15582,7 +15582,7 @@ Albingia: 1. Oktober.</Unicode>
             <TableCell row="54" col="2" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" id="TableCell_1658213296296_7702">
                 <Coords points="1879,6444 1879,6488 2520,6488 2520,6444"/>
                 <TextLine id="TableCell_1658213296296_7702l1" custom="readingOrder {index:0;}">
-                    <Coords points="1901,6452 1924,6449 1959,6445 1959,6445 2077,6445 2077,6488 1949,6488 1901,6483"/>
+                    <Coords points="1901,6452 1924,6449 1959,6445 2077,6445 2077,6488 1949,6488 1901,6483"/>
                     <Baseline points="1901,6483 1959,6482 1978,6482 1996,6482 2033,6482 2051,6481 2074,6481 2077,6481"/>
                     <TextEquiv>
                         <Unicode>40 à 41 b</Unicode>
@@ -15659,7 +15659,7 @@ Albingia: 1. Oktober.</Unicode>
             <TableCell row="56" col="1" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" id="TableCell_1658213292697_7648">
                 <Coords points="1669,6534 1669,6575 1879,6575 1879,6534"/>
                 <TextLine id="TableCell_1658213292697_7648l0" custom="readingOrder {index:0;}">
-                    <Coords points="1677,6539 1678,6539 1810,6542 1810,6576 1704,6580 1677,6580"/>
+                    <Coords points="1677,6539 1810,6542 1810,6576 1704,6580 1677,6580"/>
                     <Baseline points="1705,6575 1802,6573"/>
                     <TextEquiv>
                         <Unicode>2000</Unicode>
@@ -15714,7 +15714,7 @@ Albingia: 1. Oktober.</Unicode>
             <TableCell row="57" col="2" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" id="TableCell_1658213286239_7630">
                 <Coords points="1879,6575 1879,6621 2520,6621 2520,6575"/>
                 <TextLine id="TableCell_1658213286239_7630l1" custom="readingOrder {index:0;}">
-                    <Coords points="1904,6582 2057,6577 2057,6577 2092,6577 2092,6621 2035,6621 1904,6615"/>
+                    <Coords points="1904,6582 2057,6577 2092,6577 2092,6621 2035,6621 1904,6615"/>
                     <Baseline points="1904,6615 2057,6615 2089,6615 2092,6615"/>
                     <TextEquiv>
                         <Unicode>181,5 à —</Unicode>
@@ -15758,7 +15758,7 @@ Albingia: 1. Oktober.</Unicode>
             <TableCell row="58" col="2" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" id="TableCell_1658213284550_7606">
                 <Coords points="1879,6621 1879,6665 2520,6665 2520,6621"/>
                 <TextLine id="TableCell_1658213284550_7606l1" custom="readingOrder {index:0;}">
-                    <Coords points="1903,6626 1981,6621 1981,6621 2057,6621 2057,6665 1969,6665 1903,6659"/>
+                    <Coords points="1903,6626 1981,6621 2057,6621 2057,6665 1969,6665 1903,6659"/>
                     <Baseline points="1903,6659 1981,6659 2001,6659 2026,6659 2054,6659 2057,6659"/>
                     <TextEquiv>
                         <Unicode>145 à —</Unicode>
@@ -15769,7 +15769,7 @@ Albingia: 1. Oktober.</Unicode>
             <TableCell row="58" col="3" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" id="TableCell_1658213284631_7612">
                 <Coords points="2520,6621 2520,6665 3153,6665 3152,6621"/>
                 <TextLine id="TableCell_1658213284631_7612l1" custom="readingOrder {index:0;}">
-                    <Coords points="2550,6623 2624,6621 2624,6621 2700,6621 2700,6665 2616,6665 2550,6656"/>
+                    <Coords points="2550,6623 2624,6621 2700,6621 2700,6665 2616,6665 2550,6656"/>
                     <Baseline points="2550,6656 2624,6656 2648,6657 2666,6657 2696,6657 2700,6657"/>
                     <TextEquiv>
                         <Unicode>145 à —</Unicode>
@@ -16208,7 +16208,7 @@ Albingia: 1. Oktober.</Unicode>
             <TableCell row="4" col="2" rowSpan="1" colSpan="1" id="TableCell_1658213792944_10584">
                 <Coords points="3981,3645 3981,3735 4622,3735 4622,3645"/>
                 <TextLine id="TableCell_1658213792944_10584l1" custom="readingOrder {index:0;}">
-                    <Coords points="4021,3647 4288,3645 4288,3645 4415,3645 4454,3647 4454,3682 4415,3691 4354,3691 4155,3688 4021,3682"/>
+                    <Coords points="4021,3647 4288,3645 4415,3645 4454,3647 4454,3682 4415,3691 4354,3691 4155,3688 4021,3682"/>
                     <Baseline points="4021,3682 4063,3682 4077,3682 4097,3682 4111,3682 4187,3682 4201,3682 4217,3682 4232,3682 4309,3682 4322,3682 4342,3682 4354,3682 4415,3682 4432,3682 4454,3682"/>
                     <TextEquiv>
                         <Unicode>52 à 49,5 à 50,5 à 50 ⅜ b</Unicode>
@@ -16226,7 +16226,7 @@ Albingia: 1. Oktober.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="TableCell_1658213793054_10590l2" custom="readingOrder {index:1;}">
-                    <Coords points="5127,3692 5143,3691 5170,3690 5170,3690 5255,3690 5255,3727 5205,3733 5190,3733 5127,3732"/>
+                    <Coords points="5127,3692 5143,3691 5170,3690 5255,3690 5255,3727 5205,3733 5190,3733 5127,3732"/>
                     <Baseline points="5127,3725 5205,3726 5221,3726 5255,3727"/>
                     <TextEquiv>
                         <Unicode>[51 ⅜ G</Unicode>
@@ -16380,7 +16380,7 @@ Albingia: 1. Oktober.</Unicode>
             <TableCell row="8" col="1" rowSpan="1" colSpan="1" id="TableCell_1658213773544_10482">
                 <Coords points="3763,3864 3763,3903 3981,3903 3981,3864"/>
                 <TextLine id="TableCell_1658213773544_10482l0" custom="readingOrder {index:0;}">
-                    <Coords points="3831,3868 3877,3867 3877,3867 3922,3867 3922,3900 3897,3901 3854,3901 3831,3900"/>
+                    <Coords points="3831,3868 3877,3867 3922,3867 3922,3900 3897,3901 3854,3901 3831,3900"/>
                     <Baseline points="3831,3900 3922,3900"/>
                     <TextEquiv>
                         <Unicode>2000</Unicode>
@@ -16798,7 +16798,7 @@ Albingia: 1. Oktober.</Unicode>
             <TableCell row="17" col="3" rowSpan="1" colSpan="1" id="TableCell_1658213751830_10278">
                 <Coords points="4622,4254 4622,4303 5292,4303 5292,4254"/>
                 <TextLine id="TableCell_1658213751830_10278l0" custom="readingOrder {index:0;}">
-                    <Coords points="4647,4254 4998,4254 5027,4298 5029,4298 4649,4298"/>
+                    <Coords points="4647,4254 4649,4298 5029,4298 4998,4254"/>
                     <Baseline points="4657,4290 4734,4290 4752,4290 4756,4290 4773,4290 4901,4290 4918,4290 4934,4290 4945,4289 4966,4289"/>
                     <TextEquiv>
                         <Unicode>110 à 108,5 à —</Unicode>
@@ -19052,7 +19052,7 @@ Albingia: 1. Oktober.</Unicode>
         <TextRegion type="header" id="r9" custom="readingOrder {index:19;} structure {type:header;}">
             <Coords points="6877,872 8209,872 8209,1002 6877,1002"/>
             <TextLine id="r9l1" custom="readingOrder {index:0;}">
-                <Coords points="6893,892 7041,872 7041,872 7222,872 7996,894 8186,917 8186,986 8131,999 7413,999 7041,992 6893,982"/>
+                <Coords points="6893,892 7041,872 7222,872 7996,894 8186,917 8186,986 8131,999 7413,999 7041,992 6893,982"/>
                 <Baseline points="6893,982 7222,981 7250,981 8186,986"/>
                 <TextEquiv>
                     <Unicode>Erſte Anzeigenbeilage</Unicode>
@@ -19065,7 +19065,7 @@ Albingia: 1. Oktober.</Unicode>
         <TextRegion type="header" id="r10" custom="readingOrder {index:20;} structure {type:header;}">
             <Coords points="5476,1002 9580,1002 9580,1160 5482,1138"/>
             <TextLine id="r10l1" custom="readingOrder {index:0;}">
-                <Coords points="5476,1014 5686,1012 6655,1008 8298,1002 8298,1002 9200,1002 9566,1033 9566,1139 9424,1151 9260,1158 5482,1138"/>
+                <Coords points="5476,1014 5686,1012 6655,1008 8298,1002 9200,1002 9566,1033 9566,1139 9424,1151 9260,1158 5482,1138"/>
                 <Baseline points="5490,1119 5686,1117 6362,1120 6387,1120 7444,1118 7470,1119 7625,1120 7728,1120 8491,1128 8576,1129 9566,1139"/>
                 <TextEquiv>
                     <Unicode>zum Deutſchen Reichsanzeiger und Preußiſchen Staatsanzeiger</Unicode>
@@ -19078,7 +19078,7 @@ Albingia: 1. Oktober.</Unicode>
         <TextRegion type="header" id="r11" custom="readingOrder {index:21;} structure {type:header;}">
             <Coords points="5443,1142 5984,1146 5986,1254 5443,1254"/>
             <TextLine id="r11l1" custom="readingOrder {index:0;}">
-                <Coords points="5457,1150 5947,1147 5947,1147 5984,1147 5985,1240 5938,1241 5685,1242 5555,1242 5457,1241"/>
+                <Coords points="5457,1150 5947,1147 5984,1147 5985,1240 5938,1241 5685,1242 5555,1242 5457,1241"/>
                 <Baseline points="5457,1241 5685,1242 5726,1240 5938,1240"/>
                 <TextEquiv>
                     <Unicode>Nr. 300.</Unicode>
@@ -19091,7 +19091,7 @@ Albingia: 1. Oktober.</Unicode>
         <TextRegion type="header" id="r12" custom="readingOrder {index:22;} structure {type:header;}">
             <Coords points="6832,1159 8121,1159 8121,1257 6828,1248"/>
             <TextLine id="r12l1" custom="readingOrder {index:0;}">
-                <Coords points="6832,1159 6832,1159 6915,1159 8019,1176 8038,1179 8096,1192 8096,1238 8019,1249 7897,1249 7180,1247 6875,1243 6828,1238"/>
+                <Coords points="6832,1159 6915,1159 8019,1176 8038,1179 8096,1192 8096,1238 8019,1249 7897,1249 7180,1247 6875,1243 6828,1238"/>
                 <Baseline points="6835,1227 7150,1234 7505,1234 7549,1234 7647,1234 7690,1234 7784,1235 7812,1235 8096,1237"/>
                 <TextEquiv>
                     <Unicode>Berlin, Donnerstag, den 22. Dezember</Unicode>
@@ -19124,7 +19124,7 @@ Albingia: 1. Oktober.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r14l2" custom="readingOrder {index:1;}">
-                <Coords points="5587,1479 5680,1459 5733,1456 5733,1456 6015,1456 6109,1476 6134,1520 6134,1545 5988,1561 5587,1561"/>
+                <Coords points="5587,1479 5680,1459 5733,1456 6015,1456 6109,1476 6134,1520 6134,1545 5988,1561 5587,1561"/>
                 <Baseline points="5587,1548 6134,1545"/>
                 <TextEquiv>
                     <Unicode>geſellſchaften.</Unicode>
@@ -19158,7 +19158,7 @@ geſellſchaften.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r16l2" custom="readingOrder {index:1;}">
-                <Coords points="5452,1632 5484,1631 6006,1629 6006,1629 6167,1629 6220,1630 6238,1633 6255,1655 6255,1666 6220,1672 6150,1674 5484,1674 5452,1666"/>
+                <Coords points="5452,1632 5484,1631 6006,1629 6167,1629 6220,1630 6238,1633 6255,1655 6255,1666 6220,1672 6150,1674 5484,1674 5452,1666"/>
                 <Baseline points="5452,1666 5826,1666 5846,1666 6255,1666"/>
                 <TextEquiv>
                     <Unicode>Maſchinenfabrik Aktiengeſellſchaft.</Unicode>
@@ -19193,21 +19193,21 @@ geſellſchaften.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r16l7" custom="readingOrder {index:6;}">
-                <Coords points="5456,1850 6024,1849 6024,1849 6207,1849 6255,1857 6255,1883 6047,1892 5470,1893 5456,1893"/>
+                <Coords points="5456,1850 6024,1849 6207,1849 6255,1857 6255,1883 6047,1892 5470,1893 5456,1893"/>
                 <Baseline points="5456,1884 5606,1883 5622,1883 5658,1883 5674,1883 5793,1883 5810,1883 5904,1883 5921,1884 6047,1883 6064,1883 6121,1883 6135,1883 6255,1883"/>
                 <TextEquiv>
                     <Unicode>führung iſt erfolgt durch Ankauf der Aktien</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r16l8" custom="readingOrder {index:7;}">
-                <Coords points="5454,1903 5570,1894 5570,1894 5726,1894 5891,1896 5891,1927 5471,1935 5454,1935"/>
+                <Coords points="5454,1903 5570,1894 5726,1894 5891,1896 5891,1927 5471,1935 5454,1935"/>
                 <Baseline points="5454,1926 5532,1926 5557,1927 5670,1927 5694,1927 5891,1927"/>
                 <TextEquiv>
                     <Unicode>zum vollen Nennwert.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r16l9" custom="readingOrder {index:8;}">
-                <Coords points="5503,1938 5820,1936 6225,1935 6225,1935 6254,1935 6254,1970 6033,1977 5638,1978 5618,1978 5503,1971"/>
+                <Coords points="5503,1938 5820,1936 6225,1935 6254,1935 6254,1970 6033,1977 5638,1978 5618,1978 5503,1971"/>
                 <Baseline points="5503,1971 5638,1970 5675,1970 5690,1970 5723,1969 5786,1969 5820,1969 5990,1969 6023,1970 6155,1970 6189,1970 6254,1970"/>
                 <TextEquiv>
                     <Unicode>Gemäß § 289 H.⸗G.⸗B. fordern wir</Unicode>
@@ -19260,7 +19260,7 @@ Der Vorſtand.</Unicode>
         <TextRegion id="r17" custom="readingOrder {index:27;} structure {type:reference;}">
             <Coords points="5452,2204 5621,2204 5621,2249 5452,2249"/>
             <TextLine id="r17l1" custom="readingOrder {index:0;}">
-                <Coords points="5455,2210 5472,2209 5472,2209 5535,2209 5598,2210 5615,2233 5615,2243 5598,2249 5455,2249"/>
+                <Coords points="5455,2210 5472,2209 5535,2209 5598,2210 5615,2233 5615,2243 5598,2249 5455,2249"/>
                 <Baseline points="5455,2240 5615,2243"/>
                 <TextEquiv>
                     <Unicode>[74301].</Unicode>
@@ -19273,7 +19273,7 @@ Der Vorſtand.</Unicode>
         <TextRegion type="heading" id="r18" custom="readingOrder {index:28;} structure {type:heading;}">
             <Coords points="5473,2293 6228,2293 6229,2251 5474,2251"/>
             <TextLine id="r18l1" custom="readingOrder {index:0;}">
-                <Coords points="5474,2251 5474,2251 5536,2251 6200,2253 6228,2272 6228,2293 5473,2293"/>
+                <Coords points="5474,2251 5536,2251 6200,2253 6228,2272 6228,2293 5473,2293"/>
                 <Baseline points="5486,2287 6221,2286"/>
                 <TextEquiv>
                     <Unicode>Bilanz per 30. September 1932.</Unicode>
@@ -19641,7 +19641,7 @@ Der Vorſtand.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r19l2" custom="readingOrder {index:1;}">
-                <Coords points="5562,3027 5657,3025 5657,3025 5708,3025 6109,3026 6125,3050 6125,3060 5984,3065 5562,3065"/>
+                <Coords points="5562,3027 5657,3025 5708,3025 6109,3026 6125,3050 6125,3060 5984,3065 5562,3065"/>
                 <Baseline points="5562,3059 5633,3059 5657,3059 5724,3059 5745,3060 5986,3060 6007,3060 6125,3060"/>
                 <TextEquiv>
                     <Unicode>per 30. September 1932.</Unicode>
@@ -20062,7 +20062,7 @@ Bilanz per 31. Dezember 1931.</Unicode>
             <TableCell row="2" col="1" rowSpan="1" colSpan="1" id="TableCell_1658214415633_11529">
                 <Coords points="5970,4185 5970,4230 6175,4230 6175,4185"/>
                 <TextLine id="TableCell_1658214415633_11529l0" custom="readingOrder {index:0;}">
-                    <Coords points="6029,4190 6129,4189 6129,4189 6171,4189 6171,4221 6093,4222 6029,4222"/>
+                    <Coords points="6029,4190 6129,4189 6171,4189 6171,4221 6093,4222 6029,4222"/>
                     <Baseline points="6029,4222 6093,4222 6108,4221 6171,4221"/>
                     <TextEquiv>
                         <Unicode>298 600</Unicode>
@@ -20468,7 +20468,7 @@ Bilanz per 31. Dezember 1931.</Unicode>
             <TableCell row="16" col="1" rowSpan="1" colSpan="1" id="TableCell_1658214385194_11277">
                 <Coords points="5970,4931 5970,5016 6175,5016 6175,4931"/>
                 <TextLine id="TableCell_1658214385194_11277l0" custom="readingOrder {index:0;}">
-                    <Coords points="6022,4977 6066,4972 6066,4972 6168,4972 6168,5016 6060,5016 6022,5009"/>
+                    <Coords points="6022,4977 6066,4972 6168,4972 6168,5016 6060,5016 6022,5009"/>
                     <Baseline points="6022,5009 6086,5009 6104,5008 6168,5008"/>
                     <TextEquiv>
                         <Unicode>700 000</Unicode>
@@ -20979,7 +20979,7 @@ Bilanz per 31. Dezember 1931.</Unicode>
             <TableCell row="6" col="1" rowSpan="1" colSpan="1" id="TableCell_1658214489410_11768">
                 <Coords points="5956,5884 5956,5927 6163,5927 6163,5884"/>
                 <TextLine id="TableCell_1658214489410_11768l0" custom="readingOrder {index:0;}">
-                    <Coords points="6035,5886 6057,5885 6057,5885 6156,5885 6156,5917 6115,5917 6057,5916 6035,5915"/>
+                    <Coords points="6035,5886 6057,5885 6156,5885 6156,5917 6115,5917 6057,5916 6035,5915"/>
                     <Baseline points="6035,5915 6078,5916 6092,5916 6156,5917"/>
                     <TextEquiv>
                         <Unicode>63 924</Unicode>
@@ -21409,21 +21409,21 @@ Der Vorſtand. H. Weiſſing.</Unicode>
         <TextRegion type="paragraph" id="r26" custom="readingOrder {index:40;} structure {type:paragraph;}">
             <Coords points="6283,1384 6450,1388 6454,1385 6456,1339 7090,1339 7078,2837 6283,2837"/>
             <TextLine id="r26l1" custom="readingOrder {index:0;}">
-                <Coords points="6467,1343 6544,1339 6544,1339 6571,1339 6906,1343 6958,1352 6958,1380 6906,1387 6571,1389 6544,1389 6467,1379"/>
+                <Coords points="6467,1343 6544,1339 6571,1339 6906,1343 6958,1352 6958,1380 6906,1387 6571,1389 6544,1389 6467,1379"/>
                 <Baseline points="6470,1378 6685,1379 6958,1380"/>
                 <TextEquiv>
                     <Unicode>Brauerei Warthauſen</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r26l2" custom="readingOrder {index:1;}">
-                <Coords points="6293,1391 6461,1387 6461,1387 7054,1387 7077,1412 7077,1432 7027,1432 6527,1429 6293,1424"/>
+                <Coords points="6293,1391 6461,1387 7054,1387 7077,1412 7077,1432 7027,1432 6527,1429 6293,1424"/>
                 <Baseline points="6293,1424 6424,1423 6461,1423 6598,1423 6636,1423 6723,1423 6761,1423 6877,1424 6929,1424 7077,1425"/>
                 <TextEquiv>
                     <Unicode>vorm. Neher und Sohn A.⸗G.,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r26l3" custom="readingOrder {index:2;}">
-                <Coords points="6541,1431 6573,1430 6573,1430 6764,1430 6828,1438 6828,1467 6764,1474 6573,1474 6541,1466"/>
+                <Coords points="6541,1431 6573,1430 6764,1430 6828,1438 6828,1467 6764,1474 6573,1474 6541,1466"/>
                 <Baseline points="6541,1466 6828,1467"/>
                 <TextEquiv>
                     <Unicode>Warthauſen.</Unicode>
@@ -21437,14 +21437,14 @@ Der Vorſtand. H. Weiſſing.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r26l5" custom="readingOrder {index:4;}">
-                <Coords points="6291,1524 6354,1520 6519,1519 6519,1519 7043,1519 7074,1528 7074,1563 6881,1563 6584,1561 6460,1560 6291,1552"/>
+                <Coords points="6291,1524 6354,1520 6519,1519 7043,1519 7074,1528 7074,1563 6881,1563 6584,1561 6460,1560 6291,1552"/>
                 <Baseline points="6294,1552 6427,1552 6451,1552 6615,1552 6636,1552 6674,1552 6700,1553 6758,1553 6779,1553 6831,1554 6852,1554 7074,1556"/>
                 <TextEquiv>
                     <Unicode>werden hierdurch zu der am Dienstag,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r26l6" custom="readingOrder {index:5;}">
-                <Coords points="6293,1562 6473,1561 6473,1561 6503,1561 6744,1562 6957,1563 7075,1565 7075,1598 7047,1607 6883,1607 6473,1604 6293,1597"/>
+                <Coords points="6293,1562 6473,1561 6503,1561 6744,1562 6957,1563 7075,1565 7075,1598 7047,1607 6883,1607 6473,1604 6293,1597"/>
                 <Baseline points="6293,1597 6370,1597 6395,1597 6459,1597 6473,1597 6642,1597 6664,1597 6784,1597 6804,1598 7075,1598"/>
                 <TextEquiv>
                     <Unicode>den 10. Januar 1933, nachmittags</Unicode>
@@ -21458,7 +21458,7 @@ Der Vorſtand. H. Weiſſing.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r26l8" custom="readingOrder {index:7;}">
-                <Coords points="6293,1653 6308,1650 6308,1650 7023,1650 7075,1658 7075,1687 7023,1694 6896,1694 6354,1690 6293,1689"/>
+                <Coords points="6293,1653 6308,1650 7023,1650 7075,1658 7075,1687 7023,1694 6896,1694 6354,1690 6293,1689"/>
                 <Baseline points="6293,1683 6389,1683 6423,1683 6674,1684 6709,1685 6775,1685 6805,1686 7075,1687"/>
                 <TextEquiv>
                     <Unicode>(Riß) ſtattfindenden 28. ordentlichen</Unicode>
@@ -21479,7 +21479,7 @@ Der Vorſtand. H. Weiſſing.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r26l11" custom="readingOrder {index:10;}">
-                <Coords points="6321,1781 6382,1780 6382,1780 6428,1780 7037,1781 7074,1791 7074,1817 6961,1825 6653,1825 6409,1823 6321,1814"/>
+                <Coords points="6321,1781 6382,1780 6428,1780 7037,1781 7074,1791 7074,1817 6961,1825 6653,1825 6409,1823 6321,1814"/>
                 <Baseline points="6321,1814 6351,1814 6382,1814 6526,1815 6562,1815 6619,1816 6653,1816 6961,1816 6994,1816 7074,1817"/>
                 <TextEquiv>
                     <Unicode>1. Vorlage des Geſchäftsberichts über</Unicode>
@@ -21514,7 +21514,7 @@ Der Vorſtand. H. Weiſſing.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r26l16" custom="readingOrder {index:15;}">
-                <Coords points="6377,2007 6443,2001 6443,2001 6472,2001 6829,2002 6899,2004 6899,2035 6811,2043 6523,2043 6388,2034 6377,2033"/>
+                <Coords points="6377,2007 6443,2001 6472,2001 6829,2002 6899,2004 6899,2035 6811,2043 6523,2043 6388,2034 6377,2033"/>
                 <Baseline points="6377,2033 6542,2034 6566,2035 6623,2035 6644,2035 6899,2034"/>
                 <TextEquiv>
                     <Unicode>wendung des Reingewinns.</Unicode>
@@ -21542,7 +21542,7 @@ Der Vorſtand. H. Weiſſing.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r26l20" custom="readingOrder {index:19;}">
-                <Coords points="6328,2175 6849,2173 6849,2173 6999,2173 7070,2183 7070,2207 6660,2217 6487,2217 6328,2208"/>
+                <Coords points="6328,2175 6849,2173 6999,2173 7070,2183 7070,2207 6660,2217 6487,2217 6328,2208"/>
                 <Baseline points="6328,2207 6514,2209 6546,2209 6660,2209 6691,2209 6738,2209 6766,2208 6818,2208 6849,2209 7070,2207"/>
                 <TextEquiv>
                     <Unicode>Aktionäre, welche an der Generalver⸗</Unicode>
@@ -21556,7 +21556,7 @@ Der Vorſtand. H. Weiſſing.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r26l22" custom="readingOrder {index:21;}">
-                <Coords points="6284,2262 6924,2261 6924,2261 6998,2261 7070,2264 7070,2295 6998,2303 6575,2304 6517,2304 6421,2303 6284,2294"/>
+                <Coords points="6284,2262 6924,2261 6998,2261 7070,2264 7070,2295 6998,2303 6575,2304 6517,2304 6421,2303 6284,2294"/>
                 <Baseline points="6284,2294 6398,2295 6421,2295 6536,2295 6559,2295 6575,2295 6594,2295 6634,2296 6653,2296 6713,2297 6737,2297 6873,2297 6894,2296 7070,2295"/>
                 <TextEquiv>
                     <Unicode>Aktien gemäß § 22 des Statuts ſpäteſtens</Unicode>
@@ -21570,14 +21570,14 @@ Der Vorſtand. H. Weiſſing.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r26l24" custom="readingOrder {index:23;}">
-                <Coords points="6325,2349 6696,2348 6696,2348 6993,2348 7069,2350 7069,2384 6919,2391 6777,2392 6696,2392 6325,2383"/>
+                <Coords points="6325,2349 6696,2348 6993,2348 7069,2350 7069,2384 6919,2391 6777,2392 6696,2392 6325,2383"/>
                 <Baseline points="6325,2383 6377,2382 6401,2382 6456,2383 6478,2383 6649,2383 6672,2383 6777,2383 6800,2383 6919,2384 6957,2384 7069,2384"/>
                 <TextEquiv>
                     <Unicode>bei der Dresdner Bank, Filiale Stutt⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r26l25" custom="readingOrder {index:24;}">
-                <Coords points="6374,2402 6389,2396 6389,2396 6457,2396 6457,2434 6374,2434"/>
+                <Coords points="6374,2402 6389,2396 6457,2396 6457,2434 6374,2434"/>
                 <Baseline points="6374,2426 6457,2426"/>
                 <TextEquiv>
                     <Unicode>gart,</Unicode>
@@ -21626,7 +21626,7 @@ Der Vorſtand. H. Weiſſing.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r26l32" custom="readingOrder {index:31;}">
-                <Coords points="6284,2707 6304,2697 6304,2697 6942,2697 6986,2708 6986,2732 6942,2740 6772,2740 6284,2731"/>
+                <Coords points="6284,2707 6304,2697 6942,2697 6986,2708 6986,2732 6942,2740 6772,2740 6284,2731"/>
                 <Baseline points="6284,2731 6361,2731 6383,2731 6434,2731 6455,2731 6563,2732 6585,2732 6690,2732 6712,2732 6751,2732 6772,2732 6986,2731"/>
                 <TextEquiv>
                     <Unicode>oder bei einem Notar zu hinterlegen.</Unicode>
@@ -21640,7 +21640,7 @@ Der Vorſtand. H. Weiſſing.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r26l34" custom="readingOrder {index:33;}">
-                <Coords points="6507,2786 6634,2785 6634,2785 6832,2785 6832,2822 6805,2828 6634,2828 6507,2821"/>
+                <Coords points="6507,2786 6634,2785 6832,2785 6832,2822 6805,2828 6634,2828 6507,2821"/>
                 <Baseline points="6507,2821 6588,2821 6614,2821 6832,2822"/>
                 <TextEquiv>
                     <Unicode>Der Vorſtand.</Unicode>
@@ -21699,21 +21699,21 @@ Der Vorſtand.</Unicode>
         <TextRegion type="paragraph" id="r28" custom="readingOrder {index:42;} structure {type:paragraph;}">
             <Coords points="6272,2917 7076,2915 7076,3354 6273,3354"/>
             <TextLine id="r28l1" custom="readingOrder {index:0;}">
-                <Coords points="6302,2916 7037,2915 7037,2915 7037,2957 7015,2958 6813,2958 6468,2957 6302,2950"/>
+                <Coords points="6302,2916 7037,2915 7037,2957 7015,2958 6813,2958 6468,2957 6302,2950"/>
                 <Baseline points="6302,2950 6439,2952 6468,2952 6644,2951 6671,2951 7037,2951"/>
                 <TextEquiv>
                     <Unicode>Oscar Dörffler Aktiengeſellſchaft</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r28l2" custom="readingOrder {index:1;}">
-                <Coords points="6470,2961 6587,2959 6587,2959 6786,2959 6872,2960 6872,3000 6845,3000 6531,2995 6496,2994 6470,2993"/>
+                <Coords points="6470,2961 6587,2959 6786,2959 6872,2960 6872,3000 6845,3000 6531,2995 6496,2994 6470,2993"/>
                 <Baseline points="6470,2993 6506,2994 6531,2994 6668,2994 6694,2994 6720,2994 6744,2994 6872,2995"/>
                 <TextEquiv>
                     <Unicode>in Bünde i. Weſtf.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r28l3" custom="readingOrder {index:2;}">
-                <Coords points="6298,3004 6330,3003 6330,3003 6957,3003 7041,3013 7041,3047 6982,3051 6636,3051 6298,3039"/>
+                <Coords points="6298,3004 6330,3003 6957,3003 7041,3013 7041,3047 6982,3051 6636,3051 6298,3039"/>
                 <Baseline points="6298,3039 6498,3039 6529,3039 6590,3039 6619,3039 7041,3039"/>
                 <TextEquiv>
                     <Unicode>Einladung zur Generalverſammlung.</Unicode>
@@ -21734,7 +21734,7 @@ Der Vorſtand.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r28l6" custom="readingOrder {index:5;}">
-                <Coords points="6278,3143 6303,3134 6303,3134 7060,3134 7060,3171 6751,3176 6404,3176 6278,3168"/>
+                <Coords points="6278,3143 6303,3134 7060,3134 7060,3171 6751,3176 6404,3176 6278,3168"/>
                 <Baseline points="6278,3168 6414,3168 6468,3168 6536,3168 6596,3168 6661,3168 6716,3168 6876,3169 6935,3168 7060,3171"/>
                 <TextEquiv>
                     <Unicode>abend, den 14. Januar 1933,</Unicode>
@@ -21762,7 +21762,7 @@ Der Vorſtand.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r28l10" custom="readingOrder {index:9;}">
-                <Coords points="6278,3309 6299,3307 6299,3307 6343,3307 6948,3309 6971,3319 6971,3343 6876,3353 6790,3354 6463,3354 6299,3350 6278,3342"/>
+                <Coords points="6278,3309 6299,3307 6343,3307 6948,3309 6971,3319 6971,3343 6876,3353 6790,3354 6463,3354 6299,3350 6278,3342"/>
                 <Baseline points="6278,3342 6393,3342 6423,3342 6876,3343 6902,3343 6971,3343"/>
                 <TextEquiv>
                     <Unicode>lichen Generalverſammlung ein.</Unicode>
@@ -21812,7 +21812,7 @@ lichen Generalverſammlung ein.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r29l5" custom="readingOrder {index:4;}">
-                <Coords points="6363,3536 6415,3529 6462,3527 6462,3527 6674,3527 6780,3537 6780,3572 6462,3572 6363,3561"/>
+                <Coords points="6363,3536 6415,3529 6462,3527 6674,3527 6780,3537 6780,3572 6462,3572 6363,3561"/>
                 <Baseline points="6363,3561 6432,3562 6462,3562 6780,3561"/>
                 <TextEquiv>
                     <Unicode>und Verluſtrechnung.</Unicode>
@@ -21861,7 +21861,7 @@ lichen Generalverſammlung ein.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r29l12" custom="readingOrder {index:11;}">
-                <Coords points="6358,3841 6382,3833 6415,3831 6415,3831 6424,3831 6477,3842 6477,3867 6459,3867 6382,3866 6358,3865"/>
+                <Coords points="6358,3841 6382,3833 6415,3831 6424,3831 6477,3842 6477,3867 6459,3867 6382,3866 6358,3865"/>
                 <Baseline points="6358,3865 6477,3867"/>
                 <TextEquiv>
                     <Unicode>aktien.</Unicode>
@@ -21882,7 +21882,7 @@ lichen Generalverſammlung ein.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r29l15" custom="readingOrder {index:14;}">
-                <Coords points="6356,3960 6716,3959 6716,3959 6749,3959 6970,3960 7027,3962 7055,3966 7055,3996 6970,4003 6911,4004 6897,4004 6379,4003 6356,4002"/>
+                <Coords points="6356,3960 6716,3959 6749,3959 6970,3960 7027,3962 7055,3966 7055,3996 6970,4003 6911,4004 6897,4004 6379,4003 6356,4002"/>
                 <Baseline points="6356,3995 6599,3995 6626,3996 6683,3996 6716,3996 6970,3996 6998,3996 7055,3995"/>
                 <TextEquiv>
                     <Unicode>Herabſetzung der Stimmenzahl der</Unicode>
@@ -21896,7 +21896,7 @@ lichen Generalverſammlung ein.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r29l17" custom="readingOrder {index:16;}">
-                <Coords points="6356,4053 6393,4047 6613,4045 6613,4045 6641,4045 6793,4046 6838,4047 6877,4056 6877,4081 6495,4083 6486,4083 6393,4081 6356,4080"/>
+                <Coords points="6356,4053 6393,4047 6613,4045 6641,4045 6793,4046 6838,4047 6877,4056 6877,4081 6495,4083 6486,4083 6393,4081 6356,4080"/>
                 <Baseline points="6356,4080 6421,4081 6446,4081 6495,4082 6522,4081 6584,4081 6613,4081 6877,4080"/>
                 <TextEquiv>
                     <Unicode>wie bei den Stammaktien.</Unicode>
@@ -21917,7 +21917,7 @@ lichen Generalverſammlung ein.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r29l20" custom="readingOrder {index:19;}">
-                <Coords points="6398,4188 6422,4178 6453,4177 6671,4176 6671,4176 6984,4176 7049,4177 7049,4211 6984,4219 6544,4224 6512,4224 6422,4215 6398,4210"/>
+                <Coords points="6398,4188 6422,4178 6453,4177 6671,4176 6984,4176 7049,4177 7049,4211 6984,4219 6544,4224 6512,4224 6422,4215 6398,4210"/>
                 <Baseline points="6398,4210 6433,4210 6453,4210 6492,4210 6512,4210 6563,4210 6584,4211 6632,4211 6651,4211 6702,4211 6725,4211 6774,4211 6793,4211 6840,4210 6864,4211 7049,4211"/>
                 <TextEquiv>
                     <Unicode>a) §§ 14, 16, 20, 26, 30, betreffend</Unicode>
@@ -21931,7 +21931,7 @@ lichen Generalverſammlung ein.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r29l22" custom="readingOrder {index:21;}">
-                <Coords points="6356,4273 6394,4265 6482,4263 6700,4262 6700,4262 6780,4262 6931,4267 6946,4276 6946,4302 6780,4307 6482,4307 6356,4298"/>
+                <Coords points="6356,4273 6394,4265 6482,4263 6700,4262 6780,4262 6931,4267 6946,4276 6946,4302 6780,4307 6482,4307 6356,4298"/>
                 <Baseline points="6356,4297 6424,4298 6482,4298 6579,4299 6602,4299 6657,4300 6682,4300 6946,4298"/>
                 <TextEquiv>
                     <Unicode>und Bezüge des Aufſichtsrats;</Unicode>
@@ -21945,21 +21945,21 @@ lichen Generalverſammlung ein.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r29l24" custom="readingOrder {index:23;}">
-                <Coords points="6355,4353 6420,4351 6420,4351 6830,4351 6901,4353 6901,4391 6816,4394 6664,4394 6395,4393 6355,4386"/>
+                <Coords points="6355,4353 6420,4351 6830,4351 6901,4353 6901,4391 6816,4394 6664,4394 6395,4393 6355,4386"/>
                 <Baseline points="6355,4385 6480,4385 6505,4385 6574,4386 6600,4386 6901,4385"/>
                 <TextEquiv>
                     <Unicode>kapital und Vorzugskapital;</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r29l25" custom="readingOrder {index:24;}">
-                <Coords points="6397,4407 6417,4397 6469,4395 6620,4394 6937,4393 6937,4393 6976,4393 6996,4394 7050,4403 7050,4428 6804,4437 6524,4437 6417,4436 6397,4429"/>
+                <Coords points="6397,4407 6417,4397 6469,4395 6620,4394 6937,4393 6976,4393 6996,4394 7050,4403 7050,4428 6804,4437 6524,4437 6417,4436 6397,4429"/>
                 <Baseline points="6397,4428 6428,4429 6469,4429 6486,4429 6524,4429 6579,4429 6620,4430 6804,4430 6841,4430 6897,4431 6937,4430 7050,4428"/>
                 <TextEquiv>
                     <Unicode>c) § 23, betreffend die Stim⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r29l26" custom="readingOrder {index:25;}">
-                <Coords points="6354,4447 6473,4438 6473,4438 6515,4438 6515,4474 6493,4479 6429,4479 6354,4472"/>
+                <Coords points="6354,4447 6473,4438 6515,4438 6515,4474 6493,4479 6429,4479 6354,4472"/>
                 <Baseline points="6354,4472 6515,4474"/>
                 <TextEquiv>
                     <Unicode>menzahl.</Unicode>
@@ -22004,14 +22004,14 @@ menzahl.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r30l2" custom="readingOrder {index:1;}">
-                <Coords points="6265,4527 6286,4526 6408,4525 6408,4525 6842,4525 7049,4530 7049,4561 6842,4567 6673,4568 6463,4568 6265,4558"/>
+                <Coords points="6265,4527 6286,4526 6408,4525 6842,4525 7049,4530 7049,4561 6842,4567 6673,4568 6463,4568 6265,4558"/>
                 <Baseline points="6265,4557 6673,4560 6722,4559 6927,4560 6982,4560 7049,4561"/>
                 <TextEquiv>
                     <Unicode>Generalverſammlung teilnehmen und</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r30l3" custom="readingOrder {index:2;}">
-                <Coords points="6264,4570 6350,4568 6350,4568 6962,4568 7005,4572 7048,4578 7048,4604 6962,4611 6942,4611 6529,4608 6308,4605 6264,4602"/>
+                <Coords points="6264,4570 6350,4568 6962,4568 7005,4572 7048,4578 7048,4604 6962,4611 6942,4611 6529,4608 6308,4605 6264,4602"/>
                 <Baseline points="6264,4602 6324,4603 6350,4603 6575,4603 6601,4603 6760,4604 6785,4604 6917,4603 6942,4603 7048,4603"/>
                 <TextEquiv>
                     <Unicode>das Stimmrecht ausüben wollen, haben</Unicode>
@@ -22060,7 +22060,7 @@ menzahl.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r30l10" custom="readingOrder {index:9;}">
-                <Coords points="6263,4879 6369,4874 6414,4873 6414,4873 6568,4873 6921,4874 7002,4875 7045,4884 7045,4908 7002,4917 6471,4917 6414,4916 6263,4909"/>
+                <Coords points="6263,4879 6369,4874 6414,4873 6568,4873 6921,4874 7002,4875 7045,4884 7045,4908 7002,4917 6471,4917 6414,4916 6263,4909"/>
                 <Baseline points="6263,4909 6316,4909 6356,4908 6568,4910 6606,4909 6766,4909 6800,4910 6858,4909 6898,4909 7045,4908"/>
                 <TextEquiv>
                     <Unicode>der Geſellſchaft während der üblichen</Unicode>
@@ -22109,7 +22109,7 @@ menzahl.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r30l17" custom="readingOrder {index:16;}">
-                <Coords points="6259,5186 6338,5181 6407,5179 6407,5179 7042,5179 7042,5217 6811,5224 6759,5224 6338,5216 6259,5214"/>
+                <Coords points="6259,5186 6338,5181 6407,5179 7042,5179 7042,5217 6811,5224 6759,5224 6338,5216 6259,5214"/>
                 <Baseline points="6259,5214 6374,5214 6407,5214 6442,5214 6473,5215 6629,5215 6658,5215 6729,5216 6759,5216 6854,5216 6886,5216 6964,5216 6993,5216 7042,5213"/>
                 <TextEquiv>
                     <Unicode>verein in Barmen und Eſſen oder bei</Unicode>
@@ -22158,7 +22158,7 @@ menzahl.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r30l24" custom="readingOrder {index:23;}">
-                <Coords points="6257,5494 6302,5485 6302,5485 7041,5485 7041,5529 6962,5530 6871,5531 6478,5531 6302,5528 6257,5519"/>
+                <Coords points="6257,5494 6302,5485 7041,5485 7041,5529 6962,5530 6871,5531 6478,5531 6302,5528 6257,5519"/>
                 <Baseline points="6257,5519 6331,5520 6366,5521 6427,5521 6460,5521 6871,5521 6908,5521 7041,5520"/>
                 <TextEquiv>
                     <Unicode>nach der Generalverſammlung daſelbſt</Unicode>
@@ -22172,7 +22172,7 @@ menzahl.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r30l26" custom="readingOrder {index:25;}">
-                <Coords points="6256,5574 6533,5572 6533,5572 6630,5572 6940,5573 6997,5576 7041,5581 7041,5607 6982,5617 6361,5617 6256,5607"/>
+                <Coords points="6256,5574 6533,5572 6630,5572 6940,5573 6997,5576 7041,5581 7041,5607 6982,5617 6361,5617 6256,5607"/>
                 <Baseline points="6256,5607 6503,5609 6533,5609 6651,5608 6680,5608 6748,5608 6776,5608 6815,5608 6841,5608 6900,5608 6931,5608 7041,5607"/>
                 <TextEquiv>
                     <Unicode>kanntgegeben haben, daß ſie am letzten</Unicode>
@@ -22186,7 +22186,7 @@ menzahl.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r30l28" custom="readingOrder {index:27;}">
-                <Coords points="6255,5670 6279,5661 6522,5660 6774,5659 6774,5659 6949,5659 7021,5661 7040,5668 7040,5695 6949,5705 6774,5705 6255,5701"/>
+                <Coords points="6255,5670 6279,5661 6522,5660 6774,5659 6949,5659 7021,5661 7040,5668 7040,5695 6949,5705 6774,5705 6255,5701"/>
                 <Baseline points="6255,5695 6316,5695 6365,5696 6424,5696 6466,5696 6587,5696 6633,5696 6728,5696 6774,5696 7040,5695"/>
                 <TextEquiv>
                     <Unicode>gilt der dieſem Tage vorhergehende</Unicode>
@@ -22207,7 +22207,7 @@ menzahl.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r30l31" custom="readingOrder {index:30;}">
-                <Coords points="6254,5800 6289,5792 6719,5791 6719,5791 6750,5791 7038,5792 7038,5827 6954,5829 6369,5839 6350,5839 6312,5836 6254,5826"/>
+                <Coords points="6254,5800 6289,5792 6719,5791 6750,5791 7038,5792 7038,5827 6954,5829 6369,5839 6350,5839 6312,5836 6254,5826"/>
                 <Baseline points="6254,5826 6369,5827 6408,5828 6531,5827 6583,5827 6679,5828 6719,5828 6836,5829 6876,5829 6954,5829 7012,5827 7038,5826"/>
                 <TextEquiv>
                     <Unicode>mäßig erfolgt, wenn Aktien oder die</Unicode>
@@ -22221,7 +22221,7 @@ menzahl.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r30l33" custom="readingOrder {index:32;}">
-                <Coords points="6252,5887 6393,5881 6482,5878 6482,5878 6858,5878 7038,5879 7038,5914 7009,5924 6858,5925 6482,5925 6325,5923 6252,5914"/>
+                <Coords points="6252,5887 6393,5881 6482,5878 6858,5878 7038,5879 7038,5914 7009,5924 6858,5925 6482,5925 6325,5923 6252,5914"/>
                 <Baseline points="6252,5913 6358,5914 6393,5914 6452,5915 6482,5915 6869,5916 6925,5916 6965,5917 6997,5915 7038,5914"/>
                 <TextEquiv>
                     <Unicode>mung der Hinterlegungsſtellen für ſie</Unicode>
@@ -22263,7 +22263,7 @@ menzahl.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r30l39" custom="readingOrder {index:38;}">
-                <Coords points="6251,6151 6287,6142 6449,6141 6449,6141 6751,6141 7035,6143 7035,6185 6751,6186 6519,6186 6298,6185 6251,6176"/>
+                <Coords points="6251,6151 6287,6142 6449,6141 6751,6141 7035,6143 7035,6185 6751,6186 6519,6186 6298,6185 6251,6176"/>
                 <Baseline points="6251,6176 6378,6178 6425,6177 6474,6177 6519,6177 6751,6179 6793,6179 6915,6178 6960,6177 7035,6176"/>
                 <TextEquiv>
                     <Unicode>müſſen die hinterlegten Aktien nach</Unicode>
@@ -22284,14 +22284,14 @@ menzahl.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r30l42" custom="readingOrder {index:41;}">
-                <Coords points="6248,6282 6291,6273 6291,6273 6321,6273 7035,6275 7035,6307 6954,6318 6911,6318 6403,6317 6327,6316 6248,6308"/>
+                <Coords points="6248,6282 6291,6273 6321,6273 7035,6275 7035,6307 6954,6318 6911,6318 6403,6317 6327,6316 6248,6308"/>
                 <Baseline points="6248,6307 6420,6308 6454,6308 6507,6309 6541,6309 6954,6309 6984,6309 7035,6307"/>
                 <TextEquiv>
                     <Unicode>endigung der Generalverſammlung bei</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r30l43" custom="readingOrder {index:42;}">
-                <Coords points="6248,6317 6411,6315 6411,6315 6419,6315 6608,6316 6943,6318 7034,6328 7034,6362 6925,6362 6372,6360 6248,6351"/>
+                <Coords points="6248,6317 6411,6315 6419,6315 6608,6316 6943,6318 7034,6328 7034,6362 6925,6362 6372,6360 6248,6351"/>
                 <Baseline points="6248,6351 6307,6351 6331,6351 6555,6352 6578,6352 6713,6353 6737,6354 6772,6354 6792,6354 7034,6352"/>
                 <TextEquiv>
                     <Unicode>den bezeichneten Stellen in Verwahrung</Unicode>
@@ -22326,14 +22326,14 @@ menzahl.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r30l48" custom="readingOrder {index:47;}">
-                <Coords points="6243,6542 6296,6535 6296,6535 6534,6535 6942,6536 7006,6537 7032,6547 7032,6571 6974,6579 6906,6580 6796,6580 6406,6579 6329,6578 6243,6569"/>
+                <Coords points="6243,6542 6296,6535 6534,6535 6942,6536 7006,6537 7032,6547 7032,6571 6974,6579 6906,6580 6796,6580 6406,6579 6329,6578 6243,6569"/>
                 <Baseline points="6243,6569 6534,6571 6568,6571 6622,6571 6653,6572 7032,6571"/>
                 <TextEquiv>
                     <Unicode>terlegungsſtelle ein Hinterlegungsſchein</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r30l49" custom="readingOrder {index:48;}">
-                <Coords points="6243,6588 6291,6582 6341,6579 6341,6579 6479,6579 6943,6580 7012,6581 7031,6589 7031,6614 6943,6621 6896,6624 6852,6624 6341,6623 6311,6622 6243,6612"/>
+                <Coords points="6243,6588 6291,6582 6341,6579 6479,6579 6943,6580 7012,6581 7031,6589 7031,6614 6943,6621 6896,6624 6852,6624 6341,6623 6311,6622 6243,6612"/>
                 <Baseline points="6243,6612 6479,6615 6513,6615 6550,6615 6586,6615 6740,6615 6771,6615 6818,6616 6852,6616 6943,6615 6977,6615 7031,6614"/>
                 <TextEquiv>
                     <Unicode>auszuſtellen, in welchem die Zahl der</Unicode>
@@ -22361,7 +22361,7 @@ menzahl.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r30l53" custom="readingOrder {index:52;}">
-                <Coords points="6240,6761 6284,6753 6284,6753 6613,6753 6684,6760 6684,6791 6556,6793 6387,6793 6339,6792 6240,6785"/>
+                <Coords points="6240,6761 6284,6753 6613,6753 6684,6760 6684,6791 6556,6793 6387,6793 6339,6792 6240,6785"/>
                 <Baseline points="6240,6785 6556,6789 6584,6789 6684,6790"/>
                 <TextEquiv>
                     <Unicode>ralverſammlung dient.</Unicode>
@@ -22450,7 +22450,7 @@ Der Aufſichtsrat: Gluud, Vorſitzender.</Unicode>
         <TextRegion id="r31" custom="readingOrder {index:45;} structure {type:reference;}">
             <Coords points="7111,1337 7281,1337 7278,1384 7110,1385"/>
             <TextLine id="r31l1" custom="readingOrder {index:0;}">
-                <Coords points="7116,1346 7195,1345 7195,1345 7280,1345 7278,1384 7116,1385"/>
+                <Coords points="7116,1346 7195,1345 7280,1345 7278,1384 7116,1385"/>
                 <Baseline points="7116,1374 7278,1374"/>
                 <TextEquiv>
                     <Unicode>[74524].</Unicode>
@@ -22526,7 +22526,7 @@ Der Aufſichtsrat: Gluud, Vorſitzender.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r32l10" custom="readingOrder {index:9;}">
-                <Coords points="7109,1746 7206,1738 7206,1738 7226,1738 7287,1741 7287,1773 7260,1780 7242,1780 7206,1778 7130,1772 7109,1770"/>
+                <Coords points="7109,1746 7206,1738 7226,1738 7287,1741 7287,1773 7260,1780 7242,1780 7206,1778 7130,1772 7109,1770"/>
                 <Baseline points="7109,1770 7287,1772"/>
                 <TextEquiv>
                     <Unicode>ermäßigt.</Unicode>
@@ -22540,7 +22540,7 @@ Der Aufſichtsrat: Gluud, Vorſitzender.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r32l12" custom="readingOrder {index:11;}">
-                <Coords points="7109,1834 7158,1826 7272,1825 7272,1825 7362,1825 7826,1828 7907,1829 7907,1862 7826,1870 7799,1870 7468,1868 7172,1866 7158,1865 7109,1859"/>
+                <Coords points="7109,1834 7158,1826 7272,1825 7362,1825 7826,1828 7907,1829 7907,1862 7826,1870 7799,1870 7468,1868 7172,1866 7158,1865 7109,1859"/>
                 <Baseline points="7109,1859 7181,1859 7202,1859 7252,1859 7272,1859 7437,1861 7456,1861 7542,1861 7567,1861 7680,1861 7701,1862 7779,1861 7799,1861 7907,1862"/>
                 <TextEquiv>
                     <Unicode>auf, die Mäntel ihrer Stücke zum Zweck</Unicode>
@@ -22575,14 +22575,14 @@ Der Aufſichtsrat: Gluud, Vorſitzender.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r32l17" custom="readingOrder {index:16;}">
-                <Coords points="7109,2053 7147,2045 7159,2044 7159,2044 7181,2044 7244,2056 7244,2080 7189,2085 7179,2085 7109,2077"/>
+                <Coords points="7109,2053 7147,2045 7159,2044 7181,2044 7244,2056 7244,2080 7189,2085 7179,2085 7109,2077"/>
                 <Baseline points="7109,2077 7244,2079"/>
                 <TextEquiv>
                     <Unicode>reichen.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r32l18" custom="readingOrder {index:17;}">
-                <Coords points="7153,2089 7252,2088 7252,2088 7302,2088 7773,2090 7890,2091 7903,2115 7903,2127 7790,2131 7551,2132 7504,2132 7153,2131"/>
+                <Coords points="7153,2089 7252,2088 7302,2088 7773,2090 7890,2091 7903,2115 7903,2127 7790,2131 7551,2132 7504,2132 7153,2131"/>
                 <Baseline points="7153,2123 7371,2124 7390,2124 7551,2124 7566,2124 7627,2124 7640,2123 7695,2123 7709,2124 7790,2124 7805,2123 7903,2123"/>
                 <TextEquiv>
                     <Unicode>Frankfurt (Oder), den 20. Dez. 1932.</Unicode>
@@ -22686,7 +22686,7 @@ Dr. Hermann Steinbock.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r34l4" custom="readingOrder {index:3;}">
-                <Coords points="7105,2581 7653,2577 7653,2577 7675,2577 7897,2583 7897,2617 7781,2623 7675,2628 7653,2628 7343,2624 7143,2621 7105,2614"/>
+                <Coords points="7105,2581 7653,2577 7675,2577 7897,2583 7897,2617 7781,2623 7675,2628 7653,2628 7343,2624 7143,2621 7105,2614"/>
                 <Baseline points="7105,2614 7224,2615 7245,2615 7301,2616 7322,2616 7530,2615 7552,2615 7612,2615 7636,2615 7675,2615 7685,2615 7808,2616 7820,2616 7897,2617"/>
                 <TextEquiv>
                     <Unicode>kapital der Geſellſchaft um 90 000,— RM</Unicode>
@@ -22714,7 +22714,7 @@ Dr. Hermann Steinbock.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r34l8" custom="readingOrder {index:7;}">
-                <Coords points="7109,2765 7151,2756 7151,2756 7226,2756 7726,2757 7872,2758 7894,2759 7894,2799 7748,2800 7382,2800 7181,2798 7109,2796"/>
+                <Coords points="7109,2765 7151,2756 7226,2756 7726,2757 7872,2758 7894,2759 7894,2799 7748,2800 7382,2800 7181,2798 7109,2796"/>
                 <Baseline points="7109,2789 7226,2790 7264,2790 7328,2791 7366,2791 7604,2791 7640,2791 7764,2792 7796,2792 7894,2792"/>
                 <TextEquiv>
                     <Unicode>geſetzt. Die Herabſetzung erfolgt durch</Unicode>
@@ -22728,7 +22728,7 @@ Dr. Hermann Steinbock.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r34l10" custom="readingOrder {index:9;}">
-                <Coords points="7104,2845 7130,2844 7130,2844 7522,2844 7777,2845 7894,2846 7894,2887 7739,2887 7465,2886 7231,2885 7104,2876"/>
+                <Coords points="7104,2845 7130,2844 7522,2844 7777,2845 7894,2846 7894,2887 7739,2887 7465,2886 7231,2885 7104,2876"/>
                 <Baseline points="7104,2876 7185,2876 7208,2876 7347,2877 7368,2877 7446,2877 7465,2877 7522,2878 7548,2877 7667,2878 7689,2878 7777,2879 7799,2879 7894,2880"/>
                 <TextEquiv>
                     <Unicode>über 1000,— RM auf 100,— RM, durch</Unicode>
@@ -22749,21 +22749,21 @@ Dr. Hermann Steinbock.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r34l13" custom="readingOrder {index:12;}">
-                <Coords points="7101,2984 7152,2974 7152,2974 7169,2974 7822,2976 7894,2978 7894,3012 7698,3019 7642,3019 7101,3007"/>
+                <Coords points="7101,2984 7152,2974 7169,2974 7822,2976 7894,2978 7894,3012 7698,3019 7642,3019 7101,3007"/>
                 <Baseline points="7101,3007 7169,3008 7201,3008 7268,3008 7301,3008 7340,3008 7361,3008 7476,3009 7506,3009 7591,3009 7621,3008 7723,3009 7748,3010 7822,3011 7857,3011 7894,3011"/>
                 <TextEquiv>
                     <Unicode>und von 10 Aktien über 20,— RM in</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r34l14" custom="readingOrder {index:13;}">
-                <Coords points="7100,3029 7122,3019 7122,3019 7611,3019 7636,3020 7636,3054 7500,3061 7445,3061 7100,3053"/>
+                <Coords points="7100,3029 7122,3019 7611,3019 7636,3020 7636,3054 7500,3061 7445,3061 7100,3053"/>
                 <Baseline points="7100,3053 7173,3053 7199,3053 7290,3053 7315,3053 7401,3054 7425,3052 7521,3053 7547,3053 7636,3054"/>
                 <TextEquiv>
                     <Unicode>eine Aktie über 20,— RM.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r34l15" custom="readingOrder {index:14;}">
-                <Coords points="7147,3063 7518,3062 7518,3062 7537,3062 7848,3064 7892,3074 7892,3098 7858,3106 7845,3106 7623,3105 7147,3097"/>
+                <Coords points="7147,3063 7518,3062 7537,3062 7848,3064 7892,3074 7892,3098 7858,3106 7845,3106 7623,3105 7147,3097"/>
                 <Baseline points="7147,3096 7210,3096 7242,3096 7420,3097 7450,3097 7586,3097 7615,3097 7749,3097 7778,3098 7892,3098"/>
                 <TextEquiv>
                     <Unicode>Die Aktionäre werden hiermit aufge⸗</Unicode>
@@ -22784,7 +22784,7 @@ Dr. Hermann Steinbock.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r34l18" custom="readingOrder {index:17;}">
-                <Coords points="7103,3195 7202,3194 7202,3194 7370,3194 7782,3195 7822,3196 7834,3197 7890,3205 7890,3235 7676,3237 7541,3237 7329,3234 7103,3225"/>
+                <Coords points="7103,3195 7202,3194 7370,3194 7782,3195 7822,3196 7834,3197 7890,3205 7890,3235 7676,3237 7541,3237 7329,3234 7103,3225"/>
                 <Baseline points="7103,3225 7185,3226 7202,3226 7258,3227 7276,3227 7480,3228 7495,3228 7734,3229 7765,3229 7890,3229"/>
                 <TextEquiv>
                     <Unicode>1933 der Geſellſchaft einzureichen. Aktien,</Unicode>
@@ -22798,21 +22798,21 @@ Dr. Hermann Steinbock.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r34l20" custom="readingOrder {index:19;}">
-                <Coords points="7099,3281 7122,3280 7122,3280 7132,3280 7528,3281 7724,3282 7835,3283 7891,3293 7891,3323 7724,3324 7599,3324 7162,3322 7099,3314"/>
+                <Coords points="7099,3281 7122,3280 7132,3280 7528,3281 7724,3282 7835,3283 7891,3293 7891,3323 7724,3324 7599,3324 7162,3322 7099,3314"/>
                 <Baseline points="7099,3313 7151,3314 7162,3314 7237,3314 7245,3314 7368,3315 7382,3315 7438,3315 7446,3315 7528,3315 7539,3315 7736,3316 7748,3316 7891,3316"/>
                 <TextEquiv>
                     <Unicode>bis zum Ablauf der Friſt eingereicht werden,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r34l21" custom="readingOrder {index:20;}">
-                <Coords points="7100,3330 7121,3325 7121,3325 7532,3325 7817,3326 7891,3328 7891,3360 7709,3367 7591,3367 7251,3366 7100,3357"/>
+                <Coords points="7100,3330 7121,3325 7532,3325 7817,3326 7891,3328 7891,3360 7709,3367 7591,3367 7251,3366 7100,3357"/>
                 <Baseline points="7100,3357 7234,3358 7251,3358 7304,3358 7320,3358 7455,3359 7471,3359 7600,3359 7617,3359 7660,3359 7676,3359 7765,3360 7782,3360 7891,3360"/>
                 <TextEquiv>
                     <Unicode>werden für kraftlos erklärt, an ihrer Stelle</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r34l22" custom="readingOrder {index:21;}">
-                <Coords points="7101,3374 7173,3369 7173,3369 7441,3369 7848,3370 7892,3373 7892,3404 7848,3413 7837,3413 7575,3411 7101,3401"/>
+                <Coords points="7101,3374 7173,3369 7441,3369 7848,3370 7892,3373 7892,3404 7848,3413 7837,3413 7575,3411 7101,3401"/>
                 <Baseline points="7101,3401 7234,3402 7258,3402 7342,3402 7367,3402 7481,3402 7505,3402 7722,3403 7745,3403 7811,3404 7837,3404 7892,3404"/>
                 <TextEquiv>
                     <Unicode>werden neue Aktien ausgegeben und für</Unicode>
@@ -22840,7 +22840,7 @@ Dr. Hermann Steinbock.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r34l26" custom="readingOrder {index:25;}">
-                <Coords points="7098,3551 7137,3543 7137,3543 7563,3543 7780,3545 7891,3554 7891,3578 7780,3587 7583,3587 7180,3585 7137,3582 7098,3576"/>
+                <Coords points="7098,3551 7137,3543 7563,3543 7780,3545 7891,3554 7891,3578 7780,3587 7583,3587 7180,3585 7137,3582 7098,3576"/>
                 <Baseline points="7098,3576 7232,3577 7253,3577 7490,3578 7508,3578 7563,3578 7583,3578 7659,3578 7679,3578 7734,3578 7754,3578 7891,3578"/>
                 <TextEquiv>
                     <Unicode>erhöhte Aktienkapital bis zum 31. Januar</Unicode>
@@ -23157,7 +23157,7 @@ Aktien⸗Bank, Roſtock.
             <TableCell row="5" col="2" rowSpan="1" colSpan="1" id="TableCell_1658216164273_12511">
                 <Coords points="7841,4334 7841,4376 7887,4376 7887,4334"/>
                 <TextLine id="TableCell_1658216164273_12511l0" custom="readingOrder {index:0;}">
-                    <Coords points="7843,4340 7866,4339 7866,4339 7886,4339 7886,4369 7863,4370 7843,4370"/>
+                    <Coords points="7843,4340 7866,4339 7886,4339 7886,4369 7863,4370 7843,4370"/>
                     <Baseline points="7843,4370 7886,4369"/>
                     <TextEquiv>
                         <Unicode>56</Unicode>
@@ -24229,14 +24229,14 @@ Aktien⸗Bank, Roſtock.
                 </TextEquiv>
             </TextLine>
             <TextLine id="r37l14" custom="readingOrder {index:13;}">
-                <Coords points="7188,6755 7211,6754 7211,6754 7372,6754 7716,6755 7747,6759 7747,6793 7716,6801 7481,6801 7211,6798 7188,6790"/>
+                <Coords points="7188,6755 7211,6754 7372,6754 7716,6755 7747,6759 7747,6793 7716,6801 7481,6801 7211,6798 7188,6790"/>
                 <Baseline points="7188,6790 7386,6790 7408,6790 7747,6793"/>
                 <TextEquiv>
                     <Unicode>Baltiſche Verſicherungs⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r37l15" custom="readingOrder {index:14;}">
-                <Coords points="7321,6799 7402,6798 7402,6798 7565,6798 7617,6800 7617,6836 7493,6836 7321,6834"/>
+                <Coords points="7321,6799 7402,6798 7565,6798 7617,6800 7617,6836 7493,6836 7321,6834"/>
                 <Baseline points="7321,6833 7617,6835"/>
                 <TextEquiv>
                     <Unicode>Aktien⸗Bank.</Unicode>
@@ -24305,7 +24305,7 @@ E. Brockelmann.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r39l4" custom="readingOrder {index:3;}">
-                <Coords points="7944,1531 8036,1523 8036,1523 8156,1523 8633,1525 8713,1526 8737,1536 8737,1562 8633,1568 8408,1568 8240,1567 8016,1565 7944,1556"/>
+                <Coords points="7944,1531 8036,1523 8156,1523 8633,1525 8713,1526 8737,1536 8737,1562 8633,1568 8408,1568 8240,1567 8016,1565 7944,1556"/>
                 <Baseline points="7944,1555 8156,1558 8201,1559 8347,1559 8393,1559 8633,1559 8677,1560 8737,1561"/>
                 <TextEquiv>
                     <Unicode>merzienrat, Leipzig, Vorſitzender; Dr.</Unicode>
@@ -24319,7 +24319,7 @@ E. Brockelmann.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r39l6" custom="readingOrder {index:5;}">
-                <Coords points="7944,1620 7990,1617 8123,1611 8123,1611 8223,1611 8527,1612 8737,1614 8737,1655 8585,1655 8285,1654 8123,1652 8052,1651 7944,1644"/>
+                <Coords points="7944,1620 7990,1617 8123,1611 8223,1611 8527,1612 8737,1614 8737,1655 8585,1655 8285,1654 8123,1652 8052,1651 7944,1644"/>
                 <Baseline points="7944,1644 8060,1643 8123,1644 8223,1645 8285,1646 8527,1646 8585,1647 8737,1648"/>
                 <TextEquiv>
                     <Unicode>nover, ſtellv. Vorſitzender; Diedrich</Unicode>
@@ -24544,7 +24544,7 @@ Bilanz am 30. September 1932.</Unicode>
             <TableCell row="3" col="1" rowSpan="1" colSpan="1" id="TableCell_1658217102056_13390">
                 <Coords points="8464,2459 8462,2502 8678,2502 8680,2459"/>
                 <TextLine id="TableCell_1658217102056_13390l0" custom="readingOrder {index:0;}">
-                    <Coords points="8529,2464 8609,2459 8609,2459 8680,2459 8678,2502 8595,2502 8529,2497"/>
+                    <Coords points="8529,2464 8609,2459 8680,2459 8678,2502 8595,2502 8529,2497"/>
                     <Baseline points="8529,2496 8592,2497 8605,2497 8678,2496"/>
                     <TextEquiv>
                         <Unicode>380 000</Unicode>
@@ -24577,7 +24577,7 @@ Bilanz am 30. September 1932.</Unicode>
             <TableCell row="4" col="1" rowSpan="1" colSpan="1" id="TableCell_1658217100068_13372">
                 <Coords points="8462,2502 8462,2549 8678,2549 8678,2502"/>
                 <TextLine id="TableCell_1658217100068_13372l0" custom="readingOrder {index:0;}">
-                    <Coords points="8531,2510 8611,2502 8611,2502 8678,2502 8678,2549 8603,2549 8531,2540"/>
+                    <Coords points="8531,2510 8611,2502 8678,2502 8678,2549 8603,2549 8531,2540"/>
                     <Baseline points="8531,2540 8591,2540 8604,2540 8678,2540"/>
                     <TextEquiv>
                         <Unicode>168 000</Unicode>
@@ -24742,7 +24742,7 @@ Bilanz am 30. September 1932.</Unicode>
             <TableCell row="9" col="1" rowSpan="1" colSpan="1" id="TableCell_1658217090798_13282">
                 <Coords points="8462,2724 8455,2768 8671,2768 8678,2724"/>
                 <TextLine id="TableCell_1658217090798_13282l0" custom="readingOrder {index:0;}">
-                    <Coords points="8528,2728 8621,2726 8621,2726 8677,2726 8671,2768 8612,2768 8528,2758"/>
+                    <Coords points="8528,2728 8621,2726 8677,2726 8671,2768 8612,2768 8528,2758"/>
                     <Baseline points="8528,2758 8584,2758 8602,2758 8671,2758"/>
                     <TextEquiv>
                         <Unicode>141 700</Unicode>
@@ -24753,7 +24753,7 @@ Bilanz am 30. September 1932.</Unicode>
             <TableCell row="9" col="2" rowSpan="1" colSpan="1" id="TableCell_1658217090951_13288">
                 <Coords points="8678,2724 8671,2768 8730,2768 8730,2724"/>
                 <TextLine id="TableCell_1658217090951_13288l0" custom="readingOrder {index:0;}">
-                    <Coords points="8684,2729 8684,2729 8723,2729 8723,2762 8678,2762"/>
+                    <Coords points="8684,2729 8723,2729 8723,2762 8678,2762"/>
                     <Baseline points="8680,2753 8723,2753"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
@@ -24775,7 +24775,7 @@ Bilanz am 30. September 1932.</Unicode>
             <TableCell row="10" col="1" rowSpan="1" colSpan="1" id="TableCell_1658217087782_13264">
                 <Coords points="8455,2768 8455,2814 8671,2814 8671,2768"/>
                 <TextLine id="TableCell_1658217087782_13264l0" custom="readingOrder {index:0;}">
-                    <Coords points="8481,2768 8515,2769 8643,2770 8669,2771 8669,2802 8482,2814 8481,2814"/>
+                    <Coords points="8481,2768 8515,2769 8643,2770 8669,2771 8669,2802 8482,2814"/>
                     <Baseline points="8547,2803 8587,2802 8601,2802 8669,2802"/>
                     <TextEquiv>
                         <Unicode>44 300</Unicode>
@@ -24936,7 +24936,7 @@ Bilanz am 30. September 1932.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="TableCell_1658217075094_13168l2" custom="readingOrder {index:1;}">
-                    <Coords points="8026,3030 8142,3029 8142,3029 8164,3029 8285,3031 8390,3036 8390,3073 8088,3073 8026,3063"/>
+                    <Coords points="8026,3030 8142,3029 8164,3029 8285,3031 8390,3036 8390,3073 8088,3073 8026,3063"/>
                     <Baseline points="8030,3062 8377,3062"/>
                     <TextEquiv>
                         <Unicode>Umlaufvermögen:</Unicode>
@@ -25086,7 +25086,7 @@ Bilanz am 30. September 1932.</Unicode>
             <TableCell row="19" col="1" rowSpan="1" colSpan="1" id="TableCell_1658217064756_13102">
                 <Coords points="8455,3248 8455,3289 8671,3289 8671,3248"/>
                 <TextLine id="TableCell_1658217064756_13102l0" custom="readingOrder {index:0;}">
-                    <Coords points="8562,3250 8617,3249 8617,3249 8664,3249 8664,3280 8639,3281 8562,3281"/>
+                    <Coords points="8562,3250 8617,3249 8664,3249 8664,3280 8639,3281 8562,3281"/>
                     <Baseline points="8562,3281 8583,3280 8597,3280 8664,3279"/>
                     <TextEquiv>
                         <Unicode>4 990</Unicode>
@@ -25115,7 +25115,7 @@ Bilanz am 30. September 1932.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="TableCell_1658217062981_13078l1" custom="readingOrder {index:1;}">
-                    <Coords points="7970,3334 8362,3329 8362,3329 8430,3329 8430,3376 8166,3376 7970,3375"/>
+                    <Coords points="7970,3334 8362,3329 8430,3329 8430,3376 8166,3376 7970,3375"/>
                     <Baseline points="7970,3368 8067,3367 8093,3367 8181,3367 8209,3367 8282,3367 8307,3367 8346,3367 8362,3367 8430,3366"/>
                     <TextEquiv>
                         <Unicode>ſchaft nom. RM 40 000</Unicode>
@@ -25730,7 +25730,7 @@ Bilanz am 30. September 1932.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="TableCell_1658216999713_12754l1" custom="readingOrder {index:1;}">
-                    <Coords points="7989,4584 8078,4583 8078,4583 8392,4583 8426,4592 8426,4617 8392,4624 8209,4624 7989,4618"/>
+                    <Coords points="7989,4584 8078,4583 8392,4583 8426,4592 8426,4617 8392,4624 8209,4624 7989,4618"/>
                     <Baseline points="7989,4618 8111,4616 8127,4616 8192,4617 8209,4617 8426,4617"/>
                     <TextEquiv>
                         <Unicode>Grund von Warenliefe⸗</Unicode>
@@ -26545,14 +26545,14 @@ am 30. September 1932.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r42l3" custom="readingOrder {index:2;}">
-                <Coords points="7916,6283 8015,6277 8349,6276 8349,6276 8380,6276 8527,6277 8610,6279 8663,6283 8711,6287 8711,6312 8593,6319 8476,6319 8167,6317 7916,6311"/>
+                <Coords points="7916,6283 8015,6277 8349,6276 8380,6276 8527,6277 8610,6279 8663,6283 8711,6287 8711,6312 8593,6319 8476,6319 8167,6317 7916,6311"/>
                 <Baseline points="7916,6311 7981,6311 8015,6311 8092,6310 8124,6310 8223,6310 8252,6310 8315,6311 8349,6311 8440,6311 8476,6311 8610,6311 8644,6311 8711,6312"/>
                 <TextEquiv>
                     <Unicode>von RM 24,— pro Aktie gelangt von</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r42l4" custom="readingOrder {index:3;}">
-                <Coords points="7914,6321 8125,6320 8125,6320 8640,6320 8686,6322 8710,6331 8710,6355 8640,6363 8209,6363 7914,6362"/>
+                <Coords points="7914,6321 8125,6320 8640,6320 8686,6322 8710,6331 8710,6355 8640,6363 8209,6363 7914,6362"/>
                 <Baseline points="7914,6354 8012,6354 8048,6354 8091,6354 8125,6354 8174,6354 8209,6354 8344,6355 8380,6355 8640,6355 8676,6355 8710,6355"/>
                 <TextEquiv>
                     <Unicode>heute ab bei unſerer Geſchäftsſtelle in</Unicode>
@@ -26594,7 +26594,7 @@ am 30. September 1932.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r42l10" custom="readingOrder {index:9;}">
-                <Coords points="7912,6593 7951,6586 7997,6583 7997,6583 8249,6583 8530,6584 8657,6585 8708,6594 8708,6617 8577,6625 8177,6626 8166,6626 7951,6624 7912,6617"/>
+                <Coords points="7912,6593 7951,6586 7997,6583 8249,6583 8530,6584 8657,6585 8708,6594 8708,6617 8577,6625 8177,6626 8166,6626 7951,6624 7912,6617"/>
                 <Baseline points="7912,6617 7974,6617 7997,6617 8194,6618 8216,6619 8277,6617 8295,6617 8388,6618 8404,6618 8577,6618 8601,6618 8708,6617"/>
                 <TextEquiv>
                     <Unicode>rat, Kulmbach; Dr. Paul Simader, Ober⸗</Unicode>
@@ -26622,28 +26622,28 @@ am 30. September 1932.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r42l14" custom="readingOrder {index:13;}">
-                <Coords points="7909,6768 7945,6759 7994,6758 7994,6758 8048,6758 8072,6759 8072,6793 8048,6801 7974,6801 7909,6792"/>
+                <Coords points="7909,6768 7945,6759 7994,6758 8048,6758 8072,6759 8072,6793 8048,6801 7974,6801 7909,6792"/>
                 <Baseline points="7909,6792 8072,6792"/>
                 <TextEquiv>
                     <Unicode>mitglied.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r42l15" custom="readingOrder {index:14;}">
-                <Coords points="7951,6802 8066,6801 8066,6801 8535,6801 8705,6803 8705,6837 8535,6845 8066,6845 7951,6838"/>
+                <Coords points="7951,6802 8066,6801 8535,6801 8705,6803 8705,6837 8535,6845 8066,6845 7951,6838"/>
                 <Baseline points="7951,6838 8192,6837 8229,6837 8291,6836 8319,6836 8371,6836 8396,6836 8582,6836 8610,6835 8705,6837"/>
                 <TextEquiv>
                     <Unicode>Kulmbach, den 19. Dezember 1932.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r42l16" custom="readingOrder {index:15;}">
-                <Coords points="8133,6846 8247,6845 8247,6845 8411,6845 8685,6846 8699,6868 8699,6879 8685,6886 8411,6889 8338,6889 8133,6881"/>
+                <Coords points="8133,6846 8247,6845 8411,6845 8685,6846 8699,6868 8699,6879 8685,6886 8411,6889 8338,6889 8133,6881"/>
                 <Baseline points="8133,6881 8213,6881 8247,6881 8473,6881 8543,6879 8699,6878"/>
                 <TextEquiv>
                     <Unicode>Der Vorſtand. [74297].</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r42l17" custom="readingOrder {index:16;}">
-                <Coords points="7938,6888 8483,6887 8483,6887 8533,6887 8618,6888 8676,6895 8676,6926 7987,6932 7967,6932 7938,6924"/>
+                <Coords points="7938,6888 8483,6887 8533,6887 8618,6888 8676,6895 8676,6926 7987,6932 7967,6932 7938,6924"/>
                 <Baseline points="7938,6924 7998,6924 8027,6925 8220,6926 8265,6925 8330,6925 8358,6925 8457,6925 8483,6925 8676,6926"/>
                 <TextEquiv>
                     <Unicode>Ch. Sandler. Dr. Otto Sandler.</Unicode>
@@ -26799,7 +26799,7 @@ Ch. Sandler. Dr. Otto Sandler.</Unicode>
             <TableCell row="3" col="0" rowSpan="1" colSpan="1" id="TableCell_1658217772438_13981">
                 <Coords points="8766,1612 8766,1653 9299,1653 9299,1612"/>
                 <TextLine id="TableCell_1658217772438_13981l0" custom="readingOrder {index:0;}">
-                    <Coords points="8775,1613 8917,1612 8917,1612 8946,1612 9086,1615 9124,1617 9124,1652 9117,1653 8820,1653 8775,1647"/>
+                    <Coords points="8775,1613 8917,1612 8946,1612 9086,1615 9124,1617 9124,1652 9117,1653 8820,1653 8775,1647"/>
                     <Baseline points="8775,1647 8869,1648 8892,1648 8961,1649 8985,1650 9124,1651"/>
                     <TextEquiv>
                         <Unicode>Kaſſe und Wechſel</Unicode>
@@ -26821,7 +26821,7 @@ Ch. Sandler. Dr. Otto Sandler.</Unicode>
             <TableCell row="3" col="2" rowSpan="1" colSpan="1" id="TableCell_1658217772926_13993">
                 <Coords points="9515,1612 9515,1653 9573,1653 9573,1612"/>
                 <TextLine id="TableCell_1658217772926_13993l0" custom="readingOrder {index:0;}">
-                    <Coords points="9520,1617 9521,1617 9567,1618 9568,1658 9520,1658"/>
+                    <Coords points="9520,1617 9567,1618 9568,1658 9520,1658"/>
                     <Baseline points="9522,1654 9564,1654"/>
                     <TextEquiv>
                         <Unicode>88</Unicode>
@@ -27467,7 +27467,7 @@ Ch. Sandler. Dr. Otto Sandler.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r45l3" custom="readingOrder {index:2;}">
-                <Coords points="8854,2965 8953,2961 8953,2961 9112,2961 9410,2968 9449,2977 9449,3008 9040,3008 8854,2999"/>
+                <Coords points="8854,2965 8953,2961 9112,2961 9410,2968 9449,2977 9449,3008 9040,3008 8854,2999"/>
                 <Baseline points="8854,2999 8932,2999 8953,2999 9172,3001 9220,3001 9272,3001 9294,3001 9449,3000"/>
                 <TextEquiv>
                     <Unicode>Der Vorſtand. W. Heinig.</Unicode>
@@ -27643,7 +27643,7 @@ Bilanz am 30. September 1931.</Unicode>
             <TableCell row="3" col="1" rowSpan="1" colSpan="1" id="TableCell_1658218458011_14734">
                 <Coords points="9287,3441 9288,3527 9492,3527 9491,3441"/>
                 <TextLine id="TableCell_1658218458011_14734l0" custom="readingOrder {index:0;}">
-                    <Coords points="9344,3489 9370,3487 9370,3487 9410,3487 9487,3488 9491,3490 9491,3500 9487,3520 9370,3520 9344,3519"/>
+                    <Coords points="9344,3489 9370,3487 9410,3487 9487,3488 9491,3490 9491,3500 9487,3520 9370,3520 9344,3519"/>
                     <Baseline points="9344,3519 9410,3519 9421,3520 9487,3519"/>
                     <TextEquiv>
                         <Unicode>440 000</Unicode>
@@ -29081,7 +29081,7 @@ am 30. September 1931.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r49l3" custom="readingOrder {index:2;}">
-                <Coords points="8744,6562 9454,6555 9454,6555 9538,6555 9538,6591 9508,6598 9473,6599 8948,6603 8744,6603"/>
+                <Coords points="8744,6562 9454,6555 9538,6555 9538,6591 9508,6598 9473,6599 8948,6603 8744,6603"/>
                 <Baseline points="8744,6596 8830,6596 8858,6596 8899,6596 8928,6596 9025,6595 9054,6595 9107,6595 9135,6596 9198,6595 9227,6595 9407,6592 9434,6592 9538,6590"/>
                 <TextEquiv>
                     <Unicode>folgt ab heute bei den bekannten Zahl⸗</Unicode>
@@ -29095,28 +29095,28 @@ am 30. September 1931.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r49l5" custom="readingOrder {index:4;}">
-                <Coords points="8793,6649 9431,6643 9431,6643 9442,6643 9485,6644 9539,6651 9539,6678 9442,6684 9132,6691 8915,6691 8793,6684"/>
+                <Coords points="8793,6649 9431,6643 9442,6643 9485,6644 9539,6651 9539,6678 9442,6684 9132,6691 8915,6691 8793,6684"/>
                 <Baseline points="8793,6684 8864,6684 8915,6683 9132,6682 9181,6682 9293,6680 9347,6679 9383,6679 9431,6678 9539,6677"/>
                 <TextEquiv>
                     <Unicode>Der Aufſichtsrat wurde in ſeiner</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r49l6" custom="readingOrder {index:5;}">
-                <Coords points="8745,6693 9335,6687 9335,6687 9515,6687 9539,6695 9539,6732 8937,6735 8873,6735 8801,6734 8745,6727"/>
+                <Coords points="8745,6693 9335,6687 9515,6687 9539,6695 9539,6732 8937,6735 8873,6735 8801,6734 8745,6727"/>
                 <Baseline points="8745,6727 8937,6726 8973,6726 9299,6724 9335,6723 9539,6721"/>
                 <TextEquiv>
                     <Unicode>bisherigen Zuſammenſetzung einſtimmig</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r49l7" custom="readingOrder {index:6;}">
-                <Coords points="8742,6744 8777,6738 8928,6736 8928,6736 8998,6736 9021,6738 9021,6770 8985,6777 8951,6779 8869,6779 8742,6772"/>
+                <Coords points="8742,6744 8777,6738 8928,6736 8998,6736 9021,6738 9021,6770 8985,6777 8951,6779 8869,6779 8742,6772"/>
                 <Baseline points="8742,6772 9021,6769"/>
                 <TextEquiv>
                     <Unicode>wiedergewählt.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r49l8" custom="readingOrder {index:7;}">
-                <Coords points="8790,6780 8847,6778 9458,6774 9458,6774 9480,6774 9493,6800 9493,6811 9240,6820 8920,6823 8790,6823"/>
+                <Coords points="8790,6780 8847,6778 9458,6774 9480,6774 9493,6800 9493,6811 9240,6820 8920,6823 8790,6823"/>
                 <Baseline points="8790,6816 8920,6814 8976,6814 9036,6812 9079,6812 9130,6811 9168,6812 9355,6811 9395,6809 9493,6811"/>
                 <TextEquiv>
                     <Unicode>Fürth, den 19. Dezember 1932.</Unicode>

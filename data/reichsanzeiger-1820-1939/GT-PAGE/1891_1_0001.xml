@@ -5,20 +5,20 @@
 prov=READ-COOP:name=PyLaia@Transkribus:version=0.6.8:model_id=40804:date=10_05_2022_11:39
 Transkribus</Creator>
         <Created>2021-12-14T11:54:11.936+01:00</Created>
-        <LastChange>2022-12-07T16:05:59.439+01:00</LastChange>
+        <LastChange>2023-07-26T12:29:49.898+02:00</LastChange>
         <Comments>
                 Measurement unit: pixel
                 PrimaryLanguage: 
                 Producer: Transkribus
             </Comments>
-        <TranskribusMetadata docId="1256534" pageId="50892321" pageNr="1" tsid="105748236" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=RMDXXVAWFALGDRNIWGLJYTVE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VVCTFRTBCRSEYIXPWGLZOBLP" imageId="30635767"/>
+        <TranskribusMetadata docId="1256534" pageId="50892321" pageNr="1" tsid="130936502" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=RMDXXVAWFALGDRNIWGLJYTVE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JEUESHENSTQRIVUJVTTZWGAT" imageId="30635767"/>
     </Metadata>
     <Page imageFilename="1891_1_0001.jpg" imageWidth="3774" imageHeight="5115">
         <PrintSpace>
             <Coords points="42,22 3722,23 3740,5047 73,5047"/>
         </PrintSpace>
         <ReadingOrder>
-            <OrderedGroup id="ro_1670487784815" caption="Regions reading order">
+            <OrderedGroup id="ro_1690386037528" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
                 <RegionRefIndexed index="1" regionRef="r2"/>
                 <RegionRefIndexed index="2" regionRef="r3"/>
@@ -90,7 +90,7 @@ Transkribus</Creator>
         <TextRegion type="header" id="r5" custom="readingOrder {index:4;} structure {type:header;}">
             <Coords points="1029,821 1788,821 1788,971 1029,971"/>
             <TextLine id="r5l1" custom="readingOrder {index:0;}">
-                <Coords points="1053,850 1091,846 1091,846 1134,846 1730,863 1764,881 1764,966 1730,970 1426,970 1091,947 1053,927"/>
+                <Coords points="1053,850 1091,846 1134,846 1730,863 1764,881 1764,966 1730,970 1426,970 1091,947 1053,927"/>
                 <Baseline points="1053,924 1336,940 1386,941 1766,948"/>
                 <TextEquiv>
                     <Unicode>Berlin, Donnerſtag,</Unicode>
@@ -659,7 +659,7 @@ Transkribus</Creator>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r9l74" custom="readingOrder {index:73;}">
-                <Coords points="379,4395 395,4393 395,4393 454,4393 833,4395 1043,4400 1290,4406 1389,4409 1389,4445 1206,4446 1159,4446 1073,4445 690,4440 486,4436 379,4430"/>
+                <Coords points="379,4395 395,4393 454,4393 833,4395 1043,4400 1290,4406 1389,4409 1389,4445 1206,4446 1159,4446 1073,4445 690,4440 486,4436 379,4430"/>
                 <Baseline points="379,4430 454,4428 477,4428 564,4429 585,4429 651,4430 672,4430 848,4433 879,4433 943,4434 964,4435 1043,4436 1073,4436 1206,4440 1239,4441 1309,4442 1339,4443 1389,4444"/>
                 <TextEquiv>
                     <Unicode>Soll durch eine Zuſtellung eine Friſt gewahrt oder der</Unicode>
@@ -1175,14 +1175,14 @@ einen daſelbſt wohnhaften Prozeß⸗Bevollmächtigten beſtellt hat,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r10l51" custom="readingOrder {index:50;}">
-                <Coords points="1439,3276 1453,3266 1453,3266 1597,3266 1734,3269 1855,3273 1898,3276 1907,3299 1907,3308 1855,3314 1796,3314 1645,3312 1439,3308"/>
+                <Coords points="1439,3276 1453,3266 1597,3266 1734,3269 1855,3273 1898,3276 1907,3299 1907,3308 1855,3314 1796,3314 1645,3312 1439,3308"/>
                 <Baseline points="1439,3301 1597,3303 1619,3304 1774,3306 1796,3306 1907,3308"/>
                 <TextEquiv>
                     <Unicode>zeichneten Vergehen gehört.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r10l52" custom="readingOrder {index:51;}">
-                <Coords points="1931,3334 2004,3333 2004,3333 2025,3333 2033,3359 2033,3366 1951,3373 1931,3373"/>
+                <Coords points="1931,3334 2004,3333 2025,3333 2033,3359 2033,3366 1951,3373 1931,3373"/>
                 <Baseline points="1931,3366 1960,3366 1987,3366 2033,3366"/>
                 <TextEquiv>
                     <Unicode>§. 12.</Unicode>
@@ -1245,7 +1245,7 @@ einen daſelbſt wohnhaften Prozeß⸗Bevollmächtigten beſtellt hat,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r10l61" custom="readingOrder {index:60;}">
-                <Coords points="1931,3728 2000,3727 2000,3727 2021,3727 2030,3752 2030,3760 1949,3767 1931,3767"/>
+                <Coords points="1931,3728 2000,3727 2021,3727 2030,3752 2030,3760 1949,3767 1931,3767"/>
                 <Baseline points="1931,3759 1958,3759 1983,3759 2030,3760"/>
                 <TextEquiv>
                     <Unicode>§. 13.</Unicode>
@@ -1294,7 +1294,7 @@ einen daſelbſt wohnhaften Prozeß⸗Bevollmächtigten beſtellt hat,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r10l68" custom="readingOrder {index:67;}">
-                <Coords points="1442,4026 1455,4017 1455,4017 1605,4017 1889,4018 2216,4023 2232,4032 2232,4055 2216,4062 1968,4062 1455,4057 1442,4056"/>
+                <Coords points="1442,4026 1455,4017 1605,4017 1889,4018 2216,4023 2232,4032 2232,4055 2216,4062 1968,4062 1455,4057 1442,4056"/>
                 <Baseline points="1442,4049 1675,4051 1697,4051 1889,4054 1910,4054 2105,4055 2127,4055 2232,4054"/>
                 <TextEquiv>
                     <Unicode>gerichtsbarkeit bezeichneten Strafſachen gelten.</Unicode>
@@ -1371,7 +1371,7 @@ einen daſelbſt wohnhaften Prozeß⸗Bevollmächtigten beſtellt hat,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r10l79" custom="readingOrder {index:78;}">
-                <Coords points="1446,4493 1463,4492 1463,4492 1599,4492 2365,4493 2543,4500 2543,4526 2365,4535 2049,4535 1463,4534 1446,4527"/>
+                <Coords points="1446,4493 1463,4492 1599,4492 2365,4493 2543,4500 2543,4526 2365,4535 2049,4535 1463,4534 1446,4527"/>
                 <Baseline points="1446,4527 1599,4527 1621,4527 1675,4527 1696,4527 1904,4529 1923,4529 1958,4529 1978,4529 2029,4529 2049,4529 2380,4527 2400,4526 2490,4526 2511,4526 2543,4526"/>
                 <TextEquiv>
                     <Unicode>Anſpruch auf Anweſenheit in der Hauptverhandlung, wenn er</Unicode>
@@ -1427,7 +1427,7 @@ einen daſelbſt wohnhaften Prozeß⸗Bevollmächtigten beſtellt hat,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r10l87" custom="readingOrder {index:86;}">
-                <Coords points="1449,4818 1842,4817 1842,4817 2227,4817 2241,4818 2241,4849 2227,4860 1621,4861 1521,4861 1449,4852"/>
+                <Coords points="1449,4818 1842,4817 2227,4817 2241,4818 2241,4849 2227,4860 1621,4861 1521,4861 1449,4852"/>
                 <Baseline points="1449,4852 1501,4852 1521,4852 1655,4853 1676,4853 1750,4854 1771,4854 1817,4854 1836,4853 2241,4849"/>
                 <TextEquiv>
                     <Unicode>des Geſetzes über die Konſulargerichtsbarkeit.</Unicode>
@@ -1540,7 +1540,7 @@ des Geſetzes über die Konſulargerichtsbarkeit.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r11l3" custom="readingOrder {index:2;}">
-                <Coords points="2564,1260 2576,1250 2576,1250 2705,1250 2740,1261 2750,1278 2750,1285 2691,1289 2576,1289 2564,1284"/>
+                <Coords points="2564,1260 2576,1250 2705,1250 2740,1261 2750,1278 2750,1285 2691,1289 2576,1289 2564,1284"/>
                 <Baseline points="2564,1284 2750,1285"/>
                 <TextEquiv>
                     <Unicode>vollſtrecken.</Unicode>
@@ -1582,14 +1582,14 @@ des Geſetzes über die Konſulargerichtsbarkeit.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r11l9" custom="readingOrder {index:8;}">
-                <Coords points="2569,1529 2605,1521 2605,1521 2801,1521 3176,1522 3656,1527 3656,1571 3562,1571 2874,1565 2691,1562 2569,1554"/>
+                <Coords points="2569,1529 2605,1521 2801,1521 3176,1522 3656,1527 3656,1571 3562,1571 2874,1565 2691,1562 2569,1554"/>
                 <Baseline points="2569,1554 2747,1555 2788,1556 2840,1556 2874,1556 3176,1559 3217,1559 3270,1560 3303,1560 3425,1560 3466,1561 3528,1562 3562,1562 3656,1563"/>
                 <TextEquiv>
                     <Unicode>ordnungen für Gerichtsvollzieher, für Zeugen und Sach⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r11l10" custom="readingOrder {index:9;}">
-                <Coords points="2567,1570 2621,1561 2621,1561 2634,1561 3534,1566 3534,1608 3378,1608 2718,1602 2621,1600 2567,1595"/>
+                <Coords points="2567,1570 2621,1561 2634,1561 3534,1566 3534,1608 3378,1608 2718,1602 2621,1600 2567,1595"/>
                 <Baseline points="2567,1594 2762,1595 2783,1595 2872,1596 2894,1596 2945,1597 2966,1597 3206,1599 3227,1599 3306,1599 3327,1600 3534,1601"/>
                 <TextEquiv>
                     <Unicode>verſtändige, ſowie für Rechtsanwälte keine Anwendung.</Unicode>
@@ -1603,7 +1603,7 @@ des Geſetzes über die Konſulargerichtsbarkeit.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r11l12" custom="readingOrder {index:11;}">
-                <Coords points="2568,1649 2624,1644 2740,1642 2740,1642 2799,1642 3307,1645 3551,1647 3551,1689 3419,1689 3175,1688 2568,1681"/>
+                <Coords points="2568,1649 2624,1644 2740,1642 2799,1642 3307,1645 3551,1647 3551,1689 3419,1689 3175,1688 2568,1681"/>
                 <Baseline points="2568,1674 2602,1674 2624,1674 2719,1675 2740,1675 2848,1676 2867,1676 2986,1677 3007,1678 3067,1678 3089,1678 3154,1679 3175,1679 3398,1682 3419,1682 3551,1683"/>
                 <TextEquiv>
                     <Unicode>zu treten haben, werden von dem Reichskanzler erlaſſen.</Unicode>
@@ -1799,7 +1799,7 @@ des Geſetzes über die Konſulargerichtsbarkeit.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r11l40" custom="readingOrder {index:39;}">
-                <Coords points="2801,2871 2816,2870 2816,2870 2922,2870 3191,2872 3498,2876 3498,2908 3272,2913 3251,2913 2801,2910"/>
+                <Coords points="2801,2871 2816,2870 2922,2870 3191,2872 3498,2876 3498,2908 3272,2913 3251,2913 2801,2910"/>
                 <Baseline points="2801,2900 2852,2902 2876,2902 2922,2902 3141,2905 3370,2907 3405,2907 3437,2907 3461,2906 3498,2908"/>
                 <TextEquiv>
                     <Unicode>(L. S.) Wilhelm J. R.</Unicode>
@@ -1967,7 +1967,7 @@ Deutſch⸗Oſt⸗Afrika.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r13l10" custom="readingOrder {index:9;}">
-                <Coords points="2587,3658 3546,3657 3546,3657 3690,3657 3690,3698 2687,3698 2587,3691"/>
+                <Coords points="2587,3658 3546,3657 3690,3657 3690,3698 2687,3698 2587,3691"/>
                 <Baseline points="2587,3691 2638,3691 2673,3691 2962,3691 2996,3692 3031,3691 3076,3691 3147,3691 3177,3691 3227,3691 3284,3692 3381,3691 3410,3691 3489,3690 3531,3691 3690,3692"/>
                 <TextEquiv>
                     <Unicode>der Kauffahrteiſchiffe ꝛc., vom 25. Oktober 1867 (Bundes⸗</Unicode>
@@ -1981,7 +1981,7 @@ Deutſch⸗Oſt⸗Afrika.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r13l12" custom="readingOrder {index:11;}">
-                <Coords points="2589,3738 3415,3737 3415,3737 3666,3737 3686,3738 3686,3772 3402,3780 3392,3780 2610,3779 2589,3772"/>
+                <Coords points="2589,3738 3415,3737 3666,3737 3686,3738 3686,3772 3402,3780 3392,3780 2610,3779 2589,3772"/>
                 <Baseline points="2589,3772 2811,3772 2833,3772 2884,3772 2905,3772 3188,3772 3209,3772 3256,3772 3277,3772 3349,3771 3370,3771 3402,3771 3415,3771 3586,3772 3605,3772 3686,3772"/>
                 <TextEquiv>
                     <Unicode>Organiſation der Bundeskonſulate ꝛc., vom 8. November 1867</Unicode>
@@ -2023,7 +2023,7 @@ Deutſch⸗Oſt⸗Afrika.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r13l18" custom="readingOrder {index:17;}">
-                <Coords points="2674,3981 2757,3980 2900,3979 3396,3977 3396,3977 3697,3977 3697,4020 2757,4020 2674,4015"/>
+                <Coords points="2674,3981 2757,3980 2900,3979 3396,3977 3697,3977 3697,4020 2757,4020 2674,4015"/>
                 <Baseline points="2674,4015 2736,4015 2757,4014 2810,4014 2831,4014 2878,4014 2900,4014 3040,4014 3061,4014 3218,4013 3227,4013 3299,4013 3396,4013 3696,4007"/>
                 <TextEquiv>
                     <Unicode>Die für die Konſuln geltenden Ausführungsbeſtimmungen</Unicode>
@@ -2065,7 +2065,7 @@ Deutſch⸗Oſt⸗Afrika.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r13l24" custom="readingOrder {index:23;}">
-                <Coords points="2594,4223 3274,4215 3622,4214 3622,4214 3689,4214 3700,4215 3700,4254 3534,4258 3122,4262 2901,4263 2803,4263 2613,4261 2594,4256"/>
+                <Coords points="2594,4223 3274,4215 3622,4214 3689,4214 3700,4215 3700,4254 3534,4258 3122,4262 2901,4263 2803,4263 2613,4261 2594,4256"/>
                 <Baseline points="2594,4256 2761,4255 2782,4255 2901,4255 2920,4255 2994,4254 3015,4254 3043,4254 3058,4254 3136,4253 3157,4253 3240,4252 3260,4252 3534,4248 3558,4249 3602,4249 3622,4249 3700,4248"/>
                 <TextEquiv>
                     <Unicode>Deutſchen Reichs, vom 1. Juli 1872 (Reichs⸗Geſetzbl. S. 245)</Unicode>
@@ -2100,7 +2100,7 @@ Deutſch⸗Oſt⸗Afrika.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r13l29" custom="readingOrder {index:28;}">
-                <Coords points="2598,4433 2731,4431 3038,4428 3669,4423 3669,4423 3706,4423 3706,4465 2932,4472 2730,4472 2598,4467"/>
+                <Coords points="2598,4433 2731,4431 3038,4428 3669,4423 3706,4423 3706,4465 2932,4472 2730,4472 2598,4467"/>
                 <Baseline points="2598,4467 2688,4466 2710,4466 2967,4464 2988,4463 3148,4462 3199,4462 3250,4462 3296,4461 3318,4461 3347,4461 3410,4461 3476,4460 3598,4460 3669,4459 3706,4459"/>
                 <TextEquiv>
                     <Unicode>deren Nichtbefolgung Gefängniß bis zu drei Monaten, Haft,</Unicode>
@@ -2142,7 +2142,7 @@ Deutſch⸗Oſt⸗Afrika.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r13l35" custom="readingOrder {index:34;}">
-                <Coords points="2687,4672 3608,4664 3608,4664 3675,4664 3700,4665 3710,4690 3710,4696 3700,4704 3384,4708 2921,4713 2825,4713 2687,4710"/>
+                <Coords points="2687,4672 3608,4664 3675,4664 3700,4665 3710,4690 3710,4696 3700,4704 3384,4708 2921,4713 2825,4713 2687,4710"/>
                 <Baseline points="2687,4706 2780,4706 2801,4706 2986,4705 3006,4705 3075,4704 3103,4704 3160,4704 3192,4703 3258,4702 3280,4702 3423,4700 3444,4700 3532,4699 3552,4699 3587,4698 3608,4699 3710,4696"/>
                 <TextEquiv>
                     <Unicode>Dieſe Verfügung tritt mit dem heutigen Tage in Kraft.</Unicode>

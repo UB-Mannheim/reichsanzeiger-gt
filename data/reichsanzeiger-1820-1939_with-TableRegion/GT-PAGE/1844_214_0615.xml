@@ -1,24 +1,24 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
     <Metadata>
         <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.7.1:model_id=40804:lm=none:date=05_07_2022_08:40
 prov=READ-COOP:name=PyLaia@Transkribus:version=0.7.1:model_id=40804:date=05_07_2022_08:40
 Transkribus</Creator>
         <Created>2021-12-14T11:24:31.365+01:00</Created>
-        <LastChange>2022-12-07T16:13:19.087+01:00</LastChange>
+        <LastChange>2023-06-13T17:09:48.428+02:00</LastChange>
         <Comments>
                 Measurement unit: pixel
                 PrimaryLanguage: 
                 Producer: Transkribus
             </Comments>
-        <TranskribusMetadata docId="888696" pageId="34071363" pageNr="3" tsid="105747967" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=MLDXTVONXHUZLXDGLKWAMSAT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LVWRPDFXDOIZDPTARLERYXLF" imageId="27320785"/>
+        <TranskribusMetadata docId="888696" pageId="34071363" pageNr="3" tsid="126887432" status="GT" userId="109938" imgUrl="https://files.transkribus.eu/Get?id=MLDXTVONXHUZLXDGLKWAMSAT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ILHENYHZBYIXQHCPRSXEFRNC" imageId="27320785"/>
     </Metadata>
     <Page imageFilename="1844_214_0615.jpg" imageWidth="9784" imageHeight="6568">
         <PrintSpace>
             <Coords points="355,328 9599,313 9579,6291 299,6413"/>
         </PrintSpace>
         <ReadingOrder>
-            <OrderedGroup id="ro_1670486883746" caption="Regions reading order">
+            <OrderedGroup id="ro_1690360017353" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
                 <RegionRefIndexed index="1" regionRef="r2"/>
                 <RegionRefIndexed index="2" regionRef="r3"/>
@@ -882,7 +882,7 @@ den beiden genannten für Frauen anwendbar ſei.</Unicode>
                 <Coords points="3301,1246 3386,1240 3435,1237 3938,1232 4569,1226 4637,1226 4693,1229 4693,1257 4544,1271 3630,1278 3435,1278 3301,1272"/>
                 <Baseline points="3301,1272 3363,1271 3386,1271 3453,1271 3481,1270 3536,1270 3555,1270 3644,1270 3672,1270 3741,1269 3765,1269 3894,1266 3938,1266 4014,1265 4041,1265 4208,1264 4231,1263 4298,1263 4323,1262 4544,1260 4569,1261 4693,1257"/>
                 <TextEquiv>
-                    <Unicode>von 61 ½ auf 61 11/16 pCt. brachte. Den Inhabern von 5 prozentiger Schuld</Unicode>
+                    <Unicode>von 61 ½ auf 61 11⁄16 pCt. brachte. Den Inhabern von 5 prozentiger Schuld</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r10l13" custom="readingOrder {index:12;}">
@@ -959,7 +959,7 @@ den beiden genannten für Frauen anwendbar ſei.</Unicode>
                 <Coords points="3312,1722 3367,1719 3476,1716 4296,1701 4307,1701 4633,1705 4697,1707 4697,1736 4308,1747 4297,1747 3367,1756 3312,1751"/>
                 <Baseline points="3312,1751 3397,1750 3422,1750 3549,1748 3571,1748 3635,1747 3662,1747 3727,1746 3750,1745 3808,1745 3831,1744 3914,1748 3939,1749 4010,1744 4036,1744 4217,1742 4272,1741 4302,1740 4307,1740 4500,1740 4524,1740 4697,1735"/>
                 <TextEquiv>
-                    <Unicode>durch dieſelbe von 74 ¼ auf 74 7/16 pCt. emporkam. 4 ½ prozentige Syndikat⸗</Unicode>
+                    <Unicode>durch dieſelbe von 74 ¼ auf 74 7⁄16 pCt. emporkam. 4 ½ prozentige Syndikat⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r10l24" custom="readingOrder {index:23;}">
@@ -973,7 +973,7 @@ den beiden genannten für Frauen anwendbar ſei.</Unicode>
                 <Coords points="3309,1803 3327,1800 4530,1785 4553,1785 4674,1792 4702,1794 4702,1824 4647,1830 4585,1833 3406,1840 3327,1840 3309,1833"/>
                 <Baseline points="3309,1833 3512,1830 3534,1830 3677,1828 3703,1828 3761,1827 3787,1827 3956,1825 3982,1824 4110,1824 4137,1824 4234,1824 4260,1824 4313,1823 4339,1823 4388,1823 4414,1823 4474,1822 4500,1822 4599,1821 4631,1821 4702,1820"/>
                 <TextEquiv>
-                    <Unicode>5 prozentige wirkliche und oſtindiſche Schuld erhielt ſich feſt auf 100 1/16 pCt.</Unicode>
+                    <Unicode>5 prozentige wirkliche und oſtindiſche Schuld erhielt ſich feſt auf 100 1⁄16 pCt.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r10l26" custom="readingOrder {index:25;}">
@@ -1061,42 +1061,42 @@ den beiden genannten für Frauen anwendbar ſei.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>4. Amſterdam, 27. Juli. Zu Anfang dieſer Woche erſchienen
-mehrere Beſchlüſſe der dieſſeitigen Regierung, bezüglich den Umtauſch von
-holländiſchen Staatspapieren, welche einigen Eindruck auf die Courſe der
-dabei betheiligten Effekten gehabt haben. Der geringe Erfolg. den die Un⸗
-terbringung der 80 Millionen belgiſchen Schuld mittelſt Subſcription kürz⸗
-lich gehabt hat, indem davon nur ein kleiner Theil und dieſer meiſtens nur
-gegen baare Zahlung abgenommen wird, hat den Finanz⸗Miniſter bewogen,
-den Subſkribenten für letztere Weiſe die Freiheit zu bewilligen, ſtatt baare
-Zahlung ad 61 pCt., holländiſche 2 ½ prozentige wirkliche Schuld, gegen eine
-Vergütung von 1 pCt. vom nominalen Betrag, an Zahlungsſtatt zu liefern.
-Dieſe Maßregel veranlaßte einige Kaufluſt für Integrale, welche deren Preis
-von 61 ½ auf 61 11/16 pCt. brachte. Den Inhabern von 5 prozentiger Schuld
-wird bei obigen Beſchlüſſen ein Termin bis zum 20ſten des nächſten Mo⸗
-nats geſtellt, zur freiwilligen Erklärung, ob ſie 4 prozentige neue Schuld ge⸗
-gen eine Vergütung von 4 ½ pCt. annehmen wollen, und wird ferner be⸗
-ſtimmt, daß die hierbei nicht konkurrirenden Obligationen der 5 prozentigen
-oſtindiſchen Schuld zur Ablöſung gegen 1. September nächſtens ange⸗
-meldet werden können, nach welchem Termin deren Verzinſung aufhört.
-Dieſe Beſtimmungen machten einen ungünſtigen Eindruck auf die neue
-4 prozentige Schuld, die danach ſtark ausgeboten wurde und von 96 ⅛ auf
-95 ½ pCt. herunterging. Geſtern war die Stimmung allgemein etwas an⸗
-genehmer, beſonders meldeten ſich Käufer für neue 3 prozentige Schuld, wo⸗
-durch dieſelbe von 74 ¼ auf 74 7/16 pCt. emporkam. 4 ½ prozentige Syndikat⸗
-Obligationen ſind im Laufe der Woche von 99 ⅛ auf 99 ⅜ pCt. geſtiegen.
-5 prozentige wirkliche und oſtindiſche Schuld erhielt ſich feſt auf 100 1/16 pCt.
-Einige Actien der Handels⸗Maatſchappy ſind zu 144 ¾ à 145 pCt. umgeſetzt.
-Das Geſchäft in Eiſenbahn⸗Actien ging träge; für Haarlem⸗Rotterdamer
-iſt zuletzt 100 ½, für Arnheimſche 104 ⅜ pCt. bedungen. Spaniſche Ardoin⸗
-Obligationen fielen von 21 bis 20 ⅝ pCt. Für deren Coupons entſtand
-geſtern lebhafte Frage, wodurch dieſelben 24 ½ à 25 ½ pCt. erreichten; in den
-übrigen fremden Staatspapieren fiel keine erhebliche Veränderung vor; auch
-am Geldmarkte iſt nichts verändert.
-Der Handel am Getraidemarkte war dieſe Woche äußerſt ſtille; polni⸗
-ſcher Weizen wurde niedriger abgelaſſen, und zwar 129pfd. jähriger bunter
-zu 280 Fl.; 130pfd. alter rother königsberger zu 285 Fl. In preußiſchem
-Roggen, in Gerſte und Hafer wurde gar nichts gemacht. Der Getraidezoll
+                <Unicode>4. Amſterdam, 27. Juli. Zu Anfang dieſer Woche erſchienen&#13;
+mehrere Beſchlüſſe der dieſſeitigen Regierung, bezüglich den Umtauſch von&#13;
+holländiſchen Staatspapieren, welche einigen Eindruck auf die Courſe der&#13;
+dabei betheiligten Effekten gehabt haben. Der geringe Erfolg. den die Un⸗&#13;
+terbringung der 80 Millionen belgiſchen Schuld mittelſt Subſcription kürz⸗&#13;
+lich gehabt hat, indem davon nur ein kleiner Theil und dieſer meiſtens nur&#13;
+gegen baare Zahlung abgenommen wird, hat den Finanz⸗Miniſter bewogen,&#13;
+den Subſkribenten für letztere Weiſe die Freiheit zu bewilligen, ſtatt baare&#13;
+Zahlung ad 61 pCt., holländiſche 2 ½ prozentige wirkliche Schuld, gegen eine&#13;
+Vergütung von 1 pCt. vom nominalen Betrag, an Zahlungsſtatt zu liefern.&#13;
+Dieſe Maßregel veranlaßte einige Kaufluſt für Integrale, welche deren Preis&#13;
+von 61 ½ auf 61 11⁄16 pCt. brachte. Den Inhabern von 5 prozentiger Schuld&#13;
+wird bei obigen Beſchlüſſen ein Termin bis zum 20ſten des nächſten Mo⸗&#13;
+nats geſtellt, zur freiwilligen Erklärung, ob ſie 4 prozentige neue Schuld ge⸗&#13;
+gen eine Vergütung von 4 ½ pCt. annehmen wollen, und wird ferner be⸗&#13;
+ſtimmt, daß die hierbei nicht konkurrirenden Obligationen der 5 prozentigen&#13;
+oſtindiſchen Schuld zur Ablöſung gegen 1. September nächſtens ange⸗&#13;
+meldet werden können, nach welchem Termin deren Verzinſung aufhört.&#13;
+Dieſe Beſtimmungen machten einen ungünſtigen Eindruck auf die neue&#13;
+4 prozentige Schuld, die danach ſtark ausgeboten wurde und von 96 ⅛ auf&#13;
+95 ½ pCt. herunterging. Geſtern war die Stimmung allgemein etwas an⸗&#13;
+genehmer, beſonders meldeten ſich Käufer für neue 3 prozentige Schuld, wo⸗&#13;
+durch dieſelbe von 74 ¼ auf 74 7⁄16 pCt. emporkam. 4 ½ prozentige Syndikat⸗&#13;
+Obligationen ſind im Laufe der Woche von 99 ⅛ auf 99 ⅜ pCt. geſtiegen.&#13;
+5 prozentige wirkliche und oſtindiſche Schuld erhielt ſich feſt auf 100 1⁄16 pCt.&#13;
+Einige Actien der Handels⸗Maatſchappy ſind zu 144 ¾ à 145 pCt. umgeſetzt.&#13;
+Das Geſchäft in Eiſenbahn⸗Actien ging träge; für Haarlem⸗Rotterdamer&#13;
+iſt zuletzt 100 ½, für Arnheimſche 104 ⅜ pCt. bedungen. Spaniſche Ardoin⸗&#13;
+Obligationen fielen von 21 bis 20 ⅝ pCt. Für deren Coupons entſtand&#13;
+geſtern lebhafte Frage, wodurch dieſelben 24 ½ à 25 ½ pCt. erreichten; in den&#13;
+übrigen fremden Staatspapieren fiel keine erhebliche Veränderung vor; auch&#13;
+am Geldmarkte iſt nichts verändert.&#13;
+Der Handel am Getraidemarkte war dieſe Woche äußerſt ſtille; polni⸗&#13;
+ſcher Weizen wurde niedriger abgelaſſen, und zwar 129pfd. jähriger bunter&#13;
+zu 280 Fl.; 130pfd. alter rother königsberger zu 285 Fl. In preußiſchem&#13;
+Roggen, in Gerſte und Hafer wurde gar nichts gemacht. Der Getraidezoll&#13;
 iſt für den nächſten Monat nicht verändert.</Unicode>
             </TextEquiv>
         </TextRegion>

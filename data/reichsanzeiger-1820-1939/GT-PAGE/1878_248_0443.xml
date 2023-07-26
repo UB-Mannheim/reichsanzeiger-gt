@@ -3,20 +3,20 @@
     <Metadata>
         <Creator>Transkribus</Creator>
         <Created>2021-12-14T11:43:21.712+01:00</Created>
-        <LastChange>2022-12-07T16:08:33.107+01:00</LastChange>
+        <LastChange>2023-07-26T12:27:22.511+02:00</LastChange>
         <Comments>
                 Measurement unit: pixel
                 PrimaryLanguage: 
                 Producer: Transkribus
             </Comments>
-        <TranskribusMetadata docId="1256542" pageId="50892414" pageNr="22" tsid="105748446" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=OIHOYUAVJTGUJZMSYGXZFFUQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MRLDWGJJITYCGHALCHZHVFBC" imageId="27583907"/>
+        <TranskribusMetadata docId="1256542" pageId="50892414" pageNr="22" tsid="130936344" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=OIHOYUAVJTGUJZMSYGXZFFUQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ONLZKRRMYPATSFWRBFWBXUZJ" imageId="27583907"/>
     </Metadata>
     <Page imageFilename="1878_248_0443.jpg" imageWidth="10152" imageHeight="6984">
         <PrintSpace>
             <Coords points="492,192 9821,187 9811,6798 482,6803"/>
         </PrintSpace>
         <ReadingOrder>
-            <OrderedGroup id="ro_1670487782415" caption="Regions reading order">
+            <OrderedGroup id="ro_1690386033705" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
                 <RegionRefIndexed index="1" regionRef="r2"/>
                 <RegionRefIndexed index="2" regionRef="r3"/>
@@ -2119,7 +2119,7 @@ burg 25,2, in München 32,1, in Nürnberg 23,3, in Augsburg 25,0,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r15l18" custom="readingOrder {index:17;}">
-                <Coords points="3659,1190 3718,1190 4942,1198 5046,1210 5046,1254 4930,1245 4746,1246 3656,1229 3659,1232"/>
+                <Coords points="3659,1190 3656,1229 3659,1232 5046,1254 5046,1210 4942,1198 3718,1190"/>
                 <Baseline points="3659,1228 3837,1230 3862,1230 3971,1231 3995,1232 4055,1232 4080,1232 4184,1233 4212,1233 4269,1234 4295,1234 4411,1235 4435,1235 4530,1236 4566,1237 4620,1237 4644,1238 4771,1239 4793,1240 4880,1241 4901,1241 5046,1243"/>
                 <TextEquiv>
                     <Unicode>München ſchlug der Wind am letzten Tage der Woche nach Nordoſt</Unicode>

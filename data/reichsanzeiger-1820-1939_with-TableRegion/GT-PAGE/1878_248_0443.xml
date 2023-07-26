@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
     <Metadata>
         <Creator>Transkribus</Creator>
@@ -16,7 +16,7 @@
             <Coords points="492,192 9821,187 9811,6798 482,6803"/>
         </PrintSpace>
         <ReadingOrder>
-            <OrderedGroup id="ro_1670486882562" caption="Regions reading order">
+            <OrderedGroup id="ro_1690360015230" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
                 <RegionRefIndexed index="1" regionRef="r2"/>
                 <RegionRefIndexed index="2" regionRef="r3"/>
@@ -2119,7 +2119,7 @@ burg 25,2, in München 32,1, in Nürnberg 23,3, in Augsburg 25,0,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r15l18" custom="readingOrder {index:17;}">
-                <Coords points="3659,1190 3718,1190 4942,1198 5046,1210 5046,1254 4930,1245 4746,1246 3656,1229 3659,1232"/>
+                <Coords points="3659,1190 3656,1229 3659,1232 5046,1254 5046,1210 4942,1198 3718,1190"/>
                 <Baseline points="3659,1228 3837,1230 3862,1230 3971,1231 3995,1232 4055,1232 4080,1232 4184,1233 4212,1233 4269,1234 4295,1234 4411,1235 4435,1235 4530,1236 4566,1237 4620,1237 4644,1238 4771,1239 4793,1240 4880,1241 4901,1241 5046,1243"/>
                 <TextEquiv>
                     <Unicode>München ſchlug der Wind am letzten Tage der Woche nach Nordoſt</Unicode>

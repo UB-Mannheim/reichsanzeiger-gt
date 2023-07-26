@@ -5,20 +5,20 @@
 prov=READ-COOP:name=PyLaia@Transkribus:version=0.7.3:model_id=40804:date=11_08_2022_16:03
 Transkribus</Creator>
         <Created>2022-07-11T15:57:49.743+02:00</Created>
-        <LastChange>2022-12-07T16:31:47.831+01:00</LastChange>
+        <LastChange>2023-07-26T12:38:37.616+02:00</LastChange>
         <Comments>
                 Measurement unit: pixel
                 PrimaryLanguage: 
                 Producer: Transkribus
             </Comments>
-        <TranskribusMetadata docId="1256531" pageId="50892285" pageNr="1" tsid="105748587" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=DRQVUEYWJQWBMQIZIVDLOLQW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LPUXTACBPJIGRRUNCBYKPAQZ" imageId="36438816"/>
+        <TranskribusMetadata docId="1256531" pageId="50892285" pageNr="1" tsid="130940505" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=DRQVUEYWJQWBMQIZIVDLOLQW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BSNIYRBXKIMQLUVZTOFNTFFC" imageId="36438816"/>
     </Metadata>
     <Page imageFilename="1920_147_0606.jpg" imageWidth="10712" imageHeight="7544">
         <PrintSpace>
             <Coords points="904,870 9791,886 9803,7075 874,7070"/>
         </PrintSpace>
         <ReadingOrder>
-            <OrderedGroup id="ro_1670487790056" caption="Regions reading order">
+            <OrderedGroup id="ro_1690386047484" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
                 <RegionRefIndexed index="1" regionRef="r2"/>
                 <RegionRefIndexed index="2" regionRef="r3"/>
@@ -50,150 +50,150 @@ Transkribus</Creator>
                 <RegionRefIndexed index="28" regionRef="r29"/>
                 <RegionRefIndexed index="29" regionRef="r30"/>
                 <RegionRefIndexed index="30" regionRef="r31"/>
-                <RegionRefIndexed index="97" regionRef="TextRegion_1670427107209_14316"/>
-                <RegionRefIndexed index="98" regionRef="TextRegion_1670427107214_14323"/>
-                <RegionRefIndexed index="99" regionRef="TextRegion_1670427107217_14328"/>
-                <RegionRefIndexed index="100" regionRef="TextRegion_1670427107221_14335"/>
-                <RegionRefIndexed index="101" regionRef="TextRegion_1670427107226_14342"/>
-                <RegionRefIndexed index="102" regionRef="TextRegion_1670427107229_14348"/>
-                <RegionRefIndexed index="103" regionRef="TextRegion_1670427107233_14354"/>
-                <RegionRefIndexed index="104" regionRef="TextRegion_1670427107236_14360"/>
-                <RegionRefIndexed index="105" regionRef="TextRegion_1670427107240_14366"/>
-                <RegionRefIndexed index="106" regionRef="TextRegion_1670427107245_14372"/>
-                <RegionRefIndexed index="107" regionRef="TextRegion_1670427107210_14317"/>
-                <RegionRefIndexed index="108" regionRef="TextRegion_1670427107214_14324"/>
-                <RegionRefIndexed index="109" regionRef="TextRegion_1670427107218_14329"/>
-                <RegionRefIndexed index="110" regionRef="TextRegion_1670427107222_14336"/>
-                <RegionRefIndexed index="111" regionRef="TextRegion_1670427107226_14343"/>
-                <RegionRefIndexed index="112" regionRef="TextRegion_1670427107230_14349"/>
-                <RegionRefIndexed index="113" regionRef="TextRegion_1670427107233_14355"/>
-                <RegionRefIndexed index="114" regionRef="TextRegion_1670427107237_14361"/>
-                <RegionRefIndexed index="115" regionRef="TextRegion_1670427107241_14367"/>
-                <RegionRefIndexed index="116" regionRef="TextRegion_1670427107245_14373"/>
-                <RegionRefIndexed index="117" regionRef="TextRegion_1670427107210_14318"/>
-                <RegionRefIndexed index="118" regionRef="TextRegion_1670427107215_14325"/>
-                <RegionRefIndexed index="119" regionRef="TextRegion_1670427107218_14330"/>
-                <RegionRefIndexed index="120" regionRef="TextRegion_1670427107222_14337"/>
-                <RegionRefIndexed index="121" regionRef="TextRegion_1670427107227_14344"/>
-                <RegionRefIndexed index="122" regionRef="TextRegion_1670427107230_14350"/>
-                <RegionRefIndexed index="123" regionRef="TextRegion_1670427107234_14356"/>
-                <RegionRefIndexed index="124" regionRef="TextRegion_1670427107238_14362"/>
-                <RegionRefIndexed index="125" regionRef="TextRegion_1670427107242_14368"/>
-                <RegionRefIndexed index="126" regionRef="TextRegion_1670427107246_14374"/>
-                <RegionRefIndexed index="127" regionRef="TextRegion_1670427107216_14326"/>
-                <RegionRefIndexed index="128" regionRef="TextRegion_1670427107219_14331"/>
-                <RegionRefIndexed index="129" regionRef="TextRegion_1670427107223_14338"/>
-                <RegionRefIndexed index="130" regionRef="TextRegion_1670427107227_14345"/>
-                <RegionRefIndexed index="131" regionRef="TextRegion_1670427107231_14351"/>
-                <RegionRefIndexed index="132" regionRef="TextRegion_1670427107235_14357"/>
-                <RegionRefIndexed index="133" regionRef="TextRegion_1670427107238_14363"/>
-                <RegionRefIndexed index="134" regionRef="TextRegion_1670427107243_14369"/>
-                <RegionRefIndexed index="135" regionRef="TextRegion_1670427107247_14375"/>
-                <RegionRefIndexed index="136" regionRef="TextRegion_1670427107211_14319"/>
-                <RegionRefIndexed index="137" regionRef="TextRegion_1670427107216_14327"/>
-                <RegionRefIndexed index="138" regionRef="TextRegion_1670427107219_14332"/>
-                <RegionRefIndexed index="139" regionRef="TextRegion_1670427107224_14339"/>
-                <RegionRefIndexed index="140" regionRef="TextRegion_1670427107212_14320"/>
-                <RegionRefIndexed index="141" regionRef="TextRegion_1670427107212_14321"/>
-                <RegionRefIndexed index="142" regionRef="TextRegion_1670427107220_14333"/>
-                <RegionRefIndexed index="143" regionRef="TextRegion_1670427107224_14340"/>
-                <RegionRefIndexed index="144" regionRef="TextRegion_1670427107228_14346"/>
-                <RegionRefIndexed index="145" regionRef="TextRegion_1670427107231_14352"/>
-                <RegionRefIndexed index="146" regionRef="TextRegion_1670427107235_14358"/>
-                <RegionRefIndexed index="147" regionRef="TextRegion_1670427107239_14364"/>
-                <RegionRefIndexed index="148" regionRef="TextRegion_1670427107243_14370"/>
-                <RegionRefIndexed index="149" regionRef="TextRegion_1670427107247_14376"/>
-                <RegionRefIndexed index="150" regionRef="TextRegion_1670427107213_14322"/>
-                <RegionRefIndexed index="151" regionRef="TextRegion_1670427107221_14334"/>
-                <RegionRefIndexed index="152" regionRef="TextRegion_1670427107225_14341"/>
-                <RegionRefIndexed index="153" regionRef="TextRegion_1670427107229_14347"/>
-                <RegionRefIndexed index="154" regionRef="TextRegion_1670427107232_14353"/>
-                <RegionRefIndexed index="155" regionRef="TextRegion_1670427107236_14359"/>
-                <RegionRefIndexed index="156" regionRef="TextRegion_1670427107239_14365"/>
-                <RegionRefIndexed index="157" regionRef="TextRegion_1670427107244_14371"/>
-                <RegionRefIndexed index="158" regionRef="TextRegion_1670427107248_14377"/>
-                <RegionRefIndexed index="159" regionRef="TextRegion_1670427107250_14378"/>
-                <RegionRefIndexed index="160" regionRef="TextRegion_1670427107254_14383"/>
-                <RegionRefIndexed index="161" regionRef="TextRegion_1670427107258_14390"/>
-                <RegionRefIndexed index="162" regionRef="TextRegion_1670427107263_14397"/>
-                <RegionRefIndexed index="163" regionRef="TextRegion_1670427107267_14404"/>
-                <RegionRefIndexed index="164" regionRef="TextRegion_1670427107271_14411"/>
-                <RegionRefIndexed index="165" regionRef="TextRegion_1670427107276_14418"/>
-                <RegionRefIndexed index="166" regionRef="TextRegion_1670427107280_14425"/>
-                <RegionRefIndexed index="167" regionRef="TextRegion_1670427107285_14432"/>
-                <RegionRefIndexed index="168" regionRef="TextRegion_1670427107289_14439"/>
-                <RegionRefIndexed index="169" regionRef="TextRegion_1670427107294_14446"/>
-                <RegionRefIndexed index="170" regionRef="TextRegion_1670427107298_14453"/>
-                <RegionRefIndexed index="171" regionRef="TextRegion_1670427107251_14379"/>
-                <RegionRefIndexed index="172" regionRef="TextRegion_1670427107254_14384"/>
-                <RegionRefIndexed index="173" regionRef="TextRegion_1670427107259_14391"/>
-                <RegionRefIndexed index="174" regionRef="TextRegion_1670427107263_14398"/>
-                <RegionRefIndexed index="175" regionRef="TextRegion_1670427107268_14405"/>
-                <RegionRefIndexed index="176" regionRef="TextRegion_1670427107272_14412"/>
-                <RegionRefIndexed index="177" regionRef="TextRegion_1670427107276_14419"/>
-                <RegionRefIndexed index="178" regionRef="TextRegion_1670427107281_14426"/>
-                <RegionRefIndexed index="179" regionRef="TextRegion_1670427107286_14433"/>
-                <RegionRefIndexed index="180" regionRef="TextRegion_1670427107290_14440"/>
-                <RegionRefIndexed index="181" regionRef="TextRegion_1670427107294_14447"/>
-                <RegionRefIndexed index="182" regionRef="TextRegion_1670427107298_14454"/>
-                <RegionRefIndexed index="183" regionRef="TextRegion_1670427107252_14380"/>
-                <RegionRefIndexed index="184" regionRef="TextRegion_1670427107255_14385"/>
-                <RegionRefIndexed index="185" regionRef="TextRegion_1670427107259_14392"/>
-                <RegionRefIndexed index="186" regionRef="TextRegion_1670427107264_14399"/>
-                <RegionRefIndexed index="187" regionRef="TextRegion_1670427107268_14406"/>
-                <RegionRefIndexed index="188" regionRef="TextRegion_1670427107273_14413"/>
-                <RegionRefIndexed index="189" regionRef="TextRegion_1670427107277_14420"/>
-                <RegionRefIndexed index="190" regionRef="TextRegion_1670427107282_14427"/>
-                <RegionRefIndexed index="191" regionRef="TextRegion_1670427107286_14434"/>
-                <RegionRefIndexed index="192" regionRef="TextRegion_1670427107291_14441"/>
-                <RegionRefIndexed index="193" regionRef="TextRegion_1670427107295_14448"/>
-                <RegionRefIndexed index="194" regionRef="TextRegion_1670427107299_14455"/>
-                <RegionRefIndexed index="195" regionRef="TextRegion_1670427107256_14386"/>
-                <RegionRefIndexed index="196" regionRef="TextRegion_1670427107260_14393"/>
-                <RegionRefIndexed index="197" regionRef="TextRegion_1670427107265_14400"/>
-                <RegionRefIndexed index="198" regionRef="TextRegion_1670427107269_14407"/>
-                <RegionRefIndexed index="199" regionRef="TextRegion_1670427107273_14414"/>
-                <RegionRefIndexed index="200" regionRef="TextRegion_1670427107277_14421"/>
-                <RegionRefIndexed index="201" regionRef="TextRegion_1670427107282_14428"/>
-                <RegionRefIndexed index="202" regionRef="TextRegion_1670427107287_14435"/>
-                <RegionRefIndexed index="203" regionRef="TextRegion_1670427107291_14442"/>
-                <RegionRefIndexed index="204" regionRef="TextRegion_1670427107296_14449"/>
-                <RegionRefIndexed index="205" regionRef="TextRegion_1670427107300_14456"/>
-                <RegionRefIndexed index="206" regionRef="TextRegion_1670427107252_14381"/>
-                <RegionRefIndexed index="207" regionRef="TextRegion_1670427107257_14389"/>
-                <RegionRefIndexed index="208" regionRef="TextRegion_1670427107261_14394"/>
-                <RegionRefIndexed index="209" regionRef="TextRegion_1670427107265_14401"/>
-                <RegionRefIndexed index="210" regionRef="TextRegion_1670427107269_14408"/>
-                <RegionRefIndexed index="211" regionRef="TextRegion_1670427107274_14415"/>
-                <RegionRefIndexed index="212" regionRef="TextRegion_1670427107278_14422"/>
-                <RegionRefIndexed index="213" regionRef="TextRegion_1670427107283_14429"/>
-                <RegionRefIndexed index="214" regionRef="TextRegion_1670427107288_14436"/>
-                <RegionRefIndexed index="215" regionRef="TextRegion_1670427107292_14443"/>
-                <RegionRefIndexed index="216" regionRef="TextRegion_1670427107296_14450"/>
-                <RegionRefIndexed index="217" regionRef="TextRegion_1670427107301_14457"/>
-                <RegionRefIndexed index="218" regionRef="TextRegion_1670427107253_14382"/>
-                <RegionRefIndexed index="219" regionRef="TextRegion_1670427107256_14387"/>
-                <RegionRefIndexed index="220" regionRef="TextRegion_1670427107261_14395"/>
-                <RegionRefIndexed index="221" regionRef="TextRegion_1670427107266_14402"/>
-                <RegionRefIndexed index="222" regionRef="TextRegion_1670427107270_14409"/>
-                <RegionRefIndexed index="223" regionRef="TextRegion_1670427107274_14416"/>
-                <RegionRefIndexed index="224" regionRef="TextRegion_1670427107279_14423"/>
-                <RegionRefIndexed index="225" regionRef="TextRegion_1670427107284_14430"/>
-                <RegionRefIndexed index="226" regionRef="TextRegion_1670427107288_14437"/>
-                <RegionRefIndexed index="227" regionRef="TextRegion_1670427107293_14444"/>
-                <RegionRefIndexed index="228" regionRef="TextRegion_1670427107297_14451"/>
-                <RegionRefIndexed index="229" regionRef="TextRegion_1670427107301_14458"/>
-                <RegionRefIndexed index="230" regionRef="TextRegion_1670427107257_14388"/>
-                <RegionRefIndexed index="231" regionRef="TextRegion_1670427107262_14396"/>
-                <RegionRefIndexed index="232" regionRef="TextRegion_1670427107266_14403"/>
-                <RegionRefIndexed index="233" regionRef="TextRegion_1670427107271_14410"/>
-                <RegionRefIndexed index="234" regionRef="TextRegion_1670427107275_14417"/>
-                <RegionRefIndexed index="235" regionRef="TextRegion_1670427107280_14424"/>
-                <RegionRefIndexed index="236" regionRef="TextRegion_1670427107284_14431"/>
-                <RegionRefIndexed index="237" regionRef="TextRegion_1670427107289_14438"/>
-                <RegionRefIndexed index="238" regionRef="TextRegion_1670427107293_14445"/>
-                <RegionRefIndexed index="239" regionRef="TextRegion_1670427107297_14452"/>
-                <RegionRefIndexed index="240" regionRef="TextRegion_1670427107302_14459"/>
+                <RegionRefIndexed index="97" regionRef="TextRegion_1690367917107_14316"/>
+                <RegionRefIndexed index="98" regionRef="TextRegion_1690367917112_14323"/>
+                <RegionRefIndexed index="99" regionRef="TextRegion_1690367917115_14328"/>
+                <RegionRefIndexed index="100" regionRef="TextRegion_1690367917118_14335"/>
+                <RegionRefIndexed index="101" regionRef="TextRegion_1690367917121_14342"/>
+                <RegionRefIndexed index="102" regionRef="TextRegion_1690367917123_14348"/>
+                <RegionRefIndexed index="103" regionRef="TextRegion_1690367917125_14354"/>
+                <RegionRefIndexed index="104" regionRef="TextRegion_1690367917126_14360"/>
+                <RegionRefIndexed index="105" regionRef="TextRegion_1690367917127_14366"/>
+                <RegionRefIndexed index="106" regionRef="TextRegion_1690367917128_14372"/>
+                <RegionRefIndexed index="107" regionRef="TextRegion_1690367917108_14317"/>
+                <RegionRefIndexed index="108" regionRef="TextRegion_1690367917112_14324"/>
+                <RegionRefIndexed index="109" regionRef="TextRegion_1690367917115_14329"/>
+                <RegionRefIndexed index="110" regionRef="TextRegion_1690367917119_14336"/>
+                <RegionRefIndexed index="111" regionRef="TextRegion_1690367917122_14343"/>
+                <RegionRefIndexed index="112" regionRef="TextRegion_1690367917123_14349"/>
+                <RegionRefIndexed index="113" regionRef="TextRegion_1690367917125_14355"/>
+                <RegionRefIndexed index="114" regionRef="TextRegion_1690367917126_14361"/>
+                <RegionRefIndexed index="115" regionRef="TextRegion_1690367917127_14367"/>
+                <RegionRefIndexed index="116" regionRef="TextRegion_1690367917128_14373"/>
+                <RegionRefIndexed index="117" regionRef="TextRegion_1690367917108_14318"/>
+                <RegionRefIndexed index="118" regionRef="TextRegion_1690367917113_14325"/>
+                <RegionRefIndexed index="119" regionRef="TextRegion_1690367917116_14330"/>
+                <RegionRefIndexed index="120" regionRef="TextRegion_1690367917120_14337"/>
+                <RegionRefIndexed index="121" regionRef="TextRegion_1690367917122_14344"/>
+                <RegionRefIndexed index="122" regionRef="TextRegion_1690367917124_14350"/>
+                <RegionRefIndexed index="123" regionRef="TextRegion_1690367917125_14356"/>
+                <RegionRefIndexed index="124" regionRef="TextRegion_1690367917126_14362"/>
+                <RegionRefIndexed index="125" regionRef="TextRegion_1690367917127_14368"/>
+                <RegionRefIndexed index="126" regionRef="TextRegion_1690367917128_14374"/>
+                <RegionRefIndexed index="127" regionRef="TextRegion_1690367917114_14326"/>
+                <RegionRefIndexed index="128" regionRef="TextRegion_1690367917117_14331"/>
+                <RegionRefIndexed index="129" regionRef="TextRegion_1690367917120_14338"/>
+                <RegionRefIndexed index="130" regionRef="TextRegion_1690367917122_14345"/>
+                <RegionRefIndexed index="131" regionRef="TextRegion_1690367917124_14351"/>
+                <RegionRefIndexed index="132" regionRef="TextRegion_1690367917125_14357"/>
+                <RegionRefIndexed index="133" regionRef="TextRegion_1690367917126_14363"/>
+                <RegionRefIndexed index="134" regionRef="TextRegion_1690367917127_14369"/>
+                <RegionRefIndexed index="135" regionRef="TextRegion_1690367917128_14375"/>
+                <RegionRefIndexed index="136" regionRef="TextRegion_1690367917109_14319"/>
+                <RegionRefIndexed index="137" regionRef="TextRegion_1690367917114_14327"/>
+                <RegionRefIndexed index="138" regionRef="TextRegion_1690367917117_14332"/>
+                <RegionRefIndexed index="139" regionRef="TextRegion_1690367917121_14339"/>
+                <RegionRefIndexed index="140" regionRef="TextRegion_1690367917110_14320"/>
+                <RegionRefIndexed index="141" regionRef="TextRegion_1690367917110_14321"/>
+                <RegionRefIndexed index="142" regionRef="TextRegion_1690367917117_14333"/>
+                <RegionRefIndexed index="143" regionRef="TextRegion_1690367917121_14340"/>
+                <RegionRefIndexed index="144" regionRef="TextRegion_1690367917123_14346"/>
+                <RegionRefIndexed index="145" regionRef="TextRegion_1690367917124_14352"/>
+                <RegionRefIndexed index="146" regionRef="TextRegion_1690367917125_14358"/>
+                <RegionRefIndexed index="147" regionRef="TextRegion_1690367917126_14364"/>
+                <RegionRefIndexed index="148" regionRef="TextRegion_1690367917127_14370"/>
+                <RegionRefIndexed index="149" regionRef="TextRegion_1690367917128_14376"/>
+                <RegionRefIndexed index="150" regionRef="TextRegion_1690367917111_14322"/>
+                <RegionRefIndexed index="151" regionRef="TextRegion_1690367917118_14334"/>
+                <RegionRefIndexed index="152" regionRef="TextRegion_1690367917121_14341"/>
+                <RegionRefIndexed index="153" regionRef="TextRegion_1690367917123_14347"/>
+                <RegionRefIndexed index="154" regionRef="TextRegion_1690367917124_14353"/>
+                <RegionRefIndexed index="155" regionRef="TextRegion_1690367917125_14359"/>
+                <RegionRefIndexed index="156" regionRef="TextRegion_1690367917127_14365"/>
+                <RegionRefIndexed index="157" regionRef="TextRegion_1690367917128_14371"/>
+                <RegionRefIndexed index="158" regionRef="TextRegion_1690367917129_14377"/>
+                <RegionRefIndexed index="159" regionRef="TextRegion_1690367917130_14378"/>
+                <RegionRefIndexed index="160" regionRef="TextRegion_1690367917131_14383"/>
+                <RegionRefIndexed index="161" regionRef="TextRegion_1690367917132_14390"/>
+                <RegionRefIndexed index="162" regionRef="TextRegion_1690367917134_14397"/>
+                <RegionRefIndexed index="163" regionRef="TextRegion_1690367917135_14404"/>
+                <RegionRefIndexed index="164" regionRef="TextRegion_1690367917136_14411"/>
+                <RegionRefIndexed index="165" regionRef="TextRegion_1690367917137_14418"/>
+                <RegionRefIndexed index="166" regionRef="TextRegion_1690367917139_14425"/>
+                <RegionRefIndexed index="167" regionRef="TextRegion_1690367917140_14432"/>
+                <RegionRefIndexed index="168" regionRef="TextRegion_1690367917141_14439"/>
+                <RegionRefIndexed index="169" regionRef="TextRegion_1690367917142_14446"/>
+                <RegionRefIndexed index="170" regionRef="TextRegion_1690367917144_14453"/>
+                <RegionRefIndexed index="171" regionRef="TextRegion_1690367917130_14379"/>
+                <RegionRefIndexed index="172" regionRef="TextRegion_1690367917131_14384"/>
+                <RegionRefIndexed index="173" regionRef="TextRegion_1690367917133_14391"/>
+                <RegionRefIndexed index="174" regionRef="TextRegion_1690367917134_14398"/>
+                <RegionRefIndexed index="175" regionRef="TextRegion_1690367917135_14405"/>
+                <RegionRefIndexed index="176" regionRef="TextRegion_1690367917136_14412"/>
+                <RegionRefIndexed index="177" regionRef="TextRegion_1690367917138_14419"/>
+                <RegionRefIndexed index="178" regionRef="TextRegion_1690367917139_14426"/>
+                <RegionRefIndexed index="179" regionRef="TextRegion_1690367917140_14433"/>
+                <RegionRefIndexed index="180" regionRef="TextRegion_1690367917141_14440"/>
+                <RegionRefIndexed index="181" regionRef="TextRegion_1690367917143_14447"/>
+                <RegionRefIndexed index="182" regionRef="TextRegion_1690367917144_14454"/>
+                <RegionRefIndexed index="183" regionRef="TextRegion_1690367917130_14380"/>
+                <RegionRefIndexed index="184" regionRef="TextRegion_1690367917131_14385"/>
+                <RegionRefIndexed index="185" regionRef="TextRegion_1690367917133_14392"/>
+                <RegionRefIndexed index="186" regionRef="TextRegion_1690367917134_14399"/>
+                <RegionRefIndexed index="187" regionRef="TextRegion_1690367917135_14406"/>
+                <RegionRefIndexed index="188" regionRef="TextRegion_1690367917137_14413"/>
+                <RegionRefIndexed index="189" regionRef="TextRegion_1690367917138_14420"/>
+                <RegionRefIndexed index="190" regionRef="TextRegion_1690367917139_14427"/>
+                <RegionRefIndexed index="191" regionRef="TextRegion_1690367917140_14434"/>
+                <RegionRefIndexed index="192" regionRef="TextRegion_1690367917141_14441"/>
+                <RegionRefIndexed index="193" regionRef="TextRegion_1690367917143_14448"/>
+                <RegionRefIndexed index="194" regionRef="TextRegion_1690367917144_14455"/>
+                <RegionRefIndexed index="195" regionRef="TextRegion_1690367917132_14386"/>
+                <RegionRefIndexed index="196" regionRef="TextRegion_1690367917133_14393"/>
+                <RegionRefIndexed index="197" regionRef="TextRegion_1690367917134_14400"/>
+                <RegionRefIndexed index="198" regionRef="TextRegion_1690367917135_14407"/>
+                <RegionRefIndexed index="199" regionRef="TextRegion_1690367917137_14414"/>
+                <RegionRefIndexed index="200" regionRef="TextRegion_1690367917138_14421"/>
+                <RegionRefIndexed index="201" regionRef="TextRegion_1690367917139_14428"/>
+                <RegionRefIndexed index="202" regionRef="TextRegion_1690367917140_14435"/>
+                <RegionRefIndexed index="203" regionRef="TextRegion_1690367917142_14442"/>
+                <RegionRefIndexed index="204" regionRef="TextRegion_1690367917143_14449"/>
+                <RegionRefIndexed index="205" regionRef="TextRegion_1690367917144_14456"/>
+                <RegionRefIndexed index="206" regionRef="TextRegion_1690367917130_14381"/>
+                <RegionRefIndexed index="207" regionRef="TextRegion_1690367917132_14389"/>
+                <RegionRefIndexed index="208" regionRef="TextRegion_1690367917133_14394"/>
+                <RegionRefIndexed index="209" regionRef="TextRegion_1690367917134_14401"/>
+                <RegionRefIndexed index="210" regionRef="TextRegion_1690367917136_14408"/>
+                <RegionRefIndexed index="211" regionRef="TextRegion_1690367917137_14415"/>
+                <RegionRefIndexed index="212" regionRef="TextRegion_1690367917138_14422"/>
+                <RegionRefIndexed index="213" regionRef="TextRegion_1690367917139_14429"/>
+                <RegionRefIndexed index="214" regionRef="TextRegion_1690367917141_14436"/>
+                <RegionRefIndexed index="215" regionRef="TextRegion_1690367917142_14443"/>
+                <RegionRefIndexed index="216" regionRef="TextRegion_1690367917143_14450"/>
+                <RegionRefIndexed index="217" regionRef="TextRegion_1690367917144_14457"/>
+                <RegionRefIndexed index="218" regionRef="TextRegion_1690367917131_14382"/>
+                <RegionRefIndexed index="219" regionRef="TextRegion_1690367917132_14387"/>
+                <RegionRefIndexed index="220" regionRef="TextRegion_1690367917133_14395"/>
+                <RegionRefIndexed index="221" regionRef="TextRegion_1690367917135_14402"/>
+                <RegionRefIndexed index="222" regionRef="TextRegion_1690367917136_14409"/>
+                <RegionRefIndexed index="223" regionRef="TextRegion_1690367917137_14416"/>
+                <RegionRefIndexed index="224" regionRef="TextRegion_1690367917138_14423"/>
+                <RegionRefIndexed index="225" regionRef="TextRegion_1690367917140_14430"/>
+                <RegionRefIndexed index="226" regionRef="TextRegion_1690367917141_14437"/>
+                <RegionRefIndexed index="227" regionRef="TextRegion_1690367917142_14444"/>
+                <RegionRefIndexed index="228" regionRef="TextRegion_1690367917143_14451"/>
+                <RegionRefIndexed index="229" regionRef="TextRegion_1690367917145_14458"/>
+                <RegionRefIndexed index="230" regionRef="TextRegion_1690367917132_14388"/>
+                <RegionRefIndexed index="231" regionRef="TextRegion_1690367917133_14396"/>
+                <RegionRefIndexed index="232" regionRef="TextRegion_1690367917135_14403"/>
+                <RegionRefIndexed index="233" regionRef="TextRegion_1690367917136_14410"/>
+                <RegionRefIndexed index="234" regionRef="TextRegion_1690367917137_14417"/>
+                <RegionRefIndexed index="235" regionRef="TextRegion_1690367917138_14424"/>
+                <RegionRefIndexed index="236" regionRef="TextRegion_1690367917140_14431"/>
+                <RegionRefIndexed index="237" regionRef="TextRegion_1690367917141_14438"/>
+                <RegionRefIndexed index="238" regionRef="TextRegion_1690367917142_14445"/>
+                <RegionRefIndexed index="239" regionRef="TextRegion_1690367917144_14452"/>
+                <RegionRefIndexed index="240" regionRef="TextRegion_1690367917145_14459"/>
             </OrderedGroup>
         </ReadingOrder>
         <TextRegion type="paragraph" id="r1" custom="readingOrder {index:0;} structure {type:paragraph;}">
@@ -360,7 +360,7 @@ Transkribus</Creator>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l24" custom="readingOrder {index:23;}">
-                <Coords points="1049,1988 1397,1986 1397,1986 2016,1986 2323,1987 2412,1994 2412,2025 2377,2031 2260,2031 1049,2030"/>
+                <Coords points="1049,1988 1397,1986 2016,1986 2323,1987 2412,1994 2412,2025 2377,2031 2260,2031 1049,2030"/>
                 <Baseline points="1049,2025 1218,2023 1284,2023 1354,2023 1397,2023 1631,2022 1683,2022 1734,2022 1775,2022 1828,2022 1867,2022 2016,2023 2055,2023 2109,2023 2150,2024 2412,2025"/>
                 <TextEquiv>
                     <Unicode>vertiefen. Die Entſcheidung für die Zukunft der Abſtimmungs⸗</Unicode>
@@ -651,7 +651,7 @@ der Gegner zerſplittern.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l26" custom="readingOrder {index:25;}">
-                <Coords points="1042,3856 1099,3844 1112,3843 1112,3843 1151,3843 1860,3844 1900,3845 1988,3858 1988,3884 1927,3891 1815,3893 1680,3893 1042,3891"/>
+                <Coords points="1042,3856 1099,3844 1112,3843 1151,3843 1860,3844 1900,3845 1988,3858 1988,3884 1927,3891 1815,3893 1680,3893 1042,3891"/>
                 <Baseline points="1042,3882 1207,3882 1237,3882 1302,3883 1331,3883 1454,3883 1479,3883 1651,3883 1680,3883 1988,3884"/>
                 <TextEquiv>
                     <Unicode>zwiſchen den beiden Ländern herbeizuführen.</Unicode>
@@ -1252,7 +1252,7 @@ vertagte ſich hierauf</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l14" custom="readingOrder {index:13;}">
-                <Coords points="2486,1593 2504,1581 2504,1581 2767,1581 3572,1583 3680,1584 3775,1586 3841,1598 3841,1634 3807,1634 2999,1632 2504,1630 2486,1620"/>
+                <Coords points="2486,1593 2504,1581 2767,1581 3572,1583 3680,1584 3775,1586 3841,1598 3841,1634 3807,1634 2999,1632 2504,1630 2486,1620"/>
                 <Baseline points="2486,1620 2650,1621 2693,1621 2767,1622 2837,1623 2955,1623 2999,1623 3109,1623 3134,1623 3423,1623 3468,1623 3616,1623 3659,1624 3714,1624 3743,1626 3841,1624"/>
                 <TextEquiv>
                     <Unicode>erfolgen ſoll. Unter dieſer Vorausſetzung würden die Eng⸗</Unicode>
@@ -1357,7 +1357,7 @@ vertagte ſich hierauf</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l29" custom="readingOrder {index:28;}">
-                <Coords points="2480,2347 2503,2336 2530,2335 2707,2334 2707,2334 2898,2334 3076,2335 3106,2347 3116,2367 3116,2374 3076,2382 2898,2384 2530,2384 2480,2376"/>
+                <Coords points="2480,2347 2503,2336 2530,2335 2707,2334 2898,2334 3076,2335 3106,2347 3116,2367 3116,2374 3076,2382 2898,2384 2530,2384 2480,2376"/>
                 <Baseline points="2480,2376 2679,2374 2707,2374 2917,2374 2943,2374 3116,2374"/>
                 <TextEquiv>
                     <Unicode>möglichen Auskünfte erhalten.</Unicode>
@@ -1504,7 +1504,7 @@ vertagte ſich hierauf</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l50" custom="readingOrder {index:49;}">
-                <Coords points="2986,3588 3011,3587 3011,3587 3282,3587 3312,3589 3312,3628 3282,3637 3011,3637 2986,3628"/>
+                <Coords points="2986,3588 3011,3587 3282,3587 3312,3589 3312,3628 3282,3637 3011,3637 2986,3628"/>
                 <Baseline points="2986,3628 3312,3628"/>
                 <TextEquiv>
                     <Unicode>Griechenland.</Unicode>
@@ -1602,7 +1602,7 @@ vertagte ſich hierauf</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l64" custom="readingOrder {index:63;}">
-                <Coords points="3068,4259 3091,4258 3091,4258 3184,4258 3212,4270 3212,4298 3184,4305 3091,4305 3068,4298"/>
+                <Coords points="3068,4259 3091,4258 3184,4258 3212,4270 3212,4298 3184,4305 3091,4305 3068,4298"/>
                 <Baseline points="3068,4298 3212,4298"/>
                 <TextEquiv>
                     <Unicode>Aſien.</Unicode>
@@ -1693,7 +1693,7 @@ vertagte ſich hierauf</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l77" custom="readingOrder {index:76;}">
-                <Coords points="2460,4934 2476,4920 2476,4920 2618,4920 3453,4923 3688,4925 3708,4930 3708,4965 3688,4974 3654,4974 2476,4971 2460,4962"/>
+                <Coords points="2460,4934 2476,4920 2618,4920 3453,4923 3688,4925 3708,4930 3708,4965 3688,4974 3654,4974 2476,4971 2460,4962"/>
                 <Baseline points="2460,4962 2618,4961 2657,4961 2699,4961 2711,4961 2863,4962 2894,4962 2955,4963 2979,4963 3198,4963 3225,4963 3453,4964 3480,4964 3627,4963 3654,4964 3708,4965"/>
                 <TextEquiv>
                     <Unicode>ruſſiſche Regierung für Oſtſibirien aufgerichtet worden iſt.</Unicode>
@@ -1721,7 +1721,7 @@ vertagte ſich hierauf</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l81" custom="readingOrder {index:80;}">
-                <Coords points="2457,5144 2510,5132 2523,5131 2537,5130 2537,5130 2770,5130 3419,5132 3438,5136 3438,5173 3419,5183 3298,5183 2457,5180"/>
+                <Coords points="2457,5144 2510,5132 2523,5131 2537,5130 2770,5130 3419,5132 3438,5136 3438,5173 3419,5183 3298,5183 2457,5180"/>
                 <Baseline points="2457,5170 2620,5171 2647,5171 2770,5171 2798,5171 2968,5172 2995,5172 3071,5172 3101,5172 3436,5173"/>
                 <TextEquiv>
                     <Unicode>zwiſchen beiden Ländern ſind wiederhergeſtellt.</Unicode>
@@ -2328,7 +2328,7 @@ Streiktage werden nicht vergütet.</Unicode>
         <TextRegion type="paragraph" id="r6" custom="readingOrder {index:5;} structure {type:paragraph;}">
             <Coords points="3896,2221 5280,2221 5280,2628 3896,2628"/>
             <TextLine id="r6l1" custom="readingOrder {index:0;}">
-                <Coords points="3999,2236 4015,2234 4205,2233 4205,2233 4674,2233 4901,2234 5067,2235 5165,2237 5165,2280 5125,2281 5016,2281 4205,2280 3999,2279"/>
+                <Coords points="3999,2236 4015,2234 4205,2233 4674,2233 4901,2234 5067,2235 5165,2237 5165,2280 5125,2281 5016,2281 4205,2280 3999,2279"/>
                 <Baseline points="3999,2272 4162,2272 4190,2272 4423,2272 4446,2272 4674,2272 4701,2272 4724,2272 4751,2272 4776,2272 4799,2272 4827,2273 4851,2273 4975,2274 4997,2274 5165,2273"/>
                 <TextEquiv>
                     <Unicode>(Weitere „Statiſtiſche Nachrichten“ ſ. i. d. Erſten Beilage.)</Unicode>
@@ -2857,7 +2857,7 @@ und Erſte und Zweite Zentral⸗Handelsregiſter⸗Beilage.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r16l2" custom="readingOrder {index:1;}">
-                <Coords points="5569,1101 5762,1069 5762,1069 6305,1069 9476,1089 9697,1115 9697,1199 9560,1210 9360,1214 8320,1214 6814,1206 6109,1199 5569,1186"/>
+                <Coords points="5569,1101 5762,1069 6305,1069 9476,1089 9697,1115 9697,1199 9560,1210 9360,1214 8320,1214 6814,1206 6109,1199 5569,1186"/>
                 <Baseline points="5569,1174 5731,1176 5762,1177 6441,1185 6463,1185 7545,1188 7572,1189 7728,1190 7759,1191 8602,1201 8631,1201 9697,1198"/>
                 <TextEquiv>
                     <Unicode>zum Deutſchen Reichsanzeiger und Preußiſchen Staatsanzeiger</Unicode>
@@ -3889,7 +3889,7 @@ J. A.: Dr. Hausmann.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r24l26" custom="readingOrder {index:25;}">
-                <Coords points="6948,3048 6988,3047 6988,3047 7043,3047 7362,3048 7385,3061 7385,3089 7362,3097 6948,3097"/>
+                <Coords points="6948,3048 6988,3047 7043,3047 7362,3048 7385,3061 7385,3089 7362,3097 6948,3097"/>
                 <Baseline points="6948,3088 7063,3088 7088,3088 7148,3088 7175,3088 7218,3088 7248,3088 7385,3089"/>
                 <TextEquiv>
                     <Unicode>ſtraße 33, zu richten.</Unicode>
@@ -4084,7 +4084,7 @@ J. A.: Dr. Buſſe.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r25l20" custom="readingOrder {index:19;}">
-                <Coords points="7395,4365 7472,4363 7472,4363 7491,4363 7621,4364 7726,4365 7768,4366 7788,4367 7823,4379 7823,4407 7788,4415 7701,4415 7395,4411"/>
+                <Coords points="7395,4365 7472,4363 7491,4363 7621,4364 7726,4365 7768,4366 7788,4367 7823,4379 7823,4407 7788,4415 7701,4415 7395,4411"/>
                 <Baseline points="7395,4401 7442,4402 7472,4403 7538,4404 7573,4404 7645,4404 7673,4405 7823,4407"/>
                 <TextEquiv>
                     <Unicode>J. A.: Dr. Buſſe.</Unicode>
@@ -4602,7 +4602,7 @@ J. A.: Dr. Hausmann.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r28l21" custom="readingOrder {index:20;}">
-                <Coords points="8375,2429 8671,2428 8671,2428 8789,2428 8811,2442 8811,2470 8789,2478 8435,2479 8375,2479"/>
+                <Coords points="8375,2429 8671,2428 8789,2428 8811,2442 8811,2470 8789,2478 8435,2479 8375,2479"/>
                 <Baseline points="8375,2470 8490,2470 8517,2470 8580,2470 8606,2470 8645,2470 8671,2470 8811,2470"/>
                 <TextEquiv>
                     <Unicode>ſtraße 33, zu richten.</Unicode>
@@ -5485,7 +5485,7 @@ J. A.: Dr. Wulff.</Unicode>
         <SeparatorRegion id="r_95" custom="readingOrder {index:96;}">
             <Coords points="9904,4594 9908,4594 9908,4660 9904,4660"/>
         </SeparatorRegion>
-        <TextRegion id="TextRegion_1670427107209_14316" custom="readingOrder {index:97;} structure {type:T0C0;}">
+        <TextRegion id="TextRegion_1690367917107_14316" custom="readingOrder {index:97;} structure {type:T0C0;}">
             <Coords points="3898,4349 3898,4402 3898,4485 4079,4485 4080,4402 4080,4349"/>
             <TextLine id="TableCell_1657868546098_525l0" custom="readingOrder {index:0;}">
                 <Coords points="3907,4402 3930,4401 4005,4401 4049,4402 4070,4415 4074,4447 4049,4446 3927,4450 3904,4446"/>
@@ -5498,7 +5498,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107214_14323" custom="readingOrder {index:98;} structure {type:T0C0;}">
+        <TextRegion id="TextRegion_1690367917112_14323" custom="readingOrder {index:98;} structure {type:T0C0;}">
             <Coords points="3898,4485 3898,4548 4078,4548 4079,4485"/>
             <TextLine id="TableCell_1657868536566_470l0" custom="readingOrder {index:0;}">
                 <Coords points="3958,4510 4011,4511 4012,4542 3959,4541"/>
@@ -5511,7 +5511,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107217_14328" custom="readingOrder {index:99;} structure {type:T0C0;}">
+        <TextRegion id="TextRegion_1690367917115_14328" custom="readingOrder {index:99;} structure {type:T0C0;}">
             <Coords points="3898,4548 3898,4620 4077,4620 4078,4548"/>
             <TextLine id="TableCell_1657868536598_476l0" custom="readingOrder {index:0;}">
                 <Coords points="3963,4580 4028,4580 4027,4618 3962,4618"/>
@@ -5524,7 +5524,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107221_14335" custom="readingOrder {index:100;} structure {type:T0C0;}">
+        <TextRegion id="TextRegion_1690367917118_14335" custom="readingOrder {index:100;} structure {type:T0C0;}">
             <Coords points="3898,4620 3898,4664 4076,4664 4077,4620"/>
             <TextLine id="TableCell_1657868536631_482l0" custom="readingOrder {index:0;}">
                 <Coords points="3954,4624 4001,4621 4032,4624 4034,4663 3985,4663 3955,4661"/>
@@ -5537,7 +5537,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107226_14342" custom="readingOrder {index:101;} structure {type:T0C0;}">
+        <TextRegion id="TextRegion_1690367917121_14342" custom="readingOrder {index:101;} structure {type:T0C0;}">
             <Coords points="3898,4664 3898,4707 4076,4707 4076,4664"/>
             <TextLine id="TableCell_1657868536661_488l0" custom="readingOrder {index:0;}">
                 <Coords points="3955,4666 4032,4666 4033,4706 3956,4706"/>
@@ -5550,7 +5550,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107229_14348" custom="readingOrder {index:102;} structure {type:T0C0;}">
+        <TextRegion id="TextRegion_1690367917123_14348" custom="readingOrder {index:102;} structure {type:T0C0;}">
             <Coords points="3898,4707 3899,4750 4075,4750 4076,4707"/>
             <TextLine id="TableCell_1657868536690_494l0" custom="readingOrder {index:0;}">
                 <Coords points="3931,4707 4034,4708 4034,4751 3932,4750"/>
@@ -5563,7 +5563,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107233_14354" custom="readingOrder {index:103;} structure {type:T0C0;}">
+        <TextRegion id="TextRegion_1690367917125_14354" custom="readingOrder {index:103;} structure {type:T0C0;}">
             <Coords points="3899,4750 3898,4797 4075,4797 4075,4750"/>
             <TextLine id="TableCell_1657868536716_500l0" custom="readingOrder {index:0;}">
                 <Coords points="3933,4751 4030,4753 4026,4792 3980,4793 3937,4790 3932,4775"/>
@@ -5576,7 +5576,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107236_14360" custom="readingOrder {index:104;} structure {type:T0C0;}">
+        <TextRegion id="TextRegion_1690367917126_14360" custom="readingOrder {index:104;} structure {type:T0C0;}">
             <Coords points="3898,4797 3898,4840 4074,4840 4075,4797"/>
             <TextLine id="TableCell_1657868536746_506l0" custom="readingOrder {index:0;}">
                 <Coords points="3935,4798 3952,4798 4031,4799 4031,4832 4003,4838 3935,4838"/>
@@ -5589,7 +5589,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107240_14366" custom="readingOrder {index:105;} structure {type:T0C0;}">
+        <TextRegion id="TextRegion_1690367917127_14366" custom="readingOrder {index:105;} structure {type:T0C0;}">
             <Coords points="3898,4840 3899,4883 4074,4883 4074,4840"/>
             <TextLine id="TableCell_1657868536772_512l0" custom="readingOrder {index:0;}">
                 <Coords points="3923,4839 4026,4843 4034,4877 3972,4880 3918,4878"/>
@@ -5602,7 +5602,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107245_14372" custom="readingOrder {index:106;} structure {type:T0C0;}">
+        <TextRegion id="TextRegion_1690367917128_14372" custom="readingOrder {index:106;} structure {type:T0C0;}">
             <Coords points="3899,4883 3898,4936 4073,4936 4074,4883"/>
             <TextLine id="TableCell_1657868536797_518l0" custom="readingOrder {index:0;}">
                 <Coords points="3920,4885 4040,4885 4039,4929 3920,4929"/>
@@ -5615,7 +5615,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107210_14317" custom="readingOrder {index:107;} structure {type:T0C1;}">
+        <TextRegion id="TextRegion_1690367917108_14317" custom="readingOrder {index:107;} structure {type:T0C1;}">
             <Coords points="4080,4349 4080,4402 4079,4485 4271,4476 4271,4402 4271,4349"/>
             <TextLine id="TableCell_1657868548304_530l0" custom="readingOrder {index:0;}">
                 <Coords points="4095,4402 4260,4402 4260,4441 4222,4447 4113,4447 4095,4440"/>
@@ -5628,7 +5628,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107214_14324" custom="readingOrder {index:108;} structure {type:T0C1;}">
+        <TextRegion id="TextRegion_1690367917112_14324" custom="readingOrder {index:108;} structure {type:T0C1;}">
             <Coords points="4079,4485 4078,4548 4270,4549 4271,4476"/>
             <TextLine id="TableCell_1657868536565_468l0" custom="readingOrder {index:0;}">
                 <Coords points="4138,4511 4213,4511 4217,4540 4177,4542 4138,4541"/>
@@ -5641,7 +5641,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107218_14329" custom="readingOrder {index:109;} structure {type:T0C1;}">
+        <TextRegion id="TextRegion_1690367917115_14329" custom="readingOrder {index:109;} structure {type:T0C1;}">
             <Coords points="4078,4548 4077,4620 4270,4621 4270,4549"/>
             <TextLine id="TableCell_1657868536598_474l0" custom="readingOrder {index:0;}">
                 <Coords points="4125,4572 4204,4571 4235,4571 4241,4621 4189,4620 4127,4617"/>
@@ -5654,7 +5654,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107222_14336" custom="readingOrder {index:110;} structure {type:T0C1;}">
+        <TextRegion id="TextRegion_1690367917119_14336" custom="readingOrder {index:110;} structure {type:T0C1;}">
             <Coords points="4077,4620 4076,4664 4269,4664 4270,4621"/>
             <TextLine id="TableCell_1657868536631_480l0" custom="readingOrder {index:0;}">
                 <Coords points="4123,4620 4157,4620 4205,4624 4207,4663 4159,4664 4122,4664"/>
@@ -5667,7 +5667,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107226_14343" custom="readingOrder {index:111;} structure {type:T0C1;}">
+        <TextRegion id="TextRegion_1690367917122_14343" custom="readingOrder {index:111;} structure {type:T0C1;}">
             <Coords points="4076,4664 4076,4707 4269,4707 4269,4664"/>
             <TextLine id="TableCell_1657868536661_486l0" custom="readingOrder {index:0;}">
                 <Coords points="4128,4666 4153,4666 4204,4667 4204,4704 4178,4705 4128,4704"/>
@@ -5680,7 +5680,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107230_14349" custom="readingOrder {index:112;} structure {type:T0C1;}">
+        <TextRegion id="TextRegion_1690367917123_14349" custom="readingOrder {index:112;} structure {type:T0C1;}">
             <Coords points="4076,4707 4075,4750 4269,4750 4269,4707"/>
             <TextLine id="TableCell_1657868536690_492l0" custom="readingOrder {index:0;}">
                 <Coords points="4127,4711 4156,4710 4175,4710 4205,4712 4205,4745 4180,4749 4129,4748"/>
@@ -5693,7 +5693,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107233_14355" custom="readingOrder {index:113;} structure {type:T0C1;}">
+        <TextRegion id="TextRegion_1690367917125_14355" custom="readingOrder {index:113;} structure {type:T0C1;}">
             <Coords points="4075,4750 4075,4797 4269,4797 4269,4750"/>
             <TextLine id="TableCell_1657868536716_498l0" custom="readingOrder {index:0;}">
                 <Coords points="4128,4754 4200,4755 4205,4792 4173,4795 4155,4795 4120,4791"/>
@@ -5706,7 +5706,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107237_14361" custom="readingOrder {index:114;} structure {type:T0C1;}">
+        <TextRegion id="TextRegion_1690367917126_14361" custom="readingOrder {index:114;} structure {type:T0C1;}">
             <Coords points="4075,4797 4074,4840 4268,4840 4269,4797"/>
             <TextLine id="TableCell_1657868536746_504l0" custom="readingOrder {index:0;}">
                 <Coords points="4126,4798 4200,4798 4200,4836 4126,4836"/>
@@ -5719,7 +5719,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107241_14367" custom="readingOrder {index:115;} structure {type:T0C1;}">
+        <TextRegion id="TextRegion_1690367917127_14367" custom="readingOrder {index:115;} structure {type:T0C1;}">
             <Coords points="4074,4840 4074,4883 4268,4884 4268,4840"/>
             <TextLine id="TableCell_1657868536772_510l0" custom="readingOrder {index:0;}">
                 <Coords points="4127,4840 4217,4841 4217,4885 4127,4883"/>
@@ -5732,7 +5732,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107245_14373" custom="readingOrder {index:116;} structure {type:T0C1;}">
+        <TextRegion id="TextRegion_1690367917128_14373" custom="readingOrder {index:116;} structure {type:T0C1;}">
             <Coords points="4074,4883 4073,4936 4268,4936 4268,4884"/>
             <TextLine id="line_1658871388935_912" custom="readingOrder {index:0;}">
                 <Coords points="4135,4889 4210,4889 4210,4919 4135,4919"/>
@@ -5745,7 +5745,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107210_14318" custom="readingOrder {index:117;} structure {type:T0C2;}">
+        <TextRegion id="TextRegion_1690367917108_14318" custom="readingOrder {index:117;} structure {type:T0C2;}">
             <Coords points="4271,4349 4271,4402 4271,4476 4462,4476 4657,4482 4655,4402 4655,4349 4462,4349"/>
             <TextLine id="TableCell_1657868554769_535l0" custom="readingOrder {index:0;}">
                 <Coords points="4324,4381 4543,4381 4617,4382 4617,4405 4617,4425 4546,4428 4393,4425 4320,4427"/>
@@ -5758,7 +5758,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107215_14325" custom="readingOrder {index:118;} structure {type:T0C2;}">
+        <TextRegion id="TextRegion_1690367917113_14325" custom="readingOrder {index:118;} structure {type:T0C2;}">
             <Coords points="4271,4476 4270,4549 4462,4550 4462,4476"/>
             <TextLine id="TableCell_1657868532663_402l1" custom="readingOrder {index:0;}">
                 <Coords points="4315,4478 4415,4477 4415,4532 4314,4532"/>
@@ -5771,10 +5771,10 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107218_14330" custom="readingOrder {index:119;} structure {type:T0C2;}">
+        <TextRegion id="TextRegion_1690367917116_14330" custom="readingOrder {index:119;} structure {type:T0C2;}">
             <Coords points="4270,4549 4270,4621 4462,4622 4462,4550"/>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107222_14337" custom="readingOrder {index:120;} structure {type:T0C2;}">
+        <TextRegion id="TextRegion_1690367917120_14337" custom="readingOrder {index:120;} structure {type:T0C2;}">
             <Coords points="4270,4621 4269,4664 4462,4664 4462,4622"/>
             <TextLine id="TableCell_1657868532723_414l0" custom="readingOrder {index:0;}">
                 <Coords points="4328,4624 4378,4624 4420,4625 4420,4657 4389,4664 4328,4664"/>
@@ -5787,7 +5787,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107227_14344" custom="readingOrder {index:121;} structure {type:T0C2;}">
+        <TextRegion id="TextRegion_1690367917122_14344" custom="readingOrder {index:121;} structure {type:T0C2;}">
             <Coords points="4269,4664 4269,4707 4462,4707 4462,4664"/>
             <TextLine id="TableCell_1657868532749_420l0" custom="readingOrder {index:0;}">
                 <Coords points="4331,4667 4416,4666 4416,4702 4390,4707 4371,4707 4331,4703"/>
@@ -5800,7 +5800,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107230_14350" custom="readingOrder {index:122;} structure {type:T0C2;}">
+        <TextRegion id="TextRegion_1690367917124_14350" custom="readingOrder {index:122;} structure {type:T0C2;}">
             <Coords points="4269,4707 4269,4750 4462,4751 4462,4707"/>
             <TextLine id="TableCell_1657868532775_426l0" custom="readingOrder {index:0;}">
                 <Coords points="4322,4712 4424,4712 4425,4750 4323,4749"/>
@@ -5813,7 +5813,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107234_14356" custom="readingOrder {index:123;} structure {type:T0C2;}">
+        <TextRegion id="TextRegion_1690367917125_14356" custom="readingOrder {index:123;} structure {type:T0C2;}">
             <Coords points="4269,4750 4269,4797 4462,4797 4462,4751"/>
             <TextLine id="TableCell_1657868532800_432l0" custom="readingOrder {index:0;}">
                 <Coords points="4328,4755 4375,4755 4419,4756 4419,4789 4386,4796 4378,4796 4328,4789"/>
@@ -5826,7 +5826,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107238_14362" custom="readingOrder {index:124;} structure {type:T0C2;}">
+        <TextRegion id="TextRegion_1690367917126_14362" custom="readingOrder {index:124;} structure {type:T0C2;}">
             <Coords points="4269,4797 4268,4840 4462,4840 4462,4797"/>
             <TextLine id="TableCell_1657868532824_438l0" custom="readingOrder {index:0;}">
                 <Coords points="4330,4798 4351,4798 4410,4799 4417,4836 4389,4840 4372,4840 4330,4836"/>
@@ -5839,13 +5839,13 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107242_14368" custom="readingOrder {index:125;} structure {type:T0C2;}">
+        <TextRegion id="TextRegion_1690367917127_14368" custom="readingOrder {index:125;} structure {type:T0C2;}">
             <Coords points="4268,4840 4268,4884 4462,4885 4462,4840"/>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107246_14374" custom="readingOrder {index:126;} structure {type:T0C2;}">
+        <TextRegion id="TextRegion_1690367917128_14374" custom="readingOrder {index:126;} structure {type:T0C2;}">
             <Coords points="4268,4884 4268,4936 4462,4936 4462,4885"/>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107216_14326" custom="readingOrder {index:127;} structure {type:T0C3;}">
+        <TextRegion id="TextRegion_1690367917114_14326" custom="readingOrder {index:127;} structure {type:T0C3;}">
             <Coords points="4462,4476 4462,4550 4655,4551 4657,4482"/>
             <TextLine id="TableCell_1657868527705_336l0" custom="readingOrder {index:0;}">
                 <Coords points="4495,4486 4521,4483 4585,4482 4617,4492 4617,4517 4585,4519 4555,4519 4511,4516 4495,4517"/>
@@ -5858,7 +5858,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107219_14331" custom="readingOrder {index:128;} structure {type:T0C3;}">
+        <TextRegion id="TextRegion_1690367917117_14331" custom="readingOrder {index:128;} structure {type:T0C3;}">
             <Coords points="4462,4550 4462,4622 4654,4623 4655,4551"/>
             <TextLine id="TableCell_1657868527729_342l1" custom="readingOrder {index:0;}">
                 <Coords points="4515,4573 4576,4573 4607,4572 4611,4622 4544,4622 4515,4620"/>
@@ -5871,28 +5871,28 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107223_14338" custom="readingOrder {index:129;} structure {type:T0C3;}">
+        <TextRegion id="TextRegion_1690367917120_14338" custom="readingOrder {index:129;} structure {type:T0C3;}">
             <Coords points="4462,4622 4462,4664 4654,4664 4654,4623"/>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107227_14345" custom="readingOrder {index:130;} structure {type:T0C3;}">
+        <TextRegion id="TextRegion_1690367917122_14345" custom="readingOrder {index:130;} structure {type:T0C3;}">
             <Coords points="4462,4664 4462,4707 4654,4708 4654,4664"/>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107231_14351" custom="readingOrder {index:131;} structure {type:T0C3;}">
+        <TextRegion id="TextRegion_1690367917124_14351" custom="readingOrder {index:131;} structure {type:T0C3;}">
             <Coords points="4462,4707 4462,4751 4654,4752 4654,4708"/>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107235_14357" custom="readingOrder {index:132;} structure {type:T0C3;}">
+        <TextRegion id="TextRegion_1690367917125_14357" custom="readingOrder {index:132;} structure {type:T0C3;}">
             <Coords points="4462,4751 4462,4797 4653,4797 4654,4752"/>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107238_14363" custom="readingOrder {index:133;} structure {type:T0C3;}">
+        <TextRegion id="TextRegion_1690367917126_14363" custom="readingOrder {index:133;} structure {type:T0C3;}">
             <Coords points="4462,4797 4462,4840 4653,4840 4653,4797"/>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107243_14369" custom="readingOrder {index:134;} structure {type:T0C3;}">
+        <TextRegion id="TextRegion_1690367917127_14369" custom="readingOrder {index:134;} structure {type:T0C3;}">
             <Coords points="4462,4840 4462,4885 4653,4887 4653,4840"/>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107247_14375" custom="readingOrder {index:135;} structure {type:T0C3;}">
+        <TextRegion id="TextRegion_1690367917128_14375" custom="readingOrder {index:135;} structure {type:T0C3;}">
             <Coords points="4462,4885 4462,4936 4653,4936 4653,4887"/>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107211_14319" custom="readingOrder {index:136;} structure {type:T0C4;}">
+        <TextRegion id="TextRegion_1690367917109_14319" custom="readingOrder {index:136;} structure {type:T0C4;}">
             <Coords points="4655,4349 4655,4402 4657,4482 4844,4493 4844,4402 4844,4349"/>
             <TextLine id="TableCell_1657868563575_542l0" custom="readingOrder {index:0;}">
                 <Coords points="4672,4359 4709,4359 4795,4360 4834,4369 4832,4402 4708,4400 4671,4401"/>
@@ -5919,7 +5919,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107216_14327" custom="readingOrder {index:137;} structure {type:T0C4;}">
+        <TextRegion id="TextRegion_1690367917114_14327" custom="readingOrder {index:137;} structure {type:T0C4;}">
             <Coords points="4657,4482 4655,4551 4844,4552 4844,4493"/>
             <TextLine id="TableCell_1657868522500_270l0" custom="readingOrder {index:0;}">
                 <Coords points="4721,4502 4752,4499 4784,4505 4784,4543 4743,4546 4716,4543"/>
@@ -5932,7 +5932,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107219_14332" custom="readingOrder {index:138;} structure {type:T0C4;}">
+        <TextRegion id="TextRegion_1690367917117_14332" custom="readingOrder {index:138;} structure {type:T0C4;}">
             <Coords points="4655,4551 4654,4623 4844,4624 4844,4552"/>
             <TextLine id="TableCell_1657868522523_276l0" custom="readingOrder {index:0;}">
                 <Coords points="4725,4566 4782,4566 4780,4620 4723,4620"/>
@@ -5945,7 +5945,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107224_14339" custom="readingOrder {index:139;} structure {type:T0C4;}">
+        <TextRegion id="TextRegion_1690367917121_14339" custom="readingOrder {index:139;} structure {type:T0C4;}">
             <Coords points="4654,4623 4654,4664 4654,4708 4654,4752 4653,4797 4653,4840 4653,4887 4653,4936 4843,4936 4843,4889 4843,4840 4843,4797 4843,4753 4843,4709 4843,4665 4844,4624"/>
             <TextLine id="line_1658871434375_921" custom="readingOrder {index:0;}">
                 <Coords points="4694,4653 4750,4653 4750,4905 4694,4905"/>
@@ -5965,7 +5965,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107212_14320" custom="readingOrder {index:140;} structure {type:T0C5;}">
+        <TextRegion id="TextRegion_1690367917110_14320" custom="readingOrder {index:140;} structure {type:T0C5;}">
             <Coords points="4844,4349 4844,4402 5038,4403 5252,4404 5252,4350 5038,4349"/>
             <TextLine id="TableCell_1657868566727_547l0" custom="readingOrder {index:0;}">
                 <Coords points="4981,4358 5040,4355 5130,4355 5130,4402 5040,4402 4981,4398"/>
@@ -5978,7 +5978,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107212_14321" custom="readingOrder {index:141;} structure {type:T0C5;}">
+        <TextRegion id="TextRegion_1690367917110_14321" custom="readingOrder {index:141;} structure {type:T0C5;}">
             <Coords points="4844,4402 4844,4493 4844,4552 5038,4554 5038,4495 5038,4403"/>
             <TextLine id="TableCell_1657868569711_552l0" custom="readingOrder {index:0;}">
                 <Coords points="4860,4459 4948,4459 4965,4460 5028,4461 5029,4505 4860,4505"/>
@@ -5991,7 +5991,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107220_14333" custom="readingOrder {index:142;} structure {type:T0C5;}">
+        <TextRegion id="TextRegion_1690367917117_14333" custom="readingOrder {index:142;} structure {type:T0C5;}">
             <Coords points="4844,4552 4844,4624 5038,4625 5038,4554"/>
             <TextLine id="TableCell_1657868517621_210l0" custom="readingOrder {index:0;}">
                 <Coords points="4868,4578 4916,4577 4980,4585 4980,4622 4932,4622 4920,4622 4868,4619"/>
@@ -6004,7 +6004,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107224_14340" custom="readingOrder {index:143;} structure {type:T0C5;}">
+        <TextRegion id="TextRegion_1690367917121_14340" custom="readingOrder {index:143;} structure {type:T0C5;}">
             <Coords points="4844,4624 4843,4665 5038,4666 5038,4625"/>
             <TextLine id="TableCell_1657868517649_216l0" custom="readingOrder {index:0;}">
                 <Coords points="4873,4626 5016,4626 5016,4663 4873,4663"/>
@@ -6017,7 +6017,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107228_14346" custom="readingOrder {index:144;} structure {type:T0C5;}">
+        <TextRegion id="TextRegion_1690367917123_14346" custom="readingOrder {index:144;} structure {type:T0C5;}">
             <Coords points="4843,4665 4843,4709 5038,4710 5038,4666"/>
             <TextLine id="TableCell_1657868517674_222l0" custom="readingOrder {index:0;}">
                 <Coords points="4869,4670 4959,4665 5018,4665 5018,4709 4932,4709 4869,4707"/>
@@ -6030,7 +6030,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107231_14352" custom="readingOrder {index:145;} structure {type:T0C5;}">
+        <TextRegion id="TextRegion_1690367917124_14352" custom="readingOrder {index:145;} structure {type:T0C5;}">
             <Coords points="4843,4709 4843,4753 5038,4754 5038,4710"/>
             <TextLine id="TableCell_1657868517694_228l0" custom="readingOrder {index:0;}">
                 <Coords points="4864,4712 5007,4710 5007,4754 4924,4753 4864,4753"/>
@@ -6043,7 +6043,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107235_14358" custom="readingOrder {index:146;} structure {type:T0C5;}">
+        <TextRegion id="TextRegion_1690367917125_14358" custom="readingOrder {index:146;} structure {type:T0C5;}">
             <Coords points="4843,4753 4843,4797 5038,4797 5038,4754"/>
             <TextLine id="TableCell_1657868517718_234l0" custom="readingOrder {index:0;}">
                 <Coords points="4864,4755 4945,4753 5001,4754 5001,4797 4921,4797 4864,4793"/>
@@ -6056,7 +6056,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107239_14364" custom="readingOrder {index:147;} structure {type:T0C5;}">
+        <TextRegion id="TextRegion_1690367917126_14364" custom="readingOrder {index:147;} structure {type:T0C5;}">
             <Coords points="4843,4797 4843,4840 5038,4840 5038,4797"/>
             <TextLine id="TableCell_1657868517739_240l0" custom="readingOrder {index:0;}">
                 <Coords points="4862,4797 4914,4797 4981,4800 4978,4837 4862,4840"/>
@@ -6069,7 +6069,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107243_14370" custom="readingOrder {index:148;} structure {type:T0C5;}">
+        <TextRegion id="TextRegion_1690367917127_14370" custom="readingOrder {index:148;} structure {type:T0C5;}">
             <Coords points="4843,4840 4843,4889 5038,4891 5038,4840"/>
             <TextLine id="TableCell_1657868517760_246l0" custom="readingOrder {index:0;}">
                 <Coords points="4861,4845 4922,4842 4978,4844 4977,4880 4960,4887 4918,4888 4861,4882"/>
@@ -6082,7 +6082,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107247_14376" custom="readingOrder {index:149;} structure {type:T0C5;}">
+        <TextRegion id="TextRegion_1690367917128_14376" custom="readingOrder {index:149;} structure {type:T0C5;}">
             <Coords points="4843,4889 4843,4936 5038,4936 5038,4891"/>
             <TextLine id="TableCell_1657868517780_252l0" custom="readingOrder {index:0;}">
                 <Coords points="4868,4889 4920,4889 4920,4933 4868,4933"/>
@@ -6095,7 +6095,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107213_14322" custom="readingOrder {index:150;} structure {type:T0C6;}">
+        <TextRegion id="TextRegion_1690367917111_14322" custom="readingOrder {index:150;} structure {type:T0C6;}">
             <Coords points="5038,4403 5038,4495 5038,4554 5252,4556 5252,4497 5252,4404"/>
             <TextLine id="TableCell_1657868571833_557l0" custom="readingOrder {index:0;}">
                 <Coords points="5051,4433 5227,4433 5247,4435 5251,4472 5231,4474 5071,4471 5048,4471"/>
@@ -6122,7 +6122,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107221_14334" custom="readingOrder {index:151;} structure {type:T0C6;}">
+        <TextRegion id="TextRegion_1690367917118_14334" custom="readingOrder {index:151;} structure {type:T0C6;}">
             <Coords points="5038,4554 5038,4625 5252,4627 5252,4556"/>
             <TextLine id="TableCell_1657868512941_144l0" custom="readingOrder {index:0;}">
                 <Coords points="5130,4578 5163,4577 5163,4623 5130,4624"/>
@@ -6135,7 +6135,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107225_14341" custom="readingOrder {index:152;} structure {type:T0C6;}">
+        <TextRegion id="TextRegion_1690367917121_14341" custom="readingOrder {index:152;} structure {type:T0C6;}">
             <Coords points="5038,4625 5038,4666 5252,4667 5252,4627"/>
             <TextLine id="TableCell_1657868512992_150l0" custom="readingOrder {index:0;}">
                 <Coords points="5130,4628 5162,4628 5163,4666 5131,4666"/>
@@ -6148,7 +6148,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107229_14347" custom="readingOrder {index:153;} structure {type:T0C6;}">
+        <TextRegion id="TextRegion_1690367917123_14347" custom="readingOrder {index:153;} structure {type:T0C6;}">
             <Coords points="5038,4666 5038,4710 5252,4711 5252,4667"/>
             <TextLine id="line_1658871146711_859" custom="readingOrder {index:0;}">
                 <Coords points="5121,4669 5169,4669 5169,4708 5121,4708"/>
@@ -6161,7 +6161,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107232_14353" custom="readingOrder {index:154;} structure {type:T0C6;}">
+        <TextRegion id="TextRegion_1690367917124_14353" custom="readingOrder {index:154;} structure {type:T0C6;}">
             <Coords points="5038,4710 5038,4754 5254,4755 5252,4711"/>
             <TextLine id="line_1658871199336_872" custom="readingOrder {index:0;}">
                 <Coords points="5125,4712 5163,4712 5163,4751 5125,4751"/>
@@ -6174,7 +6174,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107236_14359" custom="readingOrder {index:155;} structure {type:T0C6;}">
+        <TextRegion id="TextRegion_1690367917125_14359" custom="readingOrder {index:155;} structure {type:T0C6;}">
             <Coords points="5038,4754 5038,4797 5252,4797 5254,4755"/>
             <TextLine id="line_1658871257687_884" custom="readingOrder {index:0;}">
                 <Coords points="5120,4755 5168,4755 5168,4795 5120,4795"/>
@@ -6187,7 +6187,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107239_14365" custom="readingOrder {index:156;} structure {type:T0C6;}">
+        <TextRegion id="TextRegion_1690367917127_14365" custom="readingOrder {index:156;} structure {type:T0C6;}">
             <Coords points="5038,4797 5038,4840 5252,4841 5252,4797"/>
             <TextLine id="TableCell_1657868513119_174l0" custom="readingOrder {index:0;}">
                 <Coords points="5132,4800 5163,4799 5162,4837 5131,4838"/>
@@ -6200,7 +6200,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107244_14371" custom="readingOrder {index:157;} structure {type:T0C6;}">
+        <TextRegion id="TextRegion_1690367917128_14371" custom="readingOrder {index:157;} structure {type:T0C6;}">
             <Coords points="5038,4840 5038,4891 5252,4893 5252,4841"/>
             <TextLine id="line_1658871363008_903" custom="readingOrder {index:0;}">
                 <Coords points="5124,4840 5164,4840 5164,4884 5124,4884"/>
@@ -6213,7 +6213,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107248_14377" custom="readingOrder {index:158;} structure {type:T0C6;}">
+        <TextRegion id="TextRegion_1690367917129_14377" custom="readingOrder {index:158;} structure {type:T0C6;}">
             <Coords points="5038,4891 5038,4936 5252,4937 5252,4893"/>
             <TextLine id="TableCell_1657868513186_186l0" custom="readingOrder {index:0;}">
                 <Coords points="5116,4893 5174,4894 5172,4931 5114,4931"/>
@@ -6226,7 +6226,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107250_14378" custom="readingOrder {index:159;} structure {type:T1C0;}">
+        <TextRegion id="TextRegion_1690367917130_14378" custom="readingOrder {index:159;} structure {type:T1C0;}">
             <Coords points="3883,5139 3883,5234 4069,5233 4069,5139"/>
             <TextLine id="TableCell_1657869341997_1077l0" custom="readingOrder {index:0;}">
                 <Coords points="3886,5183 4055,5182 4055,5232 3908,5233 3886,5222"/>
@@ -6239,7 +6239,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107254_14383" custom="readingOrder {index:160;} structure {type:T1C0;}">
+        <TextRegion id="TextRegion_1690367917131_14383" custom="readingOrder {index:160;} structure {type:T1C0;}">
             <Coords points="3883,5234 3882,5282 3883,5333 4069,5333 4069,5282 4069,5233"/>
             <TextLine id="line_1658871614183_966" custom="readingOrder {index:0;}">
                 <Coords points="3941,5287 4009,5287 4009,5325 3941,5325"/>
@@ -6252,7 +6252,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107258_14390" custom="readingOrder {index:161;} structure {type:T1C0;}">
+        <TextRegion id="TextRegion_1690367917132_14390" custom="readingOrder {index:161;} structure {type:T1C0;}">
             <Coords points="3883,5333 3884,5403 4069,5403 4069,5333"/>
             <TextLine id="TableCell_1657869342111_1095l0" custom="readingOrder {index:0;}">
                 <Coords points="3947,5360 3989,5355 4028,5358 4030,5403 3988,5403 3949,5398"/>
@@ -6265,7 +6265,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107263_14397" custom="readingOrder {index:162;} structure {type:T1C0;}">
+        <TextRegion id="TextRegion_1690367917134_14397" custom="readingOrder {index:162;} structure {type:T1C0;}">
             <Coords points="3884,5403 3885,5444 4069,5444 4069,5403"/>
             <TextLine id="TableCell_1657869342134_1101l0" custom="readingOrder {index:0;}">
                 <Coords points="3952,5405 3997,5403 4027,5405 4027,5442 3995,5444 3950,5443"/>
@@ -6278,7 +6278,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107267_14404" custom="readingOrder {index:163;} structure {type:T1C0;}">
+        <TextRegion id="TextRegion_1690367917135_14404" custom="readingOrder {index:163;} structure {type:T1C0;}">
             <Coords points="3885,5444 3888,5490 4069,5490 4069,5444"/>
             <TextLine id="TableCell_1657869342168_1107l0" custom="readingOrder {index:0;}">
                 <Coords points="3942,5450 3988,5446 4030,5447 4030,5490 3943,5488"/>
@@ -6291,7 +6291,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107271_14411" custom="readingOrder {index:164;} structure {type:T1C0;}">
+        <TextRegion id="TextRegion_1690367917136_14411" custom="readingOrder {index:164;} structure {type:T1C0;}">
             <Coords points="3888,5490 3883,5536 4069,5536 4069,5490"/>
             <TextLine id="TableCell_1657869342200_1113l0" custom="readingOrder {index:0;}">
                 <Coords points="3923,5492 4025,5492 4028,5535 3922,5535"/>
@@ -6304,7 +6304,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107276_14418" custom="readingOrder {index:165;} structure {type:T1C0;}">
+        <TextRegion id="TextRegion_1690367917137_14418" custom="readingOrder {index:165;} structure {type:T1C0;}">
             <Coords points="3883,5536 3884,5577 4069,5577 4069,5536"/>
             <TextLine id="TableCell_1657869342232_1119l0" custom="readingOrder {index:0;}">
                 <Coords points="3913,5536 3970,5536 4034,5536 4034,5576 3914,5577"/>
@@ -6317,7 +6317,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107280_14425" custom="readingOrder {index:166;} structure {type:T1C0;}">
+        <TextRegion id="TextRegion_1690367917139_14425" custom="readingOrder {index:166;} structure {type:T1C0;}">
             <Coords points="3884,5577 3883,5624 4069,5624 4069,5577"/>
             <TextLine id="TableCell_1657869342264_1125l0" custom="readingOrder {index:0;}">
                 <Coords points="3918,5580 4026,5580 4026,5618 3917,5618"/>
@@ -6330,7 +6330,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107285_14432" custom="readingOrder {index:167;} structure {type:T1C0;}">
+        <TextRegion id="TextRegion_1690367917140_14432" custom="readingOrder {index:167;} structure {type:T1C0;}">
             <Coords points="3883,5624 3883,5664 4069,5664 4069,5624"/>
             <TextLine id="TableCell_1657869342290_1131l0" custom="readingOrder {index:0;}">
                 <Coords points="3919,5624 4024,5622 4024,5662 3993,5664 3919,5663"/>
@@ -6343,7 +6343,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107289_14439" custom="readingOrder {index:168;} structure {type:T1C0;}">
+        <TextRegion id="TextRegion_1690367917141_14439" custom="readingOrder {index:168;} structure {type:T1C0;}">
             <Coords points="3883,5664 3884,5706 4069,5706 4069,5664"/>
             <TextLine id="TableCell_1657869342318_1137l0" custom="readingOrder {index:0;}">
                 <Coords points="3926,5668 3977,5667 4027,5666 4027,5708 4002,5705 3922,5708"/>
@@ -6356,7 +6356,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107294_14446" custom="readingOrder {index:169;} structure {type:T1C0;}">
+        <TextRegion id="TextRegion_1690367917142_14446" custom="readingOrder {index:169;} structure {type:T1C0;}">
             <Coords points="3884,5706 3885,5749 4069,5749 4069,5706"/>
             <TextLine id="TableCell_1657869342346_1143l0" custom="readingOrder {index:0;}">
                 <Coords points="3913,5726 3918,5712 3988,5711 4019,5712 4019,5745 3993,5749 3914,5748"/>
@@ -6369,7 +6369,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107298_14453" custom="readingOrder {index:170;} structure {type:T1C0;}">
+        <TextRegion id="TextRegion_1690367917144_14453" custom="readingOrder {index:170;} structure {type:T1C0;}">
             <Coords points="3885,5749 3886,5794 4069,5794 4069,5749"/>
             <TextLine id="TableCell_1657869342369_1149l0" custom="readingOrder {index:0;}">
                 <Coords points="3917,5752 3991,5751 4016,5755 4027,5795 3974,5795 3918,5797"/>
@@ -6382,7 +6382,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107251_14379" custom="readingOrder {index:171;} structure {type:T1C1;}">
+        <TextRegion id="TextRegion_1690367917130_14379" custom="readingOrder {index:171;} structure {type:T1C1;}">
             <Coords points="4069,5139 4069,5233 4257,5233 4257,5139"/>
             <TextLine id="TableCell_1657869341997_1075l0" custom="readingOrder {index:0;}">
                 <Coords points="4088,5184 4181,5181 4200,5181 4257,5186 4257,5223 4205,5233 4171,5233 4142,5230 4086,5230"/>
@@ -6395,7 +6395,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107254_14384" custom="readingOrder {index:172;} structure {type:T1C1;}">
+        <TextRegion id="TextRegion_1690367917131_14384" custom="readingOrder {index:172;} structure {type:T1C1;}">
             <Coords points="4069,5233 4069,5282 4069,5333 4257,5333 4257,5282 4257,5233"/>
             <TextLine id="TableCell_1657869351770_1160l0" custom="readingOrder {index:0;}">
                 <Coords points="4126,5293 4208,5293 4207,5324 4125,5324"/>
@@ -6408,7 +6408,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107259_14391" custom="readingOrder {index:173;} structure {type:T1C1;}">
+        <TextRegion id="TextRegion_1690367917133_14391" custom="readingOrder {index:173;} structure {type:T1C1;}">
             <Coords points="4069,5333 4069,5403 4257,5403 4257,5333"/>
             <TextLine id="TableCell_1657869342111_1093l0" custom="readingOrder {index:0;}">
                 <Coords points="4119,5358 4225,5360 4232,5402 4201,5403 4183,5403 4112,5401"/>
@@ -6421,7 +6421,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107263_14398" custom="readingOrder {index:174;} structure {type:T1C1;}">
+        <TextRegion id="TextRegion_1690367917134_14398" custom="readingOrder {index:174;} structure {type:T1C1;}">
             <Coords points="4069,5403 4069,5444 4257,5445 4257,5403"/>
             <TextLine id="TableCell_1657869342134_1099l0" custom="readingOrder {index:0;}">
                 <Coords points="4118,5406 4192,5406 4192,5444 4118,5444"/>
@@ -6434,7 +6434,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107268_14405" custom="readingOrder {index:175;} structure {type:T1C1;}">
+        <TextRegion id="TextRegion_1690367917135_14405" custom="readingOrder {index:175;} structure {type:T1C1;}">
             <Coords points="4069,5444 4069,5490 4257,5491 4257,5445"/>
             <TextLine id="TableCell_1657869342168_1105l0" custom="readingOrder {index:0;}">
                 <Coords points="4116,5449 4144,5449 4195,5451 4195,5483 4149,5487 4116,5486"/>
@@ -6447,7 +6447,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107272_14412" custom="readingOrder {index:176;} structure {type:T1C1;}">
+        <TextRegion id="TextRegion_1690367917136_14412" custom="readingOrder {index:176;} structure {type:T1C1;}">
             <Coords points="4069,5490 4069,5536 4257,5536 4257,5491"/>
             <TextLine id="line_1658872238758_1038" custom="readingOrder {index:0;}">
                 <Coords points="4109,5489 4196,5489 4196,5531 4109,5531"/>
@@ -6460,7 +6460,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107276_14419" custom="readingOrder {index:177;} structure {type:T1C1;}">
+        <TextRegion id="TextRegion_1690367917138_14419" custom="readingOrder {index:177;} structure {type:T1C1;}">
             <Coords points="4069,5536 4069,5577 4257,5577 4257,5536"/>
             <TextLine id="TableCell_1657869342232_1117l0" custom="readingOrder {index:0;}">
                 <Coords points="4115,5537 4146,5536 4164,5536 4195,5539 4195,5575 4164,5576 4114,5575"/>
@@ -6473,7 +6473,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107281_14426" custom="readingOrder {index:178;} structure {type:T1C1;}">
+        <TextRegion id="TextRegion_1690367917139_14426" custom="readingOrder {index:178;} structure {type:T1C1;}">
             <Coords points="4069,5577 4069,5624 4257,5624 4257,5577"/>
             <TextLine id="TableCell_1657869342264_1123l0" custom="readingOrder {index:0;}">
                 <Coords points="4113,5577 4192,5578 4191,5620 4112,5619"/>
@@ -6486,7 +6486,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107286_14433" custom="readingOrder {index:179;} structure {type:T1C1;}">
+        <TextRegion id="TextRegion_1690367917140_14433" custom="readingOrder {index:179;} structure {type:T1C1;}">
             <Coords points="4069,5624 4069,5664 4257,5664 4257,5624"/>
             <TextLine id="TableCell_1657869342290_1129l0" custom="readingOrder {index:0;}">
                 <Coords points="4111,5621 4194,5621 4194,5662 4111,5662"/>
@@ -6499,7 +6499,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107290_14440" custom="readingOrder {index:180;} structure {type:T1C1;}">
+        <TextRegion id="TextRegion_1690367917141_14440" custom="readingOrder {index:180;} structure {type:T1C1;}">
             <Coords points="4069,5664 4069,5706 4257,5707 4257,5664"/>
             <TextLine id="TableCell_1657869342318_1135l0" custom="readingOrder {index:0;}">
                 <Coords points="4112,5667 4193,5667 4193,5706 4143,5706 4112,5700"/>
@@ -6512,7 +6512,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107294_14447" custom="readingOrder {index:181;} structure {type:T1C1;}">
+        <TextRegion id="TextRegion_1690367917143_14447" custom="readingOrder {index:181;} structure {type:T1C1;}">
             <Coords points="4069,5706 4069,5749 4257,5750 4257,5707"/>
             <TextLine id="TableCell_1657869342346_1141l0" custom="readingOrder {index:0;}">
                 <Coords points="4115,5712 4167,5709 4193,5709 4193,5747 4164,5748 4113,5748"/>
@@ -6525,7 +6525,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107298_14454" custom="readingOrder {index:182;} structure {type:T1C1;}">
+        <TextRegion id="TextRegion_1690367917144_14454" custom="readingOrder {index:182;} structure {type:T1C1;}">
             <Coords points="4069,5749 4069,5794 4257,5795 4257,5750"/>
             <TextLine id="TableCell_1657869342369_1147l0" custom="readingOrder {index:0;}">
                 <Coords points="4109,5754 4165,5753 4183,5753 4196,5771 4191,5793 4150,5793 4111,5794"/>
@@ -6538,7 +6538,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107252_14380" custom="readingOrder {index:183;} structure {type:T1C2;}">
+        <TextRegion id="TextRegion_1690367917130_14380" custom="readingOrder {index:183;} structure {type:T1C2;}">
             <Coords points="4257,5139 4257,5233 4455,5233 4647,5233 4647,5139 4455,5139"/>
             <TextLine id="TableCell_1657869359956_1175l1" custom="readingOrder {index:0;}">
                 <Coords points="4304,5174 4338,5174 4602,5176 4607,5220 4580,5217 4412,5219 4390,5219 4297,5218"/>
@@ -6551,7 +6551,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107255_14385" custom="readingOrder {index:184;} structure {type:T1C2;}">
+        <TextRegion id="TextRegion_1690367917131_14385" custom="readingOrder {index:184;} structure {type:T1C2;}">
             <Coords points="4257,5233 4257,5282 4257,5333 4455,5334 4455,5282 4455,5233"/>
             <TextLine id="TableCell_1657869355251_1165l0" custom="readingOrder {index:0;}">
                 <Coords points="4307,5248 4412,5248 4414,5311 4309,5310"/>
@@ -6564,10 +6564,10 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107259_14392" custom="readingOrder {index:185;} structure {type:T1C2;}">
+        <TextRegion id="TextRegion_1690367917133_14392" custom="readingOrder {index:185;} structure {type:T1C2;}">
             <Coords points="4257,5333 4257,5403 4455,5403 4455,5334"/>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107264_14399" custom="readingOrder {index:186;} structure {type:T1C2;}">
+        <TextRegion id="TextRegion_1690367917134_14399" custom="readingOrder {index:186;} structure {type:T1C2;}">
             <Coords points="4257,5403 4257,5445 4455,5446 4455,5403"/>
             <TextLine id="TableCell_1657869339904_1021l0" custom="readingOrder {index:0;}">
                 <Coords points="4314,5403 4357,5399 4412,5400 4408,5444 4382,5445 4314,5445"/>
@@ -6580,7 +6580,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107268_14406" custom="readingOrder {index:187;} structure {type:T1C2;}">
+        <TextRegion id="TextRegion_1690367917135_14406" custom="readingOrder {index:187;} structure {type:T1C2;}">
             <Coords points="4257,5445 4257,5491 4455,5492 4455,5446"/>
             <TextLine id="TableCell_1657869339940_1027l0" custom="readingOrder {index:0;}">
                 <Coords points="4322,5445 4409,5446 4409,5492 4322,5491"/>
@@ -6593,7 +6593,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107273_14413" custom="readingOrder {index:188;} structure {type:T1C2;}">
+        <TextRegion id="TextRegion_1690367917137_14413" custom="readingOrder {index:188;} structure {type:T1C2;}">
             <Coords points="4257,5491 4257,5536 4455,5536 4455,5492"/>
             <TextLine id="TableCell_1657869339971_1033l0" custom="readingOrder {index:0;}">
                 <Coords points="4317,5494 4370,5491 4412,5492 4412,5536 4347,5536 4317,5527"/>
@@ -6606,7 +6606,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107277_14420" custom="readingOrder {index:189;} structure {type:T1C2;}">
+        <TextRegion id="TextRegion_1690367917138_14420" custom="readingOrder {index:189;} structure {type:T1C2;}">
             <Coords points="4257,5536 4257,5577 4455,5577 4455,5536"/>
             <TextLine id="line_1658872327550_1053" custom="readingOrder {index:0;}">
                 <Coords points="4317,5535 4407,5535 4407,5575 4317,5575"/>
@@ -6619,7 +6619,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107282_14427" custom="readingOrder {index:190;} structure {type:T1C2;}">
+        <TextRegion id="TextRegion_1690367917139_14427" custom="readingOrder {index:190;} structure {type:T1C2;}">
             <Coords points="4257,5577 4257,5624 4455,5624 4455,5577"/>
             <TextLine id="TableCell_1657869340032_1045l0" custom="readingOrder {index:0;}">
                 <Coords points="4318,5580 4382,5577 4414,5577 4414,5624 4347,5624 4318,5614"/>
@@ -6632,7 +6632,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107286_14434" custom="readingOrder {index:191;} structure {type:T1C2;}">
+        <TextRegion id="TextRegion_1690367917140_14434" custom="readingOrder {index:191;} structure {type:T1C2;}">
             <Coords points="4257,5624 4257,5664 4455,5665 4455,5624"/>
             <TextLine id="line_1658872529262_1112" custom="readingOrder {index:0;}">
                 <Coords points="4340,5620 4409,5620 4409,5664 4340,5664"/>
@@ -6645,7 +6645,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107291_14441" custom="readingOrder {index:192;} structure {type:T1C2;}">
+        <TextRegion id="TextRegion_1690367917141_14441" custom="readingOrder {index:192;} structure {type:T1C2;}">
             <Coords points="4257,5664 4257,5707 4455,5708 4455,5665"/>
             <TextLine id="TableCell_1657869340087_1057l0" custom="readingOrder {index:0;}">
                 <Coords points="4331,5668 4415,5666 4414,5708 4330,5710"/>
@@ -6658,7 +6658,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107295_14448" custom="readingOrder {index:193;} structure {type:T1C2;}">
+        <TextRegion id="TextRegion_1690367917143_14448" custom="readingOrder {index:193;} structure {type:T1C2;}">
             <Coords points="4257,5707 4257,5750 4455,5751 4455,5708"/>
             <TextLine id="line_1658872667925_1145" custom="readingOrder {index:0;}">
                 <Coords points="4343,5709 4407,5709 4408,5751 4344,5751"/>
@@ -6671,7 +6671,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107299_14455" custom="readingOrder {index:194;} structure {type:T1C2;}">
+        <TextRegion id="TextRegion_1690367917144_14455" custom="readingOrder {index:194;} structure {type:T1C2;}">
             <Coords points="4257,5750 4257,5795 4455,5796 4455,5751"/>
             <TextLine id="line_1658872751734_1162" custom="readingOrder {index:0;}">
                 <Coords points="4337,5753 4409,5753 4409,5797 4337,5797"/>
@@ -6684,7 +6684,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107256_14386" custom="readingOrder {index:195;} structure {type:T1C3;}">
+        <TextRegion id="TextRegion_1690367917132_14386" custom="readingOrder {index:195;} structure {type:T1C3;}">
             <Coords points="4455,5233 4455,5282 4455,5334 4647,5335 4647,5282 4647,5233"/>
             <TextLine id="TableCell_1657869357350_1170l0" custom="readingOrder {index:0;}">
                 <Coords points="4498,5272 4532,5264 4561,5262 4601,5273 4605,5304 4553,5306 4494,5306"/>
@@ -6697,7 +6697,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107260_14393" custom="readingOrder {index:196;} structure {type:T1C3;}">
+        <TextRegion id="TextRegion_1690367917133_14393" custom="readingOrder {index:196;} structure {type:T1C3;}">
             <Coords points="4455,5334 4455,5403 4647,5403 4647,5335"/>
             <TextLine id="TableCell_1657869338037_937l0" custom="readingOrder {index:0;}">
                 <Coords points="4517,5356 4592,5362 4597,5406 4556,5403 4510,5404"/>
@@ -6710,28 +6710,28 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107265_14400" custom="readingOrder {index:197;} structure {type:T1C3;}">
+        <TextRegion id="TextRegion_1690367917134_14400" custom="readingOrder {index:197;} structure {type:T1C3;}">
             <Coords points="4455,5403 4455,5446 4647,5447 4647,5403"/>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107269_14407" custom="readingOrder {index:198;} structure {type:T1C3;}">
+        <TextRegion id="TextRegion_1690367917135_14407" custom="readingOrder {index:198;} structure {type:T1C3;}">
             <Coords points="4455,5446 4455,5492 4647,5493 4647,5447"/>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107273_14414" custom="readingOrder {index:199;} structure {type:T1C3;}">
+        <TextRegion id="TextRegion_1690367917137_14414" custom="readingOrder {index:199;} structure {type:T1C3;}">
             <Coords points="4455,5492 4455,5536 4647,5536 4647,5493"/>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107277_14421" custom="readingOrder {index:200;} structure {type:T1C3;}">
+        <TextRegion id="TextRegion_1690367917138_14421" custom="readingOrder {index:200;} structure {type:T1C3;}">
             <Coords points="4455,5536 4455,5577 4647,5578 4647,5536"/>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107282_14428" custom="readingOrder {index:201;} structure {type:T1C3;}">
+        <TextRegion id="TextRegion_1690367917139_14428" custom="readingOrder {index:201;} structure {type:T1C3;}">
             <Coords points="4455,5577 4455,5624 4647,5624 4647,5578"/>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107287_14435" custom="readingOrder {index:202;} structure {type:T1C3;}">
+        <TextRegion id="TextRegion_1690367917140_14435" custom="readingOrder {index:202;} structure {type:T1C3;}">
             <Coords points="4455,5624 4455,5665 4647,5666 4647,5624"/>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107291_14442" custom="readingOrder {index:203;} structure {type:T1C3;}">
+        <TextRegion id="TextRegion_1690367917142_14442" custom="readingOrder {index:203;} structure {type:T1C3;}">
             <Coords points="4455,5665 4455,5708 4647,5709 4647,5666"/>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107296_14449" custom="readingOrder {index:204;} structure {type:T1C3;}">
+        <TextRegion id="TextRegion_1690367917143_14449" custom="readingOrder {index:204;} structure {type:T1C3;}">
             <Coords points="4455,5708 4455,5751 4647,5752 4647,5709"/>
             <TextLine id="TableCell_1657869338236_985l0" custom="readingOrder {index:0;}">
                 <Coords points="4479,5706 4623,5707 4624,5758 4480,5757"/>
@@ -6744,10 +6744,10 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107300_14456" custom="readingOrder {index:205;} structure {type:T1C3;}">
+        <TextRegion id="TextRegion_1690367917144_14456" custom="readingOrder {index:205;} structure {type:T1C3;}">
             <Coords points="4455,5751 4455,5796 4647,5797 4647,5752"/>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107252_14381" custom="readingOrder {index:206;} structure {type:T1C4;}">
+        <TextRegion id="TextRegion_1690367917130_14381" custom="readingOrder {index:206;} structure {type:T1C4;}">
             <Coords points="4647,5139 4647,5233 4647,5282 4833,5282 4835,5196 4833,5139"/>
             <TextLine id="TableCell_1657869362478_1180l0" custom="readingOrder {index:0;}">
                 <Coords points="4665,5143 4685,5139 4833,5139 4834,5182 4688,5182 4663,5185"/>
@@ -6774,7 +6774,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107257_14389" custom="readingOrder {index:207;} structure {type:T1C4;}">
+        <TextRegion id="TextRegion_1690367917132_14389" custom="readingOrder {index:207;} structure {type:T1C4;}">
             <Coords points="4647,5282 4647,5335 4833,5336 4833,5282"/>
             <TextLine id="TableCell_1657869336090_853l1" custom="readingOrder {index:0;}">
                 <Coords points="4712,5287 4746,5282 4771,5305 4771,5328 4741,5330 4716,5326"/>
@@ -6787,7 +6787,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107261_14394" custom="readingOrder {index:208;} structure {type:T1C4;}">
+        <TextRegion id="TextRegion_1690367917133_14394" custom="readingOrder {index:208;} structure {type:T1C4;}">
             <Coords points="4647,5335 4647,5403 4833,5404 4833,5336"/>
             <TextLine id="TableCell_1657869336126_859l0" custom="readingOrder {index:0;}">
                 <Coords points="4713,5364 4740,5359 4773,5361 4774,5403 4714,5402"/>
@@ -6800,7 +6800,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107265_14401" custom="readingOrder {index:209;} structure {type:T1C4;}">
+        <TextRegion id="TextRegion_1690367917134_14401" custom="readingOrder {index:209;} structure {type:T1C4;}">
             <Coords points="4647,5403 4647,5447 4833,5448 4833,5404"/>
             <TextLine id="TableCell_1657869336152_865l0" custom="readingOrder {index:0;}">
                 <Coords points="4714,5405 4770,5406 4770,5446 4739,5446 4713,5441"/>
@@ -6813,7 +6813,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107269_14408" custom="readingOrder {index:210;} structure {type:T1C4;}">
+        <TextRegion id="TextRegion_1690367917136_14408" custom="readingOrder {index:210;} structure {type:T1C4;}">
             <Coords points="4647,5447 4647,5493 4833,5494 4833,5448"/>
             <TextLine id="line_1658872178318_1022" custom="readingOrder {index:0;}">
                 <Coords points="4706,5446 4776,5446 4776,5490 4706,5490"/>
@@ -6826,7 +6826,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107274_14415" custom="readingOrder {index:211;} structure {type:T1C4;}">
+        <TextRegion id="TextRegion_1690367917137_14415" custom="readingOrder {index:211;} structure {type:T1C4;}">
             <Coords points="4647,5493 4647,5536 4833,5536 4833,5494"/>
             <TextLine id="TableCell_1657869336190_877l0" custom="readingOrder {index:0;}">
                 <Coords points="4718,5495 4738,5492 4763,5493 4764,5533 4743,5533 4715,5534"/>
@@ -6839,7 +6839,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107278_14422" custom="readingOrder {index:212;} structure {type:T1C4;}">
+        <TextRegion id="TextRegion_1690367917138_14422" custom="readingOrder {index:212;} structure {type:T1C4;}">
             <Coords points="4647,5536 4647,5578 4833,5579 4833,5536"/>
             <TextLine id="TableCell_1657869336221_883l0" custom="readingOrder {index:0;}">
                 <Coords points="4710,5536 4771,5537 4771,5577 4710,5576"/>
@@ -6852,7 +6852,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107283_14429" custom="readingOrder {index:213;} structure {type:T1C4;}">
+        <TextRegion id="TextRegion_1690367917139_14429" custom="readingOrder {index:213;} structure {type:T1C4;}">
             <Coords points="4647,5578 4647,5624 4833,5624 4833,5579"/>
             <TextLine id="line_1658872439389_1087" custom="readingOrder {index:0;}">
                 <Coords points="4707,5579 4769,5579 4769,5621 4707,5621"/>
@@ -6865,7 +6865,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107288_14436" custom="readingOrder {index:214;} structure {type:T1C4;}">
+        <TextRegion id="TextRegion_1690367917141_14436" custom="readingOrder {index:214;} structure {type:T1C4;}">
             <Coords points="4647,5624 4647,5666 4833,5667 4833,5624"/>
             <TextLine id="line_1658872546838_1119" custom="readingOrder {index:0;}">
                 <Coords points="4703,5622 4771,5622 4771,5664 4703,5664"/>
@@ -6878,7 +6878,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107292_14443" custom="readingOrder {index:215;} structure {type:T1C4;}">
+        <TextRegion id="TextRegion_1690367917142_14443" custom="readingOrder {index:215;} structure {type:T1C4;}">
             <Coords points="4647,5666 4647,5709 4833,5710 4833,5667"/>
             <TextLine id="TableCell_1657869336290_901l0" custom="readingOrder {index:0;}">
                 <Coords points="4702,5667 4735,5667 4773,5670 4773,5707 4742,5709 4702,5709"/>
@@ -6891,7 +6891,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107296_14450" custom="readingOrder {index:216;} structure {type:T1C4;}">
+        <TextRegion id="TextRegion_1690367917143_14450" custom="readingOrder {index:216;} structure {type:T1C4;}">
             <Coords points="4647,5709 4647,5752 4833,5753 4833,5710"/>
             <TextLine id="TableCell_1657869336301_907l0" custom="readingOrder {index:0;}">
                 <Coords points="4700,5710 4774,5713 4774,5750 4701,5752"/>
@@ -6904,7 +6904,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107301_14457" custom="readingOrder {index:217;} structure {type:T1C4;}">
+        <TextRegion id="TextRegion_1690367917144_14457" custom="readingOrder {index:217;} structure {type:T1C4;}">
             <Coords points="4647,5752 4647,5797 4833,5798 4833,5753"/>
             <TextLine id="TableCell_1657869336317_913l0" custom="readingOrder {index:0;}">
                 <Coords points="4708,5755 4766,5756 4766,5796 4708,5795"/>
@@ -6917,7 +6917,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107253_14382" custom="readingOrder {index:218;} structure {type:T1C5;}">
+        <TextRegion id="TextRegion_1690367917131_14382" custom="readingOrder {index:218;} structure {type:T1C5;}">
             <Coords points="4833,5139 4835,5196 5029,5198 5235,5198 5238,5140 5029,5139"/>
             <TextLine id="TableCell_1657869367071_1185l0" custom="readingOrder {index:0;}">
                 <Coords points="4983,5145 5020,5140 5046,5140 5107,5146 5111,5185 5046,5190 5020,5190 4983,5181"/>
@@ -6930,7 +6930,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107256_14387" custom="readingOrder {index:219;} structure {type:T1C5;}">
+        <TextRegion id="TextRegion_1690367917132_14387" custom="readingOrder {index:219;} structure {type:T1C5;}">
             <Coords points="4835,5196 4833,5282 4833,5336 5029,5337 5029,5282 5029,5198"/>
             <TextLine id="TableCell_1657869380319_1190l0" custom="readingOrder {index:0;}">
                 <Coords points="4855,5238 4877,5237 4942,5242 4958,5244 5025,5249 5022,5287 5007,5287 4910,5286 4851,5285"/>
@@ -6943,7 +6943,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107261_14395" custom="readingOrder {index:220;} structure {type:T1C5;}">
+        <TextRegion id="TextRegion_1690367917133_14395" custom="readingOrder {index:220;} structure {type:T1C5;}">
             <Coords points="4833,5336 4833,5404 5029,5405 5029,5337"/>
             <TextLine id="TableCell_1657869334583_781l0" custom="readingOrder {index:0;}">
                 <Coords points="4855,5355 4949,5355 4948,5404 4854,5404"/>
@@ -6956,7 +6956,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107266_14402" custom="readingOrder {index:221;} structure {type:T1C5;}">
+        <TextRegion id="TextRegion_1690367917135_14402" custom="readingOrder {index:221;} structure {type:T1C5;}">
             <Coords points="4833,5404 4833,5448 5029,5449 5029,5405"/>
             <TextLine id="TableCell_1657869334597_787l0" custom="readingOrder {index:0;}">
                 <Coords points="4860,5405 4960,5404 4960,5448 4860,5449"/>
@@ -6969,7 +6969,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107270_14409" custom="readingOrder {index:222;} structure {type:T1C5;}">
+        <TextRegion id="TextRegion_1690367917136_14409" custom="readingOrder {index:222;} structure {type:T1C5;}">
             <Coords points="4833,5448 4833,5494 5029,5496 5029,5449"/>
             <TextLine id="TableCell_1657869334620_793l1" custom="readingOrder {index:0;}">
                 <Coords points="4856,5452 4965,5451 4966,5490 4919,5494 4897,5494 4857,5490"/>
@@ -6982,7 +6982,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107274_14416" custom="readingOrder {index:223;} structure {type:T1C5;}">
+        <TextRegion id="TextRegion_1690367917137_14416" custom="readingOrder {index:223;} structure {type:T1C5;}">
             <Coords points="4833,5494 4833,5536 5029,5537 5029,5496"/>
             <TextLine id="TableCell_1657869334646_799l0" custom="readingOrder {index:0;}">
                 <Coords points="4855,5496 4938,5495 4971,5496 4971,5537 4917,5539 4855,5533"/>
@@ -6995,7 +6995,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107279_14423" custom="readingOrder {index:224;} structure {type:T1C5;}">
+        <TextRegion id="TextRegion_1690367917138_14423" custom="readingOrder {index:224;} structure {type:T1C5;}">
             <Coords points="4833,5536 4833,5579 5029,5580 5029,5537"/>
             <TextLine id="TableCell_1657869334663_805l1" custom="readingOrder {index:0;}">
                 <Coords points="4861,5537 4949,5538 4949,5579 4861,5578"/>
@@ -7008,7 +7008,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107284_14430" custom="readingOrder {index:225;} structure {type:T1C5;}">
+        <TextRegion id="TextRegion_1690367917140_14430" custom="readingOrder {index:225;} structure {type:T1C5;}">
             <Coords points="4833,5579 4833,5624 5029,5624 5029,5580"/>
             <TextLine id="TableCell_1657869334683_811l0" custom="readingOrder {index:0;}">
                 <Coords points="4856,5582 4952,5582 4952,5623 4856,5624"/>
@@ -7021,7 +7021,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107288_14437" custom="readingOrder {index:226;} structure {type:T1C5;}">
+        <TextRegion id="TextRegion_1690367917141_14437" custom="readingOrder {index:226;} structure {type:T1C5;}">
             <Coords points="4833,5624 4833,5667 5029,5668 5029,5624"/>
             <TextLine id="TableCell_1657869334702_817l0" custom="readingOrder {index:0;}">
                 <Coords points="4853,5624 4991,5625 4991,5669 4853,5667"/>
@@ -7034,7 +7034,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107293_14444" custom="readingOrder {index:227;} structure {type:T1C5;}">
+        <TextRegion id="TextRegion_1690367917142_14444" custom="readingOrder {index:227;} structure {type:T1C5;}">
             <Coords points="4833,5667 4833,5710 5029,5712 5029,5668"/>
             <TextLine id="TableCell_1657869334722_823l0" custom="readingOrder {index:0;}">
                 <Coords points="4862,5671 4938,5667 4982,5667 4982,5711 4911,5710 4862,5708"/>
@@ -7047,7 +7047,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107297_14451" custom="readingOrder {index:228;} structure {type:T1C5;}">
+        <TextRegion id="TextRegion_1690367917143_14451" custom="readingOrder {index:228;} structure {type:T1C5;}">
             <Coords points="4833,5710 4833,5753 5029,5755 5029,5712"/>
             <TextLine id="TableCell_1657869334752_829l0" custom="readingOrder {index:0;}">
                 <Coords points="4855,5715 4930,5711 4998,5712 4998,5755 4899,5757 4853,5757"/>
@@ -7060,7 +7060,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107301_14458" custom="readingOrder {index:229;} structure {type:T1C5;}">
+        <TextRegion id="TextRegion_1690367917145_14458" custom="readingOrder {index:229;} structure {type:T1C5;}">
             <Coords points="4833,5753 4833,5798 5029,5799 5029,5755"/>
             <TextLine id="line_1658872777621_1170" custom="readingOrder {index:0;}">
                 <Coords points="4852,5757 4989,5757 4989,5799 4852,5799"/>
@@ -7073,7 +7073,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107257_14388" custom="readingOrder {index:230;} structure {type:T1C6;}">
+        <TextRegion id="TextRegion_1690367917132_14388" custom="readingOrder {index:230;} structure {type:T1C6;}">
             <Coords points="5029,5198 5029,5282 5029,5337 5234,5338 5233,5282 5235,5198"/>
             <TextLine id="TableCell_1657869382617_1195l0" custom="readingOrder {index:0;}">
                 <Coords points="5047,5200 5151,5200 5186,5202 5234,5207 5234,5236 5151,5239 5067,5237 5047,5234"/>
@@ -7100,7 +7100,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107262_14396" custom="readingOrder {index:231;} structure {type:T1C6;}">
+        <TextRegion id="TextRegion_1690367917133_14396" custom="readingOrder {index:231;} structure {type:T1C6;}">
             <Coords points="5029,5337 5029,5405 5234,5406 5234,5338"/>
             <TextLine id="TableCell_1657869332042_703l0" custom="readingOrder {index:0;}">
                 <Coords points="5137,5362 5168,5362 5166,5407 5135,5407"/>
@@ -7113,7 +7113,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107266_14403" custom="readingOrder {index:232;} structure {type:T1C6;}">
+        <TextRegion id="TextRegion_1690367917135_14403" custom="readingOrder {index:232;} structure {type:T1C6;}">
             <Coords points="5029,5405 5029,5449 5233,5451 5234,5406"/>
             <TextLine id="line_1658872113591_1007" custom="readingOrder {index:0;}">
                 <Coords points="5131,5408 5167,5408 5167,5446 5131,5446"/>
@@ -7126,7 +7126,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107271_14410" custom="readingOrder {index:233;} structure {type:T1C6;}">
+        <TextRegion id="TextRegion_1690367917136_14410" custom="readingOrder {index:233;} structure {type:T1C6;}">
             <Coords points="5029,5449 5029,5496 5233,5498 5233,5451"/>
             <TextLine id="TableCell_1657869332138_715l0" custom="readingOrder {index:0;}">
                 <Coords points="5117,5452 5165,5453 5165,5491 5117,5491"/>
@@ -7139,7 +7139,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107275_14417" custom="readingOrder {index:234;} structure {type:T1C6;}">
+        <TextRegion id="TextRegion_1690367917137_14417" custom="readingOrder {index:234;} structure {type:T1C6;}">
             <Coords points="5029,5496 5029,5537 5233,5538 5233,5498"/>
             <TextLine id="TableCell_1657869332155_721l0" custom="readingOrder {index:0;}">
                 <Coords points="5134,5497 5162,5496 5162,5538 5134,5539"/>
@@ -7152,7 +7152,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107280_14424" custom="readingOrder {index:235;} structure {type:T1C6;}">
+        <TextRegion id="TextRegion_1690367917138_14424" custom="readingOrder {index:235;} structure {type:T1C6;}">
             <Coords points="5029,5537 5029,5580 5234,5581 5233,5538"/>
             <TextLine id="TableCell_1657869332198_727l0" custom="readingOrder {index:0;}">
                 <Coords points="5133,5541 5165,5541 5165,5583 5133,5583"/>
@@ -7165,7 +7165,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107284_14431" custom="readingOrder {index:236;} structure {type:T1C6;}">
+        <TextRegion id="TextRegion_1690367917140_14431" custom="readingOrder {index:236;} structure {type:T1C6;}">
             <Coords points="5029,5580 5029,5624 5233,5624 5234,5581"/>
             <TextLine id="TableCell_1657869332208_733l0" custom="readingOrder {index:0;}">
                 <Coords points="5115,5587 5138,5587 5163,5589 5167,5625 5138,5627 5111,5623"/>
@@ -7178,7 +7178,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107289_14438" custom="readingOrder {index:237;} structure {type:T1C6;}">
+        <TextRegion id="TextRegion_1690367917141_14438" custom="readingOrder {index:237;} structure {type:T1C6;}">
             <Coords points="5029,5624 5029,5668 5235,5669 5233,5624"/>
             <TextLine id="TableCell_1657869332232_739l0" custom="readingOrder {index:0;}">
                 <Coords points="5113,5630 5132,5630 5164,5632 5163,5668 5112,5669"/>
@@ -7191,7 +7191,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107293_14445" custom="readingOrder {index:238;} structure {type:T1C6;}">
+        <TextRegion id="TextRegion_1690367917142_14445" custom="readingOrder {index:238;} structure {type:T1C6;}">
             <Coords points="5029,5668 5029,5712 5232,5714 5235,5669"/>
             <TextLine id="TableCell_1657869332251_745l0" custom="readingOrder {index:0;}">
                 <Coords points="5104,5675 5171,5673 5168,5712 5104,5713"/>
@@ -7204,7 +7204,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107297_14452" custom="readingOrder {index:239;} structure {type:T1C6;}">
+        <TextRegion id="TextRegion_1690367917144_14452" custom="readingOrder {index:239;} structure {type:T1C6;}">
             <Coords points="5029,5712 5029,5755 5233,5757 5232,5714"/>
             <TextLine id="TableCell_1657869332282_751l0" custom="readingOrder {index:0;}">
                 <Coords points="5108,5718 5165,5718 5165,5757 5108,5757"/>
@@ -7217,7 +7217,7 @@ J. A.: Dr. Wulff.</Unicode>
                 <Unicode></Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion id="TextRegion_1670427107302_14459" custom="readingOrder {index:240;} structure {type:T1C6;}">
+        <TextRegion id="TextRegion_1690367917145_14459" custom="readingOrder {index:240;} structure {type:T1C6;}">
             <Coords points="5029,5755 5029,5799 5233,5800 5233,5757"/>
             <TextLine id="TableCell_1657869332300_757l0" custom="readingOrder {index:0;}">
                 <Coords points="5114,5759 5139,5758 5162,5762 5162,5803 5130,5804 5112,5796"/>
