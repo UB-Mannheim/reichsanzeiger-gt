@@ -1,24 +1,24 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
     <Metadata>
         <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.7.1:model_id=40804:lm=none:date=04_07_2022_16:21
 prov=READ-COOP:name=PyLaia@Transkribus:version=0.7.1:model_id=40804:date=04_07_2022_16:21
 Transkribus</Creator>
         <Created>2021-12-14T11:24:31.019+01:00</Created>
-        <LastChange>2022-12-07T16:13:22.696+01:00</LastChange>
+        <LastChange>2023-11-16T09:31:01.177+01:00</LastChange>
         <Comments>
                 Measurement unit: pixel
                 PrimaryLanguage: 
                 Producer: Transkribus
             </Comments>
-        <TranskribusMetadata docId="888696" pageId="34071362" pageNr="2" tsid="105747970" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=FGJEVOAQGJMSIHKRFMUIQONL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XNPGYPCOIQHMKSBDQPDFTEUZ" imageId="27320784"/>
+        <TranskribusMetadata docId="888696" pageId="34071362" pageNr="2" tsid="139879501" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=FGJEVOAQGJMSIHKRFMUIQONL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VFMROXHFFJZYKVBJPPHOUZOA" imageId="27320784"/>
     </Metadata>
     <Page imageFilename="1843_142_0207.jpg" imageWidth="9816" imageHeight="6616">
         <PrintSpace>
             <Coords points="296,287 9644,287 9650,6413 302,6413"/>
         </PrintSpace>
         <ReadingOrder>
-            <OrderedGroup id="ro_1690360017329" caption="Regions reading order">
+            <OrderedGroup id="ro_1700129745081" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
                 <RegionRefIndexed index="1" regionRef="r2"/>
                 <RegionRefIndexed index="2" regionRef="r3"/>
@@ -1550,7 +1550,7 @@ Geſellſchaft.</Unicode>
                 <Coords points="1647,3329 1875,3329 2233,3320 2572,3317 2582,3317 2647,3322 2647,3343 2624,3345 2533,3352 2296,3360 1904,3371 1643,3376"/>
                 <Baseline points="1653,3368 1700,3367 1726,3366 1940,3360 1964,3359 2122,3356 2156,3355 2296,3351 2330,3351 2365,3350 2399,3349 2533,3347 2572,3346 2647,3342"/>
                 <TextEquiv>
-                    <Unicode>ſür tarifmäßiges Fuhrlohn abgeholt zu werden, kann</Unicode>
+                    <Unicode>für tarifmäßiges Fuhrlohn abgeholt zu werden, kann</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r20l49" custom="readingOrder {index:48;}">
@@ -1720,7 +1720,7 @@ dem Conducteur zu einigen, der zu mäßiger Forderung
 angewieſen iſt. Die Wagen werden bequem ſein und
 höchſtens 6 Perſonen aufnehmen.
 Wer es vorzieht, ſeparat durch eine Droſchke
-ſür tarifmäßiges Fuhrlohn abgeholt zu werden, kann
+für tarifmäßiges Fuhrlohn abgeholt zu werden, kann
 ſolche unter Erwartung pünktlicher Bedienung daſelbſt
 ebenfalls beſtellen.
 Die gedachten Vorſteher wohnen:
@@ -3962,7 +3962,7 @@ Friedrichsſtraſse Nr. 72.</Unicode>
             <Coords points="5025,1368 6455,1368 6445,3167 5015,3167"/>
             <TextLine id="r55l1" custom="readingOrder {index:0;}">
                 <Coords points="5029,1386 5139,1381 5292,1376 5329,1375 5377,1374 5422,1374 5422,1409 5349,1414 5111,1419 5029,1419"/>
-                <Baseline points="5029,1419 5257,1414 5287,1414 5422,1400 5422,1400"/>
+                <Baseline points="5029,1419 5257,1414 5287,1414 5422,1400"/>
                 <TextEquiv>
                     <Unicode>Amtlicher Theil.</Unicode>
                 </TextEquiv>
@@ -4032,7 +4032,7 @@ Friedrichsſtraſse Nr. 72.</Unicode>
             </TextLine>
             <TextLine id="r55l11" custom="readingOrder {index:10;}">
                 <Coords points="5078,1810 6288,1805 6366,1805 6426,1815 6426,1836 5351,1855 5286,1855 5078,1852"/>
-                <Baseline points="5078,1852 5177,1850 5203,1850 5257,1849 5288,1849 5353,1847 5361,1847 5506,1844 5534,1844 5620,1844 5649,1844 5744,1842 5770,1843 5831,1842 5864,1841 5970,1840 6010,1840 6050,1840 6086,1839 6240,1839 6266,1839 6426,1835"/>
+                <Baseline points="5078,1852 5177,1850 5203,1850 5257,1849 5288,1849 5353,1847 5361,1847 5506,1844 5534,1844 5620,1844 5649,1844 5744,1842 5770,1843 5831,1842 5864,1841 5970,1840 6010,1840 6050,1840 6086,1839 6240,1839 6265,1838 6426,1835"/>
                 <TextEquiv>
                     <Unicode>riums des Auswärtigen durch Herrn von Duſch. — Großh. Heſſen.</Unicode>
                 </TextEquiv>
@@ -4060,7 +4060,7 @@ Friedrichsſtraſse Nr. 72.</Unicode>
             </TextLine>
             <TextLine id="r55l15" custom="readingOrder {index:14;}">
                 <Coords points="5081,1996 5123,1994 5610,1989 5714,1988 5719,1988 5779,1987 5781,2027 5192,2035 5174,2035 5123,2030 5081,2025"/>
-                <Baseline points="5081,2023 5250,2024 5255,2024 5576,2020 5610,2020 5783,2022"/>
+                <Baseline points="5081,2023 5250,2024 5255,2024 5576,2020 5610,2020 5780,2022"/>
                 <TextEquiv>
                     <Unicode>leihung; Leichen⸗Kammern; Selenite.)</Unicode>
                 </TextEquiv>
@@ -4116,7 +4116,7 @@ Friedrichsſtraſse Nr. 72.</Unicode>
             </TextLine>
             <TextLine id="r55l23" custom="readingOrder {index:22;}">
                 <Coords points="5041,2342 5067,2337 6192,2335 6198,2335 6226,2336 6244,2345 6244,2367 6226,2375 5106,2381 5082,2381 5046,2380"/>
-                <Baseline points="5041,2377 5233,2375 5287,2375 5440,2373 5489,2373 5777,2370 5805,2370 5860,2370 5888,2369 6024,2368 6053,2367 6090,2367 6118,2367 6244,2366"/>
+                <Baseline points="5045,2376 5233,2375 5287,2375 5440,2373 5489,2373 5777,2370 5805,2370 5860,2370 5888,2369 6024,2368 6053,2367 6090,2367 6118,2367 6244,2366"/>
                 <TextEquiv>
                     <Unicode>Schweiz. Luzern. Antwortſchreiben des Vororts an Zürich.</Unicode>
                 </TextEquiv>
@@ -4165,7 +4165,7 @@ Friedrichsſtraſse Nr. 72.</Unicode>
             </TextLine>
             <TextLine id="r55l30" custom="readingOrder {index:29;}">
                 <Coords points="5088,2656 5133,2646 5167,2645 6040,2641 6347,2641 6436,2644 6436,2679 5350,2685 5326,2685 5130,2685 5085,2686"/>
-                <Baseline points="5088,2671 5211,2686 5240,2686 5300,2685 5323,2683 5395,2679 5406,2679 5441,2679 5467,2679 5509,2679 5535,2679 5710,2678 5727,2678 5852,2676 5880,2676 5938,2675 5964,2674 6011,2674 6040,2674 6234,2672 6251,2672 6436,2672"/>
+                <Baseline points="5088,2671 5211,2685 5240,2685 5300,2685 5323,2683 5395,2679 5406,2679 5441,2679 5467,2679 5509,2679 5535,2679 5710,2678 5727,2678 5852,2676 5880,2676 5938,2675 5964,2674 6011,2674 6040,2674 6234,2672 6251,2672 6436,2672"/>
                 <TextEquiv>
                     <Unicode>poſition auf Hydra; die bayerſchen Meiſter und die griechiſchen Lehrlinge.)</Unicode>
                 </TextEquiv>
@@ -4235,14 +4235,14 @@ Friedrichsſtraſse Nr. 72.</Unicode>
             </TextLine>
             <TextLine id="r55l40" custom="readingOrder {index:39;}">
                 <Coords points="5092,3091 5128,3078 5145,3091 5207,3083 5430,3082 5592,3080 5760,3080 6330,3082 6440,3075 6443,3119 6330,3120 5930,3123 5523,3124 5508,3124 5144,3126 5094,3125"/>
-                <Baseline points="5100,3113 5172,3114 5219,3114 5400,3113 5430,3113 5710,3111 5735,3111 5947,3113 5974,3113 6211,3108 6265,3107 6272,3107 6302,3107 6443,3106"/>
+                <Baseline points="5100,3113 5172,3114 5219,3114 5400,3113 5430,3113 5710,3111 5735,3111 5947,3113 5974,3113 6211,3108 6265,3107 6272,3107 6302,3107 6442,3106"/>
                 <TextEquiv>
                     <Unicode>zig, Breslau, Magdeburg, Hamburg. Marktbericht. — Paris.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r55l41" custom="readingOrder {index:40;}">
                 <Coords points="5101,3128 5200,3120 5215,3120 5216,3157 5180,3161 5157,3161 5101,3159"/>
-                <Baseline points="5101,3146 5115,3152 5138,3154 5216,3151"/>
+                <Baseline points="5101,3146 5115,3152 5138,3154 5215,3151"/>
                 <TextEquiv>
                     <Unicode>Börſe.</Unicode>
                 </TextEquiv>
@@ -4382,7 +4382,7 @@ Die Verbrecher⸗Kolonieen Englands. (Schluß.)</Unicode>
             </TextLine>
             <TextLine id="r58l4" custom="readingOrder {index:3;}">
                 <Coords points="5056,3931 5126,3918 5836,3914 5900,3914 6412,3918 6450,3931 6450,3954 5876,3966 5081,3970 5059,3970"/>
-                <Baseline points="5061,3962 5095,3962 5130,3965 5300,3958 5326,3954 5378,3954 5412,3952 5543,3954 5562,3954 5804,3951 5836,3951 5949,3951 5965,3951 6077,3952 6106,3952 6163,3953 6197,3953 6246,3953 6282,3954 6450,3956"/>
+                <Baseline points="5061,3962 5095,3962 5130,3965 5300,3958 5326,3954 5378,3954 5412,3952 5543,3954 5562,3954 5804,3951 5836,3951 5949,3951 5965,3951 6077,3952 6106,3952 6163,3953 6197,3953 6246,3953 6282,3954 6449,3954"/>
                 <TextEquiv>
                     <Unicode>zu Breslau, den Rothen Adler⸗Orden dritter Klaſſe mit der Schleife;</Unicode>
                 </TextEquiv>
@@ -4403,7 +4403,7 @@ Die Verbrecher⸗Kolonieen Englands. (Schluß.)</Unicode>
             </TextLine>
             <TextLine id="r58l7" custom="readingOrder {index:6;}">
                 <Coords points="5060,4076 5193,4072 5340,4068 5383,4067 5770,4062 5899,4061 5940,4061 6361,4062 6442,4075 6442,4097 6263,4104 5092,4110 5060,4110"/>
-                <Baseline points="5059,4102 5231,4103 5253,4100 5362,4100 5381,4100 5509,4098 5539,4098 5599,4097 5618,4097 5750,4095 5768,4095 6012,4095 6033,4095 6153,4095 6176,4095 6303,4098 6336,4099 6440,4089"/>
+                <Baseline points="5060,4102 5231,4103 5253,4100 5362,4100 5381,4100 5509,4098 5539,4098 5599,4097 5618,4097 5750,4095 5768,4095 6012,4095 6033,4095 6153,4095 6176,4095 6303,4098 6336,4099 6440,4089"/>
                 <TextEquiv>
                     <Unicode>Rären im Kreiſe Eupen, den Rothen Adler⸗Orden vierter Klaſſe; ferner</Unicode>
                 </TextEquiv>
@@ -4624,7 +4624,7 @@ Inſpektor Walter den Charakter als Kanzleirath zu verleihen.</Unicode>
             </TextLine>
             <TextLine id="r59l23" custom="readingOrder {index:22;}">
                 <Coords points="5073,5575 5367,5571 5568,5571 6350,5573 6469,5584 6469,5615 6350,5620 5567,5614 5096,5612 5074,5612"/>
-                <Baseline points="5073,5610 5124,5610 5159,5611 5307,5607 5345,5607 5484,5605 5520,5604 5568,5606 5597,5608 5783,5610 5811,5609 6031,5611 6059,5610 6150,5610 6184,5610 6233,5610 6263,5610 6469,5609"/>
+                <Baseline points="5073,5609 5124,5610 5159,5611 5307,5607 5345,5607 5484,5605 5520,5604 5568,5606 5597,5608 5783,5610 5811,5609 6031,5611 6059,5610 6150,5610 6184,5610 6233,5610 6263,5610 6469,5609"/>
                 <TextEquiv>
                     <Unicode>bei Braun, Glogau bei Levyſohn, Halberſtadt 2 mal bei Sußmann,</Unicode>
                 </TextEquiv>
@@ -4652,7 +4652,7 @@ Inſpektor Walter den Charakter als Kanzleirath zu verleihen.</Unicode>
             </TextLine>
             <TextLine id="r59l27" custom="readingOrder {index:26;}">
                 <Coords points="5079,5766 5647,5763 5690,5763 6472,5770 6472,5805 6141,5805 5303,5811 5262,5810 5098,5809 5079,5802"/>
-                <Baseline points="5079,5802 5237,5801 5266,5802 5326,5804 5360,5805 5518,5802 5557,5802 5604,5803 5634,5800 5799,5802 5835,5804 5873,5805 5909,5806 5981,5804 6009,5806 6128,5807 6169,5807 6233,5806 6266,5806 6333,5805 6371,5804 6472,5805"/>
+                <Baseline points="5079,5802 5237,5801 5266,5802 5326,5804 5360,5805 5518,5802 5557,5802 5604,5803 5634,5800 5799,5802 5835,5804 5873,5805 5909,5806 5981,5804 6008,5805 6127,5805 6169,5805 6233,5805 6266,5805 6333,5805 6371,5804 6472,5805"/>
                 <TextEquiv>
                     <Unicode>Wrietzen bei Paetſch; 53 Gewinne zu 200 Rthlr. auf Nr. 1047.</Unicode>
                 </TextEquiv>
@@ -4680,7 +4680,7 @@ Inſpektor Walter den Charakter als Kanzleirath zu verleihen.</Unicode>
             </TextLine>
             <TextLine id="r59l31" custom="readingOrder {index:30;}">
                 <Coords points="5070,5963 5734,5957 5745,5957 6444,5966 6474,5982 6474,6001 6450,5997 5813,6005 5785,6008 5298,6000 5128,6004 5069,6006"/>
-                <Baseline points="5085,5998 5223,5998 5260,5998 5407,5999 5445,5999 5589,5998 5619,5998 5758,5999 5787,5998 5934,5998 5962,6001 6112,6002 6141,6003 6293,6003 6323,6004 6474,5999"/>
+                <Baseline points="5085,5998 5223,5998 5260,5998 5407,5999 5445,5999 5589,5998 5619,5998 5758,5999 5787,5998 5934,5998 5962,6001 6111,6001 6140,6000 6292,5998 6322,5998 6474,5999"/>
                 <TextEquiv>
                     <Unicode>42,082. 43,164. 43,922. 44,614. 46,949. 47,422. 47,613. 47,916.</Unicode>
                 </TextEquiv>
@@ -4803,7 +4803,7 @@ Königl. General⸗Lotterie⸗Direction.</Unicode>
             </TextLine>
             <TextLine id="r61l6" custom="readingOrder {index:5;}">
                 <Coords points="6504,1545 6591,1537 6650,1546 7817,1537 7835,1537 7890,1548 7890,1583 6757,1589 6650,1589 6506,1588"/>
-                <Baseline points="6504,1581 6557,1579 6595,1578 6615,1578 6650,1578 6757,1578 6819,1578 6878,1577 6911,1577 7015,1576 7049,1576 7140,1576 7179,1576 7218,1575 7253,1575 7435,1574 7476,1574 7532,1572 7576,1571 7625,1572 7659,1572 7711,1571 7745,1572 7890,1570"/>
+                <Baseline points="6505,1580 6557,1579 6595,1578 6615,1578 6650,1578 6757,1578 6819,1578 6878,1577 6911,1577 7015,1576 7049,1576 7140,1576 7179,1576 7218,1575 7253,1575 7435,1574 7476,1574 7532,1572 7576,1571 7625,1572 7659,1572 7711,1571 7745,1572 7890,1570"/>
                 <TextEquiv>
                     <Unicode>auf 5 Jahre, von jenem Tage an gerechnet, und für den Umfang</Unicode>
                 </TextEquiv>
@@ -4876,7 +4876,7 @@ der Monarchie ertheilt worden.</Unicode>
             </TextLine>
             <TextLine id="r64l4" custom="readingOrder {index:3;}">
                 <Coords points="6510,2181 6610,2178 7680,2168 7875,2167 7898,2167 7898,2200 7809,2211 7399,2221 7361,2221 6512,2219"/>
-                <Baseline points="6510,2210 6670,2212 6709,2209 6770,2211 6816,2211 6866,2210 6902,2210 7040,2210 7041,2210 7124,2210 7164,2209 7226,2209 7259,2208 7300,2208 7311,2207 7416,2206 7456,2205 7542,2205 7585,2204 7763,2201 7800,2200 7898,2200"/>
+                <Baseline points="6511,2209 6670,2212 6709,2209 6770,2211 6816,2211 6866,2210 6902,2210 7040,2210 7041,2210 7124,2210 7164,2209 7226,2209 7259,2208 7300,2208 7311,2207 7416,2206 7456,2205 7542,2205 7585,2204 7763,2201 7800,2200 7898,2200"/>
                 <TextEquiv>
                     <Unicode>Preußen und der Prinz Karl von Preußen unter freudigem Jubel</Unicode>
                 </TextEquiv>
@@ -5145,7 +5145,7 @@ Feier.</Unicode>
             <Coords points="6530,6138 6521,5503 6513,4370 6496,3797 7929,3793 7954,4710 7960,6342 6530,6345"/>
             <TextLine id="r66l1" custom="readingOrder {index:0;}">
                 <Coords points="6621,3835 7794,3811 7815,3811 7908,3816 7908,3852 7815,3860 6820,3870 6808,3880 6621,3874"/>
-                <Baseline points="6621,3874 6820,3871 6866,3871 6914,3870 6960,3869 7051,3868 7139,3868 7212,3866 7258,3865 7351,3863 7391,3862 7620,3858 7661,3856 7901,3848"/>
+                <Baseline points="6621,3874 6819,3870 6865,3869 6913,3869 6959,3868 7050,3867 7138,3866 7212,3866 7258,3865 7351,3863 7391,3862 7620,3858 7661,3856 7901,3848"/>
                 <TextEquiv>
                     <Unicode>Berlin, 18. Nov. Das heute ausgegebene Militair⸗</Unicode>
                 </TextEquiv>
@@ -5439,7 +5439,7 @@ Feier.</Unicode>
             </TextLine>
             <TextLine id="r66l43" custom="readingOrder {index:42;}">
                 <Coords points="6651,5901 6718,5898 6856,5893 7553,5876 7841,5875 7878,5875 7929,5868 7926,5912 7895,5931 7573,5929 7555,5929 6924,5940 6682,5936 6652,5937"/>
-                <Baseline points="6651,5930 6689,5930 6718,5930 6776,5930 6808,5930 7061,5929 7091,5929 7140,5928 7170,5928 7287,5926 7316,5925 7533,5919 7553,5918 7650,5915 7667,5914 7820,5912 7841,5912 7926,5911"/>
+                <Baseline points="6651,5929 6689,5930 6718,5930 6776,5930 6808,5930 7061,5929 7091,5929 7140,5928 7170,5928 7287,5926 7316,5925 7533,5919 7553,5918 7650,5915 7667,5914 7820,5912 7841,5912 7926,5911"/>
                 <TextEquiv>
                     <Unicode>6) der Wirthſchafter B. wegen Anfertigung einer falſchen Pri⸗</Unicode>
                 </TextEquiv>
@@ -5733,7 +5733,7 @@ willen, zur Entſetzung von ſeinem Schulzen⸗Amte, Unfähigkeit zu allen</Unic
             </TextLine>
             <TextLine id="r67l26" custom="readingOrder {index:25;}">
                 <Coords points="7982,2518 8551,2492 8574,2492 9234,2506 9326,2508 9371,2519 9371,2542 9326,2550 9266,2548 8125,2549 8099,2561 7982,2560"/>
-                <Baseline points="7982,2553 8126,2550 8157,2549 8216,2549 8249,2550 8404,2548 8422,2548 8642,2546 8645,2546 8763,2545 8809,2544 8847,2544 8878,2544 8978,2544 9007,2544 9091,2543 9122,2543 9371,2541"/>
+                <Baseline points="7982,2553 8125,2548 8156,2548 8215,2548 8248,2548 8404,2548 8422,2548 8642,2546 8645,2546 8763,2545 8809,2544 8847,2544 8878,2544 8978,2544 9007,2544 9091,2543 9122,2543 9371,2541"/>
                 <TextEquiv>
                     <Unicode>ſtechung und verübter Pflichtwidrigkeiten im Amte zwar freigeſprochen</Unicode>
                 </TextEquiv>
@@ -5939,7 +5939,7 @@ Vorſtudien ſchon einige Jahre hier aufgehalten.</Unicode>
             </TextLine>
             <TextLine id="r70l3" custom="readingOrder {index:2;}">
                 <Coords points="7981,3640 8188,3624 8705,3622 9375,3619 9378,3660 9347,3662 8209,3682 8203,3682 8009,3674 7981,3667"/>
-                <Baseline points="7981,3665 8026,3666 8064,3665 8330,3663 8399,3663 8464,3662 8496,3662 8726,3659 8759,3658 8864,3658 8907,3657 9027,3658 9070,3658 9103,3658 9135,3658 9272,3657 9316,3657 9378,3656"/>
+                <Baseline points="7981,3665 8026,3666 8064,3665 8330,3663 8399,3663 8464,3662 8496,3662 8726,3659 8759,3658 8864,3658 8907,3657 9027,3658 9070,3658 9103,3658 9135,3658 9272,3657 9316,3657 9377,3656"/>
                 <TextEquiv>
                     <Unicode>tig vorgeſchritten. Die Seitenſchiffe ſtehen bereits in Gräten und</Unicode>
                 </TextEquiv>

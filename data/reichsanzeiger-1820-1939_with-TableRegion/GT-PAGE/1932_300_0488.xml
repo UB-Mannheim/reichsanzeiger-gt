@@ -1,17 +1,17 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
     <Metadata>
         <Creator>Transkribus</Creator>
         <Created>2021-12-13T20:28:32.207+01:00</Created>
-        <LastChange>2022-12-07T16:02:16.605+01:00</LastChange>
-        <TranskribusMetadata docId="1148633" pageId="47063969" pageNr="3" tsid="105747626" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=JJUVLARFVWIZYCVDWGTXGNQP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WMZDMTHBIJICCAEYYXAQJCHA" imageId="38432645"/>
+        <LastChange>2023-11-16T09:45:35.978+01:00</LastChange>
+        <TranskribusMetadata docId="1148633" pageId="47063969" pageNr="3" tsid="139879912" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=JJUVLARFVWIZYCVDWGTXGNQP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CZWGHKMZVOWCLOMZGTHDEMUR" imageId="38432645"/>
     </Metadata>
     <Page imageFilename="1932_300_0488.jpg" imageWidth="10024" imageHeight="7480">
         <PrintSpace>
             <Coords points="970,682 9699,682 9699,7102 970,7102"/>
         </PrintSpace>
         <ReadingOrder>
-            <OrderedGroup id="ro_1690359968139" caption="Regions reading order">
+            <OrderedGroup id="ro_1700129710053" caption="Regions reading order">
                 <RegionRefIndexed index="2" regionRef="r1"/>
                 <RegionRefIndexed index="3" regionRef="r2"/>
                 <RegionRefIndexed index="6" regionRef="r3"/>
@@ -85,7 +85,7 @@
                 <Coords points="1602,877 1602,948 1757,948 1757,877"/>
                 <TextLine id="line_1665042592108_359" custom="readingOrder {index:0;}">
                     <Coords points="1616,883 1753,885 1752,935 1615,933"/>
-                    <Baseline points="1614,921 1751,923"/>
+                    <Baseline points="1615,921 1751,923"/>
                     <TextEquiv>
                         <Unicode>Heutiger</Unicode>
                     </TextEquiv>
@@ -96,7 +96,7 @@
                 <Coords points="1757,877 1757,948 1930,948 1933,877"/>
                 <TextLine id="line_1665042597425_364" custom="readingOrder {index:0;}">
                     <Coords points="1790,886 1915,884 1916,934 1791,936"/>
-                    <Baseline points="1791,925 1916,923"/>
+                    <Baseline points="1791,925 1915,923"/>
                     <TextEquiv>
                         <Unicode>Voriger</Unicode>
                     </TextEquiv>
@@ -184,7 +184,7 @@
                 <Coords points="1418,1015 1418,1053 1480,1053 1480,1015"/>
                 <TextLine id="line_1665042646951_399" custom="readingOrder {index:0;}">
                     <Coords points="1429,1016 1460,1015 1461,1051 1430,1052"/>
-                    <Baseline points="1430,1047 1461,1046"/>
+                    <Baseline points="1430,1047 1460,1046"/>
                     <TextEquiv>
                         <Unicode>0</Unicode>
                     </TextEquiv>
@@ -210,7 +210,7 @@
                 <Coords points="1602,1015 1602,1053 1757,1053 1757,1015"/>
                 <TextLine id="line_1665042653114_404" custom="readingOrder {index:0;}">
                     <Coords points="1617,1015 1731,1016 1732,1050 1618,1049"/>
-                    <Baseline points="1618,1044 1732,1045"/>
+                    <Baseline points="1618,1044 1731,1045"/>
                     <TextEquiv>
                         <Unicode>—,— B</Unicode>
                     </TextEquiv>
@@ -221,7 +221,7 @@
                 <Coords points="1757,1015 1757,1053 1929,1053 1929,1015"/>
                 <TextLine id="line_1665042720878_424" custom="readingOrder {index:0;}">
                     <Coords points="1791,1014 1894,1015 1895,1050 1792,1049"/>
-                    <Baseline points="1792,1044 1895,1045"/>
+                    <Baseline points="1792,1044 1894,1045"/>
                     <TextEquiv>
                         <Unicode>—,— B</Unicode>
                     </TextEquiv>
@@ -258,7 +258,7 @@
                 <Coords points="1536,1053 1536,1084 1602,1084 1602,1053"/>
                 <TextLine id="line_1665042735140_434" custom="readingOrder {index:0;}">
                     <Coords points="1541,1055 1601,1055 1603,1086 1543,1086"/>
-                    <Baseline points="1543,1081 1603,1081"/>
+                    <Baseline points="1543,1081 1602,1081"/>
                     <TextEquiv>
                         <Unicode>1.10</Unicode>
                     </TextEquiv>
@@ -467,7 +467,7 @@
                 <Coords points="1602,1313 1602,1375 1757,1375 1757,1313"/>
                 <TextLine id="line_1665042787273_469" custom="readingOrder {index:0;}">
                     <Coords points="1611,1339 1712,1338 1713,1375 1612,1376"/>
-                    <Baseline points="1612,1371 1713,1370"/>
+                    <Baseline points="1612,1371 1712,1370"/>
                     <TextEquiv>
                         <Unicode>83,25 b</Unicode>
                     </TextEquiv>
@@ -489,7 +489,7 @@
                 <Coords points="1110,1375 1110,1411 1418,1411 1418,1375"/>
                 <TextLine id="line_1665042799649_479" custom="readingOrder {index:0;}">
                     <Coords points="1124,1374 1417,1380 1418,1413 1125,1407"/>
-                    <Baseline points="1125,1402 1418,1408"/>
+                    <Baseline points="1125,1402 1417,1408"/>
                     <TextEquiv>
                         <Unicode>Ver. Bautzn. Papierf</Unicode>
                     </TextEquiv>
@@ -599,7 +599,7 @@
                 <Coords points="1602,1411 1602,1442 1757,1442 1757,1411"/>
                 <TextLine id="line_1665042819459_494" custom="readingOrder {index:0;}">
                     <Coords points="1630,1414 1696,1416 1698,1442 1632,1440"/>
-                    <Baseline points="1632,1435 1698,1437"/>
+                    <Baseline points="1632,1435 1697,1437"/>
                     <TextEquiv>
                         <Unicode>—,—</Unicode>
                     </TextEquiv>
@@ -804,7 +804,7 @@
                 <Coords points="1602,1571 1602,1607 1757,1607 1757,1571"/>
                 <TextLine id="TableCell_1658212157134_1490l0" custom="readingOrder {index:0;}">
                     <Coords points="1609,1571 1746,1569 1746,1605 1609,1607"/>
-                    <Baseline points="1602,1599 1702,1597 1729,1597"/>
+                    <Baseline points="1609,1599 1702,1597 1729,1597"/>
                     <TextEquiv>
                         <Unicode>69,25 b G</Unicode>
                     </TextEquiv>
@@ -1002,7 +1002,7 @@
                 <Coords points="1602,1673 1602,1703 1757,1703 1757,1673"/>
                 <TextLine id="line_1665043029414_550" custom="readingOrder {index:0;}">
                     <Coords points="1628,1672 1733,1672 1734,1700 1629,1700"/>
-                    <Baseline points="1629,1695 1734,1695"/>
+                    <Baseline points="1629,1695 1733,1695"/>
                     <TextEquiv>
                         <Unicode>—,— B</Unicode>
                     </TextEquiv>
@@ -1101,7 +1101,7 @@
                 <Coords points="1418,1740 1418,1771 1480,1771 1480,1740"/>
                 <TextLine id="line_1665390668518_195" custom="readingOrder {index:0;}">
                     <Coords points="1431,1743 1461,1743 1462,1773 1432,1773"/>
-                    <Baseline points="1432,1768 1462,1768"/>
+                    <Baseline points="1432,1768 1461,1768"/>
                     <TextEquiv>
                         <Unicode>5</Unicode>
                     </TextEquiv>
@@ -1134,7 +1134,7 @@
                 <Coords points="1600,1737 1602,1771 1757,1771 1756,1734"/>
                 <TextLine id="TableCell_1658212145136_1310l0" custom="readingOrder {index:0;}">
                     <Coords points="1607,1736 1692,1736 1692,1767 1607,1767"/>
-                    <Baseline points="1604,1763 1689,1763"/>
+                    <Baseline points="1607,1763 1689,1763"/>
                     <TextEquiv>
                         <Unicode>48 b B</Unicode>
                     </TextEquiv>
@@ -1259,7 +1259,7 @@
                 <Coords points="1602,1802 1602,1836 1757,1836 1757,1802"/>
                 <TextLine id="line_1665472403039_512" custom="readingOrder {index:0;}">
                     <Coords points="1606,1802 1705,1802 1705,1836 1606,1836"/>
-                    <Baseline points="1605,1828 1689,1828"/>
+                    <Baseline points="1606,1828 1689,1828"/>
                     <TextEquiv>
                         <Unicode>22,5 b</Unicode>
                     </TextEquiv>
@@ -1270,7 +1270,7 @@
                 <Coords points="1757,1802 1757,1836 1927,1836 1927,1802"/>
                 <TextLine id="line_1665390715167_223" custom="readingOrder {index:0;}">
                     <Coords points="1774,1803 1865,1803 1867,1835 1773,1839"/>
-                    <Baseline points="1775,1829 1867,1830"/>
+                    <Baseline points="1775,1829 1866,1830"/>
                     <TextEquiv>
                         <Unicode>22 b G</Unicode>
                     </TextEquiv>
@@ -1299,7 +1299,7 @@
                 <Coords points="1418,1836 1418,1901 1480,1901 1480,1836"/>
                 <TextLine id="line_1665391293130_270" custom="readingOrder {index:0;}">
                     <Coords points="1439,1849 1460,1848 1462,1898 1441,1899"/>
-                    <Baseline points="1441,1894 1462,1893"/>
+                    <Baseline points="1441,1894 1461,1893"/>
                     <TextEquiv>
                         <Unicode>7</Unicode>
                     </TextEquiv>
@@ -1478,7 +1478,7 @@
                 <Coords points="1602,1965 1602,2033 1757,2033 1757,1965"/>
                 <TextLine id="line_1665391350158_303" custom="readingOrder {index:0;}">
                     <Coords points="1607,1981 1712,1979 1713,2029 1608,2031"/>
-                    <Baseline points="1608,2026 1713,2024"/>
+                    <Baseline points="1608,2026 1712,2024"/>
                     <TextEquiv>
                         <Unicode>13,75 b</Unicode>
                     </TextEquiv>
@@ -1489,7 +1489,7 @@
                 <Coords points="1757,1965 1757,2033 1927,2033 1927,1965"/>
                 <TextLine id="line_1665391333834_295" custom="readingOrder {index:0;}">
                     <Coords points="1773,1983 1870,1979 1872,2029 1775,2033"/>
-                    <Baseline points="1775,2028 1872,2024"/>
+                    <Baseline points="1775,2028 1871,2024"/>
                     <TextEquiv>
                         <Unicode>13,75 b</Unicode>
                     </TextEquiv>
@@ -1537,7 +1537,7 @@
                 <Coords points="1602,2033 1602,2062 1757,2062 1757,2033"/>
                 <TextLine id="line_1665391359619_308" custom="readingOrder {index:0;}">
                     <Coords points="1622,2034 1707,2035 1709,2064 1624,2063"/>
-                    <Baseline points="1624,2058 1709,2059"/>
+                    <Baseline points="1624,2058 1708,2059"/>
                     <TextEquiv>
                         <Unicode>—,—</Unicode>
                     </TextEquiv>
@@ -1787,7 +1787,7 @@
                 <Coords points="1602,2162 1602,2199 1757,2199 1757,2162"/>
                 <TextLine id="line_1665391480985_352" custom="readingOrder {index:0;}">
                     <Coords points="1632,2165 1684,2164 1678,2147 1697,2194 1691,2196 1631,2198"/>
-                    <Baseline points="1631,2193 1690,2191 1695,2189"/>
+                    <Baseline points="1631,2193 1690,2191 1694,2189"/>
                     <TextEquiv>
                         <Unicode>—,—</Unicode>
                     </TextEquiv>
@@ -2033,7 +2033,7 @@
                 <Coords points="1536,2296 1536,2364 1602,2364 1602,2296"/>
                 <TextLine id="TableCell_1658212068863_652l0" custom="readingOrder {index:0;}">
                     <Coords points="1540,2296 1600,2296 1600,2364 1540,2364"/>
-                    <Baseline points="1545,2357 1602,2357"/>
+                    <Baseline points="1545,2357 1600,2357"/>
                     <TextEquiv>
                         <Unicode>1.10</Unicode>
                     </TextEquiv>
@@ -2114,7 +2114,7 @@
                 <Coords points="1757,2364 1757,2391 1927,2391 1927,2364"/>
                 <TextLine id="line_1665391545421_380" custom="readingOrder {index:0;}">
                     <Coords points="1786,2367 1870,2366 1872,2391 1788,2392"/>
-                    <Baseline points="1788,2387 1872,2386"/>
+                    <Baseline points="1788,2387 1871,2386"/>
                     <TextEquiv>
                         <Unicode>—,—</Unicode>
                     </TextEquiv>
@@ -2246,7 +2246,7 @@
                 <Coords points="1757,2428 1757,2458 1927,2458 1927,2428"/>
                 <TextLine id="line_1665391580686_400" custom="readingOrder {index:0;}">
                     <Coords points="1791,2430 1868,2433 1866,2463 1789,2460"/>
-                    <Baseline points="1788,2457 1865,2460"/>
+                    <Baseline points="1789,2457 1865,2460"/>
                     <TextEquiv>
                         <Unicode>—,—</Unicode>
                     </TextEquiv>
@@ -2323,7 +2323,7 @@
                 <Coords points="1110,2492 1110,2527 1418,2527 1418,2492"/>
                 <TextLine id="line_1665391612734_420" custom="readingOrder {index:0;}">
                     <Coords points="1120,2493 1261,2496 1262,2528 1121,2525"/>
-                    <Baseline points="1121,2520 1262,2523"/>
+                    <Baseline points="1121,2520 1261,2523"/>
                     <TextEquiv>
                         <Unicode>Voltohm</Unicode>
                     </TextEquiv>
@@ -2411,7 +2411,7 @@
                 <Coords points="1480,2527 1480,2718 1536,2718 1536,2527"/>
                 <TextLine id="line_1665391643378_440" custom="readingOrder {index:0;}">
                     <Coords points="1486,2528 1520,2528 1521,2562 1487,2562"/>
-                    <Baseline points="1487,2557 1521,2557"/>
+                    <Baseline points="1487,2557 1520,2557"/>
                     <TextEquiv>
                         <Unicode>0</Unicode>
                     </TextEquiv>
@@ -2455,7 +2455,7 @@
                 <Coords points="1110,2718 1110,2750 1418,2750 1418,2718"/>
                 <TextLine id="line_1665391740131_456" custom="readingOrder {index:0;}">
                     <Coords points="1110,2719 1130,2718 1184,2718 1418,2725 1416,2754 1188,2750 1129,2750 1110,2750"/>
-                    <Baseline points="1129,2748 1184,2747 1188,2746 1254,2747 1272,2748 1296,2748 1307,2749 1356,2749 1368,2750 1418,2750"/>
+                    <Baseline points="1129,2748 1184,2747 1188,2746 1254,2747 1272,2748 1296,2748 1307,2749 1356,2749 1368,2750 1416,2749"/>
                     <TextEquiv>
                         <Unicode>Wagner u. Co. Mf.</Unicode>
                     </TextEquiv>
@@ -2481,7 +2481,7 @@
                 <Coords points="1536,2718 1536,2750 1602,2750 1602,2718"/>
                 <TextLine id="TableCell_1658212046771_400l0" custom="readingOrder {index:0;}">
                     <Coords points="1535,2723 1601,2723 1601,2755 1535,2755"/>
-                    <Baseline points="1543,2752 1602,2752"/>
+                    <Baseline points="1543,2752 1601,2752"/>
                     <TextEquiv>
                         <Unicode>1.10</Unicode>
                     </TextEquiv>
@@ -2602,7 +2602,7 @@
                 <Coords points="1480,2789 1480,2854 1536,2850 1536,2785"/>
                 <TextLine id="line_1665473585783_757" custom="readingOrder {index:0;}">
                     <Coords points="1483,2805 1517,2802 1521,2852 1487,2855"/>
-                    <Baseline points="1487,2850 1521,2847"/>
+                    <Baseline points="1487,2850 1520,2847"/>
                     <TextEquiv>
                         <Unicode>0</Unicode>
                     </TextEquiv>
@@ -2690,7 +2690,7 @@
                 <Coords points="1602,2850 1602,2885 1757,2885 1757,2850"/>
                 <TextLine id="line_1665391810211_491" custom="readingOrder {index:0;}">
                     <Coords points="1623,2856 1700,2856 1701,2886 1624,2886"/>
-                    <Baseline points="1624,2881 1701,2881"/>
+                    <Baseline points="1624,2881 1700,2881"/>
                     <TextEquiv>
                         <Unicode>—,—</Unicode>
                     </TextEquiv>
@@ -3061,7 +3061,7 @@
                 <Coords points="1536,3048 1536,3121 1602,3121 1602,3048"/>
                 <TextLine id="line_1665391999376_563" custom="readingOrder {index:0;}">
                     <Coords points="1537,3050 1578,3050 1580,3087 1539,3087"/>
-                    <Baseline points="1539,3082 1580,3082"/>
+                    <Baseline points="1539,3082 1579,3082"/>
                     <TextEquiv>
                         <Unicode>1.1</Unicode>
                     </TextEquiv>
@@ -3124,7 +3124,7 @@
                 <Coords points="2599,882 2599,941 2754,941 2756,882"/>
                 <TextLine id="line_1665392027212_573" custom="readingOrder {index:0;}">
                     <Coords points="2621,890 2742,891 2744,929 2623,928"/>
-                    <Baseline points="2623,923 2744,924"/>
+                    <Baseline points="2623,923 2743,924"/>
                     <TextEquiv>
                         <Unicode>Voriger</Unicode>
                     </TextEquiv>
@@ -3168,7 +3168,7 @@
                 <Coords points="2369,941 2369,1014 2438,1014 2438,941"/>
                 <TextLine id="line_1665392049337_588" custom="readingOrder {index:0;}">
                     <Coords points="2372,968 2418,966 2420,1016 2374,1018"/>
-                    <Baseline points="2374,1013 2420,1011"/>
+                    <Baseline points="2374,1013 2419,1011"/>
                     <TextEquiv>
                         <Unicode>1.7</Unicode>
                     </TextEquiv>
@@ -3226,7 +3226,7 @@
                 <Coords points="2258,1014 2258,1113 2313,1113 2313,1014"/>
                 <TextLine id="line_1665392101368_613" custom="readingOrder {index:0;}">
                     <Coords points="2271,1016 2302,1018 2303,1049 2272,1047"/>
-                    <Baseline points="2272,1042 2303,1044"/>
+                    <Baseline points="2272,1042 2302,1044"/>
                     <TextEquiv>
                         <Unicode>0</Unicode>
                     </TextEquiv>
@@ -3270,7 +3270,7 @@
                 <Coords points="2599,1014 2599,1113 2749,1113 2752,1014"/>
                 <TextLine id="line_1665392132268_633" custom="readingOrder {index:0;}">
                     <Coords points="2609,1014 2669,1016 2670,1047 2610,1045"/>
-                    <Baseline points="2618,1041 2670,1042"/>
+                    <Baseline points="2618,1041 2669,1042"/>
                     <TextEquiv>
                         <Unicode>5 B</Unicode>
                     </TextEquiv>
@@ -3281,7 +3281,7 @@
                 <Coords points="1961,1113 1961,1148 2258,1148 2258,1113"/>
                 <TextLine id="line_1665392144296_638" custom="readingOrder {index:0;}">
                     <Coords points="1963,1115 2199,1114 2200,1147 1964,1148"/>
-                    <Baseline points="1973,1143 2200,1142"/>
+                    <Baseline points="1973,1143 2199,1142"/>
                     <TextEquiv>
                         <Unicode>Wickrath Leder</Unicode>
                     </TextEquiv>
@@ -3461,7 +3461,7 @@
                 <Coords points="2599,1179 2599,1210 2749,1210 2749,1179"/>
                 <TextLine id="line_1665392254798_698" custom="readingOrder {index:0;}">
                     <Coords points="2622,1182 2699,1183 2701,1212 2624,1211"/>
-                    <Baseline points="2624,1206 2701,1207"/>
+                    <Baseline points="2624,1206 2700,1207"/>
                     <TextEquiv>
                         <Unicode>—,—</Unicode>
                     </TextEquiv>
@@ -3513,7 +3513,7 @@
                 <Coords points="2599,1210 2599,1245 2749,1245 2749,1210"/>
                 <TextLine id="line_1665392271499_708" custom="readingOrder {index:0;}">
                     <Coords points="2618,1214 2702,1215 2703,1245 2619,1244"/>
-                    <Baseline points="2619,1239 2703,1240"/>
+                    <Baseline points="2619,1239 2702,1240"/>
                     <TextEquiv>
                         <Unicode>—,—</Unicode>
                     </TextEquiv>
@@ -3627,7 +3627,7 @@
                 <Coords points="2438,1278 2438,1312 2599,1312 2599,1278"/>
                 <TextLine id="line_1665392304554_728" custom="readingOrder {index:0;}">
                     <Coords points="2457,1281 2536,1281 2537,1313 2458,1313"/>
-                    <Baseline points="2463,1309 2537,1308"/>
+                    <Baseline points="2463,1309 2536,1308"/>
                     <TextEquiv>
                         <Unicode>—,—</Unicode>
                     </TextEquiv>
@@ -3693,7 +3693,7 @@
                 <Coords points="2438,1312 2438,1347 2599,1347 2599,1312"/>
                 <TextLine id="line_1665392340107_743" custom="readingOrder {index:0;}">
                     <Coords points="2455,1318 2542,1316 2543,1345 2456,1347"/>
-                    <Baseline points="2456,1342 2543,1340"/>
+                    <Baseline points="2456,1342 2542,1340"/>
                     <TextEquiv>
                         <Unicode>—,—</Unicode>
                     </TextEquiv>
@@ -3763,7 +3763,7 @@
                 <Coords points="2599,1347 2599,1376 2749,1376 2749,1347"/>
                 <TextLine id="line_1665392370760_763" custom="readingOrder {index:0;}">
                     <Coords points="2621,1351 2692,1349 2694,1374 2623,1376"/>
-                    <Baseline points="2623,1371 2694,1369"/>
+                    <Baseline points="2623,1371 2693,1369"/>
                     <TextEquiv>
                         <Unicode>—,—</Unicode>
                     </TextEquiv>
@@ -3785,7 +3785,7 @@
                 <Coords points="2258,1376 2258,1503 2313,1503 2313,1376"/>
                 <TextLine id="line_1665392378050_768" custom="readingOrder {index:0;}">
                     <Coords points="2272,1379 2302,1380 2304,1410 2274,1409"/>
-                    <Baseline points="2274,1404 2304,1405"/>
+                    <Baseline points="2274,1404 2303,1405"/>
                     <TextEquiv>
                         <Unicode>0</Unicode>
                     </TextEquiv>
@@ -3800,7 +3800,7 @@
                 <Coords points="2369,1376 2369,1503 2438,1503 2438,1376"/>
                 <TextLine id="line_1665476187604_970" custom="readingOrder {index:0;}">
                     <Coords points="2378,1379 2436,1376 2438,1410 2380,1413"/>
-                    <Baseline points="2380,1408 2438,1405"/>
+                    <Baseline points="2380,1408 2437,1405"/>
                     <TextEquiv>
                         <Unicode>1.11</Unicode>
                     </TextEquiv>
@@ -3822,7 +3822,7 @@
                 <Coords points="2599,1376 2599,1503 2748,1503 2749,1376"/>
                 <TextLine id="line_1665392394865_778" custom="readingOrder {index:0;}">
                     <Coords points="2605,1378 2710,1373 2712,1405 2607,1410"/>
-                    <Baseline points="2607,1405 2712,1400"/>
+                    <Baseline points="2607,1405 2711,1400"/>
                     <TextEquiv>
                         <Unicode>46 eb G</Unicode>
                     </TextEquiv>
@@ -3903,7 +3903,7 @@
                 <Coords points="2258,1539 2258,1574 2313,1574 2313,1539"/>
                 <TextLine id="line_1665392430469_783" custom="readingOrder {index:0;}">
                     <Coords points="2272,1540 2301,1540 2302,1573 2273,1573"/>
-                    <Baseline points="2273,1568 2302,1568"/>
+                    <Baseline points="2273,1568 2301,1568"/>
                     <TextEquiv>
                         <Unicode>0</Unicode>
                     </TextEquiv>
@@ -4127,7 +4127,7 @@
                 <Coords points="2438,1637 2438,1668 2599,1668 2599,1637"/>
                 <TextLine id="TableCell_1658212321821_2009l0" custom="readingOrder {index:0;}">
                     <Coords points="2444,1638 2512,1638 2512,1669 2444,1669"/>
-                    <Baseline points="2440,1661 2491,1661 2505,1661 2508,1661"/>
+                    <Baseline points="2444,1661 2491,1661 2505,1661 2508,1661"/>
                     <TextEquiv>
                         <Unicode>60 G</Unicode>
                     </TextEquiv>
@@ -4138,7 +4138,7 @@
                 <Coords points="2599,1637 2599,1668 2748,1668 2748,1637"/>
                 <TextLine id="line_1665393047142_837" custom="readingOrder {index:0;}">
                     <Coords points="2618,1641 2702,1641 2707,1670 2623,1670"/>
-                    <Baseline points="2623,1665 2707,1665"/>
+                    <Baseline points="2623,1665 2706,1665"/>
                     <TextEquiv>
                         <Unicode>—,—</Unicode>
                     </TextEquiv>
@@ -4270,7 +4270,7 @@
                 <Coords points="2599,1705 2599,1764 2748,1764 2748,1705"/>
                 <TextLine id="line_1665393102561_872" custom="readingOrder {index:0;}">
                     <Coords points="2603,1704 2660,1705 2667,1736 2610,1735"/>
-                    <Baseline points="2610,1730 2667,1731"/>
+                    <Baseline points="2610,1730 2665,1731"/>
                     <TextEquiv>
                         <Unicode>54 b</Unicode>
                     </TextEquiv>
@@ -4326,7 +4326,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
                 <Coords points="1959,2062 1957,2130 2296,2130 2296,2065"/>
                 <TextLine id="line_1665393127636_877" custom="readingOrder {index:0;}">
                     <Coords points="1961,2067 2284,2066 2288,2097 1965,2098"/>
-                    <Baseline points="1965,2093 2288,2092"/>
+                    <Baseline points="1965,2093 2287,2092"/>
                     <TextEquiv>
                         <Unicode>Allgemeine Deutſche</Unicode>
                     </TextEquiv>
@@ -4355,7 +4355,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
                 <Coords points="2367,2065 2367,2130 2428,2130 2428,2066"/>
                 <TextLine id="line_1665393143707_887" custom="readingOrder {index:0;}">
                     <Coords points="2395,2081 2418,2080 2420,2130 2397,2131"/>
-                    <Baseline points="2397,2126 2420,2125"/>
+                    <Baseline points="2397,2126 2419,2125"/>
                     <TextEquiv>
                         <Unicode>0</Unicode>
                     </TextEquiv>
@@ -4377,7 +4377,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
                 <Coords points="2600,2068 2600,2130 2748,2130 2750,2070"/>
                 <TextLine id="line_1665393169865_897" custom="readingOrder {index:0;}">
                     <Coords points="2605,2079 2708,2079 2708,2129 2605,2129"/>
-                    <Baseline points="2602,2124 2699,2126"/>
+                    <Baseline points="2605,2124 2699,2126"/>
                     <TextEquiv>
                         <Unicode>62,25 b</Unicode>
                     </TextEquiv>
@@ -4410,7 +4410,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
                 <Coords points="2367,2130 2367,2166 2428,2166 2428,2130"/>
                 <TextLine id="line_1665393193427_912" custom="readingOrder {index:0;}">
                     <Coords points="2395,2134 2420,2132 2423,2159 2398,2161"/>
-                    <Baseline points="2398,2156 2423,2154"/>
+                    <Baseline points="2398,2156 2422,2154"/>
                     <TextEquiv>
                         <Unicode>7</Unicode>
                     </TextEquiv>
@@ -4421,7 +4421,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
                 <Coords points="2428,2130 2428,2166 2600,2166 2600,2130"/>
                 <TextLine id="line_1665477149676_1098" custom="readingOrder {index:0;}">
                     <Coords points="2438,2130 2520,2131 2520,2167 2438,2166"/>
-                    <Baseline points="2438,2156 2521,2156"/>
+                    <Baseline points="2438,2156 2520,2156"/>
                     <TextEquiv>
                         <Unicode>94 b G</Unicode>
                     </TextEquiv>
@@ -4432,7 +4432,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
                 <Coords points="2600,2130 2600,2166 2747,2166 2748,2130"/>
                 <TextLine id="TableCell_1658212469594_3225l0" custom="readingOrder {index:0;}">
                     <Coords points="2602,2130 2750,2130 2749,2166 2602,2166"/>
-                    <Baseline points="2600,2157 2699,2158"/>
+                    <Baseline points="2602,2157 2699,2158"/>
                     <TextEquiv>
                         <Unicode>94 eb B</Unicode>
                     </TextEquiv>
@@ -4443,7 +4443,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
                 <Coords points="1957,2166 1956,2230 2296,2230 2296,2166"/>
                 <TextLine id="line_1665393177984_902" custom="readingOrder {index:0;}">
                     <Coords points="1961,2166 2288,2167 2290,2197 1963,2196"/>
-                    <Baseline points="1971,2192 2290,2192"/>
+                    <Baseline points="1971,2192 2289,2192"/>
                     <TextEquiv>
                         <Unicode>Bank Elektr. Werte</Unicode>
                     </TextEquiv>
@@ -4461,7 +4461,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
                 <Coords points="2296,2166 2296,2230 2367,2230 2367,2166"/>
                 <TextLine id="line_1665393279986_926" custom="readingOrder {index:0;}">
                     <Coords points="2326,2179 2350,2178 2352,2228 2328,2229"/>
-                    <Baseline points="2328,2224 2352,2223"/>
+                    <Baseline points="2328,2224 2351,2223"/>
                     <TextEquiv>
                         <Unicode>0</Unicode>
                     </TextEquiv>
@@ -4535,7 +4535,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
                 <Coords points="2600,2230 2600,2264 2746,2264 2746,2230"/>
                 <TextLine id="line_1665393320023_951" custom="readingOrder {index:0;}">
                     <Coords points="2622,2232 2691,2232 2693,2262 2624,2262"/>
-                    <Baseline points="2624,2257 2693,2257"/>
+                    <Baseline points="2624,2257 2692,2257"/>
                     <TextEquiv>
                         <Unicode>—,—</Unicode>
                     </TextEquiv>
@@ -4557,7 +4557,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
                 <Coords points="2296,2264 2296,2298 2367,2298 2367,2264"/>
                 <TextLine id="line_1665393330550_956" custom="readingOrder {index:0;}">
                     <Coords points="2322,2267 2367,2265 2369,2297 2324,2299"/>
-                    <Baseline points="2331,2293 2369,2292"/>
+                    <Baseline points="2331,2293 2368,2292"/>
                     <TextEquiv>
                         <Unicode>4 ½</Unicode>
                     </TextEquiv>
@@ -4770,7 +4770,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
                 <Coords points="2296,2395 2296,2428 2367,2428 2367,2395"/>
                 <TextLine id="line_1665393732789_1016" custom="readingOrder {index:0;}">
                     <Coords points="2310,2397 2349,2396 2351,2427 2312,2428"/>
-                    <Baseline points="2312,2423 2351,2422"/>
+                    <Baseline points="2312,2423 2350,2422"/>
                     <TextEquiv>
                         <Unicode>10</Unicode>
                     </TextEquiv>
@@ -4840,7 +4840,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
                 <Coords points="2428,2428 2428,2460 2600,2460 2600,2428"/>
                 <TextLine id="line_1665393770268_1036" custom="readingOrder {index:0;}">
                     <Coords points="2452,2427 2561,2429 2562,2461 2453,2459"/>
-                    <Baseline points="2453,2454 2562,2456"/>
+                    <Baseline points="2453,2454 2561,2456"/>
                     <TextEquiv>
                         <Unicode>—,— B</Unicode>
                     </TextEquiv>
@@ -4851,7 +4851,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
                 <Coords points="2600,2428 2600,2460 2746,2460 2746,2428"/>
                 <TextLine id="line_1665393786609_1046" custom="readingOrder {index:0;}">
                     <Coords points="2621,2425 2723,2427 2725,2461 2623,2459"/>
-                    <Baseline points="2623,2454 2725,2456"/>
+                    <Baseline points="2623,2454 2724,2456"/>
                     <TextEquiv>
                         <Unicode>—,— B</Unicode>
                     </TextEquiv>
@@ -4939,7 +4939,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
                 <Coords points="2367,2495 2367,2524 2428,2524 2428,2495"/>
                 <TextLine id="line_1665393817903_1066" custom="readingOrder {index:0;}">
                     <Coords points="2395,2495 2421,2495 2423,2524 2397,2524"/>
-                    <Baseline points="2397,2519 2423,2519"/>
+                    <Baseline points="2397,2519 2422,2519"/>
                     <TextEquiv>
                         <Unicode>9</Unicode>
                     </TextEquiv>
@@ -5016,7 +5016,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
                 <Coords points="2600,2524 2600,2560 2746,2560 2746,2524"/>
                 <TextLine id="line_1665393856323_1091" custom="readingOrder {index:0;}">
                     <Coords points="2600,2525 2652,2527 2654,2560 2602,2558"/>
-                    <Baseline points="2602,2553 2654,2555"/>
+                    <Baseline points="2602,2553 2653,2555"/>
                     <TextEquiv>
                         <Unicode>52 b</Unicode>
                     </TextEquiv>
@@ -5166,7 +5166,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
                 <Coords points="2367,2626 2367,2691 2428,2691 2428,2626"/>
                 <TextLine id="line_1665393928869_1131" custom="readingOrder {index:0;}">
                     <Coords points="2393,2641 2420,2640 2422,2690 2395,2691"/>
-                    <Baseline points="2395,2686 2422,2685"/>
+                    <Baseline points="2395,2686 2421,2685"/>
                     <TextEquiv>
                         <Unicode>0</Unicode>
                     </TextEquiv>
@@ -5177,7 +5177,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
                 <Coords points="2428,2626 2428,2691 2600,2691 2600,2626"/>
                 <TextLine id="line_1665393936395_1136" custom="readingOrder {index:0;}">
                     <Coords points="2454,2643 2562,2640 2563,2690 2455,2693"/>
-                    <Baseline points="2455,2688 2563,2685"/>
+                    <Baseline points="2455,2688 2562,2685"/>
                     <TextEquiv>
                         <Unicode>—,— B</Unicode>
                     </TextEquiv>
@@ -5250,7 +5250,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
                 <Coords points="2600,2691 2600,2754 2746,2754 2746,2691"/>
                 <TextLine id="line_1665393976730_1161" custom="readingOrder {index:0;}">
                     <Coords points="2619,2711 2695,2711 2695,2761 2619,2761"/>
-                    <Baseline points="2618,2750 2694,2750"/>
+                    <Baseline points="2619,2750 2694,2750"/>
                     <TextEquiv>
                         <Unicode>—,—</Unicode>
                     </TextEquiv>
@@ -5275,7 +5275,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
                 </TextLine>
                 <TextLine id="line_1665394027020_1171" custom="readingOrder {index:2;}">
                     <Coords points="2096,2820 2291,2820 2293,2853 2098,2853"/>
-                    <Baseline points="2098,2848 2293,2848"/>
+                    <Baseline points="2098,2848 2292,2848"/>
                     <TextEquiv>
                         <Unicode>RM per St.</Unicode>
                     </TextEquiv>
@@ -5297,7 +5297,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
                 <Coords points="2367,2754 2367,2855 2428,2855 2428,2754"/>
                 <TextLine id="line_1665394041359_1181" custom="readingOrder {index:0;}">
                     <Coords points="2394,2806 2424,2805 2425,2855 2395,2856"/>
-                    <Baseline points="2395,2851 2425,2850"/>
+                    <Baseline points="2395,2851 2424,2850"/>
                     <TextEquiv>
                         <Unicode>0</Unicode>
                     </TextEquiv>
@@ -5447,7 +5447,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
                 <Coords points="1956,2953 1956,3019 2296,3019 2296,2953"/>
                 <TextLine id="TableCell_1658212421907_2631l1" custom="readingOrder {index:0;}">
                     <Coords points="1964,2955 2044,2956 2120,2955 2141,2955 2232,2958 2246,2967 2251,2982 2232,2986 2092,2986 2044,2986 1961,2988"/>
-                    <Baseline points="1971,2983 2092,2981 2120,2981 2247,2983"/>
+                    <Baseline points="1971,2983 2092,2981 2120,2981 2246,2982"/>
                     <TextEquiv>
                         <Unicode>Deutſche Central⸗</Unicode>
                     </TextEquiv>
@@ -5487,7 +5487,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
                 <Coords points="2428,2953 2428,3019 2600,3019 2600,2953"/>
                 <TextLine id="line_1665394138147_1241" custom="readingOrder {index:0;}">
                     <Coords points="2439,2972 2524,2975 2522,3025 2437,3022"/>
-                    <Baseline points="2436,3011 2521,3014"/>
+                    <Baseline points="2437,3011 2521,3014"/>
                     <TextEquiv>
                         <Unicode>62,5 b</Unicode>
                     </TextEquiv>
@@ -5567,7 +5567,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
                 <Coords points="2600,3019 2600,3127 2746,3127 2746,3019"/>
                 <TextLine id="line_1665394176052_1266" custom="readingOrder {index:0;}">
                     <Coords points="2603,3038 2663,3038 2663,3088 2603,3088"/>
-                    <Baseline points="2599,3080 2654,3080"/>
+                    <Baseline points="2603,3080 2654,3080"/>
                     <TextEquiv>
                         <Unicode>69 b</Unicode>
                     </TextEquiv>
@@ -5699,7 +5699,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
                 <Coords points="3209,1048 3209,1078 3272,1078 3272,1048"/>
                 <TextLine id="line_1665394284870_1321" custom="readingOrder {index:0;}">
                     <Coords points="3234,1050 3259,1049 3260,1077 3235,1078"/>
-                    <Baseline points="3235,1073 3260,1072"/>
+                    <Baseline points="3235,1073 3259,1072"/>
                     <TextEquiv>
                         <Unicode>6</Unicode>
                     </TextEquiv>
@@ -5897,7 +5897,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
                 <Coords points="2790,1175 2790,1209 3129,1209 3129,1175"/>
                 <TextLine id="TableCell_1658212639226_4044l1" custom="readingOrder {index:0;}">
                     <Coords points="2800,1182 3112,1175 3123,1176 3123,1210 2924,1209 2800,1208"/>
-                    <Baseline points="2800,1208 2965,1208 2992,1208 3129,1207"/>
+                    <Baseline points="2800,1208 2965,1208 2992,1208 3123,1207"/>
                     <TextEquiv>
                         <Unicode>Hamburger Hyp.⸗Bk.</Unicode>
                     </TextEquiv>
@@ -5919,7 +5919,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
                 <Coords points="3209,1175 3209,1209 3272,1209 3272,1175"/>
                 <TextLine id="line_1665394303722_1331" custom="readingOrder {index:0;}">
                     <Coords points="3234,1179 3260,1180 3261,1210 3235,1209"/>
-                    <Baseline points="3235,1204 3261,1205"/>
+                    <Baseline points="3235,1204 3260,1205"/>
                     <TextEquiv>
                         <Unicode>6</Unicode>
                     </TextEquiv>
@@ -5985,7 +5985,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
                 <Coords points="3272,1209 3272,1243 3435,1243 3435,1209"/>
                 <TextLine id="line_1665394342853_1351" custom="readingOrder {index:0;}">
                     <Coords points="3318,1210 3394,1209 3396,1241 3320,1242"/>
-                    <Baseline points="3320,1237 3396,1236"/>
+                    <Baseline points="3320,1237 3395,1236"/>
                     <TextEquiv>
                         <Unicode>, *</Unicode>
                     </TextEquiv>
@@ -6029,7 +6029,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
                 <Coords points="3209,1243 3209,1274 3272,1274 3272,1243"/>
                 <TextLine id="line_1665394377001_1366" custom="readingOrder {index:0;}">
                     <Coords points="3228,1243 3259,1241 3260,1273 3229,1275"/>
-                    <Baseline points="3229,1270 3260,1268"/>
+                    <Baseline points="3229,1270 3259,1268"/>
                     <TextEquiv>
                         <Unicode>0</Unicode>
                     </TextEquiv>
@@ -6040,7 +6040,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
                 <Coords points="3272,1243 3272,1274 3435,1274 3435,1243"/>
                 <TextLine id="line_1665394575257_1371" custom="readingOrder {index:0;}">
                     <Coords points="3324,1246 3406,1244 3409,1272 3327,1274"/>
-                    <Baseline points="3327,1269 3409,1267"/>
+                    <Baseline points="3327,1269 3408,1267"/>
                     <TextEquiv>
                         <Unicode>,— B</Unicode>
                     </TextEquiv>
@@ -6051,7 +6051,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
                 <Coords points="3435,1243 3435,1274 3594,1274 3594,1243"/>
                 <TextLine id="line_1665394582243_1376" custom="readingOrder {index:0;}">
                     <Coords points="3489,1243 3568,1243 3570,1274 3491,1274"/>
-                    <Baseline points="3491,1269 3570,1269"/>
+                    <Baseline points="3491,1269 3569,1269"/>
                     <TextEquiv>
                         <Unicode>,— B</Unicode>
                     </TextEquiv>
@@ -6106,7 +6106,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
                 <Coords points="3435,1274 3435,1311 3594,1311 3594,1274"/>
                 <TextLine id="line_1665394694074_1391" custom="readingOrder {index:0;}">
                     <Coords points="3458,1275 3534,1275 3536,1307 3460,1307"/>
-                    <Baseline points="3460,1302 3536,1302"/>
+                    <Baseline points="3460,1302 3535,1302"/>
                     <TextEquiv>
                         <Unicode>1 5 G</Unicode>
                     </TextEquiv>
@@ -6135,7 +6135,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
                 <Coords points="3129,1311 3129,1373 3209,1373 3209,1311"/>
                 <TextLine id="line_1665394701003_1396" custom="readingOrder {index:0;}">
                     <Coords points="3147,1326 3189,1325 3190,1375 3148,1376"/>
-                    <Baseline points="3148,1371 3190,1370"/>
+                    <Baseline points="3148,1371 3189,1370"/>
                     <TextEquiv>
                         <Unicode>10</Unicode>
                     </TextEquiv>
@@ -6183,7 +6183,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
                 <Coords points="3129,1373 3129,1408 3209,1408 3209,1373"/>
                 <TextLine id="line_1665394727383_1411" custom="readingOrder {index:0;}">
                     <Coords points="3152,1374 3192,1375 3194,1410 3154,1409"/>
-                    <Baseline points="3154,1404 3194,1405"/>
+                    <Baseline points="3154,1404 3193,1405"/>
                     <TextEquiv>
                         <Unicode>12</Unicode>
                     </TextEquiv>
@@ -6205,7 +6205,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
                 <Coords points="3272,1373 3272,1408 3435,1408 3435,1373"/>
                 <TextLine id="TableCell_1658212629588_3912l0" custom="readingOrder {index:0;}">
                     <Coords points="3280,1373 3380,1373 3380,1408 3280,1408"/>
-                    <Baseline points="3275,1400 3359,1400 3377,1400 3380,1400"/>
+                    <Baseline points="3280,1400 3359,1400 3377,1400 3380,1400"/>
                     <TextEquiv>
                         <Unicode>64 eb G</Unicode>
                     </TextEquiv>
@@ -6249,7 +6249,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
                 <Coords points="3209,1408 3209,1438 3272,1438 3272,1408"/>
                 <TextLine id="line_1665394750190_1426" custom="readingOrder {index:0;}">
                     <Coords points="3233,1410 3265,1412 3268,1442 3236,1440"/>
-                    <Baseline points="3236,1435 3268,1437"/>
+                    <Baseline points="3236,1435 3267,1437"/>
                     <TextEquiv>
                         <Unicode>0</Unicode>
                     </TextEquiv>
@@ -6337,7 +6337,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
                 <Coords points="2790,1470 2790,1506 3129,1506 3129,1470"/>
                 <TextLine id="TableCell_1658212617966_3804l1" custom="readingOrder {index:0;}">
                     <Coords points="2802,1478 2822,1477 2970,1470 3125,1470 3125,1506 2933,1506 2822,1503 2802,1502"/>
-                    <Baseline points="2802,1502 2920,1502 2932,1502 3129,1502"/>
+                    <Baseline points="2802,1502 2920,1502 2932,1502 3125,1502"/>
                     <TextEquiv>
                         <Unicode>Mitteld. Bodenkredbk.</Unicode>
                     </TextEquiv>
@@ -6359,7 +6359,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
                 <Coords points="3209,1470 3209,1506 3272,1506 3272,1470"/>
                 <TextLine id="line_1665394815810_1466" custom="readingOrder {index:0;}">
                     <Coords points="3237,1471 3263,1473 3264,1505 3238,1503"/>
-                    <Baseline points="3238,1498 3264,1500"/>
+                    <Baseline points="3238,1498 3263,1500"/>
                     <TextEquiv>
                         <Unicode>7</Unicode>
                     </TextEquiv>
@@ -6381,7 +6381,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
                 <Coords points="3435,1470 3435,1506 3594,1506 3594,1470"/>
                 <TextLine id="line_1665394838013_1476" custom="readingOrder {index:0;}">
                     <Coords points="3464,1474 3545,1472 3546,1505 3465,1507"/>
-                    <Baseline points="3465,1502 3546,1500"/>
+                    <Baseline points="3465,1502 3545,1500"/>
                     <TextEquiv>
                         <Unicode>—,—</Unicode>
                     </TextEquiv>
@@ -6436,7 +6436,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
                 <Coords points="3435,1506 3435,1535 3594,1535 3594,1506"/>
                 <TextLine id="line_1665394905387_1496" custom="readingOrder {index:0;}">
                     <Coords points="3465,1507 3537,1505 3538,1533 3466,1535"/>
-                    <Baseline points="3466,1530 3538,1528"/>
+                    <Baseline points="3466,1530 3537,1528"/>
                     <TextEquiv>
                         <Unicode>—,—</Unicode>
                     </TextEquiv>
@@ -6601,7 +6601,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
                 <Coords points="3435,1604 3435,1670 3594,1670 3594,1604"/>
                 <TextLine id="line_1665395213417_1551" custom="readingOrder {index:0;}">
                     <Coords points="3468,1619 3542,1617 3543,1667 3469,1669"/>
-                    <Baseline points="3469,1664 3543,1662"/>
+                    <Baseline points="3469,1664 3542,1662"/>
                     <TextEquiv>
                         <Unicode>—,—</Unicode>
                     </TextEquiv>
@@ -6623,7 +6623,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
                 <Coords points="3129,1670 3129,1701 3209,1701 3209,1670"/>
                 <TextLine id="line_1665395219807_1556" custom="readingOrder {index:0;}">
                     <Coords points="3165,1671 3195,1673 3196,1704 3166,1702"/>
-                    <Baseline points="3166,1697 3196,1699"/>
+                    <Baseline points="3166,1697 3195,1699"/>
                     <TextEquiv>
                         <Unicode>4</Unicode>
                     </TextEquiv>
@@ -6678,7 +6678,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
                 <Coords points="3129,1701 3129,1732 3209,1732 3209,1701"/>
                 <TextLine id="line_1665395238997_1566" custom="readingOrder {index:0;}">
                     <Coords points="3149,1703 3190,1702 3191,1734 3150,1735"/>
-                    <Baseline points="3150,1730 3191,1729"/>
+                    <Baseline points="3150,1730 3190,1729"/>
                     <TextEquiv>
                         <Unicode>12</Unicode>
                     </TextEquiv>
@@ -6722,7 +6722,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
                 <Coords points="2790,1732 2790,1765 3129,1765 3129,1732"/>
                 <TextLine id="TableCell_1658212599537_3594l0" custom="readingOrder {index:0;}">
                     <Coords points="2800,1738 2807,1737 3051,1732 3122,1732 3122,1768 2864,1768 2829,1766 2807,1764 2800,1761"/>
-                    <Baseline points="2800,1761 2952,1765 2964,1763 3129,1765"/>
+                    <Baseline points="2800,1761 2952,1765 2964,1763 3122,1765"/>
                     <TextEquiv>
                         <Unicode>Rheiniſche Hyp.⸗Bank</Unicode>
                     </TextEquiv>
@@ -6788,7 +6788,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
                 <Coords points="3129,1765 3129,1800 3209,1800 3209,1765"/>
                 <TextLine id="line_1665395288182_1586" custom="readingOrder {index:0;}">
                     <Coords points="3147,1772 3190,1769 3191,1800 3148,1803"/>
-                    <Baseline points="3148,1798 3191,1795"/>
+                    <Baseline points="3148,1798 3190,1795"/>
                     <TextEquiv>
                         <Unicode>12</Unicode>
                     </TextEquiv>
@@ -6843,7 +6843,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
                 <Coords points="3129,1800 3129,1832 3209,1832 3209,1800"/>
                 <TextLine id="line_1665395320222_1606" custom="readingOrder {index:0;}">
                     <Coords points="3161,1800 3189,1799 3191,1833 3163,1834"/>
-                    <Baseline points="3163,1829 3191,1828"/>
+                    <Baseline points="3163,1829 3190,1828"/>
                     <TextEquiv>
                         <Unicode>8</Unicode>
                     </TextEquiv>
@@ -6854,7 +6854,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
                 <Coords points="3209,1800 3209,1832 3272,1832 3272,1800"/>
                 <TextLine id="line_1665395329500_1611" custom="readingOrder {index:0;}">
                     <Coords points="3237,1805 3262,1805 3263,1835 3238,1835"/>
-                    <Baseline points="3238,1830 3263,1830"/>
+                    <Baseline points="3238,1830 3262,1830"/>
                     <TextEquiv>
                         <Unicode>4</Unicode>
                     </TextEquiv>
@@ -7030,7 +7030,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
                 <Coords points="3272,1897 3272,1931 3435,1931 3435,1897"/>
                 <TextLine id="line_1665395413686_1666" custom="readingOrder {index:0;}">
                     <Coords points="3291,1899 3364,1899 3367,1934 3294,1934"/>
-                    <Baseline points="3294,1929 3367,1929"/>
+                    <Baseline points="3294,1929 3366,1929"/>
                     <TextEquiv>
                         <Unicode>—,—</Unicode>
                     </TextEquiv>
@@ -7147,7 +7147,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
                 <Coords points="3272,1965 3272,2030 3435,2030 3435,1965"/>
                 <TextLine id="line_1665395475031_1701" custom="readingOrder {index:0;}">
                     <Coords points="3290,1981 3372,1980 3373,2030 3291,2031"/>
-                    <Baseline points="3300,2026 3373,2025"/>
+                    <Baseline points="3300,2026 3372,2025"/>
                     <TextEquiv>
                         <Unicode>—,—</Unicode>
                     </TextEquiv>
@@ -7191,7 +7191,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
                 <Coords points="3209,2030 3209,2059 3272,2059 3272,2030"/>
                 <TextLine id="line_1665395506046_1721" custom="readingOrder {index:0;}">
                     <Coords points="3237,2033 3259,2033 3260,2062 3238,2062"/>
-                    <Baseline points="3238,2057 3260,2057"/>
+                    <Baseline points="3238,2057 3259,2057"/>
                     <TextEquiv>
                         <Unicode>4</Unicode>
                     </TextEquiv>
@@ -7290,7 +7290,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
                 <Coords points="3129,2101 3129,2127 3209,2127 3209,2101"/>
                 <TextLine id="line_1665395534941_1736" custom="readingOrder {index:0;}">
                     <Coords points="3160,2102 3184,2102 3185,2131 3161,2131"/>
-                    <Baseline points="3161,2126 3185,2126"/>
+                    <Baseline points="3161,2126 3184,2126"/>
                     <TextEquiv>
                         <Unicode>1</Unicode>
                     </TextEquiv>
@@ -7545,7 +7545,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
                 <Coords points="3143,2426 3143,2492 3203,2492 3203,2426"/>
                 <TextLine id="line_1665395586515_1761" custom="readingOrder {index:0;}">
                     <Coords points="3162,2442 3191,2444 3188,2494 3159,2492"/>
-                    <Baseline points="3158,2482 3187,2484"/>
+                    <Baseline points="3159,2482 3187,2484"/>
                     <TextEquiv>
                         <Unicode>5</Unicode>
                     </TextEquiv>
@@ -7607,7 +7607,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
                 <Coords points="3088,2492 3088,2556 3143,2556 3143,2492"/>
                 <TextLine id="TableCell_1658212742539_4671l0" custom="readingOrder {index:0;}">
                     <Coords points="3087,2506 3142,2506 3143,2556 3088,2556"/>
-                    <Baseline points="3088,2553 3143,2553"/>
+                    <Baseline points="3088,2553 3142,2553"/>
                     <TextEquiv>
                         <Unicode>50 fl</Unicode>
                     </TextEquiv>
@@ -7725,7 +7725,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
                 <Coords points="3088,2590 3088,2619 3143,2619 3143,2590"/>
                 <TextLine id="line_1665395639229_1796" custom="readingOrder {index:0;}">
                     <Coords points="3103,2592 3131,2589 3129,2620 3101,2623"/>
-                    <Baseline points="3100,2618 3128,2615"/>
+                    <Baseline points="3101,2618 3128,2615"/>
                     <TextEquiv>
                         <Unicode>9</Unicode>
                     </TextEquiv>
@@ -7824,7 +7824,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
                 <Coords points="3267,2619 3267,2651 3436,2651 3436,2619"/>
                 <TextLine id="line_1665395685979_1826" custom="readingOrder {index:0;}">
                     <Coords points="3291,2620 3369,2619 3370,2653 3292,2654"/>
-                    <Baseline points="3292,2649 3370,2648"/>
+                    <Baseline points="3292,2649 3369,2648"/>
                     <TextEquiv>
                         <Unicode>—,—</Unicode>
                     </TextEquiv>
@@ -7901,7 +7901,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
                 <Coords points="3436,2651 3436,2685 3598,2685 3598,2651"/>
                 <TextLine id="line_1665395716174_1841" custom="readingOrder {index:0;}">
                     <Coords points="3456,2653 3569,2652 3572,2685 3459,2686"/>
-                    <Baseline points="3459,2681 3572,2680"/>
+                    <Baseline points="3459,2681 3571,2680"/>
                     <TextEquiv>
                         <Unicode>—,— G</Unicode>
                     </TextEquiv>
@@ -8044,7 +8044,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
                 <Coords points="2791,2751 2792,2787 3088,2787 3088,2751"/>
                 <TextLine id="line_1665395752150_1861" custom="readingOrder {index:0;}">
                     <Coords points="2792,2751 3079,2754 3083,2790 2796,2787"/>
-                    <Baseline points="2792,2782 3083,2785"/>
+                    <Baseline points="2795,2781 3082,2785"/>
                     <TextEquiv>
                         <Unicode>Braunſchw. Straßb.</Unicode>
                     </TextEquiv>
@@ -8077,7 +8077,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
                 <Coords points="3203,2751 3203,2787 3267,2787 3267,2751"/>
                 <TextLine id="line_1665395759568_1866" custom="readingOrder {index:0;}">
                     <Coords points="3210,2759 3254,2759 3254,2793 3210,2793"/>
-                    <Baseline points="3209,2783 3253,2783"/>
+                    <Baseline points="3210,2783 3253,2783"/>
                     <TextEquiv>
                         <Unicode>1.1</Unicode>
                     </TextEquiv>
@@ -8124,7 +8124,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
                 </TextLine>
                 <TextLine id="line_1665395789924_1886" custom="readingOrder {index:2;}">
                     <Coords points="2820,2853 3084,2851 3085,2885 2821,2887"/>
-                    <Baseline points="2821,2882 3085,2880"/>
+                    <Baseline points="2821,2882 3084,2880"/>
                     <TextEquiv>
                         <Unicode>1. St. = 100 Doll.</Unicode>
                     </TextEquiv>
@@ -8176,7 +8176,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
                 <Coords points="2794,2883 2795,2948 3088,2948 3088,2883"/>
                 <TextLine id="line_1665395822978_1906" custom="readingOrder {index:0;}">
                     <Coords points="2791,2887 3080,2884 3085,2920 2796,2923"/>
-                    <Baseline points="2795,2916 3084,2913"/>
+                    <Baseline points="2795,2915 3084,2913"/>
                     <TextEquiv>
                         <Unicode>5 % Czakath.⸗Agram</Unicode>
                     </TextEquiv>
@@ -8348,7 +8348,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
                 <Coords points="3203,2985 3203,3114 3267,3114 3267,2985"/>
                 <TextLine id="line_1665395911247_1956" custom="readingOrder {index:0;}">
                     <Coords points="3203,3033 3253,3029 3257,3079 3207,3083"/>
-                    <Baseline points="3207,3078 3257,3074"/>
+                    <Baseline points="3207,3078 3256,3074"/>
                     <TextEquiv>
                         <Unicode>1.1</Unicode>
                     </TextEquiv>
@@ -8359,7 +8359,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
                 <Coords points="3267,2985 3267,3114 3436,3113 3436,2985"/>
                 <TextLine id="line_1665395919067_1961" custom="readingOrder {index:0;}">
                     <Coords points="3278,3037 3340,3036 3341,3086 3279,3087"/>
-                    <Baseline points="3278,3076 3334,3077"/>
+                    <Baseline points="3278,3075 3334,3077"/>
                     <TextEquiv>
                         <Unicode>93 b</Unicode>
                     </TextEquiv>
@@ -8466,7 +8466,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
                 <Coords points="4108,945 4108,1016 4268,1016 4268,945"/>
                 <TextLine id="line_1665395976499_1986" custom="readingOrder {index:0;}">
                     <Coords points="4134,966 4201,965 4202,1015 4135,1016"/>
-                    <Baseline points="4135,1011 4202,1010"/>
+                    <Baseline points="4135,1011 4201,1010"/>
                     <TextEquiv>
                         <Unicode>—,—</Unicode>
                     </TextEquiv>
@@ -8525,7 +8525,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
                 <Coords points="4108,1016 4108,1050 4268,1050 4268,1016"/>
                 <TextLine id="line_1665395991247_1996" custom="readingOrder {index:0;}">
                     <Coords points="4127,1017 4204,1018 4208,1049 4131,1048"/>
-                    <Baseline points="4131,1043 4208,1044"/>
+                    <Baseline points="4131,1043 4207,1044"/>
                     <TextEquiv>
                         <Unicode>—,—</Unicode>
                     </TextEquiv>
@@ -8657,7 +8657,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
                 <Coords points="4108,1082 4108,1146 4268,1146 4268,1082"/>
                 <TextLine id="line_1665396033759_2021" custom="readingOrder {index:0;}">
                     <Coords points="4127,1097 4207,1096 4208,1146 4128,1147"/>
-                    <Baseline points="4128,1142 4208,1141"/>
+                    <Baseline points="4128,1142 4207,1141"/>
                     <TextEquiv>
                         <Unicode>—,—</Unicode>
                     </TextEquiv>
@@ -8756,7 +8756,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
                 <Coords points="3928,1178 3928,1243 3980,1243 3980,1178"/>
                 <TextLine id="line_1665396069059_2041" custom="readingOrder {index:0;}">
                     <Coords points="3939,1197 3963,1195 3967,1245 3943,1247"/>
-                    <Baseline points="3943,1242 3967,1240"/>
+                    <Baseline points="3943,1242 3966,1240"/>
                     <TextEquiv>
                         <Unicode>6</Unicode>
                     </TextEquiv>
@@ -8778,7 +8778,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
                 <Coords points="4039,1178 4039,1243 4108,1243 4108,1178"/>
                 <TextLine id="line_1665396084412_2051" custom="readingOrder {index:0;}">
                     <Coords points="4043,1195 4089,1194 4090,1244 4044,1245"/>
-                    <Baseline points="4044,1240 4090,1239"/>
+                    <Baseline points="4044,1240 4089,1239"/>
                     <TextEquiv>
                         <Unicode>1.1</Unicode>
                     </TextEquiv>
@@ -8858,7 +8858,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
                 <Coords points="4039,1243 4039,1306 4108,1306 4108,1243"/>
                 <TextLine id="line_1665396129499_2076" custom="readingOrder {index:0;}">
                     <Coords points="4045,1259 4090,1257 4092,1307 4047,1309"/>
-                    <Baseline points="4047,1304 4092,1302"/>
+                    <Baseline points="4047,1304 4091,1302"/>
                     <TextEquiv>
                         <Unicode>1.1</Unicode>
                     </TextEquiv>
@@ -9239,7 +9239,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
                 <Coords points="3928,1506 3928,1538 3980,1538 3980,1506"/>
                 <TextLine id="line_1665396258246_2146" custom="readingOrder {index:0;}">
                     <Coords points="3941,1506 3971,1505 3974,1539 3944,1540"/>
-                    <Baseline points="3944,1535 3974,1534"/>
+                    <Baseline points="3944,1535 3973,1534"/>
                     <TextEquiv>
                         <Unicode>6</Unicode>
                     </TextEquiv>
@@ -9422,7 +9422,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
                 <Coords points="4268,1574 4268,1636 4440,1636 4440,1574"/>
                 <TextLine id="line_1665396298524_2166" custom="readingOrder {index:0;}">
                     <Coords points="4288,1586 4377,1584 4378,1634 4289,1636"/>
-                    <Baseline points="4296,1629 4378,1629"/>
+                    <Baseline points="4296,1629 4377,1629"/>
                     <TextEquiv>
                         <Unicode>—,—</Unicode>
                     </TextEquiv>
@@ -9532,7 +9532,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
                 <Coords points="4039,1668 4039,1702 4108,1702 4108,1668"/>
                 <TextLine id="line_1665396321587_2181" custom="readingOrder {index:0;}">
                     <Coords points="4043,1672 4092,1673 4095,1705 4046,1704"/>
-                    <Baseline points="4046,1699 4095,1700"/>
+                    <Baseline points="4046,1699 4094,1700"/>
                     <TextEquiv>
                         <Unicode>1.1</Unicode>
                     </TextEquiv>
@@ -9726,7 +9726,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
                 <Coords points="3980,1803 3980,1834 4039,1834 4039,1803"/>
                 <TextLine id="line_1665561450289_558" custom="readingOrder {index:0;}">
                     <Coords points="4001,1805 4027,1808 4023,1834 3997,1831"/>
-                    <Baseline points="3998,1826 4024,1829"/>
+                    <Baseline points="3998,1826 4023,1828"/>
                     <TextEquiv>
                         <Unicode>8</Unicode>
                     </TextEquiv>
@@ -9748,7 +9748,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
                 <Coords points="4108,1803 4108,1834 4268,1834 4268,1803"/>
                 <TextLine id="line_1665396389260_2221" custom="readingOrder {index:0;}">
                     <Coords points="4129,1805 4201,1803 4206,1829 4134,1831"/>
-                    <Baseline points="4134,1826 4206,1824"/>
+                    <Baseline points="4134,1826 4205,1824"/>
                     <TextEquiv>
                         <Unicode>—,—</Unicode>
                     </TextEquiv>
@@ -10107,7 +10107,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
                 <Coords points="3632,2024 3632,2060 3928,2060 3928,2024"/>
                 <TextLine id="TableCell_1658212855500_5461l0" custom="readingOrder {index:0;}">
                     <Coords points="3638,2036 3652,2035 3900,2030 3928,2030 3924,2063 3709,2063 3640,2063"/>
-                    <Baseline points="3640,2059 3805,2060 3817,2060 3885,2059 3900,2059 3928,2059"/>
+                    <Baseline points="3640,2059 3805,2060 3817,2060 3885,2059 3900,2059 3924,2058"/>
                     <TextEquiv>
                         <Unicode>Niederlauſ. Eiſb. N</Unicode>
                     </TextEquiv>
@@ -10228,7 +10228,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
                 <Coords points="4268,2060 4268,2098 4440,2098 4440,2060"/>
                 <TextLine id="line_1665396556470_2296" custom="readingOrder {index:0;}">
                     <Coords points="4275,2057 4390,2058 4391,2093 4276,2092"/>
-                    <Baseline points="4276,2087 4391,2088"/>
+                    <Baseline points="4276,2087 4390,2088"/>
                     <TextEquiv>
                         <Unicode>17 ⅓ eb G</Unicode>
                     </TextEquiv>
@@ -10608,7 +10608,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
                 <Coords points="3980,2294 3980,2327 4039,2327 4039,2294"/>
                 <TextLine id="line_1665404388222_2377" custom="readingOrder {index:0;}">
                     <Coords points="3995,2295 4025,2297 4024,2324 3995,2327"/>
-                    <Baseline points="3994,2322 4023,2319"/>
+                    <Baseline points="3995,2322 4023,2319"/>
                     <TextEquiv>
                         <Unicode>0</Unicode>
                     </TextEquiv>
@@ -10630,7 +10630,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
                 <Coords points="4108,2294 4108,2327 4268,2327 4268,2294"/>
                 <TextLine id="line_1665404397727_2382" custom="readingOrder {index:0;}">
                     <Coords points="4122,2296 4203,2295 4204,2322 4123,2323"/>
-                    <Baseline points="4123,2318 4204,2317"/>
+                    <Baseline points="4123,2318 4203,2317"/>
                     <TextEquiv>
                         <Unicode>—,—</Unicode>
                     </TextEquiv>
@@ -10696,7 +10696,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
                 <Coords points="4108,2327 4108,2361 4268,2361 4268,2327"/>
                 <TextLine id="line_1665404433360_2397" custom="readingOrder {index:0;}">
                     <Coords points="4119,2327 4206,2327 4210,2355 4123,2355"/>
-                    <Baseline points="4123,2350 4210,2350"/>
+                    <Baseline points="4123,2350 4209,2350"/>
                     <TextEquiv>
                         <Unicode>—,—</Unicode>
                     </TextEquiv>
@@ -11019,7 +11019,7 @@ Bank Elektr. Werte 1. Juli.)</Unicode>
                 <Coords points="4108,2486 4108,2524 4268,2524 4268,2486"/>
                 <TextLine id="line_1665404623581_2467" custom="readingOrder {index:0;}">
                     <Coords points="4128,2491 4206,2491 4205,2528 4127,2528"/>
-                    <Baseline points="4126,2519 4204,2519"/>
+                    <Baseline points="4127,2519 4204,2519"/>
                     <TextEquiv>
                         <Unicode>—,—</Unicode>
                     </TextEquiv>
@@ -11420,7 +11420,7 @@ Albingia: 1. Oktober.</Unicode>
                 <Coords points="3629,3009 3629,3044 4106,3044 4106,3009"/>
                 <TextLine id="line_1665989287149_179" custom="readingOrder {index:0;}">
                     <Coords points="3636,3017 3698,3016 4083,3016 4082,3048 3688,3051 3640,3050"/>
-                    <Baseline points="3639,3044 3749,3045 3768,3044 3794,3043 3804,3043 3909,3042 3925,3042 3987,3042 4002,3044 4079,3044"/>
+                    <Baseline points="3639,3043 3749,3045 3768,3044 3794,3043 3804,3043 3909,3042 3925,3042 3987,3042 4002,3044 4079,3044"/>
                     <TextEquiv>
                         <Unicode>Allianz u. Stuttg. Ver. Verſ.</Unicode>
                     </TextEquiv>
@@ -11739,7 +11739,7 @@ Albingia: 1. Oktober.</Unicode>
                 <Coords points="4460,1243 4460,1276 4940,1276 4940,1243"/>
                 <TextLine id="line_1665471440641_102" custom="readingOrder {index:0;}">
                     <Coords points="4541,1240 4938,1244 4939,1277 4538,1273"/>
-                    <Baseline points="4548,1271 4939,1272"/>
+                    <Baseline points="4548,1271 4938,1272"/>
                     <TextEquiv>
                         <Unicode>do. do. (25 % Einz.)</Unicode>
                     </TextEquiv>
@@ -11878,7 +11878,7 @@ Albingia: 1. Oktober.</Unicode>
                 <Coords points="4460,1408 4460,1441 4940,1441 4940,1408"/>
                 <TextLine id="line_1665471520627_147" custom="readingOrder {index:0;}">
                     <Coords points="4530,1409 4938,1411 4940,1443 4532,1441"/>
-                    <Baseline points="4544,1437 4940,1438"/>
+                    <Baseline points="4544,1437 4939,1438"/>
                     <TextEquiv>
                         <Unicode>do. do. (25 % Einz.)</Unicode>
                     </TextEquiv>
@@ -12043,7 +12043,7 @@ Albingia: 1. Oktober.</Unicode>
                 <Coords points="4460,1570 4460,1605 4940,1605 4940,1570"/>
                 <TextLine id="line_1665471660271_207" custom="readingOrder {index:0;}">
                     <Coords points="4513,1572 4932,1574 4937,1607 4510,1601"/>
-                    <Baseline points="4518,1599 4937,1602"/>
+                    <Baseline points="4518,1599 4936,1602"/>
                     <TextEquiv>
                         <Unicode>do. do. Ser. 2</Unicode>
                     </TextEquiv>
@@ -12087,7 +12087,7 @@ Albingia: 1. Oktober.</Unicode>
                 <Coords points="4940,1605 4940,1637 5100,1637 5100,1605"/>
                 <TextLine id="line_1665471693023_227" custom="readingOrder {index:0;}">
                     <Coords points="4955,1604 5033,1605 5034,1638 4956,1637"/>
-                    <Baseline points="4956,1632 5034,1633"/>
+                    <Baseline points="4956,1632 5033,1633"/>
                     <TextEquiv>
                         <Unicode>—,—</Unicode>
                     </TextEquiv>
@@ -12120,7 +12120,7 @@ Albingia: 1. Oktober.</Unicode>
                 <Coords points="4940,1637 4940,1669 5100,1669 5100,1637"/>
                 <TextLine id="line_1665471785629_242" custom="readingOrder {index:0;}">
                     <Coords points="4957,1639 5032,1638 5033,1670 4958,1671"/>
-                    <Baseline points="4958,1666 5033,1665"/>
+                    <Baseline points="4958,1666 5032,1665"/>
                     <TextEquiv>
                         <Unicode>—,—</Unicode>
                     </TextEquiv>
@@ -12639,7 +12639,7 @@ Albingia: 1. Oktober.</Unicode>
                     <Coords points="4465,2163 4932,2167 4933,2202 4464,2195"/>
                     <Baseline points="4471,2190 4929,2192"/>
                     <TextEquiv>
-                        <Unicode>Union, Hagel⸗Versich. Weimar</Unicode>
+                        <Unicode>Union, Hagel⸗Verſich. Weimar</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <CornerPts>0 1 2 3</CornerPts>
@@ -12745,7 +12745,7 @@ Albingia: 1. Oktober.</Unicode>
                 <Coords points="4452,2391 4452,2423 4787,2423 4787,2391"/>
                 <TextLine id="TableCell_1658213193180_7407l1" custom="readingOrder {index:0;}">
                     <Coords points="4465,2396 4760,2391 4785,2391 4785,2423 4612,2423 4465,2422"/>
-                    <Baseline points="4465,2422 4606,2421 4613,2421 4658,2420 4675,2420 4727,2420 4736,2420 4787,2418"/>
+                    <Baseline points="4465,2422 4606,2421 4613,2421 4658,2420 4675,2420 4727,2420 4736,2420 4785,2418"/>
                     <TextEquiv>
                         <Unicode>Kamerun Eb. Ant. L B</Unicode>
                     </TextEquiv>
@@ -12877,7 +12877,7 @@ Albingia: 1. Oktober.</Unicode>
                 <Coords points="4452,2458 4452,2490 4787,2490 4787,2458"/>
                 <TextLine id="line_1665472164387_431" custom="readingOrder {index:0;}">
                     <Coords points="4459,2461 4781,2461 4783,2491 4461,2491"/>
-                    <Baseline points="4469,2488 4783,2486"/>
+                    <Baseline points="4469,2488 4782,2486"/>
                     <TextEquiv>
                         <Unicode>Oſtafrik. Eiſenb.⸗G. N</Unicode>
                     </TextEquiv>
@@ -13078,7 +13078,7 @@ Albingia: 1. Oktober.</Unicode>
                 <Coords points="5101,2559 5101,2637 5240,2637 5240,2559"/>
                 <TextLine id="TableCell_1658213184902_7293l0" custom="readingOrder {index:0;}">
                     <Coords points="5105,2565 5215,2565 5215,2628 5105,2628"/>
-                    <Baseline points="5104,2615 5200,2614"/>
+                    <Baseline points="5105,2615 5200,2614"/>
                     <TextEquiv>
                         <Unicode>32,75 b</Unicode>
                     </TextEquiv>
@@ -13163,7 +13163,7 @@ Albingia: 1. Oktober.</Unicode>
                 <Coords points="1669,3514 1669,3558 1879,3558 1879,3514"/>
                 <TextLine id="TableCell_1658213461875_9003l0" custom="readingOrder {index:0;}">
                     <Coords points="1733,3521 1757,3524 1778,3520 1802,3520 1828,3524 1828,3554 1807,3558 1772,3558 1740,3558"/>
-                    <Baseline points="1737,3552 1828,3554"/>
+                    <Baseline points="1738,3551 1828,3554"/>
                     <TextEquiv>
                         <Unicode>5000</Unicode>
                     </TextEquiv>
@@ -13225,7 +13225,7 @@ Albingia: 1. Oktober.</Unicode>
                 <Coords points="1879,3558 1879,3674 2520,3674 2520,3558"/>
                 <TextLine id="line_1665405532546_2754" custom="readingOrder {index:0;}">
                     <Coords points="1921,3605 2464,3606 2464,3656 1921,3655"/>
-                    <Baseline points="1922,3644 2465,3645"/>
+                    <Baseline points="1922,3644 2464,3645"/>
                     <TextEquiv>
                         <Unicode>6,35 b B à 6,4 à 6,35 à 6,45 b</Unicode>
                     </TextEquiv>
@@ -13254,7 +13254,7 @@ Albingia: 1. Oktober.</Unicode>
                 </TextLine>
                 <TextLine id="TableCell_1658213454059_8949l1" custom="readingOrder {index:1;}">
                     <Coords points="1157,3734 1201,3734 1402,3735 1426,3745 1428,3772 1402,3775 1369,3775 1158,3774"/>
-                    <Baseline points="1157,3769 1418,3772"/>
+                    <Baseline points="1157,3768 1418,3772"/>
                     <TextEquiv>
                         <Unicode>RM⸗Anleihe.</Unicode>
                     </TextEquiv>
@@ -13305,7 +13305,7 @@ Albingia: 1. Oktober.</Unicode>
                 </TextLine>
                 <TextLine id="line_1665404909593_2555" custom="readingOrder {index:1;}">
                     <Coords points="1160,3823 1324,3823 1326,3863 1162,3863"/>
-                    <Baseline points="1170,3857 1326,3858"/>
+                    <Baseline points="1170,3857 1325,3858"/>
                     <TextEquiv>
                         <Unicode>Anleihe</Unicode>
                     </TextEquiv>
@@ -13393,7 +13393,7 @@ Albingia: 1. Oktober.</Unicode>
                 <Coords points="1093,3906 1093,4035 1669,4035 1669,3906"/>
                 <TextLine id="TableCell_1658213447444_8877l0" custom="readingOrder {index:0;}">
                     <Coords points="1129,3910 1469,3908 1667,3908 1667,3955 1631,3955 1172,3950 1121,3949"/>
-                    <Baseline points="1129,3943 1200,3944 1215,3944 1416,3944 1432,3944 1669,3944"/>
+                    <Baseline points="1129,3943 1200,3944 1215,3944 1416,3944 1432,3944 1667,3944"/>
                     <TextEquiv>
                         <Unicode>7 % Vereinigte Stahl⸗RM⸗</Unicode>
                     </TextEquiv>
@@ -13433,7 +13433,7 @@ Albingia: 1. Oktober.</Unicode>
                 <Coords points="2539,3906 2539,4035 3150,4035 3150,3906"/>
                 <TextLine id="line_1665405784471_2848" custom="readingOrder {index:0;}">
                     <Coords points="2566,3944 3109,3947 3110,4013 2567,4010"/>
-                    <Baseline points="2566,3989 3109,3992"/>
+                    <Baseline points="2566,3988 3109,3992"/>
                     <TextEquiv>
                         <Unicode>67,75 à 67 ⅜ à 67 ⅝ à 67 8/8 à —</Unicode>
                     </TextEquiv>
@@ -13576,7 +13576,7 @@ Albingia: 1. Oktober.</Unicode>
                 <Coords points="1093,4168 1093,4214 1669,4214 1669,4168"/>
                 <TextLine id="TableCell_1658213435328_8781l1" custom="readingOrder {index:0;}">
                     <Coords points="1109,4171 1594,4170 1664,4169 1664,4215 1109,4214"/>
-                    <Baseline points="1119,4207 1190,4206 1284,4206 1334,4205 1442,4205 1492,4205 1520,4204 1561,4204 1578,4205 1669,4206"/>
+                    <Baseline points="1119,4207 1190,4206 1284,4206 1334,4205 1442,4205 1492,4205 1520,4204 1561,4204 1578,4205 1664,4206"/>
                     <TextEquiv>
                         <Unicode>4 % do. do. 04 abg.</Unicode>
                     </TextEquiv>
@@ -13609,7 +13609,7 @@ Albingia: 1. Oktober.</Unicode>
                 <Coords points="2520,4168 2520,4214 3150,4214 3150,4168"/>
                 <TextLine id="line_1665405861719_2876" custom="readingOrder {index:0;}">
                     <Coords points="2560,4174 2701,4174 2701,4214 2560,4214"/>
-                    <Baseline points="2562,4207 2616,4207 2640,4207 2659,4207 2700,4207 2703,4207"/>
+                    <Baseline points="2562,4207 2616,4207 2640,4207 2659,4207 2700,4207"/>
                     <TextEquiv>
                         <Unicode>— à —</Unicode>
                     </TextEquiv>
@@ -13660,7 +13660,7 @@ Albingia: 1. Oktober.</Unicode>
                 <Coords points="2520,4214 2520,4302 3150,4302 3150,4214"/>
                 <TextLine id="line_1665405890556_2884" custom="readingOrder {index:0;}">
                     <Coords points="2555,4249 2711,4247 2712,4297 2556,4299"/>
-                    <Baseline points="2556,4294 2712,4292"/>
+                    <Baseline points="2556,4294 2711,4292"/>
                     <TextEquiv>
                         <Unicode>— à —</Unicode>
                     </TextEquiv>
@@ -13711,7 +13711,7 @@ Albingia: 1. Oktober.</Unicode>
                 <Coords points="2520,4302 2520,4391 3150,4391 3150,4302"/>
                 <TextLine id="line_1665405899209_2889" custom="readingOrder {index:0;}">
                     <Coords points="2556,4340 2855,4334 2856,4384 2557,4390"/>
-                    <Baseline points="2557,4385 2856,4379"/>
+                    <Baseline points="2557,4385 2855,4379"/>
                     <TextEquiv>
                         <Unicode>— à 8,5 G à —</Unicode>
                     </TextEquiv>
@@ -13788,7 +13788,7 @@ Albingia: 1. Oktober.</Unicode>
                 <Coords points="1879,4434 1879,4474 2520,4474 2520,4434"/>
                 <TextLine id="line_1665405633322_2799" custom="readingOrder {index:0;}">
                     <Coords points="1913,4443 2072,4441 2075,4475 1916,4477"/>
-                    <Baseline points="1916,4472 2075,4470"/>
+                    <Baseline points="1916,4472 2074,4470"/>
                     <TextEquiv>
                         <Unicode>— à —</Unicode>
                     </TextEquiv>
@@ -13821,7 +13821,7 @@ Albingia: 1. Oktober.</Unicode>
                 <Coords points="1669,4474 1669,4520 1879,4520 1879,4474"/>
                 <TextLine id="TableCell_1658213412021_8632l0" custom="readingOrder {index:0;}">
                     <Coords points="1679,4483 1698,4482 1822,4480 1875,4480 1875,4519 1847,4520 1823,4523 1680,4521"/>
-                    <Baseline points="1679,4513 1718,4513 1729,4512 1798,4513 1822,4514 1875,4514"/>
+                    <Baseline points="1679,4512 1718,4513 1729,4512 1798,4513 1822,4514 1875,4514"/>
                     <TextEquiv>
                         <Unicode>25 000 Lei</Unicode>
                     </TextEquiv>
@@ -13832,7 +13832,7 @@ Albingia: 1. Oktober.</Unicode>
                 <Coords points="1879,4474 1879,4520 2520,4520 2520,4474"/>
                 <TextLine id="line_1665405243003_2655" custom="readingOrder {index:0;}">
                     <Coords points="1921,4482 2059,4478 2060,4520 1922,4524"/>
-                    <Baseline points="1922,4519 2060,4515"/>
+                    <Baseline points="1922,4519 2059,4515"/>
                     <TextEquiv>
                         <Unicode>— à —</Unicode>
                     </TextEquiv>
@@ -13854,7 +13854,7 @@ Albingia: 1. Oktober.</Unicode>
                 <Coords points="1093,4520 1093,4561 1669,4561 1669,4520"/>
                 <TextLine id="line_1665404963221_2570" custom="readingOrder {index:0;}">
                     <Coords points="1117,4520 1486,4521 1483,4565 1114,4564"/>
-                    <Baseline points="1113,4554 1482,4555"/>
+                    <Baseline points="1114,4554 1482,4555"/>
                     <TextEquiv>
                         <Unicode>4 % do. do.</Unicode>
                     </TextEquiv>
@@ -13876,7 +13876,7 @@ Albingia: 1. Oktober.</Unicode>
                 <Coords points="1879,4520 1879,4561 2520,4561 2520,4520"/>
                 <TextLine id="line_1665999077151_554" custom="readingOrder {index:0;}">
                     <Coords points="1917,4523 2095,4523 2095,4573 1917,4573"/>
-                    <Baseline points="1916,4561 1921,4561 2016,4560 2034,4560 2055,4560 2090,4560 2094,4560"/>
+                    <Baseline points="1917,4561 1921,4561 2016,4560 2034,4560 2055,4560 2090,4560 2094,4560"/>
                     <TextEquiv>
                         <Unicode>4,5 à —</Unicode>
                     </TextEquiv>
@@ -13986,7 +13986,7 @@ Albingia: 1. Oktober.</Unicode>
                 <Coords points="1093,4647 1093,4694 1669,4694 1669,4647"/>
                 <TextLine id="TableCell_1658213400349_8530l0" custom="readingOrder {index:0;}">
                     <Coords points="1105,4651 1657,4652 1656,4696 1104,4695"/>
-                    <Baseline points="1118,4690 1195,4688 1244,4686 1284,4686 1317,4686 1445,4686 1469,4686 1657,4690"/>
+                    <Baseline points="1118,4690 1195,4688 1244,4686 1284,4686 1317,4686 1445,4686 1469,4686 1656,4689"/>
                     <TextEquiv>
                         <Unicode>4 % do. Unifiz. Anl. 03-06</Unicode>
                     </TextEquiv>
@@ -14454,7 +14454,7 @@ Albingia: 1. Oktober.</Unicode>
                 <Coords points="1093,5266 1093,5308 1669,5308 1669,5266"/>
                 <TextLine id="line_1665404978285_2575" custom="readingOrder {index:0;}">
                     <Coords points="1113,5267 1568,5270 1565,5317 1110,5314"/>
-                    <Baseline points="1109,5299 1566,5303"/>
+                    <Baseline points="1110,5299 1565,5302"/>
                     <TextEquiv>
                         <Unicode>5 % Tehuantepec abg.</Unicode>
                     </TextEquiv>
@@ -14498,7 +14498,7 @@ Albingia: 1. Oktober.</Unicode>
                 <Coords points="1093,5308 1093,5395 1669,5395 1669,5308"/>
                 <TextLine id="line_1665404988842_2580" custom="readingOrder {index:0;}">
                     <Coords points="1108,5311 1536,5313 1536,5365 1108,5363"/>
-                    <Baseline points="1107,5342 1535,5344"/>
+                    <Baseline points="1108,5342 1535,5344"/>
                     <TextEquiv>
                         <Unicode>4 ½ % do do</Unicode>
                     </TextEquiv>
@@ -14520,7 +14520,7 @@ Albingia: 1. Oktober.</Unicode>
                 <Coords points="1879,5308 1879,5395 2520,5395 2520,5308"/>
                 <TextLine id="line_1665405688079_2819" custom="readingOrder {index:0;}">
                     <Coords points="1914,5322 2060,5318 2062,5358 1916,5362"/>
-                    <Baseline points="1914,5351 2052,5349"/>
+                    <Baseline points="1915,5350 2052,5349"/>
                     <TextEquiv>
                         <Unicode>— à —</Unicode>
                     </TextEquiv>
@@ -14531,7 +14531,7 @@ Albingia: 1. Oktober.</Unicode>
                 <Coords points="2520,5308 2520,5395 3150,5395 3150,5308"/>
                 <TextLine id="line_1665406086676_2951" custom="readingOrder {index:0;}">
                     <Coords points="2557,5315 2697,5313 2698,5364 2558,5366"/>
-                    <Baseline points="2556,5346 2696,5344"/>
+                    <Baseline points="2557,5345 2696,5344"/>
                     <TextEquiv>
                         <Unicode>— à —</Unicode>
                     </TextEquiv>
@@ -14769,7 +14769,7 @@ Albingia: 1. Oktober.</Unicode>
                 <Coords points="1093,5658 1093,5704 1669,5704 1669,5658"/>
                 <TextLine id="line_1665405018452_2590" custom="readingOrder {index:0;}">
                     <Coords points="1104,5663 1419,5656 1417,5705 1103,5706"/>
-                    <Baseline points="1112,5696 1418,5694"/>
+                    <Baseline points="1112,5696 1417,5693"/>
                     <TextEquiv>
                         <Unicode>J. P. Bemberg</Unicode>
                     </TextEquiv>
@@ -15044,7 +15044,7 @@ Albingia: 1. Oktober.</Unicode>
                 <Coords points="1669,5922 1669,5965 1879,5965 1879,5922"/>
                 <TextLine id="TableCell_1658213326469_7984l0" custom="readingOrder {index:0;}">
                     <Coords points="1717,5928 1807,5928 1806,5965 1737,5965 1716,5964"/>
-                    <Baseline points="1720,5957 1810,5958"/>
+                    <Baseline points="1720,5957 1806,5957"/>
                     <TextEquiv>
                         <Unicode>2000</Unicode>
                     </TextEquiv>
@@ -15143,7 +15143,7 @@ Albingia: 1. Oktober.</Unicode>
                 <Coords points="1879,6008 1879,6046 2520,6046 2520,6008"/>
                 <TextLine id="TableCell_1658213321129_7942l1" custom="readingOrder {index:0;}">
                     <Coords points="1907,6012 1985,6012 2099,6014 2134,6017 2133,6052 1906,6052"/>
-                    <Baseline points="1908,6051 2010,6051 2022,6051 2039,6051 2054,6051 2100,6052 2114,6052 2135,6052"/>
+                    <Baseline points="1908,6051 2010,6051 2022,6051 2039,6051 2054,6051 2100,6052 2114,6052 2133,6051"/>
                     <TextEquiv>
                         <Unicode>78,75 à 80 b</Unicode>
                     </TextEquiv>
@@ -15165,7 +15165,7 @@ Albingia: 1. Oktober.</Unicode>
                 <Coords points="1093,6046 1093,6098 1669,6098 1669,6046"/>
                 <TextLine id="line_1665405052464_2600" custom="readingOrder {index:0;}">
                     <Coords points="1106,6053 1490,6050 1490,6100 1106,6103"/>
-                    <Baseline points="1103,6087 1487,6084"/>
+                    <Baseline points="1106,6087 1487,6084"/>
                     <TextEquiv>
                         <Unicode>Chem. von Heyden</Unicode>
                     </TextEquiv>
@@ -15319,7 +15319,7 @@ Albingia: 1. Oktober.</Unicode>
                 <Coords points="1879,6181 1879,6229 2520,6229 2520,6181"/>
                 <TextLine id="line_1665405081150_2615" custom="readingOrder {index:0;}">
                     <Coords points="1892,6187 2155,6190 2160,6234 1897,6231"/>
-                    <Baseline points="1907,6223 2160,6224"/>
+                    <Baseline points="1907,6223 2158,6224"/>
                     <TextEquiv>
                         <Unicode>34,5 à 35 à —</Unicode>
                     </TextEquiv>
@@ -15627,7 +15627,7 @@ Albingia: 1. Oktober.</Unicode>
                 <Coords points="1879,6488 1879,6534 2520,6534 2520,6488"/>
                 <TextLine id="line_1665405446390_2724" custom="readingOrder {index:0;}">
                     <Coords points="1893,6497 2190,6493 2191,6532 1894,6536"/>
-                    <Baseline points="1894,6531 2191,6527"/>
+                    <Baseline points="1894,6531 2190,6527"/>
                     <TextEquiv>
                         <Unicode>48,25 à 48 à —</Unicode>
                     </TextEquiv>
@@ -15671,7 +15671,7 @@ Albingia: 1. Oktober.</Unicode>
                 <Coords points="1879,6534 1879,6575 2520,6575 2520,6534"/>
                 <TextLine id="line_1665405454835_2729" custom="readingOrder {index:0;}">
                     <Coords points="1894,6541 2189,6536 2191,6571 1896,6576"/>
-                    <Baseline points="1896,6571 2191,6566"/>
+                    <Baseline points="1896,6571 2190,6566"/>
                     <TextEquiv>
                         <Unicode>— à 20,25 à —</Unicode>
                     </TextEquiv>
@@ -15682,7 +15682,7 @@ Albingia: 1. Oktober.</Unicode>
                 <Coords points="2520,6534 2520,6575 3151,6575 3150,6534"/>
                 <TextLine id="TableCell_1658213292844_7660l0" custom="readingOrder {index:0;}">
                     <Coords points="2546,6537 2567,6537 2767,6538 2914,6541 2914,6575 2744,6577 2689,6577 2591,6575 2546,6572"/>
-                    <Baseline points="2545,6569 2641,6569 2654,6569 2672,6569 2687,6569 2787,6570 2800,6571 2818,6571 2833,6571 2875,6572 2890,6572 2913,6563"/>
+                    <Baseline points="2546,6569 2641,6569 2654,6569 2672,6569 2687,6569 2787,6570 2800,6571 2818,6571 2833,6571 2875,6572 2890,6572 2913,6563"/>
                     <TextEquiv>
                         <Unicode>21,25 à 20,75 à 21 b</Unicode>
                     </TextEquiv>
@@ -15704,7 +15704,7 @@ Albingia: 1. Oktober.</Unicode>
                 <Coords points="1669,6575 1669,6621 1879,6621 1879,6575"/>
                 <TextLine id="line_1665405465981_2734" custom="readingOrder {index:0;}">
                     <Coords points="1701,6578 1817,6577 1818,6617 1702,6618"/>
-                    <Baseline points="1709,6617 1805,6618"/>
+                    <Baseline points="1709,6617 1804,6617"/>
                     <TextEquiv>
                         <Unicode>2000</Unicode>
                     </TextEquiv>
@@ -15803,7 +15803,7 @@ Albingia: 1. Oktober.</Unicode>
                 <Coords points="1879,6665 1879,6705 2520,6705 2520,6665"/>
                 <TextLine id="line_1665405476389_2739" custom="readingOrder {index:0;}">
                     <Coords points="1894,6669 2046,6667 2042,6709 1896,6707"/>
-                    <Baseline points="1894,6700 2033,6703"/>
+                    <Baseline points="1895,6699 2033,6703"/>
                     <TextEquiv>
                         <Unicode>— à —</Unicode>
                     </TextEquiv>
@@ -15935,7 +15935,7 @@ Albingia: 1. Oktober.</Unicode>
                 <Coords points="1879,6795 1879,6841 2520,6841 2520,6795"/>
                 <TextLine id="TableCell_1658213276791_7510l1" custom="readingOrder {index:0;}">
                     <Coords points="1894,6801 2010,6800 2025,6800 2064,6803 2063,6843 1917,6843 1892,6838"/>
-                    <Baseline points="1894,6832 1933,6833 1952,6833 1967,6832 1987,6831 2025,6832 2044,6833 2064,6834"/>
+                    <Baseline points="1894,6832 1933,6833 1952,6833 1967,6832 1987,6831 2025,6832 2044,6833 2063,6833"/>
                     <TextEquiv>
                         <Unicode>94 à 93 b</Unicode>
                     </TextEquiv>
@@ -15957,7 +15957,7 @@ Albingia: 1. Oktober.</Unicode>
                 <Coords points="1093,6841 1093,6911 1669,6911 1669,6841"/>
                 <TextLine id="line_1665405169701_2630" custom="readingOrder {index:0;}">
                     <Coords points="1099,6842 1519,6846 1521,6900 1101,6896"/>
-                    <Baseline points="1100,6878 1510,6881"/>
+                    <Baseline points="1100,6877 1510,6881"/>
                     <TextEquiv>
                         <Unicode>Engelhardt⸗Brauerei</Unicode>
                     </TextEquiv>
@@ -16092,7 +16092,7 @@ Albingia: 1. Oktober.</Unicode>
                 <Coords points="3184,3560 3183,3598 3763,3598 3763,3560"/>
                 <TextLine id="line_1666006286561_1027" custom="readingOrder {index:0;}">
                     <Coords points="3218,3560 3485,3560 3594,3568 3594,3596 3553,3598 3222,3609"/>
-                    <Baseline points="3218,3588 3429,3594 3452,3594 3594,3594"/>
+                    <Baseline points="3220,3587 3429,3594 3452,3594 3594,3594"/>
                     <TextEquiv>
                         <Unicode>Feldmühle Papier</Unicode>
                     </TextEquiv>
@@ -16284,7 +16284,7 @@ Albingia: 1. Oktober.</Unicode>
                     <Coords points="3220,3775 3558,3774 3558,3821 3220,3822"/>
                     <Baseline points="3225,3813 3546,3813"/>
                     <TextEquiv>
-                        <Unicode>Th. Goldschmidt</Unicode>
+                        <Unicode>Th. Goldſchmidt</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <CornerPts>0 1 2 3</CornerPts>
@@ -16612,7 +16612,7 @@ Albingia: 1. Oktober.</Unicode>
                 <Coords points="3981,4081 3981,4124 4622,4124 4622,4081"/>
                 <TextLine id="line_1665407198431_3245" custom="readingOrder {index:0;}">
                     <Coords points="4013,4083 4161,4082 4159,4123 4011,4124"/>
-                    <Baseline points="4012,4111 4160,4110"/>
+                    <Baseline points="4012,4111 4159,4109"/>
                     <TextEquiv>
                         <Unicode>— à —</Unicode>
                     </TextEquiv>
@@ -16634,7 +16634,7 @@ Albingia: 1. Oktober.</Unicode>
                 <Coords points="3175,4124 3175,4169 3763,4169 3763,4124"/>
                 <TextLine id="line_1666007890753_1193" custom="readingOrder {index:0;}">
                     <Coords points="3216,4124 3372,4124 3718,4125 3738,4139 3738,4161 3718,4168 3588,4169 3216,4169"/>
-                    <Baseline points="3220,4162 3312,4163 3327,4163 3518,4164 3542,4164 3731,4164"/>
+                    <Baseline points="3220,4162 3312,4163 3327,4163 3518,4164 3542,4164 3730,4163"/>
                     <TextEquiv>
                         <Unicode>Ilſe, Bergbau, Genußſch.</Unicode>
                     </TextEquiv>
@@ -16656,7 +16656,7 @@ Albingia: 1. Oktober.</Unicode>
                 <Coords points="3981,4124 3981,4169 4622,4169 4622,4124"/>
                 <TextLine id="line_1665407208426_3250" custom="readingOrder {index:0;}">
                     <Coords points="4009,4127 4212,4123 4213,4162 4010,4166"/>
-                    <Baseline points="4010,4161 4213,4157"/>
+                    <Baseline points="4010,4161 4212,4157"/>
                     <TextEquiv>
                         <Unicode>99,25 à —</Unicode>
                     </TextEquiv>
@@ -16722,7 +16722,7 @@ Albingia: 1. Oktober.</Unicode>
                 <Coords points="3180,4208 3175,4254 3763,4254 3766,4215"/>
                 <TextLine id="line_1665406619006_3079" custom="readingOrder {index:0;}">
                     <Coords points="3215,4215 3483,4212 3484,4256 3216,4259"/>
-                    <Baseline points="3212,4248 3480,4245"/>
+                    <Baseline points="3215,4247 3480,4245"/>
                     <TextEquiv>
                         <Unicode>Kali Chemie</Unicode>
                     </TextEquiv>
@@ -16854,7 +16854,7 @@ Albingia: 1. Oktober.</Unicode>
                 <Coords points="3175,4344 3175,4391 3763,4391 3763,4344"/>
                 <TextLine id="line_1666008191608_1269" custom="readingOrder {index:0;}">
                     <Coords points="3216,4344 3758,4344 3759,4389 3217,4389"/>
-                    <Baseline points="3216,4379 3419,4379 3442,4379 3474,4379 3493,4379 3613,4379 3628,4380 3753,4379"/>
+                    <Baseline points="3216,4378 3419,4379 3442,4379 3474,4379 3493,4379 3613,4379 3628,4380 3753,4379"/>
                     <TextEquiv>
                         <Unicode>Kokswerke u. Chem. Fbken.</Unicode>
                     </TextEquiv>
@@ -17063,7 +17063,7 @@ Albingia: 1. Oktober.</Unicode>
                 </TextLine>
                 <TextLine id="TableCell_1658213736716_10134l1" custom="readingOrder {index:1;}">
                     <Coords points="5018,4564 5031,4561 5197,4560 5266,4560 5266,4596 5220,4614 5021,4614"/>
-                    <Baseline points="5018,4595 5104,4595 5117,4595 5134,4595 5148,4594 5212,4595 5228,4596 5251,4596"/>
+                    <Baseline points="5019,4594 5104,4595 5117,4595 5134,4595 5148,4594 5212,4595 5228,4596 5251,4596"/>
                     <TextEquiv>
                         <Unicode>[60,5 à 60 ⅜ b</Unicode>
                     </TextEquiv>
@@ -17206,7 +17206,7 @@ Albingia: 1. Oktober.</Unicode>
                 <Coords points="3174,4734 3174,4781 3763,4781 3763,4734"/>
                 <TextLine id="line_1666008789270_1391" custom="readingOrder {index:0;}">
                     <Coords points="3212,4737 3499,4737 3538,4737 3554,4742 3554,4773 3540,4780 3212,4780"/>
-                    <Baseline points="3215,4775 3550,4777"/>
+                    <Baseline points="3215,4775 3549,4775"/>
                     <TextEquiv>
                         <Unicode>Metallgeſellſchaft</Unicode>
                     </TextEquiv>
@@ -17272,7 +17272,7 @@ Albingia: 1. Oktober.</Unicode>
                 <Coords points="3981,4781 3981,4828 4622,4828 4622,4781"/>
                 <TextLine id="line_1665407281430_3275" custom="readingOrder {index:0;}">
                     <Coords points="4004,4786 4153,4785 4155,4821 4006,4822"/>
-                    <Baseline points="4006,4815 4155,4814"/>
+                    <Baseline points="4006,4815 4154,4814"/>
                     <TextEquiv>
                         <Unicode>— à —</Unicode>
                     </TextEquiv>
@@ -17426,7 +17426,7 @@ Albingia: 1. Oktober.</Unicode>
                 <Coords points="3174,4957 3174,5001 3763,5001 3763,4957"/>
                 <TextLine id="line_1665406867954_3131" custom="readingOrder {index:0;}">
                     <Coords points="3209,4960 3514,4958 3513,5007 3208,5009"/>
-                    <Baseline points="3207,4993 3512,4991"/>
+                    <Baseline points="3208,4993 3512,4991"/>
                     <TextEquiv>
                         <Unicode>Polyphonwerke</Unicode>
                     </TextEquiv>
@@ -17554,7 +17554,7 @@ Albingia: 1. Oktober.</Unicode>
                 <Coords points="4622,5084 4622,5131 5292,5131 5292,5084"/>
                 <TextLine id="TableCell_1658213679290_9870l0" custom="readingOrder {index:0;}">
                     <Coords points="4636,5084 4722,5084 4851,5087 4886,5088 4948,5093 4940,5131 4636,5131"/>
-                    <Baseline points="4658,5123 4717,5124 4729,5123 4736,5123 4748,5123 4769,5123 4782,5123 4858,5123 4881,5123 4893,5124 4906,5124 4943,5124"/>
+                    <Baseline points="4658,5123 4717,5124 4729,5123 4736,5123 4748,5123 4769,5123 4782,5123 4858,5123 4881,5123 4893,5124 4906,5124 4941,5123"/>
                     <TextEquiv>
                         <Unicode>89,5 à 88,5 à —</Unicode>
                     </TextEquiv>
@@ -17620,7 +17620,7 @@ Albingia: 1. Oktober.</Unicode>
                 <Coords points="3763,5176 3763,5242 3981,5242 3981,5176"/>
                 <TextLine id="TableCell_1658213674786_9810l0" custom="readingOrder {index:0;}">
                     <Coords points="3818,5176 3913,5176 3913,5226 3818,5226"/>
-                    <Baseline points="3815,5212 3910,5212"/>
+                    <Baseline points="3818,5212 3910,5212"/>
                     <TextEquiv>
                         <Unicode>2000</Unicode>
                     </TextEquiv>
@@ -17741,7 +17741,7 @@ Albingia: 1. Oktober.</Unicode>
                 <Coords points="3174,5352 3174,5397 3763,5397 3763,5352"/>
                 <TextLine id="line_1665406907184_3146" custom="readingOrder {index:0;}">
                     <Coords points="3204,5349 3747,5349 3750,5398 3207,5398"/>
-                    <Baseline points="3204,5387 3747,5387"/>
+                    <Baseline points="3206,5386 3747,5387"/>
                     <TextEquiv>
                         <Unicode>Schleſiſche Bergb. u. Zink</Unicode>
                     </TextEquiv>
@@ -17964,7 +17964,7 @@ Albingia: 1. Oktober.</Unicode>
                 <Coords points="4622,5610 4622,5662 5292,5662 5292,5610"/>
                 <TextLine id="line_1665407797498_3491" custom="readingOrder {index:0;}">
                     <Coords points="4650,5611 5052,5610 5052,5658 4650,5659"/>
-                    <Baseline points="4649,5649 5051,5648"/>
+                    <Baseline points="4650,5649 5051,5648"/>
                     <TextEquiv>
                         <Unicode>— à 99 ⅜ à 99,75 à —</Unicode>
                     </TextEquiv>
@@ -18275,7 +18275,7 @@ Albingia: 1. Oktober.</Unicode>
                 <Coords points="3981,5924 3981,6004 4622,6004 4622,5924"/>
                 <TextLine id="line_1665407451533_3350" custom="readingOrder {index:0;}">
                     <Coords points="3996,5923 4530,5923 4529,5967 3995,5967"/>
-                    <Baseline points="3994,5958 4521,5959"/>
+                    <Baseline points="3995,5958 4521,5959"/>
                     <TextEquiv>
                         <Unicode>34,5 à 33,25 à 33,75 à 33 ⅜ à</Unicode>
                     </TextEquiv>
@@ -18370,7 +18370,7 @@ Albingia: 1. Oktober.</Unicode>
                 <Coords points="3981,6050 3981,6095 4622,6095 4622,6050"/>
                 <TextLine id="line_1665407486065_3365" custom="readingOrder {index:0;}">
                     <Coords points="3995,6063 4142,6060 4142,6098 3995,6101"/>
-                    <Baseline points="3994,6091 4141,6088"/>
+                    <Baseline points="3995,6091 4141,6088"/>
                     <TextEquiv>
                         <Unicode>— à —</Unicode>
                     </TextEquiv>
@@ -18381,7 +18381,7 @@ Albingia: 1. Oktober.</Unicode>
                 <Coords points="4622,6050 4622,6095 5292,6095 5292,6050"/>
                 <TextLine id="line_1665407862093_3516" custom="readingOrder {index:0;}">
                     <Coords points="4641,6054 4837,6056 4840,6102 4644,6100"/>
-                    <Baseline points="4651,6092 4840,6088"/>
+                    <Baseline points="4651,6092 4839,6088"/>
                     <TextEquiv>
                         <Unicode>100,5 à —</Unicode>
                     </TextEquiv>
@@ -18414,7 +18414,7 @@ Albingia: 1. Oktober.</Unicode>
                 <Coords points="3981,6095 3981,6138 4622,6138 4622,6095"/>
                 <TextLine id="line_1665407496113_3370" custom="readingOrder {index:0;}">
                     <Coords points="3990,6103 4138,6100 4140,6136 3992,6139"/>
-                    <Baseline points="3992,6134 4140,6131"/>
+                    <Baseline points="3992,6134 4139,6131"/>
                     <TextEquiv>
                         <Unicode>— à —</Unicode>
                     </TextEquiv>
@@ -18425,7 +18425,7 @@ Albingia: 1. Oktober.</Unicode>
                 <Coords points="4622,6095 4622,6138 5292,6138 5292,6095"/>
                 <TextLine id="line_1665407872572_3521" custom="readingOrder {index:0;}">
                     <Coords points="4638,6101 4779,6098 4781,6137 4640,6140"/>
-                    <Baseline points="4640,6135 4781,6132"/>
+                    <Baseline points="4640,6135 4780,6132"/>
                     <TextEquiv>
                         <Unicode>— à —</Unicode>
                     </TextEquiv>
@@ -18458,7 +18458,7 @@ Albingia: 1. Oktober.</Unicode>
                 <Coords points="3981,6138 3981,6183 4622,6183 4622,6138"/>
                 <TextLine id="line_1665407512904_3375" custom="readingOrder {index:0;}">
                     <Coords points="3987,6148 4138,6145 4139,6180 3988,6183"/>
-                    <Baseline points="3988,6178 4139,6175"/>
+                    <Baseline points="3988,6178 4138,6175"/>
                     <TextEquiv>
                         <Unicode>— à —</Unicode>
                     </TextEquiv>
@@ -18469,7 +18469,7 @@ Albingia: 1. Oktober.</Unicode>
                 <Coords points="4622,6138 4622,6183 5292,6183 5292,6138"/>
                 <TextLine id="line_1665407883077_3526" custom="readingOrder {index:0;}">
                     <Coords points="4635,6145 4779,6143 4780,6183 4636,6185"/>
-                    <Baseline points="4636,6180 4780,6178"/>
+                    <Baseline points="4636,6180 4779,6178"/>
                     <TextEquiv>
                         <Unicode>— à —</Unicode>
                     </TextEquiv>
@@ -18513,7 +18513,7 @@ Albingia: 1. Oktober.</Unicode>
                 <Coords points="4622,6183 4622,6259 5292,6259 5292,6183"/>
                 <TextLine id="line_1665407893162_3531" custom="readingOrder {index:0;}">
                     <Coords points="4634,6185 4929,6186 4932,6233 4637,6232"/>
-                    <Baseline points="4634,6221 4929,6222"/>
+                    <Baseline points="4636,6220 4929,6222"/>
                     <TextEquiv>
                         <Unicode>44,75 à 44 à —</Unicode>
                     </TextEquiv>
@@ -18777,7 +18777,7 @@ Albingia: 1. Oktober.</Unicode>
                 <Coords points="4622,6536 4622,6577 5292,6577 5292,6536"/>
                 <TextLine id="line_1665407930142_3541" custom="readingOrder {index:0;}">
                     <Coords points="4639,6539 4926,6537 4927,6580 4640,6582"/>
-                    <Baseline points="4640,6573 4927,6571"/>
+                    <Baseline points="4640,6573 4926,6571"/>
                     <TextEquiv>
                         <Unicode>— à 24,75 à —</Unicode>
                     </TextEquiv>
@@ -18865,7 +18865,7 @@ Albingia: 1. Oktober.</Unicode>
                 <Coords points="4622,6626 4622,6674 5293,6674 5292,6626"/>
                 <TextLine id="line_1665407951700_3551" custom="readingOrder {index:0;}">
                     <Coords points="4638,6625 5067,6626 5068,6673 4639,6672"/>
-                    <Baseline points="4638,6659 5067,6660"/>
+                    <Baseline points="4638,6658 5067,6660"/>
                     <TextEquiv>
                         <Unicode>16 ⅝ à 16 ⅞ à 16,75 à —</Unicode>
                     </TextEquiv>
@@ -18931,7 +18931,7 @@ Albingia: 1. Oktober.</Unicode>
                 <Coords points="3763,6706 3763,6752 3981,6752 3981,6706"/>
                 <TextLine id="line_1665407588051_3410" custom="readingOrder {index:0;}">
                     <Coords points="3795,6713 3895,6713 3897,6751 3797,6751"/>
-                    <Baseline points="3805,6745 3897,6746"/>
+                    <Baseline points="3805,6745 3896,6746"/>
                     <TextEquiv>
                         <Unicode>3000</Unicode>
                     </TextEquiv>
@@ -18942,7 +18942,7 @@ Albingia: 1. Oktober.</Unicode>
                 <Coords points="3981,6706 3981,6752 4622,6752 4622,6706"/>
                 <TextLine id="line_1665407568095_3400" custom="readingOrder {index:0;}">
                     <Coords points="3990,6714 4124,6712 4125,6750 3991,6752"/>
-                    <Baseline points="3991,6747 4125,6745"/>
+                    <Baseline points="3991,6747 4124,6745"/>
                     <TextEquiv>
                         <Unicode>— à —</Unicode>
                     </TextEquiv>
@@ -19041,7 +19041,7 @@ Albingia: 1. Oktober.</Unicode>
                 <Coords points="4622,6826 4622,6903 5297,6903 5296,6826"/>
                 <TextLine id="line_1665407989149_3566" custom="readingOrder {index:0;}">
                     <Coords points="4632,6834 4889,6831 4891,6895 4634,6898"/>
-                    <Baseline points="4633,6879 4890,6876"/>
+                    <Baseline points="4633,6878 4890,6876"/>
                     <TextEquiv>
                         <Unicode>— à 15 ⅝ à —</Unicode>
                     </TextEquiv>
@@ -19289,7 +19289,7 @@ Der Vorſtand.</Unicode>
                 <Coords points="5448,2320 5448,2380 5988,2380 5988,2320"/>
                 <TextLine id="TableCell_1658214201820_10931l1" custom="readingOrder {index:0;}">
                     <Coords points="5635,2340 5725,2340 5784,2347 5802,2363 5801,2378 5634,2378"/>
-                    <Baseline points="5635,2375 5802,2375"/>
+                    <Baseline points="5635,2375 5801,2374"/>
                     <TextEquiv>
                         <Unicode>Aktiva.</Unicode>
                     </TextEquiv>
@@ -19713,7 +19713,7 @@ per 30. September 1932.</Unicode>
                 <Coords points="6188,3154 6188,3201 6258,3201 6258,3154"/>
                 <TextLine id="TableCell_1658214262768_11090l0" custom="readingOrder {index:0;}">
                     <Coords points="6197,3154 6226,3154 6248,3160 6248,3190 6227,3198 6197,3198"/>
-                    <Baseline points="6196,3191 6239,3191"/>
+                    <Baseline points="6197,3191 6239,3191"/>
                     <TextEquiv>
                         <Unicode>87</Unicode>
                     </TextEquiv>
@@ -20169,7 +20169,7 @@ Bilanz per 31. Dezember 1931.</Unicode>
                 <Coords points="5970,4366 5970,4407 6175,4407 6175,4366"/>
                 <TextLine id="TableCell_1658214407416_11475l0" custom="readingOrder {index:0;}">
                     <Coords points="6069,4365 6173,4365 6173,4406 6145,4406 6069,4395"/>
-                    <Baseline points="6071,4396 6092,4396 6107,4396 6167,4396"/>
+                    <Baseline points="6071,4395 6092,4396 6107,4396 6167,4396"/>
                     <TextEquiv>
                         <Unicode>6 881</Unicode>
                     </TextEquiv>
@@ -20180,7 +20180,7 @@ Bilanz per 31. Dezember 1931.</Unicode>
                 <Coords points="6175,4366 6175,4407 6241,4407 6241,4366"/>
                 <TextLine id="TableCell_1658214407517_11481l0" custom="readingOrder {index:0;}">
                     <Coords points="6183,4365 6232,4365 6232,4401 6183,4401"/>
-                    <Baseline points="6182,4397 6227,4396"/>
+                    <Baseline points="6183,4397 6227,4396"/>
                     <TextEquiv>
                         <Unicode>42</Unicode>
                     </TextEquiv>
@@ -20286,7 +20286,7 @@ Bilanz per 31. Dezember 1931.</Unicode>
                 <Coords points="6175,4537 6175,4583 6241,4583 6241,4537"/>
                 <TextLine id="TableCell_1658214401916_11427l0" custom="readingOrder {index:0;}">
                     <Coords points="6181,4537 6236,4537 6236,4583 6181,4583"/>
-                    <Baseline points="6180,4571 6228,4572"/>
+                    <Baseline points="6181,4571 6228,4572"/>
                     <TextEquiv>
                         <Unicode>60</Unicode>
                     </TextEquiv>
@@ -20677,7 +20677,7 @@ Bilanz per 31. Dezember 1931.</Unicode>
                 <Coords points="5419,5369 5419,5410 5970,5410 5970,5369"/>
                 <TextLine id="line_1666013560928_2157" custom="readingOrder {index:0;}">
                     <Coords points="5420,5367 5581,5367 5581,5408 5420,5408"/>
-                    <Baseline points="5419,5401 5567,5401"/>
+                    <Baseline points="5420,5401 5567,5401"/>
                     <TextEquiv>
                         <Unicode>Akzepte</Unicode>
                     </TextEquiv>
@@ -21013,7 +21013,7 @@ Bilanz per 31. Dezember 1931.</Unicode>
                 <Coords points="5956,5927 5956,5982 6163,5982 6163,5927"/>
                 <TextLine id="TableCell_1658214488334_11750l0" custom="readingOrder {index:0;}">
                     <Coords points="6010,5928 6133,5927 6157,5927 6156,5970 6126,5970 6010,5960"/>
-                    <Baseline points="6016,5960 6077,5960 6092,5960 6157,5961"/>
+                    <Baseline points="6016,5960 6077,5960 6092,5960 6156,5960"/>
                     <TextEquiv>
                         <Unicode>113 951</Unicode>
                     </TextEquiv>
@@ -21039,7 +21039,7 @@ Bilanz per 31. Dezember 1931.</Unicode>
                 <Coords points="5956,5982 5956,6046 6163,6046 6163,5982"/>
                 <TextLine id="TableCell_1658214485436_11732l0" custom="readingOrder {index:0;}">
                     <Coords points="6012,5996 6076,5996 6154,5997 6154,6032 6056,6032 6013,6031"/>
-                    <Baseline points="6012,6026 6076,6027 6093,6027 6154,6027"/>
+                    <Baseline points="6012,6025 6076,6027 6093,6027 6154,6027"/>
                     <TextEquiv>
                         <Unicode>448 787</Unicode>
                     </TextEquiv>
@@ -21080,7 +21080,7 @@ Bilanz per 31. Dezember 1931.</Unicode>
                 <Coords points="5408,6099 5408,6144 5956,6144 5956,6099"/>
                 <TextLine id="line_1666014164765_2286" custom="readingOrder {index:0;}">
                     <Coords points="5412,6099 5445,6099 5659,6102 5714,6109 5714,6141 5703,6142 5640,6141 5415,6139"/>
-                    <Baseline points="5414,6133 5705,6134"/>
+                    <Baseline points="5414,6132 5705,6134"/>
                     <TextEquiv>
                         <Unicode>Gewinnvortrag</Unicode>
                     </TextEquiv>
@@ -21146,7 +21146,7 @@ Bilanz per 31. Dezember 1931.</Unicode>
                 <Coords points="5408,6190 5408,6233 5956,6233 5956,6190"/>
                 <TextLine id="TableCell_1658214478504_11654l0" custom="readingOrder {index:0;}">
                     <Coords points="5410,6185 5793,6185 5812,6192 5812,6217 5793,6225 5659,6228 5410,6228"/>
-                    <Baseline points="5413,6222 5567,6221 5588,6221 5638,6222 5662,6222 5810,6222"/>
+                    <Baseline points="5413,6222 5567,6221 5588,6221 5638,6222 5662,6222 5808,6218"/>
                     <TextEquiv>
                         <Unicode>Eingang an Dubioſe</Unicode>
                     </TextEquiv>
@@ -21312,7 +21312,7 @@ Bilanz per 31. Dezember 1931.</Unicode>
             <Coords points="5397,6479 6221,6485 6204,6953 5397,6950"/>
             <TextLine id="r24l1" custom="readingOrder {index:0;}">
                 <Coords points="5451,6482 5485,6482 5783,6483 6061,6486 6144,6487 6189,6488 6205,6490 6205,6521 6189,6527 6151,6528 5998,6528 5565,6525 5452,6521"/>
-                <Baseline points="5451,6516 5524,6517 5565,6517 5783,6518 5823,6519 5960,6519 5998,6520 6205,6520"/>
+                <Baseline points="5451,6515 5524,6517 5565,6517 5783,6518 5823,6519 5960,6519 5998,6520 6205,6520"/>
                 <TextEquiv>
                     <Unicode>Der Aufſichtsrat unſerer Geſellſchaft</Unicode>
                 </TextEquiv>
@@ -21848,7 +21848,7 @@ lichen Generalverſammlung ein.</Unicode>
             </TextLine>
             <TextLine id="r29l10" custom="readingOrder {index:9;}">
                 <Coords points="6358,3747 6476,3744 6967,3743 6997,3743 7025,3745 7054,3754 7059,3781 6910,3787 6419,3785 6359,3785"/>
-                <Baseline points="6358,3780 6418,3781 6476,3780 6756,3780 6813,3780 6910,3779 6969,3779 7054,3779"/>
+                <Baseline points="6358,3779 6418,3781 6476,3780 6756,3780 6813,3780 6910,3779 6969,3779 7054,3779"/>
                 <TextEquiv>
                     <Unicode>des Grundkapitals durch Ein⸗</Unicode>
                 </TextEquiv>
@@ -22075,7 +22075,7 @@ menzahl.</Unicode>
             </TextLine>
             <TextLine id="r30l12" custom="readingOrder {index:11;}">
                 <Coords points="6262,4961 7019,4961 7045,4971 7045,4996 6858,5005 6830,5005 6263,4998"/>
-                <Baseline points="6262,4995 6357,4995 6388,4995 6422,4995 6451,4996 6575,4996 6602,4998 6676,4998 6703,4998 6802,4997 6830,4997 6983,4996 7012,4994 7045,4996"/>
+                <Baseline points="6262,4994 6357,4995 6388,4995 6422,4995 6451,4996 6575,4996 6602,4998 6676,4998 6703,4998 6802,4997 6830,4997 6983,4996 7012,4994 7045,4996"/>
                 <TextEquiv>
                     <Unicode>Bank in Berlin oder deren Filialen in</Unicode>
                 </TextEquiv>
@@ -22569,7 +22569,7 @@ Der Aufſichtsrat: Gluud, Vorſitzender.</Unicode>
             </TextLine>
             <TextLine id="r32l16" custom="readingOrder {index:15;}">
                 <Coords points="7114,2001 7133,2000 7193,2000 7709,2002 7834,2003 7889,2012 7904,2017 7904,2030 7898,2048 7616,2046 7264,2045 7114,2042"/>
-                <Baseline points="7114,2035 7274,2036 7300,2036 7334,2037 7361,2036 7586,2037 7616,2037 7765,2036 7793,2035 7903,2036"/>
+                <Baseline points="7114,2035 7274,2036 7300,2036 7334,2037 7361,2036 7586,2037 7616,2037 7765,2036 7793,2035 7902,2035"/>
                 <TextEquiv>
                     <Unicode>(Oder), in Frankfurt (Oder) einzu⸗</Unicode>
                 </TextEquiv>
@@ -22993,7 +22993,7 @@ Aktien⸗Bank, Roſtock.
                 <Coords points="7841,4100 7841,4161 7888,4161 7890,4100"/>
                 <TextLine id="line_1666017112449_2665" custom="readingOrder {index:0;}">
                     <Coords points="7841,4116 7884,4113 7887,4163 7844,4166"/>
-                    <Baseline points="7842,4154 7885,4151"/>
+                    <Baseline points="7843,4153 7885,4151"/>
                     <TextEquiv>
                         <Unicode>₰</Unicode>
                     </TextEquiv>
@@ -23048,7 +23048,7 @@ Aktien⸗Bank, Roſtock.
                 <Coords points="7631,4203 7631,4245 7841,4245 7841,4203"/>
                 <TextLine id="TableCell_1658216239182_12559l0" custom="readingOrder {index:0;}">
                     <Coords points="7807,4203 7833,4203 7833,4245 7807,4245"/>
-                    <Baseline points="7810,4239 7836,4239"/>
+                    <Baseline points="7810,4239 7833,4239"/>
                     <TextEquiv>
                         <Unicode>1</Unicode>
                     </TextEquiv>
@@ -23092,7 +23092,7 @@ Aktien⸗Bank, Roſtock.
                 <Coords points="7841,4245 7841,4290 7887,4290 7887,4245"/>
                 <TextLine id="TableCell_1658216233274_12547l0" custom="readingOrder {index:0;}">
                     <Coords points="7844,4246 7862,4246 7888,4252 7888,4282 7864,4291 7844,4291"/>
-                    <Baseline points="7841,4282 7885,4281"/>
+                    <Baseline points="7844,4282 7885,4281"/>
                     <TextEquiv>
                         <Unicode>19</Unicode>
                     </TextEquiv>
@@ -23507,7 +23507,7 @@ Aktien⸗Bank, Roſtock.
                 <Coords points="7841,4903 7841,4962 7887,4962 7887,4903"/>
                 <TextLine id="TableCell_1658216025704_12313l0" custom="readingOrder {index:0;}">
                     <Coords points="7841,4903 7886,4903 7885,4950 7840,4950"/>
-                    <Baseline points="7839,4940 7884,4940"/>
+                    <Baseline points="7840,4940 7884,4940"/>
                     <TextEquiv>
                         <Unicode>56</Unicode>
                     </TextEquiv>
@@ -23533,7 +23533,7 @@ Aktien⸗Bank, Roſtock.
                 <Coords points="7841,4962 7841,5022 7887,5022 7887,4962"/>
                 <TextLine id="TableCell_1658216023430_12295l0" custom="readingOrder {index:0;}">
                     <Coords points="7841,4962 7887,4962 7884,5016 7838,5016"/>
-                    <Baseline points="7841,5007 7887,5007"/>
+                    <Baseline points="7841,5007 7884,5006"/>
                     <TextEquiv>
                         <Unicode>21</Unicode>
                     </TextEquiv>
@@ -23574,7 +23574,7 @@ Aktien⸗Bank, Roſtock.
                 <Coords points="7631,5078 7631,5121 7841,5121 7841,5078"/>
                 <TextLine id="TableCell_1658216019852_12253l0" custom="readingOrder {index:0;}">
                     <Coords points="7721,5080 7798,5077 7827,5077 7827,5120 7788,5120 7721,5113"/>
-                    <Baseline points="7729,5114 7747,5114 7762,5114 7822,5113"/>
+                    <Baseline points="7729,5113 7747,5114 7762,5114 7822,5113"/>
                     <TextEquiv>
                         <Unicode>1 907</Unicode>
                     </TextEquiv>
@@ -23750,7 +23750,7 @@ Aktien⸗Bank, Roſtock.
                 <Coords points="7841,5351 7841,5416 7887,5416 7887,5351"/>
                 <TextLine id="TableCell_1658215999297_12169l0" custom="readingOrder {index:0;}">
                     <Coords points="7840,5359 7883,5359 7884,5410 7841,5410"/>
-                    <Baseline points="7841,5399 7884,5399"/>
+                    <Baseline points="7841,5399 7883,5399"/>
                     <TextEquiv>
                         <Unicode>21</Unicode>
                     </TextEquiv>
@@ -24355,7 +24355,7 @@ E. Brockelmann.</Unicode>
             </TextLine>
             <TextLine id="r39l11" custom="readingOrder {index:10;}">
                 <Coords points="7943,1834 8036,1829 8168,1829 8490,1830 8680,1831 8736,1834 8736,1866 8625,1873 8467,1873 8060,1871 7943,1861"/>
-                <Baseline points="7941,1862 8006,1863 8034,1863 8225,1864 8248,1864 8307,1864 8332,1864 8623,1866 8651,1866 8734,1867"/>
+                <Baseline points="7943,1861 8006,1863 8034,1863 8225,1864 8248,1864 8307,1864 8332,1864 8623,1866 8651,1866 8733,1866"/>
                 <TextEquiv>
                     <Unicode>von Schönberg auf Thammenhain; Kurt</Unicode>
                 </TextEquiv>
@@ -24600,7 +24600,7 @@ Bilanz am 30. September 1932.</Unicode>
                 <Coords points="7919,2549 7918,2594 8462,2592 8462,2549"/>
                 <TextLine id="TableCell_1658217097776_13348l0" custom="readingOrder {index:0;}">
                     <Coords points="7928,2548 8116,2548 8183,2549 8202,2558 8202,2582 8070,2592 7927,2593"/>
-                    <Baseline points="7934,2582 8193,2583"/>
+                    <Baseline points="7934,2582 8192,2582"/>
                     <TextEquiv>
                         <Unicode>Wohngebäude</Unicode>
                     </TextEquiv>
@@ -24622,7 +24622,7 @@ Bilanz am 30. September 1932.</Unicode>
                 <Coords points="8678,2549 8678,2592 8730,2594 8731,2549"/>
                 <TextLine id="TableCell_1658217098084_13360l0" custom="readingOrder {index:0;}">
                     <Coords points="8688,2548 8728,2548 8728,2592 8688,2591"/>
-                    <Baseline points="8687,2581 8727,2582"/>
+                    <Baseline points="8688,2581 8727,2582"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -24886,7 +24886,7 @@ Bilanz am 30. September 1932.</Unicode>
                 <Coords points="8671,2894 8671,2942 8730,2942 8730,2894"/>
                 <TextLine id="TableCell_1658217082447_13216l0" custom="readingOrder {index:0;}">
                     <Coords points="8682,2894 8730,2894 8730,2942 8682,2942"/>
-                    <Baseline points="8681,2931 8725,2932"/>
+                    <Baseline points="8682,2931 8725,2932"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -24919,7 +24919,7 @@ Bilanz am 30. September 1932.</Unicode>
                 <Coords points="8671,2942 8671,2987 8730,2987 8730,2942"/>
                 <TextLine id="line_1666019360730_3281" custom="readingOrder {index:0;}">
                     <Coords points="8681,2948 8727,2951 8727,2981 8681,2978"/>
-                    <Baseline points="8680,2973 8723,2973"/>
+                    <Baseline points="8681,2973 8723,2973"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -25138,7 +25138,7 @@ Bilanz am 30. September 1932.</Unicode>
                 <Coords points="8671,3289 8671,3376 8730,3376 8730,3289"/>
                 <TextLine id="TableCell_1658217063305_13090l0" custom="readingOrder {index:0;}">
                     <Coords points="8676,3306 8720,3306 8720,3372 8676,3372"/>
-                    <Baseline points="8678,3360 8722,3360"/>
+                    <Baseline points="8678,3360 8720,3360"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -25222,7 +25222,7 @@ Bilanz am 30. September 1932.</Unicode>
                 </TextLine>
                 <TextLine id="TableCell_1658217048356_13024l1" custom="readingOrder {index:1;}">
                     <Coords points="7968,3515 8049,3508 8194,3508 8405,3513 8439,3517 8439,3542 8338,3551 8070,3551 7965,3544"/>
-                    <Baseline points="7968,3541 8036,3541 8049,3541 8428,3543"/>
+                    <Baseline points="7968,3541 8036,3541 8049,3541 8427,3542"/>
                     <TextEquiv>
                         <Unicode>von Warenlieferungen u.</Unicode>
                     </TextEquiv>
@@ -25251,7 +25251,7 @@ Bilanz am 30. September 1932.</Unicode>
                 <Coords points="8671,3465 8671,3596 8730,3596 8730,3465"/>
                 <TextLine id="TableCell_1658217048649_13036l0" custom="readingOrder {index:0;}">
                     <Coords points="8677,3541 8709,3541 8721,3559 8721,3591 8677,3591"/>
-                    <Baseline points="8676,3584 8715,3585"/>
+                    <Baseline points="8677,3584 8715,3585"/>
                     <TextEquiv>
                         <Unicode>61</Unicode>
                     </TextEquiv>
@@ -25284,7 +25284,7 @@ Bilanz am 30. September 1932.</Unicode>
                 <Coords points="8671,3596 8671,3637 8730,3637 8730,3596"/>
                 <TextLine id="TableCell_1658217044571_13018l0" custom="readingOrder {index:0;}">
                     <Coords points="8677,3597 8718,3597 8719,3638 8678,3638"/>
-                    <Baseline points="8677,3628 8718,3628"/>
+                    <Baseline points="8677,3627 8718,3628"/>
                     <TextEquiv>
                         <Unicode>99</Unicode>
                     </TextEquiv>
@@ -26181,7 +26181,7 @@ am 30. September 1932.</Unicode>
                 <Coords points="8452,5543 8452,5588 8663,5588 8663,5543"/>
                 <TextLine id="TableCell_1658217299602_13669l0" custom="readingOrder {index:0;}">
                     <Coords points="8533,5545 8612,5543 8661,5543 8661,5588 8605,5588 8533,5576"/>
-                    <Baseline points="8535,5576 8576,5576 8591,5577 8663,5576"/>
+                    <Baseline points="8535,5576 8576,5576 8591,5577 8661,5576"/>
                     <TextEquiv>
                         <Unicode>58 350</Unicode>
                     </TextEquiv>
@@ -26365,7 +26365,7 @@ am 30. September 1932.</Unicode>
                 <Coords points="8452,5862 8452,5927 8663,5927 8663,5862"/>
                 <TextLine id="TableCell_1658217284758_13561l1" custom="readingOrder {index:0;}">
                     <Coords points="8481,5873 8534,5872 8575,5872 8661,5874 8662,5912 8482,5912"/>
-                    <Baseline points="8481,5904 8496,5904 8512,5904 8575,5904 8588,5904 8656,5904"/>
+                    <Baseline points="8481,5903 8496,5904 8512,5904 8575,5904 8588,5904 8656,5904"/>
                     <TextEquiv>
                         <Unicode>1 499 974</Unicode>
                     </TextEquiv>
@@ -26461,7 +26461,7 @@ am 30. September 1932.</Unicode>
                 <Coords points="8663,6026 8663,6070 8728,6070 8728,6026"/>
                 <TextLine id="TableCell_1658217279964_13513l0" custom="readingOrder {index:0;}">
                     <Coords points="8667,6026 8714,6026 8714,6063 8667,6063"/>
-                    <Baseline points="8666,6059 8713,6059"/>
+                    <Baseline points="8667,6059 8713,6059"/>
                     <TextEquiv>
                         <Unicode>06</Unicode>
                     </TextEquiv>
@@ -26509,7 +26509,7 @@ am 30. September 1932.</Unicode>
                 <Coords points="8452,6125 8452,6184 8663,6184 8663,6125"/>
                 <TextLine id="TableCell_1658217276236_13471l0" custom="readingOrder {index:0;}">
                     <Coords points="8467,6127 8657,6126 8657,6179 8467,6180"/>
-                    <Baseline points="8477,6168 8508,6167 8537,6168 8568,6168 8582,6168 8658,6168"/>
+                    <Baseline points="8477,6168 8508,6167 8537,6168 8568,6168 8582,6168 8657,6168"/>
                     <TextEquiv>
                         <Unicode>1 499 974</Unicode>
                     </TextEquiv>
@@ -27684,7 +27684,7 @@ Bilanz am 30. September 1931.</Unicode>
                 <Coords points="9288,3527 9290,3617 9494,3617 9492,3527"/>
                 <TextLine id="line_1666076107719_119" custom="readingOrder {index:0;}">
                     <Coords points="9357,3565 9488,3564 9488,3614 9357,3615"/>
-                    <Baseline points="9368,3606 9489,3605"/>
+                    <Baseline points="9368,3606 9488,3605"/>
                     <TextEquiv>
                         <Unicode>30 000</Unicode>
                     </TextEquiv>
@@ -28109,7 +28109,7 @@ Bilanz am 30. September 1931.</Unicode>
                 <Coords points="9285,4487 9285,4527 9489,4527 9489,4487"/>
                 <TextLine id="line_1666076721231_273" custom="readingOrder {index:0;}">
                     <Coords points="9299,4484 9485,4485 9484,4525 9298,4524"/>
-                    <Baseline points="9308,4519 9485,4518"/>
+                    <Baseline points="9308,4519 9484,4517"/>
                     <TextEquiv>
                         <Unicode>1 800 000</Unicode>
                     </TextEquiv>
@@ -28138,7 +28138,7 @@ Bilanz am 30. September 1931.</Unicode>
                 </TextLine>
                 <TextLine id="line_1666076730242_278" custom="readingOrder {index:1;}">
                     <Coords points="8784,4573 8913,4571 8914,4615 8785,4617"/>
-                    <Baseline points="8795,4607 8914,4605"/>
+                    <Baseline points="8795,4607 8913,4605"/>
                     <TextEquiv>
                         <Unicode>ſerven</Unicode>
                     </TextEquiv>
@@ -28160,7 +28160,7 @@ Bilanz am 30. September 1931.</Unicode>
                 <Coords points="9489,4527 9489,4611 9569,4611 9569,4527"/>
                 <TextLine id="line_1666076738978_283" custom="readingOrder {index:0;}">
                     <Coords points="9496,4559 9553,4560 9552,4610 9495,4609"/>
-                    <Baseline points="9494,4603 9551,4604"/>
+                    <Baseline points="9495,4603 9551,4604"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -28472,7 +28472,7 @@ Bilanz am 30. September 1931.</Unicode>
                 <Coords points="9285,5106 9285,5163 9489,5163 9489,5106"/>
                 <TextLine id="TableCell_1658218363536_14248l0" custom="readingOrder {index:0;}">
                     <Coords points="9293,5115 9458,5114 9489,5121 9486,5155 9331,5159 9296,5160"/>
-                    <Baseline points="9301,5152 9331,5152 9367,5152 9407,5151 9417,5151 9489,5151"/>
+                    <Baseline points="9301,5152 9331,5152 9367,5152 9407,5151 9417,5151 9486,5150"/>
                     <TextEquiv>
                         <Unicode>3 608 185</Unicode>
                     </TextEquiv>
@@ -28986,7 +28986,7 @@ am 30. September 1931.</Unicode>
                 <Coords points="9282,6268 9282,6353 9489,6353 9489,6268"/>
                 <TextLine id="TableCell_1658218564215_14849l0" custom="readingOrder {index:0;}">
                     <Coords points="9335,6308 9431,6302 9485,6302 9485,6348 9354,6348 9335,6340"/>
-                    <Baseline points="9341,6343 9403,6341 9415,6340 9489,6340"/>
+                    <Baseline points="9341,6342 9403,6341 9415,6340 9485,6340"/>
                     <TextEquiv>
                         <Unicode>156 034</Unicode>
                     </TextEquiv>

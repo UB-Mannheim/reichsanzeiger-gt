@@ -1,24 +1,24 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
     <Metadata>
         <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.7.3:model_id=40804:lm=none:date=11_07_2022_16:47
 prov=READ-COOP:name=PyLaia@Transkribus:version=0.7.3:model_id=40804:date=11_07_2022_16:47
 Transkribus</Creator>
         <Created>2021-12-14T12:18:05.804+01:00</Created>
-        <LastChange>2022-12-07T16:04:20.045+01:00</LastChange>
+        <LastChange>2023-11-15T20:43:13.329+01:00</LastChange>
         <Comments>
                 Measurement unit: pixel
                 PrimaryLanguage: 
                 Producer: Transkribus
             </Comments>
-        <TranskribusMetadata docId="1028597" pageId="43217664" pageNr="15" tsid="105747687" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=FAPIRDXWJTAOIUVWBTJRPSZD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IQXXBRGAYNRLCCFTFVCLGOOK" imageId="35453676"/>
+        <TranskribusMetadata docId="1028597" pageId="43217664" pageNr="15" tsid="139840282" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=FAPIRDXWJTAOIUVWBTJRPSZD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OGHJSKQFSXIHKLKEXZXFSNIX" imageId="35453676"/>
     </Metadata>
     <Page imageFilename="1918_71_0779.jpg" imageWidth="10168" imageHeight="7144">
         <PrintSpace>
             <Coords points="632,338 9640,339 9642,6847 618,6846"/>
         </PrintSpace>
         <ReadingOrder>
-            <OrderedGroup id="ro_1690359980896" caption="Regions reading order">
+            <OrderedGroup id="ro_1700129721741" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
                 <RegionRefIndexed index="1" regionRef="r2"/>
                 <RegionRefIndexed index="2" regionRef="r3"/>
@@ -909,7 +909,7 @@ Ludendorfſ.</Unicode>
             </TextLine>
             <TextLine id="r7l2" custom="readingOrder {index:1;}">
                 <Coords points="2268,3373 2332,3373 2891,3375 3215,3377 3551,3383 3553,3384 3576,3396 3576,3425 3585,3434 3370,3433 3047,3432 2587,3428 2298,3425 2262,3426"/>
-                <Baseline points="2268,3418 2420,3416 2445,3417 2515,3417 2544,3419 2670,3418 2725,3419 2814,3419 2842,3419 2891,3420 2920,3420 2995,3420 3047,3421 3215,3423 3245,3423 3342,3424 3370,3424 3578,3424"/>
+                <Baseline points="2268,3418 2420,3416 2445,3417 2515,3417 2544,3419 2670,3418 2725,3419 2814,3419 2842,3419 2891,3420 2920,3420 2995,3420 3047,3421 3215,3423 3245,3423 3342,3424 3370,3424 3576,3424"/>
                 <TextEquiv>
                     <Unicode>Wien, 22. März. (W. T. B.) Amtlich wird gemeldet:</Unicode>
                 </TextEquiv>
@@ -981,7 +981,7 @@ Der Chef des Generalſtabes.</Unicode>
             </TextLine>
             <TextLine id="r8l7" custom="readingOrder {index:6;}">
                 <Coords points="3728,886 4019,886 4124,888 4258,891 4317,891 4476,899 4539,897 4699,904 4884,919 4998,936 5053,942 5086,954 5086,984 4844,963 4688,953 4574,949 4369,942 4225,937 4051,940 3997,940 3728,929"/>
-                <Baseline points="3728,929 4074,930 4339,935 4475,939 4672,947 4823,954 4992,976 5080,984"/>
+                <Baseline points="3728,929 4074,930 4339,935 4475,939 4672,947 4823,954 4992,975 5080,983"/>
                 <TextEquiv>
                     <Unicode>Munitionslager in Brand. Im Cernabogen nördlich der</Unicode>
                 </TextEquiv>
@@ -1174,7 +1174,7 @@ An den anderen Fronten keine beſonderen Ereigniſſe.</Unicode>
             </TextLine>
             <TextLine id="r10l8" custom="readingOrder {index:7;}">
                 <Coords points="4280,2234 4296,2234 4524,2238 4917,2251 4999,2259 5037,2265 5071,2279 5071,2313 4980,2313 4856,2302 4719,2295 4543,2289 4434,2286 4300,2287 3710,2272 3710,2228"/>
-                <Baseline points="3708,2270 3974,2273 4280,2277 4347,2278 4387,2279 4446,2280 4486,2281 4731,2286 4776,2289 4929,2296 4954,2297 5071,2307"/>
+                <Baseline points="3710,2270 3974,2273 4280,2277 4347,2278 4387,2279 4446,2280 4486,2281 4731,2286 4776,2289 4929,2296 4954,2297 5071,2307"/>
                 <TextEquiv>
                     <Unicode>Karawanen⸗Knotenpunkt für die Verbindung zwiſchen Syrien</Unicode>
                 </TextEquiv>
@@ -1382,7 +1382,7 @@ Beſatzung ſei unbekannt.</Unicode>
             </TextLine>
             <TextLine id="r12l2" custom="readingOrder {index:1;}">
                 <Coords points="4150,3652 4497,3648 4657,3655 4658,3704 4157,3704 4146,3677"/>
-                <Baseline points="4159,3690 4237,3691 4264,3692 4298,3692 4389,3695 4658,3697"/>
+                <Baseline points="4159,3690 4237,3691 4264,3692 4298,3692 4389,3695 4657,3697"/>
                 <TextEquiv>
                     <Unicode>und Zweiten Beilage.)</Unicode>
                 </TextEquiv>
@@ -1487,7 +1487,7 @@ und Zweiten Beilage.)</Unicode>
             </TextLine>
             <TextLine id="r13l14" custom="readingOrder {index:13;}">
                 <Coords points="716,4425 757,4425 1183,4428 1539,4434 1563,4440 1568,4480 1249,4477 891,4470 873,4470 717,4472"/>
-                <Baseline points="716,4466 907,4466 969,4468 1192,4468 1234,4469 1292,4469 1334,4470 1385,4471 1423,4471 1563,4473"/>
+                <Baseline points="716,4465 907,4466 969,4468 1192,4468 1234,4469 1292,4469 1334,4470 1385,4471 1423,4471 1563,4473"/>
                 <TextEquiv>
                     <Unicode>Befehl: Vorſtellung für die Kriegs⸗</Unicode>
                 </TextEquiv>
@@ -1592,7 +1592,7 @@ und Zweiten Beilage.)</Unicode>
             </TextLine>
             <TextLine id="r13l29" custom="readingOrder {index:28;}">
                 <Coords points="702,5120 826,5117 899,5117 1331,5119 1534,5124 1555,5138 1554,5170 1532,5170 1331,5167 1234,5167 828,5162 704,5161 707,5124"/>
-                <Baseline points="707,5154 776,5154 826,5155 971,5157 983,5157 1116,5157 1140,5159 1331,5161 1368,5162 1555,5162"/>
+                <Baseline points="707,5154 776,5154 826,5155 971,5157 983,5157 1116,5157 1140,5159 1331,5161 1368,5162 1554,5161"/>
                 <TextEquiv>
                     <Unicode>von Wilhelm Kienzl. Muſikaliſche Leitung:</Unicode>
                 </TextEquiv>
@@ -1711,7 +1711,7 @@ und Zweiten Beilage.)</Unicode>
             </TextLine>
             <TextLine id="r13l46" custom="readingOrder {index:45;}">
                 <Coords points="694,5912 714,5910 767,5911 1000,5915 1035,5912 1294,5916 1459,5922 1528,5930 1543,5937 1543,5953 1545,5963 1485,5963 1033,5960 996,5960 767,5957 713,5953 694,5951 696,5916"/>
-                <Baseline points="698,5947 997,5952 1008,5952 1027,5952 1050,5953 1289,5954 1333,5954 1390,5954 1422,5955 1545,5956"/>
+                <Baseline points="698,5947 997,5952 1008,5952 1027,5952 1050,5953 1289,5954 1333,5954 1390,5954 1422,5955 1543,5956"/>
                 <TextEquiv>
                     <Unicode>Geſchloſſen. — Sonnabend: X. Sym⸗</Unicode>
                 </TextEquiv>
@@ -1746,7 +1746,7 @@ und Zweiten Beilage.)</Unicode>
             </TextLine>
             <TextLine id="r13l51" custom="readingOrder {index:50;}">
                 <Coords points="689,6142 706,6141 888,6141 1136,6146 1533,6150 1535,6195 981,6188 714,6184 689,6184"/>
-                <Baseline points="689,6181 895,6181 917,6181 954,6182 970,6182 1221,6185 1249,6186 1538,6188"/>
+                <Baseline points="689,6181 895,6181 917,6181 954,6182 970,6182 1221,6185 1249,6186 1534,6188"/>
                 <TextEquiv>
                     <Unicode>ſteinerin. — Donnerstag: Geſchloſſen. —</Unicode>
                 </TextEquiv>
@@ -2097,7 +2097,7 @@ Sonnabend: Nathan der Weiſe.</Unicode>
             </TextLine>
             <TextLine id="r16l3" custom="readingOrder {index:2;}">
                 <Coords points="1594,5059 1631,5059 2404,5070 2424,5088 2424,5104 2409,5117 2310,5117 1706,5107 1594,5104"/>
-                <Baseline points="1594,5097 1871,5101 1897,5102 1940,5103 1975,5104 2113,5107 2137,5107 2158,5108 2184,5108 2270,5107 2310,5107 2422,5108"/>
+                <Baseline points="1594,5097 1871,5101 1897,5102 1940,5103 1975,5104 2113,5107 2137,5107 2158,5108 2184,5108 2270,5107 2310,5107 2420,5106"/>
                 <TextEquiv>
                     <Unicode>Filmzauber. — Abends 7 Uhr: Blitz⸗</Unicode>
                 </TextEquiv>
@@ -2217,7 +2217,7 @@ Freitag: Karfreitags⸗Konzert.</Unicode>
             </TextLine>
             <TextLine id="r17l8" custom="readingOrder {index:7;}">
                 <Coords points="1626,5889 1678,5889 2106,5893 2365,5898 2397,5908 2411,5920 2411,5933 2397,5939 2365,5946 2277,5946 1930,5942 1764,5938 1620,5936"/>
-                <Baseline points="1626,5928 1783,5929 1810,5929 1877,5932 1904,5932 2106,5934 2145,5936 2233,5937 2256,5938 2410,5935"/>
+                <Baseline points="1626,5928 1783,5929 1810,5929 1877,5932 1904,5932 2106,5934 2145,5936 2233,5937 2256,5938 2409,5933"/>
                 <TextEquiv>
                     <Unicode>Montag und Mittwoch: Der Katzen⸗</Unicode>
                 </TextEquiv>
@@ -2305,7 +2305,7 @@ Freitag: Bibelvorleſung Irene Trieſch.</Unicode>
             </TextLine>
             <TextLine id="r18l5" custom="readingOrder {index:4;}">
                 <Coords points="1568,6463 1602,6463 1883,6466 2340,6476 2353,6478 2405,6488 2405,6516 2408,6525 2321,6523 1701,6509 1569,6509"/>
-                <Baseline points="1568,6503 1660,6504 1699,6505 1883,6507 1922,6508 2083,6512 2119,6513 2155,6513 2192,6514 2261,6515 2299,6516 2404,6517"/>
+                <Baseline points="1568,6502 1660,6504 1699,6505 1883,6507 1922,6508 2083,6512 2119,6513 2155,6513 2192,6514 2261,6515 2299,6516 2404,6517"/>
                 <TextEquiv>
                     <Unicode>Eine ernſthafte Komödie in drei Akten</Unicode>
                 </TextEquiv>
@@ -2370,14 +2370,14 @@ Freitag: Geſchloſſen.</Unicode>
             <Coords points="2464,3763 3335,3779 3331,4371 2464,4371"/>
             <TextLine id="r19l1" custom="readingOrder {index:0;}">
                 <Coords points="2527,3776 2709,3776 3136,3779 3268,3793 3310,3807 3326,3813 3326,3826 3324,3833 3315,3843 3132,3846 2825,3843 2554,3842 2527,3831"/>
-                <Baseline points="2527,3831 2762,3832 2776,3832 3175,3835 3184,3835 3325,3832"/>
+                <Baseline points="2527,3831 2762,3832 2776,3832 3175,3835 3184,3835 3324,3831"/>
                 <TextEquiv>
                     <Unicode>Deutſches Künſtiertheater. (Nürn⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r19l2" custom="readingOrder {index:1;}">
                 <Coords points="2478,3842 2720,3842 3232,3850 3265,3851 3326,3862 3331,3894 3291,3898 3158,3898 2479,3889"/>
-                <Baseline points="2478,3882 2778,3885 2793,3885 2980,3887 2996,3887 3068,3888 3081,3887 3156,3889 3186,3890 3265,3892 3288,3891 3326,3890"/>
+                <Baseline points="2478,3881 2778,3885 2793,3885 2980,3887 2996,3887 3068,3888 3081,3887 3156,3889 3186,3890 3265,3892 3288,3891 3326,3890"/>
                 <TextEquiv>
                     <Unicode>bergerſtr. 70/71, gegenüber dem Zoologiſchen</Unicode>
                 </TextEquiv>
@@ -2621,7 +2621,7 @@ Freitag: Geſchloſſen.</Unicode>
             </TextLine>
             <TextLine id="r21l8" custom="readingOrder {index:7;}">
                 <Coords points="2506,5403 2660,5406 3232,5417 3306,5421 3307,5465 3230,5466 3206,5466 2844,5458 2618,5450 2498,5448"/>
-                <Baseline points="2506,5442 2660,5445 2716,5446 2787,5447 2844,5449 3050,5451 3126,5451 3272,5455 3295,5455 3311,5456"/>
+                <Baseline points="2506,5442 2660,5445 2716,5446 2787,5447 2844,5449 3050,5451 3126,5451 3272,5455 3295,5455 3306,5456"/>
                 <TextEquiv>
                     <Unicode>Montag und Mittwoch: Hopfen⸗</Unicode>
                 </TextEquiv>
@@ -2684,7 +2684,7 @@ Freitag: Geſchloſſen.</Unicode>
             </TextLine>
             <TextLine id="r21l17" custom="readingOrder {index:16;}">
                 <Coords points="2451,5839 2633,5846 3151,5850 3255,5854 3301,5864 3301,5900 3159,5898 3119,5896 2519,5885 2453,5885"/>
-                <Baseline points="2451,5879 2632,5882 2680,5884 2750,5885 2801,5886 2937,5888 2977,5888 3057,5889 3097,5890 3301,5892"/>
+                <Baseline points="2452,5878 2632,5882 2680,5884 2750,5885 2801,5886 2937,5888 2977,5888 3057,5889 3097,5890 3301,5892"/>
                 <TextEquiv>
                     <Unicode>Othello, der Mohr von Venedig.</Unicode>
                 </TextEquiv>
@@ -2698,14 +2698,14 @@ Freitag: Geſchloſſen.</Unicode>
             </TextLine>
             <TextLine id="r21l19" custom="readingOrder {index:18;}">
                 <Coords points="2450,5933 2477,5932 2696,5937 2700,5980 2477,5978 2451,5977"/>
-                <Baseline points="2450,5973 2698,5976"/>
+                <Baseline points="2450,5972 2698,5976"/>
                 <TextEquiv>
                     <Unicode>Shak ſpeare.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r21l20" custom="readingOrder {index:19;}">
                 <Coords points="2499,5979 2665,5979 3225,5988 3280,5992 3299,6006 3299,6028 3290,6038 2900,6032 2747,6032 2612,6027 2499,6024"/>
-                <Baseline points="2499,6017 2665,6022 2711,6024 2900,6026 2945,6027 3011,6028 3052,6028 3297,6031"/>
+                <Baseline points="2499,6017 2665,6022 2711,6024 2900,6026 2945,6027 3011,6028 3052,6028 3296,6030"/>
                 <TextEquiv>
                     <Unicode>Montag, Mittwoch und Sonnabend:</Unicode>
                 </TextEquiv>
@@ -2806,7 +2806,7 @@ helm Tell.</Unicode>
             </TextLine>
             <TextLine id="r22l4" custom="readingOrder {index:3;}">
                 <Coords points="2441,6521 2681,6526 3268,6531 3292,6545 3298,6575 3268,6579 3075,6576 2472,6567 2441,6560"/>
-                <Baseline points="2441,6561 2683,6563 2727,6565 2776,6566 2852,6569 2904,6568 2974,6568 3027,6569 3074,6570 3291,6571"/>
+                <Baseline points="2441,6560 2683,6563 2727,6565 2776,6566 2852,6569 2904,6568 2974,6568 3027,6569 3074,6570 3291,6571"/>
                 <TextEquiv>
                     <Unicode>Nachmittags 2 ½ Uhr: Zu ermäßigten</Unicode>
                 </TextEquiv>
@@ -2869,7 +2869,7 @@ einem Epilog nach Th. Amadeus Hoff⸗</Unicode>
             </TextLine>
             <TextLine id="r23l2" custom="readingOrder {index:1;}">
                 <Coords points="3363,3827 3423,3827 3743,3830 3957,3833 3985,3835 3998,3864 3998,3873 4001,3884 3793,3880 3364,3872"/>
-                <Baseline points="3363,3868 3488,3867 3511,3867 3582,3868 3608,3869 3767,3871 3792,3872 3997,3875"/>
+                <Baseline points="3363,3867 3488,3867 3511,3867 3582,3868 3608,3869 3767,3871 3792,3872 3997,3875"/>
                 <TextEquiv>
                     <Unicode>Muſik von Jacques Offenbach.</Unicode>
                 </TextEquiv>
@@ -2931,14 +2931,14 @@ Sonnabend: Der Waffenſchmied.</Unicode>
             <Coords points="3349,4186 4219,4186 4219,4720 3349,4720"/>
             <TextLine id="r24l1" custom="readingOrder {index:0;}">
                 <Coords points="3407,4214 3636,4214 3772,4218 4187,4232 4194,4233 4210,4251 4210,4267 4211,4279 3772,4283 3720,4283 3408,4276"/>
-                <Baseline points="3407,4267 3636,4271 3666,4272 3816,4274 3865,4275 3938,4272 3964,4271 4025,4272 4050,4272 4210,4272"/>
+                <Baseline points="3407,4266 3636,4271 3666,4272 3816,4274 3865,4275 3938,4272 3964,4271 4025,4272 4050,4272 4210,4272"/>
                 <TextEquiv>
                     <Unicode>Komiſche Oper. (An der Weiden⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r24l2" custom="readingOrder {index:1;}">
                 <Coords points="3355,4277 3460,4277 4147,4291 4210,4296 4214,4334 4189,4337 4084,4337 3356,4325"/>
-                <Baseline points="3355,4320 3512,4322 4065,4330 4210,4331"/>
+                <Baseline points="3355,4319 3512,4322 4065,4330 4210,4331"/>
                 <TextEquiv>
                     <Unicode>dammer Brücke.) Sonntag, Nachmittags</Unicode>
                 </TextEquiv>
@@ -2987,7 +2987,7 @@ Sonnabend: Der Waffenſchmied.</Unicode>
             </TextLine>
             <TextLine id="r24l9" custom="readingOrder {index:8;}">
                 <Coords points="3355,4611 3498,4607 3533,4607 3615,4610 3620,4651 3498,4650 3355,4649"/>
-                <Baseline points="3354,4644 3616,4644"/>
+                <Baseline points="3355,4644 3616,4644"/>
                 <TextEquiv>
                     <Unicode>waldmädel.</Unicode>
                 </TextEquiv>
@@ -3079,7 +3079,7 @@ Freitag: Geſchloſſen.</Unicode>
             </TextLine>
             <TextLine id="r25l10" custom="readingOrder {index:9;}">
                 <Coords points="3392,5196 3550,5202 3876,5207 4183,5207 4198,5225 4198,5241 4199,5250 4001,5251 3955,5251 3717,5248 3430,5240 3389,5241"/>
-                <Baseline points="3392,5237 3550,5236 3602,5237 3668,5239 3717,5239 3876,5242 3925,5242 4038,5244 4096,5244 4199,5244"/>
+                <Baseline points="3392,5237 3550,5236 3602,5237 3668,5239 3717,5239 3876,5242 3925,5242 4038,5244 4096,5244 4198,5244"/>
                 <TextEquiv>
                     <Unicode>Montag und folgende Tage: Lud⸗</Unicode>
                 </TextEquiv>
@@ -3249,7 +3249,7 @@ feld. Muſik von Leo Aſcher.</Unicode>
             </TextLine>
             <TextLine id="r27l10" custom="readingOrder {index:9;}">
                 <Coords points="3332,6283 3411,6283 3820,6285 3820,6333 3593,6333 3335,6326"/>
-                <Baseline points="3332,6323 3438,6321 3464,6321 3543,6323 3571,6324 3820,6329"/>
+                <Baseline points="3334,6322 3438,6321 3464,6321 3543,6323 3571,6324 3820,6329"/>
                 <TextEquiv>
                     <Unicode>Drei alte Schachteln.</Unicode>
                 </TextEquiv>
@@ -3362,7 +3362,7 @@ fall. — Abends 7 ¾ Uhr: Die</Unicode>
             </TextLine>
             <TextLine id="r29l3" custom="readingOrder {index:2;}">
                 <Coords points="4255,3885 4441,3885 4483,3889 4494,3916 4491,3932 4252,3932"/>
-                <Baseline points="4255,3928 4494,3928"/>
+                <Baseline points="4255,3928 4491,3927"/>
                 <TextEquiv>
                     <Unicode>Okonkowski.</Unicode>
                 </TextEquiv>
@@ -3493,7 +3493,7 @@ Freitag: G ſchloſſen.</Unicode>
             </TextLine>
             <TextLine id="r31l2" custom="readingOrder {index:1;}">
                 <Coords points="4242,4722 4982,4720 5038,4720 5038,4765 4941,4768 4864,4773 4651,4773 4327,4770 4243,4766"/>
-                <Baseline points="4242,4762 4571,4762 4629,4764 4864,4765 4903,4764 4940,4764 4982,4759 5038,4755"/>
+                <Baseline points="4242,4761 4571,4762 4629,4764 4864,4765 4903,4764 4940,4764 4982,4759 5038,4755"/>
                 <TextEquiv>
                     <Unicode>Vorſtellungen. Nachmittags 3 ½ Uhr</Unicode>
                 </TextEquiv>
@@ -3570,7 +3570,7 @@ Freitag: G ſchloſſen.</Unicode>
             </TextLine>
             <TextLine id="r31l13" custom="readingOrder {index:12;}">
                 <Coords points="4283,5230 4740,5232 4939,5221 5020,5221 5032,5238 5032,5250 5027,5262 4994,5267 4947,5269 4836,5275 4442,5279 4312,5279 4283,5271"/>
-                <Baseline points="4283,5271 4442,5269 4480,5269 4546,5271 4583,5271 4737,5271 4769,5269 4874,5265 4909,5262 5032,5257"/>
+                <Baseline points="4283,5271 4442,5269 4480,5269 4546,5271 4583,5271 4737,5271 4769,5269 4874,5265 4909,5262 5029,5255"/>
                 <TextEquiv>
                     <Unicode>Montag und folgende Tage: Mond⸗</Unicode>
                 </TextEquiv>
@@ -3584,7 +3584,7 @@ Freitag: G ſchloſſen.</Unicode>
             </TextLine>
             <TextLine id="r31l15" custom="readingOrder {index:14;}">
                 <Coords points="4236,5324 4413,5320 4449,5320 4491,5333 4503,5353 4503,5360 4498,5368 4448,5370 4413,5371 4236,5368"/>
-                <Baseline points="4235,5360 4502,5360"/>
+                <Baseline points="4236,5360 4502,5360"/>
                 <TextEquiv>
                     <Unicode>Programm.</Unicode>
                 </TextEquiv>
@@ -3682,7 +3682,7 @@ Freitag: Geſchloſſen.</Unicode>
             </TextLine>
             <TextLine id="r32l10" custom="readingOrder {index:9;}">
                 <Coords points="4273,6005 4904,5990 5025,5981 5031,6020 4964,6030 4795,6042 4465,6051 4370,6051 4276,6049"/>
-                <Baseline points="4274,6044 4470,6042 4497,6044 4558,6043 4584,6044 4748,6037 4769,6035 4795,6034 4816,6033 5025,6019"/>
+                <Baseline points="4275,6043 4470,6042 4497,6044 4558,6043 4584,6044 4748,6037 4769,6035 4795,6034 4816,6033 5025,6019"/>
                 <TextEquiv>
                     <Unicode>(Gutzmio, Kr. Schlawe i. Pomm.). —</Unicode>
                 </TextEquiv>
@@ -3776,7 +3776,7 @@ hauſen, geb. Freiln von Bülow (Celle).</Unicode>
             </TextLine>
             <TextLine id="r33l9" custom="readingOrder {index:8;}">
                 <Coords points="4215,6683 4513,6680 4584,6678 4931,6652 5010,6644 5007,6683 4953,6703 4889,6704 4822,6711 4673,6725 4564,6732 4483,6734 4215,6734 4215,6705"/>
-                <Baseline points="4222,6724 4517,6722 4537,6722 4633,6717 4673,6717 4948,6690 4962,6686 5010,6680"/>
+                <Baseline points="4222,6724 4517,6722 4537,6722 4633,6717 4673,6717 4948,6690 4962,6686 5007,6679"/>
                 <TextEquiv>
                     <Unicode>Verlagsanſtalt, Berlin, Wilhelmſtraße 32.</Unicode>
                 </TextEquiv>
@@ -3911,7 +3911,7 @@ Sieben Beilagen.</Unicode>
             </TextLine>
             <TextLine id="r40l5" custom="readingOrder {index:4;}">
                 <Coords points="5739,1312 5764,1311 5838,1310 6085,1310 6297,1311 6486,1313 6487,1365 6176,1365 5864,1363 5764,1361 5739,1352"/>
-                <Baseline points="5739,1352 5779,1352 5809,1353 6085,1354 6111,1354 6487,1355"/>
+                <Baseline points="5739,1352 5779,1352 5809,1353 6085,1354 6111,1354 6486,1355"/>
                 <TextEquiv>
                     <Unicode>1) öffentliche Sammlungen,</Unicode>
                 </TextEquiv>
@@ -3944,7 +3944,7 @@ In der Woche vom 10. März bis 16. März 1918 auf Grund der Bundesratsverordnung
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3965,7 +3965,7 @@ In der Woche vom 10. März bis 16. März 1918 auf Grund der Bundesratsverordnung
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3979,7 +3979,7 @@ In der Woche vom 10. März bis 16. März 1918 auf Grund der Bundesratsverordnung
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4014,7 +4014,7 @@ In der Woche vom 10. März bis 16. März 1918 auf Grund der Bundesratsverordnung
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4042,7 +4042,7 @@ In der Woche vom 10. März bis 16. März 1918 auf Grund der Bundesratsverordnung
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4056,7 +4056,7 @@ In der Woche vom 10. März bis 16. März 1918 auf Grund der Bundesratsverordnung
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4071,13 +4071,13 @@ In der Woche vom 10. März bis 16. März 1918 auf Grund der Bundesratsverordnung
                 </TextLine>
                 <TextLine id="TableCell_1649431142978_2122l2" custom="readingOrder {index:1;}">
                     <Coords points="5430,1840 5460,1824 5504,1820 5750,1819 5910,1819 5900,1865 5756,1866 5509,1879 5481,1879 5430,1875"/>
-                    <Baseline points="5434,1866 5756,1859 5783,1860 5904,1854"/>
+                    <Baseline points="5434,1866 5756,1859 5783,1860 5902,1853"/>
                     <TextEquiv>
                         <Unicode>geſchäftsinhaber, Berlin</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4120,13 +4120,13 @@ In der Woche vom 10. März bis 16. März 1918 auf Grund der Bundesratsverordnung
                 </TextLine>
                 <TextLine id="TableCell_1649431136734_2073l6" custom="readingOrder {index:5;}">
                     <Coords points="6139,1971 6163,1960 6206,1960 6242,1961 6294,1964 6334,1973 6334,1997 6139,1997"/>
-                    <Baseline points="6138,1994 6333,1995"/>
+                    <Baseline points="6139,1994 6333,1995"/>
                     <TextEquiv>
                         <Unicode>mitglieder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4140,7 +4140,7 @@ In der Woche vom 10. März bis 16. März 1918 auf Grund der Bundesratsverordnung
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4148,7 +4148,7 @@ In der Woche vom 10. März bis 16. März 1918 auf Grund der Bundesratsverordnung
                 <Coords points="7350,1692 7350,1997 8147,1997 8148,1692"/>
                 <TextLine id="TableCell_1649431119406_1975l1" custom="readingOrder {index:0;}">
                     <Coords points="7383,1788 8129,1787 8129,1834 7976,1835 7597,1834 7383,1829"/>
-                    <Baseline points="7383,1829 7456,1827 7497,1826 7542,1826 7581,1827 7687,1826 7729,1826 7838,1825 7878,1825 8131,1825"/>
+                    <Baseline points="7383,1829 7456,1827 7497,1826 7542,1826 7581,1827 7687,1826 7729,1826 7838,1825 7878,1825 8129,1825"/>
                     <TextEquiv>
                         <Unicode>Bis 30 April 1918, Preußen. —</Unicode>
                     </TextEquiv>
@@ -4168,7 +4168,7 @@ In der Woche vom 10. März bis 16. März 1918 auf Grund der Bundesratsverordnung
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4182,7 +4182,7 @@ In der Woche vom 10. März bis 16. März 1918 auf Grund der Bundesratsverordnung
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4196,7 +4196,7 @@ In der Woche vom 10. März bis 16. März 1918 auf Grund der Bundesratsverordnung
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4217,7 +4217,7 @@ In der Woche vom 10. März bis 16. März 1918 auf Grund der Bundesratsverordnung
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4231,7 +4231,7 @@ In der Woche vom 10. März bis 16. März 1918 auf Grund der Bundesratsverordnung
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4309,7 +4309,7 @@ In der Woche vom 10. März bis 16. März 1918 auf Grund der Bundesratsverordnung
                 </TextLine>
                 <TextLine id="TableCell_1649431171946_2172l10" custom="readingOrder {index:10;}">
                     <Coords points="7376,2471 7414,2471 8127,2474 8127,2515 8073,2520 8018,2520 7584,2517 7378,2515"/>
-                    <Baseline points="7376,2511 7474,2508 7501,2508 7553,2509 7584,2510 7678,2511 7706,2511 7800,2511 7836,2511 7888,2511 7917,2510 7971,2511 8000,2511 8127,2512"/>
+                    <Baseline points="7377,2510 7474,2508 7501,2508 7553,2509 7584,2510 7678,2511 7706,2511 7800,2511 7836,2511 7888,2511 7917,2510 7971,2511 8000,2511 8127,2512"/>
                     <TextEquiv>
                         <Unicode>Vom 15. Juni 1918 bis 15. Auguſt</Unicode>
                     </TextEquiv>
@@ -4323,7 +4323,7 @@ In der Woche vom 10. März bis 16. März 1918 auf Grund der Bundesratsverordnung
                 </TextLine>
                 <TextLine id="TableCell_1649431171946_2172l12" custom="readingOrder {index:12;}">
                     <Coords points="7432,2564 7586,2563 7822,2563 8056,2567 8110,2572 8125,2585 8125,2598 8110,2610 7973,2610 7423,2605 7421,2594 7421,2568"/>
-                    <Baseline points="7426,2600 7558,2601 7586,2601 7822,2602 7845,2602 7912,2602 7940,2603 8124,2604"/>
+                    <Baseline points="7426,2600 7558,2601 7586,2601 7822,2602 7845,2602 7912,2602 7940,2603 8121,2600"/>
                     <TextEquiv>
                         <Unicode>mittels Werbebriefe und Subſkrip⸗</Unicode>
                     </TextEquiv>
@@ -4392,7 +4392,7 @@ In der Woche vom 10. März bis 16. März 1918 auf Grund der Bundesratsverordnung
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 4 5 9</CornerPts>
             </TableCell>
@@ -4406,7 +4406,7 @@ In der Woche vom 10. März bis 16. März 1918 auf Grund der Bundesratsverordnung
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4420,7 +4420,7 @@ In der Woche vom 10. März bis 16. März 1918 auf Grund der Bundesratsverordnung
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4434,7 +4434,7 @@ In der Woche vom 10. März bis 16. März 1918 auf Grund der Bundesratsverordnung
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4455,7 +4455,7 @@ In der Woche vom 10. März bis 16. März 1918 auf Grund der Bundesratsverordnung
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4469,7 +4469,7 @@ In der Woche vom 10. März bis 16. März 1918 auf Grund der Bundesratsverordnung
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4483,7 +4483,7 @@ In der Woche vom 10. März bis 16. März 1918 auf Grund der Bundesratsverordnung
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4511,7 +4511,7 @@ In der Woche vom 10. März bis 16. März 1918 auf Grund der Bundesratsverordnung
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4539,7 +4539,7 @@ In der Woche vom 10. März bis 16. März 1918 auf Grund der Bundesratsverordnung
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4553,7 +4553,7 @@ In der Woche vom 10. März bis 16. März 1918 auf Grund der Bundesratsverordnung
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4574,7 +4574,7 @@ In der Woche vom 10. März bis 16. März 1918 auf Grund der Bundesratsverordnung
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4596,7 +4596,7 @@ In der Woche vom 10. März bis 16. März 1918 auf Grund der Bundesratsverordnung
                 </TextLine>
                 <TextLine id="TableCell_1649431136796_2097l3" custom="readingOrder {index:2;}">
                     <Coords points="6137,2890 6174,2881 6713,2881 6852,2882 6884,2891 6891,2924 6855,2927 6713,2928 6441,2928 6198,2925 6138,2927"/>
-                    <Baseline points="6137,2921 6301,2920 6341,2920 6394,2921 6420,2921 6713,2921 6739,2921 6777,2922 6806,2923 6884,2920"/>
+                    <Baseline points="6137,2920 6301,2920 6341,2920 6394,2921 6420,2921 6713,2921 6739,2921 6777,2922 6806,2923 6884,2920"/>
                     <TextEquiv>
                         <Unicode>während des Kuraufenthalts in Bad</Unicode>
                     </TextEquiv>
@@ -4609,7 +4609,7 @@ In der Woche vom 10. März bis 16. März 1918 auf Grund der Bundesratsverordnung
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4623,7 +4623,7 @@ In der Woche vom 10. März bis 16. März 1918 auf Grund der Bundesratsverordnung
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4637,7 +4637,7 @@ In der Woche vom 10. März bis 16. März 1918 auf Grund der Bundesratsverordnung
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 6 7</CornerPts>
             </TableCell>
@@ -4651,7 +4651,7 @@ In der Woche vom 10. März bis 16. März 1918 auf Grund der Bundesratsverordnung
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4672,7 +4672,7 @@ In der Woche vom 10. März bis 16. März 1918 auf Grund der Bundesratsverordnung
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4687,13 +4687,13 @@ In der Woche vom 10. März bis 16. März 1918 auf Grund der Bundesratsverordnung
                 </TextLine>
                 <TextLine id="TableCell_1649431136812_2109l1" custom="readingOrder {index:1;}">
                     <Coords points="6136,3148 6220,3146 6253,3146 6599,3147 6643,3159 6643,3185 6599,3193 6220,3193 6137,3192"/>
-                    <Baseline points="6136,3186 6196,3186 6220,3186 6374,3186 6399,3186 6643,3185"/>
+                    <Baseline points="6136,3185 6196,3186 6220,3186 6374,3186 6399,3186 6643,3185"/>
                     <TextEquiv>
                         <Unicode>der Provinz Weſtpreußen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4707,7 +4707,7 @@ In der Woche vom 10. März bis 16. März 1918 auf Grund der Bundesratsverordnung
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4742,7 +4742,7 @@ In der Woche vom 10. März bis 16. März 1918 auf Grund der Bundesratsverordnung
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4853,7 +4853,7 @@ In der Woche vom 10. März bis 16. März 1918 auf Grund der Bundesratsverordnung
             </TextLine>
             <TextLine id="r44l10" custom="readingOrder {index:9;}">
                 <Coords points="5267,4230 5348,4220 5367,4220 5535,4221 5572,4233 5572,4263 5535,4273 5399,4273 5269,4272"/>
-                <Baseline points="5267,4261 5324,4262 5348,4262 5445,4262 5475,4262 5572,4263"/>
+                <Baseline points="5268,4260 5324,4262 5348,4262 5445,4262 5475,4262 5572,4263"/>
                 <TextEquiv>
                     <Unicode>um 12 ¼ Uhr.</Unicode>
                 </TextEquiv>
@@ -4874,7 +4874,7 @@ In der Woche vom 10. März bis 16. März 1918 auf Grund der Bundesratsverordnung
             </TextLine>
             <TextLine id="r44l13" custom="readingOrder {index:12;}">
                 <Coords points="5384,4395 6451,4391 6591,4391 6607,4392 6627,4397 6642,4408 6642,4421 6646,4434 6592,4435 6570,4435 6370,4436 6279,4440 5370,4445 5340,4430 5341,4395"/>
-                <Baseline points="5350,4436 5426,4437 5456,4437 5707,4437 5787,4436 5950,4435 5979,4434 6146,4433 6179,4432 6276,4431 6305,4431 6423,4430 6451,4429 6643,4427"/>
+                <Baseline points="5350,4435 5426,4437 5456,4437 5707,4437 5787,4436 5950,4435 5979,4434 6146,4433 6179,4432 6276,4431 6305,4431 6423,4430 6451,4429 6643,4427"/>
                 <TextEquiv>
                     <Unicode>Abg. Doormann (fortſchr. Volksp.) fragt, welche Vorſichts⸗</Unicode>
                 </TextEquiv>
@@ -4923,7 +4923,7 @@ In der Woche vom 10. März bis 16. März 1918 auf Grund der Bundesratsverordnung
             </TextLine>
             <TextLine id="r44l20" custom="readingOrder {index:19;}">
                 <Coords points="5271,4721 5371,4718 5688,4717 6003,4716 6244,4712 6266,4712 6618,4710 6644,4722 6644,4748 6619,4757 6264,4762 5691,4764 5527,4765 5355,4761 5307,4760 5271,4751"/>
-                <Baseline points="5272,4752 5464,4756 5511,4758 5686,4758 5736,4758 5794,4758 5824,4758 5903,4757 5938,4757 6057,4755 6101,4755 6297,4752 6324,4752 6641,4748"/>
+                <Baseline points="5272,4751 5464,4756 5511,4758 5686,4758 5736,4758 5794,4758 5824,4758 5903,4757 5938,4757 6057,4755 6101,4755 6297,4752 6324,4752 6641,4748"/>
                 <TextEquiv>
                     <Unicode>verwaltung getroffen, um eine Flucht feindlicher Kriegsgefangener</Unicode>
                 </TextEquiv>
@@ -5014,7 +5014,7 @@ In der Woche vom 10. März bis 16. März 1918 auf Grund der Bundesratsverordnung
             </TextLine>
             <TextLine id="r44l33" custom="readingOrder {index:32;}">
                 <Coords points="5347,5333 6351,5324 6612,5322 6639,5322 6639,5364 6583,5365 6487,5370 6249,5373 5499,5379 5350,5379"/>
-                <Baseline points="5347,5373 5496,5374 5551,5375 5638,5376 5697,5375 5976,5372 6057,5371 6180,5368 6225,5367 6286,5366 6334,5365 6552,5361 6580,5360 6639,5359"/>
+                <Baseline points="5349,5372 5496,5374 5551,5375 5638,5376 5697,5375 5976,5372 6057,5371 6180,5368 6225,5367 6286,5366 6334,5365 6552,5361 6580,5360 6639,5359"/>
                 <TextEquiv>
                     <Unicode>General von Wrisberg: Gegen den Frageſteller iſt</Unicode>
                 </TextEquiv>
@@ -5042,7 +5042,7 @@ In der Woche vom 10. März bis 16. März 1918 auf Grund der Bundesratsverordnung
             </TextLine>
             <TextLine id="r44l37" custom="readingOrder {index:36;}">
                 <Coords points="5275,5507 5310,5511 5433,5519 6377,5508 6475,5507 6583,5506 6617,5506 6647,5504 6651,5550 6610,5547 6092,5562 5588,5565 5276,5552 5274,5530"/>
-                <Baseline points="5274,5548 5367,5553 5385,5555 5481,5556 5502,5556 5558,5557 5580,5558 5790,5559 5810,5558 5869,5557 5895,5557 6137,5553 6172,5552 6334,5549 6377,5548 6432,5546 6452,5546 6564,5543 6583,5543 6640,5543"/>
+                <Baseline points="5275,5547 5367,5553 5385,5555 5481,5556 5502,5556 5558,5557 5580,5558 5790,5559 5810,5558 5869,5557 5895,5557 6137,5553 6172,5552 6334,5549 6377,5548 6432,5546 6452,5546 6564,5543 6583,5543 6640,5543"/>
                 <TextEquiv>
                     <Unicode>Here unter der Deckadreſſe des Frageſtellers fortſetzte. Es wurde bei</Unicode>
                 </TextEquiv>
@@ -5091,7 +5091,7 @@ In der Woche vom 10. März bis 16. März 1918 auf Grund der Bundesratsverordnung
             </TextLine>
             <TextLine id="r44l44" custom="readingOrder {index:43;}">
                 <Coords points="5276,5828 5558,5838 5775,5840 6370,5827 6433,5827 6587,5822 6641,5834 6644,5865 6433,5875 5954,5884 5603,5888 5302,5875 5276,5866"/>
-                <Baseline points="5275,5864 5601,5880 5622,5879 5662,5879 5683,5878 5741,5878 5762,5877 5814,5877 5832,5876 5990,5874 6012,5873 6102,5872 6120,5871 6246,5869 6268,5868 6474,5865 6495,5865 6641,5858"/>
+                <Baseline points="5276,5864 5601,5880 5622,5879 5662,5879 5683,5878 5741,5878 5762,5877 5814,5877 5832,5876 5990,5874 6012,5873 6102,5872 6120,5871 6246,5869 6268,5868 6474,5865 6495,5865 6641,5858"/>
                 <TextEquiv>
                     <Unicode>Briefüberwachung iſt am 13. Februar 1918 wieder aufgehoben worden.</Unicode>
                 </TextEquiv>
@@ -5133,7 +5133,7 @@ In der Woche vom 10. März bis 16. März 1918 auf Grund der Bundesratsverordnung
             </TextLine>
             <TextLine id="r44l50" custom="readingOrder {index:49;}">
                 <Coords points="5278,6120 5317,6114 5378,6116 5687,6123 6381,6114 6616,6109 6638,6118 6642,6148 6617,6149 6292,6162 5412,6162 5321,6154 5277,6152"/>
-                <Baseline points="5279,6146 5408,6156 5435,6158 5611,6164 5636,6164 5690,6164 5716,6164 5932,6163 5954,6162 6015,6161 6043,6160 6270,6152 6292,6153 6350,6152 6374,6149 6638,6144"/>
+                <Baseline points="5279,6146 5408,6156 5435,6158 5611,6162 5636,6162 5690,6162 5716,6162 5932,6162 5954,6162 6015,6161 6043,6160 6270,6152 6292,6153 6350,6152 6374,6149 6638,6144"/>
                 <TextEquiv>
                     <Unicode>geſtattet nunmehr, die Entlaſſung des Jahrganges 69 durchzuführen.</Unicode>
                 </TextEquiv>
@@ -5147,7 +5147,7 @@ In der Woche vom 10. März bis 16. März 1918 auf Grund der Bundesratsverordnung
             </TextLine>
             <TextLine id="r44l52" custom="readingOrder {index:51;}">
                 <Coords points="5276,6197 5549,6214 5845,6213 6305,6205 6494,6198 6597,6198 6639,6209 6639,6236 6597,6244 6584,6245 5882,6262 5401,6254 5274,6243 5278,6204"/>
-                <Baseline points="5278,6233 5462,6249 5492,6253 5534,6253 5580,6254 5667,6255 5696,6255 5772,6255 5815,6255 6055,6249 6086,6245 6211,6245 6245,6241 6322,6240 6355,6239 6440,6237 6475,6236 6640,6233"/>
+                <Baseline points="5278,6233 5462,6249 5492,6253 5534,6253 5580,6254 5667,6255 5696,6255 5772,6255 5815,6255 6055,6249 6086,6245 6211,6245 6245,6241 6322,6240 6355,6239 6440,6237 6475,6236 6639,6233"/>
                 <TextEquiv>
                     <Unicode>Jahrgangs 70 kann eine Entſcheidung zurzeit noch nicht getroffen</Unicode>
                 </TextEquiv>
@@ -5251,7 +5251,7 @@ boten.</Unicode>
             <Coords points="5264,6538 6659,6534 6659,6659 5264,6659"/>
             <TextLine id="r45l1" custom="readingOrder {index:0;}">
                 <Coords points="5364,6542 5384,6542 5396,6542 6614,6540 6649,6540 6648,6593 6618,6596 5530,6600 5396,6592 5356,6588 5351,6550"/>
-                <Baseline points="5362,6587 5516,6593 5733,6600 5797,6599 5823,6598 6033,6595 6571,6579 6649,6578"/>
+                <Baseline points="5362,6587 5516,6593 5732,6599 5797,6599 5823,6598 6033,6595 6571,6579 6648,6577"/>
                 <TextEquiv>
                     <Unicode>*) Ohne Gewähr, mit Ausnahme der Reden der Miniſter und</Unicode>
                 </TextEquiv>
@@ -5314,7 +5314,7 @@ Staatsſekretäre,</Unicode>
             </TextLine>
             <TextLine id="r46l7" custom="readingOrder {index:6;}">
                 <Coords points="6803,3869 6825,3846 7603,3843 7771,3843 8026,3845 8106,3847 8110,3886 7769,3892 7059,3890 7001,3891 6823,3891 6802,3881"/>
-                <Baseline points="6810,3886 6970,3885 7001,3885 7089,3885 7124,3885 7398,3884 7479,3884 7570,3883 7603,3883 7874,3883 7905,3882 7962,3882 7996,3882 8106,3883"/>
+                <Baseline points="6810,3885 6970,3885 7001,3885 7089,3885 7124,3885 7398,3884 7479,3884 7570,3883 7603,3883 7874,3883 7905,3882 7962,3882 7996,3882 8106,3883"/>
                 <TextEquiv>
                     <Unicode>General von Wrisberg: Eine Verſammlung der Unab⸗</Unicode>
                 </TextEquiv>
@@ -5419,14 +5419,14 @@ Staatsſekretäre,</Unicode>
             </TextLine>
             <TextLine id="r46l22" custom="readingOrder {index:21;}">
                 <Coords points="6718,4560 6819,4559 7254,4556 7772,4556 8108,4561 8113,4602 7923,4604 7475,4607 6982,4609 6973,4609 6720,4611"/>
-                <Baseline points="6718,4601 6845,4601 6871,4601 6982,4600 7011,4600 7052,4600 7079,4600 7226,4598 7254,4598 7400,4598 7430,4597 7524,4597 7553,4597 7772,4595 7828,4595 8108,4596"/>
+                <Baseline points="6719,4600 6845,4601 6871,4601 6982,4600 7011,4600 7052,4600 7079,4600 7226,4598 7254,4598 7400,4598 7430,4597 7524,4597 7553,4597 7772,4595 7828,4595 8108,4596"/>
                 <TextEquiv>
                     <Unicode>erteilt wird, in zweiter Leſung ohne Erörterung angenommen</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r46l23" custom="readingOrder {index:22;}">
                 <Coords points="6720,4619 6779,4611 6845,4610 7216,4607 7975,4604 8106,4604 8109,4651 7937,4656 6976,4661 6845,4661 6720,4656 6719,4623"/>
-                <Baseline points="6719,4652 6811,4652 6834,4652 6976,4651 7010,4651 7128,4650 7164,4649 7251,4650 7289,4650 7332,4649 7366,4649 7501,4648 7536,4648 7685,4647 7737,4647 7937,4646 7975,4646 8106,4646"/>
+                <Baseline points="6719,4651 6811,4652 6834,4652 6976,4651 7010,4651 7128,4650 7164,4649 7251,4650 7289,4650 7332,4649 7366,4649 7501,4648 7536,4648 7685,4647 7737,4647 7937,4646 7975,4646 8106,4646"/>
                 <TextEquiv>
                     <Unicode>und darauf ſofort auch in dritter Leſung endgültig verab⸗</Unicode>
                 </TextEquiv>
@@ -5531,7 +5531,7 @@ Staatsſekretäre,</Unicode>
             </TextLine>
             <TextLine id="r46l38" custom="readingOrder {index:37;}">
                 <Coords points="6709,5354 7714,5347 8084,5347 8097,5376 8105,5385 8087,5389 6892,5397 6711,5400 6708,5375"/>
-                <Baseline points="6709,5394 6904,5392 6955,5391 7079,5389 7132,5388 7209,5388 7259,5387 7356,5387 7403,5386 7666,5385 7714,5385 7964,5384 8002,5383 8097,5383"/>
+                <Baseline points="6710,5393 6904,5392 6955,5391 7079,5389 7132,5388 7209,5388 7259,5387 7356,5387 7403,5386 7666,5385 7714,5385 7964,5384 8002,5383 8097,5383"/>
                 <TextEquiv>
                     <Unicode>ſtaatlichen Lebens nach freier Entſchließung gewährleiſtet wird.</Unicode>
                 </TextEquiv>
@@ -5559,7 +5559,7 @@ Staatsſekretäre,</Unicode>
             </TextLine>
             <TextLine id="r46l42" custom="readingOrder {index:41;}">
                 <Coords points="6713,5539 6737,5535 7889,5525 8049,5526 8101,5529 8104,5569 7981,5574 7889,5571 7101,5578 6924,5580 6710,5581 6709,5563"/>
-                <Baseline points="6709,5578 6775,5576 6831,5575 6901,5574 6956,5574 7130,5572 7187,5571 7376,5569 7403,5569 7458,5569 7511,5568 7609,5568 7666,5567 7887,5566 7955,5565 8095,5564"/>
+                <Baseline points="6709,5577 6775,5576 6831,5575 6901,5574 6956,5574 7130,5572 7187,5571 7376,5569 7403,5569 7458,5569 7511,5568 7609,5568 7666,5567 7887,5566 7955,5565 8095,5564"/>
                 <TextEquiv>
                     <Unicode>den vier Leitſätzen Wilſons für einen allgemeinen Frieden</Unicode>
                 </TextEquiv>
@@ -5720,7 +5720,7 @@ Staatsſekretäre,</Unicode>
             </TextLine>
             <TextLine id="r46l65" custom="readingOrder {index:64;}">
                 <Coords points="6718,6584 6786,6577 7113,6570 8028,6565 8058,6565 8095,6577 8101,6610 8058,6611 6963,6629 6776,6629 6720,6627"/>
-                <Baseline points="6718,6621 6963,6616 7007,6615 7091,6614 7113,6613 7467,6609 7492,6608 7527,6609 7547,6609 7708,6607 7728,6607 7960,6605 7983,6605 8095,6604"/>
+                <Baseline points="6719,6620 6963,6616 7007,6615 7091,6614 7113,6613 7467,6609 7492,6608 7527,6609 7547,6609 7708,6607 7728,6607 7960,6605 7983,6605 8095,6604"/>
                 <TextEquiv>
                     <Unicode>Kaſernenhof. Das Generalkommando in Breslau drangſaliert unſere</Unicode>
                 </TextEquiv>
@@ -5797,7 +5797,7 @@ Kaſernenhof. Das Generalkommando in Breslau drangſaliert unſere</Unicode>
             <Coords points="8189,905 9598,929 9595,6623 8152,6630 8176,2087"/>
             <TextLine id="r47l1" custom="readingOrder {index:0;}">
                 <Coords points="8201,923 8261,923 8811,930 9378,938 9464,934 9537,940 9592,946 9589,983 8269,972 8202,971"/>
-                <Baseline points="8201,964 8261,965 8279,965 8327,966 8353,966 8419,966 8448,967 8498,967 8523,967 8811,970 8838,971 8903,972 8929,972 9019,973 9047,973 9183,975 9214,975 9378,977 9429,977 9485,977 9512,977 9586,978"/>
+                <Baseline points="8201,963 8261,965 8279,965 8327,966 8353,966 8419,966 8448,967 8498,967 8523,967 8811,970 8838,971 8903,972 8929,972 9019,973 9047,973 9183,975 9214,975 9378,977 9429,977 9485,977 9512,977 9586,978"/>
                 <TextEquiv>
                     <Unicode>Partei und die Gewerkſchaften mit einer wahren Wolluſt. Es ver⸗</Unicode>
                 </TextEquiv>
@@ -6329,7 +6329,7 @@ Kaſernenhof. Das Generalkommando in Breslau drangſaliert unſere</Unicode>
             </TextLine>
             <TextLine id="r47l77" custom="readingOrder {index:76;}">
                 <Coords points="8182,4363 8225,4360 8297,4360 9483,4359 9552,4359 9572,4373 9566,4389 9570,4399 9415,4404 9394,4404 8410,4405 8176,4401 8174,4372"/>
-                <Baseline points="8181,4396 8246,4396 8274,4397 8325,4397 8348,4397 8463,4397 8489,4398 8585,4397 8607,4397 8679,4397 8713,4397 8767,4397 8794,4397 8947,4398 8972,4398 9041,4398 9066,4397 9200,4397 9227,4397 9369,4398 9394,4398 9458,4398 9483,4398 9570,4395"/>
+                <Baseline points="8181,4396 8246,4396 8274,4397 8325,4397 8348,4397 8463,4397 8489,4398 8585,4397 8607,4397 8679,4397 8713,4397 8767,4397 8794,4397 8947,4398 8972,4398 9041,4398 9066,4397 9200,4397 9227,4397 9369,4398 9394,4398 9458,4398 9483,4398 9568,4395"/>
                 <TextEquiv>
                     <Unicode>und die übrige Welt will den Frieden, wir fordern deshalb den rück⸗</Unicode>
                 </TextEquiv>
@@ -6406,7 +6406,7 @@ Kaſernenhof. Das Generalkommando in Breslau drangſaliert unſere</Unicode>
             </TextLine>
             <TextLine id="r47l88" custom="readingOrder {index:87;}">
                 <Coords points="8178,4859 8235,4856 8782,4856 9539,4854 9563,4867 9563,4891 9538,4893 9258,4899 8782,4902 8597,4902 8482,4900 8236,4900 8174,4896 8175,4859"/>
-                <Baseline points="8178,4891 8196,4891 8235,4892 8438,4894 8482,4894 8532,4894 8569,4894 8782,4894 8820,4894 8884,4894 8922,4894 9168,4893 9209,4893 9377,4892 9414,4892 9564,4891"/>
+                <Baseline points="8178,4891 8196,4891 8235,4892 8438,4894 8482,4894 8532,4894 8569,4894 8782,4894 8820,4894 8884,4894 8922,4894 9168,4893 9209,4893 9377,4892 9414,4892 9563,4891"/>
                 <TextEquiv>
                     <Unicode>6 Milliarden für Verzinſung und Amortiſation erfordern würden.</Unicode>
                 </TextEquiv>
@@ -6602,7 +6602,7 @@ Kaſernenhof. Das Generalkommando in Breslau drangſaliert unſere</Unicode>
             </TextLine>
             <TextLine id="r47l116" custom="readingOrder {index:115;}">
                 <Coords points="8171,6128 8197,6118 9010,6115 9307,6113 9478,6115 9571,6121 9571,6155 9531,6156 9482,6160 9046,6159 8173,6159"/>
-                <Baseline points="8171,6155 8314,6156 8341,6156 8402,6155 8430,6155 8582,6155 8610,6155 8651,6155 8680,6155 8734,6155 8766,6155 8980,6153 9012,6153 9304,6153 9331,6153 9391,6153 9420,6153 9566,6153"/>
+                <Baseline points="8172,6154 8314,6156 8341,6156 8402,6155 8430,6155 8582,6155 8610,6155 8651,6155 8680,6155 8734,6155 8766,6155 8980,6153 9012,6153 9304,6153 9331,6153 9391,6153 9420,6153 9566,6153"/>
                 <TextEquiv>
                     <Unicode>werden, das erinnert an die ſchlimmſten Machenſchaften des Wiener</Unicode>
                 </TextEquiv>

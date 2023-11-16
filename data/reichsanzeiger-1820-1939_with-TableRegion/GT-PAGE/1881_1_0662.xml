@@ -1,24 +1,24 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
     <Metadata>
         <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.7.3:model_id=40804:lm=none:date=07_07_2022_16:12
 prov=READ-COOP:name=PyLaia@Transkribus:version=0.7.3:model_id=40804:date=07_07_2022_16:12
 Transkribus</Creator>
         <Created>2021-12-14T11:49:51.515+01:00</Created>
-        <LastChange>2022-12-07T16:07:27.740+01:00</LastChange>
+        <LastChange>2023-11-15T20:45:48.189+01:00</LastChange>
         <Comments>
                 Measurement unit: pixel
                 PrimaryLanguage: 
                 Producer: Transkribus
             </Comments>
-        <TranskribusMetadata docId="921581" pageId="35138880" pageNr="1" tsid="105747802" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=NZBUNXKBEWJEBRMLVFDRSVFP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XPMFSKJWUIUTCRWNHOYHLYKZ" imageId="28254072"/>
+        <TranskribusMetadata docId="921581" pageId="35138880" pageNr="1" tsid="139840517" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=NZBUNXKBEWJEBRMLVFDRSVFP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WXEHJWOIZKNPPWKFSQROSRIZ" imageId="28254072"/>
     </Metadata>
     <Page imageFilename="1881_1_0662.jpg" imageWidth="10056" imageHeight="7120">
         <PrintSpace>
             <Coords points="370,358 9717,356 9700,6799 340,6802"/>
         </PrintSpace>
         <ReadingOrder>
-            <OrderedGroup id="ro_1690360006969" caption="Regions reading order">
+            <OrderedGroup id="ro_1700129733857" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
                 <RegionRefIndexed index="1" regionRef="r2"/>
                 <RegionRefIndexed index="2" regionRef="r3"/>
@@ -285,7 +285,7 @@ Waarenproben dürfen 20 Centimeter in der Länge, 10 Centimeter in der Breite un
             </TextLine>
             <TextLine id="r3l14" custom="readingOrder {index:13;}">
                 <Coords points="2766,1396 2803,1396 3072,1397 3997,1402 4022,1413 4022,1438 3710,1445 3686,1445 2851,1440 2766,1429"/>
-                <Baseline points="2766,1430 2825,1430 2851,1430 3119,1431 3143,1431 3266,1432 3292,1432 3382,1432 3409,1432 3616,1434 3641,1435 3840,1436 3866,1436 4022,1437"/>
+                <Baseline points="2766,1429 2825,1430 2851,1430 3119,1431 3143,1431 3266,1432 3292,1432 3382,1432 3409,1432 3616,1434 3641,1435 3840,1436 3866,1436 4022,1437"/>
                 <TextEquiv>
                     <Unicode>die gewöhnlichen Briefe auch unfrankirt abgesandt werden.</Unicode>
                 </TextEquiv>
@@ -347,7 +347,7 @@ die gewöhnlichen Briefe auch unfrankirt abgesandt werden.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 2 6 8</CornerPts>
             </TableCell>
@@ -361,7 +361,7 @@ die gewöhnlichen Briefe auch unfrankirt abgesandt werden.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -375,7 +375,7 @@ die gewöhnlichen Briefe auch unfrankirt abgesandt werden.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -389,7 +389,7 @@ die gewöhnlichen Briefe auch unfrankirt abgesandt werden.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -397,13 +397,13 @@ die gewöhnlichen Briefe auch unfrankirt abgesandt werden.
                 <Coords points="657,1778 656,1816 1412,1816 1807,1816 1807,1778 1412,1778"/>
                 <TextLine id="TableCell_1642589835788_793l0" custom="readingOrder {index:0;}">
                     <Coords points="1420,1788 1476,1779 1638,1779 1658,1776 1662,1777 1664,1815 1446,1813 1420,1813"/>
-                    <Baseline points="1420,1812 1664,1812"/>
+                    <Baseline points="1420,1812 1663,1812"/>
                     <TextEquiv>
                         <Unicode>unfrankirt</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -417,7 +417,7 @@ die gewöhnlichen Briefe auch unfrankirt abgesandt werden.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -431,7 +431,7 @@ die gewöhnlichen Briefe auch unfrankirt abgesandt werden.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -445,7 +445,7 @@ die gewöhnlichen Briefe auch unfrankirt abgesandt werden.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 5 6</CornerPts>
             </TableCell>
@@ -459,7 +459,7 @@ die gewöhnlichen Briefe auch unfrankirt abgesandt werden.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -473,7 +473,7 @@ die gewöhnlichen Briefe auch unfrankirt abgesandt werden.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -487,7 +487,7 @@ die gewöhnlichen Briefe auch unfrankirt abgesandt werden.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -495,13 +495,13 @@ die gewöhnlichen Briefe auch unfrankirt abgesandt werden.
                 <Coords points="654,1916 654,1957 1412,1957 1808,1954 1807,1912 1411,1911"/>
                 <TextLine id="TableCell_1642589806417_781l0" custom="readingOrder {index:0;}">
                     <Coords points="1421,1924 1477,1915 1574,1914 1600,1914 1641,1915 1660,1916 1660,1948 1472,1949 1421,1949"/>
-                    <Baseline points="1421,1949 1660,1949"/>
+                    <Baseline points="1421,1949 1659,1948"/>
                     <TextEquiv>
                         <Unicode>unfrankirt</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -515,7 +515,7 @@ die gewöhnlichen Briefe auch unfrankirt abgesandt werden.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -529,7 +529,7 @@ die gewöhnlichen Briefe auch unfrankirt abgesandt werden.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -543,7 +543,7 @@ die gewöhnlichen Briefe auch unfrankirt abgesandt werden.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -557,7 +557,7 @@ die gewöhnlichen Briefe auch unfrankirt abgesandt werden.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -571,7 +571,7 @@ die gewöhnlichen Briefe auch unfrankirt abgesandt werden.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -579,13 +579,13 @@ die gewöhnlichen Briefe auch unfrankirt abgesandt werden.
                 <Coords points="653,2007 652,2055 1412,2055 1807,2055 1807,2000 1410,2002"/>
                 <TextLine id="TableCell_1642587644031_611l0" custom="readingOrder {index:0;}">
                     <Coords points="710,2014 919,2010 1177,2007 1533,2004 1736,2004 1775,2006 1775,2040 1126,2055 889,2055 710,2049"/>
-                    <Baseline points="709,2051 775,2049 792,2048 1104,2041 1130,2041 1220,2040 1243,2040 1515,2039 1533,2039 1775,2040"/>
+                    <Baseline points="710,2049 775,2049 792,2048 1104,2041 1130,2041 1220,2040 1243,2040 1515,2039 1533,2039 1775,2040"/>
                     <TextEquiv>
                         <Unicode>für Postkarten mit bezahlter Antwort</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -599,7 +599,7 @@ die gewöhnlichen Briefe auch unfrankirt abgesandt werden.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -613,7 +613,7 @@ die gewöhnlichen Briefe auch unfrankirt abgesandt werden.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -634,7 +634,7 @@ die gewöhnlichen Briefe auch unfrankirt abgesandt werden.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 2 4 6</CornerPts>
             </TableCell>
@@ -648,7 +648,7 @@ die gewöhnlichen Briefe auch unfrankirt abgesandt werden.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 2 3 5</CornerPts>
             </TableCell>
@@ -662,7 +662,7 @@ die gewöhnlichen Briefe auch unfrankirt abgesandt werden.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 2 3 5</CornerPts>
             </TableCell>
@@ -670,13 +670,13 @@ die gewöhnlichen Briefe auch unfrankirt abgesandt werden.
                 <Coords points="652,2137 652,2185 1412,2185 1807,2185 1807,2137 1412,2137"/>
                 <TextLine id="TableCell_1642587666305_626l0" custom="readingOrder {index:0;}">
                     <Coords points="923,2158 1093,2145 1280,2143 1535,2143 1568,2146 1683,2148 1681,2185 1383,2185 923,2182"/>
-                    <Baseline points="923,2182 1004,2180 1029,2180 1144,2178 1168,2178 1229,2178 1280,2178 1331,2177 1383,2181 1403,2181 1484,2177 1566,2176 1662,2182 1682,2182"/>
+                    <Baseline points="923,2182 1004,2180 1029,2180 1144,2178 1168,2178 1229,2178 1280,2178 1331,2177 1383,2181 1403,2181 1484,2177 1566,2176 1662,2182 1681,2181"/>
                     <TextEquiv>
                         <Unicode>von mehr als 50 „ 250 „</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -690,7 +690,7 @@ die gewöhnlichen Briefe auch unfrankirt abgesandt werden.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -704,7 +704,7 @@ die gewöhnlichen Briefe auch unfrankirt abgesandt werden.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -718,7 +718,7 @@ die gewöhnlichen Briefe auch unfrankirt abgesandt werden.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 5 6</CornerPts>
             </TableCell>
@@ -732,7 +732,7 @@ die gewöhnlichen Briefe auch unfrankirt abgesandt werden.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -746,7 +746,7 @@ die gewöhnlichen Briefe auch unfrankirt abgesandt werden.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -760,7 +760,7 @@ die gewöhnlichen Briefe auch unfrankirt abgesandt werden.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 4 5</CornerPts>
             </TableCell>
@@ -774,7 +774,7 @@ die gewöhnlichen Briefe auch unfrankirt abgesandt werden.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -788,7 +788,7 @@ die gewöhnlichen Briefe auch unfrankirt abgesandt werden.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -796,7 +796,7 @@ die gewöhnlichen Briefe auch unfrankirt abgesandt werden.
                 <Coords points="652,2285 652,2317 652,2363 1412,2363 1785,2363 1807,2362 1807,2317 1807,2285 1412,2285 1137,2279"/>
                 <TextLine id="TableCell_1642587689082_641l0" custom="readingOrder {index:0;}">
                     <Coords points="709,2291 802,2288 1131,2281 1155,2281 1225,2291 1225,2314 1053,2327 1027,2327 709,2325"/>
-                    <Baseline points="709,2325 777,2323 802,2323 1224,2319"/>
+                    <Baseline points="709,2325 777,2323 802,2323 1223,2314"/>
                     <TextEquiv>
                         <Unicode>für Waarenproben</Unicode>
                     </TextEquiv>
@@ -809,7 +809,7 @@ die gewöhnlichen Briefe auch unfrankirt abgesandt werden.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 2 5 7</CornerPts>
             </TableCell>
@@ -823,7 +823,7 @@ die gewöhnlichen Briefe auch unfrankirt abgesandt werden.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 2 5 7</CornerPts>
             </TableCell>
@@ -837,7 +837,7 @@ die gewöhnlichen Briefe auch unfrankirt abgesandt werden.
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 2 3 5</CornerPts>
             </TableCell>
@@ -951,21 +951,21 @@ wird die Gebühr stets vom Empfänger eingezogen.</Unicode>
             </TextLine>
             <TextLine id="r7l2" custom="readingOrder {index:1;}">
                 <Coords points="710,3035 1084,3022 1758,3020 1797,3020 1911,3019 1909,3036 1910,3058 922,3069 710,3069"/>
-                <Baseline points="707,3063 912,3065 943,3068 1427,3060 1520,3059 1583,3059 1760,3063 1807,3059 1876,3061 1911,3062"/>
+                <Baseline points="710,3063 912,3065 943,3068 1427,3060 1520,3059 1583,3059 1759,3059 1807,3059 1875,3058 1910,3058"/>
                 <TextEquiv>
                     <Unicode>frankirte Briefe 20 ₰ für je</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r7l3" custom="readingOrder {index:2;}">
                 <Coords points="702,3074 830,3072 1551,3065 1666,3063 1950,3078 1957,3109 1560,3107 893,3116 701,3117 702,3086"/>
-                <Baseline points="709,3116 970,3108 993,3107 1412,3101 1520,3100 1586,3099 1625,3100 1671,3100 1698,3100 1959,3107"/>
+                <Baseline points="709,3116 970,3108 993,3107 1412,3101 1520,3100 1586,3099 1625,3100 1671,3100 1698,3100 1956,3107"/>
                 <TextEquiv>
                     <Unicode>unfrankirte Briefe 40 „ 15 Gramm.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r7l4" custom="readingOrder {index:3;}">
                 <Coords points="708,3127 813,3123 906,3123 946,3124 1003,3119 1651,3108 1657,3144 790,3159 740,3160 708,3160"/>
-                <Baseline points="711,3159 1670,3151"/>
+                <Baseline points="711,3159 1657,3144"/>
                 <TextEquiv>
                     <Unicode>Postkarten 10 „</Unicode>
                 </TextEquiv>
@@ -1021,7 +1021,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1035,7 +1035,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1049,7 +1049,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1067,7 +1067,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1116,7 +1116,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 2 3 5</CornerPts>
             </TableCell>
@@ -1137,7 +1137,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1151,7 +1151,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1176,7 +1176,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1212,7 +1212,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                 </TextLine>
                 <TextLine id="TableCell_1642591465968_1213l4" custom="readingOrder {index:4;}">
                     <Coords points="1370,4008 1407,3997 1417,3997 1649,3998 1769,3999 1858,4000 1885,4002 1954,4012 1970,4018 1970,4026 1954,4036 1715,4040 1666,4040 1370,4032"/>
-                    <Baseline points="1370,4031 1592,4032 1608,4032 1649,4033 1666,4033 1715,4033 1742,4033 1816,4034 1829,4034 1970,4033"/>
+                    <Baseline points="1370,4031 1592,4032 1608,4032 1649,4033 1666,4033 1715,4033 1742,4033 1816,4034 1829,4034 1966,4027"/>
                     <TextEquiv>
                         <Unicode>mindestens 10 ₰. Für Eilsen-</Unicode>
                     </TextEquiv>
@@ -1232,7 +1232,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1246,7 +1246,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1260,7 +1260,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1274,7 +1274,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1292,7 +1292,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1310,7 +1310,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1338,7 +1338,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1352,7 +1352,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1381,7 +1381,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                 </TextLine>
                 <TextLine id="TableCell_1642591466463_1243l3" custom="readingOrder {index:3;}">
                     <Coords points="1371,4546 1627,4546 1905,4548 1949,4558 1966,4566 1966,4573 1949,4583 1525,4587 1519,4587 1371,4580"/>
-                    <Baseline points="1371,4579 1525,4579 1555,4579 1837,4582 1861,4582 1966,4583"/>
+                    <Baseline points="1371,4579 1525,4579 1555,4579 1837,4582 1861,4582 1961,4575"/>
                     <TextEquiv>
                         <Unicode>Gramm, Tabackmuster über-</Unicode>
                     </TextEquiv>
@@ -1394,7 +1394,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1408,7 +1408,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1436,7 +1436,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 2 3 5</CornerPts>
             </TableCell>
@@ -1450,7 +1450,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1464,7 +1464,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1482,7 +1482,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1531,7 +1531,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1545,7 +1545,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1559,7 +1559,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1573,7 +1573,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1587,7 +1587,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1601,7 +1601,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1616,13 +1616,13 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                 </TextLine>
                 <TextLine id="TableCell_1642591467135_1285l1" custom="readingOrder {index:1;}">
                     <Coords points="1371,5226 1614,5226 1850,5227 1892,5229 1952,5233 1968,5246 1968,5254 1952,5263 1758,5266 1607,5266 1371,5260"/>
-                    <Baseline points="1371,5259 1444,5259 1467,5260 1734,5261 1758,5261 1850,5262 1865,5262 1969,5265"/>
+                    <Baseline points="1371,5259 1444,5259 1467,5260 1734,5261 1758,5261 1850,5262 1865,5262 1964,5256"/>
                     <TextEquiv>
                         <Unicode>Für Eilsendungen nach Post-</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1636,7 +1636,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1650,7 +1650,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1664,7 +1664,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1685,7 +1685,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1699,7 +1699,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1707,7 +1707,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                 <Coords points="1281,5401 1281,5667 1977,5677 1975,5401"/>
                 <TextLine id="TableCell_1642591467416_1303l0" custom="readingOrder {index:0;}">
                     <Coords points="1297,5404 1445,5402 1460,5402 1902,5407 1968,5410 1968,5450 1915,5450 1343,5449 1297,5440"/>
-                    <Baseline points="1295,5442 1357,5441 1373,5441 1592,5441 1604,5441 1669,5441 1677,5441 1843,5443 1857,5443 1902,5443 1915,5443 1968,5444"/>
+                    <Baseline points="1297,5440 1357,5441 1373,5441 1592,5441 1604,5441 1669,5441 1677,5441 1843,5443 1857,5443 1902,5443 1915,5443 1968,5444"/>
                     <TextEquiv>
                         <Unicode>18) Postkarten mit Antwort 20 ₰.</Unicode>
                     </TextEquiv>
@@ -1748,7 +1748,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1762,7 +1762,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1770,7 +1770,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                 <Coords points="1281,5667 1281,5807 1975,5807 1977,5677"/>
                 <TextLine id="TableCell_1642591467510_1309l0" custom="readingOrder {index:0;}">
                     <Coords points="1298,5676 1319,5675 1593,5673 1614,5673 1955,5679 1971,5697 1971,5704 1955,5715 1591,5721 1343,5721 1298,5711"/>
-                    <Baseline points="1298,5711 1359,5712 1373,5712 1649,5712 1669,5712 1726,5712 1742,5712 1970,5713"/>
+                    <Baseline points="1298,5711 1359,5712 1373,5712 1649,5712 1669,5712 1726,5712 1742,5712 1966,5707"/>
                     <TextEquiv>
                         <Unicode>19) Eilbestellgeld für Einschreib-</Unicode>
                     </TextEquiv>
@@ -1790,7 +1790,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1804,7 +1804,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1853,7 +1853,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1867,7 +1867,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1882,14 +1882,14 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                 </TextLine>
                 <TextLine id="TableCell_1642592167599_1430l1" custom="readingOrder {index:1;}">
                     <Coords points="1377,6130 1558,6128 1731,6127 1780,6127 1902,6128 1975,6137 1975,6163 1929,6171 1616,6171 1377,6165"/>
-                    <Baseline points="1377,6165 1549,6162 1558,6162 1672,6162 1683,6162 1985,6170"/>
+                    <Baseline points="1377,6165 1549,6162 1558,6162 1672,6162 1683,6162 1975,6163"/>
                     <TextEquiv>
                         <Unicode>Constantinopel und denjenigen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="TableCell_1642592167599_1430l2" custom="readingOrder {index:2;}">
                     <Coords points="1377,6175 1511,6174 1649,6173 1802,6173 1939,6174 1965,6182 1976,6198 1976,6208 1499,6216 1398,6216 1377,6210"/>
-                    <Baseline points="1377,6210 1980,6211"/>
+                    <Baseline points="1377,6210 1976,6208"/>
                     <TextEquiv>
                         <Unicode>Orten, in welchen sich Oesterr.</Unicode>
                     </TextEquiv>
@@ -1902,7 +1902,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 3 4 7</CornerPts>
             </TableCell>
@@ -1916,7 +1916,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1930,7 +1930,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1944,7 +1944,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1958,7 +1958,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1972,7 +1972,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1990,7 +1990,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2018,7 +2018,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 3 4 7</CornerPts>
             </TableCell>
@@ -2032,7 +2032,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2046,7 +2046,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2067,7 +2067,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2088,7 +2088,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2102,7 +2102,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2116,7 +2116,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2197,7 +2197,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2218,7 +2218,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2232,7 +2232,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2250,7 +2250,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2268,7 +2268,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2276,13 +2276,13 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                 <Coords points="2727,2211 2727,2258 3446,2260 3446,2217"/>
                 <TextLine id="TableCell_1642593431617_1924l0" custom="readingOrder {index:0;}">
                     <Coords points="2812,2211 3444,2218 3446,2258 2756,2252 2756,2217"/>
-                    <Baseline points="2766,2254 3440,2253"/>
+                    <Baseline points="2766,2252 3440,2253"/>
                     <TextEquiv>
                         <Unicode>33) Zw. †. über Brindisi u. Bombay.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2296,7 +2296,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2314,7 +2314,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2332,7 +2332,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2360,7 +2360,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 4 5</CornerPts>
             </TableCell>
@@ -2374,7 +2374,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2388,7 +2388,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2402,7 +2402,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2416,7 +2416,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2444,7 +2444,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -2479,7 +2479,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 4 5</CornerPts>
             </TableCell>
@@ -2500,7 +2500,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -2514,7 +2514,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -2528,7 +2528,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2546,7 +2546,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2571,7 +2571,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2592,7 +2592,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2606,7 +2606,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2634,7 +2634,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2648,7 +2648,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2662,7 +2662,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2676,7 +2676,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2690,7 +2690,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2732,7 +2732,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2740,7 +2740,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                 <Coords points="2731,3517 2732,3744 3444,3753 3444,3517"/>
                 <TextLine id="TableCell_1642593433539_2020l0" custom="readingOrder {index:0;}">
                     <Coords points="2735,3521 2837,3517 2999,3517 3437,3523 3437,3559 2924,3569 2863,3561 2738,3573"/>
-                    <Baseline points="2735,3556 2824,3557 2846,3557 2941,3556 2966,3556 3099,3556 3115,3557 3200,3558 3209,3558 3437,3559"/>
+                    <Baseline points="2737,3555 2824,3557 2846,3557 2941,3556 2966,3556 3099,3556 3115,3557 3200,3558 3209,3558 3437,3559"/>
                     <TextEquiv>
                         <Unicode>48) Ueber Italien oder Frankreich.</Unicode>
                     </TextEquiv>
@@ -2753,7 +2753,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2767,7 +2767,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2781,7 +2781,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2796,7 +2796,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                 </TextLine>
                 <TextLine id="TableCell_1642593767616_2244l1" custom="readingOrder {index:1;}">
                     <Coords points="2168,3842 2187,3842 2536,3843 3369,3848 3426,3860 3426,3891 3339,3892 3251,3892 2918,3890 2753,3889 2212,3885 2168,3875"/>
-                    <Baseline points="2165,3875 2376,3878 2420,3878 2488,3878 2521,3878 2616,3879 2641,3879 2863,3881 2901,3882 3109,3882 3155,3882 3426,3883"/>
+                    <Baseline points="2168,3875 2376,3878 2420,3878 2488,3878 2521,3878 2616,3879 2641,3879 2863,3881 2901,3882 3109,3882 3155,3882 3426,3883"/>
                     <TextEquiv>
                         <Unicode>Seychellen und Insel Rodriguez, Goldküste, Senegambien,</Unicode>
                     </TextEquiv>
@@ -2809,7 +2809,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -2837,7 +2837,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -2852,7 +2852,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                 </TextLine>
                 <TextLine id="TableCell_1642593791194_2254l1" custom="readingOrder {index:1;}">
                     <Coords points="2166,4119 2307,4118 2471,4118 3437,4120 3437,4134 3425,4161 3391,4167 3250,4167 2217,4161 2166,4153"/>
-                    <Baseline points="2166,4153 2431,4152 2455,4152 2590,4153 2617,4153 2795,4155 2830,4155 3093,4156 3118,4156 3216,4157 3250,4157 3434,4159"/>
+                    <Baseline points="2166,4153 2431,4152 2455,4152 2590,4153 2617,4153 2795,4155 2830,4155 3093,4156 3118,4156 3216,4157 3250,4157 3427,4155"/>
                     <TextEquiv>
                         <Unicode>Capverdische Inseln, Madeira, Mozambique, Insel Principe,</Unicode>
                     </TextEquiv>
@@ -2865,7 +2865,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -2886,7 +2886,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -2900,7 +2900,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2912,13 +2912,13 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                 <Coords points="2026,4416 2026,4463 2727,4463 2731,4412"/>
                 <TextLine id="TableCell_1642593434305_2064l0" custom="readingOrder {index:0;}">
                     <Coords points="2031,4420 2078,4418 2091,4418 2351,4419 2589,4420 2630,4448 2630,4456 2503,4463 2078,4463 2031,4454"/>
-                    <Baseline points="2027,4454 2087,4454 2114,4454 2385,4454 2413,4454 2608,4455"/>
+                    <Baseline points="2031,4454 2087,4454 2114,4454 2385,4454 2413,4454 2608,4455"/>
                     <TextEquiv>
                         <Unicode>54) Argentinische Republik</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2932,7 +2932,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2946,7 +2946,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2964,7 +2964,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2976,7 +2976,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                 <Coords points="2026,4556 2026,4645 2727,4645 2727,4556"/>
                 <TextLine id="TableCell_1642593434633_2082l0" custom="readingOrder {index:0;}">
                     <Coords points="2032,4556 2727,4556 2727,4591 2613,4601 2589,4601 2077,4599 2032,4590"/>
-                    <Baseline points="2032,4590 2092,4590 2118,4590 2222,4590 2286,4590 2408,4591 2431,4591 2613,4591 2655,4591 2720,4594"/>
+                    <Baseline points="2032,4590 2092,4590 2118,4590 2222,4590 2286,4590 2408,4591 2431,4591 2613,4591 2655,4591 2719,4591"/>
                     <TextEquiv>
                         <Unicode>57) Chili. Ueber Hamburg und</Unicode>
                     </TextEquiv>
@@ -2989,7 +2989,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3003,7 +3003,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3017,7 +3017,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3029,13 +3029,13 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                 <Coords points="2026,4683 2026,4735 2727,4740 2727,4688"/>
                 <TextLine id="TableCell_1642593434851_2094l0" custom="readingOrder {index:0;}">
                     <Coords points="2031,4692 2277,4691 2297,4691 2297,4726 2100,4735 2074,4735 2031,4726"/>
-                    <Baseline points="2031,4726 2091,4727 2115,4729 2296,4732"/>
+                    <Baseline points="2031,4726 2091,4727 2115,4729 2295,4726"/>
                     <TextEquiv>
                         <Unicode>59) Grönland</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3049,7 +3049,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3063,7 +3063,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3081,7 +3081,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3099,7 +3099,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3117,7 +3117,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3135,7 +3135,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3153,7 +3153,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3171,7 +3171,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3189,7 +3189,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3228,7 +3228,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -3242,7 +3242,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -3270,7 +3270,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -3298,7 +3298,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -3312,7 +3312,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -3326,7 +3326,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3358,7 +3358,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -3379,7 +3379,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -3393,7 +3393,7 @@ Einschreibgebühr 20 ₰, Rückscheingebühr 20 ₰.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -3492,7 +3492,7 @@ Ausnahmen hiervon sind in den Bemerkungen angegeben.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3506,7 +3506,7 @@ Ausnahmen hiervon sind in den Bemerkungen angegeben.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3520,7 +3520,7 @@ Ausnahmen hiervon sind in den Bemerkungen angegeben.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3559,7 +3559,7 @@ Ausnahmen hiervon sind in den Bemerkungen angegeben.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3629,7 +3629,7 @@ Ausnahmen hiervon sind in den Bemerkungen angegeben.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 3 4 7</CornerPts>
             </TableCell>
@@ -3643,7 +3643,7 @@ Ausnahmen hiervon sind in den Bemerkungen angegeben.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3657,7 +3657,7 @@ Ausnahmen hiervon sind in den Bemerkungen angegeben.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3671,7 +3671,7 @@ Ausnahmen hiervon sind in den Bemerkungen angegeben.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3679,13 +3679,13 @@ Ausnahmen hiervon sind in den Bemerkungen angegeben.</Unicode>
                 <Coords points="4191,2099 4191,2153 4912,2152 4912,2104"/>
                 <TextLine id="line_1669724248548_126" custom="readingOrder {index:0;}">
                     <Coords points="4223,2108 4397,2106 4397,2145 4223,2148"/>
-                    <Baseline points="4228,2148 4397,2145"/>
+                    <Baseline points="4227,2147 4397,2145"/>
                     <TextEquiv>
                         <Unicode>78) Zw.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3699,7 +3699,7 @@ Ausnahmen hiervon sind in den Bemerkungen angegeben.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3720,7 +3720,7 @@ Ausnahmen hiervon sind in den Bemerkungen angegeben.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -3755,7 +3755,7 @@ Ausnahmen hiervon sind in den Bemerkungen angegeben.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3783,7 +3783,7 @@ Ausnahmen hiervon sind in den Bemerkungen angegeben.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3797,7 +3797,7 @@ Ausnahmen hiervon sind in den Bemerkungen angegeben.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3811,7 +3811,7 @@ Ausnahmen hiervon sind in den Bemerkungen angegeben.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3846,7 +3846,7 @@ Ausnahmen hiervon sind in den Bemerkungen angegeben.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3860,7 +3860,7 @@ Ausnahmen hiervon sind in den Bemerkungen angegeben.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3916,7 +3916,7 @@ Ausnahmen hiervon sind in den Bemerkungen angegeben.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3930,7 +3930,7 @@ Ausnahmen hiervon sind in den Bemerkungen angegeben.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3944,7 +3944,7 @@ Ausnahmen hiervon sind in den Bemerkungen angegeben.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3990,7 +3990,7 @@ Ausnahmen hiervon sind in den Bemerkungen angegeben.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 2 3 4</CornerPts>
             </TableCell>
@@ -4046,7 +4046,7 @@ Ausnahmen hiervon sind in den Bemerkungen angegeben.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4074,7 +4074,7 @@ Ausnahmen hiervon sind in den Bemerkungen angegeben.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4102,7 +4102,7 @@ Ausnahmen hiervon sind in den Bemerkungen angegeben.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4137,7 +4137,7 @@ Ausnahmen hiervon sind in den Bemerkungen angegeben.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4172,7 +4172,7 @@ Ausnahmen hiervon sind in den Bemerkungen angegeben.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4186,7 +4186,7 @@ Ausnahmen hiervon sind in den Bemerkungen angegeben.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4200,7 +4200,7 @@ Ausnahmen hiervon sind in den Bemerkungen angegeben.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4214,7 +4214,7 @@ Ausnahmen hiervon sind in den Bemerkungen angegeben.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 2 3 4</CornerPts>
             </TableCell>
@@ -4228,7 +4228,7 @@ Ausnahmen hiervon sind in den Bemerkungen angegeben.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4256,7 +4256,7 @@ Ausnahmen hiervon sind in den Bemerkungen angegeben.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4284,7 +4284,7 @@ Ausnahmen hiervon sind in den Bemerkungen angegeben.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4298,7 +4298,7 @@ Ausnahmen hiervon sind in den Bemerkungen angegeben.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4312,7 +4312,7 @@ Ausnahmen hiervon sind in den Bemerkungen angegeben.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4347,7 +4347,7 @@ Ausnahmen hiervon sind in den Bemerkungen angegeben.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4375,7 +4375,7 @@ Ausnahmen hiervon sind in den Bemerkungen angegeben.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4438,7 +4438,7 @@ Ausnahmen hiervon sind in den Bemerkungen angegeben.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4452,7 +4452,7 @@ Ausnahmen hiervon sind in den Bemerkungen angegeben.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4550,7 +4550,7 @@ Ausnahmen hiervon sind in den Bemerkungen angegeben.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4631,7 +4631,7 @@ Ausnahmen hiervon sind in den Bemerkungen angegeben.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 2 3 4</CornerPts>
             </TableCell>
@@ -4778,7 +4778,7 @@ Ausnahmen hiervon sind in den Bemerkungen angegeben.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4793,7 +4793,7 @@ Ausnahmen hiervon sind in den Bemerkungen angegeben.</Unicode>
                 </TextLine>
                 <TextLine id="TableCell_1642595032110_2772l1" custom="readingOrder {index:1;}">
                     <Coords points="3584,5787 3656,5775 3804,5774 3910,5774 4076,5776 4141,5777 4157,5794 4158,5804 4142,5814 4055,5812 3584,5811"/>
-                    <Baseline points="3582,5813 3615,5813 3630,5812 3716,5811 3752,5810 3908,5811 3951,5811 4018,5813 4053,5813 4155,5802"/>
+                    <Baseline points="3584,5811 3615,5811 3630,5811 3716,5811 3752,5810 3908,5811 3951,5811 4018,5811 4053,5811 4155,5802"/>
                     <TextEquiv>
                         <Unicode>a. über Brindisi mit briti-</Unicode>
                     </TextEquiv>
@@ -4820,7 +4820,7 @@ Ausnahmen hiervon sind in den Bemerkungen angegeben.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4862,7 +4862,7 @@ Ausnahmen hiervon sind in den Bemerkungen angegeben.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4897,7 +4897,7 @@ Ausnahmen hiervon sind in den Bemerkungen angegeben.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 2 3 4</CornerPts>
             </TableCell>
@@ -4925,7 +4925,7 @@ Ausnahmen hiervon sind in den Bemerkungen angegeben.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4946,7 +4946,7 @@ Ausnahmen hiervon sind in den Bemerkungen angegeben.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4968,13 +4968,13 @@ Ausnahmen hiervon sind in den Bemerkungen angegeben.</Unicode>
                 </TextLine>
                 <TextLine id="TableCell_1642595032329_2782l2" custom="readingOrder {index:2;}">
                     <Coords points="4282,6221 4537,6223 4557,6235 4557,6267 4280,6264 4280,6220"/>
-                    <Baseline points="4275,6262 4594,6264"/>
+                    <Baseline points="4280,6262 4557,6264"/>
                     <TextEquiv>
                         <Unicode>Ermässigung.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5030,7 +5030,7 @@ Ausnahmen hiervon sind in den Bemerkungen angegeben.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5086,7 +5086,7 @@ Ausnahmen hiervon sind in den Bemerkungen angegeben.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5190,7 +5190,7 @@ trägt 20 ₰.</Unicode>
             </TextLine>
             <TextLine id="r12l4" custom="readingOrder {index:3;}">
                 <Coords points="7410,790 7410,756 7536,755 7594,755 8495,763 8613,766 9546,794 9546,807 9543,834 9436,833 9416,833 8592,827"/>
-                <Baseline points="7415,785 8768,808 8874,810 8887,811 9035,814 9054,815 9098,816 9112,816 9283,820 9296,821 9358,822 9407,824 9549,817"/>
+                <Baseline points="7415,785 8768,808 8874,810 8887,811 9035,814 9054,815 9098,816 9112,816 9283,820 9296,821 9358,822 9407,824 9544,816"/>
                 <TextEquiv>
                     <Unicode>Schweden. Dergleichen Briefe müssen den Vermerk „durch Eilboten“ (nach Belgien „à remettre par exprès“)</Unicode>
                 </TextEquiv>
@@ -5252,7 +5252,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 2 3 5</CornerPts>
             </TableCell>
@@ -5294,7 +5294,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 2 3 5</CornerPts>
             </TableCell>
@@ -5315,7 +5315,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 4 5</CornerPts>
             </TableCell>
@@ -5329,7 +5329,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 2 3 5</CornerPts>
             </TableCell>
@@ -5364,7 +5364,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5406,7 +5406,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5448,7 +5448,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5462,7 +5462,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5483,7 +5483,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5574,7 +5574,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5582,13 +5582,13 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                 <Coords points="6248,1444 6248,2050 6454,2034 6454,1444"/>
                 <TextLine id="line_1645099216683_31" custom="readingOrder {index:0;}">
                     <Coords points="6325,1491 6376,1490 6377,1540 6326,1541"/>
-                    <Baseline points="6326,1536 6377,1535"/>
+                    <Baseline points="6326,1536 6376,1535"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5651,7 +5651,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5735,7 +5735,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5749,7 +5749,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5777,7 +5777,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5805,7 +5805,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5819,7 +5819,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5833,7 +5833,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5854,7 +5854,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5868,7 +5868,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5889,7 +5889,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5917,7 +5917,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5931,7 +5931,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5945,7 +5945,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5973,7 +5973,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5995,7 +5995,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                 </TextLine>
                 <TextLine id="TableCell_1642690063361_647l2" custom="readingOrder {index:2;}">
                     <Coords points="5350,2408 5645,2408 5707,2410 5751,2417 5788,2430 5788,2439 5751,2441 5590,2443 5381,2444 5375,2444 5350,2442"/>
-                    <Baseline points="5350,2442 5381,2442 5407,2442 5531,2442 5555,2442 5590,2442 5598,2443 5769,2440"/>
+                    <Baseline points="5350,2442 5381,2442 5407,2442 5531,2442 5555,2442 5590,2442 5597,2442 5769,2440"/>
                     <TextEquiv>
                         <Unicode>b. Island u. Faröer</Unicode>
                     </TextEquiv>
@@ -6008,7 +6008,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6029,7 +6029,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6057,7 +6057,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6085,7 +6085,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6113,7 +6113,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6134,7 +6134,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6148,7 +6148,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6190,7 +6190,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6204,7 +6204,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6218,7 +6218,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6232,7 +6232,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6260,7 +6260,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6274,7 +6274,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6302,7 +6302,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6316,7 +6316,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6330,7 +6330,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6344,7 +6344,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6358,7 +6358,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6400,7 +6400,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6428,7 +6428,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6442,7 +6442,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6456,7 +6456,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6470,7 +6470,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6478,13 +6478,13 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                 <Coords points="6664,2862 6664,3085 7371,3085 7371,2862"/>
                 <TextLine id="TableCell_1642690048714_399l0" custom="readingOrder {index:0;}">
                     <Coords points="6664,2862 6678,2920 6823,2920 6825,2862"/>
-                    <Baseline points="6684,2905 6825,2903"/>
+                    <Baseline points="6684,2905 6823,2902"/>
                     <TextEquiv>
                         <Unicode>7) —.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6498,7 +6498,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6519,7 +6519,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6533,7 +6533,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6541,13 +6541,13 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                 <Coords points="6248,3085 6248,3157 6454,3157 6454,3085"/>
                 <TextLine id="line_1657539360218_779" custom="readingOrder {index:0;}">
                     <Coords points="6323,3083 6373,3082 6374,3132 6324,3133"/>
-                    <Baseline points="6324,3128 6374,3127"/>
+                    <Baseline points="6324,3128 6373,3127"/>
                     <TextEquiv>
                         <Unicode>20</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6561,7 +6561,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6575,7 +6575,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6596,7 +6596,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6624,7 +6624,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6638,7 +6638,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6652,7 +6652,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6666,7 +6666,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6701,7 +6701,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6732,7 +6732,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 2 3 5</CornerPts>
             </TableCell>
@@ -6774,7 +6774,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 2 3 5</CornerPts>
             </TableCell>
@@ -6795,7 +6795,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 4 5</CornerPts>
             </TableCell>
@@ -6809,7 +6809,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 2 3 5</CornerPts>
             </TableCell>
@@ -6824,7 +6824,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                 </TextLine>
                 <TextLine id="line_1657208545271_1859" custom="readingOrder {index:1;}">
                     <Coords points="8264,1243 8370,1241 8371,1291 8265,1293"/>
-                    <Baseline points="8265,1288 8371,1286"/>
+                    <Baseline points="8265,1288 8370,1286"/>
                     <TextEquiv>
                         <Unicode>für</Unicode>
                     </TextEquiv>
@@ -6838,13 +6838,13 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                 </TextLine>
                 <TextLine id="line_1657208562892_1869" custom="readingOrder {index:3;}">
                     <Coords points="8264,1398 8379,1396 8380,1446 8265,1448"/>
-                    <Baseline points="8265,1443 8380,1441"/>
+                    <Baseline points="8265,1443 8379,1441"/>
                     <TextEquiv>
                         <Unicode>₰</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6893,7 +6893,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6935,7 +6935,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6949,7 +6949,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6977,7 +6977,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6991,7 +6991,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7005,7 +7005,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7019,7 +7019,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7040,7 +7040,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7054,7 +7054,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7096,7 +7096,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7111,7 +7111,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                 </TextLine>
                 <TextLine id="TableCell_1642691374490_1290l1" custom="readingOrder {index:1;}">
                     <Coords points="8212,1716 8382,1717 8411,1712 8429,1722 8429,1759 8408,1759 8347,1757 8212,1750"/>
-                    <Baseline points="8212,1750 8260,1750 8287,1750 8430,1752"/>
+                    <Baseline points="8212,1750 8260,1750 8287,1750 8429,1752"/>
                     <TextEquiv>
                         <Unicode>im Grenz,</Unicode>
                     </TextEquiv>
@@ -7124,7 +7124,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7138,7 +7138,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7152,7 +7152,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7173,7 +7173,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7187,7 +7187,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7208,7 +7208,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7222,7 +7222,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7236,7 +7236,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7250,7 +7250,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7264,7 +7264,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7278,7 +7278,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7292,7 +7292,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -7306,7 +7306,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7320,7 +7320,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7355,7 +7355,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 5 6</CornerPts>
             </TableCell>
@@ -7383,7 +7383,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7411,7 +7411,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7425,7 +7425,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7439,7 +7439,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7453,7 +7453,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7467,7 +7467,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7482,7 +7482,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                 </TextLine>
                 <TextLine id="line_1657539831368_980" custom="readingOrder {index:1;}">
                     <Coords points="7508,2301 7603,2301 7603,2339 7508,2339 7508,2328"/>
-                    <Baseline points="7505,2335 7603,2335"/>
+                    <Baseline points="7508,2335 7603,2335"/>
                     <TextEquiv>
                         <Unicode>nien</Unicode>
                     </TextEquiv>
@@ -7502,7 +7502,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7530,7 +7530,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7544,7 +7544,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7558,7 +7558,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7566,13 +7566,13 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                 <Coords points="8628,2243 8628,2448 8844,2448 8844,2243"/>
                 <TextLine id="line_1657539534179_877" custom="readingOrder {index:0;}">
                     <Coords points="8706,2254 8758,2253 8759,2303 8707,2304"/>
-                    <Baseline points="8707,2299 8759,2298"/>
+                    <Baseline points="8707,2299 8758,2298"/>
                     <TextEquiv>
                         <Unicode>36</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7587,13 +7587,13 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                 </TextLine>
                 <TextLine id="line_1669724014260_119" custom="readingOrder {index:1;}">
                     <Coords points="8946,2262 8999,2266 8996,2316 8943,2312"/>
-                    <Baseline points="8945,2304 8998,2308"/>
+                    <Baseline points="8945,2304 8996,2307"/>
                     <TextEquiv>
                         <Unicode>—.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7607,7 +7607,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7635,7 +7635,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7649,7 +7649,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7663,7 +7663,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7671,13 +7671,13 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                 <Coords points="8628,2448 8628,2604 8844,2604 8844,2448"/>
                 <TextLine id="line_1657539537255_882" custom="readingOrder {index:0;}">
                     <Coords points="8724,2456 8771,2455 8772,2505 8725,2506"/>
-                    <Baseline points="8725,2501 8772,2500"/>
+                    <Baseline points="8725,2501 8771,2500"/>
                     <TextEquiv>
                         <Unicode>20</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7698,7 +7698,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7740,7 +7740,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7761,7 +7761,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7775,7 +7775,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7783,13 +7783,13 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                 <Coords points="8432,2604 8432,2846 8628,2846 8628,2604"/>
                 <TextLine id="line_1657539543079_887" custom="readingOrder {index:0;}">
                     <Coords points="8503,2612 8555,2611 8556,2661 8504,2662"/>
-                    <Baseline points="8504,2657 8556,2656"/>
+                    <Baseline points="8504,2657 8555,2656"/>
                     <TextEquiv>
                         <Unicode>20</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7803,7 +7803,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7838,7 +7838,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7852,7 +7852,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7873,7 +7873,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7887,7 +7887,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7901,7 +7901,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7915,7 +7915,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7929,7 +7929,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7943,7 +7943,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7964,7 +7964,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7992,7 +7992,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8006,7 +8006,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8020,7 +8020,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8041,7 +8041,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8055,7 +8055,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8076,7 +8076,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8090,7 +8090,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8104,7 +8104,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8118,7 +8118,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8133,13 +8133,13 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                 </TextLine>
                 <TextLine id="line_1669724005894_118" custom="readingOrder {index:1;}">
                     <Coords points="8942,3140 9001,3138 9003,3188 8944,3190"/>
-                    <Baseline points="8944,3185 9003,3183"/>
+                    <Baseline points="8944,3185 9002,3183"/>
                     <TextEquiv>
                         <Unicode>—.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8160,7 +8160,7 @@ briefen vom Auslande nach Landorten in Deutschland wird das Eilbestellgeld nach 
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 7 8</CornerPts>
             </TableCell>
@@ -8270,7 +8270,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8298,7 +8298,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8326,7 +8326,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -8354,7 +8354,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8382,7 +8382,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8396,7 +8396,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8410,7 +8410,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8424,7 +8424,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8452,7 +8452,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8480,7 +8480,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8494,7 +8494,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8508,7 +8508,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8550,7 +8550,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8564,7 +8564,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8578,7 +8578,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8599,7 +8599,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8613,7 +8613,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8634,7 +8634,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8655,7 +8655,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8669,7 +8669,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8683,7 +8683,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8697,7 +8697,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8718,7 +8718,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8732,7 +8732,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8753,7 +8753,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8767,7 +8767,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8781,7 +8781,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8795,7 +8795,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8809,7 +8809,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8830,7 +8830,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8844,7 +8844,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8865,7 +8865,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8886,7 +8886,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8907,7 +8907,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8921,7 +8921,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8935,7 +8935,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8956,7 +8956,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8970,7 +8970,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8991,7 +8991,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9012,7 +9012,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9026,7 +9026,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9047,7 +9047,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9061,7 +9061,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9089,7 +9089,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9117,7 +9117,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9139,7 +9139,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                 </TextLine>
                 <TextLine id="TableCell_1642692218781_1939l2" custom="readingOrder {index:2;}">
                     <Coords points="7269,4853 7303,4849 7317,4849 7333,4856 7333,4894 7317,4901 7303,4901 7126,4895 7126,4851"/>
-                    <Baseline points="7120,4892 7333,4892"/>
+                    <Baseline points="7126,4892 7333,4892"/>
                     <TextEquiv>
                         <Unicode>Pence (d),</Unicode>
                     </TextEquiv>
@@ -9152,7 +9152,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9208,7 +9208,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9278,7 +9278,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9292,7 +9292,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9306,7 +9306,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9327,7 +9327,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9341,7 +9341,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9355,7 +9355,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9369,7 +9369,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9383,7 +9383,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9418,7 +9418,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9432,7 +9432,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9453,7 +9453,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9467,7 +9467,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9488,7 +9488,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9509,7 +9509,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9523,7 +9523,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9537,7 +9537,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9558,7 +9558,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9579,7 +9579,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9593,7 +9593,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9614,7 +9614,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9628,7 +9628,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9649,7 +9649,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9670,7 +9670,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9691,7 +9691,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9706,13 +9706,13 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                 </TextLine>
                 <TextLine id="line_1657210405986_2323" custom="readingOrder {index:1;}">
                     <Coords points="6182,5625 6479,5629 6478,5679 6181,5675"/>
-                    <Baseline points="6180,5654 6477,5658"/>
+                    <Baseline points="6181,5654 6477,5658"/>
                     <TextEquiv>
                         <Unicode>mindestens 40</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9726,7 +9726,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9747,7 +9747,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9768,7 +9768,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9810,7 +9810,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9824,7 +9824,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9832,13 +9832,13 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                 <Coords points="5790,5792 5790,5874 6151,5886 6151,5792"/>
                 <TextLine id="TableCell_1642692233848_2257l0" custom="readingOrder {index:0;}">
                     <Coords points="5790,5793 5996,5804 6089,5814 6089,5840 5791,5852"/>
-                    <Baseline points="5790,5839 5909,5839 5934,5839 6089,5840"/>
+                    <Baseline points="5790,5838 5909,5839 5934,5839 6089,5840"/>
                     <TextEquiv>
                         <Unicode>355 Kronen.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9859,7 +9859,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9873,7 +9873,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9894,7 +9894,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9908,7 +9908,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9929,7 +9929,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 5 6</CornerPts>
             </TableCell>
@@ -9943,7 +9943,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9957,7 +9957,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9978,7 +9978,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9992,7 +9992,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10006,7 +10006,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10020,7 +10020,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10062,7 +10062,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 2 3 5</CornerPts>
             </TableCell>
@@ -10111,7 +10111,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 2 3 5</CornerPts>
             </TableCell>
@@ -10132,7 +10132,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 2 3 5</CornerPts>
             </TableCell>
@@ -10160,7 +10160,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 2 3 5</CornerPts>
             </TableCell>
@@ -10174,7 +10174,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 2 3 5</CornerPts>
             </TableCell>
@@ -10202,7 +10202,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 2 3 5</CornerPts>
             </TableCell>
@@ -10216,7 +10216,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 2 3 5</CornerPts>
             </TableCell>
@@ -10251,7 +10251,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 4 5</CornerPts>
             </TableCell>
@@ -10272,7 +10272,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10286,7 +10286,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10294,20 +10294,20 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                 <Coords points="6147,6315 6137,6448 6499,6448 6501,6313"/>
                 <TextLine id="line_1657540062923_1070" custom="readingOrder {index:0;}">
                     <Coords points="6300,6353 6352,6352 6353,6402 6301,6403"/>
-                    <Baseline points="6301,6398 6353,6397"/>
+                    <Baseline points="6301,6398 6352,6397"/>
                     <TextEquiv>
                         <Unicode>20</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="TableCell_1642692229167_2179l0" custom="readingOrder {index:1;}">
                     <Coords points="6173,6408 6464,6408 6499,6437 6499,6448 6423,6448 6198,6445 6173,6444"/>
-                    <Baseline points="6173,6444 6390,6444 6414,6445 6491,6430"/>
+                    <Baseline points="6173,6444 6390,6444 6414,6445 6490,6430"/>
                     <TextEquiv>
                         <Unicode>mindestens 40</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10321,7 +10321,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10349,7 +10349,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10370,7 +10370,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10384,7 +10384,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10405,7 +10405,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10419,7 +10419,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10427,7 +10427,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                 <Coords points="6137,6448 6143,6581 6498,6585 6499,6448"/>
                 <TextLine id="line_1657540066179_1075" custom="readingOrder {index:0;}">
                     <Coords points="6295,6450 6346,6449 6347,6493 6296,6494"/>
-                    <Baseline points="6296,6489 6347,6488"/>
+                    <Baseline points="6296,6489 6346,6488"/>
                     <TextEquiv>
                         <Unicode>50</Unicode>
                     </TextEquiv>
@@ -10440,7 +10440,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10454,7 +10454,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10482,7 +10482,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10496,7 +10496,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10517,7 +10517,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>

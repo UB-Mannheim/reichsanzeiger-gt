@@ -1,24 +1,24 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
     <Metadata>
         <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.7.1:model_id=40804:lm=none:date=05_07_2022_11:50
 prov=READ-COOP:name=PyLaia@Transkribus:version=0.7.1:model_id=40804:date=05_07_2022_11:50
 Transkribus</Creator>
         <Created>2021-12-14T11:43:02.684+01:00</Created>
-        <LastChange>2022-12-07T16:08:36.484+01:00</LastChange>
+        <LastChange>2023-11-15T20:46:39.092+01:00</LastChange>
         <Comments>
                 Measurement unit: pixel
                 PrimaryLanguage: 
                 Producer: Transkribus
             </Comments>
-        <TranskribusMetadata docId="900641" pageId="34524912" pageNr="10" tsid="105747849" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=FLTFYGWYJTYGGKOIFRVZXJCF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NBWUWHVMFXTKERZWNNIVQAEH" imageId="27705300"/>
+        <TranskribusMetadata docId="900641" pageId="34524912" pageNr="10" tsid="139840607" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=FLTFYGWYJTYGGKOIFRVZXJCF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RXRFJHSHXOIISMIGPLEFLUVJ" imageId="27705300"/>
     </Metadata>
     <Page imageFilename="1871_104_0417.jpg" imageWidth="10760" imageHeight="7568">
         <PrintSpace>
             <Coords points="989,851 9938,932 9993,7166 1044,7085"/>
         </PrintSpace>
         <ReadingOrder>
-            <OrderedGroup id="ro_1690360014839" caption="Regions reading order">
+            <OrderedGroup id="ro_1700129741439" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
                 <RegionRefIndexed index="1" regionRef="r2"/>
                 <RegionRefIndexed index="2" regionRef="r3"/>
@@ -76,7 +76,7 @@ Transkribus</Creator>
             <Coords points="1168,1200 3141,1200 3143,1521 1170,1521"/>
             <TextLine id="r2l1" custom="readingOrder {index:0;}">
                 <Coords points="1326,1235 1431,1233 1493,1232 1953,1226 3034,1215 3069,1215 3117,1228 3117,1263 3093,1275 3069,1276 2633,1276 1646,1288 1536,1287 1325,1282"/>
-                <Baseline points="1326,1284 1458,1282 1493,1282 1762,1277 1810,1276 1906,1276 1953,1275 2148,1273 2190,1273 2726,1267 2794,1267 2910,1265 2962,1265 3117,1263"/>
+                <Baseline points="1326,1282 1458,1282 1493,1282 1762,1277 1810,1276 1906,1276 1953,1275 2148,1273 2190,1273 2726,1267 2794,1267 2910,1265 2962,1265 3117,1263"/>
                 <TextEquiv>
                     <Unicode>Bad Münſter am Stein (Rheinprovinz.) Das hieſige</Unicode>
                 </TextEquiv>
@@ -97,7 +97,7 @@ Transkribus</Creator>
             </TextLine>
             <TextLine id="r2l4" custom="readingOrder {index:3;}">
                 <Coords points="1207,1421 1262,1412 1500,1408 2181,1398 2310,1398 2388,1399 2388,1445 2310,1451 1757,1464 1649,1470 1207,1468"/>
-                <Baseline points="1207,1466 1329,1463 1363,1462 1415,1461 1450,1461 1611,1459 1645,1458 1792,1456 1827,1455 1912,1454 1949,1454 1990,1453 2028,1453 2144,1451 2181,1451 2388,1449"/>
+                <Baseline points="1207,1466 1329,1463 1363,1462 1415,1461 1450,1461 1611,1459 1645,1458 1792,1456 1827,1455 1912,1454 1949,1454 1990,1453 2028,1453 2144,1451 2181,1451 2387,1445"/>
                 <TextEquiv>
                     <Unicode>wird in dieſem Jahre am 1. Mai eröffnet.</Unicode>
                 </TextEquiv>
@@ -128,14 +128,14 @@ Königliche Salinen⸗Verwaltung.</Unicode>
             </TextLine>
             <TextLine id="r3l2" custom="readingOrder {index:1;}">
                 <Coords points="1677,1615 2776,1602 2989,1601 3020,1601 3114,1610 3114,1645 2501,1662 2052,1670 2034,1670 1932,1668 1662,1667 1660,1647 1660,1615"/>
-                <Baseline points="1660,1663 1986,1660 2034,1660 2113,1659 2163,1659 2250,1659 2299,1658 2580,1653 2631,1652 2725,1651 2776,1651 3114,1645"/>
+                <Baseline points="1661,1662 1986,1660 2034,1660 2113,1659 2163,1659 2250,1659 2299,1658 2580,1653 2631,1652 2725,1651 2776,1651 3114,1645"/>
                 <TextEquiv>
                     <Unicode>Lokalverkehr für den Transport von Lokomotiven</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l3" custom="readingOrder {index:2;}">
                 <Coords points="1662,1687 1734,1675 1783,1674 3099,1657 3115,1657 3115,1709 2538,1724 2073,1730 1874,1730 1662,1722"/>
-                <Baseline points="1661,1722 1758,1722 1783,1722 2019,1719 2051,1719 2207,1717 2241,1717 2295,1717 2329,1716 2416,1715 2453,1715 2635,1712 2658,1711 2853,1708 2889,1708 2995,1706 3028,1706 3115,1709"/>
+                <Baseline points="1662,1722 1758,1722 1783,1722 2019,1719 2051,1719 2207,1717 2241,1717 2295,1717 2329,1716 2416,1715 2453,1715 2635,1712 2658,1711 2853,1708 2889,1708 2995,1706 3028,1706 3115,1709"/>
                 <TextEquiv>
                     <Unicode>und Tendern, ſofern ſie auf eigenen Rädern oder auf</Unicode>
                 </TextEquiv>
@@ -283,7 +283,7 @@ Rhein⸗Nahe⸗Eiſenbahn.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -304,7 +304,7 @@ Rhein⸗Nahe⸗Eiſenbahn.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -325,7 +325,7 @@ Rhein⸗Nahe⸗Eiſenbahn.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -339,7 +339,7 @@ Rhein⸗Nahe⸗Eiſenbahn.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -360,7 +360,7 @@ Rhein⸗Nahe⸗Eiſenbahn.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -374,7 +374,7 @@ Rhein⸗Nahe⸗Eiſenbahn.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -388,7 +388,7 @@ Rhein⸗Nahe⸗Eiſenbahn.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -402,7 +402,7 @@ Rhein⸗Nahe⸗Eiſenbahn.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -410,13 +410,13 @@ Rhein⸗Nahe⸗Eiſenbahn.</Unicode>
                 <Coords points="4229,1806 4229,1868 4573,1868 4573,1806"/>
                 <TextLine id="TableCell_1642070541895_923l0" custom="readingOrder {index:0;}">
                     <Coords points="4344,1813 4498,1811 4499,1871 4348,1871 4344,1815"/>
-                    <Baseline points="4344,1865 4488,1864"/>
+                    <Baseline points="4347,1864 4488,1864"/>
                     <TextEquiv>
                         <Unicode>Thlr.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -430,7 +430,7 @@ Rhein⸗Nahe⸗Eiſenbahn.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -444,7 +444,7 @@ Rhein⸗Nahe⸗Eiſenbahn.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -458,7 +458,7 @@ Rhein⸗Nahe⸗Eiſenbahn.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -472,7 +472,7 @@ Rhein⸗Nahe⸗Eiſenbahn.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -486,7 +486,7 @@ Rhein⸗Nahe⸗Eiſenbahn.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -500,7 +500,7 @@ Rhein⸗Nahe⸗Eiſenbahn.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -514,7 +514,7 @@ Rhein⸗Nahe⸗Eiſenbahn.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -528,7 +528,7 @@ Rhein⸗Nahe⸗Eiſenbahn.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -536,7 +536,7 @@ Rhein⸗Nahe⸗Eiſenbahn.</Unicode>
                 <Coords points="3188,1930 3188,1987 3188,2057 3607,2061 3663,1972 3652,1930"/>
                 <TextLine id="TableCell_1642070569942_1033l1" custom="readingOrder {index:0;}">
                     <Coords points="3210,1941 3504,1938 3579,1938 3604,1939 3652,1950 3652,1989 3647,1996 3629,1992 3491,1990 3210,1986"/>
-                    <Baseline points="3212,1987 3318,1986 3384,1986 3453,1986 3504,1986 3652,1986"/>
+                    <Baseline points="3212,1986 3318,1986 3384,1986 3453,1986 3504,1986 3652,1986"/>
                     <TextEquiv>
                         <Unicode>1871 im März</Unicode>
                     </TextEquiv>
@@ -549,7 +549,7 @@ Rhein⸗Nahe⸗Eiſenbahn.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 2 3 5</CornerPts>
             </TableCell>
@@ -563,7 +563,7 @@ Rhein⸗Nahe⸗Eiſenbahn.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 2 3 5</CornerPts>
             </TableCell>
@@ -577,7 +577,7 @@ Rhein⸗Nahe⸗Eiſenbahn.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 2 3 5</CornerPts>
             </TableCell>
@@ -591,7 +591,7 @@ Rhein⸗Nahe⸗Eiſenbahn.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 2 3 5</CornerPts>
             </TableCell>
@@ -605,7 +605,7 @@ Rhein⸗Nahe⸗Eiſenbahn.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 2 3 5</CornerPts>
             </TableCell>
@@ -619,7 +619,7 @@ Rhein⸗Nahe⸗Eiſenbahn.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 2 3 5</CornerPts>
             </TableCell>
@@ -633,7 +633,7 @@ Rhein⸗Nahe⸗Eiſenbahn.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -647,7 +647,7 @@ Rhein⸗Nahe⸗Eiſenbahn.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -661,7 +661,7 @@ Rhein⸗Nahe⸗Eiſenbahn.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -675,7 +675,7 @@ Rhein⸗Nahe⸗Eiſenbahn.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -689,7 +689,7 @@ Rhein⸗Nahe⸗Eiſenbahn.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -703,7 +703,7 @@ Rhein⸗Nahe⸗Eiſenbahn.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -746,7 +746,7 @@ Königliche Eiſenbahn⸗Direktion.</Unicode>
             <Coords points="2181,2365 4162,2365 4159,2659 2181,2676"/>
             <TextLine id="r8l1" custom="readingOrder {index:0;}">
                 <Coords points="2217,2394 2475,2389 2536,2388 3308,2376 4051,2373 4129,2373 4129,2454 3580,2486 3171,2477 2217,2490"/>
-                <Baseline points="2214,2478 2659,2473 2710,2472 4126,2459"/>
+                <Baseline points="2217,2478 2659,2473 2710,2472 4125,2454"/>
                 <TextEquiv>
                     <Unicode>Preussische National-Versicherungs-Gesellschaft</Unicode>
                 </TextEquiv>
@@ -791,7 +791,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 6 7</CornerPts>
             </TableCell>
@@ -805,7 +805,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 7 8</CornerPts>
             </TableCell>
@@ -819,7 +819,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -827,13 +827,13 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                 <Coords points="2456,2888 2454,3030 2677,3010 2677,2888"/>
                 <TextLine id="TableCell_1642070799686_2240l0" custom="readingOrder {index:0;}">
                     <Coords points="2493,2961 2641,2967 2644,3011 2478,3019 2481,2970"/>
-                    <Baseline points="2493,3016 2632,3013"/>
+                    <Baseline points="2493,3016 2631,3011"/>
                     <TextEquiv>
                         <Unicode>Thlr.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -847,7 +847,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -861,7 +861,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -875,7 +875,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -889,7 +889,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -903,7 +903,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -917,7 +917,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -943,7 +943,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -957,7 +957,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -965,13 +965,13 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                 <Coords points="2677,3010 2677,3068 2962,3068 2962,3010"/>
                 <TextLine id="line_1643731430718_405" custom="readingOrder {index:0;}">
                     <Coords points="2782,3022 2945,3019 2945,3068 2765,3068"/>
-                    <Baseline points="2773,3070 2940,3066"/>
+                    <Baseline points="2773,3068 2940,3066"/>
                     <TextEquiv>
                         <Unicode>47,000</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -985,7 +985,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -999,7 +999,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1020,7 +1020,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 2 3 5</CornerPts>
             </TableCell>
@@ -1028,13 +1028,13 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                 <Coords points="4009,3010 4009,3068 4009,3138 4471,3138 4471,3068 4471,3010"/>
                 <TextLine id="line_1643731543237_422" custom="readingOrder {index:0;}">
                     <Coords points="4084,3061 4459,3066 4460,3121 4339,3133 4084,3111"/>
-                    <Baseline points="4083,3109 4456,3112"/>
+                    <Baseline points="4084,3109 4456,3112"/>
                     <TextEquiv>
                         <Unicode>„ 69,600.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 2 3 5</CornerPts>
             </TableCell>
@@ -1048,7 +1048,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 2 3 5</CornerPts>
             </TableCell>
@@ -1074,7 +1074,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1088,7 +1088,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1102,7 +1102,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1116,7 +1116,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1130,7 +1130,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1156,7 +1156,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1170,7 +1170,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1184,7 +1184,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1198,7 +1198,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1212,7 +1212,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1226,7 +1226,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 2 4 6</CornerPts>
             </TableCell>
@@ -1244,7 +1244,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1258,7 +1258,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1272,7 +1272,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1286,7 +1286,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1300,7 +1300,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1314,7 +1314,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1322,13 +1322,13 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                 <Coords points="2962,3193 2962,3253 3046,3253 3046,3193"/>
                 <TextLine id="TableCell_1642070792953_1988l0" custom="readingOrder {index:0;}">
                     <Coords points="2972,3200 3035,3200 3035,3245 2972,3245"/>
-                    <Baseline points="2973,3244 3036,3244"/>
+                    <Baseline points="2973,3244 3035,3244"/>
                     <TextEquiv>
                         <Unicode>22</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1342,7 +1342,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1356,7 +1356,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1364,13 +1364,13 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                 <Coords points="4686,3193 4686,3253 4960,3253 4960,3193"/>
                 <TextLine id="TableCell_1642070793060_2018l0" custom="readingOrder {index:0;}">
                     <Coords points="4783,3199 4839,3197 4916,3197 4948,3198 4948,3245 4911,3246 4848,3259 4750,3246 4750,3199"/>
-                    <Baseline points="4752,3247 4948,3248"/>
+                    <Baseline points="4752,3246 4947,3245"/>
                     <TextEquiv>
                         <Unicode>300,000</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1384,7 +1384,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1398,7 +1398,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1412,7 +1412,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1426,7 +1426,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1440,7 +1440,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1454,7 +1454,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1468,7 +1468,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1476,7 +1476,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                 <Coords points="3174,3253 3174,3324 3176,3382 4011,3382 4471,3386 4471,3324 4471,3253 4009,3253"/>
                 <TextLine id="TableCell_1642070948147_2361l0" custom="readingOrder {index:0;}">
                     <Coords points="3212,3269 3354,3267 3740,3264 3982,3263 4332,3262 4380,3262 4462,3275 4462,3297 4433,3308 4290,3309 3428,3314 3253,3315 3212,3315"/>
-                    <Baseline points="3212,3315 3686,3311 3740,3311 3830,3310 3882,3310 4132,3309 4189,3309 4463,3307"/>
+                    <Baseline points="3212,3315 3686,3311 3740,3311 3830,3310 3882,3310 4132,3309 4189,3309 4459,3297"/>
                     <TextEquiv>
                         <Unicode>Prämienreserve für laufende See-Ver-</Unicode>
                     </TextEquiv>
@@ -1489,7 +1489,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 2 4 6</CornerPts>
             </TableCell>
@@ -1519,7 +1519,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1533,7 +1533,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1547,7 +1547,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1555,13 +1555,13 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                 <Coords points="2963,3314 2963,3377 3050,3374 3047,3314"/>
                 <TextLine id="TableCell_1642070786945_1856l0" custom="readingOrder {index:0;}">
                     <Coords points="2973,3312 3036,3312 3038,3374 2973,3377 2973,3321"/>
-                    <Baseline points="2973,3363 3038,3363"/>
+                    <Baseline points="2973,3363 3037,3363"/>
                     <TextEquiv>
                         <Unicode>29</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1575,7 +1575,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1589,7 +1589,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1603,7 +1603,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1617,7 +1617,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1631,7 +1631,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1639,13 +1639,13 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                 <Coords points="1186,3386 1186,3444 2456,3444 2456,3386"/>
                 <TextLine id="line_1643730940651_337" custom="readingOrder {index:0;}">
                     <Coords points="1205,3401 1655,3392 1656,3444 1202,3452"/>
-                    <Baseline points="1214,3448 1654,3445"/>
+                    <Baseline points="1214,3448 1653,3444"/>
                     <TextEquiv>
                         <Unicode>Kassenbestand</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1659,7 +1659,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1673,7 +1673,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1687,7 +1687,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1701,7 +1701,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1722,7 +1722,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 2 4 6</CornerPts>
             </TableCell>
@@ -1759,7 +1759,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1773,7 +1773,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1799,7 +1799,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1813,7 +1813,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1827,7 +1827,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1841,7 +1841,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1862,7 +1862,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1876,7 +1876,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1902,7 +1902,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -1916,7 +1916,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1930,7 +1930,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1944,7 +1944,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1958,7 +1958,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1976,7 +1976,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1984,13 +1984,13 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                 <Coords points="2962,3558 2962,3618 3046,3618 3046,3558"/>
                 <TextLine id="TableCell_1642070773165_1592l0" custom="readingOrder {index:0;}">
                     <Coords points="2972,3554 3035,3554 3035,3610 2972,3610 2972,3565"/>
-                    <Baseline points="2974,3603 3037,3603"/>
+                    <Baseline points="2974,3603 3035,3603"/>
                     <TextEquiv>
                         <Unicode>29</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2004,7 +2004,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2018,7 +2018,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -2032,7 +2032,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2046,7 +2046,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2054,13 +2054,13 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                 <Coords points="4960,3558 4959,3611 5059,3618 5059,3558"/>
                 <TextLine id="TableCell_1642070773256_1628l0" custom="readingOrder {index:0;}">
                     <Coords points="4982,3565 5046,3565 5046,3610 4980,3604"/>
-                    <Baseline points="4986,3591 5047,3591"/>
+                    <Baseline points="4986,3591 5046,3591"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2074,7 +2074,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2092,7 +2092,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -2106,7 +2106,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2120,7 +2120,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2134,7 +2134,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2148,7 +2148,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2162,7 +2162,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -2176,7 +2176,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2190,7 +2190,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2204,7 +2204,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2218,7 +2218,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2233,13 +2233,13 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                 </TextLine>
                 <TextLine id="TableCell_1642070965277_2391l2" custom="readingOrder {index:1;}">
                     <Coords points="3276,3822 3314,3808 3667,3805 3699,3805 3802,3818 3802,3851 3555,3861 3530,3861 3276,3854"/>
-                    <Baseline points="3276,3854 3426,3853 3453,3853 3798,3852"/>
+                    <Baseline points="3276,3854 3426,3853 3453,3853 3797,3851"/>
                     <TextEquiv>
                         <Unicode>nicht abgehobene</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -2253,7 +2253,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2267,7 +2267,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2281,7 +2281,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2295,7 +2295,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2316,7 +2316,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -2330,7 +2330,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2344,7 +2344,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2358,7 +2358,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2372,7 +2372,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2390,7 +2390,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2404,7 +2404,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2418,7 +2418,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2432,7 +2432,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2450,7 +2450,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2458,13 +2458,13 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                 <Coords points="4686,3988 4686,4131 4960,4131 4960,3988"/>
                 <TextLine id="TableCell_1642070727309_1194l1" custom="readingOrder {index:0;}">
                     <Coords points="4707,3992 4784,3991 4888,3991 4950,3993 4950,4033 4920,4059 4890,4059 4861,4058 4741,4048 4707,4038"/>
-                    <Baseline points="4707,4038 4950,4036"/>
+                    <Baseline points="4707,4038 4948,4034"/>
                     <TextEquiv>
                         <Unicode>3,599,704</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2478,7 +2478,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2492,7 +2492,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2515,7 +2515,7 @@ Bilanz pro 31. Dezember 1870.</Unicode>
             </TextLine>
             <TextLine id="r9l3" custom="readingOrder {index:2;}">
                 <Coords points="2742,4313 3364,4306 3607,4306 3606,4383 3557,4395 3332,4404 2742,4392"/>
-                <Baseline points="2742,4392 2875,4391 2924,4391 3607,4380"/>
+                <Baseline points="2742,4392 2875,4391 2924,4391 3606,4379"/>
                 <TextEquiv>
                     <Unicode>Der Verwaltungsrath.</Unicode>
                 </TextEquiv>
@@ -2580,7 +2580,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2594,7 +2594,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2608,7 +2608,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2622,7 +2622,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2636,7 +2636,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2650,7 +2650,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2664,7 +2664,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2678,7 +2678,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2692,7 +2692,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2706,7 +2706,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2720,7 +2720,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2734,7 +2734,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2748,7 +2748,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2762,7 +2762,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2776,7 +2776,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2790,7 +2790,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2804,7 +2804,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2818,7 +2818,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2832,7 +2832,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2846,7 +2846,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2860,7 +2860,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2874,7 +2874,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2888,7 +2888,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2902,7 +2902,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2916,7 +2916,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2930,7 +2930,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2944,7 +2944,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2958,7 +2958,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2973,7 +2973,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                 </TextLine>
                 <TextLine id="line_1643804298084_473" custom="readingOrder {index:1;}">
                     <Coords points="3242,4945 4649,4931 4649,4995 3242,4997"/>
-                    <Baseline points="3251,4986 4651,4982"/>
+                    <Baseline points="3251,4986 4649,4982"/>
                     <TextEquiv>
                         <Unicode>3) Proviſionen und ſonſtige Emolumente der</Unicode>
                     </TextEquiv>
@@ -2986,7 +2986,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3000,7 +3000,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3014,7 +3014,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3028,7 +3028,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3042,7 +3042,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3056,7 +3056,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3070,7 +3070,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3084,7 +3084,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3098,7 +3098,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3112,7 +3112,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3126,7 +3126,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3140,7 +3140,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3154,7 +3154,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3168,7 +3168,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3182,7 +3182,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3196,7 +3196,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3226,7 +3226,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3240,7 +3240,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3254,7 +3254,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3268,7 +3268,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3282,7 +3282,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3331,7 +3331,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3345,7 +3345,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3359,7 +3359,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3373,7 +3373,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3410,7 +3410,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3424,7 +3424,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3438,7 +3438,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3452,7 +3452,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3482,7 +3482,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3496,7 +3496,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3510,7 +3510,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3524,7 +3524,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3538,7 +3538,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3552,7 +3552,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3566,7 +3566,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3580,7 +3580,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3594,7 +3594,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3608,7 +3608,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3622,7 +3622,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3636,7 +3636,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3666,7 +3666,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3680,7 +3680,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3694,7 +3694,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3708,7 +3708,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3722,7 +3722,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3736,7 +3736,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3750,7 +3750,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3764,7 +3764,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3778,7 +3778,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3792,7 +3792,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3806,7 +3806,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3820,7 +3820,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3869,7 +3869,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 4 5 9</CornerPts>
             </TableCell>
@@ -3889,7 +3889,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                 <Coords points="1188,6044 1188,6161 2685,6151 2685,6037"/>
                 <TextLine id="TableCell_1642071498258_3496l0" custom="readingOrder {index:0;}">
                     <Coords points="2652,6040 2672,6081 1239,6107 1241,6049"/>
-                    <Baseline points="1245,6104 2645,6084"/>
+                    <Baseline points="1245,6104 2644,6081"/>
                     <TextEquiv>
                         <Unicode>2) Lombard⸗Darlehen gegen deponirte Werth⸗</Unicode>
                     </TextEquiv>
@@ -3902,7 +3902,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3916,7 +3916,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3930,7 +3930,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3944,7 +3944,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3958,7 +3958,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3972,7 +3972,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3986,7 +3986,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4000,7 +4000,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4014,7 +4014,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4028,7 +4028,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4042,7 +4042,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4056,7 +4056,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4070,7 +4070,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4084,7 +4084,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4098,7 +4098,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4112,7 +4112,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4130,7 +4130,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4144,7 +4144,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4158,7 +4158,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4172,7 +4172,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4198,7 +4198,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4212,7 +4212,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4226,7 +4226,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4240,7 +4240,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4254,7 +4254,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4268,7 +4268,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4282,7 +4282,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4296,7 +4296,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4304,7 +4304,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                 <Coords points="3178,6393 3176,6518 4703,6512 4702,6396"/>
                 <TextLine id="line_1643807574033_1249" custom="readingOrder {index:0;}">
                     <Coords points="3242,6401 4653,6403 4653,6463 3240,6464"/>
-                    <Baseline points="3253,6452 4654,6449"/>
+                    <Baseline points="3253,6452 4653,6449"/>
                     <TextEquiv>
                         <Unicode>3) Den Aktionären 20 pCt. auf den erneuerten</Unicode>
                     </TextEquiv>
@@ -4317,7 +4317,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4331,7 +4331,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4345,7 +4345,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4359,7 +4359,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4389,7 +4389,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4403,7 +4403,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4417,7 +4417,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4431,7 +4431,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4445,7 +4445,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4459,7 +4459,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4473,7 +4473,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4487,7 +4487,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4501,7 +4501,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4515,7 +4515,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4529,7 +4529,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4543,7 +4543,7 @@ Ferd. Brumm. Bartels. C. F. Baevenroth. Albert de la Barre. Euchel.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4777,21 +4777,21 @@ Zieten⸗Platz Nr. 3.</Unicode>
             </TextLine>
             <TextLine id="r22l3" custom="readingOrder {index:2;}">
                 <Coords points="5787,2762 5960,2745 7498,2745 7498,2816 5798,2816 5787,2815"/>
-                <Baseline points="5789,2816 5889,2815 5924,2815 6131,2813 6158,2813 6513,2809 6564,2809 6744,2807 6779,2808 6952,2806 6988,2805 7090,2804 7126,2804 7209,2803 7245,2803 7475,2801 7496,2800 7498,2800"/>
+                <Baseline points="5789,2815 5889,2815 5924,2815 6131,2813 6158,2813 6513,2809 6564,2809 6744,2807 6779,2808 6952,2806 6988,2805 7090,2804 7126,2804 7209,2803 7245,2803 7475,2801 7496,2800 7498,2800"/>
                 <TextEquiv>
                     <Unicode>den Rothen Adler⸗Orden dritter Klaſſe mit der Schleife;</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r22l4" custom="readingOrder {index:3;}">
                 <Coords points="5930,2829 6108,2824 6959,2817 7653,2812 7702,2812 7702,2866 7646,2868 7173,2882 7007,2886 6525,2892 6108,2892 5930,2882"/>
-                <Baseline points="5930,2882 6069,2881 6108,2881 6525,2877 6563,2877 6823,2875 6860,2874 6924,2874 6959,2873 7280,2871 7319,2870 7415,2869 7440,2869 7579,2868 7613,2868 7702,2868"/>
+                <Baseline points="5930,2882 6069,2881 6108,2881 6525,2877 6563,2877 6823,2875 6860,2874 6924,2874 6959,2873 7280,2871 7319,2870 7415,2869 7440,2869 7579,2868 7613,2868 7701,2866"/>
                 <TextEquiv>
                     <Unicode>Dem Bürgermeiſter Boyſen zu Hildesheim den Titel als</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r22l5" custom="readingOrder {index:4;}">
                 <Coords points="5791,2896 6037,2892 6524,2890 6551,2890 6551,2942 6405,2957 5791,2951"/>
-                <Baseline points="5795,2949 6405,2944 6443,2944 6551,2943"/>
+                <Baseline points="5795,2949 6405,2944 6443,2944 6550,2942"/>
                 <TextEquiv>
                     <Unicode>Ober⸗Bürgermeiſter; und</Unicode>
                 </TextEquiv>
@@ -4837,7 +4837,7 @@ Caſſel den Charakter als Rechnungs⸗Rath zu verleihen.</Unicode>
             <Coords points="5774,3267 7717,3267 7717,3505 5774,3505"/>
             <TextLine id="r24l1" custom="readingOrder {index:0;}">
                 <Coords points="5933,3291 6101,3287 6639,3281 7398,3277 7670,3276 7703,3276 7703,3329 7446,3345 7332,3347 6353,3355 6101,3355 5933,3344"/>
-                <Baseline points="5933,3343 6045,3343 6101,3342 6353,3340 6409,3340 7045,3335 7098,3334 7332,3332 7398,3332 7705,3332"/>
+                <Baseline points="5933,3343 6045,3343 6101,3342 6353,3340 6409,3340 7045,3335 7098,3334 7332,3332 7398,3332 7703,3329"/>
                 <TextEquiv>
                     <Unicode>Der bisherige Ober⸗Poſt⸗Sekretär Heinrich Ferdinand</Unicode>
                 </TextEquiv>
@@ -5235,7 +5235,7 @@ Königliche General⸗Lotterie⸗Direktion.</Unicode>
             </TextLine>
             <TextLine id="r31l6" custom="readingOrder {index:5;}">
                 <Coords points="5876,6891 5912,6870 5942,6869 7104,6861 7662,6860 7683,6860 7722,6873 7722,6917 7603,6929 6294,6936 6255,6936 5942,6927 5912,6926 5876,6919"/>
-                <Baseline points="5877,6924 6339,6923 6496,6922 6547,6921 6640,6920 6689,6920 7032,6917 7072,6917 7459,6918 7495,6918 7627,6917 7662,6917 7722,6917"/>
+                <Baseline points="5877,6919 6339,6923 6496,6922 6547,6921 6640,6920 6689,6920 7032,6917 7072,6917 7459,6918 7495,6918 7627,6917 7662,6917 7722,6917"/>
                 <TextEquiv>
                     <Unicode>»Victoria« iſt unter den veränderten Verhältniſſen nicht in</Unicode>
                 </TextEquiv>
@@ -5302,7 +5302,7 @@ Auf Ihren Vortrag beſtimme Ich: Meine Korvette
             </TextLine>
             <TextLine id="r32l8" custom="readingOrder {index:7;}">
                 <Coords points="7861,3070 8134,3068 8272,3067 9532,3067 9603,3068 9669,3080 9707,3087 9707,3113 9669,3121 8971,3134 8107,3135 7957,3135 7861,3125"/>
-                <Baseline points="7861,3124 8107,3123 8134,3123 8436,3122 8474,3122 8971,3121 8998,3122 9389,3121 9429,3121 9704,3120"/>
+                <Baseline points="7861,3124 8107,3123 8134,3123 8436,3122 8474,3122 8971,3121 8998,3122 9389,3121 9429,3121 9702,3113"/>
                 <TextEquiv>
                     <Unicode>indiſchen Gewäſſern zurückzurufendes Kanonenboot »Meteor«</Unicode>
                 </TextEquiv>
@@ -5323,7 +5323,7 @@ Auf Ihren Vortrag beſtimme Ich: Meine Korvette
             </TextLine>
             <TextLine id="r32l11" custom="readingOrder {index:10;}">
                 <Coords points="7861,3282 7971,3271 8239,3269 8443,3268 9384,3266 9650,3266 9685,3267 9712,3291 9712,3308 9685,3332 7911,3343 7861,3343"/>
-                <Baseline points="7861,3325 8067,3324 8101,3324 8212,3322 8239,3324 8419,3322 8443,3322 8694,3322 8812,3322 8956,3322 8997,3322 9086,3322 9123,3322 9199,3322 9234,3322 9292,3321 9328,3321 9508,3322 9583,3322 9711,3322"/>
+                <Baseline points="7861,3325 8067,3324 8101,3324 8212,3322 8239,3324 8419,3322 8443,3322 8694,3322 8812,3322 8956,3322 8997,3322 9086,3322 9123,3322 9199,3322 9234,3322 9292,3321 9328,3321 9508,3322 9583,3322 9704,3314"/>
                 <TextEquiv>
                     <Unicode>werden und Meine Fregatte »Niobe« für die in dieſem Früh⸗</Unicode>
                 </TextEquiv>
@@ -5351,7 +5351,7 @@ Auf Ihren Vortrag beſtimme Ich: Meine Korvette
             </TextLine>
             <TextLine id="r32l15" custom="readingOrder {index:14;}">
                 <Coords points="7860,3553 7922,3539 8193,3537 8496,3535 8969,3534 9646,3534 9690,3547 9713,3558 9713,3577 9690,3590 9541,3605 7860,3605"/>
-                <Baseline points="7860,3594 8050,3593 8086,3592 8281,3591 8328,3590 8427,3590 8464,3590 8542,3590 8579,3590 8657,3590 8716,3590 8935,3590 8969,3590 9140,3590 9194,3590 9562,3590 9598,3590 9710,3590"/>
+                <Baseline points="7860,3594 8050,3593 8086,3592 8281,3591 8328,3590 8427,3590 8464,3590 8542,3590 8579,3590 8657,3590 8716,3590 8935,3590 8969,3590 9140,3590 9194,3590 9562,3590 9598,3590 9705,3581"/>
                 <TextEquiv>
                     <Unicode>geſtellt werde, um die im vorigen Jahre eingetretenen Ka⸗</Unicode>
                 </TextEquiv>
@@ -5393,7 +5393,7 @@ Auf Ihren Vortrag beſtimme Ich: Meine Korvette
             </TextLine>
             <TextLine id="r32l21" custom="readingOrder {index:20;}">
                 <Coords points="7864,3942 7900,3940 9273,3935 9663,3935 9715,3959 9715,3977 9691,3990 9663,4001 9539,4004 8209,4007 7900,4007 7864,3997"/>
-                <Baseline points="7864,3996 8209,3994 8246,3993 8330,3993 8367,3992 9059,3992 9096,3991 9184,3992 9217,3992 9715,3992"/>
+                <Baseline points="7864,3996 8209,3994 8246,3993 8330,3993 8367,3992 9059,3992 9096,3991 9184,3992 9217,3992 9708,3980"/>
                 <TextEquiv>
                     <Unicode>Vorſchlägen der Kommando⸗Abtheilung des Marine⸗Miniſte⸗</Unicode>
                 </TextEquiv>
@@ -5548,7 +5548,7 @@ Jachmann. J. V.: Krauſe.</Unicode>
             </TextLine>
             <TextLine id="r34l4" custom="readingOrder {index:3;}">
                 <Coords points="8584,5124 8753,5114 8795,5112 8883,5111 8940,5114 8940,5169 8830,5167 8661,5168 8631,5168 8584,5167"/>
-                <Baseline points="8586,5168 8714,5167 8753,5166 8936,5169"/>
+                <Baseline points="8586,5167 8714,5167 8753,5166 8936,5168"/>
                 <TextEquiv>
                     <Unicode>von 1870.</Unicode>
                 </TextEquiv>
@@ -5564,14 +5564,14 @@ von 1870.</Unicode>
             <Coords points="7788,5173 9742,5173 9742,6395 7788,6395"/>
             <TextLine id="r35l1" custom="readingOrder {index:0;}">
                 <Coords points="7941,5184 7999,5182 8160,5181 8898,5179 9388,5179 9560,5180 9679,5188 9721,5193 9721,5234 9307,5245 8725,5247 8566,5247 8160,5246 7941,5238"/>
-                <Baseline points="7941,5237 8042,5237 8081,5236 8179,5236 8217,5236 8414,5235 8452,5234 8539,5235 8566,5235 8750,5234 8786,5233 8873,5233 8898,5234 9307,5234 9332,5234 9560,5234 9587,5235 9722,5235"/>
+                <Baseline points="7941,5237 8042,5237 8081,5236 8179,5236 8217,5236 8414,5235 8452,5234 8539,5235 8566,5235 8750,5234 8786,5233 8873,5233 8898,5234 9307,5234 9332,5234 9560,5234 9587,5235 9721,5234"/>
                 <TextEquiv>
                     <Unicode>Die auf Grund der Geſetze des Norddeutſchen Bundes vom</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r35l2" custom="readingOrder {index:1;}">
                 <Coords points="7802,5251 7906,5249 8980,5245 9084,5245 9717,5246 9717,5300 9681,5302 9154,5314 9136,5314 7840,5306 7802,5305"/>
-                <Baseline points="7802,5305 7850,5305 7906,5305 8211,5303 8264,5303 8398,5303 8449,5302 8565,5302 8619,5302 8705,5302 8760,5301 8893,5301 8949,5301 9084,5301 9136,5301 9229,5301 9266,5301 9335,5302 9375,5302 9468,5302 9504,5302 9577,5301 9613,5301 9718,5302"/>
+                <Baseline points="7802,5305 7850,5305 7906,5305 8211,5303 8264,5303 8398,5303 8449,5302 8565,5302 8619,5302 8705,5302 8760,5301 8893,5301 8949,5301 9084,5301 9136,5301 9229,5301 9266,5301 9335,5302 9375,5302 9468,5302 9504,5302 9577,5301 9613,5301 9717,5300"/>
                 <TextEquiv>
                     <Unicode>9. November 1867 und 20. Mai 1869 (B. G. Bl. S. 157</Unicode>
                 </TextEquiv>
@@ -5592,7 +5592,7 @@ von 1870.</Unicode>
             </TextLine>
             <TextLine id="r35l5" custom="readingOrder {index:4;}">
                 <Coords points="7804,5453 7891,5452 8031,5451 8856,5448 9174,5447 9653,5447 9699,5449 9724,5472 9724,5491 9699,5503 9653,5517 8132,5517 7804,5506"/>
-                <Baseline points="7804,5506 8002,5507 8031,5506 8148,5505 8185,5505 8389,5504 8412,5505 8469,5505 8497,5505 8693,5503 8720,5503 8828,5503 8856,5502 8938,5503 8964,5503 9727,5501"/>
+                <Baseline points="7804,5506 8002,5507 8031,5506 8148,5505 8185,5505 8389,5504 8412,5505 8469,5505 8497,5505 8693,5503 8720,5503 8828,5503 8856,5502 8938,5503 8964,5503 9722,5491"/>
                 <TextEquiv>
                     <Unicode>Serie VI., werden in Berlin von der Staatsſchulden⸗Tilgungs⸗</Unicode>
                 </TextEquiv>
@@ -5648,7 +5648,7 @@ von 1870.</Unicode>
             </TextLine>
             <TextLine id="r35l13" custom="readingOrder {index:12;}">
                 <Coords points="7806,5991 7875,5985 9070,5983 9269,5983 9692,5984 9728,5989 9728,6039 9408,6052 7875,6056 7806,6046"/>
-                <Baseline points="7806,6046 8669,6040 8706,6040 9034,6039 9070,6039 9472,6039 9522,6038 9728,6040"/>
+                <Baseline points="7806,6046 8669,6040 8706,6040 9034,6039 9070,6039 9472,6039 9522,6038 9727,6039"/>
                 <TextEquiv>
                     <Unicode>Staatsſchulden⸗Tilgungskaſſe beſtimmten Einſendungen direkt</Unicode>
                 </TextEquiv>
@@ -6143,7 +6143,7 @@ der Preußiſchen Bank vom 15. April 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 4 5</CornerPts>
             </TableCell>
@@ -6157,7 +6157,7 @@ der Preußiſchen Bank vom 15. April 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6171,7 +6171,7 @@ der Preußiſchen Bank vom 15. April 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6185,7 +6185,7 @@ der Preußiſchen Bank vom 15. April 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6206,7 +6206,7 @@ der Preußiſchen Bank vom 15. April 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6220,7 +6220,7 @@ der Preußiſchen Bank vom 15. April 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6234,7 +6234,7 @@ der Preußiſchen Bank vom 15. April 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>

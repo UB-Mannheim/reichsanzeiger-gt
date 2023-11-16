@@ -1,24 +1,24 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
     <Metadata>
         <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.7.1:model_id=40804:lm=none:date=04_07_2022_13:21
 prov=READ-COOP:name=PyLaia@Transkribus:version=0.7.1:model_id=40804:date=04_07_2022_13:21
 Transkribus</Creator>
         <Created>2021-12-14T11:22:44.921+01:00</Created>
-        <LastChange>2022-12-07T16:13:37.172+01:00</LastChange>
+        <LastChange>2023-11-15T18:33:33.018+01:00</LastChange>
         <Comments>
                 Measurement unit: pixel
                 PrimaryLanguage: 
                 Producer: Transkribus
             </Comments>
-        <TranskribusMetadata docId="888085" pageId="34058945" pageNr="2" tsid="105747974" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=HZNZTQXQSBMUYFTOKJNSVOXV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=USVRCMQRQKHMJMXIGGKGFHCN" imageId="27308943"/>
+        <TranskribusMetadata docId="888085" pageId="34058945" pageNr="2" tsid="139827604" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=HZNZTQXQSBMUYFTOKJNSVOXV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XLZNYOQPDPJAGKRNJXZGREJH" imageId="27308943"/>
     </Metadata>
     <Page imageFilename="1829_73_0295.jpg" imageWidth="8664" imageHeight="6408">
         <PrintSpace>
             <Coords points="624,271 8101,229 8081,5989 604,6031"/>
         </PrintSpace>
         <ReadingOrder>
-            <OrderedGroup id="ro_1690360019581" caption="Regions reading order">
+            <OrderedGroup id="ro_1700129745676" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
                 <RegionRefIndexed index="1" regionRef="r2"/>
                 <RegionRefIndexed index="2" regionRef="r3"/>
@@ -123,7 +123,7 @@ Transkribus</Creator>
             </TextLine>
             <TextLine id="r1l11" custom="readingOrder {index:10;}">
                 <Coords points="858,1057 880,1054 1042,1046 1594,1022 2621,994 2655,994 2655,1057 1846,1090 992,1119 880,1119 858,1107"/>
-                <Baseline points="858,1094 992,1104 1042,1102 1267,1093 1317,1091 1399,1087 1437,1086 1518,1083 1562,1081 1846,1070 1890,1069 2299,1056 2337,1054 2535,1048 2597,1046 2655,1044"/>
+                <Baseline points="862,1103 992,1104 1042,1102 1267,1093 1317,1091 1399,1087 1437,1086 1518,1083 1562,1081 1846,1070 1890,1069 2299,1056 2337,1054 2535,1048 2597,1046 2655,1044"/>
                 <TextEquiv>
                     <Unicode>ihrer Menge, als des wohlfeilen Brandtweines wegen, iſt</Unicode>
                 </TextEquiv>
@@ -202,7 +202,7 @@ und dem zunehmenden Elende nach Moͤglichkeit entgegen zu
             <Coords points="1560,1576 1969,1570 1966,1631 1560,1645"/>
             <TextLine id="r2l1" custom="readingOrder {index:0;}">
                 <Coords points="1567,1587 1855,1578 1879,1578 1963,1592 1960,1627 1671,1640 1567,1641"/>
-                <Baseline points="1567,1635 1963,1630"/>
+                <Baseline points="1567,1635 1960,1627"/>
                 <TextEquiv>
                     <Unicode>Mexiko.</Unicode>
                 </TextEquiv>
@@ -649,7 +649,7 @@ laſſen muͤſſen, ſo ſcheint uns eine Reaction nicht wahr⸗
             </TextLine>
             <TextLine id="r7l3" custom="readingOrder {index:2;}">
                 <Coords points="921,5200 962,5194 1714,5183 2555,5173 2580,5173 2640,5178 2723,5187 2723,5227 2580,5240 2384,5250 1592,5257 1440,5258 962,5258 921,5253"/>
-                <Baseline points="920,5247 1502,5245 1556,5244 1661,5243 1714,5242 2052,5238 2088,5237 2447,5230 2486,5230 2580,5228 2614,5228 2723,5226"/>
+                <Baseline points="921,5247 1502,5245 1556,5244 1661,5243 1714,5242 2052,5238 2088,5237 2447,5230 2486,5230 2580,5228 2614,5228 2723,5226"/>
                 <TextEquiv>
                     <Unicode>Waaren⸗Gattungen ſind betraͤchtliche Quantitaͤten auf dem</Unicode>
                 </TextEquiv>
@@ -677,7 +677,7 @@ laſſen muͤſſen, ſo ſcheint uns eine Reaction nicht wahr⸗
             </TextLine>
             <TextLine id="r7l7" custom="readingOrder {index:6;}">
                 <Coords points="928,5458 963,5456 1044,5452 2637,5439 2664,5439 2730,5453 2730,5491 2600,5506 2326,5512 1890,5513 1267,5523 1155,5517 928,5507"/>
-                <Baseline points="932,5507 999,5512 1078,5506 1250,5508 1286,5509 1511,5507 1552,5507 1657,5506 1686,5506 1919,5505 1958,5504 2076,5503 2113,5502 2232,5501 2267,5500 2532,5495 2570,5494 2730,5491"/>
+                <Baseline points="932,5507 999,5510 1078,5506 1250,5508 1286,5509 1511,5507 1552,5507 1657,5506 1686,5506 1919,5505 1958,5504 2076,5503 2113,5502 2232,5501 2267,5500 2532,5495 2570,5494 2730,5491"/>
                 <TextEquiv>
                     <Unicode>die uͤbrigen Waaren ſind geſucht; bloß rohe Producte haben</Unicode>
                 </TextEquiv>
@@ -691,7 +691,7 @@ laſſen muͤſſen, ſo ſcheint uns eine Reaction nicht wahr⸗
             </TextLine>
             <TextLine id="r7l9" custom="readingOrder {index:8;}">
                 <Coords points="926,5587 1210,5582 2299,5569 2734,5569 2734,5621 2614,5637 1765,5646 1026,5651 923,5651"/>
-                <Baseline points="926,5653 1037,5651 1076,5650 1173,5649 1210,5648 1566,5638 1605,5638 1668,5637 1716,5637 1843,5637 1859,5637 2021,5635 2060,5635 2126,5634 2168,5634 2259,5633 2299,5632 2734,5620"/>
+                <Baseline points="926,5651 1036,5650 1076,5650 1173,5649 1210,5648 1566,5638 1605,5638 1668,5637 1716,5637 1843,5637 1859,5637 2021,5635 2060,5635 2126,5634 2168,5634 2259,5633 2299,5632 2734,5620"/>
                 <TextEquiv>
                     <Unicode>ſind mit Meßfremden angefuͤllt, und an den Verkaufs⸗Stel⸗</Unicode>
                 </TextEquiv>
@@ -777,7 +777,7 @@ ward hier zum ſiebenten Male der Carneval (wie bereits</Unicode>
             </TextLine>
             <TextLine id="r9l5" custom="readingOrder {index:4;}">
                 <Coords points="2741,583 2936,582 4182,558 4311,558 4396,563 4400,566 4409,573 4406,627 4266,613 2964,645 2741,649"/>
-                <Baseline points="2735,643 2919,638 2957,637 3043,635 3070,634 3324,627 3361,626 3471,624 3508,623 3672,618 3699,617 3982,608 4016,607 4229,600 4265,605 4396,611"/>
+                <Baseline points="2741,643 2919,638 2957,637 3043,635 3070,634 3324,627 3361,626 3471,624 3508,623 3672,618 3699,617 3982,608 4016,607 4229,600 4265,605 4396,611"/>
                 <TextEquiv>
                     <Unicode>Haͤlfte des Februars eine eigene Carnevals Zeitung erſchein</Unicode>
                 </TextEquiv>
@@ -791,7 +791,7 @@ ward hier zum ſiebenten Male der Carneval (wie bereits</Unicode>
             </TextLine>
             <TextLine id="r9l7" custom="readingOrder {index:6;}">
                 <Coords points="2734,726 2909,717 3040,701 4189,683 4246,683 4347,689 4399,705 4394,712 4398,749 4347,740 3788,762 3069,784 3040,784 2863,780 2739,784"/>
-                <Baseline points="2747,773 2865,772 2909,770 3138,764 3178,763 3230,761 3271,760 3504,755 3559,754 3639,751 3679,750 4135,738 4169,737 4347,740 4374,746 4393,751"/>
+                <Baseline points="2747,773 2865,772 2909,770 3138,764 3178,763 3230,761 3271,760 3504,755 3559,754 3639,751 3679,750 4135,738 4169,737 4347,740 4374,744 4393,748"/>
                 <TextEquiv>
                     <Unicode>gere Auswahl in Hinſicht der aufzunehmenden Artikel w</Unicode>
                 </TextEquiv>
@@ -805,7 +805,7 @@ ward hier zum ſiebenten Male der Carneval (wie bereits</Unicode>
             </TextLine>
             <TextLine id="r9l9" custom="readingOrder {index:8;}">
                 <Coords points="2744,857 2852,852 2991,847 3737,827 4193,821 4307,821 4353,827 4354,875 4255,886 2893,920 2744,920"/>
-                <Baseline points="2744,908 2893,903 2929,902 3217,894 3258,893 3410,889 3447,888 3567,886 3594,885 3712,883 3737,882 3885,878 3912,876 4132,871 4157,870 4354,870"/>
+                <Baseline points="2744,908 2893,903 2929,902 3217,894 3258,893 3410,889 3447,888 3567,886 3594,885 3712,883 3737,882 3885,878 3912,876 4132,871 4157,870 4353,870"/>
                 <TextEquiv>
                     <Unicode>ſchaft geſprochen wird, muß auch gleich gedruckt werden.</Unicode>
                 </TextEquiv>
@@ -888,7 +888,7 @@ gefunden.</Unicode>
             </TextLine>
             <TextLine id="r10l3" custom="readingOrder {index:2;}">
                 <Coords points="2755,1467 2832,1454 3016,1438 3793,1422 4091,1417 4235,1416 4338,1416 4367,1418 4405,1422 4400,1482 3312,1509 2912,1513 2893,1513 2755,1504"/>
-                <Baseline points="2755,1503 2856,1501 2893,1500 2977,1498 3016,1497 3400,1486 3440,1485 3521,1483 3560,1482 3766,1476 3793,1476 4004,1471 4063,1470 4208,1466 4235,1466 4338,1464 4357,1464 4403,1471"/>
+                <Baseline points="2755,1503 2856,1501 2893,1500 2977,1498 3016,1497 3400,1486 3440,1485 3521,1483 3560,1482 3766,1476 3793,1476 4004,1471 4063,1470 4208,1466 4235,1466 4338,1464 4357,1464 4400,1470"/>
                 <TextEquiv>
                     <Unicode>und zur Unterſtuͤtzung der hieſigen Armen. Man darf hoff</Unicode>
                 </TextEquiv>
@@ -1060,7 +1060,7 @@ dem rechten Rheinufer leichter und bequemer gemacht.</Unicode>
             </TextLine>
             <TextLine id="r14l11" custom="readingOrder {index:10;}">
                 <Coords points="2779,2916 4160,2866 4377,2866 4407,2868 4407,2931 4371,2940 3016,2973 2929,2970 2780,2973"/>
-                <Baseline points="2779,2966 2877,2964 2933,2963 2991,2962 3043,2961 3173,2958 3206,2958 3514,2951 3552,2951 3665,2948 3707,2948 3951,2939 3989,2938 4078,2935 4115,2933 4407,2928"/>
+                <Baseline points="2779,2965 2877,2964 2933,2963 2991,2962 3043,2961 3173,2958 3206,2958 3514,2951 3552,2951 3665,2948 3707,2948 3951,2939 3989,2938 4078,2935 4115,2933 4407,2928"/>
                 <TextEquiv>
                     <Unicode>clave!" (Ich verkuͤndige Ew. Eminenz das gluͤcklichſte</Unicode>
                 </TextEquiv>
@@ -1196,14 +1196,14 @@ clave!)</Unicode>
             </TextLine>
             <TextLine id="r15l16" custom="readingOrder {index:15;}">
                 <Coords points="2801,4040 3254,4017 4088,3994 4398,3994 4429,4005 4429,4043 4319,4066 3409,4083 3085,4088 2801,4088"/>
-                <Baseline points="2801,4088 2887,4085 2941,4083 3085,4079 3137,4077 3212,4076 3254,4075 3672,4064 3720,4063 3798,4062 3849,4061 4042,4055 4088,4054 4428,4044"/>
+                <Baseline points="2801,4088 2887,4085 2941,4083 3085,4079 3137,4077 3212,4076 3254,4075 3672,4064 3720,4063 3798,4062 3849,4061 4042,4055 4088,4054 4427,4043"/>
                 <TextEquiv>
                     <Unicode>den durch die Conſtitutionen der Paͤpſte vorgeſchrieben</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r15l17" custom="readingOrder {index:16;}">
                 <Coords points="2801,4116 2827,4103 2970,4095 3411,4079 3912,4068 4046,4068 4265,4071 4426,4068 4423,4125 3111,4162 2970,4162 2801,4155"/>
-                <Baseline points="2801,4155 2931,4151 2970,4150 3111,4145 3160,4143 3240,4141 3292,4140 3367,4138 3411,4137 3693,4130 3740,4129 3821,4126 3870,4125 4157,4119 4207,4117 4318,4115 4364,4114 4426,4113"/>
+                <Baseline points="2801,4155 2931,4151 2970,4150 3111,4145 3160,4143 3240,4141 3292,4140 3367,4138 3411,4137 3693,4130 3740,4129 3821,4126 3870,4125 4157,4119 4207,4117 4318,4115 4364,4114 4423,4112"/>
                 <TextEquiv>
                     <Unicode>einer Zeit, wo die Heftigkeit der Partheien oder zum</Unicode>
                 </TextEquiv>
@@ -1322,7 +1322,7 @@ clave!)</Unicode>
             </TextLine>
             <TextLine id="r15l34" custom="readingOrder {index:33;}">
                 <Coords points="2829,5243 3027,5224 3365,5208 4276,5182 4306,5182 4426,5189 4426,5234 4306,5254 3672,5275 2939,5294 2829,5294"/>
-                <Baseline points="2821,5286 2931,5284 2993,5284 3091,5281 3128,5279 3290,5274 3326,5273 3664,5262 3725,5260 3924,5257 3960,5256 4062,5255 4101,5254 4234,5251 4268,5252 4418,5228"/>
+                <Baseline points="2829,5286 2931,5284 2993,5284 3091,5281 3128,5279 3290,5274 3326,5273 3664,5262 3725,5260 3924,5257 3960,5256 4062,5255 4101,5254 4234,5251 4268,5252 4418,5228"/>
                 <TextEquiv>
                     <Unicode>gen, mit einem Geiſtlichen, welcher von einer Diener</Unicode>
                 </TextEquiv>
@@ -1461,7 +1461,7 @@ der Behoͤrden uͤber diejenigen Angelegenheiten, deren</Unicode>
             </TextLine>
             <TextLine id="r16l4" custom="readingOrder {index:3;}">
                 <Coords points="4423,518 4706,498 4960,494 6114,501 6111,562 5018,564 4771,568 4420,587"/>
-                <Baseline points="4424,576 4678,556 5031,548 5534,547 6112,556"/>
+                <Baseline points="4424,576 4678,556 5031,548 5534,547 6111,555"/>
                 <TextEquiv>
                     <Unicode>llegiums empfaͤngt die diplomatiſchen Mittheilungen. Doch</Unicode>
                 </TextEquiv>
@@ -1482,7 +1482,7 @@ der Behoͤrden uͤber diejenigen Angelegenheiten, deren</Unicode>
             </TextLine>
             <TextLine id="r16l7" custom="readingOrder {index:6;}">
                 <Coords points="4465,724 4539,716 4616,704 4732,700 4872,698 5085,695 5163,695 5614,700 6029,706 6105,719 6105,757 5614,764 4499,768 4465,763"/>
-                <Baseline points="4471,767 4561,762 4616,759 4907,750 4962,749 5038,749 5085,750 5306,750 5365,750 5516,752 5574,752 5798,754 5850,754 5915,755 5968,755 6105,757"/>
+                <Baseline points="4471,763 4561,762 4616,759 4907,750 4962,749 5038,749 5085,750 5306,750 5365,750 5516,752 5574,752 5798,754 5850,754 5915,755 5968,755 6105,757"/>
                 <TextEquiv>
                     <Unicode>und Conclaviſt die Beſuche ſeiner Freunde an einer</Unicode>
                 </TextEquiv>
@@ -1496,7 +1496,7 @@ der Behoͤrden uͤber diejenigen Angelegenheiten, deren</Unicode>
             </TextLine>
             <TextLine id="r16l9" custom="readingOrder {index:8;}">
                 <Coords points="4422,865 4518,845 4683,839 4747,834 5101,830 5158,830 5825,834 5955,835 6018,837 6106,852 6106,888 5955,899 4497,900 4425,909"/>
-                <Baseline points="4424,901 4497,892 4532,892 4643,887 4683,885 4772,883 4814,883 4970,882 5010,881 5062,881 5101,883 5418,884 5454,884 5591,885 5631,885 5707,886 5749,887 6106,885"/>
+                <Baseline points="4424,900 4497,892 4532,892 4643,887 4683,885 4772,883 4814,883 4970,882 5010,881 5062,881 5101,883 5418,884 5454,884 5591,885 5631,885 5707,886 5749,887 6106,885"/>
                 <TextEquiv>
                     <Unicode>nen vor, daß dieſes in Gegenwart eines der Wachthaben⸗</Unicode>
                 </TextEquiv>
@@ -1771,7 +1771,7 @@ moͤglich zu verſtellen pflegt.</Unicode>
             </TextLine>
             <TextLine id="r18l8" custom="readingOrder {index:7;}">
                 <Coords points="4450,3014 4690,3017 4958,3015 5528,3015 6054,3016 6102,3032 6100,3071 5752,3082 4617,3082 4449,3067"/>
-                <Baseline points="4457,3065 4591,3064 4617,3064 4707,3064 4738,3063 4822,3064 4861,3063 5193,3064 5230,3064 5329,3064 5361,3064 5453,3064 5481,3064 5675,3064 5715,3064 5874,3065 5911,3065 6101,3064"/>
+                <Baseline points="4457,3065 4591,3064 4617,3064 4707,3064 4738,3063 4822,3064 4861,3063 5193,3064 5230,3064 5329,3064 5361,3064 5453,3064 5481,3064 5675,3064 5715,3064 5874,3065 5911,3065 6100,3063"/>
                 <TextEquiv>
                     <Unicode>minum qui me judicaturus est, me eligere quem secun-</Unicode>
                 </TextEquiv>
@@ -1911,7 +1911,7 @@ moͤglich zu verſtellen pflegt.</Unicode>
             </TextLine>
             <TextLine id="r18l28" custom="readingOrder {index:27;}">
                 <Coords points="4531,4320 5075,4320 6014,4320 6079,4335 6079,4372 6048,4386 4850,4387 4595,4387 4531,4373"/>
-                <Baseline points="4542,4376 4850,4375 4903,4374 4976,4375 5024,4375 5377,4373 5429,4373 5561,4374 5620,4374 5707,4373 5764,4373 5852,4373 5905,4374 6079,4372"/>
+                <Baseline points="4542,4375 4850,4375 4903,4374 4976,4375 5024,4375 5377,4373 5429,4373 5561,4374 5620,4374 5707,4373 5764,4373 5852,4373 5905,4374 6079,4372"/>
                 <TextEquiv>
                     <Unicode>beſchraͤnken die Waͤhlbarkeit nicht auf das heilige</Unicode>
                 </TextEquiv>
@@ -1981,7 +1981,7 @@ moͤglich zu verſtellen pflegt.</Unicode>
             </TextLine>
             <TextLine id="r18l38" custom="readingOrder {index:37;}">
                 <Coords points="4462,4970 4639,4980 5957,4981 6071,4996 6071,5035 5957,5045 5423,5051 4688,5051 4584,5049 4464,5029"/>
-                <Baseline points="4462,5020 4639,5041 4688,5040 4736,5040 4775,5041 4873,5041 4922,5041 5020,5040 5069,5040 5150,5039 5188,5039 5423,5037 5459,5037 5670,5035 5710,5035 5764,5035 5804,5034 5882,5034 5919,5034 6071,5035"/>
+                <Baseline points="4463,5019 4639,5041 4688,5040 4736,5040 4775,5041 4873,5041 4922,5041 5020,5040 5069,5040 5150,5039 5188,5039 5423,5037 5459,5037 5670,5035 5710,5035 5764,5035 5804,5034 5882,5034 5919,5034 6071,5035"/>
                 <TextEquiv>
                     <Unicode>nguͤltig, ſo wie nur der geringſte Verſtoß in der Form</Unicode>
                 </TextEquiv>
@@ -2054,14 +2054,14 @@ iſt ſeit dem Anfange des 18ten Jahrhunderts, vier</Unicode>
             </TextLine>
             <TextLine id="r19l2" custom="readingOrder {index:1;}">
                 <Coords points="4521,5318 4785,5319 5928,5314 5968,5314 6069,5318 6069,5367 5838,5378 5645,5382 5401,5384 4785,5384 4521,5360"/>
-                <Baseline points="4522,5363 4624,5370 4673,5370 4747,5371 4785,5372 4947,5372 4996,5373 5051,5372 5098,5374 5260,5373 5297,5373 5458,5371 5508,5371 5592,5370 5628,5369 5678,5369 5719,5369 5890,5368 5928,5369 6069,5367"/>
+                <Baseline points="4522,5360 4624,5369 4673,5370 4747,5371 4785,5372 4947,5372 4996,5373 5051,5372 5098,5374 5260,5373 5297,5373 5458,5371 5508,5371 5592,5370 5628,5369 5678,5369 5719,5369 5890,5368 5928,5369 6069,5367"/>
                 <TextEquiv>
                     <Unicode>man die Zettel in einem Ofen, der zu dieſem Ende</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r19l3" custom="readingOrder {index:2;}">
                 <Coords points="4495,5371 4623,5383 5839,5380 5971,5380 6000,5381 6068,5395 6068,5433 5936,5444 5150,5450 4548,5436 4492,5414"/>
-                <Baseline points="4499,5423 4589,5438 4623,5438 4773,5437 4811,5437 5041,5438 5077,5438 5150,5439 5228,5439 5344,5439 5382,5438 5477,5438 5517,5437 5602,5437 5629,5437 5802,5435 5839,5434 6068,5433"/>
+                <Baseline points="4501,5417 4589,5436 4623,5437 4773,5437 4811,5437 5041,5438 5077,5438 5150,5439 5228,5439 5344,5439 5382,5438 5477,5438 5517,5437 5602,5437 5629,5437 5802,5435 5839,5434 6068,5433"/>
                 <TextEquiv>
                     <Unicode>dem Altar errichtet iſt. Der aus der Roͤhre deſſelben</Unicode>
                 </TextEquiv>
@@ -2173,7 +2173,7 @@ und daß man ſich mit der genauen Reviſion der</Unicode>
             </TextLine>
             <TextLine id="r20l8" custom="readingOrder {index:7;}">
                 <Coords points="6194,775 6242,774 6667,774 6772,775 6824,777 6824,800 6786,829 6437,838 6406,838 6194,824"/>
-                <Baseline points="6194,823 6295,824 6332,824 6591,824 6621,825 6684,826 6724,827 6816,827"/>
+                <Baseline points="6194,823 6295,824 6332,824 6591,824 6621,825 6684,826 6724,827 6805,813"/>
                 <TextEquiv>
                     <Unicode>sibi imposuit N. N.“</Unicode>
                 </TextEquiv>

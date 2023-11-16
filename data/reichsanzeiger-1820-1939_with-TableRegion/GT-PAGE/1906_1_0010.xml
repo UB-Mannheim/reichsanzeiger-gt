@@ -1,24 +1,24 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
     <Metadata>
         <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.7.1:model_id=40804:lm=none:date=19_06_2022_21:19
 prov=READ-COOP:name=PyLaia@Transkribus:version=0.7.1:model_id=40804:date=19_06_2022_21:19
 Transkribus</Creator>
         <Created>2021-12-14T12:03:26.136+01:00</Created>
-        <LastChange>2023-06-14T13:38:21.506+02:00</LastChange>
+        <LastChange>2023-11-15T20:44:12.949+01:00</LastChange>
         <Comments>
                 Measurement unit: pixel
                 PrimaryLanguage: 
                 Producer: Transkribus
             </Comments>
-        <TranskribusMetadata docId="984381" pageId="38084373" pageNr="3" tsid="126973564" status="GT" userId="109938" imgUrl="https://files.transkribus.eu/Get?id=XTRJCYBKFHABZOYUWARLEYCQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TMVHGSTUQLKRMGLQJYHPSHJO" imageId="30689792"/>
+        <TranskribusMetadata docId="984381" pageId="38084373" pageNr="3" tsid="139840390" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=XTRJCYBKFHABZOYUWARLEYCQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VOVAFXEEFWIVKLZIPMNOSZDP" imageId="30689792"/>
     </Metadata>
     <Page imageFilename="1906_1_0010.jpg" imageWidth="9960" imageHeight="7160">
         <PrintSpace>
             <Coords points="493,299 9648,217 9742,6851 499,6904"/>
         </PrintSpace>
         <ReadingOrder>
-            <OrderedGroup id="ro_1690359995255" caption="Regions reading order">
+            <OrderedGroup id="ro_1700129726795" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
                 <RegionRefIndexed index="1" regionRef="r2"/>
                 <RegionRefIndexed index="2" regionRef="r3"/>
@@ -134,7 +134,7 @@ Transkribus</Creator>
             </TextLine>
             <TextLine id="r1l4" custom="readingOrder {index:3;}">
                 <Coords points="607,628 1413,627 1640,624 1661,639 1661,664 1637,666 1515,674 1287,675 1192,675 688,674 607,672"/>
-                <Baseline points="610,668 707,667 732,668 790,668 817,667 873,668 888,668 1085,668 1101,667 1201,666 1226,668 1287,667 1310,667 1360,667 1413,667 1662,665"/>
+                <Baseline points="610,668 707,667 732,668 790,668 817,667 873,668 888,668 1085,668 1101,667 1201,666 1226,668 1287,667 1310,667 1360,667 1413,667 1661,664"/>
                 <TextEquiv>
                     <Unicode>fällig am 15. November 1905, auf die Antragſtellerin</Unicode>
                 </TextEquiv>
@@ -367,7 +367,7 @@ Königliches Amtsgericht.</Unicode>
             </TextLine>
             <TextLine id="r3l13" custom="readingOrder {index:12;}">
                 <Coords points="606,1957 1347,1951 1616,1951 1659,1963 1656,1993 1574,1995 694,2003 622,2003 606,1996"/>
-                <Baseline points="606,1996 694,1995 753,1994 878,1994 903,1994 969,1993 985,1993 1040,1993 1065,1993 1308,1992 1321,1992 1657,1990"/>
+                <Baseline points="606,1996 694,1995 753,1994 878,1994 903,1994 969,1993 985,1993 1040,1993 1065,1993 1308,1992 1321,1992 1656,1989"/>
                 <TextEquiv>
                     <Unicode>richt, Zimmer Nr. 93, anberaumten Aufgebotstermine</Unicode>
                 </TextEquiv>
@@ -381,7 +381,7 @@ Königliches Amtsgericht.</Unicode>
             </TextLine>
             <TextLine id="r3l15" custom="readingOrder {index:14;}">
                 <Coords points="606,2058 626,2047 965,2046 1426,2045 1506,2045 1582,2046 1645,2051 1655,2063 1655,2075 1642,2087 1306,2093 844,2095 626,2095 606,2088"/>
-                <Baseline points="606,2088 965,2087 1426,2084 1655,2083"/>
+                <Baseline points="606,2088 965,2087 1426,2084 1651,2078"/>
                 <TextEquiv>
                     <Unicode>widrigenfalls die Kraftloserklärung der Urkunde er⸗</Unicode>
                 </TextEquiv>
@@ -402,7 +402,7 @@ Königliches Amtsgericht.</Unicode>
             </TextLine>
             <TextLine id="r3l18" custom="readingOrder {index:17;}">
                 <Coords points="796,2186 1159,2183 1325,2182 1368,2180 1466,2182 1466,2220 1277,2231 1015,2232 821,2232 796,2227"/>
-                <Baseline points="796,2226 1468,2221"/>
+                <Baseline points="796,2226 1466,2220"/>
                 <TextEquiv>
                     <Unicode>Königliches Amtsgericht. Abt. 8.</Unicode>
                 </TextEquiv>
@@ -452,14 +452,14 @@ Königliches Amtsgericht. Abt. 8.</Unicode>
             </TextLine>
             <TextLine id="r5l2" custom="readingOrder {index:1;}">
                 <Coords points="652,2314 779,2313 1208,2311 1560,2310 1654,2322 1654,2349 1615,2351 1373,2356 995,2357 922,2357 761,2360 652,2352"/>
-                <Baseline points="652,2352 897,2352 1063,2351 1656,2348"/>
+                <Baseline points="652,2352 897,2352 1063,2351 1654,2348"/>
                 <TextEquiv>
                     <Unicode>Die Firma Benz &amp; Cie., Rheiniſche Gasmotoren⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r5l3" custom="readingOrder {index:2;}">
                 <Coords points="606,2361 772,2359 1577,2355 1656,2355 1655,2400 1271,2403 772,2407 606,2406"/>
-                <Baseline points="606,2400 1054,2397 1347,2396 1656,2394"/>
+                <Baseline points="606,2400 1054,2397 1347,2396 1655,2393"/>
                 <TextEquiv>
                     <Unicode>fabrik Aktiengeſellſchaft in Mannheim, vertreten durch</Unicode>
                 </TextEquiv>
@@ -522,7 +522,7 @@ Königliches Amtsgericht. Abt. 8.</Unicode>
             </TextLine>
             <TextLine id="r5l12" custom="readingOrder {index:11;}">
                 <Coords points="607,2780 713,2778 1083,2774 1399,2773 1525,2773 1641,2781 1657,2791 1657,2808 1644,2815 1525,2819 1358,2820 775,2823 752,2823 607,2815"/>
-                <Baseline points="607,2815 816,2815 968,2815 1358,2812 1559,2811 1656,2813"/>
+                <Baseline points="607,2815 816,2815 968,2815 1358,2812 1559,2811 1654,2809"/>
                 <TextEquiv>
                     <Unicode>12 Uhr, vor dem unterzeichneten Gerichte an⸗</Unicode>
                 </TextEquiv>
@@ -536,7 +536,7 @@ Königliches Amtsgericht. Abt. 8.</Unicode>
             </TextLine>
             <TextLine id="r5l14" custom="readingOrder {index:13;}">
                 <Coords points="604,2882 654,2872 829,2869 1214,2866 1541,2865 1643,2865 1656,2884 1656,2897 1643,2910 1173,2913 1038,2915 604,2909"/>
-                <Baseline points="604,2909 672,2910 701,2909 752,2909 778,2909 935,2908 959,2908 1176,2906 1193,2906 1438,2905 1464,2905 1517,2905 1541,2904 1659,2903"/>
+                <Baseline points="604,2909 672,2909 701,2909 752,2909 778,2909 935,2908 959,2908 1176,2906 1193,2906 1438,2905 1464,2905 1517,2905 1541,2904 1654,2898"/>
                 <TextEquiv>
                     <Unicode>und die Urkunde vorzulegen, widrigenfalls die Kraft⸗</Unicode>
                 </TextEquiv>
@@ -599,7 +599,7 @@ Großherzogliches Amtsgericht.</Unicode>
             <Coords points="751,3084 1662,3083 1662,3832 597,3833 598,3136 752,3137"/>
             <TextLine id="r7l1" custom="readingOrder {index:0;}">
                 <Coords points="1450,3083 1658,3082 1658,3128 1450,3129"/>
-                <Baseline points="1450,3124 1659,3123"/>
+                <Baseline points="1450,3124 1658,3123"/>
                 <TextEquiv>
                     <Unicode>F 7/05. 2.</Unicode>
                 </TextEquiv>
@@ -613,7 +613,7 @@ Großherzogliches Amtsgericht.</Unicode>
             </TextLine>
             <TextLine id="r7l3" custom="readingOrder {index:2;}">
                 <Coords points="650,3136 1656,3131 1658,3176 652,3181"/>
-                <Baseline points="652,3176 1658,3171"/>
+                <Baseline points="652,3176 1657,3171"/>
                 <TextEquiv>
                     <Unicode>Der Bauunternehmer Franz Kaiſer in Saarbrücken</Unicode>
                 </TextEquiv>
@@ -627,7 +627,7 @@ Großherzogliches Amtsgericht.</Unicode>
             </TextLine>
             <TextLine id="r7l5" custom="readingOrder {index:4;}">
                 <Coords points="605,3229 1657,3223 1658,3267 606,3273"/>
-                <Baseline points="608,3270 1658,3264"/>
+                <Baseline points="608,3270 1657,3264"/>
                 <TextEquiv>
                     <Unicode>ihm angenommenen Blankowechſels d. d. Weißen⸗</Unicode>
                 </TextEquiv>
@@ -641,7 +641,7 @@ Großherzogliches Amtsgericht.</Unicode>
             </TextLine>
             <TextLine id="r7l7" custom="readingOrder {index:6;}">
                 <Coords points="605,3321 1658,3314 1659,3360 606,3367"/>
-                <Baseline points="608,3362 1659,3355"/>
+                <Baseline points="608,3362 1658,3355"/>
                 <TextEquiv>
                     <Unicode>am 11. Oktober 1905 bei der Bergiſch⸗Märkiſchen</Unicode>
                 </TextEquiv>
@@ -676,21 +676,21 @@ Großherzogliches Amtsgericht.</Unicode>
             </TextLine>
             <TextLine id="r7l12" custom="readingOrder {index:11;}">
                 <Coords points="607,3555 711,3553 1029,3550 1463,3548 1484,3548 1619,3549 1662,3559 1662,3584 1638,3588 1619,3589 1396,3594 1156,3595 890,3598 700,3598 607,3593"/>
-                <Baseline points="608,3593 1001,3590 1415,3587 1663,3585"/>
+                <Baseline points="608,3593 1001,3590 1415,3587 1662,3584"/>
                 <TextEquiv>
                     <Unicode>dem unterzeichneten Gericht, Zimmer 13, anberaumten</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r7l13" custom="readingOrder {index:12;}">
                 <Coords points="606,3600 629,3599 1611,3592 1662,3594 1662,3633 1634,3633 1321,3640 1069,3643 702,3646 629,3646 606,3639"/>
-                <Baseline points="608,3639 983,3637 1227,3635 1520,3633 1666,3631"/>
+                <Baseline points="608,3639 983,3637 1227,3635 1520,3633 1662,3631"/>
                 <TextEquiv>
                     <Unicode>Aufgebotstermine ſeine Rechte anzumelden und die</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r7l14" custom="readingOrder {index:13;}">
                 <Coords points="608,3645 698,3644 962,3643 1590,3638 1605,3639 1646,3642 1661,3656 1661,3676 1649,3682 1590,3686 1025,3689 895,3689 605,3686"/>
-                <Baseline points="607,3685 759,3684 815,3684 1026,3683 1328,3681 1661,3679"/>
+                <Baseline points="607,3685 759,3684 815,3684 1026,3683 1328,3681 1659,3676"/>
                 <TextEquiv>
                     <Unicode>Urkunde vorzulegen, widrigenfalls die Kraftlos⸗</Unicode>
                 </TextEquiv>
@@ -753,7 +753,7 @@ Königliches Amtsgericht. 1.</Unicode>
             <Coords points="758,3851 1662,3851 1662,4639 601,4639 601,3904 758,3900 758,3852"/>
             <TextLine id="r9l1" custom="readingOrder {index:0;}">
                 <Coords points="654,3900 1664,3892 1667,3937 654,3943"/>
-                <Baseline points="654,3941 1667,3932"/>
+                <Baseline points="654,3941 1666,3932"/>
                 <TextEquiv>
                     <Unicode>Der Rentier Johann Groß in Tilſit, Marien⸗</Unicode>
                 </TextEquiv>
@@ -767,7 +767,7 @@ Königliches Amtsgericht. 1.</Unicode>
             </TextLine>
             <TextLine id="r9l3" custom="readingOrder {index:2;}">
                 <Coords points="610,4004 856,3991 963,3989 1485,3985 1633,3985 1664,3995 1665,4031 1600,4030 1358,4033 971,4037 785,4041 609,4041"/>
-                <Baseline points="610,4033 828,4030 856,4030 926,4029 942,4029 1261,4026 1286,4026 1469,4025 1485,4025 1665,4024"/>
+                <Baseline points="610,4033 828,4030 856,4030 926,4029 942,4029 1261,4026 1286,4026 1469,4025 1485,4025 1664,4024"/>
                 <TextEquiv>
                     <Unicode>gegangenen, kein Fälligkeitsdatum tragenden Wechſels,</Unicode>
                 </TextEquiv>
@@ -781,14 +781,14 @@ Königliches Amtsgericht. 1.</Unicode>
             </TextLine>
             <TextLine id="r9l5" custom="readingOrder {index:4;}">
                 <Coords points="608,4088 951,4083 1463,4079 1552,4079 1664,4087 1662,4120 1628,4124 779,4130 608,4126"/>
-                <Baseline points="608,4126 663,4126 754,4125 888,4123 1068,4121 1249,4119 1375,4118 1518,4117 1665,4115"/>
+                <Baseline points="608,4126 663,4126 754,4125 888,4123 1068,4121 1249,4119 1375,4118 1518,4117 1662,4114"/>
                 <TextEquiv>
                     <Unicode>der von ſeiner Ehefrau Martha Groß auf ihn ge⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r9l6" custom="readingOrder {index:5;}">
                 <Coords points="611,4140 778,4132 1665,4121 1666,4168 607,4180"/>
-                <Baseline points="609,4175 1666,4163"/>
+                <Baseline points="609,4175 1665,4163"/>
                 <TextEquiv>
                     <Unicode>zogen und von ihm angenommen iſt, verſehen mit</Unicode>
                 </TextEquiv>
@@ -816,7 +816,7 @@ Königliches Amtsgericht. 1.</Unicode>
             </TextLine>
             <TextLine id="r9l10" custom="readingOrder {index:9;}">
                 <Coords points="612,4321 882,4316 1209,4311 1517,4309 1604,4309 1638,4310 1666,4312 1667,4354 1638,4355 968,4361 903,4361 612,4358"/>
-                <Baseline points="612,4358 855,4354 987,4353 1110,4351 1488,4349 1667,4348"/>
+                <Baseline points="612,4358 855,4354 987,4353 1110,4351 1488,4349 1666,4348"/>
                 <TextEquiv>
                     <Unicode>Vorm. 10 Uhr, vor dem unterzeichneten Gericht,</Unicode>
                 </TextEquiv>
@@ -837,7 +837,7 @@ Königliches Amtsgericht. 1.</Unicode>
             </TextLine>
             <TextLine id="r9l13" custom="readingOrder {index:12;}">
                 <Coords points="613,4456 1667,4445 1668,4492 614,4505"/>
-                <Baseline points="613,4496 1668,4485"/>
+                <Baseline points="613,4495 1667,4485"/>
                 <TextEquiv>
                     <Unicode>Wechſel vorzulegen, widrigenfalls deſſen Kraftlos⸗</Unicode>
                 </TextEquiv>
@@ -962,7 +962,7 @@ Königliches Amtsgericht.</Unicode>
             </TextLine>
             <TextLine id="r11l10" custom="readingOrder {index:9;}">
                 <Coords points="622,5048 816,5044 1148,5040 1484,5038 1520,5038 1565,5039 1674,5048 1673,5077 1520,5084 1089,5086 816,5091 622,5088"/>
-                <Baseline points="622,5087 773,5084 969,5080 1174,5078 1382,5077 1674,5074"/>
+                <Baseline points="622,5087 773,5084 969,5080 1174,5078 1382,5077 1673,5073"/>
                 <TextEquiv>
                     <Unicode>Maurer Friedrich Krieghoff von hier, in Höhe von</Unicode>
                 </TextEquiv>
@@ -1104,7 +1104,7 @@ Herzogliches Amtsgericht.
             <Coords points="624,5804 778,5803 778,5804 778,5856 624,5860"/>
             <TextLine id="r12l1" custom="readingOrder {index:0;}">
                 <Coords points="629,5811 647,5810 703,5808 776,5808 776,5853 721,5857 629,5857"/>
-                <Baseline points="630,5849 777,5847"/>
+                <Baseline points="630,5849 776,5847"/>
                 <TextEquiv>
                     <Unicode>[74530]</Unicode>
                 </TextEquiv>
@@ -1117,7 +1117,7 @@ Herzogliches Amtsgericht.
             <Coords points="778,5803 1692,5800 1701,6733 632,6738 625,5858 777,5853 778,5804"/>
             <TextLine id="r13l1" custom="readingOrder {index:0;}">
                 <Coords points="1051,5803 1274,5800 1275,5845 1052,5848"/>
-                <Baseline points="1052,5843 1275,5840"/>
+                <Baseline points="1052,5843 1274,5840"/>
                 <TextEquiv>
                     <Unicode>Aufgebot.</Unicode>
                 </TextEquiv>
@@ -1131,14 +1131,14 @@ Herzogliches Amtsgericht.
             </TextLine>
             <TextLine id="r13l3" custom="readingOrder {index:2;}">
                 <Coords points="630,5903 669,5902 831,5898 1010,5894 1655,5889 1687,5889 1687,5935 941,5946 669,5946 630,5943"/>
-                <Baseline points="630,5943 938,5935 984,5938 1341,5930 1689,5929"/>
+                <Baseline points="630,5943 938,5935 984,5938 1341,5930 1687,5929"/>
                 <TextEquiv>
                     <Unicode>Charlottenburg, Bayreutherſtr. 41, vertreten durch</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r13l4" custom="readingOrder {index:3;}">
                 <Coords points="630,5951 731,5944 1124,5941 1558,5935 1600,5936 1685,5947 1686,5978 1623,5979 1520,5982 1286,5986 994,5990 731,5990 632,5992"/>
-                <Baseline points="630,5989 994,5981 1087,5980 1124,5981 1346,5977 1685,5972"/>
+                <Baseline points="631,5988 994,5981 1087,5980 1124,5981 1346,5977 1685,5972"/>
                 <TextEquiv>
                     <Unicode>den Rechtsanwalt Dr. Grelling in Berlin, Span⸗</Unicode>
                 </TextEquiv>
@@ -1159,7 +1159,7 @@ Herzogliches Amtsgericht.
             </TextLine>
             <TextLine id="r13l7" custom="readingOrder {index:6;}">
                 <Coords points="631,6090 714,6086 838,6083 1459,6076 1663,6074 1687,6085 1686,6116 1619,6119 1261,6125 1005,6127 775,6130 631,6126"/>
-                <Baseline points="631,6126 905,6121 1021,6119 1110,6118 1444,6115 1687,6111"/>
+                <Baseline points="631,6126 905,6121 1021,6119 1110,6118 1444,6115 1686,6110"/>
                 <TextEquiv>
                     <Unicode>25. Dezember 1862 in Berlin, zuletzt wohnhaft in</Unicode>
                 </TextEquiv>
@@ -1173,21 +1173,21 @@ Herzogliches Amtsgericht.
             </TextLine>
             <TextLine id="r13l9" custom="readingOrder {index:8;}">
                 <Coords points="630,6180 847,6176 1212,6170 1663,6166 1688,6166 1688,6210 1133,6220 787,6224 633,6226"/>
-                <Baseline points="632,6222 787,6216 1194,6213 1454,6206 1688,6202"/>
+                <Baseline points="632,6221 787,6216 1194,6213 1454,6206 1688,6202"/>
                 <TextEquiv>
                     <Unicode>ſchollene wird aufgefordert, ſich ſpäteſtens in dem auf</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r13l10" custom="readingOrder {index:9;}">
                 <Coords points="629,6230 709,6227 812,6223 1462,6214 1562,6214 1648,6220 1690,6223 1688,6253 1562,6257 1481,6260 849,6270 812,6270 629,6268"/>
-                <Baseline points="631,6267 690,6264 709,6264 793,6262 812,6262 916,6259 936,6259 1087,6256 1108,6257 1369,6254 1391,6253 1481,6252 1502,6251 1600,6251 1627,6251 1690,6249"/>
+                <Baseline points="631,6267 690,6264 709,6264 793,6262 812,6262 916,6259 936,6259 1087,6256 1108,6257 1369,6254 1391,6253 1481,6252 1502,6251 1600,6251 1627,6251 1688,6248"/>
                 <TextEquiv>
                     <Unicode>den 13. Juli 1906, Vormittags 11 ¼ Uhr, vor</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r13l11" custom="readingOrder {index:10;}">
                 <Coords points="630,6276 729,6269 1508,6259 1674,6259 1688,6278 1688,6290 1674,6302 1189,6310 920,6314 630,6314"/>
-                <Baseline points="630,6314 703,6312 729,6311 1015,6304 1037,6304 1189,6302 1215,6302 1354,6300 1380,6300 1480,6298 1508,6297 1691,6296"/>
+                <Baseline points="630,6314 703,6312 729,6311 1015,6304 1037,6304 1189,6302 1215,6302 1354,6300 1380,6300 1480,6298 1508,6297 1686,6291"/>
                 <TextEquiv>
                     <Unicode>dem unterzeichneten Gericht, Berlin, Neue Friedrich⸗</Unicode>
                 </TextEquiv>
@@ -1201,7 +1201,7 @@ Herzogliches Amtsgericht.
             </TextLine>
             <TextLine id="r13l13" custom="readingOrder {index:12;}">
                 <Coords points="632,6372 731,6367 922,6358 1424,6354 1672,6350 1691,6356 1691,6389 1651,6398 1081,6406 632,6409"/>
-                <Baseline points="631,6406 787,6402 815,6402 1159,6395 1195,6395 1232,6394 1265,6394 1405,6392 1443,6391 1691,6388"/>
+                <Baseline points="632,6406 787,6402 815,6402 1159,6395 1195,6395 1232,6394 1265,6394 1405,6392 1443,6391 1691,6388"/>
                 <TextEquiv>
                     <Unicode>raumten Aufgebotstermine zu melden, widrigenfalls</Unicode>
                 </TextEquiv>
@@ -1215,7 +1215,7 @@ Herzogliches Amtsgericht.
             </TextLine>
             <TextLine id="r13l15" custom="readingOrder {index:14;}">
                 <Coords points="632,6459 965,6452 1434,6443 1571,6443 1608,6444 1692,6454 1690,6486 1571,6488 807,6500 777,6500 634,6502"/>
-                <Baseline points="632,6498 807,6494 846,6494 928,6492 965,6491 1068,6489 1111,6489 1190,6488 1221,6487 1296,6486 1337,6485 1394,6484 1434,6484 1692,6480"/>
+                <Baseline points="633,6497 807,6494 846,6494 928,6492 965,6491 1068,6489 1111,6489 1190,6488 1221,6487 1296,6486 1337,6485 1394,6484 1434,6484 1690,6479"/>
                 <TextEquiv>
                     <Unicode>Auskunft über Leben oder Tod des Verſchollenen</Unicode>
                 </TextEquiv>
@@ -1250,7 +1250,7 @@ Herzogliches Amtsgericht.
             </TextLine>
             <TextLine id="r13l20" custom="readingOrder {index:19;}">
                 <Coords points="739,6691 764,6686 1337,6677 1580,6673 1591,6702 1591,6716 1581,6718 1512,6722 1216,6729 960,6734 764,6734 739,6731"/>
-                <Baseline points="741,6727 986,6725 1319,6719 1592,6715"/>
+                <Baseline points="741,6727 986,6725 1319,6719 1591,6715"/>
                 <TextEquiv>
                     <Unicode>Königliches Amtsgericht I. Abteilung 82.</Unicode>
                 </TextEquiv>
@@ -1309,7 +1309,7 @@ Königliches Amtsgericht I. Abteilung 82.</Unicode>
             </TextLine>
             <TextLine id="r15l3" custom="readingOrder {index:2;}">
                 <Coords points="1711,581 1890,577 2182,575 2289,575 2759,577 2759,613 2568,624 1732,625 1711,625"/>
-                <Baseline points="1711,618 1796,618 1864,617 2215,614 2312,617 2376,617 2402,617 2455,618 2472,618 2655,617 2673,616 2759,614"/>
+                <Baseline points="1711,618 1796,618 1864,617 2215,614 2312,617 2376,617 2402,617 2455,618 2472,618 2655,617 2673,616 2758,613"/>
                 <TextEquiv>
                     <Unicode>hat die Todeserklärung ſeiner am 14. Dezember 1868</Unicode>
                 </TextEquiv>
@@ -1323,7 +1323,7 @@ Königliches Amtsgericht I. Abteilung 82.</Unicode>
             </TextLine>
             <TextLine id="r15l5" custom="readingOrder {index:4;}">
                 <Coords points="1711,674 1757,672 1901,670 2137,668 2720,672 2759,676 2759,705 2571,716 2055,711 1810,718 1711,715"/>
-                <Baseline points="1711,711 1810,710 1995,708 2032,707 2100,707 2137,707 2262,708 2449,708 2491,708 2516,708 2653,709 2757,705 2761,705"/>
+                <Baseline points="1711,711 1810,710 1995,708 2032,707 2100,707 2137,707 2262,708 2449,708 2491,708 2516,708 2653,709 2757,705"/>
                 <TextEquiv>
                     <Unicode>haft geweſenen und angeblich ſeit 16 Jahren ver⸗</Unicode>
                 </TextEquiv>
@@ -1386,14 +1386,14 @@ Königliches Amtsgericht I. Abteilung 82.</Unicode>
             </TextLine>
             <TextLine id="r15l14" custom="readingOrder {index:13;}">
                 <Coords points="1710,1088 1928,1084 2179,1083 2701,1083 2758,1087 2758,1120 2688,1128 2594,1131 2507,1132 2230,1126 2118,1129 1842,1133 1781,1133 1710,1128"/>
-                <Baseline points="1710,1128 1904,1125 1927,1125 2072,1123 2096,1123 2134,1122 2170,1122 2314,1123 2354,1124 2543,1123 2581,1123 2759,1119"/>
+                <Baseline points="1710,1128 1904,1125 1927,1125 2072,1123 2096,1123 2134,1122 2170,1122 2314,1123 2354,1124 2543,1123 2581,1123 2758,1119"/>
                 <TextEquiv>
                     <Unicode>Katharina Mickert zu erteilen vermögen, ſpäteſtens</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r15l15" custom="readingOrder {index:14;}">
                 <Coords points="1710,1135 1861,1130 2157,1128 2460,1128 2725,1129 2741,1133 2758,1138 2758,1165 2725,1174 2460,1176 2231,1176 1861,1175 1710,1174"/>
-                <Baseline points="1710,1174 1745,1173 1769,1173 1844,1171 1861,1171 2140,1169 2157,1169 2498,1171 2513,1170 2589,1170 2607,1170 2758,1167"/>
+                <Baseline points="1710,1174 1745,1173 1769,1173 1844,1171 1861,1171 2140,1169 2157,1169 2498,1171 2513,1170 2589,1170 2607,1170 2757,1165"/>
                 <TextEquiv>
                     <Unicode>in dem vorbezeichneten Aufgebotstermine dem Gerichte</Unicode>
                 </TextEquiv>
@@ -1407,7 +1407,7 @@ Königliches Amtsgericht I. Abteilung 82.</Unicode>
             </TextLine>
             <TextLine id="r15l17" custom="readingOrder {index:16;}">
                 <Coords points="1757,1226 1810,1224 2234,1221 2378,1221 2530,1224 2553,1225 2552,1265 2148,1265 2020,1270 1757,1273"/>
-                <Baseline points="1757,1266 2044,1261 2069,1261 2130,1260 2153,1260 2212,1260 2234,1260 2429,1263 2451,1263 2553,1260"/>
+                <Baseline points="1757,1266 2044,1261 2069,1261 2130,1260 2153,1260 2212,1260 2234,1260 2429,1263 2451,1263 2552,1259"/>
                 <TextEquiv>
                     <Unicode>Frankenthal, den 27. Dezember 1905.</Unicode>
                 </TextEquiv>
@@ -1464,7 +1464,7 @@ Kgl. Amtsgericht.</Unicode>
             </TextLine>
             <TextLine id="r17l2" custom="readingOrder {index:1;}">
                 <Coords points="1758,1376 2756,1370 2758,1414 1756,1421"/>
-                <Baseline points="1760,1417 2758,1410"/>
+                <Baseline points="1760,1417 2757,1410"/>
                 <TextEquiv>
                     <Unicode>Anna Maria geb. Willer, Witwe von Georg</Unicode>
                 </TextEquiv>
@@ -1548,7 +1548,7 @@ Kgl. Amtsgericht.</Unicode>
             </TextLine>
             <TextLine id="r17l14" custom="readingOrder {index:13;}">
                 <Coords points="1705,1930 2137,1926 2591,1926 2706,1932 2754,1936 2753,1966 2456,1970 2272,1968 1706,1974"/>
-                <Baseline points="1705,1970 1842,1969 1944,1968 2054,1966 2137,1966 2402,1966 2509,1965 2645,1964 2754,1962"/>
+                <Baseline points="1705,1969 1842,1969 1944,1968 2054,1966 2137,1966 2402,1966 2509,1965 2645,1964 2753,1961"/>
                 <TextEquiv>
                     <Unicode>Leben oder Tod des Verſchollenen zu erteilen ver⸗</Unicode>
                 </TextEquiv>
@@ -1576,7 +1576,7 @@ Kgl. Amtsgericht.</Unicode>
             </TextLine>
             <TextLine id="r17l18" custom="readingOrder {index:17;}">
                 <Coords points="2058,2112 2164,2111 2389,2111 2410,2113 2410,2151 2389,2153 2172,2153 2061,2156"/>
-                <Baseline points="2058,2152 2139,2150 2164,2150 2410,2151"/>
+                <Baseline points="2060,2151 2139,2150 2164,2150 2410,2151"/>
                 <TextEquiv>
                     <Unicode>Kgl. Amtsgericht.</Unicode>
                 </TextEquiv>
@@ -1633,7 +1633,7 @@ Kgl. Amtsgericht.</Unicode>
             </TextLine>
             <TextLine id="r19l3" custom="readingOrder {index:2;}">
                 <Coords points="1751,2219 1855,2218 1959,2216 2150,2214 2665,2213 2697,2213 2753,2224 2752,2256 2531,2259 1935,2262 1915,2264 1811,2263 1751,2259"/>
-                <Baseline points="1751,2259 1855,2258 2005,2256 2298,2253 2587,2252 2753,2251"/>
+                <Baseline points="1751,2259 1855,2258 2005,2256 2298,2253 2587,2252 2752,2250"/>
                 <TextEquiv>
                     <Unicode>Der Auguſt Beuttenmüller, Zimmermann in Jag⸗</Unicode>
                 </TextEquiv>
@@ -1661,14 +1661,14 @@ Kgl. Amtsgericht.</Unicode>
             </TextLine>
             <TextLine id="r19l7" custom="readingOrder {index:6;}">
                 <Coords points="1704,2405 1725,2404 2146,2400 2712,2396 2743,2396 2753,2425 2753,2433 2743,2437 2621,2444 2568,2446 1908,2450 1887,2450 1725,2449 1704,2446"/>
-                <Baseline points="1704,2443 1958,2442 2067,2440 2120,2440 2269,2438 2365,2439 2391,2439 2429,2439 2629,2439 2755,2436"/>
+                <Baseline points="1704,2443 1958,2442 2067,2440 2120,2440 2269,2438 2365,2439 2391,2439 2429,2439 2629,2439 2753,2433"/>
                 <TextEquiv>
                     <Unicode>Gerber, geb. am 19. Juni 1856 zu Uhingen, O.⸗A.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r19l8" custom="readingOrder {index:7;}">
                 <Coords points="1705,2452 1779,2451 1829,2451 1931,2462 1931,2494 1876,2496 1768,2496 1705,2493"/>
-                <Baseline points="1705,2493 1932,2488"/>
+                <Baseline points="1705,2493 1931,2488"/>
                 <TextEquiv>
                     <Unicode>Göppingen,</Unicode>
                 </TextEquiv>
@@ -1689,7 +1689,7 @@ Kgl. Amtsgericht.</Unicode>
             </TextLine>
             <TextLine id="r19l11" custom="readingOrder {index:10;}">
                 <Coords points="1705,2592 1816,2592 1842,2601 1842,2635 1816,2636 1705,2636"/>
-                <Baseline points="1706,2631 1844,2626"/>
+                <Baseline points="1706,2631 1842,2626"/>
                 <TextEquiv>
                     <Unicode>pingen,</Unicode>
                 </TextEquiv>
@@ -1731,7 +1731,7 @@ Kgl. Amtsgericht.</Unicode>
             </TextLine>
             <TextLine id="r19l17" custom="readingOrder {index:16;}">
                 <Coords points="1706,2877 1726,2868 1863,2865 2125,2862 2411,2861 2684,2861 2754,2862 2754,2898 2684,2905 1943,2910 1863,2910 1709,2909"/>
-                <Baseline points="1706,2906 1838,2905 2098,2901 2202,2902 2411,2901 2544,2900 2754,2898"/>
+                <Baseline points="1708,2905 1838,2905 2098,2901 2202,2902 2411,2901 2544,2900 2754,2898"/>
                 <TextEquiv>
                     <Unicode>werden aufgefordert, ſich ſpäteſtens in dem auf Frei⸗</Unicode>
                 </TextEquiv>
@@ -1853,7 +1853,7 @@ Hilfsrichter Renner.</Unicode>
             <Coords points="1704,3450 1865,3447 1864,3395 1863,3392 2765,3392 2772,4176 1712,4174"/>
             <TextLine id="r21l1" custom="readingOrder {index:0;}">
                 <Coords points="2127,3394 2356,3391 2357,3439 2128,3442"/>
-                <Baseline points="2130,3434 2358,3431"/>
+                <Baseline points="2130,3434 2356,3431"/>
                 <TextEquiv>
                     <Unicode>Aufgebot.</Unicode>
                 </TextEquiv>
@@ -1874,7 +1874,7 @@ Hilfsrichter Renner.</Unicode>
             </TextLine>
             <TextLine id="r21l4" custom="readingOrder {index:3;}">
                 <Coords points="1708,3539 2759,3531 2763,3571 2745,3577 2641,3577 2266,3579 1711,3583"/>
-                <Baseline points="1710,3579 2761,3570"/>
+                <Baseline points="1710,3578 2761,3570"/>
                 <TextEquiv>
                     <Unicode>Bruder Georg Ernſt Schmitt, Schreiner, zuletzt</Unicode>
                 </TextEquiv>
@@ -1888,7 +1888,7 @@ Hilfsrichter Renner.</Unicode>
             </TextLine>
             <TextLine id="r21l6" custom="readingOrder {index:5;}">
                 <Coords points="1713,3632 1942,3628 2030,3627 2344,3624 2606,3623 2746,3623 2762,3634 2761,3657 2747,3662 2725,3666 2650,3669 2172,3670 1909,3676 1754,3676 1713,3672"/>
-                <Baseline points="1713,3672 1942,3668 2173,3665 2295,3664 2570,3662 2761,3659"/>
+                <Baseline points="1713,3672 1942,3668 2173,3665 2295,3664 2570,3662 2760,3657"/>
                 <TextEquiv>
                     <Unicode>bezeichnete Verſchollene wird aufgefordert, ſich ſpä⸗</Unicode>
                 </TextEquiv>
@@ -1930,7 +1930,7 @@ Hilfsrichter Renner.</Unicode>
             </TextLine>
             <TextLine id="r21l12" custom="readingOrder {index:11;}">
                 <Coords points="1714,3908 1740,3907 1811,3907 2219,3901 2637,3898 2766,3904 2765,3939 2490,3944 2304,3947 1716,3951"/>
-                <Baseline points="1714,3948 1793,3947 1811,3947 1916,3944 1936,3944 2012,3943 2025,3943 2102,3942 2120,3942 2176,3941 2192,3941 2455,3939 2473,3938 2507,3938 2533,3938 2671,3937 2694,3937 2749,3937 2761,3937 2766,3936"/>
+                <Baseline points="1715,3947 1793,3947 1811,3947 1916,3944 1936,3944 2012,3943 2025,3943 2102,3942 2120,3942 2176,3941 2192,3941 2455,3939 2473,3938 2507,3938 2533,3938 2671,3937 2694,3937 2749,3937 2761,3937 2765,3935"/>
                 <TextEquiv>
                     <Unicode>über Leben oder Tod des Verſchollenen zu erteilen ver⸗</Unicode>
                 </TextEquiv>
@@ -2021,7 +2021,7 @@ Schott.</Unicode>
             </TextLine>
             <TextLine id="r23l3" custom="readingOrder {index:2;}">
                 <Coords points="1716,4300 2173,4293 2176,4336 1719,4343"/>
-                <Baseline points="1717,4341 2172,4334"/>
+                <Baseline points="1718,4340 2172,4334"/>
                 <TextEquiv>
                     <Unicode>Tamm in Döbeln und</Unicode>
                 </TextEquiv>
@@ -2035,7 +2035,7 @@ Schott.</Unicode>
             </TextLine>
             <TextLine id="r23l5" custom="readingOrder {index:4;}">
                 <Coords points="1718,4392 1863,4389 2125,4386 2767,4383 2766,4425 2211,4433 2057,4433 1718,4432"/>
-                <Baseline points="1718,4432 1997,4426 2211,4424 2769,4421"/>
+                <Baseline points="1718,4432 1997,4426 2211,4424 2766,4420"/>
                 <TextEquiv>
                     <Unicode>Steinmüller in Zwickau und Genoſſen als Erben</Unicode>
                 </TextEquiv>
@@ -2063,7 +2063,7 @@ Schott.</Unicode>
             </TextLine>
             <TextLine id="r23l9" custom="readingOrder {index:8;}">
                 <Coords points="1717,4577 1731,4575 1844,4575 1898,4576 1923,4589 1923,4619 1844,4618 1732,4620 1718,4618"/>
-                <Baseline points="1718,4616 1924,4614"/>
+                <Baseline points="1718,4616 1923,4614"/>
                 <TextEquiv>
                     <Unicode>Lobenſtein,</Unicode>
                 </TextEquiv>
@@ -2105,14 +2105,14 @@ Schott.</Unicode>
             </TextLine>
             <TextLine id="r23l15" custom="readingOrder {index:14;}">
                 <Coords points="1722,4854 1779,4853 2056,4847 2471,4847 2768,4848 2766,4887 2662,4890 1870,4897 1779,4897 1721,4892"/>
-                <Baseline points="1722,4894 2001,4888 2243,4885 2491,4883 2767,4883"/>
+                <Baseline points="1722,4892 2001,4888 2243,4885 2491,4883 2766,4882"/>
                 <TextEquiv>
                     <Unicode>50 Jahren von Lobenſtein nach Amerika ausgewandert</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r23l16" custom="readingOrder {index:15;}">
                 <Coords points="1722,4913 1769,4902 1814,4899 2081,4895 2333,4892 2450,4892 2590,4893 2604,4922 2604,4939 2450,4937 2188,4939 1875,4941 1814,4941 1724,4942"/>
-                <Baseline points="1722,4938 1788,4938 1899,4936 2053,4933 2188,4932 2307,4931 2602,4930"/>
+                <Baseline points="1723,4937 1788,4938 1899,4936 2053,4933 2188,4932 2307,4931 2602,4930"/>
                 <TextEquiv>
                     <Unicode>und ſeit dem 20. März 1878 verſchollen iſt,</Unicode>
                 </TextEquiv>
@@ -2126,7 +2126,7 @@ Schott.</Unicode>
             </TextLine>
             <TextLine id="r23l18" custom="readingOrder {index:17;}">
                 <Coords points="1769,4994 1792,4992 2014,4988 2349,4984 2686,4984 2767,4995 2767,5021 2686,5030 1806,5037 1792,5037 1769,5030"/>
-                <Baseline points="1769,5030 1847,5028 1941,5027 2014,5027 2128,5025 2349,5024 2551,5023 2767,5024"/>
+                <Baseline points="1769,5030 1847,5028 1941,5027 2014,5027 2128,5025 2349,5024 2551,5023 2766,5021"/>
                 <TextEquiv>
                     <Unicode>1) des im Jahre 1842 in Lichtenberg geborenen</Unicode>
                 </TextEquiv>
@@ -2147,14 +2147,14 @@ Schott.</Unicode>
             </TextLine>
             <TextLine id="r23l21" custom="readingOrder {index:20;}">
                 <Coords points="1723,5131 1921,5126 2167,5123 2376,5122 2418,5122 2510,5124 2556,5135 2556,5168 2511,5168 2250,5169 2000,5171 1724,5173"/>
-                <Baseline points="1723,5170 1868,5167 1894,5166 2131,5163 2146,5162 2349,5161 2376,5161 2556,5161"/>
+                <Baseline points="1723,5169 1868,5167 1894,5166 2131,5163 2146,5162 2349,5161 2376,5161 2556,5161"/>
                 <TextEquiv>
                     <Unicode>borenen Wilhelmine Chriſtiane Dorothee,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r23l22" custom="readingOrder {index:21;}">
                 <Coords points="1771,5178 2064,5171 2380,5168 2445,5168 2646,5169 2767,5174 2768,5210 2608,5215 2424,5215 2169,5214 1879,5218 1808,5221 1796,5221 1771,5214"/>
-                <Baseline points="1771,5214 1808,5214 1840,5213 1898,5212 1923,5211 1979,5211 2004,5211 2025,5211 2064,5210 2169,5208 2198,5208 2288,5208 2315,5208 2354,5208 2380,5207 2566,5208 2592,5207 2770,5207"/>
+                <Baseline points="1771,5214 1808,5214 1840,5213 1898,5212 1923,5211 1979,5211 2004,5211 2025,5211 2064,5210 2169,5208 2198,5208 2288,5208 2315,5208 2354,5208 2380,5207 2566,5208 2592,5207 2767,5207"/>
                 <TextEquiv>
                     <Unicode>3) des am 6. März 1851 in Lobenſtein geborenen</Unicode>
                 </TextEquiv>
@@ -2175,7 +2175,7 @@ Schott.</Unicode>
             </TextLine>
             <TextLine id="r23l25" custom="readingOrder {index:24;}">
                 <Coords points="1771,5317 1797,5316 2010,5311 2057,5310 2390,5305 2570,5308 2647,5307 2770,5317 2771,5346 2749,5348 2610,5354 2297,5350 2136,5358 2122,5358 1797,5359 1771,5352"/>
-                <Baseline points="1770,5353 2057,5347 2298,5346 2772,5345"/>
+                <Baseline points="1771,5352 2057,5347 2298,5346 2770,5345"/>
                 <TextEquiv>
                     <Unicode>4) der am 17 Auguſt 1862 in Lobenſtein geborenen</Unicode>
                 </TextEquiv>
@@ -2196,14 +2196,14 @@ Schott.</Unicode>
             </TextLine>
             <TextLine id="r23l28" custom="readingOrder {index:27;}">
                 <Coords points="1773,5462 1826,5452 1842,5451 1991,5448 2178,5446 2289,5445 2584,5444 2749,5444 2773,5456 2773,5483 2708,5490 2082,5494 1932,5494 1842,5492 1776,5492"/>
-                <Baseline points="1773,5490 1892,5489 2082,5485 2122,5485 2253,5484 2452,5483 2584,5485 2773,5483"/>
+                <Baseline points="1775,5489 1892,5489 2082,5485 2122,5485 2253,5484 2452,5483 2584,5485 2773,5483"/>
                 <TextEquiv>
                     <Unicode>welche ſämtlich ledigen Standes von Lobenſtein</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r23l29" custom="readingOrder {index:28;}">
                 <Coords points="1729,5510 1775,5497 1875,5496 2463,5492 2631,5492 2710,5493 2777,5502 2776,5534 2631,5538 2449,5537 2193,5536 2126,5541 1808,5544 1775,5544 1729,5537"/>
-                <Baseline points="1731,5538 1808,5536 2004,5533 2305,5530 2423,5530 2651,5532 2775,5529"/>
+                <Baseline points="1731,5537 1808,5536 2004,5533 2305,5530 2423,5530 2651,5532 2775,5529"/>
                 <TextEquiv>
                     <Unicode>nach Amerika ausgewandert und ſeit mehr denn</Unicode>
                 </TextEquiv>
@@ -2217,14 +2217,14 @@ Schott.</Unicode>
             </TextLine>
             <TextLine id="r23l31" custom="readingOrder {index:30;}">
                 <Coords points="1777,5590 2014,5586 2417,5583 2428,5583 2694,5584 2777,5595 2776,5624 2651,5630 1981,5628 1921,5633 1778,5631"/>
-                <Baseline points="1778,5630 1966,5624 2086,5624 2417,5621 2778,5621"/>
+                <Baseline points="1778,5630 1966,5624 2086,5624 2417,5621 2776,5620"/>
                 <TextEquiv>
                     <Unicode>beantragt. Die vorgenannten fünf Verſchollenen</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r23l32" custom="readingOrder {index:31;}">
                 <Coords points="1731,5646 1801,5638 1901,5633 2074,5630 2360,5629 2618,5629 2754,5631 2778,5640 2778,5671 2754,5672 2618,5673 2166,5677 2074,5677 1901,5676 1731,5674"/>
-                <Baseline points="1731,5674 1864,5673 2074,5669 2314,5668 2360,5668 2780,5670"/>
+                <Baseline points="1731,5674 1864,5673 2074,5669 2314,5668 2360,5668 2778,5670"/>
                 <TextEquiv>
                     <Unicode>werden hiermit aufgefordert, ſich ſpäteſtens in dem</Unicode>
                 </TextEquiv>
@@ -2252,7 +2252,7 @@ Schott.</Unicode>
             </TextLine>
             <TextLine id="r23l36" custom="readingOrder {index:35;}">
                 <Coords points="1734,5820 1985,5816 2331,5814 2779,5814 2779,5859 2698,5862 2533,5855 2402,5860 1888,5862 1734,5866"/>
-                <Baseline points="1734,5859 1855,5857 1961,5855 2293,5852 2569,5851 2626,5854 2781,5854"/>
+                <Baseline points="1734,5859 1855,5857 1961,5855 2293,5852 2569,5851 2626,5854 2779,5854"/>
                 <TextEquiv>
                     <Unicode>falls ihre Todeserklärung erfolgen wird. Zugleich</Unicode>
                 </TextEquiv>
@@ -2301,7 +2301,7 @@ Schott.</Unicode>
             </TextLine>
             <TextLine id="r23l43" custom="readingOrder {index:42;}">
                 <Coords points="2181,6137 2248,6137 2348,6149 2347,6176 2285,6179 2216,6179 2181,6177"/>
-                <Baseline points="2181,6177 2349,6175"/>
+                <Baseline points="2181,6177 2347,6174"/>
                 <TextEquiv>
                     <Unicode>Meyer.</Unicode>
                 </TextEquiv>
@@ -2397,14 +2397,14 @@ Meyer.</Unicode>
             </TextLine>
             <TextLine id="r25l5" custom="readingOrder {index:4;}">
                 <Coords points="1740,6403 1802,6395 1815,6394 2006,6392 2284,6390 2325,6390 2786,6391 2786,6434 2587,6436 1802,6436 1741,6436"/>
-                <Baseline points="1740,6431 1980,6430 2006,6430 2126,6429 2154,6429 2257,6427 2284,6427 2447,6426 2478,6426 2587,6425 2610,6426 2786,6427"/>
+                <Baseline points="1740,6430 1980,6430 2006,6430 2126,6429 2154,6429 2257,6427 2284,6427 2447,6426 2478,6426 2587,6425 2610,6426 2786,6427"/>
                 <TextEquiv>
                     <Unicode>verſchollenen Georg Peter Reinle, zuletzt wohnhaft</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r25l6" custom="readingOrder {index:5;}">
                 <Coords points="1740,6442 1822,6440 2347,6436 2508,6435 2697,6435 2769,6442 2787,6448 2787,6474 2713,6479 2231,6481 1947,6487 1822,6488 1740,6479"/>
-                <Baseline points="1741,6480 2057,6475 2219,6475 2466,6472 2600,6473 2787,6475"/>
+                <Baseline points="1741,6479 2057,6475 2219,6475 2466,6472 2600,6473 2786,6474"/>
                 <TextEquiv>
                     <Unicode>in Schwetzingen, für tot zu erklären. Der bezeichnete</Unicode>
                 </TextEquiv>
@@ -2425,7 +2425,7 @@ Meyer.</Unicode>
             </TextLine>
             <TextLine id="r25l9" custom="readingOrder {index:8;}">
                 <Coords points="1741,6581 2543,6571 2789,6576 2786,6615 2353,6617 2050,6620 1857,6624 1741,6619"/>
-                <Baseline points="1744,6617 1918,6616 2047,6615 2188,6612 2516,6612 2788,6616"/>
+                <Baseline points="1744,6617 1918,6616 2047,6615 2188,6612 2516,6612 2786,6615"/>
                 <TextEquiv>
                     <Unicode>9 Uhr, vor dem unterzeichneten Gericht anbe⸗</Unicode>
                 </TextEquiv>
@@ -2469,7 +2469,7 @@ die Todeserklärung erfolgen wird. An alle, welche</Unicode>
             </TextLine>
             <TextLine id="r26l2" custom="readingOrder {index:1;}">
                 <Coords points="2810,539 2862,526 3039,524 3304,522 3833,519 3853,519 3867,535 3867,551 3853,557 3831,563 3283,568 3262,568 2809,570"/>
-                <Baseline points="2810,566 2948,563 3177,561 3342,561 3797,558 3869,558"/>
+                <Baseline points="2810,566 2948,563 3177,561 3342,561 3797,558 3866,551"/>
                 <TextEquiv>
                     <Unicode>erteilen vermögen, ergeht die Aufforderung, ſpä⸗</Unicode>
                 </TextEquiv>
@@ -2490,7 +2490,7 @@ die Todeserklärung erfolgen wird. An alle, welche</Unicode>
             </TextLine>
             <TextLine id="r26l5" custom="readingOrder {index:4;}">
                 <Coords points="2855,666 2880,662 3392,659 3510,659 3654,661 3675,662 3674,699 3653,700 3435,705 2982,709 2880,709 2855,703"/>
-                <Baseline points="2855,703 3165,699 3191,699 3254,699 3281,698 3338,699 3364,699 3547,698 3574,698 3675,696"/>
+                <Baseline points="2855,703 3165,699 3191,699 3254,699 3281,698 3338,699 3364,699 3547,698 3574,698 3674,695"/>
                 <TextEquiv>
                     <Unicode>Schwetzingen, den 20. Dezember 1905.</Unicode>
                 </TextEquiv>
@@ -2543,7 +2543,7 @@ Büchner, Sekretär.</Unicode>
             </TextLine>
             <TextLine id="r28l2" custom="readingOrder {index:1;}">
                 <Coords points="2851,872 2951,871 3011,868 3684,865 3726,863 3810,864 3852,875 3868,883 3866,903 3850,907 3373,914 3336,914 3011,913 2857,914"/>
-                <Baseline points="2859,911 3134,907 3224,907 3399,906 3567,906 3864,904"/>
+                <Baseline points="2859,911 3134,907 3224,907 3399,906 3567,906 3863,903"/>
                 <TextEquiv>
                     <Unicode>Am 8. Juni 1904 iſt zu Demmin im Kranken⸗</Unicode>
                 </TextEquiv>
@@ -2585,7 +2585,7 @@ Büchner, Sekretär.</Unicode>
             </TextLine>
             <TextLine id="r28l8" custom="readingOrder {index:7;}">
                 <Coords points="2809,1151 2881,1148 3715,1143 3767,1143 3809,1146 3865,1153 3862,1184 3634,1190 3459,1191 3013,1193 2925,1193 2809,1187"/>
-                <Baseline points="2809,1187 2856,1187 2881,1187 3013,1184 3040,1184 3191,1185 3223,1185 3486,1182 3512,1182 3544,1182 3571,1181 3674,1182 3715,1182 3767,1181 3790,1181 3864,1181"/>
+                <Baseline points="2809,1187 2856,1187 2881,1187 3013,1184 3040,1184 3191,1185 3223,1185 3486,1182 3512,1182 3544,1182 3571,1181 3674,1182 3715,1182 3767,1181 3790,1181 3862,1180"/>
                 <TextEquiv>
                     <Unicode>7. März 1906, Vormittags 9 Uhr, bei dem</Unicode>
                 </TextEquiv>
@@ -2606,7 +2606,7 @@ Büchner, Sekretär.</Unicode>
             </TextLine>
             <TextLine id="r28l11" custom="readingOrder {index:10;}">
                 <Coords points="2807,1300 2853,1288 2978,1285 3290,1282 3508,1281 3712,1281 3764,1282 3821,1285 3849,1289 3865,1295 3865,1319 3849,1321 3747,1325 3475,1329 3290,1329 2810,1331"/>
-                <Baseline points="2807,1327 2950,1324 3108,1323 3290,1321 3508,1320 3674,1320 3787,1319 3866,1317"/>
+                <Baseline points="2809,1326 2950,1324 3108,1323 3290,1321 3508,1320 3674,1320 3787,1319 3865,1317"/>
                 <TextEquiv>
                     <Unicode>anderer Erbe als der Preußiſche Fiskus nicht vor⸗</Unicode>
                 </TextEquiv>
@@ -2620,7 +2620,7 @@ Büchner, Sekretär.</Unicode>
             </TextLine>
             <TextLine id="r28l13" custom="readingOrder {index:12;}">
                 <Coords points="2804,1380 2927,1379 2947,1379 2946,1420 2805,1420"/>
-                <Baseline points="2806,1419 2947,1418"/>
+                <Baseline points="2806,1419 2946,1417"/>
                 <TextEquiv>
                     <Unicode>650 ℳ</Unicode>
                 </TextEquiv>
@@ -2681,14 +2681,14 @@ Königliches Amtsgericht.</Unicode>
             </TextLine>
             <TextLine id="r30l2" custom="readingOrder {index:1;}">
                 <Coords points="2851,1598 3019,1596 3040,1595 3596,1591 3759,1591 3865,1603 3865,1629 3840,1637 3739,1638 3504,1640 3306,1640 2966,1641 2852,1640"/>
-                <Baseline points="2855,1638 3134,1634 3179,1634 3236,1633 3288,1633 3504,1632 3541,1632 3794,1630 3827,1630 3866,1629"/>
+                <Baseline points="2855,1638 3134,1634 3179,1634 3236,1633 3288,1633 3504,1632 3541,1632 3794,1630 3827,1630 3865,1629"/>
                 <TextEquiv>
                     <Unicode>Durch Urteil des Königlichen Amtsgerichts zu</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r30l3" custom="readingOrder {index:2;}">
                 <Coords points="2809,1645 2951,1642 3665,1637 3827,1637 3862,1650 3862,1675 3799,1682 3070,1688 2977,1688 2809,1685"/>
-                <Baseline points="2809,1684 2922,1682 3100,1680 3266,1679 3284,1679 3370,1678 3473,1678 3622,1677 3864,1676"/>
+                <Baseline points="2809,1684 2922,1682 3100,1680 3266,1679 3284,1679 3370,1678 3473,1678 3622,1677 3862,1675"/>
                 <TextEquiv>
                     <Unicode>Löbau Weſtpr. vom 7. Mai 1885 iſt der wahrſchein⸗</Unicode>
                 </TextEquiv>
@@ -2702,7 +2702,7 @@ Königliches Amtsgericht.</Unicode>
             </TextLine>
             <TextLine id="r30l5" custom="readingOrder {index:4;}">
                 <Coords points="2812,1738 2840,1736 3048,1734 3364,1732 3754,1732 3866,1735 3867,1769 3846,1770 3539,1779 3347,1778 2933,1781 2811,1779"/>
-                <Baseline points="2812,1776 3001,1774 3307,1772 3456,1771 3754,1769 3869,1770"/>
+                <Baseline points="2812,1776 3001,1774 3307,1772 3456,1771 3754,1769 3867,1769"/>
                 <TextEquiv>
                     <Unicode>Warſchau verſtorbene Johann Jankowski aus</Unicode>
                 </TextEquiv>
@@ -2723,7 +2723,7 @@ Königliches Amtsgericht.</Unicode>
             </TextLine>
             <TextLine id="r30l8" custom="readingOrder {index:7;}">
                 <Coords points="2807,1886 2826,1878 2975,1874 3029,1873 3087,1872 3562,1870 3671,1870 3815,1869 3869,1879 3868,1906 3830,1915 3728,1916 3462,1917 3391,1917 3087,1916 2807,1915"/>
-                <Baseline points="2807,1915 2948,1913 3227,1911 3346,1910 3524,1909 3728,1908 3868,1907"/>
+                <Baseline points="2807,1915 2948,1913 3227,1911 3346,1910 3524,1909 3728,1908 3867,1906"/>
                 <TextEquiv>
                     <Unicode>welchen Erbrechte an dem Nachlaß zuſtehen, aufge⸗</Unicode>
                 </TextEquiv>
@@ -2890,7 +2890,7 @@ Königliches Amtsgericht.</Unicode>
             </TextLine>
             <TextLine id="r32l11" custom="readingOrder {index:10;}">
                 <Coords points="2852,2745 3007,2739 3793,2738 3863,2738 3863,2780 3554,2787 3039,2787 2880,2789 2852,2780"/>
-                <Baseline points="2852,2781 2976,2780 3277,2778 3469,2778 3863,2774"/>
+                <Baseline points="2852,2780 2976,2780 3277,2778 3469,2778 3863,2774"/>
                 <TextEquiv>
                     <Unicode>2) des Fabrikbeſitzers Heinrich Richter, damals</Unicode>
                 </TextEquiv>
@@ -2939,7 +2939,7 @@ Königliches Amtsgericht.</Unicode>
             </TextLine>
             <TextLine id="r32l18" custom="readingOrder {index:17;}">
                 <Coords points="2806,3069 3171,3063 3288,3063 3338,3075 3338,3104 3193,3107 2921,3110 2806,3114"/>
-                <Baseline points="2806,3107 2951,3105 3087,3103 3171,3102 3341,3100"/>
+                <Baseline points="2806,3107 2951,3105 3087,3103 3171,3102 3338,3100"/>
                 <TextEquiv>
                     <Unicode>heim, damals in Ratibor,</Unicode>
                 </TextEquiv>
@@ -3009,7 +3009,7 @@ Königliches Amtsgericht.</Unicode>
             </TextLine>
             <TextLine id="r32l28" custom="readingOrder {index:27;}">
                 <Coords points="2809,3530 2906,3528 2934,3527 3118,3525 3727,3522 3868,3522 3868,3570 3313,3572 2934,3572 2810,3572"/>
-                <Baseline points="2808,3568 2865,3567 2906,3567 3081,3565 3118,3564 3313,3562 3360,3563 3427,3563 3473,3562 3678,3562 3727,3562 3868,3561"/>
+                <Baseline points="2809,3567 2865,3567 2906,3567 3081,3565 3118,3564 3313,3562 3360,3563 3427,3563 3473,3562 3678,3562 3727,3562 3868,3561"/>
                 <TextEquiv>
                     <Unicode>der Stiftung Penſionen von mindeſtens jährlich</Unicode>
                 </TextEquiv>
@@ -3051,7 +3051,7 @@ Königliches Amtsgericht.</Unicode>
             </TextLine>
             <TextLine id="r32l34" custom="readingOrder {index:33;}">
                 <Coords points="2810,3803 3321,3800 3738,3800 3863,3807 3865,3840 3738,3843 3271,3847 2810,3849"/>
-                <Baseline points="2811,3845 3271,3838 3321,3838 3373,3838 3490,3839 3501,3839 3588,3839 3738,3838 3786,3838 3865,3837"/>
+                <Baseline points="2811,3845 3271,3838 3321,3838 3373,3838 3490,3839 3501,3839 3588,3839 3738,3838 3786,3838 3864,3837"/>
                 <TextEquiv>
                     <Unicode>ſtandes der Stiftung fehlen im Kodizill vom</Unicode>
                 </TextEquiv>
@@ -3086,7 +3086,7 @@ Königliches Amtsgericht.</Unicode>
             </TextLine>
             <TextLine id="r32l39" custom="readingOrder {index:38;}">
                 <Coords points="2812,4044 2907,4035 3345,4027 3551,4027 3751,4031 3866,4042 3866,4072 3578,4077 3090,4077 2813,4077"/>
-                <Baseline points="2814,4074 3298,4070 3869,4070"/>
+                <Baseline points="2814,4074 3298,4070 3866,4070"/>
                 <TextEquiv>
                     <Unicode>von Donat für ſeine Töchter, Major a. D. von</Unicode>
                 </TextEquiv>
@@ -3114,14 +3114,14 @@ Königliches Amtsgericht.</Unicode>
             </TextLine>
             <TextLine id="r32l43" custom="readingOrder {index:42;}">
                 <Coords points="2815,4221 3046,4218 3178,4217 3580,4215 3731,4215 3867,4222 3868,4259 3731,4260 3495,4263 3094,4263 2815,4264"/>
-                <Baseline points="2815,4258 2897,4257 2950,4258 3089,4257 3127,4256 3258,4254 3288,4254 3304,4254 3339,4254 3389,4254 3414,4254 3435,4254 3467,4253 3530,4252 3561,4253 3870,4255"/>
+                <Baseline points="2815,4258 2897,4257 2950,4258 3089,4257 3127,4256 3258,4254 3288,4254 3304,4254 3339,4254 3389,4254 3414,4254 3435,4254 3467,4253 3530,4252 3561,4253 3867,4255"/>
                 <TextEquiv>
                     <Unicode>ſind. Gemäß Artikel 1 bis 4 Pr. Ausf.⸗Geſ. zum</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r32l44" custom="readingOrder {index:43;}">
                 <Coords points="2819,4267 3129,4264 3457,4262 3797,4262 3866,4260 3868,4304 3364,4308 3342,4308 3021,4307 2819,4306"/>
-                <Baseline points="2819,4306 2896,4306 3069,4302 3457,4300 3870,4300"/>
+                <Baseline points="2819,4306 2896,4306 3069,4302 3457,4300 3867,4300"/>
                 <TextEquiv>
                     <Unicode>B. G.⸗B., insbeſondere § 2 Art. 1 l. c. Abſ. 3</Unicode>
                 </TextEquiv>
@@ -3156,7 +3156,7 @@ Königliches Amtsgericht.</Unicode>
             </TextLine>
             <TextLine id="r32l49" custom="readingOrder {index:48;}">
                 <Coords points="2817,4500 2842,4498 3098,4493 3668,4493 3856,4495 3870,4521 3870,4537 3703,4539 3672,4539 3098,4539 2819,4540"/>
-                <Baseline points="2817,4536 3074,4534 3418,4530 3532,4530 3870,4527"/>
+                <Baseline points="2818,4535 3074,4534 3418,4530 3532,4530 3870,4527"/>
                 <TextEquiv>
                     <Unicode>Nr. 16 des Amtsgerichts den 28. März 1906,</Unicode>
                 </TextEquiv>
@@ -3184,7 +3184,7 @@ Königliches Amtsgericht.</Unicode>
             </TextLine>
             <TextLine id="r32l53" custom="readingOrder {index:52;}">
                 <Coords points="2819,4689 2896,4682 3043,4679 3683,4678 3750,4678 3873,4683 3872,4715 3828,4721 3459,4725 3043,4725 2896,4722 2819,4723"/>
-                <Baseline points="2818,4720 2908,4719 2935,4718 2992,4718 3017,4717 3357,4717 3395,4716 3477,4716 3502,4716 3568,4716 3596,4716 3657,4715 3683,4715 3791,4715 3818,4715 3872,4715"/>
+                <Baseline points="2819,4720 2908,4719 2935,4718 2992,4718 3017,4717 3357,4717 3395,4716 3477,4716 3502,4716 3568,4716 3596,4716 3657,4715 3683,4715 3791,4715 3818,4715 3872,4715"/>
                 <TextEquiv>
                     <Unicode>wurf der Stiftungsurkunde liegt mit den Akten zur</Unicode>
                 </TextEquiv>
@@ -3307,7 +3307,7 @@ Königliches Amtsgericht.</Unicode>
             </TextLine>
             <TextLine id="r34l4" custom="readingOrder {index:3;}">
                 <Coords points="2820,5030 3117,5025 3419,5023 3514,5023 3704,5024 3722,5025 3860,5030 3876,5043 3876,5054 3860,5062 3792,5068 2897,5072 2849,5072 2820,5067"/>
-                <Baseline points="2820,5067 3002,5065 3027,5065 3090,5064 3117,5063 3260,5062 3287,5062 3326,5062 3351,5062 3401,5062 3419,5062 3792,5061 3818,5061 3879,5060"/>
+                <Baseline points="2820,5067 3002,5065 3027,5065 3090,5064 3117,5063 3260,5062 3287,5062 3326,5062 3351,5062 3401,5062 3419,5062 3792,5061 3818,5061 3876,5054"/>
                 <TextEquiv>
                     <Unicode>Schroer aus Weener iſt die Nachlaßverwaltung an⸗</Unicode>
                 </TextEquiv>
@@ -3328,7 +3328,7 @@ Königliches Amtsgericht.</Unicode>
             </TextLine>
             <TextLine id="r34l7" custom="readingOrder {index:6;}">
                 <Coords points="2868,5166 3170,5163 3383,5162 3462,5162 3482,5164 3481,5202 3308,5207 3061,5208 2868,5208"/>
-                <Baseline points="2868,5206 3061,5202 3170,5201 3482,5198"/>
+                <Baseline points="2868,5206 3061,5202 3170,5201 3481,5197"/>
                 <TextEquiv>
                     <Unicode>Weener, 28. Dezember 1905.</Unicode>
                 </TextEquiv>
@@ -3375,7 +3375,7 @@ Königliches Amtsgericht. II.</Unicode>
             </TextLine>
             <TextLine id="r36l2" custom="readingOrder {index:1;}">
                 <Coords points="2826,5375 3064,5370 3542,5368 3561,5368 3727,5369 3878,5377 3879,5406 3804,5413 3526,5414 3193,5413 2828,5415"/>
-                <Baseline points="2826,5411 2968,5409 3047,5409 3171,5407 3283,5405 3350,5408 3477,5407 3503,5407 3678,5407 3879,5406"/>
+                <Baseline points="2827,5410 2968,5409 3047,5409 3171,5407 3283,5405 3350,5408 3477,5407 3503,5407 3678,5407 3879,5406"/>
                 <TextEquiv>
                     <Unicode>der am 18. März 1844 in Berlin geborene Klempner⸗</Unicode>
                 </TextEquiv>
@@ -3574,7 +3574,7 @@ Das Amtsgericht. Abt. 8.</Unicode>
             </TextLine>
             <TextLine id="r40l7" custom="readingOrder {index:6;}">
                 <Coords points="2840,6436 2953,6435 3203,6428 3517,6427 3893,6430 3893,6469 3769,6477 3622,6475 3207,6476 2837,6472"/>
-                <Baseline points="2839,6472 3008,6468 3035,6468 3142,6468 3160,6468 3415,6468 3443,6468 3561,6467 3595,6467 3630,6466 3656,6467 3811,6468 3836,6468 3894,6469"/>
+                <Baseline points="2839,6472 3008,6468 3035,6468 3142,6468 3160,6468 3415,6468 3443,6468 3561,6467 3595,6467 3630,6466 3656,6467 3811,6468 3836,6468 3893,6469"/>
                 <TextEquiv>
                     <Unicode>vertreten durch Rechtsanwalt Klemm in Bautzen als</Unicode>
                 </TextEquiv>
@@ -3696,7 +3696,7 @@ in Niederputzkau,</Unicode>
             </TextLine>
             <TextLine id="r41l10" custom="readingOrder {index:9;}">
                 <Coords points="3918,893 3993,886 4031,887 4189,883 4862,877 4956,877 4973,890 4971,920 4759,927 4287,927 3981,933 3915,934"/>
-                <Baseline points="3915,927 4135,924 4162,923 4424,921 4515,920 4732,919 4973,918"/>
+                <Baseline points="3915,927 4135,924 4162,923 4424,921 4515,920 4732,919 4971,917"/>
                 <TextEquiv>
                     <Unicode>zugelaſſenen Rechtsanwalt zu beſtellen. Zum Zwecke</Unicode>
                 </TextEquiv>
@@ -3763,7 +3763,7 @@ Bautzen, am 27. Dezember 1905.</Unicode>
             <Coords points="3909,1176 4063,1174 4063,1123 4985,1121 4985,2147 3909,2147"/>
             <TextLine id="r43l1" custom="readingOrder {index:0;}">
                 <Coords points="4172,1129 4708,1124 4709,1167 4170,1174"/>
-                <Baseline points="4167,1165 4709,1162"/>
+                <Baseline points="4170,1165 4708,1162"/>
                 <TextEquiv>
                     <Unicode>Oeffentliche Zuſtellung.</Unicode>
                 </TextEquiv>
@@ -3798,7 +3798,7 @@ Bautzen, am 27. Dezember 1905.</Unicode>
             </TextLine>
             <TextLine id="r43l6" custom="readingOrder {index:5;}">
                 <Coords points="3916,1362 4639,1353 4874,1353 4884,1354 4957,1360 4973,1369 4973,1385 4954,1391 4874,1399 4247,1405 3943,1407 3916,1403"/>
-                <Baseline points="3916,1401 4077,1400 4215,1399 4427,1396 4639,1394 4909,1390 4974,1389"/>
+                <Baseline points="3916,1401 4077,1400 4215,1399 4427,1396 4639,1394 4909,1390 4972,1385"/>
                 <TextEquiv>
                     <Unicode>Guſtav Adolf Irmler, früher in Berlin, jetzt un⸗</Unicode>
                 </TextEquiv>
@@ -3812,7 +3812,7 @@ Bautzen, am 27. Dezember 1905.</Unicode>
             </TextLine>
             <TextLine id="r43l8" custom="readingOrder {index:7;}">
                 <Coords points="3915,1455 3932,1454 4572,1446 4844,1445 4915,1445 4972,1455 4974,1484 4774,1493 3999,1501 3915,1501"/>
-                <Baseline points="3915,1494 4137,1491 4260,1490 4551,1488 4778,1484 4872,1483 4974,1483"/>
+                <Baseline points="3915,1494 4137,1491 4260,1490 4551,1488 4778,1484 4872,1483 4973,1483"/>
                 <TextEquiv>
                     <Unicode>Ziff. 2 und 1568 Bürgerlichen Geſetzbuchs, mit dem</Unicode>
                 </TextEquiv>
@@ -3868,14 +3868,14 @@ Bautzen, am 27. Dezember 1905.</Unicode>
             </TextLine>
             <TextLine id="r43l16" custom="readingOrder {index:15;}">
                 <Coords points="3916,1827 3950,1826 4061,1823 4344,1818 4740,1816 4793,1816 4836,1817 4956,1821 4969,1833 4969,1846 4955,1853 4937,1860 4005,1869 3988,1869 3916,1861"/>
-                <Baseline points="3916,1861 4024,1861 4219,1859 4320,1858 4616,1855 4817,1854 4971,1851"/>
+                <Baseline points="3916,1861 4024,1861 4219,1859 4320,1858 4616,1855 4817,1854 4968,1846"/>
                 <TextEquiv>
                     <Unicode>10 ½ Uhr, mit der Aufforderung, einen bei dem ge⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r43l17" custom="readingOrder {index:16;}">
                 <Coords points="3915,1873 3958,1870 4105,1867 4315,1864 4840,1860 4919,1860 4959,1872 4970,1888 4970,1896 4959,1899 4905,1906 4750,1907 4301,1913 3958,1915 3915,1909"/>
-                <Baseline points="3915,1909 4046,1908 4085,1907 4245,1905 4280,1905 4544,1902 4692,1901 4970,1898"/>
+                <Baseline points="3915,1909 4046,1908 4085,1907 4245,1905 4280,1905 4544,1902 4692,1901 4969,1896"/>
                 <TextEquiv>
                     <Unicode>dachten Gerichte zugelaſſenen Anwalt zu beſtellen.</Unicode>
                 </TextEquiv>
@@ -3910,7 +3910,7 @@ Bautzen, am 27. Dezember 1905.</Unicode>
             </TextLine>
             <TextLine id="r43l22" custom="readingOrder {index:21;}">
                 <Coords points="3942,2098 4024,2099 4070,2098 4351,2095 4606,2094 4881,2093 4917,2093 4937,2094 4937,2129 4828,2140 4214,2144 4070,2144 3945,2142"/>
-                <Baseline points="3942,2139 4024,2138 4269,2135 4606,2132 4937,2129"/>
+                <Baseline points="3944,2138 4024,2138 4269,2135 4606,2132 4937,2129"/>
                 <TextEquiv>
                     <Unicode>des Königlichen Landgerichts I. Zivilkammer 34.</Unicode>
                 </TextEquiv>
@@ -3978,14 +3978,14 @@ des Königlichen Landgerichts I. Zivilkammer 34.</Unicode>
             </TextLine>
             <TextLine id="r45l4" custom="readingOrder {index:3;}">
                 <Coords points="3913,2310 3935,2308 4250,2304 4829,2299 4869,2299 4920,2300 4956,2305 4974,2313 4973,2335 4956,2341 4920,2343 3957,2355 3913,2355"/>
-                <Baseline points="3913,2347 4161,2344 4250,2343 4416,2341 4610,2340 4734,2339 4973,2337"/>
+                <Baseline points="3913,2347 4161,2344 4250,2343 4416,2341 4610,2340 4734,2339 4972,2335"/>
                 <TextEquiv>
                     <Unicode>Hurrelmann, in Bremen, vertreten durch den Rechts⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r45l5" custom="readingOrder {index:4;}">
                 <Coords points="3913,2367 4015,2355 4071,2353 4194,2351 4875,2346 4887,2346 4909,2347 4972,2358 4972,2384 4806,2393 4214,2398 4166,2398 3914,2397"/>
-                <Baseline points="3913,2394 4046,2393 4342,2389 4430,2389 4597,2387 4723,2386 4875,2385 4972,2384"/>
+                <Baseline points="3913,2393 4046,2393 4342,2389 4430,2389 4597,2387 4723,2386 4875,2385 4972,2384"/>
                 <TextEquiv>
                     <Unicode>anwalt Dr. Hartlaub in Bremen, klagt gegen ihren</Unicode>
                 </TextEquiv>
@@ -3999,7 +3999,7 @@ des Königlichen Landgerichts I. Zivilkammer 34.</Unicode>
             </TextLine>
             <TextLine id="r45l7" custom="readingOrder {index:6;}">
                 <Coords points="3913,2461 3955,2450 3973,2447 4307,2443 4806,2439 4930,2439 4972,2450 4972,2477 4840,2484 4443,2489 4077,2492 3973,2492 3913,2486"/>
-                <Baseline points="3913,2488 4077,2484 4210,2482 4480,2480 4610,2480 4724,2479 4972,2476"/>
+                <Baseline points="3913,2486 4077,2484 4210,2482 4480,2480 4610,2480 4724,2479 4972,2476"/>
                 <TextEquiv>
                     <Unicode>enthalts, mit dem Antrage: die Ehe der Parteien</Unicode>
                 </TextEquiv>
@@ -4013,7 +4013,7 @@ des Königlichen Landgerichts I. Zivilkammer 34.</Unicode>
             </TextLine>
             <TextLine id="r45l9" custom="readingOrder {index:8;}">
                 <Coords points="3913,2542 4000,2539 4151,2537 4693,2532 4913,2531 4929,2531 4953,2532 4973,2543 4973,2569 4929,2576 4826,2578 4234,2584 4151,2584 3915,2580"/>
-                <Baseline points="3913,2579 3984,2578 4000,2578 4124,2576 4151,2576 4234,2575 4258,2575 4292,2575 4314,2574 4468,2573 4500,2573 4578,2572 4603,2572 4665,2572 4693,2571 4884,2570 4913,2570 4973,2569"/>
+                <Baseline points="3914,2578 3984,2578 4000,2578 4124,2576 4151,2576 4234,2575 4258,2575 4292,2575 4314,2574 4468,2573 4500,2573 4578,2572 4603,2572 4665,2572 4693,2571 4884,2570 4913,2570 4973,2569"/>
                 <TextEquiv>
                     <Unicode>dem Bande nach zu ſcheiden, auch den Beklagten für</Unicode>
                 </TextEquiv>
@@ -4090,7 +4090,7 @@ des Königlichen Landgerichts I. Zivilkammer 34.</Unicode>
             </TextLine>
             <TextLine id="r45l20" custom="readingOrder {index:19;}">
                 <Coords points="4053,3047 4154,3044 4638,3041 4789,3041 4812,3043 4834,3054 4834,3078 4789,3088 4473,3089 4154,3089 4053,3086"/>
-                <Baseline points="4053,3086 4126,3086 4473,3082 4577,3081 4827,3080"/>
+                <Baseline points="4053,3086 4126,3086 4473,3082 4577,3081 4826,3079"/>
                 <TextEquiv>
                     <Unicode>Der Gerichtsſchreiber des Landgerichts:</Unicode>
                 </TextEquiv>
@@ -4150,14 +4150,14 @@ Der Gerichtsſchreiber des Landgerichts:
             </TextLine>
             <TextLine id="r47l2" custom="readingOrder {index:1;}">
                 <Coords points="3962,3211 4057,3210 4343,3206 4772,3202 4947,3202 4974,3213 4974,3247 4919,3249 4543,3251 4111,3253 4093,3253 3960,3251"/>
-                <Baseline points="3957,3247 4216,3247 4343,3247 4543,3244 4570,3244 4745,3242 4772,3242 4974,3241"/>
+                <Baseline points="3960,3247 4216,3247 4343,3247 4543,3244 4570,3244 4745,3242 4772,3242 4974,3241"/>
                 <TextEquiv>
                     <Unicode>Die Ehefrau des Schloſſers Wilhelm Friſchholz,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r47l3" custom="readingOrder {index:2;}">
                 <Coords points="3913,3258 4730,3248 4957,3248 4973,3266 4973,3282 4957,3288 4853,3296 3937,3304 3913,3304"/>
-                <Baseline points="3913,3293 4042,3294 4079,3294 4243,3293 4281,3292 4421,3291 4462,3291 4501,3290 4540,3290 4667,3289 4711,3289 4975,3285"/>
+                <Baseline points="3913,3293 4042,3294 4079,3294 4243,3293 4281,3292 4421,3291 4462,3291 4501,3290 4540,3290 4667,3289 4711,3289 4973,3282"/>
                 <TextEquiv>
                     <Unicode>Helene geborene Hubert, zu Caſſel, Prozeßbevoll⸗</Unicode>
                 </TextEquiv>
@@ -4185,7 +4185,7 @@ Der Gerichtsſchreiber des Landgerichts:
             </TextLine>
             <TextLine id="r47l7" custom="readingOrder {index:6;}">
                 <Coords points="3917,3446 3995,3442 4364,3438 4832,3435 4859,3435 4918,3437 4975,3445 4974,3477 4759,3481 4237,3486 4219,3486 4057,3484 3915,3482"/>
-                <Baseline points="3915,3480 3970,3481 3995,3481 4246,3478 4278,3477 4332,3477 4364,3476 4548,3475 4578,3475 4662,3474 4698,3474 4759,3474 4832,3473 4859,3473 4898,3473 4975,3472"/>
+                <Baseline points="3915,3480 3970,3481 3995,3481 4246,3478 4278,3477 4332,3477 4364,3476 4548,3475 4578,3475 4662,3474 4698,3474 4759,3474 4832,3473 4859,3473 4898,3473 4974,3471"/>
                 <TextEquiv>
                     <Unicode>der Behauptung, der Beklagte habe ſich ſeit dem</Unicode>
                 </TextEquiv>
@@ -4206,7 +4206,7 @@ Der Gerichtsſchreiber des Landgerichts:
             </TextLine>
             <TextLine id="r47l10" custom="readingOrder {index:9;}">
                 <Coords points="3915,3588 3976,3581 3990,3580 4363,3577 4519,3576 4901,3574 4932,3574 4957,3577 4972,3585 4972,3607 4957,3613 4669,3620 4442,3623 4010,3624 3976,3624 3918,3624"/>
-                <Baseline points="3917,3619 4126,3617 4153,3617 4216,3616 4240,3616 4338,3615 4363,3615 4442,3615 4468,3615 4669,3614 4709,3613 4775,3613 4800,3612 4874,3612 4901,3612 4976,3612"/>
+                <Baseline points="3917,3618 4126,3617 4153,3617 4216,3616 4240,3616 4338,3615 4363,3615 4442,3615 4468,3615 4669,3614 4709,3613 4775,3613 4800,3612 4874,3612 4901,3612 4972,3607"/>
                 <TextEquiv>
                     <Unicode>enthaltsort ſeit dieſer Zeit unbekannt, mit dem An⸗</Unicode>
                 </TextEquiv>
@@ -4366,7 +4366,7 @@ des Königlichen Landgerichts. Zivilkammer II.</Unicode>
             </TextLine>
             <TextLine id="r49l4" custom="readingOrder {index:3;}">
                 <Coords points="3922,4384 3982,4380 4033,4377 4208,4373 4334,4372 4897,4369 4932,4369 4983,4381 4983,4413 4840,4415 4540,4417 4238,4418 4208,4418 3923,4416"/>
-                <Baseline points="3922,4413 4087,4412 4138,4412 4238,4411 4278,4411 4540,4409 4578,4409 4645,4409 4686,4409 4860,4407 4897,4407 4983,4406"/>
+                <Baseline points="3922,4412 4087,4412 4138,4412 4238,4411 4278,4411 4540,4409 4578,4409 4645,4409 4686,4409 4860,4407 4897,4407 4983,4406"/>
                 <TextEquiv>
                     <Unicode>vertreten durch Rechtsanwalt Dr. Erlanger hier,</Unicode>
                 </TextEquiv>
@@ -4394,7 +4394,7 @@ des Königlichen Landgerichts. Zivilkammer II.</Unicode>
             </TextLine>
             <TextLine id="r49l8" custom="readingOrder {index:7;}">
                 <Coords points="3924,4560 4725,4555 4814,4555 4969,4560 4985,4571 4985,4587 4971,4598 4906,4599 4814,4602 4182,4605 3949,4605 3924,4599"/>
-                <Baseline points="3924,4599 4182,4597 4224,4596 4286,4596 4325,4596 4397,4595 4425,4595 4589,4594 4630,4594 4686,4593 4725,4594 4831,4593 4869,4593 4906,4593 4934,4593 4985,4592"/>
+                <Baseline points="3924,4599 4182,4597 4224,4596 4286,4596 4325,4596 4397,4595 4425,4595 4589,4594 4630,4594 4686,4593 4725,4594 4831,4593 4869,4593 4906,4593 4934,4593 4982,4588"/>
                 <TextEquiv>
                     <Unicode>Eheſcheidung, mit dem Antrage, für Recht zu er⸗</Unicode>
                 </TextEquiv>
@@ -4443,14 +4443,14 @@ des Königlichen Landgerichts. Zivilkammer II.</Unicode>
             </TextLine>
             <TextLine id="r49l15" custom="readingOrder {index:14;}">
                 <Coords points="3925,4886 3955,4884 4375,4881 4653,4880 4956,4880 4984,4889 4984,4917 4866,4925 4286,4930 4146,4930 3955,4928 3925,4922"/>
-                <Baseline points="3925,4922 4028,4922 4053,4922 4286,4920 4375,4920 4571,4919 4695,4918 4985,4916"/>
+                <Baseline points="3925,4922 4028,4922 4053,4922 4286,4920 4375,4920 4571,4919 4695,4918 4984,4916"/>
                 <TextEquiv>
                     <Unicode>lichen Landgerichts zu Stuttgart auf Freitag, den</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r49l16" custom="readingOrder {index:15;}">
                 <Coords points="3928,4931 4027,4931 4855,4925 4904,4925 4948,4927 4986,4935 4988,4965 4770,4972 4613,4973 4329,4972 4155,4975 3927,4970"/>
-                <Baseline points="3926,4966 4154,4967 4183,4967 4332,4966 4626,4964 4809,4964 4986,4963"/>
+                <Baseline points="3927,4966 4154,4967 4183,4967 4332,4966 4626,4964 4809,4964 4986,4963"/>
                 <TextEquiv>
                     <Unicode>23. März 1906, Vormittags 9 Uhr, mit der</Unicode>
                 </TextEquiv>
@@ -4559,7 +4559,7 @@ Gerichtsſchreiber des Königlichen Landgerichts.</Unicode>
             </TextLine>
             <TextLine id="r51l5" custom="readingOrder {index:4;}">
                 <Coords points="3930,5465 3970,5460 4373,5457 4771,5457 4984,5461 4987,5495 4962,5501 4538,5503 4205,5503 3931,5502"/>
-                <Baseline points="3930,5498 4094,5499 4134,5499 4236,5498 4275,5497 4333,5497 4373,5497 4638,5496 4662,5496 4911,5495 4950,5495 4987,5494"/>
+                <Baseline points="3930,5497 4094,5499 4134,5499 4236,5498 4275,5497 4333,5497 4373,5497 4638,5496 4662,5496 4911,5495 4950,5495 4986,5494"/>
                 <TextEquiv>
                     <Unicode>vertreten durch den Rechtsanwalt Winkelmann zu</Unicode>
                 </TextEquiv>
@@ -4580,7 +4580,7 @@ Gerichtsſchreiber des Königlichen Landgerichts.</Unicode>
             </TextLine>
             <TextLine id="r51l8" custom="readingOrder {index:7;}">
                 <Coords points="3934,5600 3958,5599 4240,5597 4900,5594 4933,5594 4989,5597 4989,5632 4849,5642 4478,5643 3958,5643 3934,5638"/>
-                <Baseline points="3934,5638 4173,5637 4218,5636 4275,5636 4314,5636 4478,5634 4519,5634 4586,5635 4636,5635 4849,5634 4900,5634 4990,5633"/>
+                <Baseline points="3934,5638 4173,5637 4218,5636 4275,5636 4314,5636 4478,5634 4519,5634 4586,5635 4636,5635 4849,5634 4900,5634 4989,5632"/>
                 <TextEquiv>
                     <Unicode>Aufenthalts, auf Zahlung von Alimenten, Ent⸗</Unicode>
                 </TextEquiv>
@@ -4594,7 +4594,7 @@ Gerichtsſchreiber des Königlichen Landgerichts.</Unicode>
             </TextLine>
             <TextLine id="r51l10" custom="readingOrder {index:9;}">
                 <Coords points="3934,5692 4210,5690 4575,5688 4924,5688 4975,5696 4989,5703 4989,5721 4975,5728 4782,5733 4667,5735 4423,5736 3958,5736 3934,5732"/>
-                <Baseline points="3934,5732 4184,5728 4272,5728 4291,5728 4559,5727 4575,5727 4878,5726 4989,5725"/>
+                <Baseline points="3934,5732 4184,5728 4272,5728 4291,5728 4559,5727 4575,5727 4878,5726 4987,5721"/>
                 <TextEquiv>
                     <Unicode>Behauptung, daß Beklagter der Klägerin zu 2 inner⸗</Unicode>
                 </TextEquiv>
@@ -4643,21 +4643,21 @@ Gerichtsſchreiber des Königlichen Landgerichts.</Unicode>
             </TextLine>
             <TextLine id="r51l17" custom="readingOrder {index:16;}">
                 <Coords points="3986,6017 4114,6015 4207,6014 4584,6012 4633,6012 4993,6013 4995,6053 4633,6055 4330,6059 4022,6061 4008,6061 3986,6054"/>
-                <Baseline points="3986,6054 4022,6053 4178,6053 4405,6050 4995,6051"/>
+                <Baseline points="3986,6054 4022,6053 4178,6053 4405,6050 4994,6051"/>
                 <TextEquiv>
                     <Unicode>1) an den Kläger zu 1 an jährlichen Alimenten</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r51l18" custom="readingOrder {index:17;}">
                 <Coords points="3938,6070 4048,6063 4124,6060 4520,6058 4861,6058 4966,6059 4991,6069 4991,6097 4966,6098 4861,6098 4683,6102 4671,6102 3939,6105"/>
-                <Baseline points="3938,6100 4018,6099 4124,6099 4335,6097 4454,6096 4581,6097 4746,6097 4991,6094"/>
+                <Baseline points="3938,6099 4018,6099 4124,6099 4335,6097 4454,6096 4581,6097 4746,6097 4991,6094"/>
                 <TextEquiv>
                     <Unicode>vom 14. September 1902 ab bis zum vollendeten</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r51l19" custom="readingOrder {index:18;}">
                 <Coords points="3942,6109 3961,6106 4020,6107 4339,6104 4956,6103 4968,6103 4992,6115 4993,6146 4851,6150 4186,6150 3944,6149"/>
-                <Baseline points="3943,6146 4020,6146 4242,6143 4339,6143 4499,6143 4590,6142 4617,6142 4766,6144 4992,6142"/>
+                <Baseline points="3943,6145 4020,6146 4242,6143 4339,6143 4499,6143 4590,6142 4617,6142 4766,6144 4992,6142"/>
                 <TextEquiv>
                     <Unicode>16. Lebensjahre die Summe von 180 ℳ, zahlbar in</Unicode>
                 </TextEquiv>
@@ -4713,14 +4713,14 @@ Gerichtsſchreiber des Königlichen Landgerichts.</Unicode>
             </TextLine>
             <TextLine id="r51l27" custom="readingOrder {index:26;}">
                 <Coords points="3941,6488 3984,6475 4162,6473 4972,6473 4994,6486 4994,6511 4972,6519 4195,6519 4111,6519 3941,6514"/>
-                <Baseline points="3943,6515 4286,6512 4394,6511 4520,6511 4539,6511 4703,6512 4811,6512 4994,6510"/>
+                <Baseline points="3943,6514 4286,6512 4394,6511 4520,6511 4539,6511 4703,6512 4811,6512 4994,6510"/>
                 <TextEquiv>
                     <Unicode>nebſt 4 % Zinſen ſeit dem 1. Januar 1903 zu zahlen.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r51l28" custom="readingOrder {index:27;}">
                 <Coords points="3988,6522 4012,6521 4083,6520 4370,6519 4972,6519 4995,6531 4995,6557 4972,6564 4650,6567 4534,6567 4156,6565 3988,6561"/>
-                <Baseline points="3988,6560 4060,6559 4083,6559 4214,6558 4239,6558 4334,6558 4370,6557 4431,6557 4459,6558 4650,6558 4691,6558 4749,6558 4785,6558 4997,6556"/>
+                <Baseline points="3988,6560 4060,6559 4083,6559 4214,6558 4239,6558 4334,6558 4370,6557 4431,6557 4459,6558 4650,6558 4691,6558 4749,6558 4785,6558 4995,6556"/>
                 <TextEquiv>
                     <Unicode>Die Kläger laden den Beklagten zur mündlichen</Unicode>
                 </TextEquiv>
@@ -4784,7 +4784,7 @@ Vormittags 9 Uhr, Zimmer Nr. 77. Zum Zwecke</Unicode>
             <Coords points="5086,447 6156,417 6158,656 5084,683"/>
             <TextLine id="r52l1" custom="readingOrder {index:0;}">
                 <Coords points="5094,462 5190,447 6151,417 6153,467 5091,503"/>
-                <Baseline points="5091,498 6153,462"/>
+                <Baseline points="5091,498 6152,462"/>
                 <TextEquiv>
                     <Unicode>der öffentlichen Zuſtellung wird dieſer Auszug der</Unicode>
                 </TextEquiv>
@@ -4842,14 +4842,14 @@ als Gerichtsſchreiber des Königlichen Amtsgerichts.</Unicode>
             <Coords points="5091,749 5246,739 5245,687 6160,675 6194,2149 5136,2168"/>
             <TextLine id="r54l1" custom="readingOrder {index:0;}">
                 <Coords points="5359,688 5893,673 5894,717 5360,732"/>
-                <Baseline points="5360,727 5894,712"/>
+                <Baseline points="5360,727 5893,712"/>
                 <TextEquiv>
                     <Unicode>Oeffentliche Zuſtellung.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r54l2" custom="readingOrder {index:1;}">
                 <Coords points="5145,744 5303,735 5581,726 6028,711 6136,710 6149,728 6149,739 6136,755 5518,775 5420,777 5261,776 5147,788"/>
-                <Baseline points="5150,782 5277,775 5303,774 5528,768 5567,767 5766,762 5794,761 5898,757 5938,755 5976,754 6014,752 6151,745"/>
+                <Baseline points="5150,782 5277,775 5303,774 5528,768 5567,767 5766,762 5794,761 5898,757 5938,755 5976,754 6014,752 6146,741"/>
                 <TextEquiv>
                     <Unicode>1) Die Dienſtmagd Katharina Gieſe in Straß⸗</Unicode>
                 </TextEquiv>
@@ -4863,7 +4863,7 @@ als Gerichtsſchreiber des Königlichen Amtsgerichts.</Unicode>
             </TextLine>
             <TextLine id="r54l4" custom="readingOrder {index:3;}">
                 <Coords points="5100,837 5130,835 5263,830 5536,820 5985,805 6072,803 6116,803 6158,811 6158,838 6085,846 5751,861 5515,865 5224,877 5130,878 5101,875"/>
-                <Baseline points="5105,878 5216,871 5241,870 5384,865 5409,864 5468,861 5493,860 5522,859 5536,858 5624,858 5652,857 5751,855 5778,854 5946,847 5985,846 6062,844 6077,842 6161,837"/>
+                <Baseline points="5105,875 5216,871 5241,870 5384,865 5409,864 5468,861 5493,860 5522,859 5536,858 5624,858 5652,857 5751,855 5778,854 5946,847 5985,846 6062,844 6077,842 6158,837"/>
                 <TextEquiv>
                     <Unicode>Gieſe, geboren am 3. Mai 1905, vertreten durch ſeine</Unicode>
                 </TextEquiv>
@@ -4877,7 +4877,7 @@ als Gerichtsſchreiber des Königlichen Amtsgerichts.</Unicode>
             </TextLine>
             <TextLine id="r54l6" custom="readingOrder {index:5;}">
                 <Coords points="5105,928 5131,930 5226,923 5911,901 6101,896 6159,904 6159,937 5953,945 5403,963 5293,968 5174,972 5132,967 5106,968"/>
-                <Baseline points="5107,968 5203,963 5226,962 5318,960 5342,959 5443,956 5456,956 5516,954 5532,953 5668,951 5693,950 5739,948 5753,947 5900,941 5925,939 6159,929"/>
+                <Baseline points="5106,967 5203,963 5226,962 5318,960 5342,959 5443,956 5456,956 5516,954 5532,953 5668,951 5693,950 5739,948 5753,947 5900,941 5925,939 6159,929"/>
                 <TextEquiv>
                     <Unicode>burg, klagt gegen den Guſtav de Witte, Hoteldiener,</Unicode>
                 </TextEquiv>
@@ -4891,42 +4891,42 @@ als Gerichtsſchreiber des Königlichen Amtsgerichts.</Unicode>
             </TextLine>
             <TextLine id="r54l8" custom="readingOrder {index:7;}">
                 <Coords points="5106,1031 5160,1018 5744,998 6118,985 6164,992 6164,1026 5817,1045 5494,1053 5135,1061 5108,1059"/>
-                <Baseline points="5110,1059 5342,1051 5368,1050 5494,1046 5519,1045 5617,1043 5643,1042 5698,1040 5724,1040 6166,1020"/>
+                <Baseline points="5110,1059 5342,1051 5368,1050 5494,1046 5519,1045 5617,1043 5643,1042 5698,1040 5724,1040 6164,1020"/>
                 <TextEquiv>
                     <Unicode>unbekannten Orten, unter der Behauptung, daß der</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r54l9" custom="readingOrder {index:8;}">
                 <Coords points="5109,1065 5339,1058 5700,1047 6129,1030 6167,1041 6167,1073 5754,1091 5384,1101 5224,1109 5110,1109"/>
-                <Baseline points="5108,1109 5277,1100 5318,1099 5374,1097 5414,1096 5524,1092 5561,1091 5622,1089 5663,1088 6166,1067"/>
+                <Baseline points="5109,1108 5277,1100 5318,1099 5374,1097 5414,1096 5524,1092 5561,1091 5622,1089 5663,1088 6166,1067"/>
                 <TextEquiv>
                     <Unicode>Beklagte als Vater des Klägers zu 2 zu deſſen</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r54l10" custom="readingOrder {index:9;}">
                 <Coords points="5111,1109 5797,1090 5843,1088 6168,1073 6166,1122 5842,1130 5690,1141 5398,1150 5111,1152"/>
-                <Baseline points="5109,1151 5295,1145 5424,1142 5604,1135 5794,1130 6166,1114"/>
+                <Baseline points="5111,1151 5295,1145 5424,1142 5604,1135 5794,1130 6166,1114"/>
                 <TextEquiv>
                     <Unicode>Unterhalt gemäß § 1708 ff. B. G.⸗B. und gemäß</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r54l11" custom="readingOrder {index:10;}">
                 <Coords points="5112,1159 5157,1156 5185,1157 5277,1152 6018,1126 6035,1126 6164,1134 6164,1160 6137,1168 5673,1188 5182,1195 5159,1198 5113,1205"/>
-                <Baseline points="5108,1194 5277,1192 5329,1191 5477,1186 5579,1183 5747,1176 5886,1170 6164,1158"/>
+                <Baseline points="5112,1193 5277,1192 5329,1191 5477,1186 5579,1183 5747,1176 5886,1170 6164,1158"/>
                 <TextEquiv>
                     <Unicode>§ 1715 B. G.⸗B. der Klägerin zu 1 gegenüber zur</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r54l12" custom="readingOrder {index:11;}">
                 <Coords points="5116,1207 5184,1200 5342,1196 6042,1171 6115,1171 6164,1180 6164,1209 6132,1211 5280,1244 5155,1246 5115,1255"/>
-                <Baseline points="5107,1244 5275,1238 5357,1236 5529,1231 5867,1217 6042,1210 6164,1205"/>
+                <Baseline points="5115,1244 5275,1238 5357,1236 5529,1231 5867,1217 6042,1210 6164,1205"/>
                 <TextEquiv>
                     <Unicode>Zahlung der Koſten der Entbindung und des Unter⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r54l13" custom="readingOrder {index:12;}">
                 <Coords points="5113,1252 5162,1251 5235,1247 5953,1221 6002,1220 6022,1220 6116,1223 6165,1226 6165,1253 5966,1266 5689,1277 5511,1284 5247,1291 5235,1291 5117,1298"/>
-                <Baseline points="5116,1289 5235,1286 5408,1280 5582,1275 5773,1267 6063,1256 6165,1252"/>
+                <Baseline points="5116,1288 5235,1286 5408,1280 5582,1275 5773,1267 6063,1256 6165,1252"/>
                 <TextEquiv>
                     <Unicode>halts für die erſten 6 Wochen nach derſelben ver⸗</Unicode>
                 </TextEquiv>
@@ -5052,7 +5052,7 @@ als Gerichtsſchreiber des Königlichen Amtsgerichts.</Unicode>
             </TextLine>
             <TextLine id="r54l31" custom="readingOrder {index:30;}">
                 <Coords points="5228,2075 5653,2064 5790,2064 5823,2073 5823,2105 5792,2104 5389,2113 5365,2120 5231,2126"/>
-                <Baseline points="5230,2116 5823,2097"/>
+                <Baseline points="5230,2115 5823,2097"/>
                 <TextEquiv>
                     <Unicode>(L. S.) Rittelmann,</Unicode>
                 </TextEquiv>
@@ -5130,7 +5130,7 @@ Gerichtsſchreiber des Großh. Amtsgerichts.</Unicode>
             </TextLine>
             <TextLine id="r56l3" custom="readingOrder {index:2;}">
                 <Coords points="5143,2287 5740,2268 6140,2263 6195,2272 6195,2296 6120,2308 5706,2316 5286,2332 5144,2330"/>
-                <Baseline points="5144,2329 5463,2317 5489,2316 5541,2314 5555,2314 5715,2309 5730,2309 6197,2297"/>
+                <Baseline points="5144,2329 5463,2317 5489,2316 5541,2314 5555,2314 5715,2309 5730,2309 6195,2296"/>
                 <TextEquiv>
                     <Unicode>Stallſchreiberſtr. 38, Klägers, Prozeßbevollmächtigter:</Unicode>
                 </TextEquiv>
@@ -5144,14 +5144,14 @@ Gerichtsſchreiber des Großh. Amtsgerichts.</Unicode>
             </TextLine>
             <TextLine id="r56l5" custom="readingOrder {index:4;}">
                 <Coords points="5142,2391 5207,2380 5464,2370 5857,2358 6049,2355 6102,2355 6198,2358 6198,2391 5673,2409 5316,2422 5218,2422 5147,2429"/>
-                <Baseline points="5145,2423 5316,2414 5345,2413 5423,2410 5464,2409 5552,2407 5593,2405 5696,2403 5735,2402 5798,2400 5833,2399 6024,2394 6049,2394 6198,2390"/>
+                <Baseline points="5146,2422 5316,2414 5345,2413 5423,2410 5464,2409 5552,2407 5593,2405 5696,2403 5735,2402 5798,2400 5833,2399 6024,2394 6049,2394 6198,2390"/>
                 <TextEquiv>
                     <Unicode>grafenſtr. 100, klagt gegen den Schneider Abertus</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r56l6" custom="readingOrder {index:5;}">
                 <Coords points="5145,2429 5362,2419 6100,2398 6197,2401 6197,2443 5731,2454 5465,2464 5165,2475 5147,2475"/>
-                <Baseline points="5145,2467 5296,2462 5322,2461 5587,2452 5607,2451 5726,2448 5739,2448 5775,2447 5791,2447 5932,2443 5962,2442 6126,2438 6144,2438 6197,2436"/>
+                <Baseline points="5146,2466 5296,2462 5322,2461 5587,2452 5607,2451 5726,2448 5739,2448 5775,2447 5791,2447 5932,2443 5962,2442 6126,2438 6144,2438 6197,2436"/>
                 <TextEquiv>
                     <Unicode>(Anton) Pilacziuski, früher in Berlin, Grünſtr. 20,</Unicode>
                 </TextEquiv>
@@ -5207,7 +5207,7 @@ Gerichtsſchreiber des Großh. Amtsgerichts.</Unicode>
             </TextLine>
             <TextLine id="r56l14" custom="readingOrder {index:13;}">
                 <Coords points="5199,2799 5223,2796 5349,2789 5678,2779 6080,2769 6105,2768 6190,2778 6209,2782 6209,2810 6065,2820 5610,2831 5223,2839 5199,2835"/>
-                <Baseline points="5199,2836 5235,2834 5260,2834 5324,2832 5349,2831 5461,2827 5485,2826 5530,2825 5556,2824 5659,2822 5670,2821 6039,2813 6067,2812 6123,2811 6136,2811 6209,2809"/>
+                <Baseline points="5199,2835 5235,2834 5260,2834 5324,2832 5349,2831 5461,2827 5485,2826 5530,2825 5556,2824 5659,2822 5670,2821 6039,2813 6067,2812 6123,2811 6136,2811 6209,2809"/>
                 <TextEquiv>
                     <Unicode>2) das Urteil ev. gegen Sicherheitsleiſtung für vor⸗</Unicode>
                 </TextEquiv>
@@ -5228,14 +5228,14 @@ Gerichtsſchreiber des Großh. Amtsgerichts.</Unicode>
             </TextLine>
             <TextLine id="r56l17" custom="readingOrder {index:16;}">
                 <Coords points="5159,2937 5512,2923 6130,2911 6155,2911 6212,2922 6212,2949 5946,2959 5408,2976 5390,2976 5159,2976"/>
-                <Baseline points="5163,2977 5408,2968 5450,2967 5505,2965 5528,2965 5773,2958 5812,2957 5874,2956 5910,2955 5963,2954 5990,2953 6022,2952 6049,2952 6212,2948"/>
+                <Baseline points="5163,2976 5408,2968 5450,2967 5505,2965 5528,2965 5773,2958 5812,2957 5874,2956 5910,2955 5963,2954 5990,2953 6022,2952 6049,2952 6212,2948"/>
                 <TextEquiv>
                     <Unicode>Verhandlung des Rechtsſtreits vor die 8. Kammer</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r56l18" custom="readingOrder {index:17;}">
                 <Coords points="5158,2983 5411,2976 5666,2965 5986,2958 6122,2958 6214,2956 6215,2998 6117,3005 5518,3018 5278,3026 5163,3030"/>
-                <Baseline points="5159,3022 5518,3012 5561,3011 5620,3009 5666,3008 5887,3002 5924,3001 6159,2996 6196,2995 6212,2994"/>
+                <Baseline points="5162,3021 5518,3012 5561,3011 5620,3009 5666,3008 5887,3002 5924,3001 6159,2996 6196,2995 6212,2994"/>
                 <TextEquiv>
                     <Unicode>für Handelsſachen des Königlichen Landgerichts I</Unicode>
                 </TextEquiv>
@@ -5277,7 +5277,7 @@ Gerichtsſchreiber des Großh. Amtsgerichts.</Unicode>
             </TextLine>
             <TextLine id="r56l24" custom="readingOrder {index:23;}">
                 <Coords points="5162,3261 5293,3257 5863,3241 6174,3235 6219,3242 6220,3278 5961,3287 5427,3297 5261,3303 5213,3303 5162,3299"/>
-                <Baseline points="5166,3298 5261,3297 5293,3296 5433,3292 5457,3292 5512,3290 5536,3289 5646,3286 5671,3286 5816,3283 5842,3282 5999,3279 6019,3278 6063,3277 6098,3277 6203,3274 6216,3274 6220,3274"/>
+                <Baseline points="5166,3298 5261,3297 5293,3296 5433,3292 5457,3292 5512,3290 5536,3289 5646,3286 5671,3286 5816,3283 5842,3282 5999,3279 6019,3278 6063,3277 6098,3277 6203,3274 6216,3274"/>
                 <TextEquiv>
                     <Unicode>dieſer Auszug der Klage bekannt gemacht. — Akten⸗</Unicode>
                 </TextEquiv>
@@ -5298,7 +5298,7 @@ Gerichtsſchreiber des Großh. Amtsgerichts.</Unicode>
             </TextLine>
             <TextLine id="r56l27" custom="readingOrder {index:26;}">
                 <Coords points="5539,3389 5573,3383 5831,3382 5848,3404 5846,3429 5573,3429 5539,3428"/>
-                <Baseline points="5541,3428 5848,3418"/>
+                <Baseline points="5541,3428 5846,3417"/>
                 <TextEquiv>
                     <Unicode>Steinhauff,</Unicode>
                 </TextEquiv>
@@ -5345,7 +5345,7 @@ Gerichtsſchreiber des Königlichen Landgerichts I.</Unicode>
             <Coords points="5161,3496 5315,3493 5317,3546 5162,3549"/>
             <TextLine id="r57l1" custom="readingOrder {index:0;}">
                 <Coords points="5168,3503 5253,3500 5315,3500 5315,3544 5235,3547 5168,3548"/>
-                <Baseline points="5169,3542 5316,3536"/>
+                <Baseline points="5169,3542 5315,3536"/>
                 <TextEquiv>
                     <Unicode>[74742]</Unicode>
                 </TextEquiv>
@@ -5372,7 +5372,7 @@ Gerichtsſchreiber des Königlichen Landgerichts I.</Unicode>
             </TextLine>
             <TextLine id="r58l3" custom="readingOrder {index:2;}">
                 <Coords points="5214,3549 5331,3543 5712,3533 6167,3526 6225,3534 6228,3571 5613,3581 5411,3587 5256,3587 5216,3587"/>
-                <Baseline points="5221,3587 5292,3582 5331,3581 5529,3577 5609,3575 5676,3573 5712,3573 5862,3570 5899,3569 5933,3568 5961,3568 6086,3565 6123,3565 6209,3563 6224,3563 6228,3563"/>
+                <Baseline points="5221,3587 5292,3582 5331,3581 5529,3577 5609,3575 5676,3573 5712,3573 5862,3570 5899,3569 5933,3568 5961,3568 6086,3565 6123,3565 6209,3563 6224,3563"/>
                 <TextEquiv>
                     <Unicode>Der Kaufmann Joſef Peiſſert in Bonn, Heer⸗</Unicode>
                 </TextEquiv>
@@ -5421,14 +5421,14 @@ Gerichtsſchreiber des Königlichen Landgerichts I.</Unicode>
             </TextLine>
             <TextLine id="r58l10" custom="readingOrder {index:9;}">
                 <Coords points="5178,3871 5486,3862 5924,3852 6157,3849 6202,3849 6231,3860 6231,3887 5324,3916 5180,3919"/>
-                <Baseline points="5178,3909 5344,3906 5371,3905 5427,3904 5453,3904 5655,3897 5681,3896 5721,3895 5749,3895 5784,3895 5813,3894 5864,3893 5890,3893 6118,3887 6157,3887 6231,3886"/>
+                <Baseline points="5179,3908 5344,3906 5371,3905 5427,3904 5453,3904 5655,3897 5681,3896 5721,3895 5749,3895 5784,3895 5813,3894 5864,3893 5890,3893 6118,3887 6157,3887 6231,3886"/>
                 <TextEquiv>
                     <Unicode>ſchaffung der Maſchinen ꝛc. in die Mieträume. Der</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r58l11" custom="readingOrder {index:10;}">
                 <Coords points="5179,3917 5225,3917 5548,3907 5855,3901 6208,3895 6232,3907 6233,3936 5989,3943 5729,3950 5249,3962 5181,3959"/>
-                <Baseline points="5182,3958 5302,3953 5326,3953 5419,3950 5443,3950 5502,3948 5520,3948 5714,3943 5738,3942 5796,3941 5821,3941 6032,3937 6052,3936 6213,3933 6229,3933 6233,3932"/>
+                <Baseline points="5182,3958 5302,3953 5326,3953 5419,3950 5443,3950 5502,3948 5520,3948 5714,3943 5738,3942 5796,3941 5821,3941 6032,3937 6052,3936 6213,3933 6229,3933"/>
                 <TextEquiv>
                     <Unicode>Kläger ladet den Beklagten zur mündlichen Verhand⸗</Unicode>
                 </TextEquiv>
@@ -5449,7 +5449,7 @@ Gerichtsſchreiber des Königlichen Landgerichts I.</Unicode>
             </TextLine>
             <TextLine id="r58l14" custom="readingOrder {index:13;}">
                 <Coords points="5182,4058 5501,4046 5714,4041 5954,4037 6163,4035 6195,4035 6238,4036 6238,4072 6133,4082 6075,4085 5595,4094 5298,4100 5275,4100 5182,4093"/>
-                <Baseline points="5182,4094 5213,4094 5237,4093 5338,4091 5378,4090 5468,4088 5487,4088 5610,4085 5628,4085 5684,4083 5702,4083 5914,4079 5934,4078 6133,4074 6151,4074 6234,4072"/>
+                <Baseline points="5182,4093 5213,4094 5237,4093 5338,4091 5378,4090 5468,4088 5487,4088 5610,4085 5628,4085 5684,4083 5702,4083 5914,4079 5934,4078 6133,4074 6151,4074 6234,4072"/>
                 <TextEquiv>
                     <Unicode>9 Uhr. Zum Zwecke der öffentlichen Zuſtellung wird</Unicode>
                 </TextEquiv>
@@ -5527,7 +5527,7 @@ Gerichtsſchreiber des Königlichen Amtsgerichts. Abt. 3.</Unicode>
             </TextLine>
             <TextLine id="r60l2" custom="readingOrder {index:1;}">
                 <Coords points="5232,4358 5336,4353 6002,4338 6166,4338 6225,4340 6241,4354 6241,4366 6225,4374 5980,4388 5658,4393 5277,4395 5233,4396"/>
-                <Baseline points="5237,4396 5310,4393 5336,4392 5434,4390 5461,4389 5614,4386 5630,4385 5715,4384 5741,4383 5779,4383 5807,4382 5976,4378 6002,4378 6242,4373"/>
+                <Baseline points="5236,4395 5310,4393 5336,4392 5434,4390 5461,4389 5614,4386 5630,4385 5715,4384 5741,4383 5779,4383 5807,4382 5976,4378 6002,4378 6239,4367"/>
                 <TextEquiv>
                     <Unicode>Der Wirt Andreas Fink zu Bremen, Buntentors⸗</Unicode>
                 </TextEquiv>
@@ -5548,7 +5548,7 @@ Gerichtsſchreiber des Königlichen Amtsgerichts. Abt. 3.</Unicode>
             </TextLine>
             <TextLine id="r60l5" custom="readingOrder {index:4;}">
                 <Coords points="5192,4506 5316,4494 5402,4491 5855,4479 6130,4475 6228,4474 6245,4486 6244,4521 5351,4535 5191,4543"/>
-                <Baseline points="5192,4534 5290,4532 5315,4531 5377,4530 5402,4530 5646,4525 5672,4524 5810,4522 5829,4522 6044,4518 6071,4517 6186,4513 6211,4513 6245,4512"/>
+                <Baseline points="5192,4534 5290,4532 5315,4531 5377,4530 5402,4530 5646,4525 5672,4524 5810,4522 5829,4522 6044,4518 6071,4517 6186,4513 6211,4513 6244,4511"/>
                 <TextEquiv>
                     <Unicode>gegen den Steuermann Arnold Dieckvoß, früher in</Unicode>
                 </TextEquiv>
@@ -5562,14 +5562,14 @@ Gerichtsſchreiber des Königlichen Amtsgerichts. Abt. 3.</Unicode>
             </TextLine>
             <TextLine id="r60l7" custom="readingOrder {index:6;}">
                 <Coords points="5193,4594 5250,4588 5914,4572 6203,4567 6249,4573 6251,4609 5339,4632 5309,4632 5193,4626"/>
-                <Baseline points="5193,4626 5339,4625 5379,4624 5445,4622 5486,4621 5556,4620 5583,4619 5747,4616 5791,4615 5854,4613 5893,4613 6086,4608 6126,4607 6235,4605 6246,4605 6251,4604"/>
+                <Baseline points="5193,4626 5339,4625 5379,4624 5445,4622 5486,4621 5556,4620 5583,4619 5747,4616 5791,4615 5854,4613 5893,4613 6086,4608 6126,4607 6235,4605 6246,4605 6250,4604"/>
                 <TextEquiv>
                     <Unicode>vertrag, mit dem Antrage, den Beklagten koſten⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r60l8" custom="readingOrder {index:7;}">
                 <Coords points="5193,4633 6141,4613 6161,4613 6203,4614 6245,4625 6245,4650 6203,4659 6162,4660 5372,4677 5194,4680"/>
-                <Baseline points="5193,4672 5340,4670 5448,4668 5701,4663 5796,4662 5894,4660 6013,4656 6246,4652"/>
+                <Baseline points="5193,4671 5340,4670 5448,4668 5701,4663 5796,4662 5894,4660 6013,4656 6245,4650"/>
                 <TextEquiv>
                     <Unicode>pflichtig zur Zahlung von 101 ℳ nebſt 4 % Zinſen</Unicode>
                 </TextEquiv>
@@ -5597,7 +5597,7 @@ Gerichtsſchreiber des Königlichen Amtsgerichts. Abt. 3.</Unicode>
             </TextLine>
             <TextLine id="r60l12" custom="readingOrder {index:11;}">
                 <Coords points="5198,4830 5217,4819 5230,4818 5249,4817 5562,4811 6093,4801 6138,4801 6252,4811 6252,4845 5781,4855 5400,4861 5271,4862 5230,4862 5198,4855"/>
-                <Baseline points="5199,4856 5400,4853 5472,4853 5737,4848 5894,4844 6049,4841 6252,4836"/>
+                <Baseline points="5199,4855 5400,4853 5472,4853 5737,4848 5894,4844 6049,4841 6252,4836"/>
                 <TextEquiv>
                     <Unicode>richtshaus, I. Obergeſchoß, Zimmer Nr. 69 (Eingang</Unicode>
                 </TextEquiv>
@@ -5632,14 +5632,14 @@ Gerichtsſchreiber des Königlichen Amtsgerichts. Abt. 3.</Unicode>
             </TextLine>
             <TextLine id="r60l17" custom="readingOrder {index:16;}">
                 <Coords points="5247,5050 5665,5039 5951,5035 5953,5073 5932,5075 5799,5081 5443,5088 5277,5088 5247,5087"/>
-                <Baseline points="5249,5087 5443,5086 5552,5082 5639,5081 5953,5072"/>
+                <Baseline points="5249,5087 5443,5086 5552,5082 5639,5081 5952,5072"/>
                 <TextEquiv>
                     <Unicode>Bremen, den 28. Dezember 1905.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r60l18" custom="readingOrder {index:17;}">
                 <Coords points="5335,5093 5446,5091 5889,5081 6074,5079 6090,5080 6110,5085 6127,5089 6127,5113 6110,5118 6074,5126 5614,5134 5436,5136 5335,5133"/>
-                <Baseline points="5337,5134 5436,5132 5751,5124 5862,5122 6127,5117"/>
+                <Baseline points="5337,5133 5436,5132 5751,5124 5862,5122 6125,5113"/>
                 <TextEquiv>
                     <Unicode>Der Gerichtsſchreiber des Amtsgerichts:</Unicode>
                 </TextEquiv>
@@ -5711,7 +5711,7 @@ Degenhardt, Sekretär.</Unicode>
             </TextLine>
             <TextLine id="r62l4" custom="readingOrder {index:3;}">
                 <Coords points="5205,5349 5264,5338 5514,5333 6047,5324 6123,5324 6262,5333 6262,5358 6221,5368 6012,5369 5603,5379 5367,5380 5205,5376"/>
-                <Baseline points="5205,5376 5264,5376 5490,5373 5734,5370 6008,5363 6265,5360"/>
+                <Baseline points="5205,5376 5264,5376 5490,5373 5734,5370 6008,5363 6262,5358"/>
                 <TextEquiv>
                     <Unicode>a. D. Arnold Kretzſchmar in Dresden, klagt gegen</Unicode>
                 </TextEquiv>
@@ -5739,7 +5739,7 @@ Degenhardt, Sekretär.</Unicode>
             </TextLine>
             <TextLine id="r62l8" custom="readingOrder {index:7;}">
                 <Coords points="5212,5570 5210,5523 5822,5514 6169,5507 6218,5507 6264,5515 6264,5551 5937,5557 5840,5557 5620,5562"/>
-                <Baseline points="5211,5562 5714,5554 5817,5553 5987,5549 6092,5547 6264,5544"/>
+                <Baseline points="5211,5561 5714,5554 5817,5553 5987,5549 6092,5547 6264,5544"/>
                 <TextEquiv>
                     <Unicode>daß ihr der Beklagte aus dem Wechſel vom 1. Sep⸗</Unicode>
                 </TextEquiv>
@@ -5781,14 +5781,14 @@ Degenhardt, Sekretär.</Unicode>
             </TextLine>
             <TextLine id="r62l14" custom="readingOrder {index:13;}">
                 <Coords points="5214,5809 5251,5799 5404,5796 6199,5782 6253,5782 6267,5802 6267,5814 6253,5821 6161,5829 5538,5841 5425,5841 5214,5836"/>
-                <Baseline points="5214,5836 5279,5835 5305,5835 5379,5834 5404,5834 5565,5833 5605,5832 5667,5831 5696,5831 5889,5826 5927,5826 5962,5825 5990,5825 6161,5822 6185,5822 6268,5820"/>
+                <Baseline points="5214,5836 5279,5835 5305,5835 5379,5834 5404,5834 5565,5833 5605,5832 5667,5831 5696,5831 5889,5826 5927,5826 5962,5825 5990,5825 6161,5822 6185,5822 6265,5814"/>
                 <TextEquiv>
                     <Unicode>mit dem Antrage, den Beklagten in vorläufig voll⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r62l15" custom="readingOrder {index:14;}">
                 <Coords points="5217,5843 5426,5842 6108,5828 6220,5828 6254,5829 6270,5847 6270,5861 6254,5868 6210,5874 5661,5885 5568,5886 5455,5887 5426,5887 5216,5889"/>
-                <Baseline points="5215,5883 5407,5880 5426,5880 5530,5879 5556,5878 5612,5877 5630,5877 5794,5875 5813,5874 5878,5872 5899,5872 6025,5870 6042,5869 6089,5869 6108,5869 6271,5867"/>
+                <Baseline points="5216,5883 5407,5880 5426,5880 5530,5879 5556,5878 5612,5877 5630,5877 5794,5875 5813,5874 5878,5872 5899,5872 6025,5870 6042,5869 6089,5869 6108,5869 6268,5861"/>
                 <TextEquiv>
                     <Unicode>ſtreckbarer Form zur Zahlung von 180,— ℳ Wechſel⸗</Unicode>
                 </TextEquiv>
@@ -5942,7 +5942,7 @@ Dresdeu, am 28. Dezember 1905.</Unicode>
             </TextLine>
             <TextLine id="r64l7" custom="readingOrder {index:6;}">
                 <Coords points="5226,6555 5274,6548 5434,6541 6202,6530 6268,6530 6281,6549 6281,6562 6268,6570 6134,6578 5962,6583 5785,6585 5653,6585 5495,6584 5226,6582"/>
-                <Baseline points="5226,6582 5328,6581 5352,6581 5408,6580 5434,6580 5683,6577 5719,6577 5785,6577 5813,6576 6001,6573 6026,6573 6152,6571 6177,6570 6283,6567"/>
+                <Baseline points="5226,6582 5328,6581 5352,6581 5408,6580 5434,6580 5683,6577 5719,6577 5785,6577 5813,6576 6001,6573 6026,6573 6152,6571 6177,6570 6280,6562"/>
                 <TextEquiv>
                     <Unicode>unter der Behauptung, daß Beklagter infolge Rück⸗</Unicode>
                 </TextEquiv>
@@ -6012,14 +6012,14 @@ und Uebernahme der Stempel und Notariatskoſten,</Unicode>
             </TextLine>
             <TextLine id="r65l6" custom="readingOrder {index:5;}">
                 <Coords points="6207,647 6955,627 7178,627 7269,636 7269,663 7242,669 7178,673 6591,682 6207,693"/>
-                <Baseline points="6206,689 6572,676 6627,674 6684,673 6732,672 6905,669 6955,668 7178,665 7229,664 7269,663"/>
+                <Baseline points="6207,689 6572,676 6627,674 6684,673 6732,672 6905,669 6955,668 7178,665 7229,664 7269,663"/>
                 <TextEquiv>
                     <Unicode>Sicherheitsleiſtung für vorläufig vollſtreckbar zu</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r65l7" custom="readingOrder {index:6;}">
                 <Coords points="6203,707 6240,694 6407,687 6504,684 7193,668 7216,668 7251,673 7267,689 7267,703 7251,711 6981,721 6364,734 6203,734"/>
-                <Baseline points="6203,732 6364,728 6407,726 6486,724 6504,724 6634,720 6657,719 6749,718 6768,717 6830,716 6846,716 7037,713 7063,713 7119,712 7143,711 7266,707"/>
+                <Baseline points="6203,732 6364,728 6407,726 6486,724 6504,724 6634,720 6657,719 6749,718 6768,717 6830,716 6846,716 7037,713 7063,713 7119,712 7143,711 7264,704"/>
                 <TextEquiv>
                     <Unicode>erklären. Der Kläger ladet den Beklagten zur münd⸗</Unicode>
                 </TextEquiv>
@@ -6047,7 +6047,7 @@ und Uebernahme der Stempel und Notariatskoſten,</Unicode>
             </TextLine>
             <TextLine id="r65l11" custom="readingOrder {index:10;}">
                 <Coords points="6207,889 6244,877 6412,870 7098,856 7212,856 7231,858 7272,867 7275,897 7212,902 6693,913 6485,915 6211,918"/>
-                <Baseline points="6207,915 6273,914 6314,913 6372,911 6412,910 6680,904 6731,903 6826,901 6876,901 6929,900 6977,899 7048,897 7098,896 7275,894"/>
+                <Baseline points="6210,914 6273,914 6314,913 6372,911 6412,910 6680,904 6731,903 6826,901 6876,901 6929,900 6977,899 7048,897 7098,896 7274,894"/>
                 <TextEquiv>
                     <Unicode>mit der Aufforderung, einen bei dem gedachten</Unicode>
                 </TextEquiv>
@@ -6082,7 +6082,7 @@ und Uebernahme der Stempel und Notariatskoſten,</Unicode>
             </TextLine>
             <TextLine id="r65l16" custom="readingOrder {index:15;}">
                 <Coords points="6236,1107 6364,1105 7046,1088 7229,1085 7255,1093 7255,1128 7202,1136 6982,1140 6411,1148 6331,1148 6237,1150"/>
-                <Baseline points="6236,1146 6314,1144 6331,1144 6654,1136 6679,1136 6736,1134 6761,1133 6983,1129 7007,1129 7253,1124"/>
+                <Baseline points="6236,1145 6314,1144 6331,1144 6654,1136 6679,1136 6736,1134 6761,1133 6983,1129 7007,1129 7253,1124"/>
                 <TextEquiv>
                     <Unicode>Der Gerichtsſchreiber des Königlichen Landgerichts.</Unicode>
                 </TextEquiv>
@@ -6123,7 +6123,7 @@ Der Gerichtsſchreiber des Königlichen Landgerichts.</Unicode>
             <Coords points="6205,1212 6371,1211 6370,1161 6369,1159 7286,1166 7310,2073 6228,2092"/>
             <TextLine id="r67l1" custom="readingOrder {index:0;}">
                 <Coords points="6263,1208 7279,1187 7280,1234 6264,1255"/>
-                <Baseline points="6267,1250 7280,1229"/>
+                <Baseline points="6267,1250 7279,1229"/>
                 <TextEquiv>
                     <Unicode>Der praktiſche Arzt Dr. med. Steinert zu Görlitz,</Unicode>
                 </TextEquiv>
@@ -6137,14 +6137,14 @@ Der Gerichtsſchreiber des Königlichen Landgerichts.</Unicode>
             </TextLine>
             <TextLine id="r67l3" custom="readingOrder {index:2;}">
                 <Coords points="6218,1304 6600,1293 6972,1287 7119,1286 7206,1286 7283,1294 7283,1324 7218,1330 7206,1331 6302,1349 6219,1346"/>
-                <Baseline points="6218,1343 6310,1340 6352,1339 6454,1336 6494,1335 6560,1335 6600,1334 6748,1330 6772,1329 6946,1326 6972,1326 7283,1324"/>
+                <Baseline points="6218,1342 6310,1340 6352,1339 6454,1336 6494,1335 6560,1335 6600,1334 6748,1330 6772,1329 6946,1326 6972,1326 7283,1324"/>
                 <TextEquiv>
                     <Unicode>klagt gegen den Rentier Friedrich Klingeberger,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r67l4" custom="readingOrder {index:3;}">
                 <Coords points="6221,1351 6260,1349 6451,1343 6638,1338 7033,1333 7134,1330 7192,1333 7268,1337 7283,1348 7283,1360 7272,1370 7176,1378 6806,1385 6581,1388 6303,1393 6219,1393"/>
-                <Baseline points="6219,1388 6401,1384 6427,1384 6579,1381 6806,1375 6832,1375 7010,1372 7284,1366"/>
+                <Baseline points="6219,1388 6401,1384 6427,1384 6579,1381 6806,1375 6832,1375 7010,1372 7280,1362"/>
                 <TextEquiv>
                     <Unicode>früher zu Görlitz, Biesnitzer Fußweg 872, jetzt un⸗</Unicode>
                 </TextEquiv>
@@ -6179,7 +6179,7 @@ Der Gerichtsſchreiber des Königlichen Landgerichts.</Unicode>
             </TextLine>
             <TextLine id="r67l9" custom="readingOrder {index:8;}">
                 <Coords points="6225,1581 6248,1580 6601,1571 6838,1567 7020,1565 7067,1562 7237,1562 7296,1569 7295,1604 7064,1610 6316,1626 6248,1626 6225,1621"/>
-                <Baseline points="6225,1621 6355,1616 6380,1615 6487,1614 6512,1614 6561,1613 6601,1612 6691,1611 6731,1609 6813,1606 6838,1606 6965,1604 7005,1603 7064,1602 7094,1602 7297,1597"/>
+                <Baseline points="6225,1621 6355,1616 6380,1615 6487,1614 6512,1614 6561,1613 6601,1612 6691,1611 6731,1609 6813,1606 6838,1606 6965,1604 7005,1603 7064,1602 7094,1602 7295,1596"/>
                 <TextEquiv>
                     <Unicode>Kläger 50,00 ℳ nebſt 4 % Zinſen ſeit dem Tage</Unicode>
                 </TextEquiv>
@@ -6221,7 +6221,7 @@ Der Gerichtsſchreiber des Königlichen Landgerichts.</Unicode>
             </TextLine>
             <TextLine id="r67l15" custom="readingOrder {index:14;}">
                 <Coords points="6232,1860 6870,1844 7067,1844 7257,1839 7299,1850 7299,1876 7257,1886 6780,1893 6643,1897 6348,1901 6232,1898"/>
-                <Baseline points="6234,1898 6501,1892 6578,1890 6678,1888 6818,1886 6979,1883 7083,1881 7300,1878"/>
+                <Baseline points="6234,1898 6501,1892 6578,1890 6678,1888 6818,1886 6979,1883 7083,1881 7299,1876"/>
                 <TextEquiv>
                     <Unicode>Vormittags 9 Uhr. Zum Zwecke der öffentlichen</Unicode>
                 </TextEquiv>
@@ -6249,7 +6249,7 @@ Der Gerichtsſchreiber des Königlichen Landgerichts.</Unicode>
             </TextLine>
             <TextLine id="r67l19" custom="readingOrder {index:18;}">
                 <Coords points="6239,2045 6365,2041 7053,2025 7264,2019 7306,2027 7306,2062 7258,2071 6569,2086 6343,2086 6240,2087"/>
-                <Baseline points="6239,2084 6316,2083 6343,2082 6665,2075 6702,2074 6759,2073 6784,2072 7016,2068 7040,2067 7303,2061"/>
+                <Baseline points="6239,2083 6316,2083 6343,2082 6665,2075 6702,2074 6759,2073 6784,2072 7016,2068 7040,2067 7303,2061"/>
                 <TextEquiv>
                     <Unicode>Der Gerichtsſchreiber des Königlichen Amtsgerichts.</Unicode>
                 </TextEquiv>
@@ -6293,14 +6293,14 @@ Der Gerichtsſchreiber des Königlichen Amtsgerichts.</Unicode>
             <Coords points="6230,2151 6394,2147 6394,2099 6394,2096 7311,2080 7339,3106 6254,3129"/>
             <TextLine id="r69l1" custom="readingOrder {index:0;}">
                 <Coords points="6439,2100 6989,2087 6989,2134 6441,2147"/>
-                <Baseline points="6440,2138 6987,2127"/>
+                <Baseline points="6440,2137 6987,2127"/>
                 <TextEquiv>
                     <Unicode>Oeffentliche Zuſtellung.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r69l2" custom="readingOrder {index:1;}">
                 <Coords points="7030,2086 7305,2080 7307,2127 7030,2133"/>
-                <Baseline points="7034,2128 7307,2120"/>
+                <Baseline points="7034,2128 7306,2120"/>
                 <TextEquiv>
                     <Unicode>C 1202/05. 1.</Unicode>
                 </TextEquiv>
@@ -6342,7 +6342,7 @@ Der Gerichtsſchreiber des Königlichen Amtsgerichts.</Unicode>
             </TextLine>
             <TextLine id="r69l8" custom="readingOrder {index:7;}">
                 <Coords points="6252,2392 6297,2386 6373,2381 6458,2377 7257,2359 7271,2359 7295,2360 7314,2371 7314,2397 7271,2405 7220,2407 6985,2416 6698,2420 6613,2421 6592,2421 6251,2423"/>
-                <Baseline points="6250,2420 6347,2418 6373,2418 6431,2417 6458,2416 6710,2411 6748,2410 6812,2410 6839,2409 6985,2405 7010,2405 7083,2403 7109,2402 7239,2399 7257,2399 7317,2397"/>
+                <Baseline points="6251,2420 6347,2418 6373,2418 6431,2417 6458,2416 6710,2411 6748,2410 6812,2410 6839,2409 6985,2405 7010,2405 7083,2403 7109,2402 7239,2399 7257,2399 7314,2397"/>
                 <TextEquiv>
                     <Unicode>unter der Behauptung, daß letzterer dem Kläger für</Unicode>
                 </TextEquiv>
@@ -6384,7 +6384,7 @@ Der Gerichtsſchreiber des Königlichen Amtsgerichts.</Unicode>
             </TextLine>
             <TextLine id="r69l14" custom="readingOrder {index:13;}">
                 <Coords points="6256,2661 6409,2657 6854,2648 7156,2642 7253,2638 7312,2647 7320,2666 7320,2675 7310,2680 7053,2692 6563,2701 6293,2705 6280,2705 6255,2700"/>
-                <Baseline points="6257,2700 6293,2700 6319,2699 6383,2698 6409,2697 6525,2695 6550,2694 6607,2693 6631,2693 6801,2689 6839,2688 7067,2683 7092,2682 7130,2681 7156,2680 7319,2676"/>
+                <Baseline points="6257,2700 6293,2700 6319,2699 6383,2698 6409,2697 6525,2695 6550,2694 6607,2693 6631,2693 6801,2689 6839,2688 7067,2683 7092,2682 7130,2681 7156,2680 7318,2675"/>
                 <TextEquiv>
                     <Unicode>2) das Urteil für vorläufig vollſtreckbar zu erklären.</Unicode>
                 </TextEquiv>
@@ -6405,7 +6405,7 @@ Der Gerichtsſchreiber des Königlichen Amtsgerichts.</Unicode>
             </TextLine>
             <TextLine id="r69l17" custom="readingOrder {index:16;}">
                 <Coords points="6259,2801 6287,2797 7014,2784 7071,2783 7266,2780 7323,2780 7323,2822 7096,2829 6498,2842 6287,2845 6259,2839"/>
-                <Baseline points="6259,2841 6489,2835 6517,2835 6555,2834 6582,2833 6707,2830 6744,2829 6804,2828 6839,2827 6902,2825 6941,2824 6989,2824 7014,2824 7141,2820 7167,2819 7323,2814"/>
+                <Baseline points="6259,2839 6489,2835 6517,2835 6555,2834 6582,2833 6707,2830 6744,2829 6804,2828 6839,2827 6902,2825 6941,2824 6989,2824 7014,2824 7141,2820 7167,2819 7323,2814"/>
                 <TextEquiv>
                     <Unicode>Amtsgericht zu Steele auf den 3. April 1906,</Unicode>
                 </TextEquiv>
@@ -6530,7 +6530,7 @@ Gerichtsſchreiber des Königlichen Amtsgerichts.</Unicode>
             </TextLine>
             <TextLine id="r71l6" custom="readingOrder {index:5;}">
                 <Coords points="6271,3375 6754,3359 7169,3351 7202,3351 7244,3353 7336,3357 7337,3392 7307,3395 6912,3403 6754,3403 6273,3419"/>
-                <Baseline points="6277,3412 6702,3400 6736,3400 6912,3396 6957,3395 7021,3394 7057,3393 7131,3391 7169,3390 7337,3387"/>
+                <Baseline points="6277,3412 6702,3400 6736,3400 6912,3396 6957,3395 7021,3394 7057,3393 7131,3391 7169,3390 7336,3387"/>
                 <TextEquiv>
                     <Unicode>gelieferte Waren und Arbeiten, mit dem Antrage,</Unicode>
                 </TextEquiv>
@@ -6544,7 +6544,7 @@ Gerichtsſchreiber des Königlichen Amtsgerichts.</Unicode>
             </TextLine>
             <TextLine id="r71l8" custom="readingOrder {index:7;}">
                 <Coords points="6275,3467 6325,3465 6599,3456 7286,3442 7340,3442 7340,3480 7311,3482 7044,3494 6366,3508 6347,3508 6275,3505"/>
-                <Baseline points="6277,3506 6428,3501 6499,3499 6574,3497 6715,3494 6795,3492 6946,3489 7080,3485 7154,3482 7340,3479"/>
+                <Baseline points="6277,3505 6428,3501 6499,3499 6574,3497 6715,3494 6795,3492 6946,3489 7080,3485 7154,3482 7340,3479"/>
                 <TextEquiv>
                     <Unicode>Kläger 285 ℳ nebſt 5 % Zinſen ſeit dem 1. Mai</Unicode>
                 </TextEquiv>
@@ -6565,21 +6565,21 @@ Gerichtsſchreiber des Königlichen Amtsgerichts.</Unicode>
             </TextLine>
             <TextLine id="r71l11" custom="readingOrder {index:10;}">
                 <Coords points="6277,3606 6567,3597 6763,3591 7098,3582 7306,3582 7342,3586 7342,3620 7252,3628 6447,3646 6334,3651 6277,3643"/>
-                <Baseline points="6282,3644 6412,3641 6431,3640 6488,3639 6516,3638 6727,3633 6742,3633 6998,3627 7023,3627 7080,3625 7098,3625 7342,3619"/>
+                <Baseline points="6282,3643 6412,3641 6431,3640 6488,3639 6516,3638 6727,3633 6742,3633 6998,3627 7023,3627 7080,3625 7098,3625 7342,3619"/>
                 <TextEquiv>
                     <Unicode>klagten zur mündlichen Verhandlung des Rechtsſtreits</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r71l12" custom="readingOrder {index:11;}">
                 <Coords points="6278,3657 6499,3646 6775,3637 7116,3631 7297,3629 7308,3629 7345,3639 7345,3667 7255,3673 6941,3683 6698,3690 6279,3693"/>
-                <Baseline points="6278,3691 6340,3690 6395,3688 6458,3687 6499,3686 6698,3681 6743,3679 6974,3674 7015,3673 7052,3672 7093,3671 7255,3668 7297,3667 7345,3666"/>
+                <Baseline points="6278,3690 6340,3690 6395,3688 6458,3687 6499,3686 6698,3681 6743,3679 6974,3674 7015,3673 7052,3672 7093,3671 7255,3668 7297,3667 7345,3666"/>
                 <TextEquiv>
                     <Unicode>vor das Königliche Amtsgericht zu Stettin, im</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r71l13" custom="readingOrder {index:12;}">
                 <Coords points="6279,3698 7266,3676 7345,3684 7346,3717 6403,3744 6279,3744"/>
-                <Baseline points="6279,3737 6435,3733 6461,3732 6517,3730 6546,3729 6606,3729 6631,3728 6692,3726 6719,3725 6802,3723 6871,3722 7024,3717 7049,3717 7202,3714 7237,3714 7327,3712 7345,3712 7347,3712"/>
+                <Baseline points="6279,3737 6435,3733 6461,3732 6517,3730 6546,3729 6606,3729 6631,3728 6692,3726 6719,3725 6802,3723 6871,3722 7024,3717 7049,3717 7202,3714 7237,3714 7327,3712 7345,3712"/>
                 <TextEquiv>
                     <Unicode>Zimmer 98, auf den 10. Februar 1906, Vor⸗</Unicode>
                 </TextEquiv>
@@ -6614,7 +6614,7 @@ Gerichtsſchreiber des Königlichen Amtsgerichts.</Unicode>
             </TextLine>
             <TextLine id="r71l18" custom="readingOrder {index:17;}">
                 <Coords points="6349,3927 6371,3921 6960,3910 7085,3908 7239,3908 7256,3909 7277,3913 7288,3936 7288,3943 7277,3946 7239,3954 7074,3960 6951,3962 6496,3969 6371,3969 6349,3968"/>
-                <Baseline points="6349,3966 6670,3958 6695,3958 6752,3956 6778,3956 7000,3952 7026,3951 7289,3946"/>
+                <Baseline points="6349,3966 6670,3958 6695,3958 6752,3956 6778,3956 7000,3952 7026,3951 7288,3943"/>
                 <TextEquiv>
                     <Unicode>Gerichtsſchreiber des Königlichen Amtsgerichts.</Unicode>
                 </TextEquiv>
@@ -6685,14 +6685,14 @@ Gerichtsſchreiber des Königlichen Amtsgerichts.</Unicode>
             </TextLine>
             <TextLine id="r73l5" custom="readingOrder {index:4;}">
                 <Coords points="6290,4173 6317,4171 6987,4156 7196,4154 7269,4154 7337,4158 7358,4166 7358,4187 7338,4190 7247,4197 6402,4215 6317,4215 6290,4211"/>
-                <Baseline points="6290,4211 6489,4207 6764,4201 6968,4196 7357,4188"/>
+                <Baseline points="6290,4211 6489,4207 6764,4201 6968,4196 7356,4187"/>
                 <TextEquiv>
                     <Unicode>Beuſeler aus Erfurt, zuletzt in Ilſenburg, jetzt un⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r73l6" custom="readingOrder {index:5;}">
                 <Coords points="6291,4219 6528,4211 7339,4195 7361,4195 7361,4241 7240,4244 6745,4254 6596,4257 6331,4257 6291,4256"/>
-                <Baseline points="6291,4258 6475,4253 6503,4253 6745,4246 6780,4246 6880,4245 6918,4244 6976,4243 7001,4243 7251,4236 7295,4235 7358,4233"/>
+                <Baseline points="6291,4256 6475,4253 6503,4253 6745,4246 6780,4246 6880,4245 6918,4244 6976,4243 7001,4243 7251,4236 7295,4235 7358,4233"/>
                 <TextEquiv>
                     <Unicode>bekannten Aufenthalts, unter der Behauptung, daß</Unicode>
                 </TextEquiv>
@@ -6706,14 +6706,14 @@ Gerichtsſchreiber des Königlichen Amtsgerichts.</Unicode>
             </TextLine>
             <TextLine id="r73l8" custom="readingOrder {index:7;}">
                 <Coords points="6292,4313 6315,4311 6587,4303 7231,4292 7342,4288 7365,4300 7365,4326 7342,4333 6646,4351 6414,4355 6328,4355 6292,4350"/>
-                <Baseline points="6294,4352 6752,4340 6996,4335 7177,4331 7363,4328"/>
+                <Baseline points="6294,4350 6752,4340 6996,4335 7177,4331 7362,4326"/>
                 <TextEquiv>
                     <Unicode>dieſem Nahrungsmittel entwendet und aus der Kaſſe</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r73l9" custom="readingOrder {index:8;}">
                 <Coords points="6294,4370 6360,4359 6520,4352 7221,4336 7320,4335 7363,4335 7363,4378 7269,4380 6988,4390 6933,4392 6600,4397 6295,4399"/>
-                <Baseline points="6294,4396 6492,4392 6685,4389 6871,4384 7146,4378 7363,4373"/>
+                <Baseline points="6294,4395 6492,4392 6685,4389 6871,4384 7146,4378 7363,4373"/>
                 <TextEquiv>
                     <Unicode>ca. 250 ℳ nach und nach an ſich genommen habe, mit</Unicode>
                 </TextEquiv>
@@ -6769,7 +6769,7 @@ Gerichtsſchreiber des Königlichen Amtsgerichts.</Unicode>
             </TextLine>
             <TextLine id="r73l17" custom="readingOrder {index:16;}">
                 <Coords points="6303,4729 6325,4728 7098,4715 7371,4708 7373,4747 7167,4758 6922,4763 6514,4773 6303,4776"/>
-                <Baseline points="6303,4768 6503,4764 6625,4762 7046,4754 7375,4746"/>
+                <Baseline points="6303,4768 6503,4764 6625,4762 7046,4754 7372,4746"/>
                 <TextEquiv>
                     <Unicode>Zuſtellung wird dieſer Auszug der Klage bekannt</Unicode>
                 </TextEquiv>
@@ -6790,7 +6790,7 @@ Gerichtsſchreiber des Königlichen Amtsgerichts.</Unicode>
             </TextLine>
             <TextLine id="r73l20" custom="readingOrder {index:19;}">
                 <Coords points="6595,4862 6907,4853 7057,4853 7089,4864 7089,4897 6884,4903 6595,4904"/>
-                <Baseline points="6594,4901 6880,4895 6907,4894 7086,4890"/>
+                <Baseline points="6595,4901 6880,4895 6907,4894 7086,4890"/>
                 <TextEquiv>
                     <Unicode>Bitterſohl, Sekretär,</Unicode>
                 </TextEquiv>
@@ -6851,7 +6851,7 @@ Verſicherung.</Unicode>
             <Coords points="6758,5290 6920,5290 6920,5347 6758,5347"/>
             <TextLine id="r75l1" custom="readingOrder {index:0;}">
                 <Coords points="6777,5300 6799,5296 6892,5296 6919,5308 6919,5336 6892,5342 6799,5342 6777,5338"/>
-                <Baseline points="6779,5338 6921,5336"/>
+                <Baseline points="6779,5338 6919,5336"/>
                 <TextEquiv>
                     <Unicode>Keine.</Unicode>
                 </TextEquiv>
@@ -6885,7 +6885,7 @@ Verdingungen ꝛc.</Unicode>
             <Coords points="6309,5684 6471,5681 6472,5684 6473,5740 6310,5748"/>
             <TextLine id="r77l1" custom="readingOrder {index:0;}">
                 <Coords points="6318,5697 6469,5693 6468,5743 6318,5746"/>
-                <Baseline points="6318,5740 6469,5737"/>
+                <Baseline points="6318,5740 6468,5736"/>
                 <TextEquiv>
                     <Unicode>[74677]</Unicode>
                 </TextEquiv>
@@ -6912,21 +6912,21 @@ Verdingungen ꝛc.</Unicode>
             </TextLine>
             <TextLine id="r78l3" custom="readingOrder {index:2;}">
                 <Coords points="6413,5792 6555,5788 6771,5782 6965,5780 7023,5795 7023,5828 6811,5828 6703,5828 6413,5831"/>
-                <Baseline points="6413,5827 6434,5827 6683,5823 7024,5817"/>
+                <Baseline points="6413,5827 6434,5827 6683,5823 7023,5817"/>
                 <TextEquiv>
                     <Unicode>2 400 Stück Abſpannkonſolen,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r78l4" custom="readingOrder {index:3;}">
                 <Coords points="6416,5838 6688,5832 6863,5827 6921,5841 6921,5873 6615,5876 6602,5876 6417,5875"/>
-                <Baseline points="6416,5873 6435,5872 6453,5872 6523,5871 6602,5870 6615,5870 6689,5869 6917,5864"/>
+                <Baseline points="6416,5872 6435,5872 6453,5872 6523,5871 6602,5870 6615,5870 6689,5869 6917,5864"/>
                 <TextEquiv>
                     <Unicode>3 300 „ Ankerhaken,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r78l5" custom="readingOrder {index:4;}">
                 <Coords points="6371,5884 6527,5883 6771,5876 6981,5874 7061,5882 7078,5897 7080,5916 6849,5919 6374,5925"/>
-                <Baseline points="6371,5920 6551,5916 6616,5916 7074,5908"/>
+                <Baseline points="6373,5919 6551,5916 6616,5916 7074,5908"/>
                 <TextEquiv>
                     <Unicode>142 900 „ Porzellaniſolatoren,</Unicode>
                 </TextEquiv>
@@ -6961,7 +6961,7 @@ Verdingungen ꝛc.</Unicode>
             </TextLine>
             <TextLine id="r78l10" custom="readingOrder {index:9;}">
                 <Coords points="6397,6114 6556,6110 6663,6109 6932,6103 6963,6106 6963,6146 6932,6147 6582,6156 6557,6156 6398,6154"/>
-                <Baseline points="6397,6149 6456,6149 6799,6144 6961,6140"/>
+                <Baseline points="6397,6148 6456,6149 6799,6144 6961,6140"/>
                 <TextEquiv>
                     <Unicode>11 850 „ iſolierter Draht,</Unicode>
                 </TextEquiv>
@@ -6982,7 +6982,7 @@ Verdingungen ꝛc.</Unicode>
             </TextLine>
             <TextLine id="r78l13" custom="readingOrder {index:12;}">
                 <Coords points="6373,6250 6538,6247 7270,6235 7339,6232 7393,6243 7393,6269 7324,6277 6905,6288 6489,6293 6375,6293"/>
-                <Baseline points="6374,6290 6448,6288 6490,6288 6944,6279 6985,6279 7112,6275 7157,6274 7209,6273 7261,6272 7394,6269"/>
+                <Baseline points="6374,6289 6448,6288 6490,6288 6944,6279 6985,6279 7112,6275 7157,6274 7209,6273 7261,6272 7393,6269"/>
                 <TextEquiv>
                     <Unicode>Die Verdingungsunterlagen können bei unſerer</Unicode>
                 </TextEquiv>
@@ -6996,14 +6996,14 @@ Verdingungen ꝛc.</Unicode>
             </TextLine>
             <TextLine id="r78l15" custom="readingOrder {index:14;}">
                 <Coords points="6328,6352 6478,6340 7304,6326 7323,6326 7395,6327 7395,6362 7182,6374 6937,6378 6663,6386 6644,6386 6329,6386"/>
-                <Baseline points="6328,6382 6396,6382 6434,6381 6606,6378 6644,6378 6744,6376 6778,6375 6937,6371 6963,6371 7182,6366 7209,6365 7278,6364 7304,6363 7323,6363 7349,6362 7395,6361"/>
+                <Baseline points="6328,6381 6396,6382 6434,6381 6606,6378 6644,6378 6744,6376 6778,6375 6937,6371 6963,6371 7182,6366 7209,6365 7278,6364 7304,6363 7323,6363 7349,6362 7395,6361"/>
                 <TextEquiv>
                     <Unicode>von derſelben gegen poſtfreie Einſendung von 1 ℳ</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r78l16" custom="readingOrder {index:15;}">
                 <Coords points="6329,6392 6353,6391 6956,6378 7258,6372 7276,6372 7397,6375 7398,6411 7354,6416 6709,6430 6442,6435 6329,6427"/>
-                <Baseline points="6331,6428 6377,6427 6399,6427 6446,6426 6487,6426 6524,6425 6563,6425 6624,6424 6663,6423 6788,6421 6823,6421 6869,6420 6907,6420 7218,6411 7258,6410 7395,6407"/>
+                <Baseline points="6331,6427 6377,6427 6399,6427 6446,6426 6487,6426 6524,6425 6563,6425 6624,6424 6663,6423 6788,6421 6823,6421 6869,6420 6907,6420 7218,6411 7258,6410 7395,6407"/>
                 <TextEquiv>
                     <Unicode>50 ₰ in bar (nicht in Briefmarken) bezogen</Unicode>
                 </TextEquiv>
@@ -7017,7 +7017,7 @@ Verdingungen ꝛc.</Unicode>
             </TextLine>
             <TextLine id="r78l18" custom="readingOrder {index:17;}">
                 <Coords points="6378,6481 6495,6478 6903,6472 7330,6460 7397,6460 7397,6505 6926,6517 6560,6524 6495,6524 6378,6520"/>
-                <Baseline points="6380,6521 6656,6515 6763,6513 6977,6509 7184,6504 7397,6499"/>
+                <Baseline points="6380,6520 6656,6515 6763,6513 6977,6509 7184,6504 7397,6499"/>
                 <TextEquiv>
                     <Unicode>Die Angebote ſind verſiegelt und mit der Auf⸗</Unicode>
                 </TextEquiv>
@@ -7031,14 +7031,14 @@ Verdingungen ꝛc.</Unicode>
             </TextLine>
             <TextLine id="r78l20" custom="readingOrder {index:19;}">
                 <Coords points="6331,6585 6414,6573 7316,6555 7383,6555 7401,6577 7402,6595 7083,6606 6932,6609 6715,6611 6675,6612 6332,6615"/>
-                <Baseline points="6331,6612 6573,6609 6604,6608 6758,6605 6784,6605 6838,6604 6856,6603 6932,6602 6952,6601 7031,6599 7047,6598 7224,6594 7245,6593 7398,6593"/>
+                <Baseline points="6331,6611 6573,6609 6604,6608 6758,6605 6784,6605 6838,6604 6856,6603 6932,6602 6952,6601 7031,6599 7047,6598 7224,6594 7245,6593 7398,6593"/>
                 <TextEquiv>
                     <Unicode>materialien“ verſehen bis zum 31. Januar 1906,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r78l21" custom="readingOrder {index:20;}">
                 <Coords points="6332,6621 6922,6612 7379,6600 7403,6609 7404,6644 7062,6654 6807,6660 6578,6663 6452,6663 6334,6663"/>
-                <Baseline points="6332,6661 6605,6655 6629,6655 6721,6653 6745,6653 6846,6651 6886,6650 6962,6649 6999,6648 7202,6642 7238,6641 7295,6640 7333,6639 7403,6636"/>
+                <Baseline points="6333,6660 6605,6655 6629,6655 6721,6653 6745,6653 6846,6651 6886,6650 6962,6649 6999,6648 7202,6642 7238,6641 7295,6640 7333,6639 7403,6636"/>
                 <TextEquiv>
                     <Unicode>Vormittags 10 ½ Uhr, dem Zeitpunkte der Er⸗</Unicode>
                 </TextEquiv>
@@ -7124,7 +7124,7 @@ Königliche Eiſenbahndirektion.</Unicode>
             <Coords points="7320,762 7452,751 8164,746 8387,746 8387,851 8147,962 7454,962 7320,880"/>
             <TextLine id="r80l1" custom="readingOrder {index:0;}">
                 <Coords points="7327,783 7506,774 8180,762 8352,762 8380,794 8380,820 8352,839 7811,865 7401,873 7370,873 7327,857"/>
-                <Baseline points="7330,858 7401,857 7469,856 7811,850 7873,849 7942,848 7999,847 8126,844 8180,843 8378,834"/>
+                <Baseline points="7330,858 7401,857 7469,856 7811,850 7873,849 7942,848 7999,847 8126,844 8180,843 8372,825"/>
                 <TextEquiv>
                     <Unicode>5) Verloſung ꝛc. von Wert⸗</Unicode>
                 </TextEquiv>
@@ -7145,7 +7145,7 @@ papieren.</Unicode>
             <Coords points="7317,965 8386,952 8387,1066 7313,1075"/>
             <TextLine id="r81l1" custom="readingOrder {index:0;}">
                 <Coords points="7330,972 8384,952 8385,1002 7331,1022"/>
-                <Baseline points="7331,1017 8385,997"/>
+                <Baseline points="7331,1017 8384,997"/>
                 <TextEquiv>
                     <Unicode>Die Bekanntmachungen über den Verluſt von Wert⸗</Unicode>
                 </TextEquiv>
@@ -7186,7 +7186,7 @@ papieren befinden ſich ausſchließlich in Unterabteilung 2.</Unicode>
             </TextLine>
             <TextLine id="r83l2" custom="readingOrder {index:1;}">
                 <Coords points="7378,1172 7805,1164 8367,1154 8389,1154 8389,1193 8175,1206 7778,1211 7575,1213 7381,1215"/>
-                <Baseline points="7376,1213 7534,1208 7976,1202 8034,1202 8051,1201 8100,1200 8175,1197 8236,1196 8256,1195 8387,1191"/>
+                <Baseline points="7380,1212 7534,1208 7976,1202 8034,1202 8051,1201 8100,1200 8175,1197 8236,1196 8256,1195 8387,1191"/>
                 <TextEquiv>
                     <Unicode>Bei der heute nach Maßgabe der §§ 39, 41 und 47</Unicode>
                 </TextEquiv>
@@ -7214,28 +7214,28 @@ papieren befinden ſich ausſchließlich in Unterabteilung 2.</Unicode>
             </TextLine>
             <TextLine id="r83l6" custom="readingOrder {index:5;}">
                 <Coords points="7334,1359 8393,1335 8394,1383 7335,1407"/>
-                <Baseline points="7337,1402 8394,1378"/>
+                <Baseline points="7337,1402 8393,1378"/>
                 <TextEquiv>
                     <Unicode>richtung von Rentengütern, im Beiſein eines Notars</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r83l7" custom="readingOrder {index:6;}">
                 <Coords points="7336,1420 7385,1408 7535,1400 7901,1395 8376,1385 8392,1385 8394,1429 7905,1442 7592,1446 7337,1449"/>
-                <Baseline points="7336,1446 7406,1444 7431,1443 7488,1442 7512,1441 7772,1435 7796,1435 7853,1435 7871,1435 8271,1427 8297,1426 8376,1424 8391,1424 8392,1424"/>
+                <Baseline points="7336,1445 7406,1444 7431,1443 7488,1442 7512,1441 7772,1435 7796,1435 7853,1435 7871,1435 8271,1427 8297,1426 8376,1424 8391,1424 8392,1424"/>
                 <TextEquiv>
                     <Unicode>und der Abgeordneten der Provinzialvertretung ſtatt⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r83l8" custom="readingOrder {index:7;}">
                 <Coords points="7340,1462 7375,1453 8184,1435 8365,1435 8395,1442 8395,1470 8338,1477 7603,1490 7339,1501"/>
-                <Baseline points="7337,1491 7502,1488 7552,1487 7766,1483 7804,1482 8022,1479 8093,1477 8395,1470"/>
+                <Baseline points="7339,1491 7502,1488 7552,1487 7766,1483 7804,1482 8022,1479 8093,1477 8395,1470"/>
                 <TextEquiv>
                     <Unicode>gehabten öffentlichen Ausloſung Pommerſcher</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r83l9" custom="readingOrder {index:8;}">
                 <Coords points="7343,1543 7339,1499 8181,1483 8349,1477 8397,1487 8396,1521 8138,1531 8076,1532 7683,1537"/>
-                <Baseline points="7340,1541 7630,1531 7846,1528 8064,1524 8397,1516"/>
+                <Baseline points="7342,1540 7630,1531 7846,1528 8064,1524 8396,1515"/>
                 <TextEquiv>
                     <Unicode>Rentenbriefe ſind die in nachfolgendem Ver⸗</Unicode>
                 </TextEquiv>
@@ -7256,14 +7256,14 @@ papieren befinden ſich ausſchließlich in Unterabteilung 2.</Unicode>
             </TextLine>
             <TextLine id="r83l12" custom="readingOrder {index:11;}">
                 <Coords points="7343,1638 7687,1630 8380,1618 8400,1620 8400,1657 8291,1665 7995,1673 7345,1682"/>
-                <Baseline points="7343,1678 7491,1673 7643,1669 7910,1665 7960,1665 8062,1663 8290,1657 8399,1655"/>
+                <Baseline points="7344,1677 7491,1673 7643,1669 7910,1665 7960,1665 8062,1663 8290,1657 8399,1655"/>
                 <TextEquiv>
                     <Unicode>kündigt, den Kapitalbetrag gegen Quittung und</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r83l13" custom="readingOrder {index:12;}">
                 <Coords points="7343,1684 7365,1681 8013,1672 8179,1667 8339,1667 8403,1672 8403,1699 8376,1707 7716,1723 7458,1728 7343,1725"/>
-                <Baseline points="7343,1723 7519,1719 7550,1719 7606,1717 7632,1717 7846,1714 7865,1713 8106,1708 8141,1707 8207,1706 8231,1705 8294,1704 8320,1703 8401,1701"/>
+                <Baseline points="7343,1723 7519,1719 7550,1719 7606,1717 7632,1717 7846,1714 7865,1713 8106,1708 8141,1707 8207,1706 8231,1705 8294,1704 8320,1703 8400,1699"/>
                 <TextEquiv>
                     <Unicode>Rückgabe der ausgeloſten Rentenbriefe mit den dazu</Unicode>
                 </TextEquiv>
@@ -7277,21 +7277,21 @@ papieren befinden ſich ausſchließlich in Unterabteilung 2.</Unicode>
             </TextLine>
             <TextLine id="r83l15" custom="readingOrder {index:14;}">
                 <Coords points="7348,1780 7804,1766 8273,1761 8300,1761 8405,1756 8406,1798 8235,1802 7995,1812 7593,1814 7349,1818"/>
-                <Baseline points="7348,1814 7487,1811 7534,1811 7587,1810 7624,1809 7661,1809 7699,1808 7760,1807 7790,1807 8157,1799 8193,1798 8283,1796 8310,1796 8317,1795 8351,1795 8404,1793"/>
+                <Baseline points="7348,1813 7487,1811 7534,1811 7587,1810 7624,1809 7661,1809 7699,1808 7760,1807 7790,1807 8157,1799 8193,1798 8283,1796 8310,1796 8317,1795 8351,1795 8404,1793"/>
                 <TextEquiv>
                     <Unicode>1906 ab in den Vormittagsſtunden von 9 bis</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r83l16" custom="readingOrder {index:15;}">
                 <Coords points="7350,1825 7452,1820 7833,1814 8177,1805 8358,1803 8407,1808 8407,1850 8343,1848 8243,1852 7931,1857 7699,1863 7452,1865 7353,1866"/>
-                <Baseline points="7350,1862 7395,1861 7419,1860 7492,1859 7532,1858 7569,1857 7609,1856 7794,1853 7836,1853 8125,1847 8163,1847 8405,1840"/>
+                <Baseline points="7352,1861 7395,1861 7419,1860 7492,1859 7532,1858 7569,1857 7609,1856 7794,1853 7836,1853 8125,1847 8163,1847 8405,1840"/>
                 <TextEquiv>
                     <Unicode>12 Uhr in unſerem Kaſſenlokale, Auguſtaplatz</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r83l17" custom="readingOrder {index:16;}">
                 <Coords points="7349,1870 7647,1862 8156,1851 8330,1851 8407,1853 8407,1887 8378,1890 8330,1894 8017,1903 7485,1913 7477,1913 7349,1909"/>
-                <Baseline points="7349,1907 7418,1906 7485,1905 7606,1903 7700,1901 7829,1900 8090,1894 8408,1887"/>
+                <Baseline points="7349,1907 7418,1906 7485,1905 7606,1903 7700,1901 7829,1900 8090,1894 8407,1887"/>
                 <TextEquiv>
                     <Unicode>Nr. 5, oder bei der Königlichen Rentenbank⸗</Unicode>
                 </TextEquiv>
@@ -7326,14 +7326,14 @@ papieren befinden ſich ausſchließlich in Unterabteilung 2.</Unicode>
             </TextLine>
             <TextLine id="r83l22" custom="readingOrder {index:21;}">
                 <Coords points="7356,2100 7628,2094 8316,2081 8335,2081 8372,2082 8412,2092 8414,2121 8288,2128 8254,2130 8245,2130 7816,2137 7617,2139 7357,2143"/>
-                <Baseline points="7356,2140 7425,2137 7447,2137 7490,2136 7515,2136 7582,2134 7609,2134 7870,2129 7896,2129 7955,2128 7981,2128 8083,2125 8107,2125 8147,2124 8173,2123 8216,2122 8235,2122 8412,2118"/>
+                <Baseline points="7356,2139 7425,2137 7447,2137 7490,2136 7515,2136 7582,2134 7609,2134 7870,2129 7896,2129 7955,2128 7981,2128 8083,2125 8107,2125 8147,2124 8173,2123 8216,2122 8235,2122 8412,2118"/>
                 <TextEquiv>
                     <Unicode>Nr. 16 und Anweiſnngen, den unter II aufgeführten</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r83l23" custom="readingOrder {index:22;}">
                 <Coords points="7357,2143 8312,2127 8355,2127 8413,2132 8413,2165 8341,2174 7593,2185 7357,2187"/>
-                <Baseline points="7353,2186 7625,2180 7654,2179 7718,2178 7745,2177 7785,2177 7823,2176 7868,2176 7907,2175 7953,2174 7991,2173 8018,2173 8057,2172 8124,2170 8151,2170 8189,2169 8248,2168 8278,2167 8312,2166 8413,2164"/>
+                <Baseline points="7357,2186 7625,2180 7654,2179 7718,2178 7745,2177 7785,2177 7823,2176 7868,2176 7907,2175 7953,2174 7991,2173 8018,2173 8057,2172 8124,2170 8151,2170 8189,2169 8248,2168 8278,2167 8312,2166 8413,2164"/>
                 <TextEquiv>
                     <Unicode>Rentenbriefen Lit. F, G, H, J und K die Zins⸗</Unicode>
                 </TextEquiv>
@@ -7375,7 +7375,7 @@ papieren befinden ſich ausſchließlich in Unterabteilung 2.</Unicode>
             </TextLine>
             <TextLine id="r83l29" custom="readingOrder {index:28;}">
                 <Coords points="7365,2427 7449,2424 7540,2421 7701,2417 8000,2411 8218,2408 8247,2408 8375,2413 8406,2414 8419,2422 8421,2439 8408,2446 8374,2448 7795,2461 7417,2466 7365,2466"/>
-                <Baseline points="7365,2465 7522,2462 7540,2461 7800,2455 7838,2454 7937,2453 7974,2452 8158,2448 8218,2447 8308,2445 8345,2444 8420,2442"/>
+                <Baseline points="7365,2465 7522,2462 7540,2461 7800,2455 7838,2454 7937,2453 7974,2452 8158,2448 8218,2447 8308,2445 8345,2444 8418,2440"/>
                 <TextEquiv>
                     <Unicode>löſenden Rentenbriefe unter Beifügung einer vor⸗</Unicode>
                 </TextEquiv>
@@ -7431,7 +7431,7 @@ papieren befinden ſich ausſchließlich in Unterabteilung 2.</Unicode>
             </TextLine>
             <TextLine id="r83l37" custom="readingOrder {index:36;}">
                 <Coords points="7374,2797 7395,2794 8288,2777 8404,2777 8426,2788 8427,2815 8405,2817 8327,2819 7984,2830 7592,2842 7395,2842 7374,2838"/>
-                <Baseline points="7374,2837 7592,2832 7618,2831 7947,2824 7973,2824 8010,2823 8028,2823 8175,2819 8200,2819 8269,2817 8288,2817 8428,2814"/>
+                <Baseline points="7374,2837 7592,2832 7618,2831 7947,2824 7973,2824 8010,2823 8028,2823 8175,2819 8200,2819 8269,2817 8288,2817 8426,2814"/>
                 <TextEquiv>
                     <Unicode>Königlichen Rentenbankkaſſen zu Stettin und Berlin.</Unicode>
                 </TextEquiv>
@@ -7459,7 +7459,7 @@ papieren befinden ſich ausſchließlich in Unterabteilung 2.</Unicode>
             </TextLine>
             <TextLine id="r83l41" custom="readingOrder {index:40;}">
                 <Coords points="7380,2984 8431,2961 8432,3002 7378,3026"/>
-                <Baseline points="7379,3022 7448,3021 7474,3020 7541,3019 7567,3018 7634,3017 7661,3016 7728,3015 7756,3014 7821,3012 7848,3012 7918,3010 7953,3010 8044,3008 8084,3007 8174,3005 8213,3004 8304,3002 8367,3000 8432,2999"/>
+                <Baseline points="7379,3022 7448,3021 7474,3020 7541,3019 7567,3018 7634,3017 7661,3016 7728,3015 7756,3014 7821,3012 7848,3012 7918,3010 7953,3010 8044,3008 8084,3007 8174,3005 8213,3004 8304,3002 8367,3000 8431,2999"/>
                 <TextEquiv>
                     <Unicode>483 665 768 851 869 920 1029 1081 1093 1351</Unicode>
                 </TextEquiv>
@@ -7480,7 +7480,7 @@ papieren befinden ſich ausſchließlich in Unterabteilung 2.</Unicode>
             </TextLine>
             <TextLine id="r83l44" custom="readingOrder {index:43;}">
                 <Coords points="7380,3122 8439,3100 8440,3143 7383,3166"/>
-                <Baseline points="7381,3162 7473,3160 7499,3159 7591,3157 7615,3157 7711,3155 7735,3154 7824,3152 7850,3152 7942,3150 7968,3149 8061,3147 8088,3146 8178,3144 8216,3143 8437,3137"/>
+                <Baseline points="7382,3161 7473,3160 7499,3159 7591,3157 7615,3157 7711,3155 7735,3154 7824,3152 7850,3152 7942,3150 7968,3149 8061,3147 8088,3146 8178,3144 8216,3143 8437,3137"/>
                 <TextEquiv>
                     <Unicode>2373 2378 2550 2829 2943 2952 3056 3090 3276</Unicode>
                 </TextEquiv>
@@ -7494,14 +7494,14 @@ papieren befinden ſich ausſchließlich in Unterabteilung 2.</Unicode>
             </TextLine>
             <TextLine id="r83l46" custom="readingOrder {index:45;}">
                 <Coords points="7385,3214 8441,3192 8441,3234 7385,3259"/>
-                <Baseline points="7384,3255 7476,3253 7501,3252 7594,3250 7619,3250 7713,3248 7739,3247 7824,3245 7854,3244 7944,3242 7971,3242 8063,3240 8090,3239 8180,3237 8218,3236 8438,3231"/>
+                <Baseline points="7385,3255 7476,3253 7501,3252 7594,3250 7619,3250 7713,3248 7739,3247 7824,3245 7854,3244 7944,3242 7971,3242 8063,3240 8090,3239 8180,3237 8218,3236 8438,3231"/>
                 <TextEquiv>
                     <Unicode>4897 4910 4939 5021 5027 5043 5045 5077 5121</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r83l47" custom="readingOrder {index:46;}">
                 <Coords points="7381,3264 8440,3239 8440,3279 7384,3305"/>
-                <Baseline points="7386,3301 7478,3299 7503,3299 7595,3297 7620,3296 7712,3294 7739,3293 7827,3291 7857,3291 7949,3289 7974,3288 8066,3286 8093,3285 8184,3283 8221,3282 8311,3280 8441,3280"/>
+                <Baseline points="7386,3301 7478,3299 7503,3299 7595,3297 7620,3296 7712,3294 7739,3293 7827,3291 7857,3291 7949,3289 7974,3288 8066,3286 8093,3285 8184,3283 8221,3282 8311,3280 8440,3279"/>
                 <TextEquiv>
                     <Unicode>5262 5264 5273 5301 5354 5355 5394 5476 5561</Unicode>
                 </TextEquiv>
@@ -7515,7 +7515,7 @@ papieren befinden ſich ausſchließlich in Unterabteilung 2.</Unicode>
             </TextLine>
             <TextLine id="r83l49" custom="readingOrder {index:48;}">
                 <Coords points="7387,3355 8445,3332 8446,3373 7391,3397"/>
-                <Baseline points="7388,3394 7479,3392 7505,3392 7597,3390 7622,3389 7715,3387 7741,3387 7832,3385 7859,3384 7950,3382 7976,3381 8068,3379 8094,3378 8224,3375"/>
+                <Baseline points="7390,3393 7479,3392 7505,3392 7597,3390 7622,3389 7715,3387 7741,3387 7832,3385 7859,3384 7950,3382 7976,3381 8068,3379 8094,3378 8224,3375"/>
                 <TextEquiv>
                     <Unicode>6665 6744 6909 6910 6962 7010 7123 7199 7250</Unicode>
                 </TextEquiv>
@@ -7529,7 +7529,7 @@ papieren befinden ſich ausſchließlich in Unterabteilung 2.</Unicode>
             </TextLine>
             <TextLine id="r83l51" custom="readingOrder {index:50;}">
                 <Coords points="7391,3450 8449,3424 8450,3470 7391,3491"/>
-                <Baseline points="7389,3488 7481,3486 7507,3485 7599,3483 7624,3482 7717,3480 7741,3480 7834,3477 7861,3476 7950,3474 7977,3474 8070,3472 8096,3471 8449,3464"/>
+                <Baseline points="7391,3488 7481,3486 7507,3485 7599,3483 7624,3482 7717,3480 7741,3480 7834,3477 7861,3476 7950,3474 7977,3474 8070,3472 8096,3471 8449,3464"/>
                 <TextEquiv>
                     <Unicode>8365 8482 8495 8505 8575 8788 8827 8990 8994</Unicode>
                 </TextEquiv>
@@ -7571,7 +7571,7 @@ papieren befinden ſich ausſchließlich in Unterabteilung 2.</Unicode>
             </TextLine>
             <TextLine id="r83l57" custom="readingOrder {index:56;}">
                 <Coords points="7396,3729 8455,3700 8456,3745 7400,3768"/>
-                <Baseline points="7398,3765 7511,3763 7562,3762 7677,3759 7729,3758 7843,3756 7884,3755 7996,3752 8035,3751 8148,3748 8187,3747 8301,3745 8340,3744 8453,3741"/>
+                <Baseline points="7399,3764 7511,3763 7562,3762 7677,3759 7729,3758 7843,3756 7884,3755 7996,3752 8035,3751 8148,3748 8187,3747 8301,3745 8340,3744 8453,3741"/>
                 <TextEquiv>
                     <Unicode>10742 10774 10782 10784 10813 10845 10846</Unicode>
                 </TextEquiv>
@@ -7592,7 +7592,7 @@ papieren befinden ſich ausſchließlich in Unterabteilung 2.</Unicode>
             </TextLine>
             <TextLine id="r83l60" custom="readingOrder {index:59;}">
                 <Coords points="7398,3864 8458,3841 8460,3882 7401,3909"/>
-                <Baseline points="7400,3906 7493,3903 7609,3900 7679,3899 7775,3897 7870,3895 7987,3892 8083,3890 8176,3888 8282,3886 8461,3881"/>
+                <Baseline points="7400,3905 7493,3903 7609,3900 7679,3899 7775,3897 7870,3895 7987,3892 8083,3890 8176,3888 8282,3886 8459,3881"/>
                 <TextEquiv>
                     <Unicode>Nr. 73 76 77 114 239 261 418 445 624 663 916</Unicode>
                 </TextEquiv>
@@ -7606,7 +7606,7 @@ papieren befinden ſich ausſchließlich in Unterabteilung 2.</Unicode>
             </TextLine>
             <TextLine id="r83l62" custom="readingOrder {index:61;}">
                 <Coords points="7400,3958 8462,3935 8461,3977 7402,4001"/>
-                <Baseline points="7405,3998 7493,3996 7520,3996 7610,3993 7638,3993 7730,3991 7757,3990 7848,3988 7877,3987 7964,3985 7989,3985 8082,3983 8109,3982 8198,3980 8236,3979 8330,3977 8365,3976 8462,3975"/>
+                <Baseline points="7405,3998 7493,3996 7520,3996 7610,3993 7638,3993 7730,3991 7757,3990 7848,3988 7877,3987 7964,3985 7989,3985 8082,3983 8109,3982 8198,3980 8236,3979 8330,3977 8365,3976 8461,3974"/>
                 <TextEquiv>
                     <Unicode>1686 1733 1793 1906 1978 2041 2057 2078 2292</Unicode>
                 </TextEquiv>
@@ -7634,7 +7634,7 @@ papieren befinden ſich ausſchließlich in Unterabteilung 2.</Unicode>
             </TextLine>
             <TextLine id="r83l66" custom="readingOrder {index:65;}">
                 <Coords points="7453,4143 7550,4141 8223,4124 8461,4122 8462,4161 8371,4165 8094,4173 7623,4185 7609,4185 7453,4183"/>
-                <Baseline points="7453,4182 7547,4180 7675,4177 7862,4172 8003,4170 8098,4168 8313,4163 8332,4162 8465,4159"/>
+                <Baseline points="7453,4182 7547,4180 7675,4177 7862,4172 8003,4170 8098,4168 8313,4163 8332,4162 8461,4159"/>
                 <TextEquiv>
                     <Unicode>Lit. C zu 300 ℳ (100 Tlr.) 243 Stück Nr. 55</Unicode>
                 </TextEquiv>
@@ -7683,14 +7683,14 @@ papieren befinden ſich ausſchließlich in Unterabteilung 2.</Unicode>
             </TextLine>
             <TextLine id="r83l73" custom="readingOrder {index:72;}">
                 <Coords points="7415,4467 8468,4445 8469,4490 7416,4512"/>
-                <Baseline points="7418,4509 8469,4487"/>
+                <Baseline points="7418,4509 8468,4487"/>
                 <TextEquiv>
                     <Unicode>4927 5087 5444 5482 5485 5558 5574 5589 5624</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r83l74" custom="readingOrder {index:73;}">
                 <Coords points="7417,4512 8468,4490 8469,4536 7418,4558"/>
-                <Baseline points="7418,4555 8469,4533"/>
+                <Baseline points="7418,4555 8468,4533"/>
                 <TextEquiv>
                     <Unicode>5658 5728 5772 5822 5835 5891 5896 5915 6004</Unicode>
                 </TextEquiv>
@@ -7711,28 +7711,28 @@ papieren befinden ſich ausſchließlich in Unterabteilung 2.</Unicode>
             </TextLine>
             <TextLine id="r83l77" custom="readingOrder {index:76;}">
                 <Coords points="7418,4654 8473,4629 8474,4674 7419,4699"/>
-                <Baseline points="7422,4695 8474,4670"/>
+                <Baseline points="7422,4695 8473,4670"/>
                 <TextEquiv>
                     <Unicode>7527 7541 7588 7625 7734 7735 7787 7799 8010</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r83l78" custom="readingOrder {index:77;}">
                 <Coords points="7421,4700 8475,4675 8476,4721 7422,4746"/>
-                <Baseline points="7422,4742 8476,4717"/>
+                <Baseline points="7422,4742 8475,4717"/>
                 <TextEquiv>
                     <Unicode>8082 8139 8144 8146 8281 8429 8484 8545 8572</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r83l79" custom="readingOrder {index:78;}">
                 <Coords points="7421,4745 8473,4721 8474,4768 7422,4792"/>
-                <Baseline points="7422,4788 8474,4764"/>
+                <Baseline points="7422,4788 8473,4764"/>
                 <TextEquiv>
                     <Unicode>8590 8677 8793 8827 8956 9108 9150 9156 9330</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r83l80" custom="readingOrder {index:79;}">
                 <Coords points="7422,4794 7469,4795 8218,4778 8290,4777 8476,4771 8475,4811 8234,4815 8036,4820 7903,4823 7725,4827 7442,4833 7421,4833"/>
-                <Baseline points="7421,4832 7509,4831 7536,4830 7628,4828 7654,4828 7749,4826 7771,4825 7864,4823 7883,4822 7970,4820 7991,4819 8082,4817 8100,4817 8191,4815 8218,4814 8478,4809"/>
+                <Baseline points="7421,4832 7509,4831 7536,4830 7628,4828 7654,4828 7749,4826 7771,4825 7864,4823 7883,4822 7970,4820 7991,4819 8082,4817 8100,4817 8191,4815 8218,4814 8475,4808"/>
                 <TextEquiv>
                     <Unicode>9372 9455 9569 9604 9616 9815 9953 10033 10100</Unicode>
                 </TextEquiv>
@@ -7753,14 +7753,14 @@ papieren befinden ſich ausſchließlich in Unterabteilung 2.</Unicode>
             </TextLine>
             <TextLine id="r83l83" custom="readingOrder {index:82;}">
                 <Coords points="7425,4932 8478,4905 8479,4951 7426,4978"/>
-                <Baseline points="7426,4976 8479,4949"/>
+                <Baseline points="7426,4976 8478,4949"/>
                 <TextEquiv>
                     <Unicode>11282 11306 11337 11389 11419 11456 11476</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r83l84" custom="readingOrder {index:83;}">
                 <Coords points="7427,4978 8477,4953 8478,4999 7428,5024"/>
-                <Baseline points="7428,5021 8478,4996"/>
+                <Baseline points="7428,5021 8477,4996"/>
                 <TextEquiv>
                     <Unicode>11491 11530 11534 11586 11704 11808 11869</Unicode>
                 </TextEquiv>
@@ -7774,28 +7774,28 @@ papieren befinden ſich ausſchließlich in Unterabteilung 2.</Unicode>
             </TextLine>
             <TextLine id="r83l86" custom="readingOrder {index:85;}">
                 <Coords points="7423,5111 7423,5075 7736,5069 7758,5068 7830,5066 7986,5062 8145,5058 8229,5056 8276,5055 8476,5051 8477,5090 8300,5091 7911,5101 7780,5104 7736,5104"/>
-                <Baseline points="7427,5111 7852,5102 7896,5100 8008,5098 8051,5096 8166,5094 8208,5093 8479,5087"/>
+                <Baseline points="7426,5110 7852,5102 7896,5100 8008,5098 8051,5096 8166,5094 8208,5093 8476,5087"/>
                 <TextEquiv>
                     <Unicode>12310 12424 12456 12502 12559 12606 12644</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r83l87" custom="readingOrder {index:86;}">
                 <Coords points="7426,5158 7425,5119 7737,5115 7783,5113 8302,5100 8322,5100 8480,5095 8483,5135 8322,5136 8298,5137 8164,5141 7754,5151 7737,5151"/>
-                <Baseline points="7429,5159 7852,5148 7897,5147 8007,5144 8050,5143 8164,5140 8209,5139 8479,5132"/>
+                <Baseline points="7428,5157 7852,5148 7897,5147 8007,5144 8050,5143 8164,5140 8209,5139 8479,5132"/>
                 <TextEquiv>
                     <Unicode>12694 12700 12735 12803 12959 12986 13015</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r83l88" custom="readingOrder {index:87;}">
                 <Coords points="7424,5203 7423,5167 8124,5151 8303,5147 8324,5147 8482,5139 8483,5178 8324,5183 8095,5189 7852,5195"/>
-                <Baseline points="7429,5203 7852,5194 7898,5193 8009,5190 8054,5189 8167,5186 8210,5185 8483,5179"/>
+                <Baseline points="7428,5202 7852,5194 7898,5193 8009,5190 8054,5189 8167,5186 8210,5185 8482,5178"/>
                 <TextEquiv>
                     <Unicode>13061 13249 13337 13450 13476 13482 13508</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r83l89" custom="readingOrder {index:88;}">
                 <Coords points="7429,5251 7429,5212 7734,5205 7761,5207 7943,5201 8305,5193 8325,5193 8484,5186 8484,5226 8325,5229 8143,5234 8068,5236 7912,5240 7781,5243 7711,5245"/>
-                <Baseline points="7431,5250 7854,5240 7898,5239 8011,5236 8053,5236 8167,5233 8211,5231 8486,5226"/>
+                <Baseline points="7431,5250 7854,5240 7898,5239 8011,5236 8053,5236 8167,5233 8211,5231 8484,5226"/>
                 <TextEquiv>
                     <Unicode>13623 13628 13664 13762 13829 13856 13940</Unicode>
                 </TextEquiv>
@@ -7809,7 +7809,7 @@ papieren befinden ſich ausſchließlich in Unterabteilung 2.</Unicode>
             </TextLine>
             <TextLine id="r83l91" custom="readingOrder {index:90;}">
                 <Coords points="7426,5344 7426,5305 8487,5276 8487,5319"/>
-                <Baseline points="7431,5343 8010,5329 8056,5328 8169,5325 8211,5324 8488,5317"/>
+                <Baseline points="7431,5343 8010,5329 8056,5328 8169,5325 8211,5324 8487,5317"/>
                 <TextEquiv>
                     <Unicode>14368 14490 14521 14555 14566 14636 14682</Unicode>
                 </TextEquiv>
@@ -7830,14 +7830,14 @@ papieren befinden ſich ausſchließlich in Unterabteilung 2.</Unicode>
             </TextLine>
             <TextLine id="r83l94" custom="readingOrder {index:93;}">
                 <Coords points="7434,5441 8484,5414 8485,5461 7435,5488"/>
-                <Baseline points="7435,5483 8485,5456"/>
+                <Baseline points="7435,5483 8484,5456"/>
                 <TextEquiv>
                     <Unicode>15342 15375 15405 15470 15500 15561 15589</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r83l95" custom="readingOrder {index:94;}">
                 <Coords points="7431,5529 7431,5489 7580,5488 7627,5485 8259,5472 8308,5471 8328,5471 8487,5465 8488,5501 8328,5507 8123,5512 7913,5517 7698,5522 7598,5524 7580,5524"/>
-                <Baseline points="7433,5528 7698,5522 7834,5517 7842,5517 7900,5517 8012,5513 8057,5512 8170,5510 8214,5508 8486,5502"/>
+                <Baseline points="7433,5528 7698,5522 7834,5517 7842,5517 7900,5517 8012,5513 8057,5512 8170,5510 8214,5508 8485,5501"/>
                 <TextEquiv>
                     <Unicode>15716 15738 15782 15845 15859 15909 15929</Unicode>
                 </TextEquiv>
@@ -7851,7 +7851,7 @@ papieren befinden ſich ausſchließlich in Unterabteilung 2.</Unicode>
             </TextLine>
             <TextLine id="r83l97" custom="readingOrder {index:96;}">
                 <Coords points="7435,5578 7581,5579 7652,5577 7673,5577 7701,5578 7701,5614 7673,5615 7600,5616 7433,5621"/>
-                <Baseline points="7437,5622 7698,5614"/>
+                <Baseline points="7436,5620 7698,5614"/>
                 <TextEquiv>
                     <Unicode>16356 16373</Unicode>
                 </TextEquiv>
@@ -7900,21 +7900,21 @@ papieren befinden ſich ausſchließlich in Unterabteilung 2.</Unicode>
             </TextLine>
             <TextLine id="r83l104" custom="readingOrder {index:103;}">
                 <Coords points="7433,5903 8448,5882 8468,5882 8494,5883 8494,5917 8229,5925 7716,5938 7586,5940 7567,5940 7434,5943"/>
-                <Baseline points="7438,5944 7567,5940 7657,5938 7696,5937 7786,5935 7813,5934 7905,5932 7931,5932 8020,5929 8049,5928 8141,5926 8166,5925 8256,5923 8283,5923 8374,5920 8400,5920 8493,5917"/>
+                <Baseline points="7437,5942 7567,5940 7657,5938 7696,5937 7786,5935 7813,5934 7905,5932 7931,5932 8020,5929 8049,5928 8141,5926 8166,5925 8256,5923 8283,5923 8374,5920 8399,5919 8493,5917"/>
                 <TextEquiv>
                     <Unicode>3657 3751 3843 3852 3911 3952 4015 4054 4094</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r83l105" custom="readingOrder {index:104;}">
                 <Coords points="7437,5990 7436,5953 7569,5950 7646,5948 8237,5934 8256,5934 8494,5926 8495,5964 8256,5969 8210,5971 8070,5975 7761,5983 7638,5985 7569,5985"/>
-                <Baseline points="7436,5988 7661,5984 7695,5983 7786,5981 7811,5981 7906,5979 7931,5978 8022,5975 8049,5975 8140,5972 8167,5971 8493,5964"/>
+                <Baseline points="7436,5987 7661,5984 7695,5983 7786,5981 7811,5981 7906,5979 7931,5978 8022,5975 8049,5975 8140,5972 8167,5971 8493,5964"/>
                 <TextEquiv>
                     <Unicode>4100 4301 4313 4346 4425 4434 4447 4490 4498</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r83l106" custom="readingOrder {index:105;}">
                 <Coords points="7439,5997 7592,5994 8122,5983 8238,5981 8495,5974 8495,6012 7997,6023 7882,6026 7717,6030 7590,6032 7567,6032 7439,6038"/>
-                <Baseline points="7439,6035 7510,6031 7567,6032 7662,6030 7695,6030 7789,6027 7814,6026 7908,6024 7932,6024 8024,6021 8050,6020 8143,6018 8169,6017 8496,6011"/>
+                <Baseline points="7439,6035 7510,6031 7567,6032 7662,6030 7695,6030 7789,6027 7814,6026 7908,6024 7932,6024 8024,6021 8050,6020 8143,6018 8169,6017 8495,6011"/>
                 <TextEquiv>
                     <Unicode>4506 4752 4760 4772 4778 5032 5114 5136 5242</Unicode>
                 </TextEquiv>
@@ -7928,7 +7928,7 @@ papieren befinden ſich ausſchließlich in Unterabteilung 2.</Unicode>
             </TextLine>
             <TextLine id="r83l108" custom="readingOrder {index:107;}">
                 <Coords points="7439,6089 8169,6074 8216,6073 8234,6073 8498,6066 8496,6104 8189,6110 8000,6115 7788,6120 7741,6121 7440,6130"/>
-                <Baseline points="7440,6128 7788,6119 7815,6119 7908,6117 7933,6116 8024,6113 8051,6113 8142,6110 8169,6109 8497,6103"/>
+                <Baseline points="7440,6128 7788,6119 7815,6119 7908,6117 7933,6116 8024,6113 8051,6113 8142,6110 8169,6109 8496,6102"/>
                 <TextEquiv>
                     <Unicode>6108 6138 6208 6308 6309 6325 6375 6405 6468</Unicode>
                 </TextEquiv>
@@ -7949,7 +7949,7 @@ papieren befinden ſich ausſchließlich in Unterabteilung 2.</Unicode>
             </TextLine>
             <TextLine id="r83l111" custom="readingOrder {index:110;}">
                 <Coords points="7439,6227 7868,6219 8290,6209 8498,6204 8500,6244 8263,6247 7978,6254 7768,6259 7440,6267"/>
-                <Baseline points="7443,6265 7818,6257 7936,6254 8054,6251 8147,6249 8263,6246 8500,6242"/>
+                <Baseline points="7443,6265 7818,6257 7936,6254 8054,6251 8147,6249 8263,6246 8499,6242"/>
                 <TextEquiv>
                     <Unicode>7204 7210 7238 7270 7273 7314 7445 7604 7716</Unicode>
                 </TextEquiv>
@@ -7977,7 +7977,7 @@ papieren befinden ſich ausſchließlich in Unterabteilung 2.</Unicode>
             </TextLine>
             <TextLine id="r83l115" custom="readingOrder {index:114;}">
                 <Coords points="7449,6407 8507,6387 8507,6425 7912,6440 7724,6444 7488,6448 7445,6451"/>
-                <Baseline points="7450,6449 7488,6448 7702,6444 7791,6442 7820,6441 7912,6439 7938,6439 8025,6436 8056,6435 8148,6433 8175,6432 8507,6426"/>
+                <Baseline points="7450,6449 7488,6448 7702,6444 7791,6442 7820,6441 7912,6439 7938,6439 8025,6436 8056,6435 8148,6433 8175,6432 8506,6425"/>
                 <TextEquiv>
                     <Unicode>9275 9276 9531 9567 9591 9605 9659 9667 9674</Unicode>
                 </TextEquiv>
@@ -7991,7 +7991,7 @@ papieren befinden ſich ausſchließlich in Unterabteilung 2.</Unicode>
             </TextLine>
             <TextLine id="r83l117" custom="readingOrder {index:116;}">
                 <Coords points="7448,6504 8332,6485 8484,6482 8506,6482 8506,6518 7845,6534 7729,6536 7535,6539 7448,6541"/>
-                <Baseline points="7448,6542 7561,6538 7612,6537 7729,6535 7779,6534 7894,6531 7933,6531 8044,6527 8085,6526 8199,6524 8238,6523 8350,6521 8392,6520 8506,6518"/>
+                <Baseline points="7448,6541 7561,6538 7612,6537 7729,6535 7779,6534 7894,6531 7933,6531 8044,6527 8085,6526 8199,6524 8238,6523 8350,6521 8392,6520 8506,6518"/>
                 <TextEquiv>
                     <Unicode>10178 10254 10332 10407 10694 10787 10812</Unicode>
                 </TextEquiv>
@@ -8136,49 +8136,49 @@ Lit. D zu 75 ℳ (25 Tlr.) 229 Stück Nr. 24
             <Coords points="8414,361 9495,335 9533,1598 8436,1623"/>
             <TextLine id="r84l1" custom="readingOrder {index:0;}">
                 <Coords points="8428,363 9483,344 9484,390 8429,409"/>
-                <Baseline points="8429,405 9484,386"/>
+                <Baseline points="8429,405 9483,386"/>
                 <TextEquiv>
                     <Unicode>11956 11981 11991 12066 12067 12076 12101</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r84l2" custom="readingOrder {index:1;}">
                 <Coords points="8427,452 8427,413 8594,412 8616,411 8951,401 9309,395 9329,395 9490,389 9492,431 9329,432 9307,433 9178,438 8611,448 8594,448"/>
-                <Baseline points="8430,452 8709,445 8761,444 8872,442 8910,441 9024,438 9063,438 9178,435 9217,434 9490,428"/>
+                <Baseline points="8429,451 8709,445 8761,444 8872,442 8910,441 9024,438 9063,438 9178,435 9217,434 9490,428"/>
                 <TextEquiv>
                     <Unicode>12110 12169 12338 12487 12520 12527 12533</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r84l3" custom="readingOrder {index:2;}">
                 <Coords points="8431,497 8431,460 8595,458 8617,457 8691,455 8852,451 9284,442 9330,442 9491,438 9491,475 9330,478 9260,480 8778,491 8612,494 8595,494"/>
-                <Baseline points="8430,496 8712,491 8763,490 8873,488 8909,487 9024,484 9064,483 9178,481 9216,480 9493,474"/>
+                <Baseline points="8431,496 8712,491 8763,490 8873,488 8909,487 9024,484 9064,483 9178,481 9216,480 9491,474"/>
                 <TextEquiv>
                     <Unicode>12537 12538 12552 12603 12606 12621 12622</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r84l4" custom="readingOrder {index:3;}">
                 <Coords points="8428,544 8428,507 8597,504 8619,503 8833,498 9264,488 9332,488 9490,481 9492,521 9332,524 9306,525 9234,527 8780,537 8613,540 8597,540"/>
-                <Baseline points="8428,544 8710,537 8761,536 8871,534 8910,533 9027,530 9066,529 9177,527 9217,527 9491,522"/>
+                <Baseline points="8428,544 8710,537 8761,536 8871,534 8910,533 9027,530 9066,529 9177,527 9217,527 9490,521"/>
                 <TextEquiv>
                     <Unicode>12662 12667 12677 12692 12737 12739 12748</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r84l5" custom="readingOrder {index:4;}">
                 <Coords points="8431,592 8430,552 8596,550 8617,549 9237,534 9334,534 9491,527 9493,567 9334,570 9284,572 9129,576 8613,587 8596,587"/>
-                <Baseline points="8430,590 8712,583 8762,582 8872,580 8912,579 9026,576 9070,576 9179,573 9219,572 9489,566"/>
+                <Baseline points="8430,589 8712,583 8762,582 8872,580 8912,579 9026,576 9070,576 9179,573 9219,572 9489,566"/>
                 <TextEquiv>
                     <Unicode>12749 12750 12757 12758 12774 12832 12929</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r84l6" custom="readingOrder {index:5;}">
                 <Coords points="8431,636 8429,598 8597,597 8619,596 8644,595 8831,590 9313,581 9334,581 9494,575 9494,614 9334,617 9155,622 8858,629 8615,633 8597,633"/>
-                <Baseline points="8433,636 8713,630 8764,629 8874,627 8913,626 9026,622 9068,621 9181,620 9219,619 9494,611"/>
+                <Baseline points="8432,635 8713,630 8764,629 8874,627 8913,626 9026,622 9068,621 9181,620 9219,619 9494,611"/>
                 <TextEquiv>
                     <Unicode>12990 12996 13006 13087 13188 13108 13139</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r84l7" custom="readingOrder {index:6;}">
                 <Coords points="8431,682 8432,646 8526,644 8619,642 8712,642 8724,668 8724,675 8712,677 8615,679 8548,680 8526,680"/>
-                <Baseline points="8434,682 8548,680 8597,679 8724,675"/>
+                <Baseline points="8433,681 8548,680 8597,679 8724,675"/>
                 <TextEquiv>
                     <Unicode>13189 13204.</Unicode>
                 </TextEquiv>
@@ -8213,21 +8213,21 @@ Lit. D zu 75 ℳ (25 Tlr.) 229 Stück Nr. 24
             </TextLine>
             <TextLine id="r84l12" custom="readingOrder {index:11;}">
                 <Coords points="8647,872 9033,860 9252,860 9281,869 9281,898 9252,904 8926,912 8819,913 8804,913 8647,910"/>
-                <Baseline points="8646,907 8715,906 8769,906 8861,905 8891,905 8950,904 8977,903 9281,897"/>
+                <Baseline points="8647,907 8715,906 8769,906 8861,905 8891,905 8950,904 8977,903 9281,897"/>
                 <TextEquiv>
                     <Unicode>II. 3 ½ % ige Rentenbriefe.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r84l13" custom="readingOrder {index:12;}">
                 <Coords points="8481,920 9040,907 9454,900 9505,900 9505,936 9474,937 9116,949 8663,961 8651,961 8481,959"/>
-                <Baseline points="8483,960 8561,957 8651,954 8854,950 8945,950 9019,948 9130,945 9168,945 9334,940 9502,936"/>
+                <Baseline points="8483,959 8561,957 8651,954 8854,950 8945,950 9019,948 9130,945 9168,945 9334,940 9502,936"/>
                 <TextEquiv>
                     <Unicode>Lit. F zu 3000 ℳ 24 Stück Nr. 39 157 238</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r84l14" custom="readingOrder {index:13;}">
                 <Coords points="8434,968 9451,945 9500,945 9500,982 9475,984 9301,988 9257,989 8725,1001 8677,1002 8504,1004 8434,1004"/>
-                <Baseline points="8436,1006 8504,1004 8548,1003 8613,1002 8657,1001 8725,1000 8770,999 8857,997 8900,996 8990,994 9035,993 9124,991 9167,990 9257,988 9283,987 9376,985 9405,984 9500,982"/>
+                <Baseline points="8436,1004 8504,1004 8548,1003 8613,1002 8657,1001 8725,1000 8770,999 8857,997 8900,996 8990,994 9035,993 9124,991 9167,990 9257,988 9283,987 9376,985 9405,984 9500,982"/>
                 <TextEquiv>
                     <Unicode>263 701 818 1202 1294 1304 1310 1438 1457</Unicode>
                 </TextEquiv>
@@ -8269,14 +8269,14 @@ Lit. D zu 75 ℳ (25 Tlr.) 229 Stück Nr. 24
             </TextLine>
             <TextLine id="r84l20" custom="readingOrder {index:19;}">
                 <Coords points="8435,1245 9456,1223 9479,1223 9506,1224 9505,1263 8436,1284"/>
-                <Baseline points="8435,1283 8482,1282 8543,1281 8605,1280 8628,1279 8697,1278 8725,1277 8795,1276 8820,1275 8883,1274 8909,1274 8977,1272 9003,1272 9072,1270 9099,1270 9168,1268 9193,1267 9260,1266 9300,1265 9369,1263 9409,1262 9506,1259"/>
+                <Baseline points="8435,1282 8482,1282 8543,1281 8605,1280 8628,1279 8697,1278 8725,1277 8795,1276 8820,1275 8883,1274 8909,1274 8977,1272 9003,1272 9072,1270 9099,1270 9168,1268 9193,1267 9260,1266 9300,1265 9369,1263 9409,1262 9505,1258"/>
                 <TextEquiv>
                     <Unicode>214 222 267 570 583 618 643 824 917 954 1164</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r84l21" custom="readingOrder {index:20;}">
                 <Coords points="8443,1292 8549,1288 8550,1330 8444,1334"/>
-                <Baseline points="8444,1329 8551,1326"/>
+                <Baseline points="8444,1329 8549,1326"/>
                 <TextEquiv>
                     <Unicode>1179.</Unicode>
                 </TextEquiv>
@@ -8370,7 +8370,7 @@ Königliche Direktion der Rentenbank.</Unicode>
             <Coords points="8444,1707 8606,1706 8605,1648 8604,1647 9528,1636 9625,5771 8537,5791"/>
             <TextLine id="r86l1" custom="readingOrder {index:0;}">
                 <Coords points="8782,1656 9178,1650 9179,1693 8783,1699"/>
-                <Baseline points="8783,1694 9179,1688"/>
+                <Baseline points="8783,1694 9178,1688"/>
                 <TextEquiv>
                     <Unicode>Bekanntmachung.</Unicode>
                 </TextEquiv>
@@ -8391,7 +8391,7 @@ Königliche Direktion der Rentenbank.</Unicode>
             </TextLine>
             <TextLine id="r86l4" custom="readingOrder {index:3;}">
                 <Coords points="8455,1808 8575,1795 8896,1793 9348,1782 9518,1789 9520,1817 9363,1830 9094,1835 8866,1837 8522,1842 8455,1842"/>
-                <Baseline points="8456,1838 8522,1838 8549,1837 8815,1832 8855,1831 8951,1829 8988,1829 9046,1828 9072,1827 9094,1827 9121,1826 9141,1825 9167,1825 9224,1823 9251,1823 9406,1819 9433,1818 9520,1816"/>
+                <Baseline points="8456,1838 8522,1838 8549,1837 8815,1832 8855,1831 8951,1829 8988,1829 9046,1828 9072,1827 9094,1827 9121,1826 9141,1825 9167,1825 9224,1823 9251,1823 9406,1819 9433,1818 9519,1816"/>
                 <TextEquiv>
                     <Unicode>von Rentenbanken ſowie des § 6 des Geſetzes vom</Unicode>
                 </TextEquiv>
@@ -8412,14 +8412,14 @@ Königliche Direktion der Rentenbank.</Unicode>
             </TextLine>
             <TextLine id="r86l7" custom="readingOrder {index:6;}">
                 <Coords points="8460,1951 8509,1945 8682,1934 9157,1927 9474,1920 9523,1929 9523,1964 9263,1970 8759,1980 8461,1976"/>
-                <Baseline points="8460,1977 8528,1977 8578,1976 8632,1975 8682,1974 8936,1969 8998,1968 9055,1967 9110,1966 9523,1956"/>
+                <Baseline points="8461,1976 8528,1976 8578,1976 8632,1975 8682,1974 8936,1969 8998,1968 9055,1967 9110,1966 9523,1956"/>
                 <TextEquiv>
                     <Unicode>und der Abgeordneten der Provinzialvertretung</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r86l8" custom="readingOrder {index:7;}">
                 <Coords points="8462,1983 9295,1967 9475,1967 9524,1977 9524,2000 9507,2009 8915,2024 8546,2031 8459,2029"/>
-                <Baseline points="8461,2023 8710,2019 8742,2019 8950,2015 8992,2015 9238,2010 9266,2009 9524,2002"/>
+                <Baseline points="8461,2023 8710,2019 8742,2019 8950,2015 8992,2015 9238,2010 9266,2009 9523,2000"/>
                 <TextEquiv>
                     <Unicode>ſtattgehabten öffentlichen Ausloſung Schleswig⸗</Unicode>
                 </TextEquiv>
@@ -8454,7 +8454,7 @@ Königliche Direktion der Rentenbank.</Unicode>
             </TextLine>
             <TextLine id="r86l13" custom="readingOrder {index:12;}">
                 <Coords points="8467,2217 8850,2208 9116,2203 9465,2198 9510,2206 9528,2215 9528,2230 9513,2241 9272,2247 8912,2256 8650,2261 8467,2257"/>
-                <Baseline points="8467,2256 8647,2253 8690,2252 8757,2250 8799,2250 8969,2247 9022,2245 9080,2244 9116,2243 9328,2239 9411,2237 9531,2235"/>
+                <Baseline points="8467,2256 8647,2253 8690,2252 8757,2250 8799,2250 8969,2247 9022,2245 9080,2244 9116,2243 9328,2239 9411,2237 9527,2230"/>
                 <TextEquiv>
                     <Unicode>Quittung und Rückgabe der ausgeloſten Renten⸗</Unicode>
                 </TextEquiv>
@@ -8468,14 +8468,14 @@ Königliche Direktion der Rentenbank.</Unicode>
             </TextLine>
             <TextLine id="r86l15" custom="readingOrder {index:14;}">
                 <Coords points="8467,2321 8521,2310 9452,2288 9478,2289 9531,2302 9531,2328 8942,2344 8659,2352 8599,2352 8469,2352"/>
-                <Baseline points="8467,2348 8659,2344 8686,2345 8781,2342 8811,2341 8857,2341 8881,2340 9006,2337 9034,2337 9170,2334 9199,2333 9249,2333 9275,2332 9312,2332 9342,2331 9404,2330 9432,2330 9531,2328"/>
+                <Baseline points="8468,2347 8659,2344 8686,2345 8781,2342 8811,2341 8857,2341 8881,2340 9006,2337 9034,2337 9170,2334 9199,2333 9249,2333 9275,2332 9312,2332 9342,2331 9404,2330 9432,2330 9531,2328"/>
                 <TextEquiv>
                     <Unicode>weiſungen vom 1. April 1906 ab in den Vor⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r86l16" custom="readingOrder {index:15;}">
                 <Coords points="8470,2368 8498,2354 9261,2341 9401,2340 9531,2340 9531,2383 8757,2395 8493,2400 8470,2394"/>
-                <Baseline points="8472,2395 8759,2389 8802,2388 8865,2387 8906,2386 8927,2385 8970,2384 9025,2383 9065,2383 9107,2382 9147,2381 9221,2380 9261,2379 9298,2378 9341,2378 9531,2374"/>
+                <Baseline points="8472,2394 8759,2389 8802,2388 8865,2387 8906,2386 8927,2385 8970,2384 9025,2383 9065,2383 9107,2382 9147,2381 9221,2380 9261,2379 9298,2378 9341,2378 9531,2374"/>
                 <TextEquiv>
                     <Unicode>mittagsſtunden von 9 bis 12 Uhr in unſerem</Unicode>
                 </TextEquiv>
@@ -8489,7 +8489,7 @@ Königliche Direktion der Rentenbank.</Unicode>
             </TextLine>
             <TextLine id="r86l18" custom="readingOrder {index:17;}">
                 <Coords points="8472,2449 8709,2443 9289,2433 9384,2432 9535,2431 9535,2470 9235,2480 9142,2482 8606,2494 8472,2488"/>
-                <Baseline points="8472,2488 8737,2482 8792,2481 9151,2474 9211,2473 9246,2472 9289,2471 9537,2465"/>
+                <Baseline points="8472,2488 8737,2482 8792,2481 9151,2474 9211,2473 9246,2472 9289,2471 9535,2465"/>
                 <TextEquiv>
                     <Unicode>Königlichen Rentenbankkaſſe zu Berlin —</Unicode>
                 </TextEquiv>
@@ -8538,7 +8538,7 @@ Königliche Direktion der Rentenbank.</Unicode>
             </TextLine>
             <TextLine id="r86l25" custom="readingOrder {index:24;}">
                 <Coords points="8529,2772 9335,2753 9407,2752 9472,2753 9541,2765 9541,2800 9492,2800 9143,2805 8570,2815 8532,2815"/>
-                <Baseline points="8529,2812 8627,2809 8678,2807 8710,2806 8753,2807 8854,2805 8894,2804 8981,2802 9021,2802 9063,2801 9100,2800 9179,2798 9226,2797 9277,2796 9321,2795 9541,2791"/>
+                <Baseline points="8531,2811 8627,2809 8678,2807 8710,2806 8753,2807 8854,2805 8894,2804 8981,2802 9021,2802 9063,2801 9100,2800 9179,2798 9226,2797 9277,2796 9321,2795 9541,2791"/>
                 <TextEquiv>
                     <Unicode>Vom 1. April 1906 ab hört die Verzinſung</Unicode>
                 </TextEquiv>
@@ -8552,14 +8552,14 @@ Königliche Direktion der Rentenbank.</Unicode>
             </TextLine>
             <TextLine id="r86l27" custom="readingOrder {index:26;}">
                 <Coords points="8481,2880 8531,2869 8593,2862 8873,2856 9429,2849 9459,2849 9525,2854 9544,2858 9544,2879 9525,2885 9500,2892 9380,2892 9087,2902 8764,2908 8593,2911 8481,2906"/>
-                <Baseline points="8481,2905 8551,2904 8593,2903 8811,2899 8849,2898 9114,2892 9156,2891 9286,2889 9336,2888 9388,2887 9429,2886 9548,2883"/>
+                <Baseline points="8481,2905 8551,2904 8593,2903 8811,2899 8849,2898 9114,2892 9156,2891 9286,2889 9336,2888 9388,2887 9429,2886 9544,2879"/>
                 <TextEquiv>
                     <Unicode>und gekündigten Rentenbriefen können die einzu⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r86l28" custom="readingOrder {index:27;}">
                 <Coords points="8481,2915 8703,2907 9331,2896 9384,2896 9544,2900 9545,2932 9286,2944 8638,2953 8481,2953"/>
-                <Baseline points="8481,2952 8638,2949 8676,2948 8916,2943 8953,2942 9054,2940 9087,2940 9289,2935 9331,2934 9421,2933 9464,2932 9545,2930"/>
+                <Baseline points="8481,2952 8638,2949 8676,2948 8916,2943 8953,2942 9054,2940 9087,2940 9289,2935 9331,2934 9421,2933 9464,2932 9544,2930"/>
                 <TextEquiv>
                     <Unicode>löſenden Rentenbriefe unter Beifügung einer vor⸗</Unicode>
                 </TextEquiv>
@@ -8573,7 +8573,7 @@ Königliche Direktion der Rentenbank.</Unicode>
             </TextLine>
             <TextLine id="r86l30" custom="readingOrder {index:29;}">
                 <Coords points="8485,3007 8644,3003 9104,2993 9419,2987 9504,2987 9529,2997 9546,3004 9546,3018 9531,3026 9506,3028 9105,3041 8580,3049 8507,3049 8485,3045"/>
-                <Baseline points="8485,3045 8602,3043 8626,3043 8812,3039 8838,3038 8969,3035 9008,3034 9067,3033 9095,3032 9303,3028 9343,3027 9393,3026 9419,3026 9547,3022"/>
+                <Baseline points="8485,3045 8602,3043 8626,3043 8812,3039 8838,3038 8969,3035 9008,3034 9067,3033 9095,3032 9303,3028 9343,3027 9393,3026 9419,3026 9545,3018"/>
                 <TextEquiv>
                     <Unicode>Kaſſe einſenden, worauf auf Verlangen die Ueber⸗</Unicode>
                 </TextEquiv>
@@ -8601,7 +8601,7 @@ Königliche Direktion der Rentenbank.</Unicode>
             </TextLine>
             <TextLine id="r86l34" custom="readingOrder {index:33;}">
                 <Coords points="8489,3193 8723,3187 9354,3174 9475,3173 9495,3173 9532,3177 9548,3190 9548,3203 9532,3209 9448,3219 8512,3239 8489,3239"/>
-                <Baseline points="8489,3230 8512,3230 8540,3229 8585,3229 8609,3228 8667,3228 8692,3227 9051,3219 9076,3219 9125,3218 9151,3217 9215,3216 9241,3215 9300,3214 9329,3213 9549,3209"/>
+                <Baseline points="8489,3230 8512,3230 8540,3229 8585,3229 8609,3228 8667,3228 8692,3227 9051,3219 9076,3219 9125,3218 9151,3217 9215,3216 9241,3215 9300,3214 9329,3213 9546,3203"/>
                 <TextEquiv>
                     <Unicode>§ 44 des Rentenbankgeſetzes die aus den Fälligkeits⸗</Unicode>
                 </TextEquiv>
@@ -8643,7 +8643,7 @@ Königliche Direktion der Rentenbank.</Unicode>
             </TextLine>
             <TextLine id="r86l40" custom="readingOrder {index:39;}">
                 <Coords points="8499,3471 9544,3450 9562,3450 9561,3488 9541,3498 8580,3512 8499,3510"/>
-                <Baseline points="8499,3509 8723,3505 8761,3504 8839,3502 8876,3501 8905,3501 8924,3501 9030,3499 9057,3499 9145,3497 9183,3497 9225,3496 9260,3495 9312,3494 9337,3494 9397,3493 9424,3493 9545,3489 9559,3489 9563,3489"/>
+                <Baseline points="8499,3509 8723,3505 8761,3504 8839,3502 8876,3501 8905,3501 8924,3501 9030,3499 9057,3499 9145,3497 9183,3497 9225,3496 9260,3495 9312,3494 9337,3494 9397,3493 9424,3493 9545,3489 9559,3489"/>
                 <TextEquiv>
                     <Unicode>Auszahlung vom 1. April 1906 ab bei den König⸗</Unicode>
                 </TextEquiv>
@@ -8657,7 +8657,7 @@ Königliche Direktion der Rentenbank.</Unicode>
             </TextLine>
             <TextLine id="r86l42" custom="readingOrder {index:41;}">
                 <Coords points="8748,3563 8832,3559 9043,3551 9281,3551 9319,3561 9319,3588 9281,3595 8962,3602 8941,3602 8749,3599"/>
-                <Baseline points="8748,3597 9014,3593 9319,3587"/>
+                <Baseline points="8748,3596 9014,3593 9319,3587"/>
                 <TextEquiv>
                     <Unicode>I. 4 % ige Rentenbriefe.</Unicode>
                 </TextEquiv>
@@ -8734,7 +8734,7 @@ Königliche Direktion der Rentenbank.</Unicode>
             </TextLine>
             <TextLine id="r86l53" custom="readingOrder {index:52;}">
                 <Coords points="8515,4078 8536,4077 8585,4075 8610,4074 9499,4055 9568,4055 9568,4090 9544,4091 9518,4092 9381,4095 8530,4113 8515,4113"/>
-                <Baseline points="8515,4112 8624,4110 8665,4109 8781,4106 8825,4105 8932,4103 8976,4102 9089,4100 9134,4099 9247,4097 9295,4096 9406,4094 9450,4093 9571,4090"/>
+                <Baseline points="8515,4112 8624,4110 8665,4109 8781,4106 8825,4105 8932,4103 8976,4102 9089,4100 9134,4099 9247,4097 9295,4096 9406,4094 9450,4093 9568,4090"/>
                 <TextEquiv>
                     <Unicode>10881 11168 11206 11661 11709 11739 11781</Unicode>
                 </TextEquiv>
@@ -8839,7 +8839,7 @@ Königliche Direktion der Rentenbank.</Unicode>
             </TextLine>
             <TextLine id="r86l68" custom="readingOrder {index:67;}">
                 <Coords points="8525,4770 8703,4767 8829,4764 9085,4758 9563,4748 9584,4748 9584,4784 9509,4787 8747,4803 8696,4804 8525,4809"/>
-                <Baseline points="8529,4807 8747,4801 8784,4801 8869,4799 8896,4798 8985,4796 9015,4796 9103,4794 9132,4794 9220,4792 9247,4791 9338,4789 9365,4789 9458,4787 9486,4787 9586,4784"/>
+                <Baseline points="8529,4807 8747,4801 8784,4801 8869,4799 8896,4798 8985,4796 9015,4796 9103,4794 9132,4794 9220,4792 9247,4791 9338,4789 9365,4789 9458,4787 9486,4787 9584,4784"/>
                 <TextEquiv>
                     <Unicode>1107 1198 1282 1296 1367 1833 2011 2217 2292</Unicode>
                 </TextEquiv>
@@ -8860,7 +8860,7 @@ Königliche Direktion der Rentenbank.</Unicode>
             </TextLine>
             <TextLine id="r86l71" custom="readingOrder {index:70;}">
                 <Coords points="8525,4910 8729,4905 8830,4902 8920,4900 9563,4887 9587,4887 9587,4924 9462,4927 9152,4933 8676,4942 8527,4947"/>
-                <Baseline points="8531,4947 8745,4940 8784,4939 8870,4937 8896,4937 8983,4935 9015,4935 9106,4933 9131,4932 9224,4931 9250,4930 9342,4928 9369,4928 9462,4926 9491,4926 9587,4924"/>
+                <Baseline points="8530,4946 8745,4940 8784,4939 8870,4937 8896,4937 8983,4935 9015,4935 9106,4933 9131,4932 9224,4931 9250,4930 9342,4928 9369,4928 9462,4926 9491,4926 9587,4924"/>
                 <TextEquiv>
                     <Unicode>5306 5351 5669 5771 5984 6400 6473 6533 6556</Unicode>
                 </TextEquiv>
@@ -8972,7 +8972,7 @@ Königliche Direktion der Rentenbank.</Unicode>
             </TextLine>
             <TextLine id="r86l87" custom="readingOrder {index:86;}">
                 <Coords points="8547,5649 8686,5646 8705,5646 8730,5647 8746,5669 8746,5683 8732,5683 8705,5683 8659,5684 8589,5685 8547,5685"/>
-                <Baseline points="8545,5684 8589,5685 8615,5684 8659,5684 8686,5683 8742,5680"/>
+                <Baseline points="8547,5684 8589,5685 8615,5684 8659,5684 8686,5683 8742,5680"/>
                 <TextEquiv>
                     <Unicode>68 72 73.</Unicode>
                 </TextEquiv>
@@ -9107,7 +9107,7 @@ Königliche Direktion der Rentenbank.</Unicode>
             </TextLine>
             <TextLine id="r88l2" custom="readingOrder {index:1;}">
                 <Coords points="8822,5920 9037,5915 9268,5912 9302,5920 9317,5936 9317,5948 9263,5956 8952,5962 8930,5962 8865,5960 8822,5954"/>
-                <Baseline points="8826,5955 8976,5954 9003,5953 9317,5948"/>
+                <Baseline points="8826,5954 8976,5954 9003,5953 9317,5948"/>
                 <TextEquiv>
                     <Unicode>4 % ige Obligationen.</Unicode>
                 </TextEquiv>
@@ -9128,7 +9128,7 @@ Königliche Direktion der Rentenbank.</Unicode>
             </TextLine>
             <TextLine id="r88l5" custom="readingOrder {index:4;}">
                 <Coords points="8593,6063 8883,6057 9279,6049 9302,6049 9354,6057 9369,6071 9369,6086 9123,6100 8892,6100 8882,6100 8593,6100"/>
-                <Baseline points="8596,6101 8643,6100 8669,6099 8727,6098 8753,6097 9132,6088 9158,6088 9193,6087 9219,6086 9369,6083"/>
+                <Baseline points="8596,6100 8643,6100 8669,6099 8727,6098 8753,6097 9132,6088 9158,6088 9193,6087 9219,6086 9369,6083"/>
                 <TextEquiv>
                     <Unicode>bei der Geſellſchaftskaſſe in Lüben,</Unicode>
                 </TextEquiv>
@@ -9156,7 +9156,7 @@ Königliche Direktion der Rentenbank.</Unicode>
             </TextLine>
             <TextLine id="r88l9" custom="readingOrder {index:8;}">
                 <Coords points="8934,6238 9214,6232 9216,6275 8936,6281"/>
-                <Baseline points="8936,6276 9216,6270"/>
+                <Baseline points="8936,6276 9215,6270"/>
                 <TextEquiv>
                     <Unicode>I. Emiſſion.</Unicode>
                 </TextEquiv>
@@ -9184,7 +9184,7 @@ Königliche Direktion der Rentenbank.</Unicode>
             </TextLine>
             <TextLine id="r88l13" custom="readingOrder {index:12;}">
                 <Coords points="8925,6422 9232,6415 9233,6458 8926,6465"/>
-                <Baseline points="8930,6460 9233,6453"/>
+                <Baseline points="8930,6460 9232,6453"/>
                 <TextEquiv>
                     <Unicode>II. Emiſſion.</Unicode>
                 </TextEquiv>

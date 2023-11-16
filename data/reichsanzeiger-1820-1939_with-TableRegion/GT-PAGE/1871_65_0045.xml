@@ -1,24 +1,24 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
     <Metadata>
         <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.7.1:model_id=40804:lm=none:date=05_07_2022_11:43
 prov=READ-COOP:name=PyLaia@Transkribus:version=0.7.1:model_id=40804:date=05_07_2022_11:43
 Transkribus</Creator>
         <Created>2021-12-14T11:43:01.768+01:00</Created>
-        <LastChange>2022-12-07T16:08:22.931+01:00</LastChange>
+        <LastChange>2023-11-15T20:46:37.796+01:00</LastChange>
         <Comments>
                 Measurement unit: pixel
                 PrimaryLanguage: 
                 Producer: Transkribus
             </Comments>
-        <TranskribusMetadata docId="900641" pageId="34382458" pageNr="8" tsid="105747835" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=EHFGOSKSLVRBQXDVRXTZOONY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HOYXJWHRURDQULAHTFOZXUKZ" imageId="27583902"/>
+        <TranskribusMetadata docId="900641" pageId="34382458" pageNr="8" tsid="139840601" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=EHFGOSKSLVRBQXDVRXTZOONY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NXDWPGWUOWJQVWFYMZKHRMWT" imageId="27583902"/>
     </Metadata>
     <Page imageFilename="1871_65_0045.jpg" imageWidth="10736" imageHeight="7536">
         <PrintSpace>
             <Coords points="902,1054 9864,999 9829,7228 888,7194"/>
         </PrintSpace>
         <ReadingOrder>
-            <OrderedGroup id="ro_1690360014821" caption="Regions reading order">
+            <OrderedGroup id="ro_1700129741365" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
                 <RegionRefIndexed index="1" regionRef="r2"/>
                 <RegionRefIndexed index="2" regionRef="r3"/>
@@ -49,7 +49,7 @@ Transkribus</Creator>
             <Coords points="3064,1149 3203,1149 3203,1280 3064,1280"/>
             <TextLine id="r1l1" custom="readingOrder {index:0;}">
                 <Coords points="3091,1179 3182,1179 3186,1263 3095,1263"/>
-                <Baseline points="3095,1258 3186,1258"/>
+                <Baseline points="3095,1258 3185,1258"/>
                 <TextEquiv>
                     <Unicode>4</Unicode>
                 </TextEquiv>
@@ -342,7 +342,7 @@ Transkribus</Creator>
             </TextLine>
             <TextLine id="r2l41" custom="readingOrder {index:40;}">
                 <Coords points="1219,4015 1253,4014 1906,3999 2852,3984 3091,3984 3135,3997 3135,4038 3091,4045 3032,4050 2198,4055 2004,4065 1217,4058"/>
-                <Baseline points="1219,4067 1297,4066 1335,4066 1437,4065 1472,4064 1829,4055 1906,4054 2105,4050 2176,4048 2237,4047 2308,4045 2363,4045 2435,4044 2532,4043 2606,4042 2719,4041 2780,4040 3135,4038"/>
+                <Baseline points="1219,4058 1297,4058 1335,4059 1437,4059 1472,4060 1829,4055 1906,4054 2105,4050 2176,4048 2237,4047 2308,4045 2363,4045 2435,4044 2532,4043 2606,4042 2719,4041 2780,4040 3135,4038"/>
                 <TextEquiv>
                     <Unicode>die alte Benennung. Ebenſo iſt es mit dem Hühnerhofe.</Unicode>
                 </TextEquiv>
@@ -587,7 +587,7 @@ floſſenen drei Monate.</Unicode>
             </TextLine>
             <TextLine id="r4l22" custom="readingOrder {index:21;}">
                 <Coords points="1235,5920 1514,5896 2722,5883 2954,5881 3013,5881 3127,5882 3149,5904 3149,5921 3127,5942 2860,5951 1561,5961 1477,5962 1235,5961"/>
-                <Baseline points="1235,5961 1451,5955 1486,5954 1722,5950 1735,5950 1909,5948 1925,5948 2179,5946 2200,5946 2379,5943 2400,5942 2707,5938 2722,5938 2912,5935 2954,5935 3140,5931"/>
+                <Baseline points="1235,5961 1451,5955 1486,5954 1722,5950 1735,5950 1909,5948 1925,5948 2179,5946 2200,5946 2379,5943 2400,5942 2707,5938 2722,5938 2912,5935 2954,5935 3139,5930"/>
                 <TextEquiv>
                     <Unicode>neueren Dichtern waren vertreten Laube mit »Graf Eſſex«, Brach⸗</Unicode>
                 </TextEquiv>
@@ -601,7 +601,7 @@ floſſenen drei Monate.</Unicode>
             </TextLine>
             <TextLine id="r4l24" custom="readingOrder {index:23;}">
                 <Coords points="1257,6036 1447,6030 2527,6020 2873,6017 2968,6017 3151,6027 3161,6064 2628,6097 1236,6097 1236,6042"/>
-                <Baseline points="1236,6096 1415,6093 1447,6091 1603,6086 1626,6086 1781,6082 1807,6083 1960,6082 1987,6082 2275,6080 2301,6079 2478,6076 2499,6075 2769,6071 2788,6072 3000,6070 3042,6069 3151,6066"/>
+                <Baseline points="1236,6096 1415,6093 1447,6091 1603,6086 1626,6086 1781,6082 1807,6083 1960,6082 1987,6082 2275,6080 2301,6079 2478,6076 2499,6075 2769,6071 2788,6072 3000,6070 3042,6069 3150,6064"/>
                 <TextEquiv>
                     <Unicode>ſtein«. Zum erſten Male dargeſtellt wurde »Iſabella Orſini« von</Unicode>
                 </TextEquiv>
@@ -650,7 +650,7 @@ floſſenen drei Monate.</Unicode>
             </TextLine>
             <TextLine id="r4l31" custom="readingOrder {index:30;}">
                 <Coords points="1241,6524 1266,6518 1320,6507 1474,6503 2020,6494 2074,6494 2100,6495 2121,6515 2113,6563 1262,6575 1241,6575"/>
-                <Baseline points="1241,6563 1394,6561 1429,6560 1902,6550 1941,6549 2117,6549"/>
+                <Baseline points="1241,6563 1394,6561 1429,6560 1902,6550 1941,6549 2115,6548"/>
                 <TextEquiv>
                     <Unicode>zwölf Wiederholungen erlebt.</Unicode>
                 </TextEquiv>
@@ -910,14 +910,14 @@ eigenthümliche Vergangenheit noch wenig von unſeren ſtoff⸗</Unicode>
             </TextLine>
             <TextLine id="r5l24" custom="readingOrder {index:23;}">
                 <Coords points="3216,2840 3679,2831 4737,2813 4761,2813 5006,2817 5060,2819 5121,2830 5121,2869 4776,2886 4727,2881 3480,2888 3216,2894"/>
-                <Baseline points="3212,2889 3362,2887 3397,2886 3603,2883 3675,2883 3972,2878 4004,2878 4062,2877 4093,2877 4170,2876 4189,2876 4505,2872 4532,2872 4681,2870 4703,2870 4894,2867 4925,2869 5002,2866 5030,2866 5117,2865"/>
+                <Baseline points="3216,2889 3362,2887 3397,2886 3603,2883 3675,2883 3972,2878 4004,2878 4062,2877 4093,2877 4170,2876 4189,2876 4505,2872 4532,2872 4681,2870 4703,2870 4894,2867 4925,2869 5002,2866 5030,2866 5117,2865"/>
                 <TextEquiv>
                     <Unicode>Edda mahnt. Aber leider iſt die Bedeutung dieſer Geſtalt auf der</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r5l25" custom="readingOrder {index:24;}">
                 <Coords points="3214,2903 3254,2902 3706,2892 5038,2880 5051,2880 5093,2892 5121,2902 5121,2919 5093,2932 4769,2949 4465,2953 3809,2961 3342,2966 3254,2966 3214,2958"/>
-                <Baseline points="3214,2957 3408,2954 3443,2953 3669,2950 3706,2949 4030,2945 4067,2944 4158,2943 4197,2942 4270,2942 4305,2942 4521,2940 4549,2939 4769,2936 4806,2936 4888,2934 4915,2934 4991,2933 5011,2933 5111,2933"/>
+                <Baseline points="3214,2957 3408,2954 3443,2953 3669,2950 3706,2949 4030,2945 4067,2944 4158,2943 4197,2942 4270,2942 4305,2942 4521,2940 4549,2939 4769,2936 4806,2936 4888,2934 4915,2934 4991,2933 5011,2933 5107,2925"/>
                 <TextEquiv>
                     <Unicode>Bühne weniger augenfällig als bei ruhiger Lektüre, wo die ein⸗</Unicode>
                 </TextEquiv>
@@ -1836,7 +1836,7 @@ Grundlage für den ſpäter abzuſchließenden Frieden dienen ſoll.</Unicode>
             <Coords points="6478,4863 6907,4853 6910,4950 6482,4972"/>
             <TextLine id="r17l1" custom="readingOrder {index:0;}">
                 <Coords points="6517,4893 6874,4876 6877,4942 6520,4959"/>
-                <Baseline points="6520,4954 6877,4937"/>
+                <Baseline points="6520,4954 6876,4937"/>
                 <TextEquiv>
                     <Unicode>Artikel I.</Unicode>
                 </TextEquiv>
@@ -2355,7 +2355,7 @@ einem ſpäter feſtzuſetzenden Rayon bei Frankreich verbleiben.</Unicode>
             <Coords points="8501,5593 8925,5580 8930,5687 8505,5707"/>
             <TextLine id="r20l1" custom="readingOrder {index:0;}">
                 <Coords points="8519,5634 8893,5624 8902,5692 8528,5702"/>
-                <Baseline points="8528,5697 8902,5687"/>
+                <Baseline points="8528,5697 8901,5687"/>
                 <TextEquiv>
                     <Unicode>Artikel II.</Unicode>
                 </TextEquiv>
@@ -2413,7 +2413,7 @@ des gegenwärtigen Vertrags ab.</Unicode>
             <Coords points="8524,6146 8962,6126 8967,6229 8528,6250"/>
             <TextLine id="r22l1" custom="readingOrder {index:0;}">
                 <Coords points="8540,6169 8937,6154 8943,6220 8546,6235"/>
-                <Baseline points="8546,6230 8943,6215"/>
+                <Baseline points="8546,6230 8942,6215"/>
                 <TextEquiv>
                     <Unicode>Artikel III.</Unicode>
                 </TextEquiv>

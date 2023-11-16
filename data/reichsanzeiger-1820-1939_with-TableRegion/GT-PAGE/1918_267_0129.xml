@@ -1,24 +1,24 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
     <Metadata>
         <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.7.3:model_id=40804:lm=none:date=21_07_2022_09:12
 prov=READ-COOP:name=PyLaia@Transkribus:version=0.7.3:model_id=40804:date=21_07_2022_09:12
 Transkribus</Creator>
         <Created>2021-12-14T12:18:09.295+01:00</Created>
-        <LastChange>2023-06-13T16:02:44.548+02:00</LastChange>
+        <LastChange>2023-11-16T10:19:22.046+01:00</LastChange>
         <Comments>
                 Measurement unit: pixel
                 PrimaryLanguage: 
                 Producer: Transkribus
             </Comments>
-        <TranskribusMetadata docId="1028597" pageId="43217667" pageNr="18" tsid="126858145" status="GT" userId="109938" imgUrl="https://files.transkribus.eu/Get?id=BMTZMROYMKFXLYLMEJDUVRUG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BRFXWBALTYAWQVJUPJGQBRXO" imageId="35453679"/>
+        <TranskribusMetadata docId="1028597" pageId="43217667" pageNr="18" tsid="139880849" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=BMTZMROYMKFXLYLMEJDUVRUG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZCMZZYLIUTVDZNGNDNOGPKJP" imageId="35453679"/>
     </Metadata>
     <Page imageFilename="1918_267_0129.jpg" imageWidth="10152" imageHeight="7768">
         <PrintSpace>
             <Coords points="555,308 9708,358 9671,6908 465,6749"/>
         </PrintSpace>
         <ReadingOrder>
-            <OrderedGroup id="ro_1690359980982" caption="Regions reading order">
+            <OrderedGroup id="ro_1700129722093" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
                 <RegionRefIndexed index="1" regionRef="r2"/>
                 <RegionRefIndexed index="2" regionRef="r3"/>
@@ -645,7 +645,7 @@ Reichsſchiedsgericht für Kriegswirtſchaft.</Unicode>
             </TextLine>
             <TextLine id="r3l40" custom="readingOrder {index:39;}">
                 <Coords points="563,3818 702,3820 724,3820 1389,3831 1409,3844 1409,3878 1387,3878 1362,3876 638,3866 563,3858"/>
-                <Baseline points="564,3859 749,3856 799,3857 995,3860 1046,3862 1156,3865 1207,3866 1409,3868"/>
+                <Baseline points="564,3858 749,3856 799,3857 995,3860 1046,3862 1156,3865 1207,3866 1409,3868"/>
                 <TextEquiv>
                     <Unicode>Auguſte Gaillard Fils, Marſeille,</Unicode>
                 </TextEquiv>
@@ -946,7 +946,7 @@ Reichsſchiedsgericht für Kriegswirtſchaft.</Unicode>
             </TextLine>
             <TextLine id="r5l13" custom="readingOrder {index:12;}">
                 <Coords points="540,5410 581,5410 1005,5415 1269,5417 1388,5433 1390,5461 1269,5461 1150,5461 800,5458 541,5455"/>
-                <Baseline points="540,5447 682,5449 707,5449 775,5450 800,5450 1001,5452 1016,5452 1157,5453 1183,5454 1269,5456 1293,5456 1388,5458"/>
+                <Baseline points="540,5446 682,5449 707,5449 775,5450 800,5450 1001,5452 1016,5452 1157,5453 1183,5454 1269,5456 1293,5456 1388,5458"/>
                 <TextEquiv>
                     <Unicode>handelt und entſchieden werden, auch wenn</Unicode>
                 </TextEquiv>
@@ -1035,7 +1035,7 @@ Reichsſchiedsgericht für Kriegswirtſchaft.</Unicode>
             </TextLine>
             <TextLine id="r7l6" custom="readingOrder {index:5;}">
                 <Coords points="530,5893 581,5886 685,5890 686,5930 571,5930 529,5933 529,5908"/>
-                <Baseline points="533,5922 686,5925"/>
+                <Baseline points="533,5922 685,5925"/>
                 <TextEquiv>
                     <Unicode>gehörig,</Unicode>
                 </TextEquiv>
@@ -1382,7 +1382,7 @@ Reichsſchiedsgericht für Kriegswirtſchaft.</Unicode>
             </TextLine>
             <TextLine id="r9l29" custom="readingOrder {index:28;}">
                 <Coords points="1483,1723 1642,1723 1933,1725 2302,1730 2327,1744 2333,1778 2308,1778 1644,1771 1568,1769 1484,1766"/>
-                <Baseline points="1483,1761 1670,1762 1701,1763 1933,1765 1958,1766 2012,1767 2039,1767 2094,1769 2120,1770 2326,1772"/>
+                <Baseline points="1483,1760 1670,1762 1701,1763 1933,1765 1958,1766 2012,1767 2039,1767 2094,1769 2120,1770 2326,1772"/>
                 <TextEquiv>
                     <Unicode>Boxkalb), Eigentümer S. D. Aftalion,</Unicode>
                 </TextEquiv>
@@ -1795,7 +1795,7 @@ Der Magiſtrat.</Unicode>
             <Coords points="1440,4397 2291,4405 2286,4764 1440,4759"/>
             <TextLine id="r14l1" custom="readingOrder {index:0;}">
                 <Coords points="1459,4405 1522,4405 2223,4409 2260,4413 2285,4460 2285,4490 2284,4519 2223,4525 2059,4525 1509,4513 1459,4495"/>
-                <Baseline points="1459,4495 1540,4498 1570,4501 2286,4508"/>
+                <Baseline points="1459,4495 1540,4498 1570,4501 2284,4507"/>
                 <TextEquiv>
                     <Unicode>5) Kommanditgeſell⸗</Unicode>
                 </TextEquiv>
@@ -1914,7 +1914,7 @@ Hirſchlaff.</Unicode>
             <Coords points="1418,5334 1600,5334 1601,5384 1418,5382"/>
             <TextLine id="r17l1" custom="readingOrder {index:0;}">
                 <Coords points="1433,5338 1494,5337 1516,5338 1579,5339 1579,5382 1547,5382 1434,5379"/>
-                <Baseline points="1433,5376 1579,5375"/>
+                <Baseline points="1433,5375 1579,5375"/>
                 <TextEquiv>
                     <Unicode>[47951]</Unicode>
                 </TextEquiv>
@@ -2483,7 +2483,7 @@ Remſcheid, den 5. November 1918.</Unicode>
                 <Coords points="2393,2569 2985,2569 3161,2567 3201,2570 3204,2616 2983,2615 2658,2615 2561,2615 2415,2614 2393,2607"/>
                 <Baseline points="2393,2607 2429,2607 2445,2606 2658,2605 2696,2607 2749,2608 2788,2609 2985,2609 3029,2610 3097,2610 3135,2610 3196,2610"/>
                 <TextEquiv>
-                    <Unicode>3) Entlaitung des Vorſtands und des</Unicode>
+                    <Unicode>3) Entlaſtung des Vorſtands und des</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r22l28" custom="readingOrder {index:27;}">
@@ -2576,7 +2576,7 @@ und Verluſtrechnung für das abge⸗
 laufene Geſchäftsjahr.
 2) Genehmigung der Jahresbilanz und
 Gewinnverteilung.
-3) Entlaitung des Vorſtands und des
+3) Entlaſtung des Vorſtands und des
 Aufſichtsrats.
 4) Wahl von Mitgliedern des Auf⸗
 ſichtsrats.
@@ -2654,7 +2654,7 @@ Keula Actiengeſellſchaft.</Unicode>
             </TextLine>
             <TextLine id="r25l5" custom="readingOrder {index:4;}">
                 <Coords points="2343,3462 2658,3462 2997,3464 3064,3479 3064,3507 2997,3511 2828,3512 2580,3512 2345,3509"/>
-                <Baseline points="2343,3502 2828,3503 2853,3503 3064,3504"/>
+                <Baseline points="2344,3501 2828,3503 2853,3503 3064,3504"/>
                 <TextEquiv>
                     <Unicode>Generalverſammlung eingeladen.</Unicode>
                 </TextEquiv>
@@ -2771,7 +2771,7 @@ Vorſitzender des Aufſichtsrats.</Unicode>
             </TextLine>
             <TextLine id="r27l2" custom="readingOrder {index:1;}">
                 <Coords points="2332,4158 2440,4155 2506,4155 3169,4161 3166,4243 2354,4234 2332,4219"/>
-                <Baseline points="2332,4219 2409,4219 2440,4219 2654,4221 2679,4221 2759,4222 2804,4223 2910,4224 2952,4225 3169,4226"/>
+                <Baseline points="2332,4219 2409,4219 2440,4219 2654,4221 2679,4221 2759,4222 2804,4223 2910,4224 2952,4225 3166,4225"/>
                 <TextEquiv>
                     <Unicode>in Eſſen an der Ruhr.</Unicode>
                 </TextEquiv>
@@ -3051,7 +3051,7 @@ in Eſſen an der Ruhr.</Unicode>
             </TextLine>
             <TextLine id="r28l39" custom="readingOrder {index:38;}">
                 <Coords points="2308,5994 2411,5991 2496,5991 3102,6009 3122,6015 3134,6034 3134,6046 3122,6055 2818,6048 2478,6044 2305,6039"/>
-                <Baseline points="2308,6035 2382,6035 2411,6035 2634,6037 2672,6037 2796,6040 2831,6040 2890,6042 2926,6044 2975,6045 3012,6046 3131,6049"/>
+                <Baseline points="2308,6035 2382,6035 2411,6035 2634,6037 2672,6037 2796,6040 2831,6040 2890,6042 2926,6044 2975,6045 3012,6046 3130,6048"/>
                 <TextEquiv>
                     <Unicode>Die Eintragung erfolgt auf die ſchrift⸗</Unicode>
                 </TextEquiv>
@@ -3507,7 +3507,7 @@ bei Dresden.</Unicode>
             </TextLine>
             <TextLine id="r35l2" custom="readingOrder {index:1;}">
                 <Coords points="3241,2250 3379,2249 3437,2249 4047,2250 4075,2259 4075,2289 3734,2293 3339,2294 3316,2294 3237,2291"/>
-                <Baseline points="3241,2285 3339,2287 3379,2287 3437,2287 3464,2287 3734,2288 3772,2288 3849,2289 3885,2288 3954,2285 3997,2286 4077,2288"/>
+                <Baseline points="3241,2285 3339,2287 3379,2287 3437,2287 3464,2287 3734,2288 3772,2288 3849,2289 3885,2288 3954,2285 3997,2286 4075,2288"/>
                 <TextEquiv>
                     <Unicode>lung ſoll Sonnabend, den 30 No⸗</Unicode>
                 </TextEquiv>
@@ -3591,7 +3591,7 @@ bei Dresden.</Unicode>
             </TextLine>
             <TextLine id="r35l14" custom="readingOrder {index:13;}">
                 <Coords points="3320,2811 3446,2811 3551,2809 3749,2809 3955,2810 4037,2811 4069,2822 4068,2855 3778,2855 3551,2855 3393,2853 3314,2852 3314,2818"/>
-                <Baseline points="3321,2845 3410,2846 3446,2846 3504,2846 3530,2846 3778,2848 3815,2848 3883,2848 3921,2848 3973,2849 3999,2849 4069,2849"/>
+                <Baseline points="3321,2845 3410,2846 3446,2846 3504,2846 3530,2846 3778,2848 3815,2848 3883,2848 3921,2848 3973,2849 3999,2849 4068,2848"/>
                 <TextEquiv>
                     <Unicode>gung der Jahresbilanz und die Ge⸗</Unicode>
                 </TextEquiv>
@@ -3668,7 +3668,7 @@ bei Dresden.</Unicode>
             </TextLine>
             <TextLine id="r35l25" custom="readingOrder {index:24;}">
                 <Coords points="3315,3326 3369,3322 3432,3320 3790,3320 4062,3326 4062,3365 3790,3366 3440,3361 3315,3361 3309,3336"/>
-                <Baseline points="3314,3357 3383,3357 3432,3359 3790,3360 3861,3360 3934,3363 4006,3364 4062,3364"/>
+                <Baseline points="3314,3356 3383,3357 3432,3359 3790,3360 3861,3360 3934,3363 4006,3364 4062,3364"/>
                 <TextEquiv>
                     <Unicode>und Verantwortlichkeit eine als</Unicode>
                 </TextEquiv>
@@ -4144,7 +4144,7 @@ Dr. Römiſch.</Unicode>
             </TextLine>
             <TextLine id="r37l15" custom="readingOrder {index:14;}">
                 <Coords points="4129,1148 4426,1145 4464,1145 4920,1153 4944,1157 4965,1176 4964,1191 4951,1195 4642,1191 4528,1188 4128,1191"/>
-                <Baseline points="4129,1187 4338,1184 4364,1183 4402,1184 4426,1184 4713,1183 4752,1184 4850,1185 4887,1192 4961,1192"/>
+                <Baseline points="4129,1187 4338,1184 4364,1183 4402,1184 4426,1184 4713,1183 4752,1184 4850,1185 4887,1192 4960,1191"/>
                 <TextEquiv>
                     <Unicode>Direktion in Furtwangen gegen Ein⸗</Unicode>
                 </TextEquiv>
@@ -4158,7 +4158,7 @@ Dr. Römiſch.</Unicode>
             </TextLine>
             <TextLine id="r37l17" custom="readingOrder {index:16;}">
                 <Coords points="4126,1244 4158,1241 4192,1240 4451,1237 4598,1237 4826,1240 4960,1250 4960,1288 4936,1288 4594,1282 4285,1284 4126,1286"/>
-                <Baseline points="4126,1281 4339,1277 4389,1276 4598,1276 4649,1277 4717,1277 4765,1278 4834,1278 4884,1284 4961,1288"/>
+                <Baseline points="4126,1281 4339,1277 4389,1276 4598,1276 4649,1277 4717,1277 4765,1278 4834,1278 4884,1284 4960,1288"/>
                 <TextEquiv>
                     <Unicode>Aktienbeſitz ausgeſtellt, und ſind dieſe</Unicode>
                 </TextEquiv>
@@ -4336,14 +4336,14 @@ Dr. H. Rombach, Vorſitzender.</Unicode>
             </TextLine>
             <TextLine id="r39l9" custom="readingOrder {index:8;}">
                 <Coords points="4114,2287 4243,2280 4519,2279 4535,2279 4789,2283 4842,2297 4846,2326 4711,2327 4215,2329 4139,2329 4115,2329"/>
-                <Baseline points="4114,2323 4215,2322 4243,2322 4417,2317 4443,2316 4611,2319 4637,2318 4840,2321"/>
+                <Baseline points="4114,2322 4215,2322 4243,2322 4417,2317 4443,2316 4611,2319 4637,2318 4840,2321"/>
                 <TextEquiv>
                     <Unicode>lung hierdurch ergebenſt eingeladen.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r39l10" custom="readingOrder {index:9;}">
                 <Coords points="4359,2328 4578,2328 4719,2336 4718,2366 4695,2368 4453,2371 4431,2371 4359,2367"/>
-                <Baseline points="4359,2366 4720,2365"/>
+                <Baseline points="4359,2366 4718,2364"/>
                 <TextEquiv>
                     <Unicode>Tagesordnung:</Unicode>
                 </TextEquiv>
@@ -4455,7 +4455,7 @@ Dr. H. Rombach, Vorſitzender.</Unicode>
             </TextLine>
             <TextLine id="r39l26" custom="readingOrder {index:25;}">
                 <Coords points="4104,3079 4530,3079 4889,3080 4912,3081 4933,3091 4947,3102 4947,3113 4949,3124 4892,3128 4796,3124 4395,3123 4099,3124"/>
-                <Baseline points="4104,3119 4272,3117 4298,3116 4329,3116 4357,3117 4459,3116 4493,3116 4544,3117 4570,3117 4629,3118 4656,3118 4948,3118"/>
+                <Baseline points="4104,3119 4272,3117 4298,3116 4329,3116 4357,3117 4459,3116 4493,3116 4544,3117 4570,3117 4629,3118 4656,3118 4947,3118"/>
                 <TextEquiv>
                     <Unicode>Abends 6 Uhr, bei der Geſellſchafts⸗</Unicode>
                 </TextEquiv>
@@ -4587,7 +4587,7 @@ M. Kerſtein.</Unicode>
             </TextLine>
             <TextLine id="r41l8" custom="readingOrder {index:7;}">
                 <Coords points="4098,3745 4166,3745 4623,3747 4838,3750 4942,3758 4942,3793 4742,3796 4175,3790 4140,3791 4095,3784 4095,3745"/>
-                <Baseline points="4101,3785 4317,3785 4343,3784 4386,3784 4415,3784 4448,3785 4473,3786 4535,3786 4577,3787 4685,3789 4723,3788 4775,3787 4802,3789 4938,3786"/>
+                <Baseline points="4101,3784 4317,3785 4343,3784 4386,3784 4415,3784 4448,3785 4473,3786 4535,3786 4577,3787 4685,3789 4723,3788 4775,3787 4802,3789 4938,3786"/>
                 <TextEquiv>
                     <Unicode>Oppenheim jr. &amp; Co., Cöln, gr. Buden⸗</Unicode>
                 </TextEquiv>
@@ -4720,7 +4720,7 @@ M. Kerſtein.</Unicode>
             </TextLine>
             <TextLine id="r41l27" custom="readingOrder {index:26;}">
                 <Coords points="4085,4634 4192,4636 4395,4636 4858,4643 4926,4652 4929,4682 4841,4687 4564,4688 4530,4688 4085,4675 4081,4654"/>
-                <Baseline points="4084,4671 4148,4672 4192,4673 4425,4678 4466,4678 4504,4679 4530,4679 4581,4680 4625,4680 4690,4681 4732,4681 4926,4678"/>
+                <Baseline points="4084,4670 4148,4672 4192,4673 4425,4678 4466,4678 4504,4679 4530,4679 4581,4680 4625,4680 4690,4681 4732,4681 4926,4678"/>
                 <TextEquiv>
                     <Unicode>30 November d. J. mit doppeltem</Unicode>
                 </TextEquiv>
@@ -4905,7 +4905,7 @@ Aktien⸗Geſellſchaft.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4919,7 +4919,7 @@ Aktien⸗Geſellſchaft.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 4 5</CornerPts>
             </TableCell>
@@ -4933,7 +4933,7 @@ Aktien⸗Geſellſchaft.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -4951,7 +4951,7 @@ Aktien⸗Geſellſchaft.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4965,7 +4965,7 @@ Aktien⸗Geſellſchaft.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4983,7 +4983,7 @@ Aktien⸗Geſellſchaft.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4997,7 +4997,7 @@ Aktien⸗Geſellſchaft.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5011,7 +5011,7 @@ Aktien⸗Geſellſchaft.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5025,7 +5025,7 @@ Aktien⸗Geſellſchaft.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5033,13 +5033,13 @@ Aktien⸗Geſellſchaft.</Unicode>
                 <Coords points="3970,5680 3969,5727 4035,5729 4037,5682"/>
                 <TextLine id="TableCell_1649855859653_9347l0" custom="readingOrder {index:0;}">
                     <Coords points="4010,5687 4028,5687 4029,5727 3984,5726 3982,5686"/>
-                    <Baseline points="3983,5723 4026,5723"/>
+                    <Baseline points="3983,5722 4026,5723"/>
                     <TextEquiv>
                         <Unicode>52</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5053,7 +5053,7 @@ Aktien⸗Geſellſchaft.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5067,7 +5067,7 @@ Aktien⸗Geſellſchaft.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5075,13 +5075,13 @@ Aktien⸗Geſellſchaft.</Unicode>
                 <Coords points="4854,5693 4853,5743 4919,5740 4919,5695"/>
                 <TextLine id="TableCell_1649855806061_9050l0" custom="readingOrder {index:0;}">
                     <Coords points="4861,5699 4910,5700 4910,5734 4863,5734"/>
-                    <Baseline points="4862,5725 4905,5724"/>
+                    <Baseline points="4862,5724 4905,5724"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5095,7 +5095,7 @@ Aktien⸗Geſellſchaft.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5109,7 +5109,7 @@ Aktien⸗Geſellſchaft.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5123,7 +5123,7 @@ Aktien⸗Geſellſchaft.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5137,7 +5137,7 @@ Aktien⸗Geſellſchaft.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5151,7 +5151,7 @@ Aktien⸗Geſellſchaft.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5165,7 +5165,7 @@ Aktien⸗Geſellſchaft.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5179,7 +5179,7 @@ Aktien⸗Geſellſchaft.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5193,7 +5193,7 @@ Aktien⸗Geſellſchaft.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5207,7 +5207,7 @@ Aktien⸗Geſellſchaft.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5221,7 +5221,7 @@ Aktien⸗Geſellſchaft.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5235,7 +5235,7 @@ Aktien⸗Geſellſchaft.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5249,7 +5249,7 @@ Aktien⸗Geſellſchaft.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5257,13 +5257,13 @@ Aktien⸗Geſellſchaft.</Unicode>
                 <Coords points="3175,5802 3174,5854 3740,5861 3741,5812"/>
                 <TextLine id="TableCell_1649855873525_9464l0" custom="readingOrder {index:0;}">
                     <Coords points="3182,5805 3290,5806 3659,5816 3704,5818 3721,5838 3721,5850 3706,5861 3445,5861 3417,5861 3248,5856 3199,5854 3180,5851 3176,5821"/>
-                    <Baseline points="3184,5846 3328,5848 3480,5851 3508,5852 3576,5854 3603,5854 3715,5856"/>
+                    <Baseline points="3184,5846 3328,5848 3480,5851 3508,5852 3576,5854 3603,5854 3714,5854"/>
                     <TextEquiv>
                         <Unicode>Kaſſa, Wechſel und Wert⸗</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5285,7 +5285,7 @@ Aktien⸗Geſellſchaft.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5299,7 +5299,7 @@ Aktien⸗Geſellſchaft.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5313,7 +5313,7 @@ Aktien⸗Geſellſchaft.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5327,7 +5327,7 @@ Aktien⸗Geſellſchaft.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5341,7 +5341,7 @@ Aktien⸗Geſellſchaft.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5355,7 +5355,7 @@ Aktien⸗Geſellſchaft.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5369,7 +5369,7 @@ Aktien⸗Geſellſchaft.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5383,7 +5383,7 @@ Aktien⸗Geſellſchaft.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5397,7 +5397,7 @@ Aktien⸗Geſellſchaft.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5423,7 +5423,7 @@ Aktien⸗Geſellſchaft.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5437,7 +5437,7 @@ Aktien⸗Geſellſchaft.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5451,7 +5451,7 @@ Aktien⸗Geſellſchaft.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5477,7 +5477,7 @@ Aktien⸗Geſellſchaft.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5491,7 +5491,7 @@ Aktien⸗Geſellſchaft.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5505,7 +5505,7 @@ Aktien⸗Geſellſchaft.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5531,7 +5531,7 @@ Aktien⸗Geſellſchaft.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5545,7 +5545,7 @@ Aktien⸗Geſellſchaft.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5559,7 +5559,7 @@ Aktien⸗Geſellſchaft.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5585,7 +5585,7 @@ Aktien⸗Geſellſchaft.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5599,7 +5599,7 @@ Aktien⸗Geſellſchaft.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5613,7 +5613,7 @@ Aktien⸗Geſellſchaft.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5631,7 +5631,7 @@ Aktien⸗Geſellſchaft.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5645,7 +5645,7 @@ Aktien⸗Geſellſchaft.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5663,7 +5663,7 @@ Aktien⸗Geſellſchaft.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5677,7 +5677,7 @@ Aktien⸗Geſellſchaft.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5691,7 +5691,7 @@ Aktien⸗Geſellſchaft.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 5 6</CornerPts>
             </TableCell>
@@ -5713,7 +5713,7 @@ Aktien⸗Geſellſchaft.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5727,7 +5727,7 @@ Aktien⸗Geſellſchaft.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5745,7 +5745,7 @@ Aktien⸗Geſellſchaft.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5759,7 +5759,7 @@ Aktien⸗Geſellſchaft.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5773,7 +5773,7 @@ Aktien⸗Geſellſchaft.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5781,13 +5781,13 @@ Aktien⸗Geſellſchaft.</Unicode>
                 <Coords points="3733,6293 3732,6342 3959,6346 3960,6300"/>
                 <TextLine id="TableCell_1649856161388_9601l0" custom="readingOrder {index:0;}">
                     <Coords points="3800,6296 3957,6304 3956,6346 3797,6340 3798,6303"/>
-                    <Baseline points="3807,6335 3957,6341"/>
+                    <Baseline points="3807,6335 3956,6340"/>
                     <TextEquiv>
                         <Unicode>660 000</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5801,7 +5801,7 @@ Aktien⸗Geſellſchaft.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5815,7 +5815,7 @@ Aktien⸗Geſellſchaft.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5829,7 +5829,7 @@ Aktien⸗Geſellſchaft.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5843,7 +5843,7 @@ Aktien⸗Geſellſchaft.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5857,7 +5857,7 @@ Aktien⸗Geſellſchaft.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5871,7 +5871,7 @@ Aktien⸗Geſellſchaft.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5885,7 +5885,7 @@ Aktien⸗Geſellſchaft.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5899,7 +5899,7 @@ Aktien⸗Geſellſchaft.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5913,7 +5913,7 @@ Aktien⸗Geſellſchaft.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5927,7 +5927,7 @@ Aktien⸗Geſellſchaft.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5945,7 +5945,7 @@ Aktien⸗Geſellſchaft.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5953,13 +5953,13 @@ Aktien⸗Geſellſchaft.</Unicode>
                 <Coords points="3956,6403 3957,6459 4023,6461 4022,6405"/>
                 <TextLine id="TableCell_1649855859978_9425l0" custom="readingOrder {index:0;}">
                     <Coords points="3990,6416 4012,6417 4011,6466 3968,6465 3966,6421"/>
-                    <Baseline points="3972,6461 4012,6460"/>
+                    <Baseline points="3972,6461 4011,6459"/>
                     <TextEquiv>
                         <Unicode>11</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5977,7 +5977,7 @@ Aktien⸗Geſellſchaft.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5991,7 +5991,7 @@ Aktien⸗Geſellſchaft.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6067,7 +6067,7 @@ Der Vorſtand.</Unicode>
             </TextLine>
             <TextLine id="r48l2" custom="readingOrder {index:1;}">
                 <Coords points="5599,1530 5960,1530 6320,1538 6800,1550 6800,1594 6690,1594 6148,1585 5705,1575 5601,1572"/>
-                <Baseline points="5599,1564 5689,1566 5705,1566 5960,1570 5977,1571 6129,1573 6148,1574 6345,1577 6371,1578 6440,1579 6468,1580 6526,1581 6543,1581 6671,1584 6689,1584 6800,1586"/>
+                <Baseline points="5600,1563 5689,1566 5705,1566 5960,1570 5977,1571 6129,1573 6148,1574 6345,1577 6371,1578 6440,1579 6468,1580 6526,1581 6543,1581 6671,1584 6689,1584 6800,1586"/>
                 <TextEquiv>
                     <Unicode>Alle Poſtanſtalten nehmen Beſtellung an; für Berlin außer</Unicode>
                 </TextEquiv>
@@ -6187,7 +6187,7 @@ Berlin SW 48, Wilhelmſtraße Nr. 32.</Unicode>
             <Coords points="6643,1826 8199,1839 8200,1952 6644,1939"/>
             <TextLine id="r52l1" custom="readingOrder {index:0;}">
                 <Coords points="6662,1836 6817,1839 8034,1856 8139,1859 8191,1865 8190,1934 7902,1936 7888,1936 6696,1926 6653,1908 6653,1839"/>
-                <Baseline points="6656,1908 6911,1911 6962,1913 7306,1919 7355,1920 7448,1922 7500,1922 7550,1924 7585,1925 7902,1925 7952,1925 8191,1927"/>
+                <Baseline points="6656,1908 6911,1911 6962,1913 7306,1919 7355,1920 7448,1922 7500,1922 7550,1924 7585,1925 7902,1925 7952,1925 8190,1926"/>
                 <TextEquiv>
                     <Unicode>Berlin, Sonnabend, den 9. November, Abends.</Unicode>
                 </TextEquiv>
@@ -6424,7 +6424,7 @@ Geſetzblatts.</Unicode>
             </TextLine>
             <TextLine id="r57l13" custom="readingOrder {index:12;}">
                 <Coords points="5277,3444 5337,3443 5495,3443 6194,3445 6561,3452 6625,3455 6641,3470 6641,3489 6638,3504 6561,3505 6507,3505 6241,3504 5675,3501 5581,3498 5271,3492 5273,3444"/>
-                <Baseline points="5277,3486 5308,3486 5337,3486 5556,3487 5581,3487 5626,3488 5655,3488 6194,3493 6215,3493 6483,3495 6507,3495 6641,3495"/>
+                <Baseline points="5277,3486 5308,3486 5337,3486 5556,3487 5581,3487 5626,3488 5655,3488 6194,3493 6215,3493 6483,3495 6507,3495 6639,3494"/>
                 <TextEquiv>
                     <Unicode>2. November zu Kriegswohlfahrtszwecken genehmigten öffent⸗</Unicode>
                 </TextEquiv>
@@ -7076,7 +7076,7 @@ Militärverdienſtkreuz zu verleihen.</Unicode>
             </TextLine>
             <TextLine id="r61l29" custom="readingOrder {index:28;}">
                 <Coords points="6708,3519 6754,3522 6869,3525 6901,3532 6899,3575 6823,3575 6706,3570 6706,3539"/>
-                <Baseline points="6713,3566 6756,3566 6825,3567 6901,3567"/>
+                <Baseline points="6713,3566 6756,3566 6825,3567 6899,3566"/>
                 <TextEquiv>
                     <Unicode>in Gold,</Unicode>
                 </TextEquiv>
@@ -7106,7 +7106,7 @@ Militärverdienſtkreuz zu verleihen.</Unicode>
                 <Coords points="6712,3732 7123,3733 7352,3738 7493,3736 7810,3739 8050,3742 8131,3749 8136,3762 8136,3780 8136,3792 7981,3791 7791,3796 7550,3791 7321,3788 6750,3785 6712,3778"/>
                 <Baseline points="6712,3778 6958,3776 6988,3778 7106,3779 7134,3779 7321,3780 7353,3781 7434,3782 7448,3782 7580,3782 7603,3782 7791,3784 7806,3784 7981,3784 8009,3785 8135,3785"/>
                 <TextEquiv>
-                    <Unicode>Brodelwitz, Kreis Steinau, dem Kircher älteſten, Altſitzer Neu⸗</Unicode>
+                    <Unicode>Brodelwitz, Kreis Steinau, dem Kirchenälteſten, Altſitzer Neu⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r61l34" custom="readingOrder {index:33;}">
@@ -7146,7 +7146,7 @@ Militärverdienſtkreuz zu verleihen.</Unicode>
             </TextLine>
             <TextLine id="r61l39" custom="readingOrder {index:38;}">
                 <Coords points="6706,4048 6763,4048 7445,4051 8105,4058 8129,4067 8131,4106 7924,4107 7602,4106 7575,4107 6707,4097"/>
-                <Baseline points="6706,4092 6964,4093 6992,4094 7077,4095 7104,4095 7445,4097 7470,4097 7684,4097 7731,4097 7773,4098 7800,4099 7979,4100 8008,4100 8129,4101"/>
+                <Baseline points="6706,4091 6964,4093 6992,4094 7077,4095 7104,4095 7445,4097 7470,4097 7684,4097 7731,4097 7773,4098 7800,4099 7979,4100 8008,4100 8129,4101"/>
                 <TextEquiv>
                     <Unicode>Wittenberg, dem Kirchenſchweizer Ruffing in Spieſen Kreis</Unicode>
                 </TextEquiv>
@@ -7160,7 +7160,7 @@ Militärverdienſtkreuz zu verleihen.</Unicode>
             </TextLine>
             <TextLine id="r61l41" custom="readingOrder {index:40;}">
                 <Coords points="6706,4166 6730,4155 7146,4155 7751,4160 7940,4163 8127,4169 8128,4215 7903,4215 6733,4207 6706,4197"/>
-                <Baseline points="6706,4197 7146,4200 7188,4201 7385,4202 7428,4202 7470,4202 7515,4203 7751,4204 7795,4204 7855,4205 7903,4205 8128,4205"/>
+                <Baseline points="6706,4197 7146,4200 7188,4201 7385,4202 7428,4202 7470,4202 7515,4203 7751,4204 7795,4204 7855,4205 7903,4205 8127,4205"/>
                 <TextEquiv>
                     <Unicode>materialienausgeber Müller in Leinhauſen bei Hannover,</Unicode>
                 </TextEquiv>
@@ -7317,7 +7317,7 @@ in Gold,
 dem Kanzleiſekretär a. D. Treptow in Neuruppin das
 Verdiennkreuz in Silber,
 dem Gemeindevorſteher, Bauerngutsbeſitzer Methner in
-Brodelwitz, Kreis Steinau, dem Kircher älteſten, Altſitzer Neu⸗
+Brodelwitz, Kreis Steinau, dem Kirchenälteſten, Altſitzer Neu⸗
 ling in Wallſtawe, Kreis Sa zwedel, dem Schleuſenmeiſter
 a. D. Kühne in Friedrichsthal, Kreis Niederbarnim, und
 dem Pflanzungsaufſeher Leskow in Hälſe, Kreis Königsberg
@@ -7432,7 +7432,7 @@ zu verleihen.</Unicode>
             </TextLine>
             <TextLine id="r63l11" custom="readingOrder {index:10;}">
                 <Coords points="6780,5943 6923,5940 7052,5939 7072,5939 7483,5940 7975,5948 8110,5959 8113,5995 7974,5998 7658,5990 7097,5986 6780,5983"/>
-                <Baseline points="6786,5985 6874,5982 6923,5977 6946,5977 6984,5978 7002,5978 7052,5979 7112,5979 7150,5980 7483,5984 7533,5984 7608,5986 7650,5986 7974,5989 8022,5989 8110,5990"/>
+                <Baseline points="6786,5983 6874,5982 6923,5977 6946,5977 6984,5978 7002,5978 7052,5979 7112,5979 7150,5980 7483,5984 7533,5984 7608,5986 7650,5986 7974,5989 8022,5989 8110,5990"/>
                 <TextEquiv>
                     <Unicode>Dem § 1 der Bekanntmachung zum Bierſteuergeſetze vom</Unicode>
                 </TextEquiv>
@@ -7446,7 +7446,7 @@ zu verleihen.</Unicode>
             </TextLine>
             <TextLine id="r63l13" custom="readingOrder {index:12;}">
                 <Coords points="6685,6038 6707,6036 6996,6035 7091,6035 7104,6049 7102,6066 7095,6078 6707,6084 6685,6078"/>
-                <Baseline points="6687,6079 6880,6073 6910,6072 7093,6071"/>
+                <Baseline points="6687,6078 6880,6073 6910,6072 7093,6071"/>
                 <TextEquiv>
                     <Unicode>Vorſchrift angefü t:</Unicode>
                 </TextEquiv>
@@ -7481,7 +7481,7 @@ zu verleihen.</Unicode>
             </TextLine>
             <TextLine id="r63l18" custom="readingOrder {index:17;}">
                 <Coords points="6898,6268 7092,6266 7367,6266 7659,6272 7796,6271 8088,6279 8110,6291 8110,6318 8088,6324 8068,6324 7675,6323 7511,6316 7003,6313 6898,6311"/>
-                <Baseline points="6898,6305 7153,6305 7171,6305 7367,6306 7392,6307 7491,6309 7525,6310 7578,6311 7597,6311 7989,6316 8006,6316 8107,6321"/>
+                <Baseline points="6898,6305 7153,6305 7171,6305 7367,6306 7392,6307 7491,6309 7525,6310 7578,6311 7597,6311 7989,6316 8006,6316 8106,6318"/>
                 <TextEquiv>
                     <Unicode>ſteuergeſetzes) verſteuert, wenn ſein Stammwürzegehalt mehr</Unicode>
                 </TextEquiv>
@@ -7659,7 +7659,7 @@ Im Auftrage: Schiffer.</Unicode>
             </TextLine>
             <TextLine id="r64l13" custom="readingOrder {index:12;}">
                 <Coords points="8206,2719 9535,2721 9586,2721 9634,2738 9634,2753 9623,2763 9361,2767 9058,2768 8943,2768 8248,2764 8205,2762"/>
-                <Baseline points="8206,2758 8423,2759 8450,2760 8572,2760 8599,2761 8684,2761 8711,2761 8763,2762 8783,2762 8914,2760 8943,2761 9150,2760 9181,2760 9238,2759 9264,2759 9328,2760 9351,2761 9381,2760 9408,2759 9518,2758 9535,2759 9633,2758"/>
+                <Baseline points="8206,2758 8423,2759 8450,2760 8572,2760 8599,2761 8684,2761 8711,2761 8763,2762 8783,2762 8914,2760 8943,2761 9150,2760 9181,2760 9238,2759 9264,2759 9328,2760 9351,2761 9381,2760 9408,2759 9518,2758 9535,2759 9630,2755"/>
                 <TextEquiv>
                     <Unicode>beſtimmten Stelle wird ein Beirat beigegeben, der aus je einem Ver⸗</Unicode>
                 </TextEquiv>
@@ -7820,7 +7820,7 @@ Im Auftrage: Schiffer.</Unicode>
             </TextLine>
             <TextLine id="r64l36" custom="readingOrder {index:35;}">
                 <Coords points="8204,3812 8774,3818 9608,3815 9638,3822 9642,3859 8769,3864 8205,3858"/>
-                <Baseline points="8204,3851 8771,3854 8797,3854 8881,3855 8907,3855 8960,3854 8981,3855 9135,3855 9163,3855 9244,3855 9259,3854 9638,3855"/>
+                <Baseline points="8204,3850 8771,3854 8797,3854 8881,3855 8907,3855 8960,3854 8981,3855 9135,3855 9163,3855 9244,3855 9259,3854 9638,3855"/>
                 <TextEquiv>
                     <Unicode>Demobilmachungsausſchuſſes muß ein Staats⸗ oder Kommunalbeamter</Unicode>
                 </TextEquiv>
@@ -7876,7 +7876,7 @@ Im Auftrage: Schiffer.</Unicode>
             </TextLine>
             <TextLine id="r64l44" custom="readingOrder {index:43;}">
                 <Coords points="8198,4185 8772,4190 8981,4189 9003,4202 9003,4229 8981,4236 8277,4236 8199,4236"/>
-                <Baseline points="8198,4224 8768,4228 8792,4228 9003,4228"/>
+                <Baseline points="8198,4223 8768,4228 8792,4228 9003,4228"/>
                 <TextEquiv>
                     <Unicode>Demobilmachungsausſchuſſes auszuüben.</Unicode>
                 </TextEquiv>
@@ -7953,7 +7953,7 @@ Im Auftrage: Schiffer.</Unicode>
             </TextLine>
             <TextLine id="r64l55" custom="readingOrder {index:54;}">
                 <Coords points="8192,4709 8216,4709 9570,4714 9605,4716 9622,4733 9622,4748 9620,4758 9222,4759 8281,4758 8192,4756"/>
-                <Baseline points="8192,4747 8216,4747 8235,4747 8253,4747 8261,4748 8364,4750 8385,4750 8403,4750 8431,4750 8655,4752 8680,4752 8811,4752 8839,4752 8891,4753 8908,4753 9010,4753 9036,4753 9121,4752 9139,4752 9295,4752 9322,4752 9391,4753 9411,4754 9622,4753"/>
+                <Baseline points="8192,4747 8216,4747 8235,4747 8253,4747 8261,4748 8364,4750 8385,4750 8403,4750 8431,4750 8655,4752 8680,4752 8811,4752 8839,4752 8891,4753 8908,4753 9010,4753 9036,4753 9121,4752 9139,4752 9295,4752 9322,4752 9391,4753 9411,4754 9621,4752"/>
                 <TextEquiv>
                     <Unicode>§ 1 Abſ. 1 bezeichneten Zwecke die Hilfe aller Staats⸗ und Gemeinde⸗</Unicode>
                 </TextEquiv>
@@ -8030,7 +8030,7 @@ Im Auftrage: Schiffer.</Unicode>
             </TextLine>
             <TextLine id="r64l66" custom="readingOrder {index:65;}">
                 <Coords points="8186,5236 8514,5240 8577,5239 9624,5244 9620,5288 9601,5288 8994,5287 8666,5285 8187,5282"/>
-                <Baseline points="8186,5277 8478,5277 8518,5277 8630,5278 8666,5278 8820,5279 8883,5279 8955,5280 8994,5280 9317,5278 9355,5278 9438,5279 9462,5280 9529,5280 9552,5280 9620,5280"/>
+                <Baseline points="8186,5276 8478,5277 8518,5277 8630,5278 8666,5278 8820,5279 8883,5279 8955,5280 8994,5280 9317,5278 9355,5278 9438,5279 9462,5280 9529,5280 9552,5280 9620,5280"/>
                 <TextEquiv>
                     <Unicode>hunderttauſend Mark beſtraft. Die Strafverfolgung tritt nur auf</Unicode>
                 </TextEquiv>

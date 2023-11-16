@@ -1,22 +1,22 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
     <Metadata>
         <Creator>Transkribus</Creator>
         <Created>2021-12-14T11:50:41.218+01:00</Created>
-        <LastChange>2022-12-07T16:06:57.653+01:00</LastChange>
+        <LastChange>2023-11-15T20:46:08.729+01:00</LastChange>
         <Comments>
                 Measurement unit: pixel
                 PrimaryLanguage: 
                 Producer: Transkribus
             </Comments>
-        <TranskribusMetadata docId="921581" pageId="35138921" pageNr="11" tsid="105747789" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=TAOOKGRDBYUKNOFKWJDCMPPX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DUSIBQFZEEZJNLRMENKIWTTG" imageId="28254144"/>
+        <TranskribusMetadata docId="921581" pageId="35138921" pageNr="11" tsid="139840555" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=TAOOKGRDBYUKNOFKWJDCMPPX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RAUJFLHEVPOSLNWGXRLMFWCV" imageId="28254144"/>
     </Metadata>
     <Page imageFilename="1887_1_0330.jpg" imageWidth="9912" imageHeight="7112">
         <PrintSpace>
             <Coords points="609,433 9626,406 9628,6717 611,6744"/>
         </PrintSpace>
         <ReadingOrder>
-            <OrderedGroup id="ro_1690360007390" caption="Regions reading order">
+            <OrderedGroup id="ro_1700129735282" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
                 <RegionRefIndexed index="1" regionRef="r2"/>
                 <RegionRefIndexed index="2" regionRef="r3"/>
@@ -163,7 +163,7 @@
             </TextLine>
             <TextLine id="r2l9" custom="readingOrder {index:9;}">
                 <Coords points="745,949 821,943 923,944 1741,938 1787,949 1793,976 1711,979 1674,981 928,988 746,990"/>
-                <Baseline points="745,984 927,981 968,980 1085,979 1125,978 1327,977 1370,977 1491,975 1534,974 1597,974 1645,975 1787,973"/>
+                <Baseline points="745,983 927,981 968,980 1085,979 1125,978 1327,977 1370,977 1491,975 1534,974 1597,974 1645,975 1787,973"/>
                 <TextEquiv>
                     <Unicode>Rickmers, welche ſämmtliche Aktiva und Paſſiva</Unicode>
                 </TextEquiv>
@@ -286,7 +286,7 @@ Trumpf.</Unicode>
             </TextLine>
             <TextLine id="r4l9" custom="readingOrder {index:8;}">
                 <Coords points="798,1587 1224,1582 1450,1578 1533,1580 1537,1618 1114,1626 916,1630 895,1630 792,1622 792,1586"/>
-                <Baseline points="798,1623 1114,1620 1140,1620 1194,1619 1224,1619 1405,1617 1435,1616 1533,1614"/>
+                <Baseline points="798,1622 1114,1620 1140,1620 1194,1619 1224,1619 1405,1617 1435,1616 1533,1614"/>
                 <TextEquiv>
                     <Unicode>Burgſteinfurt, 28. Dezember 1886.</Unicode>
                 </TextEquiv>
@@ -777,7 +777,7 @@ Koebel, Gerichtsſchreiber.</Unicode>
             </TextLine>
             <TextLine id="r8l42" custom="readingOrder {index:41;}">
                 <Coords points="830,4463 958,4459 1382,4455 1702,4452 1729,4452 1787,4453 1810,4464 1815,4483 1793,4496 1729,4494 1263,4499 983,4502 958,4502 827,4506"/>
-                <Baseline points="830,4497 909,4497 958,4495 1030,4494 1059,4494 1263,4492 1291,4491 1344,4491 1372,4491 1586,4488 1613,4488 1674,4489 1702,4489 1809,4489"/>
+                <Baseline points="830,4497 909,4497 958,4495 1030,4494 1059,4494 1263,4492 1291,4491 1344,4491 1372,4491 1586,4488 1613,4488 1674,4489 1702,4489 1807,4487"/>
                 <TextEquiv>
                     <Unicode>fort. Zur Vertretung der Geſellſchaft und Zeich⸗</Unicode>
                 </TextEquiv>
@@ -833,7 +833,7 @@ Koebel, Gerichtsſchreiber.</Unicode>
             </TextLine>
             <TextLine id="r8l50" custom="readingOrder {index:49;}">
                 <Coords points="827,4826 874,4825 997,4825 1012,4831 1012,4859 997,4865 874,4865 845,4868 826,4869"/>
-                <Baseline points="830,4863 1009,4861"/>
+                <Baseline points="830,4863 1008,4860"/>
                 <TextEquiv>
                     <Unicode>fortgeſetzt.</Unicode>
                 </TextEquiv>
@@ -882,7 +882,7 @@ Koebel, Gerichtsſchreiber.</Unicode>
             </TextLine>
             <TextLine id="r8l57" custom="readingOrder {index:56;}">
                 <Coords points="784,5146 1309,5138 1646,5133 1677,5133 1711,5134 1822,5140 1820,5175 1568,5178 1255,5184 1239,5184 968,5182 785,5184"/>
-                <Baseline points="784,5178 849,5177 877,5177 1030,5174 1059,5174 1212,5173 1239,5174 1283,5174 1309,5173 1568,5171 1646,5171 1711,5170 1754,5170 1817,5169"/>
+                <Baseline points="784,5177 849,5177 877,5177 1030,5174 1059,5174 1212,5173 1239,5174 1283,5174 1309,5173 1568,5171 1646,5171 1711,5170 1754,5170 1817,5169"/>
                 <TextEquiv>
                     <Unicode>Le Lloyd Belge zu Antwerpen. Die von</Unicode>
                 </TextEquiv>
@@ -1045,7 +1045,7 @@ Hamburg. Das Landgericht.</Unicode>
             </TextLine>
             <TextLine id="r10l8" custom="readingOrder {index:7;}">
                 <Coords points="1193,5773 1258,5772 1372,5772 1428,5783 1430,5810 1374,5815 1194,5816 1192,5774"/>
-                <Baseline points="1193,5808 1428,5807"/>
+                <Baseline points="1193,5807 1428,5807"/>
                 <TextEquiv>
                     <Unicode>Ambronn.</Unicode>
                 </TextEquiv>
@@ -1896,7 +1896,7 @@ Königliches Amtsgericht.</Unicode>
             </TextLine>
             <TextLine id="r27l2" custom="readingOrder {index:1;}">
                 <Coords points="1904,4037 2001,4036 2476,4033 2803,4031 2818,4031 2833,4032 2894,4037 2895,4063 2878,4071 2822,4074 2645,4074 2284,4078 1931,4079 1904,4079"/>
-                <Baseline points="1904,4072 1967,4072 1996,4072 2284,4070 2328,4070 2380,4069 2421,4069 2509,4069 2539,4069 2767,4068 2803,4068 2887,4067"/>
+                <Baseline points="1904,4072 1967,4072 1996,4072 2284,4070 2328,4070 2380,4069 2421,4069 2509,4069 2539,4069 2767,4068 2803,4068 2886,4066"/>
                 <TextEquiv>
                     <Unicode>Im Handelsregiſter des Kaiſ. Landgerichts hier⸗</Unicode>
                 </TextEquiv>
@@ -2134,7 +2134,7 @@ Königliches Amtsgericht.</Unicode>
             </TextLine>
             <TextLine id="r27l36" custom="readingOrder {index:35;}">
                 <Coords points="1871,5593 2039,5584 2582,5580 2609,5580 2719,5581 2864,5582 2897,5590 2900,5619 2787,5621 2339,5625 2014,5627 1998,5627 1872,5628 1871,5599"/>
-                <Baseline points="1871,5622 2135,5620 2185,5619 2339,5618 2389,5617 2787,5614 2843,5614 2897,5613"/>
+                <Baseline points="1871,5621 2135,5620 2185,5619 2339,5618 2389,5617 2787,5614 2843,5614 2897,5613"/>
                 <TextEquiv>
                     <Unicode>vorausgehende jährliche Generalverſammlung der</Unicode>
                 </TextEquiv>
@@ -2183,7 +2183,7 @@ Königliches Amtsgericht.</Unicode>
             </TextLine>
             <TextLine id="r27l43" custom="readingOrder {index:42;}">
                 <Coords points="1874,5904 2023,5902 2475,5897 2682,5896 2720,5896 2883,5897 2899,5911 2904,5923 2890,5935 2226,5942 2070,5942 1872,5944"/>
-                <Baseline points="1874,5939 1906,5939 1933,5939 1980,5939 2008,5939 2226,5935 2260,5934 2321,5935 2364,5935 2520,5933 2573,5933 2655,5932 2682,5932 2896,5932"/>
+                <Baseline points="1874,5939 1906,5939 1933,5939 1980,5939 2008,5939 2226,5935 2260,5934 2321,5935 2364,5935 2520,5933 2573,5933 2655,5932 2682,5932 2894,5930"/>
                 <TextEquiv>
                     <Unicode>in die Geſellſchaft ein, nämlich: Eine Baumwoll⸗</Unicode>
                 </TextEquiv>
@@ -2852,7 +2852,7 @@ Stahl.</Unicode>
             </TextLine>
             <TextLine id="r30l13" custom="readingOrder {index:12;}">
                 <Coords points="2933,3297 3013,3293 3210,3288 3592,3284 3623,3284 3983,3285 3986,3327 3916,3327 2965,3333 2936,3332 2935,3305"/>
-                <Baseline points="2935,3330 3067,3326 3107,3325 3168,3324 3210,3323 3271,3322 3311,3322 3475,3321 3513,3321 3565,3321 3592,3321 3688,3321 3726,3320 3779,3320 3806,3319 3859,3320 3886,3320 3983,3321"/>
+                <Baseline points="2935,3329 3067,3326 3107,3325 3168,3324 3210,3323 3271,3322 3311,3322 3475,3321 3513,3321 3565,3321 3592,3321 3688,3321 3726,3320 3779,3320 3806,3319 3859,3320 3886,3320 3983,3321"/>
                 <TextEquiv>
                     <Unicode>worden und ſoll nunmehr ihr Ende am 30. Juni</Unicode>
                 </TextEquiv>
@@ -2943,7 +2943,7 @@ Stahl.</Unicode>
             </TextLine>
             <TextLine id="r30l26" custom="readingOrder {index:25;}">
                 <Coords points="2948,3890 3308,3875 3328,3875 3988,3879 3989,3921 3959,3917 3335,3923 3308,3922 2940,3931 2935,3894"/>
-                <Baseline points="2942,3928 3076,3922 3120,3920 3256,3914 3301,3914 3349,3914 3366,3914 3506,3914 3547,3914 3598,3914 3639,3914 3770,3914 3798,3914 3881,3914 3928,3913 3989,3912"/>
+                <Baseline points="2942,3928 3076,3922 3120,3920 3256,3914 3301,3914 3349,3914 3366,3914 3506,3914 3547,3914 3598,3914 3639,3914 3770,3914 3798,3914 3881,3914 3928,3913 3988,3912"/>
                 <TextEquiv>
                     <Unicode>Namen lauten; die Anzahl der erſteren wird auf</Unicode>
                 </TextEquiv>
@@ -2985,7 +2985,7 @@ Stahl.</Unicode>
             </TextLine>
             <TextLine id="r30l32" custom="readingOrder {index:31;}">
                 <Coords points="3318,4152 2941,4153 2940,4169 2941,4213 3989,4195 3989,4152"/>
-                <Baseline points="2944,4202 3022,4200 3052,4198 3107,4196 3135,4195 3264,4188 3318,4188 3387,4188 3416,4187 3668,4185 3708,4185 3758,4184 3786,4187 3901,4186 3930,4189 3990,4187"/>
+                <Baseline points="2944,4202 3022,4200 3052,4198 3107,4196 3135,4195 3264,4188 3318,4188 3387,4188 3416,4187 3668,4185 3708,4185 3758,4184 3786,4187 3901,4186 3930,4189 3989,4187"/>
                 <TextEquiv>
                     <Unicode>gabe der Aktien. Die Uebertragung der Aktien auf</Unicode>
                 </TextEquiv>
@@ -3118,7 +3118,7 @@ Stahl.</Unicode>
             </TextLine>
             <TextLine id="r30l51" custom="readingOrder {index:50;}">
                 <Coords points="2947,5044 2992,5040 3105,5032 3153,5029 3527,5020 3668,5018 3696,5018 3931,5020 3976,5029 3991,5035 4000,5050 3979,5061 3155,5064 3124,5074 2943,5073"/>
-                <Baseline points="2948,5068 3089,5067 3108,5065 3297,5058 3327,5056 3442,5052 3473,5052 3570,5052 3590,5052 3651,5053 3668,5053 3856,5054 3884,5054 3993,5054"/>
+                <Baseline points="2948,5068 3089,5067 3108,5065 3297,5058 3327,5056 3442,5052 3473,5052 3570,5052 3590,5052 3651,5053 3668,5053 3856,5054 3884,5054 3992,5053"/>
                 <TextEquiv>
                     <Unicode>anderen Zeitungen, ſoweit ſolche für Aufnahme geſetz⸗</Unicode>
                 </TextEquiv>
@@ -3153,7 +3153,7 @@ Stahl.</Unicode>
             </TextLine>
             <TextLine id="r30l56" custom="readingOrder {index:55;}">
                 <Coords points="2949,5272 2971,5263 2985,5260 3220,5253 3491,5246 3994,5246 3999,5290 3890,5290 3710,5287 3405,5288 3106,5299 2950,5306"/>
-                <Baseline points="2949,5296 3106,5292 3150,5290 3266,5286 3311,5284 3372,5282 3409,5281 3459,5279 3491,5281 3890,5280 3937,5281 3994,5282"/>
+                <Baseline points="2949,5295 3106,5292 3150,5290 3266,5286 3311,5284 3372,5282 3409,5281 3459,5279 3491,5281 3890,5280 3937,5281 3994,5282"/>
                 <TextEquiv>
                     <Unicode>gliedern, welche von der Generalverſammlung auf</Unicode>
                 </TextEquiv>
@@ -3660,7 +3660,7 @@ Stahl.</Unicode>
             </TextLine>
             <TextLine id="r37l8" custom="readingOrder {index:7;}">
                 <Coords points="4019,1511 4098,1503 4381,1500 4490,1499 4695,1498 4931,1497 5002,1497 5043,1498 5056,1516 5060,1525 5053,1539 4970,1540 4374,1543 4352,1543 4018,1545"/>
-                <Baseline points="4019,1540 4069,1539 4098,1539 4317,1536 4346,1536 4463,1535 4490,1535 4666,1534 4695,1534 4733,1534 4761,1534 4822,1534 4849,1534 4902,1533 4931,1534 5059,1535"/>
+                <Baseline points="4019,1540 4069,1539 4098,1539 4317,1536 4346,1536 4463,1535 4490,1535 4666,1534 4695,1534 4733,1534 4761,1534 4822,1534 4849,1534 4902,1533 4931,1534 5055,1533"/>
                 <TextEquiv>
                     <Unicode>des Kaufmanns Pierre Simonet, iſt aus der Geſell⸗</Unicode>
                 </TextEquiv>
@@ -4010,7 +4010,7 @@ Stahl.</Unicode>
             </TextLine>
             <TextLine id="r41l14" custom="readingOrder {index:13;}">
                 <Coords points="4211,3470 4617,3463 4865,3463 4910,3464 4914,3500 4888,3505 4838,3505 4637,3504 4243,3507 4209,3508"/>
-                <Baseline points="4211,3503 4244,3503 4275,3503 4432,3502 4459,3502 4490,3503 4542,3503 4906,3502"/>
+                <Baseline points="4211,3503 4244,3503 4275,3503 4432,3502 4459,3502 4490,3503 4542,3503 4905,3501"/>
                 <TextEquiv>
                     <Unicode>b. Colonne 4. Rechtsverhältniſſe:</Unicode>
                 </TextEquiv>
@@ -4171,7 +4171,7 @@ Stahl.</Unicode>
             </TextLine>
             <TextLine id="r41l37" custom="readingOrder {index:36;}">
                 <Coords points="4082,4520 4904,4511 5042,4511 5080,4523 5084,4554 4967,4555 4698,4558 4173,4562 4145,4562 4093,4561 4073,4554"/>
-                <Baseline points="4083,4559 4313,4553 4342,4553 4470,4551 4498,4550 4698,4550 4728,4550 4803,4549 4824,4549 4904,4548 4930,4548 5080,4547"/>
+                <Baseline points="4083,4557 4313,4553 4342,4553 4470,4551 4498,4550 4698,4550 4728,4550 4803,4549 4824,4549 4904,4548 4930,4548 5080,4547"/>
                 <TextEquiv>
                     <Unicode>Eingetragen zufolge Verfügung vom 27. Dezember</Unicode>
                 </TextEquiv>
@@ -4575,7 +4575,7 @@ Königliches Amtsgericht. II. Abtheilung.</Unicode>
             <Coords points="4036,6545 5104,6545 5104,6650 4036,6650"/>
             <TextLine id="r49l1" custom="readingOrder {index:0;}">
                 <Coords points="4041,6561 4078,6558 4270,6557 4461,6557 4944,6556 5003,6556 5063,6557 5088,6567 5089,6583 5074,6592 5044,6598 4805,6597 4618,6597 4058,6602 4040,6597"/>
-                <Baseline points="4050,6598 4152,6595 4184,6595 4233,6595 4268,6594 4530,6592 4549,6592 4805,6591 4832,6590 4894,6589 4918,6589 5084,6589"/>
+                <Baseline points="4050,6598 4152,6595 4184,6595 4233,6595 4268,6594 4530,6592 4549,6592 4805,6591 4832,6590 4894,6589 4918,6589 5082,6586"/>
                 <TextEquiv>
                     <Unicode>Druck der Norddeutſchen Buchdruckerei und Verlags⸗</Unicode>
                 </TextEquiv>
@@ -4709,7 +4709,7 @@ von 1 Mark jährlich, ſowie zum Preiſe von 25 Pf. für die einzelne Nummer bez
             </TextLine>
             <TextLine id="r57l3" custom="readingOrder {index:2;}">
                 <Coords points="5095,1877 5575,1867 5620,1863 6425,1853 6502,1860 6503,1889 5704,1909 5630,1909 5100,1919"/>
-                <Baseline points="5095,1914 5229,1911 5284,1910 5358,1908 5413,1906 5734,1899 5784,1898 5999,1893 6066,1892 6262,1888 6315,1887 6495,1885"/>
+                <Baseline points="5099,1913 5229,1911 5284,1910 5358,1908 5413,1906 5734,1899 5784,1898 5999,1893 6066,1892 6262,1888 6315,1887 6495,1885"/>
                 <TextEquiv>
                     <Unicode>lands mit Argentinien, Belgien, Britiſch Indien,</Unicode>
                 </TextEquiv>
@@ -4737,7 +4737,7 @@ von 1 Mark jährlich, ſowie zum Preiſe von 25 Pf. für die einzelne Nummer bez
             </TextLine>
             <TextLine id="r57l7" custom="readingOrder {index:6;}">
                 <Coords points="5098,2057 5467,2048 5731,2044 6502,2031 6500,2073 6343,2077 5289,2098 5275,2098 5099,2099"/>
-                <Baseline points="5098,2096 5360,2090 5440,2088 5959,2076 6256,2071 6500,2066"/>
+                <Baseline points="5098,2095 5360,2090 5440,2088 5959,2076 6256,2071 6500,2066"/>
                 <TextEquiv>
                     <Unicode>Norwegen, Oeſterreich⸗Ungarn, Peru, Portugal,</Unicode>
                 </TextEquiv>
@@ -4751,14 +4751,14 @@ von 1 Mark jährlich, ſowie zum Preiſe von 25 Pf. für die einzelne Nummer bez
             </TextLine>
             <TextLine id="r57l9" custom="readingOrder {index:8;}">
                 <Coords points="5098,2156 5164,2150 5412,2144 5625,2139 6083,2129 6344,2125 6396,2125 6419,2137 6419,2161 6396,2169 5473,2185 5389,2187 5100,2192 5098,2161"/>
-                <Baseline points="5098,2188 5184,2186 5213,2185 5283,2183 5412,2180 5472,2178 5501,2177 5553,2176 5582,2175 5820,2170 5849,2169 5916,2168 5937,2168 5993,2167 6022,2167 6114,2165 6124,2165 6201,2163 6228,2163 6419,2160"/>
+                <Baseline points="5099,2187 5184,2186 5213,2185 5283,2183 5412,2180 5472,2178 5501,2177 5553,2176 5582,2175 5820,2170 5849,2169 5916,2168 5937,2168 5993,2167 6022,2167 6114,2165 6124,2165 6201,2163 6228,2163 6419,2160"/>
                 <TextEquiv>
                     <Unicode>und der Türkei zur Beförderung mit der Briefpoſt zugelaſſen.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r57l10" custom="readingOrder {index:9;}">
                 <Coords points="5195,2194 5895,2177 6090,2174 6462,2169 6480,2169 6501,2181 6509,2199 6490,2211 6287,2216 5395,2234 5336,2235 5203,2234 5195,2227"/>
-                <Baseline points="5195,2227 5308,2227 5315,2227 5404,2225 5434,2225 5485,2223 5514,2223 5805,2216 5834,2215 5875,2214 5878,2214 5958,2213 5987,2212 6071,2211 6090,2210 6256,2208 6260,2208 6297,2207 6326,2206 6382,2205 6411,2205 6500,2206"/>
+                <Baseline points="5195,2227 5308,2227 5315,2227 5404,2225 5434,2225 5485,2223 5514,2223 5805,2216 5834,2215 5875,2214 5878,2214 5958,2213 5987,2212 6071,2211 6090,2210 6256,2208 6260,2208 6297,2207 6326,2206 6382,2205 6411,2205 6499,2205"/>
                 <TextEquiv>
                     <Unicode>Hinſichtlich der Verpackung müſſen dieſe Sendungen den nach⸗</Unicode>
                 </TextEquiv>
@@ -5185,7 +5185,7 @@ und perſönlichen Korreſpondenz hat. Karten, welche die Bezeichnung „Poſtka
             </TextLine>
             <TextLine id="r64l2" custom="readingOrder {index:1;}">
                 <Coords points="7305,2664 8282,2655 8519,2655 8674,2648 9423,2645 9422,2675 8687,2683 8650,2684 7937,2692 7683,2695 7417,2699 7305,2696 7303,2669"/>
-                <Baseline points="7304,2694 7381,2692 7403,2692 7452,2691 7663,2689 7870,2686 7891,2686 7939,2685 7979,2685 8197,2682 8231,2681 8322,2680 8344,2680 8376,2679 8398,2679 8436,2679 8468,2678 8495,2678 8518,2678 8562,2677 8584,2677 8676,2676 8712,2675 9417,2672"/>
+                <Baseline points="7304,2693 7381,2692 7403,2692 7452,2691 7663,2689 7870,2686 7891,2686 7939,2685 7979,2685 8197,2682 8231,2681 8322,2680 8344,2680 8376,2679 8398,2679 8436,2679 8468,2678 8495,2678 8518,2678 8562,2677 8584,2677 8676,2676 8712,2675 9417,2672"/>
                 <TextEquiv>
                     <Unicode>lichen und perſönlichen Korreſpondenz hat. Waarenproben dürfen 20 cm in der Länge, 10 cm in der Breite und 5 cm in der Höhe</Unicode>
                 </TextEquiv>
@@ -5206,7 +5206,7 @@ und perſönlichen Korreſpondenz hat. Karten, welche die Bezeichnung „Poſtka
             </TextLine>
             <TextLine id="r64l5" custom="readingOrder {index:4;}">
                 <Coords points="7313,2762 7407,2764 7844,2762 7979,2762 8034,2769 8034,2785 8023,2790 7955,2792 7671,2797 7328,2801 7305,2801 7305,2778"/>
-                <Baseline points="7305,2797 7381,2794 7402,2794 7441,2794 7464,2793 7636,2791 7659,2791 7709,2791 7734,2790 7759,2788 7797,2788 7819,2788 7844,2788 8033,2786"/>
+                <Baseline points="7305,2797 7381,2794 7402,2794 7441,2794 7464,2793 7636,2791 7659,2791 7709,2791 7734,2790 7759,2788 7797,2788 7819,2788 7844,2788 8032,2785"/>
                 <TextEquiv>
                     <Unicode>Seite die Ausdehnung von 45 cm überſchreiten.</Unicode>
                 </TextEquiv>
@@ -5667,7 +5667,7 @@ Zw. bedeutet Frankirungszwang. † bedeutet, daß die Frankirung nur theilweiſe
                 </TextLine>
                 <TextLine id="TableCell_1643383201038_1000l1" custom="readingOrder {index:1;}">
                     <Coords points="6156,3752 6175,3747 6195,3750 6256,3747 6270,3762 6269,3777 6258,3791 6185,3792 6156,3790 6155,3760"/>
-                    <Baseline points="6162,3787 6264,3788"/>
+                    <Baseline points="6162,3787 6261,3786"/>
                     <TextEquiv>
                         <Unicode>Rück⸗</Unicode>
                     </TextEquiv>
@@ -5734,7 +5734,7 @@ Zw. bedeutet Frankirungszwang. † bedeutet, daß die Frankirung nur theilweiſe
                 </TextLine>
                 <TextLine id="TableCell_1643383204580_1002l5" custom="readingOrder {index:5;}">
                     <Coords points="6344,3824 6395,3814 7013,3803 7222,3802 7241,3802 7271,3814 7272,3846 7085,3853 6594,3855 6345,3858"/>
-                    <Baseline points="6344,3852 6523,3847 6552,3845 6648,3845 6676,3845 6859,3842 6890,3842 6976,3841 7013,3840 7100,3839 7127,3838 7271,3836"/>
+                    <Baseline points="6344,3851 6523,3847 6552,3845 6648,3845 6676,3845 6859,3842 6890,3842 6976,3841 7013,3840 7100,3839 7127,3838 7271,3836"/>
                     <TextEquiv>
                         <Unicode>papiere gegen ermäßigte Taxe nicht zuläſſig.</Unicode>
                     </TextEquiv>
@@ -5961,7 +5961,7 @@ Zw. bedeutet Frankirungszwang. † bedeutet, daß die Frankirung nur theilweiſe
                 </TextLine>
                 <TextLine id="TableCell_1643383619669_1052l5" custom="readingOrder {index:5;}">
                     <Coords points="6012,5222 6080,5211 6093,5211 6134,5224 6140,5251 6114,5251 6033,5253 6014,5261"/>
-                    <Baseline points="6012,5248 6134,5246"/>
+                    <Baseline points="6013,5247 6134,5246"/>
                     <TextEquiv>
                         <Unicode>proben</Unicode>
                     </TextEquiv>
@@ -6142,14 +6142,14 @@ Zw. bedeutet Frankirungszwang. † bedeutet, daß die Frankirung nur theilweiſe
                 </TextLine>
                 <TextLine id="TableCell_1643383318950_1006l1" custom="readingOrder {index:1;}">
                     <Coords points="6350,4364 6480,4361 7127,4352 7156,4352 7276,4356 7272,4392 6953,4400 6630,4404 6608,4404 6347,4405 6349,4377"/>
-                    <Baseline points="6349,4399 6498,4397 6534,4397 6580,4396 6608,4396 6662,4395 6708,4394 6760,4393 6798,4393 6825,4392 6862,4392 6901,4391 6931,4391 6962,4390 7031,4389 7100,4388 7127,4389 7274,4387"/>
+                    <Baseline points="6349,4399 6498,4397 6534,4397 6580,4396 6608,4396 6662,4395 6708,4394 6760,4393 6798,4393 6825,4392 6862,4392 6901,4391 6931,4391 6962,4390 7031,4389 7100,4388 7127,4389 7272,4386"/>
                     <TextEquiv>
                         <Unicode>unfrank. 20 Pf. für je 15 g. Für Eilſend.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="TableCell_1643383318950_1006l2" custom="readingOrder {index:2;}">
                     <Coords points="6340,4413 6397,4409 7013,4400 7036,4400 7070,4401 7276,4399 7273,4427 7272,4432 7235,4440 6478,4451 6457,4449 6341,4450 6337,4427"/>
-                    <Baseline points="6349,4445 6424,4444 6456,4444 6634,4442 6660,4441 6693,4441 6724,4440 6917,4437 6951,4437 6991,4436 7013,4436 7070,4435 7101,4434 7274,4431"/>
+                    <Baseline points="6349,4445 6424,4444 6456,4444 6634,4442 6660,4441 6693,4441 6724,4440 6917,4437 6951,4437 6991,4436 7013,4436 7070,4435 7101,4434 7272,4430"/>
                     <TextEquiv>
                         <Unicode>nach Poſtorten in Dänemark 25 Pf. vorauszu⸗</Unicode>
                     </TextEquiv>
@@ -6225,7 +6225,7 @@ Zw. bedeutet Frankirungszwang. † bedeutet, daß die Frankirung nur theilweiſe
                 <Coords points="6292,4512 6292,4647 7261,4647 7261,4603 7261,4512"/>
                 <TextLine id="TableCell_1643383324651_1008l0" custom="readingOrder {index:0;}">
                     <Coords points="6308,4588 7255,4580 7258,4628 6312,4641 6305,4613"/>
-                    <Baseline points="6309,4631 6490,4626 6738,4622 6766,4621 6806,4621 6836,4620 6893,4620 6923,4619 7253,4615"/>
+                    <Baseline points="6309,4630 6490,4626 6738,4622 6766,4621 6806,4621 6836,4620 6893,4620 6923,4619 7253,4615"/>
                     <TextEquiv>
                         <Unicode>10) Für Eilſendungen 25 Pf. vorauszubezahlen.</Unicode>
                     </TextEquiv>
@@ -6575,7 +6575,7 @@ Zw. bedeutet Frankirungszwang. † bedeutet, daß die Frankirung nur theilweiſe
                 <Coords points="5134,5664 5135,5789 5698,5789 5698,5664"/>
                 <TextLine id="TableCell_1643383398997_1022l0" custom="readingOrder {index:0;}">
                     <Coords points="5142,5667 5509,5669 5506,5708 5177,5715 5143,5699"/>
-                    <Baseline points="5145,5700 5503,5702"/>
+                    <Baseline points="5145,5699 5503,5702"/>
                     <TextEquiv>
                         <Unicode>0) Belutſchiſtan.</Unicode>
                     </TextEquiv>
@@ -6724,7 +6724,7 @@ Zw. bedeutet Frankirungszwang. † bedeutet, daß die Frankirung nur theilweiſe
                 <Coords points="5136,5846 5137,5884 5698,5884 5698,5846"/>
                 <TextLine id="TableCell_1643383115338_942l0" custom="readingOrder {index:0;}">
                     <Coords points="5223,5848 5249,5848 5480,5849 5523,5851 5592,5855 5594,5883 5436,5890 5147,5882 5152,5846"/>
-                    <Baseline points="5153,5882 5589,5884"/>
+                    <Baseline points="5153,5882 5588,5883"/>
                     <TextEquiv>
                         <Unicode>1) Britiſch Indien.</Unicode>
                     </TextEquiv>
@@ -6774,7 +6774,7 @@ Zw. bedeutet Frankirungszwang. † bedeutet, daß die Frankirung nur theilweiſe
                 </TextLine>
                 <TextLine id="TableCell_1643383115386_950l4" custom="readingOrder {index:4;}">
                     <Coords points="5219,6116 5270,6116 5573,6119 5598,6120 5679,6125 5680,6163 5656,6163 5214,6157"/>
-                    <Baseline points="5219,6151 5344,6152 5361,6152 5530,6153 5554,6154 5680,6155"/>
+                    <Baseline points="5219,6151 5344,6152 5361,6152 5530,6153 5554,6154 5679,6155"/>
                     <TextEquiv>
                         <Unicode>Schow), Ningpo, Shang⸗</Unicode>
                     </TextEquiv>
@@ -6809,7 +6809,7 @@ Zw. bedeutet Frankirungszwang. † bedeutet, daß die Frankirung nur theilweiſe
                 </TextLine>
                 <TextLine id="TableCell_1643383115386_950l9" custom="readingOrder {index:9;}">
                     <Coords points="5226,6387 5245,6387 5450,6388 5568,6387 5622,6392 5624,6422 5519,6422 5359,6421 5248,6420 5167,6422 5167,6390"/>
-                    <Baseline points="5171,6422 5305,6420 5333,6420 5488,6421 5519,6421 5624,6422"/>
+                    <Baseline points="5170,6421 5305,6420 5333,6420 5488,6421 5519,6421 5624,6422"/>
                     <TextEquiv>
                         <Unicode>e. Alle übrigen Orte.</Unicode>
                     </TextEquiv>
@@ -6853,7 +6853,7 @@ Zw. bedeutet Frankirungszwang. † bedeutet, daß die Frankirung nur theilweiſe
                 <Coords points="5146,6519 5148,6625 5698,6628 5698,6519"/>
                 <TextLine id="TableCell_1643383115457_962l0" custom="readingOrder {index:0;}">
                     <Coords points="5154,6520 5499,6524 5490,6564 5184,6566 5155,6560"/>
-                    <Baseline points="5158,6558 5494,6557"/>
+                    <Baseline points="5158,6558 5491,6556"/>
                     <TextEquiv>
                         <Unicode>6) Kambodſcha</Unicode>
                     </TextEquiv>
@@ -7255,7 +7255,7 @@ Zw. bedeutet Frankirungszwang. † bedeutet, daß die Frankirung nur theilweiſe
                 </TextLine>
                 <TextLine id="TableCell_1643384188101_1826l8" custom="readingOrder {index:12;}">
                     <Coords points="8201,5251 8223,5239 8247,5239 8285,5254 8285,5266 8284,5277 8223,5279 8194,5277"/>
-                    <Baseline points="8201,5274 8285,5273"/>
+                    <Baseline points="8201,5274 8284,5272"/>
                     <TextEquiv>
                         <Unicode>min⸗</Unicode>
                     </TextEquiv>
@@ -7344,7 +7344,7 @@ Zw. bedeutet Frankirungszwang. † bedeutet, daß die Frankirung nur theilweiſe
                 </TextLine>
                 <TextLine id="TableCell_1643383982077_1654l2" custom="readingOrder {index:2;}">
                     <Coords points="7394,3642 7455,3638 7562,3636 7605,3634 7795,3631 7854,3640 7854,3671 7792,3674 7397,3680 7385,3665 7382,3651"/>
-                    <Baseline points="7391,3673 7525,3671 7545,3671 7743,3668 7767,3667 7849,3667"/>
+                    <Baseline points="7391,3672 7525,3671 7545,3671 7743,3668 7767,3667 7849,3667"/>
                     <TextEquiv>
                         <Unicode>zanſhin (Wönſan), Jin⸗</Unicode>
                     </TextEquiv>
@@ -7358,7 +7358,7 @@ Zw. bedeutet Frankirungszwang. † bedeutet, daß die Frankirung nur theilweiſe
                 </TextLine>
                 <TextLine id="TableCell_1643383982077_1654l4" custom="readingOrder {index:4;}">
                     <Coords points="7394,3723 7418,3729 7552,3726 7618,3725 7776,3725 7852,3723 7857,3765 7776,3767 7638,3768 7552,3768 7424,3772 7399,3774 7392,3740"/>
-                    <Baseline points="7395,3766 7537,3762 7552,3762 7850,3759"/>
+                    <Baseline points="7397,3765 7537,3762 7552,3762 7850,3759"/>
                     <TextEquiv>
                         <Unicode>(Sëul), Japaniſche Poſt⸗</Unicode>
                     </TextEquiv>
@@ -7423,7 +7423,7 @@ Zw. bedeutet Frankirungszwang. † bedeutet, daß die Frankirung nur theilweiſe
                 <Coords points="8454,3975 8454,4111 9529,4086 9529,3960"/>
                 <TextLine id="TableCell_1643384027232_1732l0" custom="readingOrder {index:0;}">
                     <Coords points="8476,3983 9439,3969 9441,4014 8518,4028 8469,4017"/>
-                    <Baseline points="8477,4021 8671,4017 8913,4014 8956,4013 9031,4012 9074,4012 9183,4010 9230,4010 9290,4009 9334,4009 9433,4005"/>
+                    <Baseline points="8477,4018 8671,4017 8913,4014 8956,4013 9031,4012 9074,4012 9183,4010 9230,4010 9290,4009 9334,4009 9433,4005"/>
                     <TextEquiv>
                         <Unicode>41) Für Eilſendungen nach Orten mit Poſt⸗</Unicode>
                     </TextEquiv>
@@ -7502,7 +7502,7 @@ Zw. bedeutet Frankirungszwang. † bedeutet, daß die Frankirung nur theilweiſe
                 </TextLine>
                 <TextLine id="TableCell_1643383941104_1510l3" custom="readingOrder {index:1;}">
                     <Coords points="7394,4324 7651,4319 7667,4319 7755,4318 7757,4358 7627,4362 7401,4363 7392,4341"/>
-                    <Baseline points="7401,4359 7758,4353"/>
+                    <Baseline points="7401,4359 7756,4353"/>
                     <TextEquiv>
                         <Unicode>(bz. Schutzgebiete).</Unicode>
                     </TextEquiv>
@@ -7574,7 +7574,7 @@ Zw. bedeutet Frankirungszwang. † bedeutet, daß die Frankirung nur theilweiſe
                 <Coords points="7295,4546 7295,4634 7869,4626 7869,4535"/>
                 <TextLine id="TableCell_1643383929097_1462l0" custom="readingOrder {index:0;}">
                     <Coords points="7363,4550 7857,4545 7856,4587 7305,4597 7302,4551"/>
-                    <Baseline points="7302,4588 7624,4585 7639,4585 7851,4579"/>
+                    <Baseline points="7304,4587 7624,4585 7639,4585 7851,4579"/>
                     <TextEquiv>
                         <Unicode>46) Portugieſ. Kolonien.</Unicode>
                     </TextEquiv>
@@ -7668,7 +7668,7 @@ Zw. bedeutet Frankirungszwang. † bedeutet, daß die Frankirung nur theilweiſe
                 <Coords points="7295,4908 7295,4956 7870,4945 7869,4899"/>
                 <TextLine id="TableCell_1643383886265_1366l0" custom="readingOrder {index:0;}">
                     <Coords points="7311,4914 7579,4906 7579,4952 7301,4955 7299,4928"/>
-                    <Baseline points="7298,4951 7332,4949 7334,4949 7357,4949 7386,4950 7432,4950 7435,4950 7483,4950 7518,4951 7572,4948"/>
+                    <Baseline points="7300,4950 7332,4949 7334,4949 7357,4949 7386,4950 7432,4950 7435,4950 7483,4950 7518,4951 7572,4948"/>
                     <TextEquiv>
                         <Unicode>51) Liberia.</Unicode>
                     </TextEquiv>
@@ -7792,14 +7792,14 @@ Zw. bedeutet Frankirungszwang. † bedeutet, daß die Frankirung nur theilweiſe
                 </TextLine>
                 <TextLine id="TableCell_1643384057978_1762l9" custom="readingOrder {index:7;}">
                     <Coords points="8523,5490 8545,5479 8595,5482 9425,5470 9444,5485 9446,5497 9431,5511 9163,5516 8900,5520 8619,5523 8530,5525 8518,5501"/>
-                    <Baseline points="8527,5520 8662,5517 8692,5517 8745,5516 8785,5515 8941,5514 8987,5513 9074,5512 9104,5512 9260,5508 9294,5508 9439,5505"/>
+                    <Baseline points="8527,5519 8662,5517 8692,5517 8745,5516 8785,5515 8941,5514 8987,5513 9074,5512 9104,5512 9260,5508 9294,5508 9438,5504"/>
                     <TextEquiv>
                         <Unicode>Gilma, Ras⸗el⸗Oued, Sfar (Sfaks), Sidi⸗el⸗</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="TableCell_1643384057978_1762l10" custom="readingOrder {index:8;}">
                     <Coords points="8525,5529 8658,5525 8812,5522 9441,5513 9439,5556 8924,5564 8890,5566 8520,5570 8520,5545"/>
-                    <Baseline points="8532,5565 8626,5564 8657,5563 8751,5561 8768,5561 8817,5560 8824,5560 8927,5558 8958,5558 9279,5552 9312,5551 9441,5550"/>
+                    <Baseline points="8532,5565 8626,5564 8657,5563 8751,5561 8768,5561 8817,5560 8824,5560 8927,5558 8958,5558 9279,5552 9312,5551 9439,5549"/>
                     <TextEquiv>
                         <Unicode>Hani, Souk⸗el⸗Arba, Souk⸗el⸗Djemaa, Souſſa</Unicode>
                     </TextEquiv>
@@ -7824,7 +7824,7 @@ Zw. bedeutet Frankirungszwang. † bedeutet, daß die Frankirung nur theilweiſe
                 <Coords points="7295,5316 7295,5460 7873,5449 7872,5307"/>
                 <TextLine id="TableCell_1643383869576_1294l0" custom="readingOrder {index:0;}">
                     <Coords points="7305,5323 7582,5323 7593,5361 7352,5369 7306,5365"/>
-                    <Baseline points="7304,5360 7584,5356"/>
+                    <Baseline points="7305,5359 7584,5356"/>
                     <TextEquiv>
                         <Unicode>54) Tripolis</Unicode>
                     </TextEquiv>
@@ -7849,7 +7849,7 @@ Zw. bedeutet Frankirungszwang. † bedeutet, daß die Frankirung nur theilweiſe
                 <Coords points="7295,5460 7295,5635 7874,5627 7873,5449"/>
                 <TextLine id="line_1649405613083_811" custom="readingOrder {index:0;}">
                     <Coords points="7303,5461 7540,5457 7546,5498 7305,5505"/>
-                    <Baseline points="7302,5493 7535,5492"/>
+                    <Baseline points="7304,5492 7535,5492"/>
                     <TextEquiv>
                         <Unicode>55) Tunis.</Unicode>
                     </TextEquiv>
@@ -7991,7 +7991,7 @@ Zw. bedeutet Frankirungszwang. † bedeutet, daß die Frankirung nur theilweiſe
                 </TextLine>
                 <TextLine id="TableCell_1643384141211_1818l7" custom="readingOrder {index:7;}">
                     <Coords points="7389,6139 7434,6138 7705,6134 7734,6134 7834,6137 7859,6146 7860,6159 7854,6172 7813,6175 7457,6186 7408,6187 7389,6187"/>
-                    <Baseline points="7389,6172 7473,6172 7501,6172 7644,6171 7662,6169 7689,6169 7705,6168 7857,6166"/>
+                    <Baseline points="7389,6172 7473,6172 7501,6172 7644,6171 7662,6169 7689,6169 7705,6168 7856,6165"/>
                     <TextEquiv>
                         <Unicode>küſte nördlich v. Campo⸗</Unicode>
                     </TextEquiv>
@@ -8059,7 +8059,7 @@ Zw. bedeutet Frankirungszwang. † bedeutet, daß die Frankirung nur theilweiſe
                 <Coords points="8461,6068 8464,6202 9532,6188 9529,6050"/>
                 <TextLine id="line_1649406638129_963" custom="readingOrder {index:0;}">
                     <Coords points="8478,6068 9451,6052 9448,6093 8482,6117"/>
-                    <Baseline points="8480,6105 9438,6090"/>
+                    <Baseline points="8481,6104 9438,6090"/>
                     <TextEquiv>
                         <Unicode>61) Adjuda, Angola, Azoren, Biſſao, Cacheo, Cap⸗</Unicode>
                     </TextEquiv>
@@ -8095,7 +8095,7 @@ Zw. bedeutet Frankirungszwang. † bedeutet, daß die Frankirung nur theilweiſe
                 <Coords points="8464,6202 8464,6291 9529,6279 9529,6231 9532,6188"/>
                 <TextLine id="line_1649406796720_986" custom="readingOrder {index:0;}">
                     <Coords points="8478,6207 9444,6191 9447,6235 8483,6253"/>
-                    <Baseline points="8482,6245 9441,6229"/>
+                    <Baseline points="8482,6244 9441,6229"/>
                     <TextEquiv>
                         <Unicode>62) Beſitzungen an der Nordküſte Afrikas,</Unicode>
                     </TextEquiv>
@@ -8113,7 +8113,7 @@ Zw. bedeutet Frankirungszwang. † bedeutet, daß die Frankirung nur theilweiſe
                 <Coords points="7296,6269 7297,6304 7880,6298 7879,6259"/>
                 <TextLine id="TableCell_1643383839816_1150l0" custom="readingOrder {index:0;}">
                     <Coords points="7302,6270 7842,6262 7858,6303 7309,6310 7305,6287"/>
-                    <Baseline points="7308,6305 7852,6300"/>
+                    <Baseline points="7308,6304 7852,6300"/>
                     <TextEquiv>
                         <Unicode>60) Ital. Beſitzung Aſſab.</Unicode>
                     </TextEquiv>
@@ -8124,7 +8124,7 @@ Zw. bedeutet Frankirungszwang. † bedeutet, daß die Frankirung nur theilweiſe
                 <Coords points="7297,6304 7298,6354 7881,6345 7880,6298"/>
                 <TextLine id="TableCell_1643383835584_1126l0" custom="readingOrder {index:0;}">
                     <Coords points="7309,6317 7849,6312 7862,6344 7307,6353 7302,6337"/>
-                    <Baseline points="7306,6351 7856,6343"/>
+                    <Baseline points="7306,6350 7856,6343"/>
                     <TextEquiv>
                         <Unicode>61) Portugieſ. Kolonien.</Unicode>
                     </TextEquiv>
@@ -8135,7 +8135,7 @@ Zw. bedeutet Frankirungszwang. † bedeutet, daß die Frankirung nur theilweiſe
                 <Coords points="8464,6291 8467,6627 9529,6629 9529,6366 9529,6320 9529,6279"/>
                 <TextLine id="line_1649406937369_1007" custom="readingOrder {index:0;}">
                     <Coords points="8479,6297 9459,6282 9455,6324 8484,6345"/>
-                    <Baseline points="8482,6332 9442,6317"/>
+                    <Baseline points="8482,6331 9442,6317"/>
                     <TextEquiv>
                         <Unicode>63) Für Eilſendungen nach Buenos⸗Aires, Ro⸗</Unicode>
                     </TextEquiv>

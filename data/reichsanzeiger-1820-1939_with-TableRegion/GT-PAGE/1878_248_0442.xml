@@ -1,22 +1,22 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
     <Metadata>
         <Creator>Transkribus</Creator>
         <Created>2021-12-14T11:43:21.355+01:00</Created>
-        <LastChange>2022-12-07T16:08:24.179+01:00</LastChange>
+        <LastChange>2023-11-16T09:04:53.011+01:00</LastChange>
         <Comments>
                 Measurement unit: pixel
                 PrimaryLanguage: 
                 Producer: Transkribus
             </Comments>
-        <TranskribusMetadata docId="900641" pageId="34382462" pageNr="21" tsid="105747836" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=XMUIVJPPISEBAGLPUKBVFSMP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LBYBVEGJNXOGILEROINQCTER" imageId="27583906"/>
+        <TranskribusMetadata docId="900641" pageId="34382462" pageNr="21" tsid="139878611" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=XMUIVJPPISEBAGLPUKBVFSMP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TUNITIRAQWKNAWNVIGBJHYEU" imageId="27583906"/>
     </Metadata>
     <Page imageFilename="1878_248_0442.jpg" imageWidth="10152" imageHeight="6976">
         <PrintSpace>
             <Coords points="536,208 9737,243 9749,6746 548,6711"/>
         </PrintSpace>
         <ReadingOrder>
-            <OrderedGroup id="ro_1690360015201" caption="Regions reading order">
+            <OrderedGroup id="ro_1700129743232" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
                 <RegionRefIndexed index="1" regionRef="r2"/>
                 <RegionRefIndexed index="2" regionRef="r3"/>
@@ -513,7 +513,7 @@ Montag: Dieſelbe Vorſtellung.</Unicode>
             </TextLine>
             <TextLine id="r7l3" custom="readingOrder {index:2;}">
                 <Coords points="826,3040 1365,3035 1389,3035 1524,3035 1859,3042 1859,3074 914,3083 821,3083"/>
-                <Baseline points="826,3075 919,3075 923,3075 1033,3075 1059,3075 1125,3075 1141,3074 1252,3074 1270,3074 1324,3074 1338,3074 1506,3074 1567,3074 1681,3074 1706,3074 1718,3075 1741,3075 1763,3076 1789,3075 1859,3074"/>
+                <Baseline points="826,3075 919,3075 923,3075 1033,3075 1059,3075 1125,3075 1141,3074 1252,3074 1270,3074 1324,3074 1338,3074 1506,3074 1567,3074 1681,3074 1706,3074 1718,3075 1741,3075 1762,3074 1788,3074 1859,3074"/>
                 <TextEquiv>
                     <Unicode>Schickſals (La Forza del Destino). Opera i 4 atti</Unicode>
                 </TextEquiv>
@@ -692,7 +692,7 @@ Montag: Groß' Feuer.</Unicode>
             </TextLine>
             <TextLine id="r9l2" custom="readingOrder {index:1;}">
                 <Coords points="819,4121 853,4121 1809,4122 1860,4139 1859,4174 1803,4172 1776,4172 819,4167"/>
-                <Baseline points="819,4160 913,4160 947,4161 1047,4161 1080,4161 1272,4162 1311,4163 1380,4162 1421,4162 1475,4163 1511,4163 1586,4164 1629,4165 1723,4166 1761,4166 1860,4164"/>
+                <Baseline points="819,4160 913,4160 947,4161 1047,4161 1080,4161 1272,4162 1311,4163 1380,4162 1421,4162 1475,4163 1511,4163 1586,4164 1629,4165 1723,4166 1761,4166 1859,4163"/>
                 <TextEquiv>
                     <Unicode>Hrn. Emil Schneider und des Frl. Thea Beeg</Unicode>
                 </TextEquiv>
@@ -893,7 +893,7 @@ Montag: Queckſilber.</Unicode>
             </TextLine>
             <TextLine id="r12l8" custom="readingOrder {index:7;}">
                 <Coords points="859,5485 1105,5484 1220,5484 1620,5485 1851,5490 1851,5529 1620,5533 1079,5528 861,5528"/>
-                <Baseline points="859,5524 1069,5522 1105,5522 1161,5522 1200,5523 1323,5523 1348,5523 1620,5527 1657,5527 1730,5528 1766,5529 1851,5519"/>
+                <Baseline points="860,5523 1069,5522 1105,5522 1161,5522 1200,5523 1323,5523 1348,5523 1620,5527 1657,5527 1730,5528 1766,5529 1851,5519"/>
                 <TextEquiv>
                     <Unicode>Mittwoch: Zu halben Kaſſenpreiſen: Die drei</Unicode>
                 </TextEquiv>
@@ -1102,7 +1102,7 @@ wald, Scheideck, Lauterbrunnen, Blümlisalp und</Unicode>
             </TextLine>
             <TextLine id="r15l6" custom="readingOrder {index:5;}">
                 <Coords points="1942,640 2217,638 2525,645 2543,652 2543,680 2370,688 2244,686 2135,689 1930,683"/>
-                <Baseline points="1936,684 2117,681 2197,680 2250,680 2288,680 2293,680 2339,680 2368,680 2395,681 2543,679"/>
+                <Baseline points="1936,683 2117,681 2197,680 2250,680 2288,680 2293,680 2339,680 2368,680 2395,681 2543,679"/>
                 <TextEquiv>
                     <Unicode>reichter Plaſtik und Treue.</Unicode>
                 </TextEquiv>
@@ -1437,7 +1437,7 @@ furt a. O.).</Unicode>
             </TextLine>
             <TextLine id="r20l8" custom="readingOrder {index:7;}">
                 <Coords points="1917,2616 2024,2615 2492,2614 2714,2614 2883,2615 2897,2616 2958,2625 2958,2652 2754,2663 1978,2658 1918,2658"/>
-                <Baseline points="1917,2654 1977,2654 2024,2654 2398,2653 2470,2653 2769,2654 2831,2654 2958,2651"/>
+                <Baseline points="1917,2653 1977,2654 2024,2654 2398,2653 2470,2653 2769,2654 2831,2654 2958,2651"/>
                 <TextEquiv>
                     <Unicode>für Vorunterſuchungen. Beſchreibung. Alter:</Unicode>
                 </TextEquiv>
@@ -2020,7 +2020,7 @@ Königliche Direktion.</Unicode>
             </TextLine>
             <TextLine id="r26l7" custom="readingOrder {index:6;}">
                 <Coords points="1945,5841 2249,5841 2835,5842 2940,5854 2940,5880 2831,5883 2576,5886 1968,5876 1945,5877"/>
-                <Baseline points="1945,5877 1981,5877 2015,5878 2069,5878 2093,5879 2249,5879 2297,5879 2360,5879 2384,5879 2432,5880 2448,5880 2558,5880 2576,5880 2835,5881 2861,5881 2940,5880"/>
+                <Baseline points="1945,5877 1981,5876 2015,5876 2069,5877 2093,5878 2249,5879 2297,5879 2360,5879 2384,5879 2432,5880 2448,5880 2558,5880 2576,5880 2835,5881 2861,5881 2940,5880"/>
                 <TextEquiv>
                     <Unicode>3) die Lieferung von 40 Mille Mauerſteinen zum</Unicode>
                 </TextEquiv>
@@ -2286,7 +2286,7 @@ Großmann.</Unicode>
                 <Coords points="3013,1140 3248,1138 3281,1138 4009,1138 4060,1148 4060,1177 4023,1183 3621,1181 3385,1181 3013,1179"/>
                 <Baseline points="3013,1179 3072,1179 3085,1178 3177,1177 3202,1177 3278,1177 3309,1177 3615,1178 3649,1178 3828,1178 3831,1178 4060,1176"/>
                 <TextEquiv>
-                    <Unicode>88 000 kg Oberſchleſische Würfel⸗Fettkohlen</Unicode>
+                    <Unicode>88 000 kg Oberſchleſiſche Würfel⸗Fettkohlen</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r30l4" custom="readingOrder {index:3;}">
@@ -2404,7 +2404,7 @@ Großmann.</Unicode>
             <TextEquiv>
                 <Unicode>Für die hieſige Strafanſtalt ſollen im Wege der
 Submiſſion:
-88 000 kg Oberſchleſische Würfel⸗Fettkohlen
+88 000 kg Oberſchleſiſche Würfel⸗Fettkohlen
 angekauft werden und iſt zu dieſem Zweck ein Termin
 auf Montag, den 28. Oktober cr., Vormittags
 11 Uhr, in dem Bureau der Anſtalt anberaumt.
@@ -2927,7 +2927,7 @@ I. Stamm⸗Aktien (alte) laut Privilegien von
             </TextLine>
             <TextLine id="r37l3" custom="readingOrder {index:2;}">
                 <Coords points="4114,506 4262,499 4579,499 4883,506 5118,512 5117,577 4884,550 4324,549 4114,541"/>
-                <Baseline points="4114,540 4183,542 4234,543 4378,544 4395,545 4579,544 4595,544 4716,542 4744,542 4807,543 4843,545 4935,549 4975,549 5118,550"/>
+                <Baseline points="4114,540 4183,542 4234,543 4378,544 4395,545 4579,544 4595,544 4716,542 4744,542 4807,543 4843,545 4935,549 4975,549 5117,549"/>
                 <TextEquiv>
                     <Unicode>II. Stamm⸗Aktien Litt. B. laut Privile⸗</Unicode>
                 </TextEquiv>
@@ -2962,7 +2962,7 @@ I. Stamm⸗Aktien (alte) laut Privilegien von
             </TextLine>
             <TextLine id="r37l8" custom="readingOrder {index:7;}">
                 <Coords points="4111,733 4258,731 4643,731 5065,732 5110,747 5110,791 4778,782 4256,768 4111,767"/>
-                <Baseline points="4111,767 4208,767 4258,769 4643,770 4676,771 4754,771 4780,772 5110,771"/>
+                <Baseline points="4111,767 4208,767 4258,768 4643,770 4676,771 4754,771 4780,772 5110,771"/>
                 <TextEquiv>
                     <Unicode>III. Prioritäts⸗Aktien und Prioritäts⸗Obli⸗</Unicode>
                 </TextEquiv>
@@ -3825,7 +3825,7 @@ die Geſchäfte des neunundzwanzigſten Rechnungsjahres pro 1. März bis ult. Au
                 <Coords points="4346,5139 4346,5228 4432,5228 4432,5140"/>
                 <TextLine id="line_1644231029477_467" custom="readingOrder {index:0;}">
                     <Coords points="4386,5192 4399,5194 4399,5231 4386,5229"/>
-                    <Baseline points="4387,5224 4400,5226"/>
+                    <Baseline points="4387,5224 4399,5226"/>
                     <TextEquiv>
                         <Unicode>„</Unicode>
                     </TextEquiv>
@@ -3990,7 +3990,7 @@ die Geſchäfte des neunundzwanzigſten Rechnungsjahres pro 1. März bis ult. Au
                 <Coords points="2972,5413 2972,5461 3713,5462 4347,5467 4432,5470 5097,5475 5097,5413 4432,5413 4346,5413 3712,5413"/>
                 <TextLine id="line_1644230943231_440" custom="readingOrder {index:0;}">
                     <Coords points="4289,5421 4959,5423 5088,5416 5093,5460 5011,5472 4291,5465"/>
-                    <Baseline points="4304,5460 5012,5462 5093,5455"/>
+                    <Baseline points="4304,5460 5012,5462 5092,5455"/>
                     <TextEquiv>
                         <Unicode>Summa der Activa: ℳ 13,820,152. 76.</Unicode>
                     </TextEquiv>
@@ -4089,7 +4089,7 @@ die Geſchäfte des neunundzwanzigſten Rechnungsjahres pro 1. März bis ult. Au
                 <Coords points="4346,5635 4346,5684 4432,5684 4432,5635"/>
                 <TextLine id="line_1644230956480_444" custom="readingOrder {index:0;}">
                     <Coords points="4386,5637 4403,5639 4397,5683 4380,5681"/>
-                    <Baseline points="4381,5676 4398,5678"/>
+                    <Baseline points="4381,5676 4397,5677"/>
                     <TextEquiv>
                         <Unicode>„</Unicode>
                     </TextEquiv>
@@ -4184,7 +4184,7 @@ die Geſchäfte des neunundzwanzigſten Rechnungsjahres pro 1. März bis ult. Au
                 <Coords points="4346,5770 4346,5814 4432,5815 4432,5770"/>
                 <TextLine id="line_1644230962016_446" custom="readingOrder {index:0;}">
                     <Coords points="4382,5773 4398,5775 4396,5814 4380,5815"/>
-                    <Baseline points="4381,5810 4397,5812"/>
+                    <Baseline points="4381,5810 4396,5811"/>
                     <TextEquiv>
                         <Unicode>„</Unicode>
                     </TextEquiv>
@@ -4228,7 +4228,7 @@ die Geſchäfte des neunundzwanzigſten Rechnungsjahres pro 1. März bis ult. Au
                 <Coords points="4346,5814 4346,5864 4432,5864 4432,5815"/>
                 <TextLine id="line_1644230963934_447" custom="readingOrder {index:0;}">
                     <Coords points="4382,5816 4398,5819 4397,5863 4381,5860"/>
-                    <Baseline points="4382,5855 4398,5858"/>
+                    <Baseline points="4382,5855 4397,5857"/>
                     <TextEquiv>
                         <Unicode>„</Unicode>
                     </TextEquiv>
@@ -4445,7 +4445,7 @@ des Reichstages wie als Kriminaliſt rühmlichſt be⸗</Unicode>
             </TextLine>
             <TextLine id="r45l9" custom="readingOrder {index:8;}">
                 <Coords points="4069,6448 4118,6437 4227,6436 5015,6433 5047,6433 5087,6419 5089,6465 5032,6472 4967,6478 4871,6486 4859,6486 4664,6484 4227,6479 4094,6474 4069,6473"/>
-                <Baseline points="4069,6473 4137,6473 4163,6473 4201,6473 4227,6473 4327,6474 4354,6474 4561,6476 4585,6476 4742,6477 4765,6477 4833,6477 4859,6477 4967,6478 5015,6463 5089,6458"/>
+                <Baseline points="4069,6473 4137,6473 4163,6473 4201,6473 4227,6473 4327,6474 4354,6474 4561,6476 4585,6476 4742,6477 4765,6477 4833,6477 4859,6477 4967,6478 5015,6463 5088,6458"/>
                 <TextEquiv>
                     <Unicode>und in dieſer kompletten Ausgabe von jedem Inter⸗</Unicode>
                 </TextEquiv>
@@ -5616,7 +5616,7 @@ von Wurmb.</Unicode>
             <Coords points="6688,3793 8114,3793 8118,6531 6688,6531"/>
             <TextLine id="r68l1" custom="readingOrder {index:0;}">
                 <Coords points="6806,3813 7132,3806 7470,3802 8005,3802 8089,3807 8089,3842 7993,3840 7234,3854 7121,3856 6806,3858"/>
-                <Baseline points="6806,3852 7041,3850 7110,3850 7316,3847 7354,3846 7413,3846 7470,3846 7649,3845 7731,3844 7817,3844 7856,3844 8089,3842"/>
+                <Baseline points="6806,3852 7041,3850 7110,3850 7316,3847 7354,3846 7413,3846 7470,3846 7649,3845 7731,3844 7816,3843 7855,3842 8089,3842"/>
                 <TextEquiv>
                     <Unicode>Preußen. Berlin, 21. Oktober. Der Bundes⸗</Unicode>
                 </TextEquiv>
@@ -5721,7 +5721,7 @@ von Wurmb.</Unicode>
             </TextLine>
             <TextLine id="r68l16" custom="readingOrder {index:15;}">
                 <Coords points="6709,4538 7002,4535 7494,4530 7601,4529 8043,4528 8091,4528 8091,4570 7469,4572 7355,4578 6732,4575 6709,4578"/>
-                <Baseline points="6709,4577 6878,4576 6903,4575 6952,4575 6978,4575 7207,4572 7232,4572 7464,4568 7494,4568 7682,4567 7720,4567 7834,4566 7858,4566 7977,4564 8025,4564 8091,4563"/>
+                <Baseline points="6709,4577 6878,4575 6903,4575 6952,4575 6978,4575 7207,4572 7232,4572 7464,4568 7494,4568 7682,4567 7720,4567 7834,4566 7858,4566 7977,4564 8025,4564 8091,4563"/>
                 <TextEquiv>
                     <Unicode>Beſchluß im Bundesrath einſtimmige Annahme finden werde. Ich</Unicode>
                 </TextEquiv>
@@ -5882,7 +5882,7 @@ von Wurmb.</Unicode>
             </TextLine>
             <TextLine id="r68l39" custom="readingOrder {index:38;}">
                 <Coords points="6713,5579 6794,5578 8079,5563 8099,5563 8097,5613 7491,5615 7474,5615 6794,5622 6713,5616"/>
-                <Baseline points="6713,5616 6770,5617 6794,5617 6998,5616 7024,5615 7266,5614 7293,5614 7398,5611 7422,5610 7566,5609 7601,5609 7660,5609 7681,5609 7790,5608 7830,5608 7898,5607 7926,5607 7984,5607 8009,5606 8079,5606 8094,5606 8099,5606"/>
+                <Baseline points="6713,5616 6770,5617 6794,5617 6998,5616 7024,5615 7266,5614 7293,5614 7398,5611 7422,5610 7566,5609 7601,5609 7660,5609 7681,5609 7790,5608 7830,5608 7898,5607 7926,5607 7984,5607 8009,5606 8079,5606 8094,5606 8097,5605"/>
                 <TextEquiv>
                     <Unicode>des Reichstags gerechtfertigt haben werden, die Hülfe und der Bei⸗</Unicode>
                 </TextEquiv>
@@ -5931,7 +5931,7 @@ von Wurmb.</Unicode>
             </TextLine>
             <TextLine id="r68l46" custom="readingOrder {index:45;}">
                 <Coords points="6811,5920 6999,5914 7408,5909 7894,5905 8026,5904 8048,5904 8098,5921 8098,5939 8050,5953 7258,5955 6999,5966 6811,5963"/>
-                <Baseline points="6814,5960 6972,5959 6999,5959 7256,5956 7283,5955 7382,5954 7408,5954 7668,5950 7704,5950 7783,5949 7815,5949 7868,5948 7894,5948 8000,5947 8026,5947 8098,5934"/>
+                <Baseline points="6814,5960 6972,5959 6999,5959 7255,5955 7282,5954 7382,5954 7408,5954 7668,5950 7704,5950 7783,5949 7815,5949 7868,5948 7894,5948 8000,5947 8026,5947 8098,5934"/>
                 <TextEquiv>
                     <Unicode>— Ein Diebſtahl kann ſtrafrechtlich nur an einer be⸗</Unicode>
                 </TextEquiv>
@@ -5994,7 +5994,7 @@ von Wurmb.</Unicode>
             </TextLine>
             <TextLine id="r68l55" custom="readingOrder {index:54;}">
                 <Coords points="6710,6369 7512,6364 8030,6362 8051,6362 8102,6368 8102,6403 7334,6419 7311,6419 6711,6418"/>
-                <Baseline points="6716,6415 7150,6414 7179,6414 7276,6411 7301,6411 7352,6410 7380,6410 7485,6408 7512,6407 7686,6407 7711,6407 7892,6406 7921,6406 8013,6405 8030,6404 8102,6403"/>
+                <Baseline points="6716,6415 7150,6414 7179,6414 7276,6411 7301,6411 7352,6410 7380,6410 7485,6408 7512,6407 7686,6407 7711,6407 7892,6406 7921,6406 8012,6404 8030,6404 8102,6403"/>
                 <TextEquiv>
                     <Unicode>dementſprechend das Abſägen eines fremden Baumes oder das</Unicode>
                 </TextEquiv>
@@ -6215,7 +6215,7 @@ von Geldern⸗Crispendorf iſt hier angekommen.</Unicode>
             </TextLine>
             <TextLine id="r70l12" custom="readingOrder {index:11;}">
                 <Coords points="8153,2899 8369,2895 9107,2886 9278,2885 9439,2885 9543,2894 9543,2933 9476,2933 8279,2938 8227,2948 8153,2940"/>
-                <Baseline points="8153,2940 8341,2938 8369,2937 8445,2936 8475,2936 8545,2935 8562,2935 8817,2932 8845,2932 8926,2931 8945,2931 9251,2927 9278,2927 9543,2924"/>
+                <Baseline points="8153,2940 8340,2937 8369,2937 8445,2936 8475,2936 8545,2935 8562,2935 8817,2932 8845,2932 8926,2931 8945,2931 9251,2927 9278,2927 9543,2924"/>
                 <TextEquiv>
                     <Unicode>Truppen ſind zur Beſetzung der Dobrudſcha abgegangen,</Unicode>
                 </TextEquiv>
@@ -6257,7 +6257,7 @@ von Geldern⸗Crispendorf iſt hier angekommen.</Unicode>
             </TextLine>
             <TextLine id="r70l18" custom="readingOrder {index:17;}">
                 <Coords points="8155,3218 8197,3208 8511,3201 8824,3196 9142,3192 9466,3186 9488,3186 9538,3184 9545,3198 9544,3242 8335,3254 8152,3258"/>
-                <Baseline points="8155,3247 8254,3246 8290,3245 8338,3245 8367,3244 8443,3243 8470,3243 8570,3242 8596,3241 8754,3239 8768,3239 8999,3237 9026,3237 9126,3235 9142,3235 9252,3234 9270,3234 9361,3233 9381,3233 9545,3232"/>
+                <Baseline points="8155,3247 8254,3246 8290,3245 8338,3245 8367,3244 8443,3243 8470,3243 8570,3242 8596,3241 8754,3239 8768,3239 8999,3237 9026,3237 9126,3235 9142,3235 9252,3234 9270,3234 9361,3233 9381,3233 9544,3231"/>
                 <TextEquiv>
                     <Unicode>getroffen und wird morgen Vormittag ſeine Reiſe nach Livadia</Unicode>
                 </TextEquiv>
@@ -6670,7 +6670,7 @@ von Geldern⸗Crispendorf iſt hier angekommen.</Unicode>
             </TextLine>
             <TextLine id="r70l77" custom="readingOrder {index:76;}">
                 <Coords points="8169,6209 8862,6194 9297,6191 9438,6191 9524,6192 9554,6201 9554,6232 9438,6242 8780,6245 8171,6260"/>
-                <Baseline points="8169,6251 8229,6250 8257,6250 8275,6249 8321,6248 8496,6245 8552,6243 8640,6241 8688,6240 8816,6239 8862,6239 8997,6238 9039,6237 9250,6236 9297,6236 9438,6234 9477,6233 9554,6232"/>
+                <Baseline points="8170,6250 8229,6250 8257,6250 8275,6249 8321,6248 8496,6245 8552,6243 8640,6241 8688,6240 8816,6239 8862,6239 8997,6238 9039,6237 9250,6236 9297,6236 9438,6234 9477,6233 9554,6232"/>
                 <TextEquiv>
                     <Unicode>frage vorliege. Das „Neue Peſter Journal“ bezieht den</Unicode>
                 </TextEquiv>
@@ -6684,7 +6684,7 @@ von Geldern⸗Crispendorf iſt hier angekommen.</Unicode>
             </TextLine>
             <TextLine id="r70l79" custom="readingOrder {index:78;}">
                 <Coords points="8171,6310 8195,6309 8500,6301 8684,6299 9181,6295 9532,6289 9554,6301 9554,6334 9398,6344 9236,6344 8500,6354 8171,6352"/>
-                <Baseline points="8171,6351 8302,6349 8344,6348 8406,6347 8443,6346 8642,6343 8684,6342 8899,6340 8927,6340 9042,6339 9081,6339 9154,6338 9181,6338 9414,6337 9530,6336 9554,6325"/>
+                <Baseline points="8171,6351 8302,6349 8344,6348 8406,6347 8443,6346 8642,6343 8684,6342 8899,6340 8927,6340 9042,6339 9081,6339 9154,6338 9181,6338 9414,6337 9529,6335 9554,6325"/>
                 <TextEquiv>
                     <Unicode>Theile der Aufgabe“ geſprochen wird, auf Novibazar. Der</Unicode>
                 </TextEquiv>

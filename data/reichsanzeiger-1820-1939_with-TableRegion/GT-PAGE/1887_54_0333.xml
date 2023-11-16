@@ -1,24 +1,24 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
     <Metadata>
         <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.6.8:model_id=40804:lm=none:date=12_04_2022_10:42
 prov=READ-COOP:name=PyLaia@Transkribus:version=0.6.8:model_id=40804:date=12_04_2022_10:42
 Transkribus</Creator>
         <Created>2021-12-14T11:50:48.654+01:00</Created>
-        <LastChange>2022-12-07T16:07:37.285+01:00</LastChange>
+        <LastChange>2023-11-15T20:45:50.383+01:00</LastChange>
         <Comments>
                 Measurement unit: pixel
                 PrimaryLanguage: 
                 Producer: Transkribus
             </Comments>
-        <TranskribusMetadata docId="921581" pageId="35138946" pageNr="13" tsid="105747808" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=RWDIMRNLQYPEWRDZBPNGMCOI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JSRQKBQEXPBQIBHKVPPFYKPE" imageId="28254150"/>
+        <TranskribusMetadata docId="921581" pageId="35138946" pageNr="13" tsid="139840524" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=RWDIMRNLQYPEWRDZBPNGMCOI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PRUPTZCXYFNCSKGUUVICKKXM" imageId="28254150"/>
     </Metadata>
     <Page imageFilename="1887_54_0333.jpg" imageWidth="10152" imageHeight="7272">
         <PrintSpace>
             <Coords points="458,194 9968,337 9945,6869 288,6857"/>
         </PrintSpace>
         <ReadingOrder>
-            <OrderedGroup id="ro_1690360007618" caption="Regions reading order">
+            <OrderedGroup id="ro_1700129735632" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
                 <RegionRefIndexed index="1" regionRef="r2"/>
                 <RegionRefIndexed index="4" regionRef="r3"/>
@@ -84,7 +84,7 @@ Transkribus</Creator>
             </TextLine>
             <TextLine id="r2l6" custom="readingOrder {index:5;}">
                 <Coords points="703,869 748,873 1629,884 1922,891 2099,900 2099,941 2023,946 1906,942 1405,933 856,923 691,917 695,877"/>
-                <Baseline points="700,913 756,913 785,914 1000,917 1032,918 1131,921 1179,922 1355,924 1396,925 1629,930 1670,931 1818,934 1861,935 2100,938"/>
+                <Baseline points="700,913 756,913 785,914 1000,917 1032,918 1131,921 1179,922 1355,924 1396,925 1629,930 1670,931 1818,934 1861,935 2099,938"/>
                 <TextEquiv>
                     <Unicode>16. Dezember 1886 gefaßten Beſchluſſes werden nachſtehend</Unicode>
                 </TextEquiv>
@@ -142,7 +142,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -150,7 +150,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                 <Coords points="1816,1144 1812,1286 1942,1290 1947,1144 1838,1144"/>
                 <TextLine id="TableCell_1643185462117_8906l0" custom="readingOrder {index:0;}">
                     <Coords points="1813,1180 1812,1152 1862,1152 1938,1156 1940,1194 1903,1198 1886,1198 1816,1195 1815,1179"/>
-                    <Baseline points="1815,1190 1933,1192"/>
+                    <Baseline points="1815,1189 1933,1192"/>
                     <TextEquiv>
                         <Unicode>Maxi⸗</Unicode>
                     </TextEquiv>
@@ -170,7 +170,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -198,7 +198,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -233,7 +233,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -255,7 +255,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -269,7 +269,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -283,7 +283,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -311,7 +311,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -325,7 +325,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -339,7 +339,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -353,7 +353,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -452,7 +452,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 4 5</CornerPts>
             </TableCell>
@@ -466,7 +466,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -480,7 +480,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -494,7 +494,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -550,7 +550,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 4 5</CornerPts>
             </TableCell>
@@ -558,7 +558,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                 <Coords points="541,2613 540,2747 1770,2773 1774,2628"/>
                 <TextLine id="TableCell_1643185563046_9047l0" custom="readingOrder {index:0;}">
                     <Coords points="738,2616 760,2616 802,2616 1645,2626 1743,2632 1768,2646 1768,2671 1748,2676 1553,2673 1518,2672 1075,2662 909,2659 739,2659"/>
-                    <Baseline points="738,2652 769,2653 796,2654 830,2654 899,2655 1049,2658 1064,2658 1149,2658 1177,2659 1295,2661 1324,2662 1422,2663 1448,2664 1568,2667 1611,2668 1768,2671"/>
+                    <Baseline points="738,2651 769,2653 796,2654 830,2654 899,2655 1049,2658 1064,2658 1149,2658 1177,2659 1295,2661 1324,2662 1422,2663 1448,2664 1568,2667 1611,2668 1768,2671"/>
                     <TextEquiv>
                         <Unicode>§. 2. Abſtand der Räder einer Achſe, gemeſſen</Unicode>
                     </TextEquiv>
@@ -578,7 +578,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -592,7 +592,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -606,7 +606,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -690,7 +690,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -719,7 +719,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -733,7 +733,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -747,7 +747,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -775,7 +775,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 2 3 5</CornerPts>
             </TableCell>
@@ -797,7 +797,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -811,7 +811,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -839,7 +839,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -853,7 +853,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -867,7 +867,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -902,7 +902,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -916,7 +916,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -930,7 +930,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -958,7 +958,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -972,7 +972,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -986,7 +986,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1007,7 +1007,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1021,7 +1021,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1035,7 +1035,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1043,7 +1043,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                 <Coords points="540,4043 540,4505 1723,4524 1733,4065"/>
                 <TextLine id="TableCell_1643185704138_9242l0" custom="readingOrder {index:0;}">
                     <Coords points="698,4046 702,4046 1703,4064 1723,4078 1723,4103 1713,4108 1689,4107 827,4092 698,4091"/>
-                    <Baseline points="697,4082 771,4084 792,4085 1113,4091 1124,4091 1196,4093 1213,4093 1260,4094 1277,4094 1563,4100 1577,4100 1723,4103"/>
+                    <Baseline points="698,4082 771,4084 792,4085 1113,4091 1124,4091 1196,4093 1213,4093 1260,4094 1277,4094 1563,4100 1577,4100 1723,4103"/>
                     <TextEquiv>
                         <Unicode>§. 8. Schalengußräder ſind im internationalen Verkehr</Unicode>
                     </TextEquiv>
@@ -1099,7 +1099,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                 </TextLine>
                 <TextLine id="TableCell_1643185704138_9242l8" custom="readingOrder {index:8;}">
                     <Coords points="693,4415 747,4415 930,4417 1637,4433 1652,4432 1668,4433 1704,4442 1713,4452 1717,4468 1702,4476 1500,4476 1459,4476 909,4463 713,4459 689,4454"/>
-                    <Baseline points="693,4454 795,4454 808,4454 1053,4459 1067,4460 1169,4462 1182,4463 1266,4465 1277,4465 1500,4470 1514,4470 1574,4471 1585,4472 1712,4472"/>
+                    <Baseline points="693,4454 795,4454 808,4454 1053,4459 1067,4460 1169,4462 1182,4463 1266,4465 1277,4465 1500,4470 1514,4470 1574,4471 1585,4472 1711,4470"/>
                     <TextEquiv>
                         <Unicode>Dieſe Beſtimmung findet keine Anwendung auf Güter⸗</Unicode>
                     </TextEquiv>
@@ -1112,7 +1112,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1148,7 +1148,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1162,7 +1162,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1176,7 +1176,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1190,7 +1190,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1204,7 +1204,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1218,7 +1218,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1239,7 +1239,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1268,7 +1268,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1282,7 +1282,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1296,7 +1296,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1317,7 +1317,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1331,7 +1331,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1345,7 +1345,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1387,7 +1387,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -1415,7 +1415,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1429,7 +1429,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1457,7 +1457,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1471,7 +1471,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1499,7 +1499,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -1521,7 +1521,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -1535,7 +1535,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1549,7 +1549,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1563,7 +1563,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -1577,7 +1577,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1591,7 +1591,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1605,7 +1605,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -1619,7 +1619,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1633,7 +1633,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1689,7 +1689,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -1703,7 +1703,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1717,7 +1717,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1759,7 +1759,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -1773,7 +1773,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1787,7 +1787,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1808,7 +1808,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 2 3 5</CornerPts>
             </TableCell>
@@ -1822,7 +1822,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1836,7 +1836,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1850,7 +1850,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1864,7 +1864,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1878,7 +1878,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1892,7 +1892,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1920,7 +1920,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -1934,7 +1934,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1948,7 +1948,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1977,7 +1977,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                 </TextLine>
                 <TextLine id="TableCell_1643186088935_9799l3" custom="readingOrder {index:3;}">
                     <Coords points="2142,2019 2671,2030 2709,2030 3243,2043 3275,2046 3274,2086 2792,2081 2675,2076 2511,2071 2140,2063"/>
-                    <Baseline points="2142,2056 2301,2060 2310,2060 2475,2063 2501,2064 2716,2068 2718,2069 2802,2071 2829,2072 2889,2072 2916,2073 3275,2081"/>
+                    <Baseline points="2142,2056 2301,2060 2310,2060 2475,2063 2501,2064 2716,2068 2718,2069 2802,2071 2829,2072 2889,2072 2916,2073 3274,2080"/>
                     <TextEquiv>
                         <Unicode>Kuppelungsbügel (Einhängbügel) am Berührungspunkte</Unicode>
                     </TextEquiv>
@@ -1990,7 +1990,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -2004,7 +2004,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2018,7 +2018,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2039,7 +2039,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 2 3 5</CornerPts>
             </TableCell>
@@ -2053,7 +2053,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2067,7 +2067,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2081,7 +2081,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2095,7 +2095,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2109,7 +2109,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2123,7 +2123,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2200,7 +2200,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -2230,7 +2230,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                 </TextLine>
                 <TextLine id="TableCell_1643186070550_9784l2" custom="readingOrder {index:2;}">
                     <Coords points="2123,2772 2147,2760 2164,2760 2390,2764 2917,2776 3071,2780 3150,2782 3224,2781 3254,2787 3254,2827 3219,2826 3161,2826 2888,2821 2295,2804 2117,2801"/>
-                    <Baseline points="2123,2796 2311,2800 2340,2801 2390,2802 2418,2802 2669,2809 2696,2809 2841,2812 2888,2813 2996,2816 3040,2817 3089,2818 3113,2818 3255,2819"/>
+                    <Baseline points="2123,2796 2311,2800 2340,2801 2390,2802 2418,2802 2669,2809 2696,2809 2841,2812 2888,2813 2996,2816 3040,2817 3089,2818 3113,2818 3254,2819"/>
                     <TextEquiv>
                         <Unicode>oberkante, bei vollbelaſteten Wagen, ſofern die Kuppe⸗</Unicode>
                     </TextEquiv>
@@ -2243,7 +2243,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -2257,7 +2257,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2271,7 +2271,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2362,7 +2362,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -2376,7 +2376,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2390,7 +2390,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2447,7 +2447,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                 </TextLine>
                 <TextLine id="TableCell_1643186046604_9774l7" custom="readingOrder {index:7;}">
                     <Coords points="2186,3736 2208,3736 2364,3737 2712,3743 3088,3750 3225,3751 3226,3794 3184,3797 3166,3797 2765,3790 2497,3785 2186,3779"/>
-                    <Baseline points="2186,3770 2220,3770 2249,3771 2305,3772 2334,3773 2442,3776 2458,3776 2588,3779 2609,3779 2664,3780 2671,3780 2937,3786 2952,3787 3226,3790"/>
+                    <Baseline points="2186,3770 2220,3770 2249,3771 2305,3772 2334,3773 2442,3776 2458,3776 2588,3779 2609,3779 2664,3780 2671,3780 2937,3786 2952,3787 3225,3790"/>
                     <TextEquiv>
                         <Unicode>§. 24. Jeder Wagen muß nachſtehende Bezeichnungen</Unicode>
                     </TextEquiv>
@@ -2593,7 +2593,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -2643,7 +2643,7 @@ betreffend die techniſche Einheit im Eiſenbahnweſen, ver⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 5 6</CornerPts>
             </TableCell>
@@ -2730,7 +2730,7 @@ für die dem internationalen Verkehr dienenden Perſonenwagen.</Unicode>
             </TextLine>
             <TextLine id="r6l5" custom="readingOrder {index:4;}">
                 <Coords points="3662,884 3663,875 3663,855 3680,844 3700,844 4478,860 4774,869 4898,874 4967,875 5057,881 5071,891 5071,907 5052,916 4808,914 4751,910 3945,894 3680,885 3663,880"/>
-                <Baseline points="3665,878 3777,883 3876,885 3903,886 4232,893 4268,894 4326,896 4364,896 4478,900 4512,900 4704,905 4728,906 4964,912 4990,912 5065,913"/>
+                <Baseline points="3665,878 3777,883 3876,885 3903,886 4232,893 4268,894 4326,896 4364,896 4478,900 4512,900 4704,905 4728,906 4964,912 4990,912 5063,910"/>
                 <TextEquiv>
                     <Unicode>einer neuen Legislaturperiode der älteſte anweſende Abgeordnete vor⸗</Unicode>
                 </TextEquiv>
@@ -2793,7 +2793,7 @@ für die dem internationalen Verkehr dienenden Perſonenwagen.</Unicode>
             </TextLine>
             <TextLine id="r6l14" custom="readingOrder {index:13;}">
                 <Coords points="3652,1273 3787,1276 3868,1275 3926,1275 4026,1278 4128,1282 4154,1294 4154,1331 3868,1331 3651,1314 3647,1283"/>
-                <Baseline points="3647,1310 3759,1312 3837,1314 3868,1315 4154,1322"/>
+                <Baseline points="3650,1309 3759,1312 3837,1314 3868,1315 4154,1322"/>
                 <TextEquiv>
                     <Unicode>war alſo beſchlußfähig.</Unicode>
                 </TextEquiv>
@@ -2989,7 +2989,7 @@ für die dem internationalen Verkehr dienenden Perſonenwagen.</Unicode>
             </TextLine>
             <TextLine id="r6l42" custom="readingOrder {index:41;}">
                 <Coords points="3613,2754 3616,2727 3723,2725 3740,2725 4317,2737 5015,2755 5018,2800 4907,2801 4896,2801 4667,2796 4082,2783 3896,2779 3621,2765"/>
-                <Baseline points="3617,2762 3691,2764 3723,2765 3785,2766 3814,2767 4047,2772 4079,2773 4317,2780 4348,2781 4446,2783 4496,2784 4569,2786 4601,2787 4907,2793 4937,2794 5015,2796"/>
+                <Baseline points="3618,2761 3691,2764 3723,2765 3785,2766 3814,2767 4047,2772 4079,2773 4317,2780 4348,2781 4446,2783 4496,2784 4569,2786 4601,2787 4907,2793 4937,2794 5015,2796"/>
                 <TextEquiv>
                     <Unicode>von der Verfaſſung feſtgeſetzten Zahl von Abgeordneten, und</Unicode>
                 </TextEquiv>
@@ -3024,14 +3024,14 @@ für die dem internationalen Verkehr dienenden Perſonenwagen.</Unicode>
             </TextLine>
             <TextLine id="r6l47" custom="readingOrder {index:46;}">
                 <Coords points="3607,2980 3622,2983 3641,2983 3783,2985 4827,3008 4980,3014 5008,3025 5011,3059 4827,3059 4800,3059 4685,3058 3722,3031 3605,3022 3606,2984"/>
-                <Baseline points="3603,3023 3763,3025 3873,3028 3903,3029 3959,3030 3988,3031 4253,3038 4297,3039 4450,3043 4493,3044 4600,3046 4685,3047 4873,3051 4915,3052 5008,3055"/>
+                <Baseline points="3605,3022 3763,3025 3873,3028 3903,3029 3959,3030 3988,3031 4253,3038 4297,3039 4450,3043 4493,3044 4600,3046 4685,3047 4873,3051 4915,3052 5008,3055"/>
                 <TextEquiv>
                     <Unicode>könne, bevor die Stichwahlen beendet ſeien. Indeſſen habe</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r6l48" custom="readingOrder {index:47;}">
                 <Coords points="3605,3078 3604,3062 3604,3038 3784,3038 3795,3038 4534,3055 4860,3061 5007,3074 5007,3114 4985,3114 4803,3109 4628,3106 3784,3087 3670,3084 3610,3079"/>
-                <Baseline points="3604,3073 3641,3074 3670,3075 3734,3077 3763,3077 3847,3079 3877,3080 4102,3086 4147,3087 4242,3089 4289,3091 4350,3092 4380,3093 4536,3096 4581,3097 4700,3100 4748,3101 5007,3106"/>
+                <Baseline points="3604,3072 3641,3074 3670,3075 3734,3077 3763,3077 3847,3079 3877,3080 4102,3086 4147,3087 4242,3089 4289,3091 4350,3092 4380,3093 4536,3096 4581,3097 4700,3100 4748,3101 5007,3106"/>
                 <TextEquiv>
                     <Unicode>er zur Zeit einestheils nicht die Abſicht, dieſer Anſchauung</Unicode>
                 </TextEquiv>
@@ -3052,14 +3052,14 @@ für die dem internationalen Verkehr dienenden Perſonenwagen.</Unicode>
             </TextLine>
             <TextLine id="r6l51" custom="readingOrder {index:50;}">
                 <Coords points="3600,3210 3600,3189 3785,3192 4459,3209 4927,3223 5001,3234 5001,3262 4951,3270 4930,3270 4417,3259 4145,3251 3601,3236"/>
-                <Baseline points="3600,3229 3785,3234 3813,3234 3890,3236 3920,3237 3991,3239 4022,3240 4113,3242 4145,3243 4211,3243 4252,3245 4311,3246 4343,3247 4460,3250 4505,3252 4578,3253 4628,3254 4749,3257 4784,3257 5001,3262"/>
+                <Baseline points="3600,3228 3785,3234 3813,3234 3890,3236 3920,3237 3991,3239 4022,3240 4113,3242 4145,3243 4211,3243 4252,3245 4311,3246 4343,3247 4460,3250 4505,3252 4578,3253 4628,3254 4749,3257 4784,3257 5001,3262"/>
                 <TextEquiv>
                     <Unicode>ſtattfinde und daß man für die Folge aus einem derartigen</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r6l52" custom="readingOrder {index:51;}">
                 <Coords points="3599,3247 3599,3241 3621,3240 3634,3240 4051,3251 4333,3259 4365,3270 4368,3299 4333,3308 4255,3308 3813,3297 3689,3293 3674,3292 3599,3285"/>
-                <Baseline points="3599,3281 3785,3285 3813,3286 3908,3288 3936,3289 4226,3297 4255,3297 4366,3300"/>
+                <Baseline points="3599,3281 3785,3285 3813,3286 3908,3288 3936,3289 4226,3297 4255,3297 4365,3299"/>
                 <TextEquiv>
                     <Unicode>Vorgang nicht Konſequenzen ziehe.</Unicode>
                 </TextEquiv>
@@ -3087,14 +3087,14 @@ für die dem internationalen Verkehr dienenden Perſonenwagen.</Unicode>
             </TextLine>
             <TextLine id="r6l56" custom="readingOrder {index:55;}">
                 <Coords points="3592,3457 3593,3438 3614,3438 4487,3455 4880,3466 4973,3469 4994,3481 4999,3511 4973,3509 4955,3509 4132,3494 3860,3486 3630,3479 3596,3477 3593,3470"/>
-                <Baseline points="3593,3473 3665,3475 3691,3476 3821,3478 3860,3479 4037,3485 4062,3486 4191,3488 4234,3489 4320,3491 4346,3491 4487,3494 4529,3495 4611,3497 4656,3498 4722,3500 4764,3501 4828,3502 4853,3503 4891,3504 4920,3504 4994,3505"/>
+                <Baseline points="3594,3472 3665,3475 3691,3476 3821,3478 3860,3479 4037,3485 4062,3486 4191,3488 4234,3489 4320,3491 4346,3491 4487,3494 4529,3495 4611,3497 4656,3498 4722,3500 4764,3501 4828,3502 4853,3503 4891,3504 4920,3504 4994,3505"/>
                 <TextEquiv>
                     <Unicode>Tag weitere praktiſche Folgen nicht knüpfen will, und das iſt ſehr</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r6l57" custom="readingOrder {index:56;}">
                 <Coords points="3594,3521 3592,3507 3592,3484 3730,3484 4134,3496 4869,3511 4930,3513 4967,3515 4994,3519 4994,3558 4897,3558 3650,3527 3599,3525"/>
-                <Baseline points="3592,3518 3730,3523 3760,3523 3822,3525 3851,3526 3918,3527 3947,3527 4132,3532 4187,3533 4287,3536 4317,3536 4351,3537 4379,3538 4431,3539 4444,3539 4549,3541 4578,3542 4623,3543 4650,3543 4765,3546 4793,3547 4869,3549 4897,3549 4994,3552"/>
+                <Baseline points="3593,3517 3730,3523 3760,3523 3822,3525 3851,3526 3918,3527 3947,3527 4132,3532 4187,3533 4287,3536 4317,3536 4351,3537 4379,3538 4431,3539 4444,3539 4549,3541 4578,3542 4623,3543 4650,3543 4765,3546 4793,3547 4869,3549 4897,3549 4994,3552"/>
                 <TextEquiv>
                     <Unicode>klüglich von ihm gehandelt. Denn in der That, ich wüßte auch nicht,</Unicode>
                 </TextEquiv>
@@ -3108,14 +3108,14 @@ für die dem internationalen Verkehr dienenden Perſonenwagen.</Unicode>
             </TextLine>
             <TextLine id="r6l59" custom="readingOrder {index:58;}">
                 <Coords points="3591,3615 3592,3580 3678,3579 3693,3579 3899,3581 4597,3596 4871,3602 4947,3604 4992,3617 4996,3645 4871,3646 4825,3646 4539,3640 3972,3626 3832,3622 3598,3613"/>
-                <Baseline points="3589,3611 4059,3621 4113,3623 4141,3624 4250,3626 4279,3625 4497,3632 4539,3633 4597,3634 4643,3635 4693,3637 4721,3635 4871,3640 4897,3641 4991,3642"/>
+                <Baseline points="3591,3611 4059,3621 4113,3623 4141,3624 4250,3626 4279,3625 4497,3632 4539,3633 4597,3634 4643,3635 4693,3637 4721,3635 4871,3640 4897,3641 4991,3642"/>
                 <TextEquiv>
                     <Unicode>aus den Ausführungen des Herrn Vorredners ſich ein gewiſſer Vor⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r6l60" custom="readingOrder {index:59;}">
                 <Coords points="3589,3658 3588,3630 3593,3626 3655,3622 3673,3622 3985,3628 4626,3642 4918,3650 4954,3652 4974,3653 4990,3669 4990,3680 4979,3690 4954,3694 4925,3694 3883,3671 3657,3669 3600,3661"/>
-                <Baseline points="3591,3656 3701,3658 3808,3662 3836,3662 3899,3664 3927,3663 3985,3665 4024,3666 4194,3671 4220,3671 4290,3673 4319,3674 4437,3677 4464,3677 4669,3682 4696,3682 4746,3683 4776,3684 4836,3686 4852,3686 4989,3688"/>
+                <Baseline points="3591,3656 3701,3658 3808,3662 3836,3662 3899,3664 3927,3663 3985,3665 4024,3666 4194,3671 4220,3671 4290,3673 4319,3674 4437,3677 4464,3677 4669,3682 4696,3682 4746,3683 4776,3684 4836,3686 4852,3686 4985,3684"/>
                 <TextEquiv>
                     <Unicode>wurf ergab, daß Sr. Majeſtät dem Kaiſer angerathen iſt, den Reichs⸗</Unicode>
                 </TextEquiv>
@@ -3136,28 +3136,28 @@ für die dem internationalen Verkehr dienenden Perſonenwagen.</Unicode>
             </TextLine>
             <TextLine id="r6l63" custom="readingOrder {index:62;}">
                 <Coords points="3585,3766 3585,3759 3721,3759 4300,3775 4877,3787 4942,3789 4989,3801 4990,3828 4968,3831 4864,3831 4380,3821 4102,3814 3665,3801 3587,3799"/>
-                <Baseline points="3585,3794 3721,3798 3788,3799 3845,3801 3919,3803 3977,3804 4041,3806 4303,3811 4380,3813 4619,3818 4718,3821 4792,3822 4864,3824 4989,3826"/>
+                <Baseline points="3586,3793 3721,3798 3788,3799 3845,3801 3919,3803 3977,3804 4041,3806 4303,3811 4380,3813 4619,3818 4718,3821 4792,3822 4864,3824 4989,3826"/>
                 <TextEquiv>
                     <Unicode>Ernſtes auf das Entſchiedenſte zurückweiſen. Ein ſolcher</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r6l64" custom="readingOrder {index:63;}">
                 <Coords points="3583,3840 3583,3806 3616,3806 4372,3821 4755,3831 4818,3833 4879,3837 4986,3847 4986,3878 4965,3878 4669,3873 3924,3855 3584,3848"/>
-                <Baseline points="3583,3843 3748,3845 3821,3846 3858,3847 3920,3848 4080,3853 4131,3854 4374,3860 4422,3861 4489,3862 4539,3863 4618,3865 4669,3866 4818,3869 4864,3870 4986,3873"/>
+                <Baseline points="3583,3842 3748,3845 3821,3846 3858,3847 3920,3848 4080,3853 4131,3854 4374,3860 4422,3861 4489,3862 4539,3863 4618,3865 4669,3866 4818,3869 4864,3870 4986,3873"/>
                 <TextEquiv>
                     <Unicode>Vorwurf iſt durchaus unbegründet, und weit entfernt davon,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r6l65" custom="readingOrder {index:64;}">
                 <Coords points="3583,3853 3608,3852 3638,3852 3969,3858 4323,3864 4858,3878 4931,3880 4986,3894 4986,3918 4967,3924 4950,3924 4257,3911 3870,3899 3609,3894 3585,3891"/>
-                <Baseline points="3583,3888 3644,3888 3688,3888 3746,3890 3791,3892 3968,3896 4028,3898 4096,3900 4150,3901 4323,3905 4384,3906 4438,3907 4487,3908 4627,3911 4690,3912 4760,3913 4824,3914 4986,3917"/>
+                <Baseline points="3584,3887 3644,3888 3688,3888 3746,3890 3791,3892 3968,3896 4028,3898 4096,3900 4150,3901 4323,3905 4384,3906 4438,3907 4487,3908 4627,3911 4690,3912 4760,3913 4824,3914 4986,3917"/>
                 <TextEquiv>
                     <Unicode>daß das Vorgehen Sr. Majeſtät des Kaiſers eine abfällige</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r6l66" custom="readingOrder {index:65;}">
                 <Coords points="3581,3914 3581,3898 3666,3898 3736,3898 4800,3922 4984,3928 4984,3969 4693,3965 4683,3965 4003,3951 3840,3945 3582,3939"/>
-                <Baseline points="3581,3934 3687,3936 3714,3937 3973,3942 4003,3943 4098,3946 4125,3946 4181,3948 4208,3949 4390,3952 4418,3953 4484,3955 4513,3955 4572,3956 4598,3957 4744,3959 4766,3960 4860,3962 4886,3962 4984,3964"/>
+                <Baseline points="3581,3933 3687,3936 3714,3937 3973,3942 4003,3943 4098,3946 4125,3946 4181,3948 4208,3949 4390,3952 4418,3953 4484,3955 4513,3955 4572,3956 4598,3957 4744,3959 4766,3960 4860,3962 4886,3962 4984,3964"/>
                 <TextEquiv>
                     <Unicode>Kritik herausfordert, ſollte der Reichstag und das deutſche Volk dank⸗</Unicode>
                 </TextEquiv>
@@ -3171,7 +3171,7 @@ für die dem internationalen Verkehr dienenden Perſonenwagen.</Unicode>
             </TextLine>
             <TextLine id="r6l68" custom="readingOrder {index:67;}">
                 <Coords points="3577,4030 3579,3990 3610,3990 3697,3991 4794,4015 4848,4017 4978,4027 4979,4061 4954,4061 4912,4061 4669,4058 4264,4050 3748,4037 3718,4036 3584,4032"/>
-                <Baseline points="3572,4027 3853,4032 3881,4034 3930,4036 3959,4036 4072,4038 4092,4038 4157,4039 4178,4039 4272,4042 4301,4042 4367,4044 4385,4044 4417,4045 4437,4046 4470,4046 4498,4047 4552,4048 4570,4048 4725,4050 4744,4051 4977,4056"/>
+                <Baseline points="3577,4027 3853,4032 3881,4034 3930,4036 3959,4036 4072,4038 4092,4038 4157,4039 4178,4039 4272,4042 4301,4042 4367,4044 4385,4044 4417,4045 4437,4046 4470,4046 4498,4047 4552,4048 4570,4048 4725,4050 4744,4051 4977,4056"/>
                 <TextEquiv>
                     <Unicode>lichkeit gegeben iſt, ſchnell und raſch, wie es in der heutigen Eröffnungs⸗</Unicode>
                 </TextEquiv>
@@ -3192,7 +3192,7 @@ für die dem internationalen Verkehr dienenden Perſonenwagen.</Unicode>
             </TextLine>
             <TextLine id="r6l71" custom="readingOrder {index:70;}">
                 <Coords points="3575,4128 3792,4133 4827,4154 4952,4158 4978,4169 4980,4198 4868,4204 4851,4204 3604,4172 3574,4169"/>
-                <Baseline points="3573,4166 3838,4171 3903,4172 3931,4173 4046,4176 4073,4178 4180,4179 4207,4179 4308,4182 4335,4183 4391,4184 4416,4184 4467,4185 4493,4186 4697,4190 4716,4190 4914,4193 4945,4194 4978,4195"/>
+                <Baseline points="3574,4166 3838,4171 3903,4172 3931,4173 4046,4176 4073,4178 4180,4179 4207,4179 4308,4182 4335,4183 4391,4184 4416,4184 4467,4185 4493,4186 4697,4190 4716,4190 4914,4193 4945,4194 4978,4195"/>
                 <TextEquiv>
                     <Unicode>feſtzuſtellen. Ich nehme dieſen Dank für die Kaiſerliche Regierung in</Unicode>
                 </TextEquiv>
@@ -3227,7 +3227,7 @@ für die dem internationalen Verkehr dienenden Perſonenwagen.</Unicode>
             </TextLine>
             <TextLine id="r6l76" custom="readingOrder {index:75;}">
                 <Coords points="3567,4394 3572,4358 3591,4358 3690,4361 4494,4375 4785,4383 4913,4388 4972,4399 4972,4428 4952,4428 4109,4414 3713,4405 3572,4401 3568,4396"/>
-                <Baseline points="3568,4397 3829,4401 3869,4402 3904,4403 3944,4403 3999,4405 4027,4404 4080,4406 4109,4407 4262,4411 4295,4412 4494,4415 4547,4416 4703,4417 4738,4418 4807,4420 4832,4420 4972,4424"/>
+                <Baseline points="3568,4396 3829,4401 3869,4402 3904,4403 3944,4403 3999,4405 4027,4404 4080,4406 4109,4407 4262,4411 4295,4412 4494,4415 4547,4416 4703,4417 4738,4418 4807,4420 4832,4420 4972,4424"/>
                 <TextEquiv>
                     <Unicode>Wahlergebniß iſt am 24. Februar feſtgeſtellt. Wollten wir warten,</Unicode>
                 </TextEquiv>
@@ -3241,7 +3241,7 @@ für die dem internationalen Verkehr dienenden Perſonenwagen.</Unicode>
             </TextLine>
             <TextLine id="r6l78" custom="readingOrder {index:77;}">
                 <Coords points="3566,4470 3566,4465 3634,4454 3651,4454 3975,4455 4557,4469 4883,4477 4966,4482 4975,4523 4796,4523 4774,4523 3670,4498 3567,4493"/>
-                <Baseline points="3566,4486 3686,4492 3726,4493 3975,4495 4017,4496 4132,4499 4173,4500 4250,4501 4277,4501 4447,4505 4475,4505 4557,4507 4590,4507 4626,4508 4654,4508 4796,4512 4822,4512 4883,4514 4912,4514 4967,4518"/>
+                <Baseline points="3566,4485 3686,4492 3726,4493 3975,4495 4017,4496 4132,4499 4173,4500 4250,4501 4277,4501 4447,4505 4475,4505 4557,4507 4590,4507 4626,4508 4654,4508 4796,4512 4822,4512 4883,4514 4912,4514 4967,4518"/>
                 <TextEquiv>
                     <Unicode>wendig herausgeſtellt haben, auch abſolvirt ſind, ſo würden wir bis</Unicode>
                 </TextEquiv>
@@ -3290,14 +3290,14 @@ für die dem internationalen Verkehr dienenden Perſonenwagen.</Unicode>
             </TextLine>
             <TextLine id="r6l85" custom="readingOrder {index:84;}">
                 <Coords points="3657,4789 3697,4789 3803,4790 4217,4796 4462,4801 4507,4802 4549,4803 4926,4812 4957,4825 4960,4857 4835,4861 4436,4849 3831,4842 3658,4835"/>
-                <Baseline points="3657,4831 3741,4830 3770,4831 3864,4831 3897,4832 4045,4835 4075,4835 4270,4839 4322,4840 4404,4841 4433,4842 4626,4847 4669,4848 4763,4850 4809,4851 4870,4853 4913,4854 4957,4853"/>
+                <Baseline points="3657,4830 3741,4830 3770,4831 3864,4831 3897,4832 4045,4835 4075,4835 4270,4839 4322,4840 4404,4841 4433,4842 4626,4847 4669,4848 4763,4850 4809,4851 4870,4853 4913,4854 4957,4853"/>
                 <TextEquiv>
                     <Unicode>Der Abg. Richter bemerkte: Der Miniſter habe ſich in</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r6l86" custom="readingOrder {index:85;}">
                 <Coords points="3552,4879 3555,4849 3573,4839 3655,4839 4272,4849 4425,4852 4924,4865 4955,4876 4955,4906 4894,4907 4873,4907 4557,4906 3775,4892 3559,4884 3555,4878"/>
-                <Baseline points="3555,4881 3655,4882 3684,4882 3807,4884 3835,4884 3904,4885 3933,4885 4004,4886 4037,4887 4222,4890 4252,4890 4323,4891 4353,4892 4484,4894 4514,4895 4673,4899 4701,4900 4753,4901 4794,4901 4833,4900 4862,4901 4955,4906"/>
+                <Baseline points="3556,4880 3655,4882 3684,4882 3807,4884 3835,4884 3904,4885 3933,4885 4004,4886 4037,4887 4222,4890 4252,4890 4323,4891 4353,4892 4484,4894 4514,4895 4673,4899 4701,4900 4753,4901 4794,4901 4833,4900 4862,4901 4955,4906"/>
                 <TextEquiv>
                     <Unicode>einer Weiſe auf Se. Majeſtät den Kaiſer bezogen — er habe</Unicode>
                 </TextEquiv>
@@ -3325,7 +3325,7 @@ für die dem internationalen Verkehr dienenden Perſonenwagen.</Unicode>
             </TextLine>
             <TextLine id="r6l90" custom="readingOrder {index:89;}">
                 <Coords points="3550,5063 3550,5050 3711,5049 3739,5049 4236,5055 4897,5071 4952,5071 4952,5120 4930,5120 4692,5118 4404,5114 3809,5102 3711,5099 3551,5091"/>
-                <Baseline points="3550,5088 3619,5089 3647,5089 3781,5091 3809,5092 3887,5093 3915,5093 3957,5093 3987,5094 4044,5095 4072,5095 4301,5099 4333,5099 4376,5101 4404,5101 4541,5105 4569,5105 4725,5109 4756,5110 4848,5111 4877,5112 4952,5114"/>
+                <Baseline points="3550,5087 3619,5089 3647,5089 3781,5091 3809,5092 3887,5093 3915,5093 3957,5093 3987,5094 4044,5095 4072,5095 4301,5099 4333,5099 4376,5101 4404,5101 4541,5105 4569,5105 4725,5109 4756,5110 4848,5111 4877,5112 4952,5114"/>
                 <TextEquiv>
                     <Unicode>den Kaiſer hier in die Diskuſſion zu ziehen, beweiſe nur, daß</Unicode>
                 </TextEquiv>
@@ -3381,7 +3381,7 @@ für die dem internationalen Verkehr dienenden Perſonenwagen.</Unicode>
             </TextLine>
             <TextLine id="r6l98" custom="readingOrder {index:97;}">
                 <Coords points="3542,5462 3557,5462 4025,5467 4685,5482 4851,5485 4945,5499 4946,5534 4920,5534 4589,5532 4359,5527 3854,5515 3543,5507"/>
-                <Baseline points="3542,5503 3658,5504 3701,5505 3789,5506 3830,5506 4023,5509 4054,5509 4220,5512 4265,5513 4329,5515 4359,5516 4686,5523 4733,5524 4945,5526"/>
+                <Baseline points="3542,5502 3658,5504 3701,5505 3789,5506 3830,5506 4023,5509 4054,5509 4220,5512 4265,5513 4329,5515 4359,5516 4686,5523 4733,5524 4945,5526"/>
                 <TextEquiv>
                     <Unicode>könne auch ihrerſeits Gründe der Zweckmäßigkeit anführen,</Unicode>
                 </TextEquiv>
@@ -3430,7 +3430,7 @@ für die dem internationalen Verkehr dienenden Perſonenwagen.</Unicode>
             </TextLine>
             <TextLine id="r6l105" custom="readingOrder {index:104;}">
                 <Coords points="3538,5824 3588,5823 3610,5823 3689,5824 3993,5829 4695,5846 4714,5845 4926,5861 4942,5866 4944,5888 4930,5893 4898,5899 3588,5872 3535,5870"/>
-                <Baseline points="3538,5864 3610,5865 3640,5865 3853,5869 3882,5869 3942,5870 3972,5871 4175,5874 4204,5874 4255,5877 4285,5878 4419,5881 4462,5882 4527,5883 4569,5884 4814,5889 4855,5890 4942,5890"/>
+                <Baseline points="3538,5864 3610,5865 3640,5865 3853,5869 3882,5869 3942,5870 3972,5871 4175,5874 4204,5874 4255,5877 4285,5878 4419,5881 4462,5882 4527,5883 4569,5884 4814,5889 4855,5890 4941,5888"/>
                 <TextEquiv>
                     <Unicode>daß überhaupt ein Reichstag im Sinne der Verfaſſung vor⸗</Unicode>
                 </TextEquiv>
@@ -3451,7 +3451,7 @@ für die dem internationalen Verkehr dienenden Perſonenwagen.</Unicode>
             </TextLine>
             <TextLine id="r6l108" custom="readingOrder {index:107;}">
                 <Coords points="3535,5978 3547,5978 3821,5981 4909,6005 4938,6004 4938,6054 4925,6056 4890,6050 4496,6050 3605,6030 3536,6022"/>
-                <Baseline points="3535,6020 3574,6020 3605,6021 3722,6022 3751,6022 3868,6024 3898,6025 3977,6027 4005,6027 4103,6031 4146,6031 4545,6039 4574,6039 4818,6042 4847,6043 4938,6044"/>
+                <Baseline points="3535,6019 3574,6020 3605,6021 3722,6022 3751,6022 3868,6024 3898,6025 3977,6027 4005,6027 4103,6031 4146,6031 4545,6039 4574,6039 4818,6042 4847,6043 4938,6044"/>
                 <TextEquiv>
                     <Unicode>in Folge deſſen hier ſeine verfaſſungsmäßige Vertretung noch</Unicode>
                 </TextEquiv>
@@ -3472,21 +3472,21 @@ für die dem internationalen Verkehr dienenden Perſonenwagen.</Unicode>
             </TextLine>
             <TextLine id="r6l111" custom="readingOrder {index:110;}">
                 <Coords points="3534,6135 3638,6135 4024,6144 4779,6156 4933,6171 4936,6205 4779,6208 4765,6205 3607,6187 3535,6180"/>
-                <Baseline points="3534,6176 3638,6178 3691,6179 3831,6180 3885,6181 4025,6183 4081,6186 4154,6189 4210,6189 4268,6190 4328,6191 4496,6193 4549,6194 4797,6199 4851,6200 4934,6200"/>
+                <Baseline points="3534,6175 3638,6178 3691,6179 3831,6180 3885,6181 4025,6183 4081,6186 4154,6189 4210,6189 4268,6190 4328,6191 4496,6193 4549,6194 4797,6199 4851,6200 4934,6200"/>
                 <TextEquiv>
                     <Unicode>kunft darauf berufe, daß ein derartig mangelhaft ver⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r6l112" custom="readingOrder {index:111;}">
                 <Coords points="3529,6190 3970,6193 4706,6205 4818,6209 4854,6212 4931,6223 4935,6256 4706,6258 4631,6258 4289,6251 3867,6244 3530,6232"/>
-                <Baseline points="3529,6228 3690,6231 3771,6232 3971,6235 4061,6236 4208,6241 4286,6242 4498,6245 4584,6247 4706,6249 4803,6251 4931,6253"/>
+                <Baseline points="3529,6227 3690,6231 3771,6232 3971,6235 4061,6236 4208,6241 4286,6242 4498,6245 4584,6247 4706,6249 4803,6251 4931,6253"/>
                 <TextEquiv>
                     <Unicode>tretener Reichstag gültige Beſchlüſſe faſſen könne.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r6l113" custom="readingOrder {index:112;}">
                 <Coords points="3529,6239 3561,6239 4153,6249 4891,6263 4936,6274 4945,6311 4871,6311 3810,6292 3531,6286"/>
-                <Baseline points="3529,6282 3583,6283 3638,6283 3755,6284 3810,6285 3846,6285 3903,6286 4154,6288 4236,6291 4308,6294 4380,6295 4459,6296 4530,6298 4633,6299 4690,6300 4789,6302 4854,6303 4936,6305"/>
+                <Baseline points="3530,6281 3583,6283 3638,6283 3755,6284 3810,6285 3846,6285 3903,6286 4154,6288 4236,6291 4308,6294 4380,6295 4459,6296 4530,6298 4633,6299 4690,6300 4789,6302 4854,6303 4936,6305"/>
                 <TextEquiv>
                     <Unicode>Er könne ja einräumen, daß eine mala fides hier</Unicode>
                 </TextEquiv>
@@ -3514,14 +3514,14 @@ für die dem internationalen Verkehr dienenden Perſonenwagen.</Unicode>
             </TextLine>
             <TextLine id="r6l117" custom="readingOrder {index:116;}">
                 <Coords points="3526,6447 3607,6447 4382,6457 4685,6467 4931,6471 4931,6518 4338,6513 4092,6506 3578,6498 3527,6492"/>
-                <Baseline points="3528,6488 3620,6491 3648,6491 3785,6493 3813,6494 3877,6495 3906,6495 3963,6496 3992,6496 4158,6499 4188,6499 4382,6501 4421,6502 4511,6503 4540,6504 4685,6507 4713,6508 4801,6510 4849,6511 4932,6512"/>
+                <Baseline points="3528,6488 3620,6491 3648,6491 3785,6493 3813,6494 3877,6495 3906,6495 3963,6496 3992,6496 4158,6499 4188,6499 4382,6501 4421,6502 4511,6503 4540,6504 4685,6507 4713,6508 4801,6510 4849,6511 4931,6512"/>
                 <TextEquiv>
                     <Unicode>liege danach für die nächſten Geſchäfte kein Grund vor, eine</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r6l118" custom="readingOrder {index:117;}">
                 <Coords points="3525,6498 3571,6501 4560,6514 4929,6522 4932,6573 4567,6563 4534,6565 3824,6559 3678,6552 3526,6545"/>
-                <Baseline points="3525,6539 3795,6545 3824,6546 4050,6550 4108,6550 4164,6551 4192,6551 4391,6554 4419,6554 4484,6555 4514,6556 4604,6557 4634,6558 4819,6561 4855,6562 4927,6563"/>
+                <Baseline points="3525,6538 3795,6545 3824,6546 4050,6550 4108,6550 4164,6551 4192,6551 4391,6554 4419,6554 4484,6555 4514,6556 4604,6557 4634,6558 4819,6561 4855,6562 4927,6563"/>
                 <TextEquiv>
                     <Unicode>Verwahrung einzulegen. Er verwahre ſich aber dagegen, daß</Unicode>
                 </TextEquiv>
@@ -3718,14 +3718,14 @@ Gegenſtände in Frage kommen ſollte, wo die Mehrheitsver⸗</Unicode>
             </TextLine>
             <TextLine id="r7l6" custom="readingOrder {index:5;}">
                 <Coords points="5472,847 5560,840 5662,836 6450,832 6691,832 6862,834 6872,851 6876,871 6862,882 6826,883 6695,885 6451,886 5473,887 5473,850"/>
-                <Baseline points="5473,879 5517,879 5560,876 5733,877 5808,877 5863,878 5892,878 5992,877 6034,876 6096,877 6125,877 6215,876 6243,875 6324,875 6353,875 6423,874 6450,874 6691,873 6733,873 6874,873"/>
+                <Baseline points="5473,879 5517,879 5560,876 5733,877 5808,877 5863,878 5892,878 5992,877 6034,876 6096,877 6125,877 6215,876 6243,875 6324,875 6353,875 6423,874 6450,874 6691,873 6733,873 6873,872"/>
                 <TextEquiv>
                     <Unicode>zu knüpfen. Er halte ſich aber doch für verpflichtet, auszu⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r7l7" custom="readingOrder {index:6;}">
                 <Coords points="5471,890 5746,887 6549,884 6602,884 6824,889 6871,891 6872,930 6754,938 6527,932 6486,935 6356,938 6076,938 5472,941"/>
-                <Baseline points="5471,929 5651,929 5695,929 5769,930 5815,930 5903,930 5950,929 6020,930 6068,931 6233,927 6259,927 6391,926 6439,925 6506,924 6549,927 6758,926 6808,924 6869,925"/>
+                <Baseline points="5471,928 5651,929 5695,929 5769,930 5815,930 5903,930 5950,929 6020,930 6068,931 6233,927 6259,927 6391,926 6439,925 6506,924 6549,927 6758,926 6808,924 6869,925"/>
                 <TextEquiv>
                     <Unicode>ſprechen, daß auch das formale Recht zur Berufung des</Unicode>
                 </TextEquiv>
@@ -3753,7 +3753,7 @@ Gegenſtände in Frage kommen ſollte, wo die Mehrheitsver⸗</Unicode>
             </TextLine>
             <TextLine id="r7l11" custom="readingOrder {index:10;}">
                 <Coords points="5473,1097 5520,1096 6403,1091 6559,1091 6871,1094 6872,1136 6674,1142 6239,1140 6219,1144 5520,1144 5474,1141"/>
-                <Baseline points="5473,1138 6001,1135 6064,1134 6231,1132 6274,1132 6345,1132 6403,1132 6467,1132 6521,1132 6761,1133 6814,1133 6869,1133"/>
+                <Baseline points="5473,1137 6001,1135 6064,1134 6231,1132 6274,1132 6345,1132 6403,1132 6467,1132 6521,1132 6761,1133 6814,1133 6869,1133"/>
                 <TextEquiv>
                     <Unicode>Reichstagsabgeordneten, welche nach der Verfaſſung er⸗</Unicode>
                 </TextEquiv>
@@ -3767,7 +3767,7 @@ Gegenſtände in Frage kommen ſollte, wo die Mehrheitsver⸗</Unicode>
             </TextLine>
             <TextLine id="r7l13" custom="readingOrder {index:12;}">
                 <Coords points="5469,1202 6358,1194 6403,1194 6595,1195 6670,1196 6872,1196 6874,1239 6831,1245 6588,1244 6544,1245 6095,1242 5470,1251"/>
-                <Baseline points="5469,1242 5583,1240 5642,1241 5731,1242 5777,1242 5816,1240 5841,1240 5945,1239 5987,1238 6129,1236 6171,1236 6212,1236 6257,1235 6317,1235 6358,1235 6510,1235 6552,1235 6769,1237 6807,1237 6868,1237"/>
+                <Baseline points="5469,1241 5583,1240 5642,1241 5731,1242 5777,1242 5816,1240 5841,1240 5945,1239 5987,1238 6129,1236 6171,1236 6212,1236 6257,1235 6317,1235 6358,1235 6510,1235 6552,1235 6769,1237 6807,1237 6868,1237"/>
                 <TextEquiv>
                     <Unicode>Haus habe ja auch bereits in der Praxis Beſchlüſſe ge⸗</Unicode>
                 </TextEquiv>
@@ -3795,7 +3795,7 @@ Gegenſtände in Frage kommen ſollte, wo die Mehrheitsver⸗</Unicode>
             </TextLine>
             <TextLine id="r7l17" custom="readingOrder {index:16;}">
                 <Coords points="5468,1410 5749,1406 5893,1404 6279,1402 6728,1402 6849,1411 6866,1421 6872,1440 6853,1448 6728,1451 5683,1454 5673,1454 5467,1460"/>
-                <Baseline points="5468,1449 5559,1448 5591,1447 5719,1447 5749,1446 5812,1445 5843,1445 6090,1442 6121,1442 6368,1442 6412,1442 6470,1443 6511,1443 6728,1443 6776,1444 6866,1444"/>
+                <Baseline points="5468,1449 5559,1448 5591,1447 5719,1447 5749,1446 5812,1445 5843,1445 6090,1442 6121,1442 6368,1442 6412,1442 6470,1443 6511,1443 6728,1443 6776,1444 6865,1442"/>
                 <TextEquiv>
                     <Unicode>habe Rechte des Reichstages auszuüben, die ſchleunigſt aus⸗</Unicode>
                 </TextEquiv>
@@ -3816,7 +3816,7 @@ Gegenſtände in Frage kommen ſollte, wo die Mehrheitsver⸗</Unicode>
             </TextLine>
             <TextLine id="r7l20" custom="readingOrder {index:19;}">
                 <Coords points="5467,1575 5525,1565 5593,1562 5903,1558 6018,1557 6186,1557 6723,1559 6769,1560 6865,1572 6865,1607 6796,1609 6494,1609 5624,1607 5468,1609"/>
-                <Baseline points="5467,1603 5677,1600 5722,1600 5964,1598 6018,1598 6080,1598 6155,1598 6309,1598 6365,1598 6447,1598 6494,1598 6865,1600"/>
+                <Baseline points="5467,1602 5677,1600 5722,1600 5964,1598 6018,1598 6080,1598 6155,1598 6309,1598 6365,1598 6447,1598 6494,1598 6865,1600"/>
                 <TextEquiv>
                     <Unicode>unbedingt nothwendig ſei. Irgend eine Benachtheiligung</Unicode>
                 </TextEquiv>
@@ -4145,7 +4145,7 @@ Gegenſtände in Frage kommen ſollte, wo die Mehrheitsver⸗</Unicode>
             </TextLine>
             <TextLine id="r7l67" custom="readingOrder {index:66;}">
                 <Coords points="5440,3982 5613,3982 6178,3985 6479,3987 6816,3991 6840,4002 6841,4035 6178,4034 6049,4034 5888,4033 5709,4031 5574,4029 5442,4028"/>
-                <Baseline points="5440,4022 5669,4022 5709,4023 5780,4024 5822,4024 5917,4024 5959,4025 6178,4026 6225,4026 6380,4027 6439,4027 6562,4027 6609,4027 6733,4030 6780,4030 6840,4031"/>
+                <Baseline points="5441,4021 5669,4022 5709,4023 5780,4024 5822,4024 5917,4024 5959,4025 6178,4026 6225,4026 6380,4027 6439,4027 6562,4027 6609,4027 6733,4030 6780,4030 6840,4031"/>
                 <TextEquiv>
                     <Unicode>Diskuſſion gar nicht ſtattfinden können. Dann meine der</Unicode>
                 </TextEquiv>
@@ -4250,7 +4250,7 @@ Gegenſtände in Frage kommen ſollte, wo die Mehrheitsver⸗</Unicode>
             </TextLine>
             <TextLine id="r7l82" custom="readingOrder {index:81;}">
                 <Coords points="5436,4763 5537,4755 5573,4755 6504,4763 6714,4770 6828,4776 6828,4814 6736,4814 5483,4803 5427,4795 5428,4768"/>
-                <Baseline points="5435,4796 5511,4796 5539,4797 5761,4799 5791,4799 5840,4800 5869,4800 5958,4801 5987,4801 6068,4802 6100,4802 6163,4802 6193,4802 6404,4803 6434,4803 6506,4803 6536,4803 6611,4803 6640,4803 6716,4804 6738,4804 6830,4805"/>
+                <Baseline points="5435,4796 5511,4796 5539,4797 5761,4799 5791,4799 5840,4800 5869,4800 5958,4801 5987,4801 6068,4802 6100,4802 6163,4802 6193,4802 6404,4803 6434,4803 6506,4803 6536,4803 6611,4803 6640,4803 6716,4804 6738,4804 6828,4805"/>
                 <TextEquiv>
                     <Unicode>von Bennigſen ſei aber doch der Meinung, daß nur aus ganz</Unicode>
                 </TextEquiv>
@@ -4369,7 +4369,7 @@ Gegenſtände in Frage kommen ſollte, wo die Mehrheitsver⸗</Unicode>
             </TextLine>
             <TextLine id="r7l99" custom="readingOrder {index:98;}">
                 <Coords points="5424,5629 5446,5628 5469,5628 5998,5640 6796,5644 6822,5655 6824,5690 6747,5690 6686,5694 6470,5695 5651,5681 5602,5675 5424,5678"/>
-                <Baseline points="5422,5671 5619,5667 5645,5672 5734,5673 5765,5674 5821,5676 5850,5677 5952,5679 5990,5680 6055,5682 6087,5683 6295,5684 6339,5684 6420,5685 6449,5685 6574,5686 6604,5686 6742,5682 6778,5682 6821,5683"/>
+                <Baseline points="5424,5671 5619,5667 5645,5672 5734,5673 5765,5674 5821,5676 5850,5677 5952,5679 5990,5680 6055,5682 6087,5683 6295,5684 6339,5684 6420,5685 6449,5685 6574,5686 6604,5686 6742,5682 6778,5682 6821,5683"/>
                 <TextEquiv>
                     <Unicode>(Redner) habe die Rede des Miniſters ſehr genau gehört, da</Unicode>
                 </TextEquiv>
@@ -4467,7 +4467,7 @@ Gegenſtände in Frage kommen ſollte, wo die Mehrheitsver⸗</Unicode>
             </TextLine>
             <TextLine id="r7l113" custom="readingOrder {index:112;}">
                 <Coords points="5417,6358 5510,6358 5675,6358 6210,6365 6706,6369 6818,6373 6820,6411 6788,6418 6515,6419 6482,6419 6205,6415 5536,6407 5418,6399 5417,6366"/>
-                <Baseline points="5417,6396 5482,6397 5510,6398 5675,6400 5715,6401 5802,6402 5847,6403 5943,6404 5970,6404 6159,6406 6202,6407 6266,6407 6312,6408 6374,6408 6404,6408 6608,6410 6637,6411 6733,6410 6760,6409 6816,6409"/>
+                <Baseline points="5417,6395 5482,6397 5510,6398 5675,6400 5715,6401 5802,6402 5847,6403 5943,6404 5970,6404 6159,6406 6202,6407 6266,6407 6312,6408 6374,6408 6404,6408 6608,6410 6637,6411 6733,6410 6760,6409 6816,6409"/>
                 <TextEquiv>
                     <Unicode>ein Sechſtel noch nicht vertreten ſei, der Reichstag nicht zu⸗</Unicode>
                 </TextEquiv>
@@ -4495,7 +4495,7 @@ Gegenſtände in Frage kommen ſollte, wo die Mehrheitsver⸗</Unicode>
             </TextLine>
             <TextLine id="r7l117" custom="readingOrder {index:116;}">
                 <Coords points="5413,6572 5446,6564 5998,6568 6026,6569 6258,6576 6342,6577 6567,6573 6787,6574 6815,6585 6815,6624 6730,6624 6569,6621 6280,6619 6043,6622 6016,6616 5473,6613 5414,6607"/>
-                <Baseline points="5413,6602 5572,6605 5619,6606 5698,6607 5726,6607 5798,6608 5825,6609 5923,6610 5967,6611 6119,6613 6145,6613 6275,6614 6316,6614 6356,6614 6378,6615 6478,6615 6506,6615 6586,6616 6643,6616 6696,6616 6725,6616 6815,6617"/>
+                <Baseline points="5413,6601 5572,6605 5619,6606 5698,6607 5726,6607 5798,6608 5825,6609 5923,6610 5967,6611 6119,6613 6145,6613 6275,6614 6316,6614 6356,6614 6378,6615 6478,6615 6506,6615 6586,6616 6643,6616 6696,6616 6725,6616 6815,6617"/>
                 <TextEquiv>
                     <Unicode>müſſen. Auf wie viele Wahlen komme es denn an? Er ſtehe</Unicode>
                 </TextEquiv>
@@ -4662,7 +4662,7 @@ hätten, ſich gegen ein Präcedenz zu verwahren, und</Unicode>
             </TextLine>
             <TextLine id="r8l3" custom="readingOrder {index:2;}">
                 <Coords points="6943,679 6962,677 7015,677 7636,678 8221,682 8327,690 8343,700 8343,716 8343,727 8302,734 8184,734 6993,729 6943,727"/>
-                <Baseline points="6943,719 7134,719 7184,720 7382,720 7434,720 7499,720 7541,720 7676,721 7725,721 7816,722 7859,722 8029,723 8080,723 8345,722"/>
+                <Baseline points="6943,719 7134,719 7184,720 7382,720 7434,720 7499,720 7541,720 7676,721 7725,721 7816,722 7859,722 8029,723 8080,723 8343,722"/>
                 <TextEquiv>
                     <Unicode>(Redner) behaupte, der Kaiſer habe jederzeit verfaſſungs⸗</Unicode>
                 </TextEquiv>
@@ -4865,7 +4865,7 @@ hätten, ſich gegen ein Präcedenz zu verwahren, und</Unicode>
             </TextLine>
             <TextLine id="r8l32" custom="readingOrder {index:31;}">
                 <Coords points="6933,2192 7007,2180 7032,2180 7791,2182 8330,2184 8331,2230 8299,2229 8202,2232 7791,2231 7615,2232 7589,2232 7007,2229 6932,2226"/>
-                <Baseline points="6933,2221 7078,2222 7109,2222 7216,2222 7257,2222 7295,2222 7326,2222 7446,2223 7486,2223 7522,2223 7563,2223 7643,2223 7686,2223 7791,2223 7837,2224 8028,2226 8072,2225 8145,2225 8195,2224 8332,2225"/>
+                <Baseline points="6933,2221 7078,2222 7109,2222 7216,2222 7257,2222 7295,2222 7326,2222 7446,2223 7486,2223 7522,2223 7563,2223 7643,2223 7686,2223 7791,2223 7837,2224 8028,2226 8072,2225 8145,2225 8195,2224 8330,2225"/>
                 <TextEquiv>
                     <Unicode>worfen habe, ſo könne er ihm dieſen Vorwurf nur zurück⸗</Unicode>
                 </TextEquiv>
@@ -5019,14 +5019,14 @@ hätten, ſich gegen ein Präcedenz zu verwahren, und</Unicode>
             </TextLine>
             <TextLine id="r8l54" custom="readingOrder {index:53;}">
                 <Coords points="6921,3318 7104,3318 7424,3320 7890,3324 8290,3327 8320,3335 8320,3373 8006,3374 7993,3374 7134,3369 6965,3368 6922,3370"/>
-                <Baseline points="6921,3358 6982,3358 7017,3359 7104,3359 7134,3359 7250,3360 7278,3361 7506,3361 7536,3361 7652,3363 7683,3363 7751,3363 7782,3363 8067,3364 8106,3364 8185,3365 8225,3365 8320,3366"/>
+                <Baseline points="6921,3357 6982,3358 7017,3359 7104,3359 7134,3359 7250,3360 7278,3361 7506,3361 7536,3361 7652,3363 7683,3363 7751,3363 7782,3363 8067,3364 8106,3364 8185,3365 8225,3365 8320,3366"/>
                 <TextEquiv>
                     <Unicode>ſich dieſe ganze Diskuſſion gegen den Reichskanzler und nicht</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r8l55" custom="readingOrder {index:54;}">
                 <Coords points="6921,3375 7078,3373 7177,3371 7599,3375 8099,3376 8223,3377 8320,3386 8321,3426 8293,3427 7566,3423 6921,3418 6921,3381"/>
-                <Baseline points="6921,3409 7036,3410 7078,3410 7147,3411 7177,3411 7321,3412 7392,3413 7470,3413 7498,3413 7620,3414 7662,3414 7763,3415 7801,3415 7899,3416 7942,3416 8036,3416 8077,3416 8321,3417"/>
+                <Baseline points="6921,3409 7036,3410 7078,3410 7147,3411 7177,3411 7321,3412 7392,3413 7470,3413 7498,3413 7620,3414 7662,3414 7763,3415 7801,3415 7899,3416 7942,3416 8036,3416 8077,3416 8320,3417"/>
                 <TextEquiv>
                     <Unicode>gegen den Kaiſer. Die Sache wäre nicht ohne Bedeutung,</Unicode>
                 </TextEquiv>
@@ -5054,7 +5054,7 @@ hätten, ſich gegen ein Präcedenz zu verwahren, und</Unicode>
             </TextLine>
             <TextLine id="r8l59" custom="readingOrder {index:58;}">
                 <Coords points="6921,3587 6981,3576 7000,3576 7371,3577 8267,3583 8294,3586 8323,3588 8324,3628 8162,3632 8106,3632 7146,3627 6984,3623 6918,3621"/>
-                <Baseline points="6921,3616 7025,3616 7079,3616 7237,3619 7293,3618 7371,3618 7427,3619 7596,3619 7674,3620 7764,3621 7810,3622 7929,3622 7976,3622 8059,3622 8106,3623 8180,3623 8228,3624 8324,3624"/>
+                <Baseline points="6921,3616 7025,3616 7079,3616 7237,3619 7293,3618 7371,3618 7427,3619 7596,3619 7674,3620 7764,3621 7810,3622 7929,3622 7976,3622 8059,3622 8106,3623 8180,3623 8228,3624 8323,3624"/>
                 <TextEquiv>
                     <Unicode>mehr möglich ſein würden. Daß dieſer Fall jetzt nicht</Unicode>
                 </TextEquiv>
@@ -5075,7 +5075,7 @@ hätten, ſich gegen ein Präcedenz zu verwahren, und</Unicode>
             </TextLine>
             <TextLine id="r8l62" custom="readingOrder {index:61;}">
                 <Coords points="6921,3731 6961,3730 6989,3730 8054,3736 8176,3737 8325,3750 8326,3786 8118,3788 8080,3788 7051,3781 6961,3780 6922,3780"/>
-                <Baseline points="6921,3771 7119,3772 7152,3772 7192,3774 7222,3774 7348,3775 7376,3775 7471,3775 7499,3775 7553,3775 7583,3776 7700,3777 7731,3777 7786,3777 7805,3777 8054,3778 8080,3778 8322,3780"/>
+                <Baseline points="6921,3770 7119,3772 7152,3772 7192,3774 7222,3774 7348,3775 7376,3775 7471,3775 7499,3775 7553,3775 7583,3776 7700,3777 7731,3777 7786,3777 7805,3777 8054,3778 8080,3778 8322,3780"/>
                 <TextEquiv>
                     <Unicode>faſſungen in Frage ſein, bei denen die verſchiedene Zuſammen⸗</Unicode>
                 </TextEquiv>
@@ -5234,7 +5234,7 @@ dent die nächſte Sitzung auf Freitag 2 Uhr an.</Unicode>
             <Coords points="6892,4457 8338,4467 8308,6811 6876,6795"/>
             <TextLine id="r10l1" custom="readingOrder {index:0;}">
                 <Coords points="7001,4483 7172,4483 7959,4490 8263,4494 8309,4496 8314,4533 7765,4535 7739,4535 7437,4533 7147,4528 7003,4524"/>
-                <Baseline points="7001,4520 7215,4523 7240,4523 7663,4528 7690,4528 7810,4528 7836,4528 7896,4528 7922,4528 8108,4530 8123,4530 8309,4530"/>
+                <Baseline points="7002,4519 7215,4523 7240,4523 7663,4528 7690,4528 7810,4528 7836,4528 7896,4528 7922,4528 8108,4530 8123,4530 8309,4530"/>
                 <TextEquiv>
                     <Unicode>Deutſche Kolonialzeitung. Organ des Deutſchen Kolonial⸗</Unicode>
                 </TextEquiv>
@@ -5395,7 +5395,7 @@ dent die nächſte Sitzung auf Freitag 2 Uhr an.</Unicode>
             </TextLine>
             <TextLine id="r10l24" custom="readingOrder {index:23;}">
                 <Coords points="6900,5541 6919,5541 8287,5555 8305,5568 8305,5586 8287,5595 8146,5598 7933,5598 7064,5589 6899,5583"/>
-                <Baseline points="6901,5578 7037,5581 7064,5581 7214,5583 7240,5584 7330,5586 7359,5586 7511,5586 7537,5587 7581,5587 7609,5587 7708,5587 7736,5587 7768,5587 7793,5587 7868,5588 7897,5588 8171,5591 8192,5592 8300,5591"/>
+                <Baseline points="6901,5578 7037,5581 7064,5581 7214,5583 7240,5584 7330,5586 7359,5586 7511,5586 7537,5587 7581,5587 7609,5587 7708,5587 7736,5587 7768,5587 7793,5587 7868,5588 7897,5588 8171,5591 8192,5592 8299,5589"/>
                 <TextEquiv>
                     <Unicode>hiervon gelegene Land Bekung. — Reiſe in dem portugieſiſchen Weſt⸗</Unicode>
                 </TextEquiv>
@@ -5556,7 +5556,7 @@ dent die nächſte Sitzung auf Freitag 2 Uhr an.</Unicode>
             </TextLine>
             <TextLine id="r10l47" custom="readingOrder {index:46;}">
                 <Coords points="6982,6600 7021,6602 8288,6610 8288,6651 7889,6653 7860,6653 7158,6649 6983,6643"/>
-                <Baseline points="6982,6639 7195,6641 7232,6641 7724,6643 7774,6645 7913,6646 7939,6646 8090,6646 8127,6647 8288,6645"/>
+                <Baseline points="6982,6638 7195,6641 7232,6641 7724,6643 7774,6645 7913,6646 7939,6646 8090,6646 8127,6647 8288,6645"/>
                 <TextEquiv>
                     <Unicode>Deutſche Medizinal⸗Zeitung. (Eugen Groſſer, Berlin.)</Unicode>
                 </TextEquiv>
@@ -5577,7 +5577,7 @@ dent die nächſte Sitzung auf Freitag 2 Uhr an.</Unicode>
             </TextLine>
             <TextLine id="r10l50" custom="readingOrder {index:49;}">
                 <Coords points="6891,6749 6981,6739 6992,6739 7678,6742 8098,6746 8131,6748 8286,6751 8288,6788 8224,6790 8115,6790 7401,6787 7230,6786 6892,6783"/>
-                <Baseline points="6891,6772 7132,6776 7161,6777 7206,6777 7230,6777 7375,6778 7401,6778 7561,6779 7588,6779 7621,6780 7648,6780 7894,6783 7922,6783 7952,6784 7978,6784 8036,6783 8062,6783 8286,6784"/>
+                <Baseline points="6891,6771 7132,6776 7161,6777 7206,6777 7230,6777 7375,6778 7401,6778 7561,6779 7588,6779 7621,6780 7648,6780 7894,6783 7922,6783 7952,6784 7978,6784 8036,6783 8062,6783 8286,6784"/>
                 <TextEquiv>
                     <Unicode>gravidarum. — Lehfeld, Hydrops u. Albuminurie in der Schwanger⸗</Unicode>
                 </TextEquiv>
@@ -5744,7 +5744,7 @@ gravidarum. — Lehfeld, Hydrops u. Albuminurie in der Schwanger⸗</Unicode>
             </TextLine>
             <TextLine id="r11l16" custom="readingOrder {index:15;}">
                 <Coords points="8505,1271 8637,1272 8906,1272 9062,1273 9340,1275 9771,1280 9819,1293 9818,1319 9794,1317 9771,1318 9595,1322 9564,1322 8659,1315 8506,1314 8505,1277"/>
-                <Baseline points="8505,1310 8713,1309 8745,1309 9240,1312 9292,1311 9437,1312 9465,1313 9528,1314 9564,1315 9606,1315 9649,1316 9818,1316"/>
+                <Baseline points="8505,1309 8713,1309 8745,1309 9240,1312 9292,1311 9437,1312 9465,1313 9528,1314 9564,1315 9606,1315 9649,1316 9818,1316"/>
                 <TextEquiv>
                     <Unicode>Deutſche Gemeinde⸗Zeitung. (Verlag von P. Stankie⸗</Unicode>
                 </TextEquiv>
@@ -5849,7 +5849,7 @@ gravidarum. — Lehfeld, Hydrops u. Albuminurie in der Schwanger⸗</Unicode>
             </TextLine>
             <TextLine id="r11l31" custom="readingOrder {index:30;}">
                 <Coords points="8402,1987 8402,1974 8407,1960 8474,1960 9487,1966 9788,1971 9805,1982 9810,2010 9785,2016 9605,2013 8451,2001 8407,1999"/>
-                <Baseline points="8403,1998 8696,1999 8759,1999 8775,1999 8807,2000 8835,2000 8882,2000 8909,2000 9029,2001 9057,2001 9114,2002 9140,2002 9487,2005 9518,2005 9558,2006 9584,2006 9805,2008"/>
+                <Baseline points="8406,1996 8696,1999 8759,1999 8775,1999 8807,2000 8835,2000 8882,2000 8909,2000 9029,2001 9057,2001 9114,2002 9140,2002 9487,2005 9518,2005 9558,2006 9584,2006 9805,2008"/>
                 <TextEquiv>
                     <Unicode>Schulanzeiger Nr. 9. — Archiv für Verwaltungsrecht. — Ortsgeſetze.</Unicode>
                 </TextEquiv>
@@ -5954,7 +5954,7 @@ gravidarum. — Lehfeld, Hydrops u. Albuminurie in der Schwanger⸗</Unicode>
             </TextLine>
             <TextLine id="r11l46" custom="readingOrder {index:45;}">
                 <Coords points="8396,2650 8482,2650 9193,2654 9624,2658 9801,2664 9802,2702 9791,2702 8999,2699 8396,2694"/>
-                <Baseline points="8396,2687 8505,2686 8546,2687 8612,2688 8663,2689 8801,2689 8845,2690 8909,2690 8952,2691 9193,2691 9246,2692 9303,2692 9343,2693 9535,2695 9573,2695 9802,2698"/>
+                <Baseline points="8396,2687 8505,2686 8546,2687 8612,2688 8663,2689 8801,2689 8845,2690 8909,2690 8952,2691 9193,2691 9246,2692 9303,2692 9343,2693 9535,2695 9573,2695 9801,2698"/>
                 <TextEquiv>
                     <Unicode>Zucht und Dreſſur von Jagdhunden. (J. Neumann, Neudamm.)</Unicode>
                 </TextEquiv>
@@ -6017,14 +6017,14 @@ gravidarum. — Lehfeld, Hydrops u. Albuminurie in der Schwanger⸗</Unicode>
             </TextLine>
             <TextLine id="r11l55" custom="readingOrder {index:54;}">
                 <Coords points="8395,3066 8418,3066 8647,3067 8856,3068 9495,3072 9694,3075 9725,3077 9802,3090 9806,3115 9775,3112 9725,3116 9694,3117 9674,3117 8470,3108 8399,3110"/>
-                <Baseline points="8395,3101 8505,3101 8532,3102 8584,3103 8614,3103 8697,3103 8726,3104 8790,3105 8819,3105 9066,3107 9109,3107 9142,3107 9170,3107 9235,3106 9266,3106 9309,3107 9346,3107 9400,3108 9440,3109 9646,3110 9674,3111 9801,3112"/>
+                <Baseline points="8398,3100 8505,3101 8532,3102 8584,3103 8614,3103 8697,3103 8726,3104 8790,3105 8819,3105 9066,3107 9109,3107 9142,3107 9170,3107 9235,3106 9266,3106 9309,3107 9346,3107 9400,3108 9440,3109 9646,3110 9674,3111 9801,3112"/>
                 <TextEquiv>
                     <Unicode>Frage des Hrn. von Dombrowski in Nr. 27 der „Deutſchen Jäger⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r11l56" custom="readingOrder {index:55;}">
                 <Coords points="8393,3112 8576,3115 9082,3114 9651,3119 9746,3122 9777,3127 9800,3138 9806,3160 9777,3163 9651,3164 9491,3164 8393,3156"/>
-                <Baseline points="8393,3148 8573,3148 8604,3148 8649,3149 8676,3150 8747,3150 8775,3150 8831,3150 8857,3150 9082,3152 9117,3153 9301,3153 9326,3153 9379,3153 9408,3153 9462,3155 9491,3155 9651,3156 9700,3159 9802,3161"/>
+                <Baseline points="8393,3148 8573,3148 8604,3148 8649,3149 8676,3150 8747,3150 8775,3150 8831,3150 8857,3150 9082,3152 9117,3153 9301,3153 9326,3153 9379,3153 9408,3153 9462,3155 9491,3155 9651,3156 9700,3159 9801,3160"/>
                 <TextEquiv>
                     <Unicode>Zeitung“. — Aus der Jagdtaſche: Junghaſe am 20. Februar. Bal⸗</Unicode>
                 </TextEquiv>
@@ -6059,7 +6059,7 @@ gravidarum. — Lehfeld, Hydrops u. Albuminurie in der Schwanger⸗</Unicode>
             </TextLine>
             <TextLine id="r11l61" custom="readingOrder {index:60;}">
                 <Coords points="8390,3341 8596,3341 9751,3351 9800,3364 9805,3393 9425,3394 9414,3394 9202,3392 8391,3387"/>
-                <Baseline points="8390,3376 8485,3377 8534,3378 8640,3379 8672,3378 8766,3380 8817,3380 8970,3381 9011,3382 9074,3383 9111,3384 9228,3384 9258,3385 9425,3386 9453,3386 9496,3386 9520,3386 9677,3388 9718,3388 9800,3389"/>
+                <Baseline points="8390,3375 8485,3377 8534,3378 8640,3379 8672,3378 8766,3380 8817,3380 8970,3381 9011,3382 9074,3383 9111,3384 9228,3384 9258,3385 9425,3386 9453,3386 9496,3386 9520,3386 9677,3388 9718,3388 9800,3389"/>
                 <TextEquiv>
                     <Unicode>Heft. März 1887. (Verlag von Georg Reimer.) — Inhalt: Der</Unicode>
                 </TextEquiv>
@@ -6542,7 +6542,7 @@ gravidarum. — Lehfeld, Hydrops u. Albuminurie in der Schwanger⸗</Unicode>
             </TextLine>
             <TextLine id="r11l130" custom="readingOrder {index:129;}">
                 <Coords points="8361,6517 8387,6517 9576,6528 9667,6529 9760,6541 9766,6567 9737,6572 9632,6568 8640,6566 8559,6564 8362,6556"/>
-                <Baseline points="8361,6551 8533,6554 8559,6554 8770,6558 8823,6558 8861,6559 8888,6559 8990,6560 9016,6560 9254,6561 9282,6562 9316,6561 9342,6561 9437,6564 9476,6564 9513,6565 9540,6566 9610,6566 9630,6566 9760,6565"/>
+                <Baseline points="8361,6550 8533,6554 8559,6554 8770,6558 8823,6558 8861,6559 8888,6559 8990,6560 9016,6560 9254,6561 9282,6562 9316,6561 9342,6561 9437,6564 9476,6564 9513,6565 9540,6566 9610,6566 9630,6566 9760,6565"/>
                 <TextEquiv>
                     <Unicode>Pissodes piniphilus. 4) Sesia culiciformis in Erle. 5) Die Ulmen⸗</Unicode>
                 </TextEquiv>
@@ -6577,7 +6577,7 @@ gravidarum. — Lehfeld, Hydrops u. Albuminurie in der Schwanger⸗</Unicode>
             </TextLine>
             <TextLine id="r11l135" custom="readingOrder {index:134;}">
                 <Coords points="8361,6751 8388,6748 8547,6748 9738,6756 9755,6766 9760,6798 9712,6800 9350,6801 9144,6801 8765,6796 8362,6794"/>
-                <Baseline points="8361,6786 8541,6787 8585,6787 8632,6789 8675,6789 8829,6791 8881,6791 9011,6791 9049,6791 9105,6792 9144,6793 9350,6794 9377,6794 9466,6796 9493,6795 9678,6794 9701,6794 9755,6793"/>
+                <Baseline points="8361,6785 8541,6787 8585,6787 8632,6789 8675,6789 8829,6791 8881,6791 9011,6791 9049,6791 9105,6792 9144,6793 9350,6794 9377,6794 9466,6796 9493,6795 9678,6794 9701,6794 9755,6793"/>
                 <TextEquiv>
                     <Unicode>Literatur. — Notizen. Aufruf zur Errichtung eines Denkmals für</Unicode>
                 </TextEquiv>

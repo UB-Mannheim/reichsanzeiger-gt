@@ -1,22 +1,22 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
     <Metadata>
         <Creator>Transkribus</Creator>
         <Created>2021-12-14T11:43:19.304+01:00</Created>
-        <LastChange>2022-12-07T16:08:55.252+01:00</LastChange>
+        <LastChange>2023-11-15T20:47:01.667+01:00</LastChange>
         <Comments>
                 Measurement unit: pixel
                 PrimaryLanguage: 
                 Producer: Transkribus
             </Comments>
-        <TranskribusMetadata docId="900641" pageId="34524783" pageNr="20" tsid="105747860" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=PRHVCTPMYWBPMCYJCLLWTVFK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KFLZLCRUOLKNLHVENGMDTFPJ" imageId="27705171"/>
+        <TranskribusMetadata docId="900641" pageId="34524783" pageNr="20" tsid="139840650" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=PRHVCTPMYWBPMCYJCLLWTVFK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BZKEPPLDDYIVGADDHLEXNPJQ" imageId="27705171"/>
     </Metadata>
     <Page imageFilename="1877_115_0137.jpg" imageWidth="10024" imageHeight="6984">
         <PrintSpace>
             <Coords points="350,218 9631,190 9664,6633 383,6661"/>
         </PrintSpace>
         <ReadingOrder>
-            <OrderedGroup id="ro_1690360015178" caption="Regions reading order">
+            <OrderedGroup id="ro_1700129743126" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
                 <RegionRefIndexed index="1" regionRef="r2"/>
                 <RegionRefIndexed index="2" regionRef="r3"/>
@@ -143,49 +143,49 @@
             </TextLine>
             <TextLine id="r4l4" custom="readingOrder {index:3;}">
                 <Coords points="672,808 694,806 799,803 819,803 876,810 896,826 896,842 738,856 716,856 672,848"/>
-                <Baseline points="672,844 896,835 896,835"/>
+                <Baseline points="672,844 896,835"/>
                 <TextEquiv>
                     <Unicode>ſitzenden,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r4l5" custom="readingOrder {index:4;}">
                 <Coords points="628,856 849,844 965,837 1192,830 1458,822 1567,822 1567,859 1466,869 1395,874 824,895 714,895 628,891 628,861"/>
-                <Baseline points="628,890 849,883 904,881 929,880 1044,876 1070,875 1135,873 1161,873 1334,867 1568,857"/>
+                <Baseline points="628,890 849,883 904,881 929,880 1044,876 1070,875 1135,873 1161,873 1334,867 1567,857"/>
                 <TextEquiv>
                     <Unicode>den Herrn R. Wolf aus Buckau zum ſtell⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r4l6" custom="readingOrder {index:5;}">
                 <Coords points="677,908 755,896 859,890 1039,880 1269,880 1325,890 1346,906 1346,918 1184,928 885,934 677,934"/>
-                <Baseline points="680,935 984,922 1009,922 1346,913"/>
+                <Baseline points="680,934 984,922 1009,922 1346,913"/>
                 <TextEquiv>
                     <Unicode>vertretenden Vorſitzenden,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r4l7" custom="readingOrder {index:6;}">
                 <Coords points="533,957 553,948 722,941 1424,916 1533,915 1571,924 1571,949 1447,965 691,986 533,985"/>
-                <Baseline points="535,984 675,980 691,979 857,973 873,973 909,972 924,971 1138,965 1150,965 1209,963 1226,962 1260,961 1272,961 1330,959 1570,950"/>
+                <Baseline points="535,984 675,980 691,979 857,973 873,973 909,972 924,971 1138,965 1150,965 1209,963 1226,962 1260,961 1272,961 1330,959 1569,949"/>
                 <TextEquiv>
                     <Unicode>welches hierdurch in Gemäßheit des §. 28 der Statuten</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r4l8" custom="readingOrder {index:7;}">
                 <Coords points="538,995 580,992 769,984 894,980 974,980 974,1015 789,1025 709,1032 538,1030"/>
-                <Baseline points="538,1029 709,1024 975,1015"/>
+                <Baseline points="538,1029 709,1024 974,1015"/>
                 <TextEquiv>
                     <Unicode>bekannt gemacht wird.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r4l9" custom="readingOrder {index:8;}">
                 <Coords points="588,1037 679,1032 1245,1018 1244,1055 682,1080 590,1075"/>
-                <Baseline points="588,1072 853,1064 869,1062 1024,1060 1243,1053"/>
+                <Baseline points="589,1071 853,1064 869,1062 1024,1060 1243,1053"/>
                 <TextEquiv>
                     <Unicode>Magdeburg, den 7. Mai 1877.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r4l10" custom="readingOrder {index:9;}">
                 <Coords points="881,1076 913,1071 1242,1066 1243,1127 1184,1142 1005,1146 882,1137"/>
-                <Baseline points="888,1132 1243,1122"/>
+                <Baseline points="888,1132 1242,1122"/>
                 <TextEquiv>
                     <Unicode>Magdeburger</Unicode>
                 </TextEquiv>
@@ -278,7 +278,7 @@ R. Weinlig.</Unicode>
             </TextLine>
             <TextLine id="r7l4" custom="readingOrder {index:3;}">
                 <Coords points="1801,667 1937,656 2182,646 2497,635 2539,634 2590,633 2602,633 2657,648 2657,662 2636,669 2370,687 1866,704 1708,716 1707,669"/>
-                <Baseline points="1708,709 1898,700 2158,686 2436,676 2497,673 2656,667"/>
+                <Baseline points="1708,709 1898,700 2158,686 2436,676 2497,673 2654,662"/>
                 <TextEquiv>
                     <Unicode>Herr M. Rabbethge, Fabrikbeſitzer in Klein⸗</Unicode>
                 </TextEquiv>
@@ -292,7 +292,7 @@ R. Weinlig.</Unicode>
             </TextLine>
             <TextLine id="r7l6" custom="readingOrder {index:5;}">
                 <Coords points="1715,760 2165,733 2525,726 2606,726 2661,736 2664,757 2609,769 2356,778 1910,793 1715,807"/>
-                <Baseline points="1715,799 1912,787 2147,779 2409,768 2461,766 2525,764 2667,757"/>
+                <Baseline points="1715,799 1912,787 2147,779 2409,768 2461,766 2525,764 2664,757"/>
                 <TextEquiv>
                     <Unicode>Herr Dr. M. Dürre, Fabrikbeſitzer in Suden⸗</Unicode>
                 </TextEquiv>
@@ -320,7 +320,7 @@ R. Weinlig.</Unicode>
             </TextLine>
             <TextLine id="r7l10" custom="readingOrder {index:9;}">
                 <Coords points="1767,938 1958,932 2042,935 2045,969 1769,979 1765,938"/>
-                <Baseline points="1767,976 2042,966"/>
+                <Baseline points="1768,975 2042,966"/>
                 <TextEquiv>
                     <Unicode>Wendeſſen,</Unicode>
                 </TextEquiv>
@@ -486,7 +486,7 @@ R. Weinlig.</Unicode>
             </TextLine>
             <TextLine id="r11l8" custom="readingOrder {index:7;}">
                 <Coords points="663,2451 2662,2380 2664,2421 665,2498"/>
-                <Baseline points="665,2496 1373,2462 2664,2419"/>
+                <Baseline points="665,2496 1373,2462 2663,2419"/>
                 <TextEquiv>
                     <Unicode>Schachtel zu achten. Die zwölf bis jetzt angefertigten Sorten repräsentiren so verschiedene Grade</Unicode>
                 </TextEquiv>
@@ -500,7 +500,7 @@ R. Weinlig.</Unicode>
             </TextLine>
             <TextLine id="r11l10" custom="readingOrder {index:9;}">
                 <Coords points="666,2538 2671,2470 2671,2506 668,2588"/>
-                <Baseline points="668,2583 1670,2542 2674,2509"/>
+                <Baseline points="668,2583 1670,2542 2671,2506"/>
                 <TextEquiv>
                     <Unicode>unter finden wird. Eine besondere Annehmlichkeit für den, der diese Federn noch</Unicode>
                 </TextEquiv>
@@ -514,14 +514,14 @@ R. Weinlig.</Unicode>
             </TextLine>
             <TextLine id="r11l12" custom="readingOrder {index:11;}">
                 <Coords points="672,2643 1990,2583 2405,2571 2433,2571 2652,2576 2668,2583 2668,2590 2652,2598 2474,2613 2144,2628 947,2672 700,2675 669,2675 669,2636"/>
-                <Baseline points="669,2674 700,2673 725,2672 787,2669 813,2668 947,2662 972,2661 1174,2651 1200,2650 1220,2649 1246,2648 1403,2641 1429,2640 1543,2634 1567,2633 1695,2630 1722,2629 1755,2628 1780,2627 1899,2623 1924,2622 2167,2613 2203,2612 2377,2606 2405,2605 2519,2601 2544,2601 2671,2596"/>
+                <Baseline points="669,2674 700,2673 725,2672 787,2669 813,2668 947,2662 972,2661 1174,2651 1200,2650 1220,2649 1246,2648 1403,2641 1429,2640 1543,2634 1567,2633 1695,2630 1722,2629 1755,2628 1780,2627 1899,2623 1924,2622 2167,2613 2203,2612 2377,2606 2405,2605 2519,2601 2544,2601 2668,2590"/>
                 <TextEquiv>
                     <Unicode>à 50 Pfg., enthaltend 2 Dutzend Stück, welche es Jedem ermöglichen, diejenige Façon auszu-</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r11l13" custom="readingOrder {index:12;}">
                 <Coords points="671,2698 727,2684 1131,2664 1543,2647 1622,2644 2359,2618 2567,2613 2585,2613 2647,2621 2670,2626 2670,2637 2647,2645 2562,2657 1798,2682 805,2722 685,2720 671,2720"/>
-                <Baseline points="671,2719 804,2713 852,2711 979,2705 1030,2703 1083,2701 1131,2699 1254,2693 1301,2691 1357,2688 1405,2686 1497,2682 1543,2680 1643,2677 1693,2675 1798,2672 1855,2670 1904,2668 1952,2667 2115,2661 2164,2659 2278,2656 2321,2654 2400,2652 2450,2650 2669,2643"/>
+                <Baseline points="671,2719 804,2713 852,2711 979,2705 1030,2703 1083,2701 1131,2699 1254,2693 1301,2691 1357,2688 1405,2686 1497,2682 1543,2680 1643,2677 1693,2675 1798,2672 1855,2670 1904,2668 1952,2667 2115,2661 2164,2659 2278,2656 2321,2654 2400,2652 2450,2650 2667,2637"/>
                 <TextEquiv>
                     <Unicode>suchen, welche am besten für seine Hand passt. Zu beziehen durch jede Papier-</Unicode>
                 </TextEquiv>
@@ -582,21 +582,21 @@ Fabriks-Niederlage bei S. Löwenhain, 171 Friedrichstrasse, Berlin, W.</Unicode>
             </TextLine>
             <TextLine id="r13l2" custom="readingOrder {index:1;}">
                 <Coords points="828,2985 1924,2942 1926,2992 830,3035"/>
-                <Baseline points="830,3030 1926,2987"/>
+                <Baseline points="830,3030 1925,2987"/>
                 <TextEquiv>
                     <Unicode>Die diesjährige General-Versammlung findet am</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r13l3" custom="readingOrder {index:2;}">
                 <Coords points="616,3052 1238,3026 1977,2998 2621,2973 2734,2990 2736,3040 622,3121"/>
-                <Baseline points="622,3116 1453,3077 2736,3035"/>
+                <Baseline points="622,3116 1453,3077 2735,3035"/>
                 <TextEquiv>
                     <Unicode>Montag, den 11. Juni 1877, Nachmittags 4 Uhr präcise,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r13l4" custom="readingOrder {index:3;}">
                 <Coords points="960,3107 2401,3056 2403,3106 962,3157"/>
-                <Baseline points="962,3152 1640,3122 2403,3101"/>
+                <Baseline points="962,3152 1640,3122 2402,3101"/>
                 <TextEquiv>
                     <Unicode>in unserem Geschäftslokale, Behrenstrasse 43/44,</Unicode>
                 </TextEquiv>
@@ -627,35 +627,35 @@ statt.</Unicode>
             </TextLine>
             <TextLine id="r14l2" custom="readingOrder {index:1;}">
                 <Coords points="904,3244 1788,3218 1791,3256 906,3294"/>
-                <Baseline points="906,3289 1791,3251"/>
+                <Baseline points="906,3289 1790,3251"/>
                 <TextEquiv>
                     <Unicode>1) Vortrag des jährlichen Geschäftsberichts,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r14l3" custom="readingOrder {index:2;}">
                 <Coords points="907,3291 2745,3226 2748,3273 1828,3301 909,3339"/>
-                <Baseline points="909,3336 1554,3307 2748,3268"/>
+                <Baseline points="909,3336 1554,3307 2747,3268"/>
                 <TextEquiv>
                     <Unicode>2) die nach Art. 61 und Nr. 5 der Uebergangs-Bestimmungen des Statuts vom 29. Octo-</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r14l4" custom="readingOrder {index:3;}">
                 <Coords points="979,3330 2236,3295 2238,3336 981,3379"/>
-                <Baseline points="981,3375 1805,3343 2238,3332"/>
+                <Baseline points="981,3375 1805,3343 2237,3332"/>
                 <TextEquiv>
                     <Unicode>ber 1872 vorzunehmenden Ersatzwahlen des Verwaltungsraths.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r14l5" custom="readingOrder {index:4;}">
                 <Coords points="839,3389 1268,3372 1737,3354 2559,3324 2712,3324 2750,3333 2750,3356 2631,3365 2266,3381 1990,3390 1528,3404 888,3426 839,3422"/>
-                <Baseline points="845,3425 1042,3415 1069,3414 1109,3412 1135,3411 1244,3407 1268,3406 1528,3395 1559,3394 1612,3392 1638,3392 2003,3379 2030,3378 2329,3369 2354,3368 2428,3366 2452,3365 2750,3355"/>
+                <Baseline points="845,3422 1042,3415 1069,3414 1109,3412 1135,3411 1244,3407 1268,3406 1528,3395 1559,3394 1612,3392 1638,3392 2003,3379 2030,3378 2329,3369 2354,3368 2428,3366 2452,3365 2750,3355"/>
                 <TextEquiv>
                     <Unicode>Wir laden zu dieser Versammlung die stimmberechtigten Mitbetheiligten und Commanditaire</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r14l6" custom="readingOrder {index:5;}">
                 <Coords points="641,3456 693,3448 769,3438 946,3429 1454,3405 2554,3373 2586,3373 2733,3379 2750,3386 2750,3393 2733,3402 2338,3424 1157,3461 707,3475 664,3476 641,3476"/>
-                <Baseline points="641,3476 744,3472 769,3471 845,3468 870,3467 1063,3459 1090,3458 1157,3455 1183,3454 1261,3451 1286,3450 1335,3448 1361,3447 1415,3445 1439,3444 1725,3434 1748,3433 1909,3428 1935,3427 1998,3425 2023,3424 2144,3420 2171,3420 2247,3417 2265,3417 2360,3413 2384,3413 2447,3411 2471,3410 2530,3408 2554,3407 2749,3403"/>
+                <Baseline points="641,3476 744,3472 769,3471 845,3468 870,3467 1063,3459 1090,3458 1157,3455 1183,3454 1261,3451 1286,3450 1335,3448 1361,3447 1415,3445 1439,3444 1725,3434 1748,3433 1909,3428 1935,3427 1998,3425 2023,3424 2144,3420 2171,3420 2247,3417 2265,3417 2360,3413 2384,3413 2447,3411 2471,3410 2530,3408 2554,3407 2745,3395"/>
                 <TextEquiv>
                     <Unicode>unter dem Bemerken ein, dass sie die Eintrittskarten während der letzten drei Tage vor der Versamm-</Unicode>
                 </TextEquiv>
@@ -669,14 +669,14 @@ statt.</Unicode>
             </TextLine>
             <TextLine id="r14l8" custom="readingOrder {index:7;}">
                 <Coords points="640,3535 1110,3514 1154,3524 1154,3547 814,3571 726,3575 707,3575 640,3567"/>
-                <Baseline points="644,3569 810,3560 834,3559 982,3552 1006,3551 1154,3547"/>
+                <Baseline points="644,3567 810,3560 834,3559 982,3552 1006,3551 1154,3547"/>
                 <TextEquiv>
                     <Unicode>Empfang nehmen können.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r14l9" custom="readingOrder {index:8;}">
                 <Coords points="853,3569 2752,3504 2756,3544 853,3608"/>
-                <Baseline points="856,3603 2756,3539"/>
+                <Baseline points="856,3603 2755,3539"/>
                 <TextEquiv>
                     <Unicode>Die Commanditaire haben ihre Stimmberechtigung durch eine Bescheinigung über die recht-</Unicode>
                 </TextEquiv>
@@ -704,7 +704,7 @@ statt.</Unicode>
             </TextLine>
             <TextLine id="r14l13" custom="readingOrder {index:12;}">
                 <Coords points="647,3759 2764,3681 2766,3728 1564,3765 649,3802"/>
-                <Baseline points="649,3797 1644,3757 2766,3723"/>
+                <Baseline points="649,3797 1644,3757 2765,3723"/>
                 <TextEquiv>
                     <Unicode>öffentlichen Behörde oder einer angesehenen, uns bekannten Firma oder Person führen; auch sind sie</Unicode>
                 </TextEquiv>
@@ -725,14 +725,14 @@ statt.</Unicode>
             </TextLine>
             <TextLine id="r14l16" custom="readingOrder {index:15;}">
                 <Coords points="854,3881 1443,3862 1445,3905 856,3931"/>
-                <Baseline points="856,3926 1445,3900"/>
+                <Baseline points="856,3926 1444,3900"/>
                 <TextEquiv>
                     <Unicode>Berlin, den 17. Mai 1877.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r14l17" custom="readingOrder {index:16;}">
                 <Coords points="1155,3920 1599,3902 2192,3883 2219,3883 2240,3890 2254,3928 2254,3940 2240,3941 1182,3978 1155,3978"/>
-                <Baseline points="1154,3980 1423,3967 1466,3965 1558,3962 1599,3961 2254,3940"/>
+                <Baseline points="1155,3978 1423,3967 1466,3965 1558,3962 1599,3961 2254,3940"/>
                 <TextEquiv>
                     <Unicode>Direction der Disconto-Gesellschaft.</Unicode>
                 </TextEquiv>
@@ -781,7 +781,7 @@ Direction der Disconto-Gesellschaft.</Unicode>
             </TextLine>
             <TextLine id="r16l2" custom="readingOrder {index:1;}">
                 <Coords points="1043,4137 2398,4099 2399,4206 1044,4250"/>
-                <Baseline points="1046,4245 1696,4217 2399,4201"/>
+                <Baseline points="1046,4245 1696,4217 2398,4201"/>
                 <TextEquiv>
                     <Unicode>Geſellſchaft „Vulcan“.</Unicode>
                 </TextEquiv>
@@ -802,14 +802,14 @@ Geſellſchaft „Vulcan“.</Unicode>
             </TextLine>
             <TextLine id="r17l2" custom="readingOrder {index:1;}">
                 <Coords points="666,4324 767,4319 1119,4303 1335,4294 1626,4283 1789,4277 2603,4251 2742,4251 2781,4259 2781,4285 2675,4288 1843,4319 962,4358 818,4364 666,4362"/>
-                <Baseline points="666,4358 709,4359 748,4357 962,4348 1003,4347 1075,4344 1101,4342 1292,4334 1335,4333 1470,4327 1496,4326 1843,4314 1884,4313 2035,4308 2073,4307 2122,4305 2161,4304 2232,4302 2271,4301 2323,4299 2355,4298 2548,4292 2573,4292 2781,4285"/>
+                <Baseline points="666,4358 709,4359 748,4357 962,4348 1003,4347 1075,4344 1101,4342 1292,4334 1335,4333 1470,4327 1496,4326 1843,4314 1884,4313 2035,4308 2073,4307 2122,4305 2161,4304 2232,4302 2271,4301 2323,4299 2355,4298 2548,4292 2572,4291 2781,4285"/>
                 <TextEquiv>
                     <Unicode>C. Metzenthin zum Mitgliede unſeres Verwaltungsraths gewählt iſt, und die bisherigen Mitglieder</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r17l3" custom="readingOrder {index:2;}">
                 <Coords points="668,4371 702,4365 1700,4321 2705,4294 2769,4294 2783,4308 2783,4322 2769,4340 719,4409 668,4405"/>
-                <Baseline points="668,4405 828,4399 852,4398 904,4396 930,4395 1062,4389 1088,4388 1290,4380 1314,4379 1358,4377 1385,4376 1558,4369 1582,4368 1649,4365 1678,4364 1872,4358 1899,4358 1940,4356 1971,4355 2151,4350 2177,4349 2301,4346 2335,4344 2483,4340 2506,4339 2664,4335 2689,4334 2782,4332"/>
+                <Baseline points="668,4405 828,4399 852,4398 904,4396 930,4395 1062,4389 1088,4388 1290,4380 1314,4379 1358,4377 1385,4376 1558,4369 1582,4368 1649,4365 1678,4364 1872,4358 1899,4358 1940,4356 1971,4355 2151,4350 2177,4349 2301,4346 2335,4344 2483,4340 2506,4339 2664,4335 2689,4334 2777,4328"/>
                 <TextEquiv>
                     <Unicode>deſſ lben die Herren Kaufmann A. Schneppe und Stadtrath A. Schlutow wieder gewählt wurden, nach⸗</Unicode>
                 </TextEquiv>
@@ -830,14 +830,14 @@ Geſellſchaft „Vulcan“.</Unicode>
             </TextLine>
             <TextLine id="r17l6" custom="readingOrder {index:5;}">
                 <Coords points="1442,4483 1512,4472 1755,4466 1994,4455 2017,4464 2017,4491 1994,4500 1872,4504 1552,4507 1442,4507"/>
-                <Baseline points="1444,4510 1488,4507 1512,4506 1581,4504 1606,4504 2017,4491"/>
+                <Baseline points="1444,4507 1488,4507 1512,4506 1581,4504 1606,4504 2017,4491"/>
                 <TextEquiv>
                     <Unicode>a. den Verwaltungsrath:</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r17l7" custom="readingOrder {index:6;}">
                 <Coords points="1019,4537 1042,4535 1080,4532 1214,4528 2115,4491 2308,4487 2364,4501 2364,4530 2308,4539 1054,4576 1042,4579 1019,4570"/>
-                <Baseline points="1020,4573 1193,4565 1375,4558 1400,4557 1744,4545 1770,4544 1881,4541 1905,4540 2095,4534 2115,4533 2364,4525"/>
+                <Baseline points="1020,4570 1193,4565 1375,4558 1400,4557 1744,4545 1770,4544 1881,4541 1905,4540 2095,4534 2115,4533 2364,4525"/>
                 <TextEquiv>
                     <Unicode>1) Herr Geheimer Commerzien⸗Rath Ferd. Brumm, Vorſitzender,</Unicode>
                 </TextEquiv>
@@ -858,14 +858,14 @@ Geſellſchaft „Vulcan“.</Unicode>
             </TextLine>
             <TextLine id="r17l10" custom="readingOrder {index:9;}">
                 <Coords points="1024,4671 1518,4651 1657,4651 1705,4656 1705,4685 1062,4708 1050,4712 1024,4703"/>
-                <Baseline points="1025,4704 1123,4702 1175,4700 1200,4700 1400,4693 1424,4692 1472,4691 1496,4690 1707,4681"/>
+                <Baseline points="1025,4703 1123,4702 1175,4700 1200,4700 1400,4693 1424,4692 1472,4691 1496,4690 1705,4681"/>
                 <TextEquiv>
                     <Unicode>4) Herr Kaufmann A. Schneppe,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r17l11" custom="readingOrder {index:10;}">
                 <Coords points="1024,4715 2030,4681 2031,4726 1023,4759"/>
-                <Baseline points="1029,4753 2032,4718"/>
+                <Baseline points="1029,4753 2030,4718"/>
                 <TextEquiv>
                     <Unicode>5) Herr Kaufmann und Stadtrath A. Schlutow,</Unicode>
                 </TextEquiv>
@@ -879,14 +879,14 @@ Geſellſchaft „Vulcan“.</Unicode>
             </TextLine>
             <TextLine id="r17l13" custom="readingOrder {index:12;}">
                 <Coords points="1032,4807 1764,4780 1766,4823 1032,4846"/>
-                <Baseline points="1032,4841 1766,4818"/>
+                <Baseline points="1032,4841 1765,4818"/>
                 <TextEquiv>
                     <Unicode>7) Herr Kaufmann Carl Greffrath,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r17l14" custom="readingOrder {index:13;}">
                 <Coords points="1030,4849 2120,4809 2121,4859 1032,4894"/>
-                <Baseline points="1036,4889 1566,4869 2121,4854"/>
+                <Baseline points="1036,4889 1566,4869 2120,4854"/>
                 <TextEquiv>
                     <Unicode>8) Herr Kaufmann und Stadtrath O. F. Gadebuſch;</Unicode>
                 </TextEquiv>
@@ -935,7 +935,7 @@ Geſellſchaft „Vulcan“.</Unicode>
             </TextLine>
             <TextLine id="r17l21" custom="readingOrder {index:20;}">
                 <Coords points="1448,5149 1467,5149 1479,5178 1481,5190 1325,5194 1071,5208 935,5210 898,5210 898,5167"/>
-                <Baseline points="901,5212 1096,5202 1158,5199 1186,5197 1238,5195 1265,5194 1354,5190 1380,5188 1479,5184"/>
+                <Baseline points="901,5210 1096,5202 1158,5199 1186,5197 1238,5195 1265,5194 1354,5190 1380,5188 1479,5184"/>
                 <TextEquiv>
                     <Unicode>Stettin, den 10. Mai 1877.</Unicode>
                 </TextEquiv>
@@ -949,7 +949,7 @@ Geſellſchaft „Vulcan“.</Unicode>
             </TextLine>
             <TextLine id="r17l23" custom="readingOrder {index:22;}">
                 <Coords points="747,5302 849,5297 1463,5274 2065,5254 2651,5237 2683,5237 2752,5238 2769,5257 2769,5269 2752,5270 2712,5272 1927,5304 785,5335 747,5335"/>
-                <Baseline points="750,5336 896,5330 923,5329 1158,5321 1217,5318 1407,5311 1463,5309 1659,5302 1710,5299 1994,5291 2050,5289 2324,5282 2372,5280 2462,5278 2486,5277 2769,5269"/>
+                <Baseline points="750,5335 896,5330 923,5329 1158,5321 1217,5318 1407,5311 1463,5309 1659,5302 1710,5299 1994,5291 2050,5289 2324,5282 2372,5280 2462,5278 2486,5277 2769,5269"/>
                 <TextEquiv>
                     <Unicode>Ferd. Brumm. Rahm. Haker. Schneppe. Schlutow. Dr. Delbrück.</Unicode>
                 </TextEquiv>
@@ -1012,7 +1012,7 @@ Greffrath. Gadebusch.</Unicode>
             </TextLine>
             <TextLine id="r19l2" custom="readingOrder {index:1;}">
                 <Coords points="1324,5504 1476,5489 2112,5466 2134,5466 2180,5475 2180,5502 2134,5510 2011,5519 1585,5532 1504,5535 1324,5532"/>
-                <Baseline points="1325,5534 2180,5502"/>
+                <Baseline points="1325,5532 2180,5502"/>
                 <TextEquiv>
                     <Unicode>a. der Bergiſch⸗Märkiſchen Eiſenbahn.</Unicode>
                 </TextEquiv>
@@ -1046,14 +1046,14 @@ a. der Bergiſch⸗Märkiſchen Eiſenbahn.</Unicode>
                 </TextLine>
                 <TextLine id="TableCell_1642583865679_868l2" custom="readingOrder {index:2;}">
                     <Coords points="1483,5682 1501,5679 1582,5679 1582,5716 1526,5725 1483,5719"/>
-                    <Baseline points="1483,5720 1582,5716"/>
+                    <Baseline points="1483,5719 1582,5716"/>
                     <TextEquiv>
                         <Unicode>April</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="TableCell_1642583865679_868l3" custom="readingOrder {index:3;}">
                     <Coords points="1507,5730 1550,5730 1552,5769 1509,5769"/>
-                    <Baseline points="1507,5763 1550,5763"/>
+                    <Baseline points="1508,5762 1550,5763"/>
                     <TextEquiv>
                         <Unicode>ℳ</Unicode>
                     </TextEquiv>
@@ -1064,21 +1064,21 @@ a. der Bergiſch⸗Märkiſchen Eiſenbahn.</Unicode>
                 <Coords points="1657,5555 1665,5771 1962,5762 1956,5550"/>
                 <TextLine id="line_1644599415549_37" custom="readingOrder {index:0;}">
                     <Coords points="1722,5622 1905,5622 1905,5665 1724,5669"/>
-                    <Baseline points="1724,5667 1906,5663"/>
+                    <Baseline points="1724,5667 1905,5663"/>
                     <TextEquiv>
                         <Unicode>bis Ende</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="line_1644599430741_42" custom="readingOrder {index:1;}">
                     <Coords points="1761,5670 1865,5666 1867,5711 1763,5717"/>
-                    <Baseline points="1766,5712 1867,5708"/>
+                    <Baseline points="1766,5712 1866,5708"/>
                     <TextEquiv>
                         <Unicode>April</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="line_1644599479864_50" custom="readingOrder {index:2;}">
                     <Coords points="1788,5719 1838,5717 1840,5757 1790,5759"/>
-                    <Baseline points="1791,5754 1840,5752"/>
+                    <Baseline points="1791,5754 1839,5752"/>
                     <TextEquiv>
                         <Unicode>ℳ</Unicode>
                     </TextEquiv>
@@ -1096,21 +1096,21 @@ a. der Bergiſch⸗Märkiſchen Eiſenbahn.</Unicode>
                 </TextLine>
                 <TextLine id="TableCell_1642583865750_876l1" custom="readingOrder {index:1;}">
                     <Coords points="2004,5616 2108,5613 2212,5613 2212,5649 2132,5655 2006,5655"/>
-                    <Baseline points="2006,5655 2214,5649"/>
+                    <Baseline points="2006,5655 2212,5649"/>
                     <TextEquiv>
                         <Unicode>im Monat</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="TableCell_1642583865750_876l2" custom="readingOrder {index:2;}">
                     <Coords points="2056,5662 2130,5659 2158,5659 2158,5696 2106,5703 2087,5703 2056,5699"/>
-                    <Baseline points="2056,5699 2159,5696"/>
+                    <Baseline points="2056,5699 2158,5696"/>
                     <TextEquiv>
                         <Unicode>April</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="line_1644599607567_66" custom="readingOrder {index:3;}">
                     <Coords points="2082,5707 2129,5706 2130,5746 2083,5747"/>
-                    <Baseline points="2083,5742 2130,5741"/>
+                    <Baseline points="2083,5742 2129,5741"/>
                     <TextEquiv>
                         <Unicode>ℳ</Unicode>
                     </TextEquiv>
@@ -1121,21 +1121,21 @@ a. der Bergiſch⸗Märkiſchen Eiſenbahn.</Unicode>
                 <Coords points="2245,5545 2250,5753 2547,5744 2539,5541"/>
                 <TextLine id="line_1644599647689_77" custom="readingOrder {index:0;}">
                     <Coords points="2308,5602 2492,5599 2493,5647 2309,5650"/>
-                    <Baseline points="2309,5647 2493,5644"/>
+                    <Baseline points="2309,5647 2492,5644"/>
                     <TextEquiv>
                         <Unicode>bis Ende</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="line_1644599656810_82" custom="readingOrder {index:1;}">
                     <Coords points="2344,5651 2453,5648 2454,5692 2345,5695"/>
-                    <Baseline points="2349,5692 2454,5689"/>
+                    <Baseline points="2349,5692 2453,5689"/>
                     <TextEquiv>
                         <Unicode>April</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="line_1644599665945_87" custom="readingOrder {index:2;}">
                     <Coords points="2378,5697 2429,5696 2430,5738 2379,5739"/>
-                    <Baseline points="2380,5734 2430,5733"/>
+                    <Baseline points="2380,5734 2429,5733"/>
                     <TextEquiv>
                         <Unicode>ℳ</Unicode>
                     </TextEquiv>
@@ -1146,21 +1146,21 @@ a. der Bergiſch⸗Märkiſchen Eiſenbahn.</Unicode>
                 <Coords points="2539,5541 2547,5744 2834,5736 2814,5537"/>
                 <TextLine id="line_1644599719083_100" custom="readingOrder {index:0;}">
                     <Coords points="2643,5555 2736,5554 2738,5596 2645,5597"/>
-                    <Baseline points="2644,5593 2731,5592"/>
+                    <Baseline points="2644,5592 2731,5592"/>
                     <TextEquiv>
                         <Unicode>1877</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="line_1644599734041_105" custom="readingOrder {index:1;}">
                     <Coords points="2598,5601 2779,5598 2780,5640 2599,5643"/>
-                    <Baseline points="2599,5639 2780,5636"/>
+                    <Baseline points="2599,5639 2779,5636"/>
                     <TextEquiv>
                         <Unicode>bis Ende</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="line_1644599743656_110" custom="readingOrder {index:2;}">
                     <Coords points="2644,5645 2752,5643 2753,5687 2645,5689"/>
-                    <Baseline points="2645,5684 2753,5682"/>
+                    <Baseline points="2645,5684 2752,5682"/>
                     <TextEquiv>
                         <Unicode>April</Unicode>
                     </TextEquiv>
@@ -1178,7 +1178,7 @@ a. der Bergiſch⸗Märkiſchen Eiſenbahn.</Unicode>
                 <Coords points="702,5800 703,5881 1381,5848 1380,5779"/>
                 <TextLine id="line_1644599835639_136" custom="readingOrder {index:0;}">
                     <Coords points="714,5831 1022,5821 1023,5867 715,5877"/>
-                    <Baseline points="716,5872 1023,5862"/>
+                    <Baseline points="716,5872 1022,5862"/>
                     <TextEquiv>
                         <Unicode>Perſonenverkehr</Unicode>
                     </TextEquiv>
@@ -1200,7 +1200,7 @@ a. der Bergiſch⸗Märkiſchen Eiſenbahn.</Unicode>
                 <Coords points="1380,5779 1381,5848 1666,5838 1665,5771"/>
                 <TextLine id="line_1644599962770_170" custom="readingOrder {index:0;}">
                     <Coords points="1499,5804 1642,5800 1643,5841 1500,5845"/>
-                    <Baseline points="1502,5840 1643,5836"/>
+                    <Baseline points="1502,5840 1642,5836"/>
                     <TextEquiv>
                         <Unicode>936,950</Unicode>
                     </TextEquiv>
@@ -1211,7 +1211,7 @@ a. der Bergiſch⸗Märkiſchen Eiſenbahn.</Unicode>
                 <Coords points="1381,5848 1383,5895 1668,5886 1666,5838"/>
                 <TextLine id="line_1644599993437_180" custom="readingOrder {index:0;}">
                     <Coords points="1467,5851 1644,5846 1645,5887 1468,5892"/>
-                    <Baseline points="1470,5886 1645,5882"/>
+                    <Baseline points="1470,5886 1644,5882"/>
                     <TextEquiv>
                         <Unicode>2,892,744</Unicode>
                     </TextEquiv>
@@ -1222,7 +1222,7 @@ a. der Bergiſch⸗Märkiſchen Eiſenbahn.</Unicode>
                 <Coords points="1665,5771 1666,5838 1962,5829 1962,5762"/>
                 <TextLine id="line_1644600095595_208" custom="readingOrder {index:0;}">
                     <Coords points="1750,5797 1933,5793 1934,5836 1751,5840"/>
-                    <Baseline points="1751,5835 1934,5831"/>
+                    <Baseline points="1751,5835 1933,5831"/>
                     <TextEquiv>
                         <Unicode>3,218,510</Unicode>
                     </TextEquiv>
@@ -1233,7 +1233,7 @@ a. der Bergiſch⸗Märkiſchen Eiſenbahn.</Unicode>
                 <Coords points="1666,5838 1668,5886 1963,5876 1962,5829"/>
                 <TextLine id="line_1644600122432_217" custom="readingOrder {index:0;}">
                     <Coords points="1732,5843 1933,5840 1934,5882 1733,5885"/>
-                    <Baseline points="1733,5880 1934,5877"/>
+                    <Baseline points="1733,5880 1933,5877"/>
                     <TextEquiv>
                         <Unicode>11,678,751</Unicode>
                     </TextEquiv>
@@ -1244,7 +1244,7 @@ a. der Bergiſch⸗Märkiſchen Eiſenbahn.</Unicode>
                 <Coords points="1962,5762 1962,5829 2250,5819 2250,5753"/>
                 <TextLine id="line_1644600202530_238" custom="readingOrder {index:0;}">
                     <Coords points="2045,5789 2227,5783 2228,5824 2046,5830"/>
-                    <Baseline points="2046,5825 2228,5819"/>
+                    <Baseline points="2046,5825 2227,5819"/>
                     <TextEquiv>
                         <Unicode>1,035,430</Unicode>
                     </TextEquiv>
@@ -1255,7 +1255,7 @@ a. der Bergiſch⸗Märkiſchen Eiſenbahn.</Unicode>
                 <Coords points="1962,5829 1963,5876 2251,5866 2250,5819"/>
                 <TextLine id="line_1644600212470_243" custom="readingOrder {index:0;}">
                     <Coords points="2045,5833 2226,5828 2227,5870 2046,5875"/>
-                    <Baseline points="2046,5870 2227,5865"/>
+                    <Baseline points="2046,5870 2226,5865"/>
                     <TextEquiv>
                         <Unicode>3,126,355</Unicode>
                     </TextEquiv>
@@ -1288,7 +1288,7 @@ a. der Bergiſch⸗Märkiſchen Eiſenbahn.</Unicode>
                 <Coords points="2547,5744 2548,5809 2834,5800 2834,5736"/>
                 <TextLine id="line_1644600371109_301" custom="readingOrder {index:0;}">
                     <Coords points="2579,5770 2832,5764 2833,5805 2580,5811"/>
-                    <Baseline points="2581,5809 2834,5803"/>
+                    <Baseline points="2581,5809 2832,5803"/>
                     <TextEquiv>
                         <Unicode>- 137,268</Unicode>
                     </TextEquiv>
@@ -1299,7 +1299,7 @@ a. der Bergiſch⸗Märkiſchen Eiſenbahn.</Unicode>
                 <Coords points="2548,5809 2549,5856 2836,5847 2834,5800"/>
                 <TextLine id="line_1644600380448_306" custom="readingOrder {index:0;}">
                     <Coords points="2579,5810 2832,5801 2834,5851 2581,5860"/>
-                    <Baseline points="2581,5855 2834,5846"/>
+                    <Baseline points="2581,5855 2833,5846"/>
                     <TextEquiv>
                         <Unicode>- 660,337</Unicode>
                     </TextEquiv>
@@ -1310,7 +1310,7 @@ a. der Bergiſch⸗Märkiſchen Eiſenbahn.</Unicode>
                 <Coords points="703,5918 704,5972 1385,5949 1383,5895"/>
                 <TextLine id="line_1644599852459_146" custom="readingOrder {index:0;}">
                     <Coords points="718,5925 1023,5913 1025,5957 720,5969"/>
-                    <Baseline points="720,5964 1025,5952"/>
+                    <Baseline points="720,5964 1024,5952"/>
                     <TextEquiv>
                         <Unicode>Extraordinarien</Unicode>
                     </TextEquiv>
@@ -1321,7 +1321,7 @@ a. der Bergiſch⸗Märkiſchen Eiſenbahn.</Unicode>
                 <Coords points="1383,5895 1385,5949 1670,5939 1668,5886"/>
                 <TextLine id="line_1644600032047_189" custom="readingOrder {index:0;}">
                     <Coords points="1503,5895 1648,5891 1649,5932 1504,5936"/>
-                    <Baseline points="1506,5931 1649,5927"/>
+                    <Baseline points="1506,5931 1648,5927"/>
                     <TextEquiv>
                         <Unicode>305,000</Unicode>
                     </TextEquiv>
@@ -1332,7 +1332,7 @@ a. der Bergiſch⸗Märkiſchen Eiſenbahn.</Unicode>
                 <Coords points="1668,5886 1670,5939 1964,5929 1963,5876"/>
                 <TextLine id="line_1644600158169_226" custom="readingOrder {index:0;}">
                     <Coords points="1756,5890 1936,5886 1937,5926 1758,5929"/>
-                    <Baseline points="1758,5924 1937,5921"/>
+                    <Baseline points="1758,5924 1936,5921"/>
                     <TextEquiv>
                         <Unicode>1,220,000</Unicode>
                     </TextEquiv>
@@ -1343,7 +1343,7 @@ a. der Bergiſch⸗Märkiſchen Eiſenbahn.</Unicode>
                 <Coords points="1963,5876 1964,5929 2252,5919 2251,5866"/>
                 <TextLine id="line_1644600222897_248" custom="readingOrder {index:0;}">
                     <Coords points="2078,5878 2230,5875 2231,5916 2079,5919"/>
-                    <Baseline points="2079,5914 2231,5911"/>
+                    <Baseline points="2079,5914 2230,5911"/>
                     <TextEquiv>
                         <Unicode>300,000</Unicode>
                     </TextEquiv>
@@ -1365,7 +1365,7 @@ a. der Bergiſch⸗Märkiſchen Eiſenbahn.</Unicode>
                 <Coords points="2549,5856 2551,5909 2839,5900 2836,5847"/>
                 <TextLine id="line_1644600390095_311" custom="readingOrder {index:0;}">
                     <Coords points="2582,5862 2836,5848 2838,5898 2584,5912"/>
-                    <Baseline points="2584,5902 2838,5893"/>
+                    <Baseline points="2584,5902 2837,5893"/>
                     <TextEquiv>
                         <Unicode>+ 20,000</Unicode>
                     </TextEquiv>
@@ -1376,7 +1376,7 @@ a. der Bergiſch⸗Märkiſchen Eiſenbahn.</Unicode>
                 <Coords points="704,5972 705,6018 1387,5997 1385,5949"/>
                 <TextLine id="line_1644599912751_160" custom="readingOrder {index:0;}">
                     <Coords points="1132,5962 1294,5955 1296,6002 1134,6009"/>
-                    <Baseline points="1138,6004 1296,5997"/>
+                    <Baseline points="1138,6004 1295,5997"/>
                     <TextEquiv>
                         <Unicode>Summa</Unicode>
                     </TextEquiv>
@@ -1420,7 +1420,7 @@ a. der Bergiſch⸗Märkiſchen Eiſenbahn.</Unicode>
                 <Coords points="2252,5919 2253,5971 2553,5961 2551,5909"/>
                 <TextLine id="line_1644600495037_343" custom="readingOrder {index:0;}">
                     <Coords points="2318,5925 2524,5922 2525,5963 2319,5966"/>
-                    <Baseline points="2321,5963 2525,5958"/>
+                    <Baseline points="2321,5963 2524,5958"/>
                     <TextEquiv>
                         <Unicode>16,894,866</Unicode>
                     </TextEquiv>
@@ -1431,7 +1431,7 @@ a. der Bergiſch⸗Märkiſchen Eiſenbahn.</Unicode>
                 <Coords points="2551,5909 2553,5961 2841,5954 2839,5900"/>
                 <TextLine id="line_1644600437558_323" custom="readingOrder {index:0;}">
                     <Coords points="2582,5918 2839,5911 2840,5954 2583,5961"/>
-                    <Baseline points="2583,5956 2840,5949"/>
+                    <Baseline points="2583,5956 2839,5949"/>
                     <TextEquiv>
                         <Unicode>- 777,605</Unicode>
                     </TextEquiv>
@@ -1453,7 +1453,7 @@ a. der Bergiſch⸗Märkiſchen Eiſenbahn.</Unicode>
                 <Coords points="1387,5997 1389,6055 1674,6044 1672,5988"/>
                 <TextLine id="line_1644600657240_381" custom="readingOrder {index:0;}">
                     <Coords points="1507,5995 1650,5990 1652,6033 1509,6038"/>
-                    <Baseline points="1511,6033 1652,6028"/>
+                    <Baseline points="1511,6033 1651,6028"/>
                     <TextEquiv>
                         <Unicode>327,091</Unicode>
                     </TextEquiv>
@@ -1464,7 +1464,7 @@ a. der Bergiſch⸗Märkiſchen Eiſenbahn.</Unicode>
                 <Coords points="1672,5988 1674,6044 1966,6034 1965,5979"/>
                 <TextLine id="line_1644600694032_391" custom="readingOrder {index:0;}">
                     <Coords points="1790,5989 1938,5986 1939,6026 1863,6032 1791,6029"/>
-                    <Baseline points="1793,6024 1939,6021"/>
+                    <Baseline points="1793,6024 1938,6021"/>
                     <TextEquiv>
                         <Unicode>777,605</Unicode>
                     </TextEquiv>
@@ -1518,7 +1518,7 @@ a. der Bergiſch⸗Märkiſchen Eiſenbahn.</Unicode>
                 <Coords points="709,6138 710,6186 1394,6165 1392,6115"/>
                 <TextLine id="line_1644600807898_425" custom="readingOrder {index:0;}">
                     <Coords points="725,6145 1029,6138 1030,6182 726,6189"/>
-                    <Baseline points="730,6184 1030,6177"/>
+                    <Baseline points="730,6184 1029,6177"/>
                     <TextEquiv>
                         <Unicode>Perſonenverkehr</Unicode>
                     </TextEquiv>
@@ -1529,7 +1529,7 @@ a. der Bergiſch⸗Märkiſchen Eiſenbahn.</Unicode>
                 <Coords points="1392,6115 1394,6165 1679,6156 1677,6105"/>
                 <TextLine id="line_1644600839491_434" custom="readingOrder {index:0;}">
                     <Coords points="1531,6115 1658,6112 1659,6156 1532,6159"/>
-                    <Baseline points="1536,6154 1659,6151"/>
+                    <Baseline points="1536,6154 1658,6151"/>
                     <TextEquiv>
                         <Unicode>49,350</Unicode>
                     </TextEquiv>
@@ -1540,7 +1540,7 @@ a. der Bergiſch⸗Märkiſchen Eiſenbahn.</Unicode>
                 <Coords points="1677,6105 1679,6156 1970,6146 1968,6095"/>
                 <TextLine id="line_1644600867865_443" custom="readingOrder {index:0;}">
                     <Coords points="1798,6112 1943,6110 1944,6150 1799,6152"/>
-                    <Baseline points="1803,6150 1944,6147"/>
+                    <Baseline points="1803,6150 1943,6147"/>
                     <TextEquiv>
                         <Unicode>171,690</Unicode>
                     </TextEquiv>
@@ -1562,7 +1562,7 @@ a. der Bergiſch⸗Märkiſchen Eiſenbahn.</Unicode>
                 <Coords points="2256,6085 2258,6137 2560,6128 2558,6075"/>
                 <TextLine id="line_1644600971699_466" custom="readingOrder {index:0;}">
                     <Coords points="2383,6089 2525,6086 2526,6131 2384,6134"/>
-                    <Baseline points="2384,6129 2526,6126"/>
+                    <Baseline points="2384,6129 2525,6126"/>
                     <TextEquiv>
                         <Unicode>185,641</Unicode>
                     </TextEquiv>
@@ -1573,7 +1573,7 @@ a. der Bergiſch⸗Märkiſchen Eiſenbahn.</Unicode>
                 <Coords points="2558,6075 2560,6128 2841,6119 2838,6066"/>
                 <TextLine id="line_1644600997910_475" custom="readingOrder {index:0;}">
                     <Coords points="2587,6086 2841,6079 2842,6123 2588,6130"/>
-                    <Baseline points="2588,6124 2842,6117"/>
+                    <Baseline points="2588,6124 2841,6117"/>
                     <TextEquiv>
                         <Unicode>- 13,951</Unicode>
                     </TextEquiv>
@@ -1595,7 +1595,7 @@ a. der Bergiſch⸗Märkiſchen Eiſenbahn.</Unicode>
                 <Coords points="1394,6165 1396,6209 1681,6200 1679,6156"/>
                 <TextLine id="line_1644601073460_486" custom="readingOrder {index:0;}">
                     <Coords points="1510,6164 1656,6159 1658,6201 1512,6206"/>
-                    <Baseline points="1514,6201 1658,6196"/>
+                    <Baseline points="1514,6201 1657,6196"/>
                     <TextEquiv>
                         <Unicode>383,152</Unicode>
                     </TextEquiv>
@@ -1606,7 +1606,7 @@ a. der Bergiſch⸗Märkiſchen Eiſenbahn.</Unicode>
                 <Coords points="1679,6156 1681,6200 1971,6191 1970,6146"/>
                 <TextLine id="line_1644601101583_495" custom="readingOrder {index:0;}">
                     <Coords points="1764,6157 1943,6153 1944,6194 1765,6198"/>
-                    <Baseline points="1765,6193 1944,6189"/>
+                    <Baseline points="1765,6193 1943,6189"/>
                     <TextEquiv>
                         <Unicode>1,634,510</Unicode>
                     </TextEquiv>
@@ -1617,7 +1617,7 @@ a. der Bergiſch⸗Märkiſchen Eiſenbahn.</Unicode>
                 <Coords points="1970,6146 1971,6191 2259,6182 2258,6137"/>
                 <TextLine id="line_1644601127262_504" custom="readingOrder {index:0;}">
                     <Coords points="2083,6148 2237,6142 2239,6184 2085,6190"/>
-                    <Baseline points="2085,6185 2239,6179"/>
+                    <Baseline points="2085,6185 2238,6179"/>
                     <TextEquiv>
                         <Unicode>429,248</Unicode>
                     </TextEquiv>
@@ -1628,7 +1628,7 @@ a. der Bergiſch⸗Märkiſchen Eiſenbahn.</Unicode>
                 <Coords points="2258,6137 2259,6182 2562,6173 2560,6128"/>
                 <TextLine id="line_1644601161609_512" custom="readingOrder {index:0;}">
                     <Coords points="2350,6137 2531,6134 2532,6176 2351,6179"/>
-                    <Baseline points="2351,6174 2532,6171"/>
+                    <Baseline points="2351,6174 2531,6171"/>
                     <TextEquiv>
                         <Unicode>1,885,766</Unicode>
                     </TextEquiv>
@@ -1650,7 +1650,7 @@ a. der Bergiſch⸗Märkiſchen Eiſenbahn.</Unicode>
                 <Coords points="711,6231 712,6277 1398,6256 1396,6209"/>
                 <TextLine id="line_1644601233013_531" custom="readingOrder {index:0;}">
                     <Coords points="732,6238 1032,6232 1033,6272 733,6278"/>
-                    <Baseline points="737,6275 1033,6269"/>
+                    <Baseline points="737,6275 1032,6269"/>
                     <TextEquiv>
                         <Unicode>Extraordinarien</Unicode>
                     </TextEquiv>
@@ -1661,7 +1661,7 @@ a. der Bergiſch⸗Märkiſchen Eiſenbahn.</Unicode>
                 <Coords points="1396,6209 1398,6256 1683,6247 1681,6200"/>
                 <TextLine id="line_1644601286789_543" custom="readingOrder {index:0;}">
                     <Coords points="1530,6211 1661,6209 1662,6248 1531,6250"/>
-                    <Baseline points="1538,6247 1662,6243"/>
+                    <Baseline points="1538,6247 1661,6243"/>
                     <TextEquiv>
                         <Unicode>24,000</Unicode>
                     </TextEquiv>
@@ -1716,7 +1716,7 @@ a. der Bergiſch⸗Märkiſchen Eiſenbahn.</Unicode>
                 <Coords points="712,6277 719,6326 1408,6314 1398,6256"/>
                 <TextLine id="line_1644601486805_594" custom="readingOrder {index:0;}">
                     <Coords points="1142,6281 1302,6278 1303,6322 1143,6325"/>
-                    <Baseline points="1147,6320 1303,6317"/>
+                    <Baseline points="1147,6320 1302,6317"/>
                     <TextEquiv>
                         <Unicode>Summa</Unicode>
                     </TextEquiv>
@@ -1782,7 +1782,7 @@ a. der Bergiſch⸗Märkiſchen Eiſenbahn.</Unicode>
                 <Coords points="719,6326 715,6386 1403,6367 1408,6314"/>
                 <TextLine id="line_1644601729356_652" custom="readingOrder {index:0;}">
                     <Coords points="738,6332 1065,6326 1066,6372 739,6378"/>
-                    <Baseline points="742,6373 1066,6367"/>
+                    <Baseline points="742,6373 1065,6367"/>
                     <TextEquiv>
                         <Unicode>in 1877 weniger</Unicode>
                     </TextEquiv>
@@ -1827,7 +1827,7 @@ a. der Bergiſch⸗Märkiſchen Eiſenbahn.</Unicode>
                 <Coords points="715,6386 717,6446 1406,6425 1403,6367"/>
                 <TextLine id="line_1644601899283_710" custom="readingOrder {index:0;}">
                     <Coords points="1054,6389 2518,6345 2519,6395 1055,6439"/>
-                    <Baseline points="1061,6433 2519,6390"/>
+                    <Baseline points="1061,6433 2518,6390"/>
                     <TextEquiv>
                         <Unicode>c. der Bergiſch⸗Märkiſchen und Ruhr⸗Sieg⸗Eiſenbahn zuſammen.</Unicode>
                     </TextEquiv>
@@ -1858,7 +1858,7 @@ a. der Bergiſch⸗Märkiſchen Eiſenbahn.</Unicode>
                 <Coords points="717,6446 719,6496 1408,6475 1406,6425"/>
                 <TextLine id="line_1644601933136_720" custom="readingOrder {index:0;}">
                     <Coords points="1151,6447 1309,6442 1310,6484 1152,6489"/>
-                    <Baseline points="1157,6484 1310,6479"/>
+                    <Baseline points="1157,6484 1309,6479"/>
                     <TextEquiv>
                         <Unicode>Summa</Unicode>
                     </TextEquiv>
@@ -1869,7 +1869,7 @@ a. der Bergiſch⸗Märkiſchen Eiſenbahn.</Unicode>
                 <Coords points="1406,6425 1408,6475 1693,6466 1691,6417"/>
                 <TextLine id="line_1644601972533_729" custom="readingOrder {index:0;}">
                     <Coords points="1480,6437 1663,6430 1665,6472 1482,6479"/>
-                    <Baseline points="1483,6474 1665,6467"/>
+                    <Baseline points="1483,6474 1664,6467"/>
                     <TextEquiv>
                         <Unicode>4,591,196</Unicode>
                     </TextEquiv>
@@ -1891,7 +1891,7 @@ a. der Bergiſch⸗Märkiſchen Eiſenbahn.</Unicode>
                 <Coords points="1979,6408 1981,6457 2269,6448 2267,6399"/>
                 <TextLine id="line_1644602028815_748" custom="readingOrder {index:0;}">
                     <Coords points="2061,6419 2244,6414 2245,6456 2062,6461"/>
-                    <Baseline points="2062,6456 2245,6451"/>
+                    <Baseline points="2062,6456 2244,6451"/>
                     <TextEquiv>
                         <Unicode>4,977,140</Unicode>
                     </TextEquiv>
@@ -1902,7 +1902,7 @@ a. der Bergiſch⸗Märkiſchen Eiſenbahn.</Unicode>
                 <Coords points="2267,6399 2269,6448 2574,6439 2572,6390"/>
                 <TextLine id="line_1644602053194_757" custom="readingOrder {index:0;}">
                     <Coords points="2330,6410 2536,6406 2537,6448 2331,6452"/>
-                    <Baseline points="2331,6447 2537,6443"/>
+                    <Baseline points="2331,6447 2536,6443"/>
                     <TextEquiv>
                         <Unicode>19,074,273</Unicode>
                     </TextEquiv>
@@ -1913,7 +1913,7 @@ a. der Bergiſch⸗Märkiſchen Eiſenbahn.</Unicode>
                 <Coords points="2572,6390 2574,6439 2858,6430 2855,6382"/>
                 <TextLine id="line_1644602080263_766" custom="readingOrder {index:0;}">
                     <Coords points="2598,6401 2854,6393 2855,6436 2599,6444"/>
-                    <Baseline points="2599,6439 2855,6431"/>
+                    <Baseline points="2599,6439 2854,6431"/>
                     <TextEquiv>
                         <Unicode>- 1,054,812</Unicode>
                     </TextEquiv>
@@ -1935,7 +1935,7 @@ a. der Bergiſch⸗Märkiſchen Eiſenbahn.</Unicode>
                 <Coords points="1408,6475 1410,6521 1695,6508 1693,6466"/>
                 <TextLine id="line_1644602127397_788" custom="readingOrder {index:0;}">
                     <Coords points="1518,6481 1663,6477 1664,6519 1519,6523"/>
-                    <Baseline points="1519,6518 1664,6514"/>
+                    <Baseline points="1519,6518 1663,6514"/>
                     <TextEquiv>
                         <Unicode>385,944</Unicode>
                     </TextEquiv>
@@ -1946,7 +1946,7 @@ a. der Bergiſch⸗Märkiſchen Eiſenbahn.</Unicode>
                 <Coords points="1693,6466 1695,6508 1983,6496 1981,6457"/>
                 <TextLine id="line_1644602138015_793" custom="readingOrder {index:0;}">
                     <Coords points="1772,6471 1953,6464 1955,6507 1774,6514"/>
-                    <Baseline points="1774,6509 1955,6502"/>
+                    <Baseline points="1774,6509 1954,6502"/>
                     <TextEquiv>
                         <Unicode>1,054,812</Unicode>
                     </TextEquiv>
@@ -1996,7 +1996,7 @@ a. der Bergiſch⸗Märkiſchen Eiſenbahn.</Unicode>
             <Coords points="2684,474 2827,465 2821,380 4794,306 4835,564 2696,638"/>
             <TextLine id="r22l1" custom="readingOrder {index:0;}">
                 <Coords points="3349,384 4148,357 4154,439 3353,463"/>
-                <Baseline points="3354,452 4153,422"/>
+                <Baseline points="3354,452 4152,422"/>
                 <TextEquiv>
                     <Unicode>Rechnungs⸗Abſchluß</Unicode>
                 </TextEquiv>
@@ -2053,7 +2053,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="4784,604 4786,653 4888,650 4888,601"/>
                 <TextLine id="line_1644602519976_859" custom="readingOrder {index:0;}">
                     <Coords points="4798,608 4842,606 4844,650 4800,652"/>
-                    <Baseline points="4802,647 4844,645"/>
+                    <Baseline points="4802,647 4843,645"/>
                     <TextEquiv>
                         <Unicode>₰</Unicode>
                     </TextEquiv>
@@ -2079,7 +2079,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="4562,659 4563,702 4787,694 4786,653"/>
                 <TextLine id="line_1644602861072_893" custom="readingOrder {index:0;}">
                     <Coords points="4712,655 4782,653 4783,694 4713,696"/>
-                    <Baseline points="4713,694 4783,692"/>
+                    <Baseline points="4713,694 4782,692"/>
                     <TextEquiv>
                         <Unicode>806</Unicode>
                     </TextEquiv>
@@ -2127,7 +2127,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="4787,694 4789,737 4888,734 4888,690"/>
                 <TextLine id="TableCell_1642583675605_344l0" custom="readingOrder {index:0;}">
                     <Coords points="4799,699 4848,699 4848,735 4799,736 4799,701"/>
-                    <Baseline points="4801,736 4846,735"/>
+                    <Baseline points="4800,735 4846,735"/>
                     <TextEquiv>
                         <Unicode>35</Unicode>
                     </TextEquiv>
@@ -2138,7 +2138,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="2699,821 2700,859 4120,808 4117,763"/>
                 <TextLine id="line_1644603053222_941" custom="readingOrder {index:0;}">
                     <Coords points="3178,802 3626,787 3628,829 3180,844"/>
-                    <Baseline points="3180,839 3628,824"/>
+                    <Baseline points="3180,839 3627,824"/>
                     <TextEquiv>
                         <Unicode>c. Prämien⸗Ueberträge</Unicode>
                     </TextEquiv>
@@ -2164,7 +2164,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="4789,737 4791,784 4889,781 4888,734"/>
                 <TextLine id="line_1644603119637_963" custom="readingOrder {index:0;}">
                     <Coords points="4800,744 4846,743 4847,784 4801,785"/>
-                    <Baseline points="4801,781 4847,780"/>
+                    <Baseline points="4801,781 4846,780"/>
                     <TextEquiv>
                         <Unicode>03</Unicode>
                     </TextEquiv>
@@ -2212,7 +2212,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="2701,905 2702,951 4124,895 4122,852"/>
                 <TextLine id="line_1644603265467_1007" custom="readingOrder {index:0;}">
                     <Coords points="2722,909 3074,894 3076,937 2724,952"/>
-                    <Baseline points="2724,947 3076,932"/>
+                    <Baseline points="2724,947 3075,932"/>
                     <TextEquiv>
                         <Unicode>Prämie pro 1876</Unicode>
                     </TextEquiv>
@@ -2227,7 +2227,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="4568,836 4569,878 4794,870 4792,828"/>
                 <TextLine id="line_1644603301355_1016" custom="readingOrder {index:0;}">
                     <Coords points="4604,842 4789,836 4790,876 4605,882"/>
-                    <Baseline points="4605,877 4790,871"/>
+                    <Baseline points="4605,877 4789,871"/>
                     <TextEquiv>
                         <Unicode>1,633,863</Unicode>
                     </TextEquiv>
@@ -2249,7 +2249,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="2702,951 2703,995 4126,943 4124,895"/>
                 <TextLine id="line_1644603365547_1034" custom="readingOrder {index:0;}">
                     <Coords points="2722,952 3039,940 3040,984 2723,996"/>
-                    <Baseline points="2723,991 3040,979"/>
+                    <Baseline points="2723,991 3039,979"/>
                     <TextEquiv>
                         <Unicode>Policengebühren</Unicode>
                     </TextEquiv>
@@ -2286,7 +2286,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="2703,995 2704,1045 4128,993 4126,943"/>
                 <TextLine id="line_1644603514855_1082" custom="readingOrder {index:0;}">
                     <Coords points="2722,1000 3201,982 3203,1024 2724,1042"/>
-                    <Baseline points="2724,1037 3203,1019"/>
+                    <Baseline points="2724,1037 3202,1019"/>
                     <TextEquiv>
                         <Unicode>Zinſen: a. vereinnahmte</Unicode>
                     </TextEquiv>
@@ -2360,7 +2360,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="2705,1094 2706,1142 4132,1090 4130,1042"/>
                 <TextLine id="line_1644603746624_1155" custom="readingOrder {index:0;}">
                     <Coords points="2725,1096 3346,1076 3349,1120 2727,1146"/>
-                    <Baseline points="2727,1141 3349,1115"/>
+                    <Baseline points="2727,1141 3348,1115"/>
                     <TextEquiv>
                         <Unicode>Verfallene Dividende aus 1871</Unicode>
                     </TextEquiv>
@@ -2412,7 +2412,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="4575,1075 4577,1128 4803,1121 4801,1068"/>
                 <TextLine id="line_1644603916855_1213" custom="readingOrder {index:0;}">
                     <Coords points="4695,1072 4798,1069 4799,1115 4696,1118"/>
-                    <Baseline points="4698,1113 4799,1110"/>
+                    <Baseline points="4698,1113 4798,1110"/>
                     <TextEquiv>
                         <Unicode>1,613</Unicode>
                     </TextEquiv>
@@ -2460,7 +2460,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="4803,1121 4806,1182 4898,1180 4896,1118"/>
                 <TextLine id="line_1644604007449_1243" custom="readingOrder {index:0;}">
                     <Coords points="4817,1128 4862,1126 4864,1171 4819,1173"/>
-                    <Baseline points="4820,1168 4864,1166"/>
+                    <Baseline points="4820,1168 4863,1166"/>
                     <TextEquiv>
                         <Unicode>76</Unicode>
                     </TextEquiv>
@@ -2494,7 +2494,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="2709,1293 2711,1346 4142,1294 4142,1260"/>
                 <TextLine id="line_1644604138605_1278" custom="readingOrder {index:0;}">
                     <Coords points="2734,1304 3125,1288 3127,1332 2736,1348"/>
-                    <Baseline points="2736,1343 3127,1327"/>
+                    <Baseline points="2736,1343 3126,1327"/>
                     <TextEquiv>
                         <Unicode>Sterbefallzahlungen</Unicode>
                     </TextEquiv>
@@ -2531,7 +2531,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="2711,1346 2713,1395 4144,1340 4142,1294"/>
                 <TextLine id="line_1644604280856_1327" custom="readingOrder {index:0;}">
                     <Coords points="2738,1348 4080,1302 4082,1347 2740,1393"/>
-                    <Baseline points="2740,1388 4082,1342"/>
+                    <Baseline points="2740,1388 4081,1342"/>
                     <TextEquiv>
                         <Unicode>Zahlungen für bei Lebzeiten fällig gewordene Verſicherungsſummen</Unicode>
                     </TextEquiv>
@@ -2546,7 +2546,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="4582,1279 4583,1324 4811,1316 4809,1271"/>
                 <TextLine id="line_1644604307884_1336" custom="readingOrder {index:0;}">
                     <Coords points="4700,1283 4806,1278 4808,1319 4702,1324"/>
-                    <Baseline points="4702,1319 4808,1314"/>
+                    <Baseline points="4702,1319 4807,1314"/>
                     <TextEquiv>
                         <Unicode>2,850</Unicode>
                     </TextEquiv>
@@ -2557,7 +2557,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="4809,1271 4811,1316 4901,1313 4900,1268"/>
                 <TextLine id="line_1644604332723_1345" custom="readingOrder {index:0;}">
                     <Coords points="4817,1288 4865,1285 4868,1308 4820,1311"/>
-                    <Baseline points="4820,1306 4868,1303"/>
+                    <Baseline points="4820,1306 4867,1303"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -2568,7 +2568,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="2713,1395 2715,1443 4146,1388 4144,1340"/>
                 <TextLine id="line_1644604370037_1353" custom="readingOrder {index:0;}">
                     <Coords points="2739,1398 3067,1384 3069,1425 2741,1439"/>
-                    <Baseline points="2741,1434 3069,1420"/>
+                    <Baseline points="2741,1434 3068,1420"/>
                     <TextEquiv>
                         <Unicode>Rentenzahlungen</Unicode>
                     </TextEquiv>
@@ -2598,7 +2598,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="2715,1443 2717,1487 4148,1434 4146,1388"/>
                 <TextLine id="line_1644604464584_1379" custom="readingOrder {index:0;}">
                     <Coords points="2879,1434 3549,1410 3550,1455 2880,1479"/>
-                    <Baseline points="2880,1474 3550,1450"/>
+                    <Baseline points="2880,1474 3549,1450"/>
                     <TextEquiv>
                         <Unicode>ab: durch Rückverſicherung gedeckt</Unicode>
                     </TextEquiv>
@@ -2609,7 +2609,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="4146,1388 4148,1434 4586,1418 4585,1372"/>
                 <TextLine id="line_1644604497625_1388" custom="readingOrder {index:0;}">
                     <Coords points="4253,1388 4539,1377 4540,1419 4254,1430"/>
-                    <Baseline points="4254,1425 4540,1414"/>
+                    <Baseline points="4254,1425 4539,1414"/>
                     <TextEquiv>
                         <Unicode>„ 9,756. —.</Unicode>
                     </TextEquiv>
@@ -2642,7 +2642,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="2717,1487 2719,1541 4151,1485 4148,1434"/>
                 <TextLine id="line_1644604618072_1430" custom="readingOrder {index:0;}">
                     <Coords points="2746,1494 3890,1453 3892,1499 2748,1540"/>
-                    <Baseline points="2748,1535 3892,1494"/>
+                    <Baseline points="2748,1535 3891,1494"/>
                     <TextEquiv>
                         <Unicode>Zahlungen für fällig gewordene Ausſteuer⸗Verſicherungen</Unicode>
                     </TextEquiv>
@@ -2753,7 +2753,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="2723,1630 2725,1674 4157,1620 4155,1576"/>
                 <TextLine id="line_1644613672610_84" custom="readingOrder {index:0;}">
                     <Coords points="2750,1633 3462,1605 3464,1648 2752,1676"/>
-                    <Baseline points="2752,1671 3464,1643"/>
+                    <Baseline points="2752,1671 3463,1643"/>
                     <TextEquiv>
                         <Unicode>Gezahlte Rückverſicherungs⸗Prämien</Unicode>
                     </TextEquiv>
@@ -2790,7 +2790,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="2725,1674 2727,1717 4159,1669 4157,1620"/>
                 <TextLine id="TableCell_1642583709241_758l1" custom="readingOrder {index:0;}">
                     <Coords points="2752,1677 2794,1675 2949,1668 3018,1668 3087,1676 3087,1701 3032,1706 2786,1715 2752,1715"/>
-                    <Baseline points="2750,1713 3083,1703"/>
+                    <Baseline points="2752,1713 3082,1701"/>
                     <TextEquiv>
                         <Unicode>Schäden⸗Reſerve</Unicode>
                     </TextEquiv>
@@ -2820,7 +2820,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="2727,1717 2729,1765 4161,1714 4159,1669"/>
                 <TextLine id="line_1644613842299_131" custom="readingOrder {index:0;}">
                     <Coords points="2888,1719 3557,1692 3559,1738 2888,1761"/>
-                    <Baseline points="2892,1756 3559,1733"/>
+                    <Baseline points="2892,1756 3558,1733"/>
                     <TextEquiv>
                         <Unicode>ab: durch Rückverſicherung gedeckt</Unicode>
                     </TextEquiv>
@@ -2831,7 +2831,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="4159,1669 4161,1714 4595,1699 4594,1655"/>
                 <TextLine id="line_1644613875931_140" custom="readingOrder {index:0;}">
                     <Coords points="4262,1672 4548,1659 4550,1702 4264,1715"/>
-                    <Baseline points="4264,1710 4550,1697"/>
+                    <Baseline points="4264,1710 4549,1697"/>
                     <TextEquiv>
                         <Unicode>„ 33,000. —.</Unicode>
                     </TextEquiv>
@@ -2864,7 +2864,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="2729,1765 2731,1817 4163,1766 4161,1714"/>
                 <TextLine id="line_1644613972398_168" custom="readingOrder {index:0;}">
                     <Coords points="2755,1774 3086,1767 3085,1808 2768,1821 2756,1817"/>
-                    <Baseline points="2756,1812 3087,1805"/>
+                    <Baseline points="2756,1812 3085,1804"/>
                     <TextEquiv>
                         <Unicode>Prämien⸗Reſerve</Unicode>
                     </TextEquiv>
@@ -2901,7 +2901,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="2731,1817 2733,1866 4166,1814 4163,1766"/>
                 <TextLine id="TableCell_1642583709317_770l1" custom="readingOrder {index:0;}">
                     <Coords points="2756,1826 2812,1822 2956,1817 2996,1816 3109,1812 3155,1825 3155,1849 3066,1851 3012,1853 2830,1859 2766,1865 2758,1859"/>
-                    <Baseline points="2759,1860 3147,1848"/>
+                    <Baseline points="2759,1859 3147,1848"/>
                     <TextEquiv>
                         <Unicode>Prämien⸗Ueberträge</Unicode>
                     </TextEquiv>
@@ -2938,7 +2938,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="2733,1866 2735,1906 4168,1862 4166,1814"/>
                 <TextLine id="TableCell_1642583709341_774l0" custom="readingOrder {index:0;}">
                     <Coords points="3177,1854 2757,1868 2755,1870 2758,1908 3053,1904 3260,1888 3260,1865"/>
-                    <Baseline points="2757,1905 3250,1888"/>
+                    <Baseline points="2757,1904 3250,1888"/>
                     <TextEquiv>
                         <Unicode>Verwaltungskoſten:</Unicode>
                     </TextEquiv>
@@ -2991,7 +2991,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="2737,1956 2739,1998 4172,1954 4170,1910"/>
                 <TextLine id="line_1644614425430_268" custom="readingOrder {index:0;}">
                     <Coords points="2895,1956 3121,1947 3122,1988 2896,1997"/>
-                    <Baseline points="2896,1992 3122,1983"/>
+                    <Baseline points="2896,1992 3121,1983"/>
                     <TextEquiv>
                         <Unicode>Druckkoſten</Unicode>
                     </TextEquiv>
@@ -3021,7 +3021,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="2739,1998 2742,2041 4175,1996 4172,1954"/>
                 <TextLine id="line_1644614454812_279" custom="readingOrder {index:0;}">
                     <Coords points="2896,2002 3217,1991 3219,2032 2898,2043"/>
-                    <Baseline points="2898,2038 3219,2027"/>
+                    <Baseline points="2898,2038 3218,2027"/>
                     <TextEquiv>
                         <Unicode>Inſertionskoſten</Unicode>
                     </TextEquiv>
@@ -3051,7 +3051,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="2742,2041 2743,2095 4176,2041 4175,1996"/>
                 <TextLine id="line_1644614636712_340" custom="readingOrder {index:0;}">
                     <Coords points="2898,2046 3470,2023 3471,2067 2899,2090"/>
-                    <Baseline points="2899,2085 3471,2062"/>
+                    <Baseline points="2899,2085 3470,2062"/>
                     <TextEquiv>
                         <Unicode>Reiſe⸗ und Inſpektionskoſten</Unicode>
                     </TextEquiv>
@@ -3062,7 +3062,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="4175,1996 4176,2041 4606,2025 4605,1983"/>
                 <TextLine id="line_1644614573206_320" custom="readingOrder {index:0;}">
                     <Coords points="4270,2000 4562,1989 4563,2030 4272,2043"/>
-                    <Baseline points="4270,2034 4559,2026"/>
+                    <Baseline points="4271,2033 4559,2026"/>
                     <TextEquiv>
                         <Unicode>„ 46,115. 97.</Unicode>
                     </TextEquiv>
@@ -3134,7 +3134,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="2747,2188 2749,2229 4241,2176 4241,2131"/>
                 <TextLine id="line_1644614926156_445" custom="readingOrder {index:0;}">
                     <Coords points="3050,2175 4217,2134 4218,2180 3051,2221"/>
-                    <Baseline points="3051,2216 4218,2175"/>
+                    <Baseline points="3051,2216 4217,2175"/>
                     <TextEquiv>
                         <Unicode>Steuern, Gerichts⸗ und Notariatskoſten, Agentur⸗Schilder</Unicode>
                     </TextEquiv>
@@ -3164,7 +3164,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="2749,2229 2751,2281 4196,2225 4241,2176"/>
                 <TextLine id="line_1644615024044_481" custom="readingOrder {index:0;}">
                     <Coords points="2900,2229 3826,2197 3828,2240 2902,2272"/>
-                    <Baseline points="2902,2267 3828,2235"/>
+                    <Baseline points="2902,2267 3827,2235"/>
                     <TextEquiv>
                         <Unicode>Koſten fürs Geſchäftslokal, Bureaubedürfniſſe</Unicode>
                     </TextEquiv>
@@ -3186,7 +3186,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="4610,2163 4612,2210 4843,2202 4842,2155"/>
                 <TextLine id="line_1644615083138_499" custom="readingOrder {index:0;}">
                     <Coords points="4685,2161 4835,2155 4837,2202 4687,2208"/>
-                    <Baseline points="4687,2203 4837,2197"/>
+                    <Baseline points="4687,2203 4836,2197"/>
                     <TextEquiv>
                         <Unicode>152,971</Unicode>
                     </TextEquiv>
@@ -3208,7 +3208,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="2751,2281 2753,2333 4198,2280 4196,2225"/>
                 <TextLine id="line_1644615127829_512" custom="readingOrder {index:0;}">
                     <Coords points="2768,2285 3128,2275 3129,2320 2769,2330"/>
-                    <Baseline points="2769,2325 3129,2315"/>
+                    <Baseline points="2769,2325 3128,2315"/>
                     <TextEquiv>
                         <Unicode>Agentur⸗Proviſion</Unicode>
                     </TextEquiv>
@@ -3245,7 +3245,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="2753,2333 2755,2375 4199,2324 4198,2280"/>
                 <TextLine id="line_1644615230269_546" custom="readingOrder {index:0;}">
                     <Coords points="2766,2335 3336,2317 3337,2359 2767,2377"/>
-                    <Baseline points="2767,2372 3337,2354"/>
+                    <Baseline points="2767,2372 3336,2354"/>
                     <TextEquiv>
                         <Unicode>Remuneration an die Aerzte</Unicode>
                     </TextEquiv>
@@ -3271,7 +3271,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="4845,2257 4847,2303 4934,2301 4932,2254"/>
                 <TextLine id="line_1644615293711_567" custom="readingOrder {index:0;}">
                     <Coords points="4856,2261 4902,2259 4904,2300 4858,2302"/>
-                    <Baseline points="4858,2299 4904,2297"/>
+                    <Baseline points="4858,2299 4903,2297"/>
                     <TextEquiv>
                         <Unicode>42</Unicode>
                     </TextEquiv>
@@ -3282,7 +3282,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="2755,2375 2757,2421 4201,2367 4199,2324"/>
                 <TextLine id="line_1644615413704_602" custom="readingOrder {index:0;}">
                     <Coords points="2772,2380 3816,2344 3818,2386 2774,2422"/>
-                    <Baseline points="2774,2417 3818,2381"/>
+                    <Baseline points="2774,2417 3817,2381"/>
                     <TextEquiv>
                         <Unicode>Abſchreibung der letzten Rate auf Einrichtungskoſten</Unicode>
                     </TextEquiv>
@@ -3319,7 +3319,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="2757,2421 2759,2465 4202,2409 4201,2367"/>
                 <TextLine id="line_1644615457005_614" custom="readingOrder {index:0;}">
                     <Coords points="2774,2424 3978,2384 3979,2428 2775,2468"/>
-                    <Baseline points="2775,2463 3979,2423"/>
+                    <Baseline points="2775,2463 3978,2423"/>
                     <TextEquiv>
                         <Unicode>Abſchreibung aufs Geſellſchaftshaus von ℳ 214,640 à 1 %</Unicode>
                     </TextEquiv>
@@ -3356,7 +3356,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="2759,2465 2761,2511 4204,2453 4202,2409"/>
                 <TextLine id="line_1644615730056_687" custom="readingOrder {index:0;}">
                     <Coords points="2773,2470 4102,2422 4104,2465 2775,2513"/>
-                    <Baseline points="2775,2508 4104,2460"/>
+                    <Baseline points="2775,2508 4103,2460"/>
                     <TextEquiv>
                         <Unicode>Abſchreibung aufs Grundſtück in Hannover von ℳ 82,000 à 1 %</Unicode>
                     </TextEquiv>
@@ -3382,7 +3382,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="4850,2386 4852,2428 4940,2425 4938,2383"/>
                 <TextLine id="line_1644615559984_644" custom="readingOrder {index:0;}">
                     <Coords points="4860,2404 4903,2402 4905,2427 4862,2429"/>
-                    <Baseline points="4863,2425 4906,2423"/>
+                    <Baseline points="4863,2425 4904,2423"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -3393,7 +3393,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="2761,2511 2763,2560 4206,2504 4204,2453"/>
                 <TextLine id="line_1644615765471_699" custom="readingOrder {index:0;}">
                     <Coords points="2776,2517 3881,2478 3883,2520 2778,2559"/>
-                    <Baseline points="2778,2554 3883,2515"/>
+                    <Baseline points="2778,2554 3882,2515"/>
                     <TextEquiv>
                         <Unicode>Abſchreibung auf Utenſilien von ℳ 17,923. 15 à 5 %</Unicode>
                     </TextEquiv>
@@ -3419,7 +3419,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="4852,2428 4854,2479 4942,2476 4940,2425"/>
                 <TextLine id="line_1644615819662_719" custom="readingOrder {index:0;}">
                     <Coords points="4865,2439 4907,2438 4908,2481 4866,2482"/>
-                    <Baseline points="4866,2479 4908,2478"/>
+                    <Baseline points="4866,2479 4907,2478"/>
                     <TextEquiv>
                         <Unicode>15</Unicode>
                     </TextEquiv>
@@ -3430,7 +3430,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="2763,2560 2765,2603 4207,2548 4206,2504"/>
                 <TextLine id="line_1644615887638_734" custom="readingOrder {index:0;}">
                     <Coords points="2776,2561 3411,2537 3413,2581 2778,2605"/>
-                    <Baseline points="2778,2600 3413,2576"/>
+                    <Baseline points="2778,2600 3412,2576"/>
                     <TextEquiv>
                         <Unicode>Saldo, Gewinn pro 1876</Unicode>
                     </TextEquiv>
@@ -3456,7 +3456,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="4854,2479 4855,2525 4944,2522 4942,2476"/>
                 <TextLine id="line_1645017782424_950" custom="readingOrder {index:0;}">
                     <Coords points="4864,2485 4907,2485 4909,2528 4866,2528"/>
-                    <Baseline points="4866,2523 4909,2523"/>
+                    <Baseline points="4866,2523 4908,2523"/>
                     <TextEquiv>
                         <Unicode>07</Unicode>
                     </TextEquiv>
@@ -3482,7 +3482,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="4622,2533 4625,2616 4859,2613 4855,2525"/>
                 <TextLine id="line_1644615957835_759" custom="readingOrder {index:0;}">
                     <Coords points="4663,2551 4850,2544 4852,2587 4665,2594"/>
-                    <Baseline points="4665,2589 4852,2582"/>
+                    <Baseline points="4665,2589 4851,2582"/>
                     <TextEquiv>
                         <Unicode>8,406,493</Unicode>
                     </TextEquiv>
@@ -3535,7 +3535,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="4638,2735 4639,2782 4867,2776 4866,2729"/>
                 <TextLine id="line_1644616109814_784" custom="readingOrder {index:0;}">
                     <Coords points="4727,2736 4775,2735 4776,2775 4728,2776"/>
-                    <Baseline points="4728,2773 4776,2772"/>
+                    <Baseline points="4728,2773 4775,2772"/>
                     <TextEquiv>
                         <Unicode>ℳ</Unicode>
                     </TextEquiv>
@@ -3546,7 +3546,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="4866,2729 4867,2776 4962,2774 4962,2727"/>
                 <TextLine id="line_1644616134619_793" custom="readingOrder {index:0;}">
                     <Coords points="4875,2732 4914,2731 4915,2776 4876,2777"/>
-                    <Baseline points="4876,2775 4915,2774"/>
+                    <Baseline points="4876,2775 4914,2774"/>
                     <TextEquiv>
                         <Unicode>₰</Unicode>
                     </TextEquiv>
@@ -3557,7 +3557,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="2771,2836 2771,2884 2835,2881 2833,2834"/>
                 <TextLine id="TableCell_1642587689073_2342l0" custom="readingOrder {index:0;}">
                     <Coords points="2825,2846 2826,2884 2806,2884 2806,2845"/>
-                    <Baseline points="2810,2882 2828,2883"/>
+                    <Baseline points="2810,2882 2825,2883"/>
                     <TextEquiv>
                         <Unicode>1</Unicode>
                     </TextEquiv>
@@ -3568,7 +3568,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="2833,2834 2835,2881 3835,2847 4229,2834 4641,2820 4639,2782 4227,2793 3834,2804"/>
                 <TextLine id="line_1644616210323_808" custom="readingOrder {index:0;}">
                     <Coords points="2853,2840 3413,2821 3415,2865 2855,2884"/>
-                    <Baseline points="2855,2879 3415,2860"/>
+                    <Baseline points="2855,2879 3414,2860"/>
                     <TextEquiv>
                         <Unicode>Sola⸗Wechſel der Aktionäre</Unicode>
                     </TextEquiv>
@@ -3623,7 +3623,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="4641,2820 4642,2863 4870,2855 4868,2813"/>
                 <TextLine id="line_1644616356111_845" custom="readingOrder {index:0;}">
                     <Coords points="4732,2827 4860,2823 4860,2861 4733,2867"/>
-                    <Baseline points="4733,2863 4861,2859"/>
+                    <Baseline points="4733,2863 4860,2859"/>
                     <TextEquiv>
                         <Unicode>52,952</Unicode>
                     </TextEquiv>
@@ -3634,7 +3634,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="4868,2813 4870,2855 4962,2852 4962,2810"/>
                 <TextLine id="line_1644616383512_854" custom="readingOrder {index:0;}">
                     <Coords points="4875,2821 4919,2820 4920,2862 4876,2863"/>
-                    <Baseline points="4876,2859 4920,2858"/>
+                    <Baseline points="4876,2859 4919,2858"/>
                     <TextEquiv>
                         <Unicode>93</Unicode>
                     </TextEquiv>
@@ -3656,7 +3656,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="2836,2932 2838,2976 3839,2937 4231,2922 4644,2907 4642,2863 4230,2878 3837,2893"/>
                 <TextLine id="line_1644616473593_881" custom="readingOrder {index:0;}">
                     <Coords points="2860,2935 4181,2889 4182,2930 2861,2976"/>
-                    <Baseline points="2861,2971 4182,2925"/>
+                    <Baseline points="2861,2971 4181,2925"/>
                     <TextEquiv>
                         <Unicode>Beſtand an Obligationen zum Courſe vom 31. Dezember 1876*)</Unicode>
                     </TextEquiv>
@@ -3667,7 +3667,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="4642,2863 4644,2907 4871,2899 4870,2855"/>
                 <TextLine id="line_1644616505746_890" custom="readingOrder {index:0;}">
                     <Coords points="4709,2872 4859,2868 4860,2910 4710,2914"/>
-                    <Baseline points="4710,2909 4860,2905"/>
+                    <Baseline points="4710,2909 4859,2905"/>
                     <TextEquiv>
                         <Unicode>474,061</Unicode>
                     </TextEquiv>
@@ -3678,7 +3678,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="4870,2855 4871,2899 4963,2896 4962,2852"/>
                 <TextLine id="line_1644616534217_902" custom="readingOrder {index:0;}">
                     <Coords points="4876,2868 4922,2867 4923,2907 4877,2908"/>
-                    <Baseline points="4877,2907 4923,2906"/>
+                    <Baseline points="4877,2907 4922,2906"/>
                     <TextEquiv>
                         <Unicode>35</Unicode>
                     </TextEquiv>
@@ -3700,7 +3700,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="2838,2976 2839,3016 3841,2982 4233,2969 4645,2956 4644,2907 4231,2922 3839,2937"/>
                 <TextLine id="line_1644616628163_918" custom="readingOrder {index:0;}">
                     <Coords points="2857,2980 3177,2969 3179,3010 2859,3021"/>
-                    <Baseline points="2859,3017 3179,3006"/>
+                    <Baseline points="2859,3017 3178,3006"/>
                     <TextEquiv>
                         <Unicode>Wechſel⸗Beſtand</Unicode>
                     </TextEquiv>
@@ -3744,7 +3744,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="2839,3016 2841,3065 3842,3029 4234,3015 4647,3001 4645,2956 4233,2969 3841,2982"/>
                 <TextLine id="line_1644616792890_968" custom="readingOrder {index:0;}">
                     <Coords points="2860,3022 3372,3006 3373,3050 2861,3066"/>
-                    <Baseline points="2861,3061 3373,3045"/>
+                    <Baseline points="2861,3061 3372,3045"/>
                     <TextEquiv>
                         <Unicode>Darlehne gegen Hypothek</Unicode>
                     </TextEquiv>
@@ -3755,7 +3755,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="4645,2956 4647,3001 4874,2993 4872,2949"/>
                 <TextLine id="line_1644616728252_950" custom="readingOrder {index:0;}">
                     <Coords points="4679,2964 4866,2959 4867,2999 4680,3004"/>
-                    <Baseline points="4680,3000 4867,2995"/>
+                    <Baseline points="4680,3000 4866,2995"/>
                     <TextEquiv>
                         <Unicode>6,037,410</Unicode>
                     </TextEquiv>
@@ -3766,7 +3766,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="4872,2949 4874,2993 4965,2990 4964,2946"/>
                 <TextLine id="line_1644616716738_945" custom="readingOrder {index:0;}">
                     <Coords points="4877,2964 4925,2963 4926,2990 4878,2991"/>
-                    <Baseline points="4878,2986 4926,2985"/>
+                    <Baseline points="4878,2986 4925,2985"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -3810,7 +3810,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="4874,2993 4875,3039 4966,3036 4965,2990"/>
                 <TextLine id="line_1644616958967_1005" custom="readingOrder {index:0;}">
                     <Coords points="4878,3011 4926,3009 4928,3036 4880,3038"/>
-                    <Baseline points="4880,3033 4928,3031"/>
+                    <Baseline points="4880,3033 4927,3031"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -3865,7 +3865,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="2777,3156 2778,3205 2846,3202 2844,3153"/>
                 <TextLine id="line_1644617119492_1049" custom="readingOrder {index:0;}">
                     <Coords points="2817,3165 2840,3164 2842,3204 2819,3205"/>
-                    <Baseline points="2819,3202 2842,3201"/>
+                    <Baseline points="2819,3202 2841,3201"/>
                     <TextEquiv>
                         <Unicode>8</Unicode>
                     </TextEquiv>
@@ -3876,7 +3876,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="2844,3153 2846,3202 3848,3165 4239,3151 4652,3137 4650,3090 4237,3104 3846,3117"/>
                 <TextLine id="line_1644617156365_1061" custom="readingOrder {index:0;}">
                     <Coords points="2870,3160 4054,3121 4055,3165 2871,3204"/>
-                    <Baseline points="2871,3199 4055,3160"/>
+                    <Baseline points="2871,3199 4054,3160"/>
                     <TextEquiv>
                         <Unicode>Guthaben bei Agenten und Rückverſicherungs⸗Geſellſchaften</Unicode>
                     </TextEquiv>
@@ -3887,7 +3887,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="4650,3090 4652,3137 4878,3129 4876,3083"/>
                 <TextLine id="line_1644617183310_1070" custom="readingOrder {index:0;}">
                     <Coords points="4716,3101 4869,3096 4870,3136 4717,3141"/>
-                    <Baseline points="4717,3136 4870,3131"/>
+                    <Baseline points="4717,3136 4869,3131"/>
                     <TextEquiv>
                         <Unicode>238,524</Unicode>
                     </TextEquiv>
@@ -3920,7 +3920,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="2846,3202 2847,3241 3850,3207 4240,3194 4653,3181 4652,3137 4239,3151 3848,3165"/>
                 <TextLine id="line_1644617269517_1092" custom="readingOrder {index:0;}">
                     <Coords points="2869,3204 3480,3184 3481,3229 2870,3249"/>
-                    <Baseline points="2870,3244 3481,3224"/>
+                    <Baseline points="2870,3244 3480,3224"/>
                     <TextEquiv>
                         <Unicode>Guthaben bei Bank⸗Inſtituten</Unicode>
                     </TextEquiv>
@@ -3964,7 +3964,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="2847,3241 2849,3294 3852,3259 4241,3246 4655,3232 4653,3181 4240,3194 3850,3207"/>
                 <TextLine id="line_1644617403584_1129" custom="readingOrder {index:0;}">
                     <Coords points="2867,3250 3318,3236 3319,3279 2868,3293"/>
-                    <Baseline points="2868,3288 3319,3274"/>
+                    <Baseline points="2868,3288 3318,3274"/>
                     <TextEquiv>
                         <Unicode>Vorſchüſſe auf Policen</Unicode>
                     </TextEquiv>
@@ -3975,7 +3975,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="4653,3181 4655,3232 4880,3225 4879,3174"/>
                 <TextLine id="line_1644617429130_1138" custom="readingOrder {index:0;}">
                     <Coords points="4721,3192 4873,3188 4874,3228 4722,3232"/>
-                    <Baseline points="4722,3228 4874,3224"/>
+                    <Baseline points="4722,3228 4873,3224"/>
                     <TextEquiv>
                         <Unicode>365,185</Unicode>
                     </TextEquiv>
@@ -3997,7 +3997,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="2781,3297 2783,3347 2851,3344 2849,3294"/>
                 <TextLine id="TableCell_1642587689649_2382l0" custom="readingOrder {index:0;}">
                     <Coords points="2840,3301 2842,3341 2800,3344 2798,3304"/>
-                    <Baseline points="2802,3339 2842,3338"/>
+                    <Baseline points="2802,3339 2841,3338"/>
                     <TextEquiv>
                         <Unicode>11</Unicode>
                     </TextEquiv>
@@ -4008,7 +4008,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="2849,3294 2851,3344 3854,3308 4243,3294 4657,3279 4655,3232 4241,3246 3852,3259"/>
                 <TextLine id="line_1644617531295_1168" custom="readingOrder {index:0;}">
                     <Coords points="2870,3297 3370,3281 3371,3322 2871,3338"/>
-                    <Baseline points="2871,3333 3371,3317"/>
+                    <Baseline points="2871,3333 3370,3317"/>
                     <TextEquiv>
                         <Unicode>Geſtundete Prämienraten</Unicode>
                     </TextEquiv>
@@ -4019,7 +4019,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="4655,3232 4657,3279 4882,3271 4880,3225"/>
                 <TextLine id="line_1644617562188_1177" custom="readingOrder {index:0;}">
                     <Coords points="4721,3237 4869,3231 4871,3273 4723,3279"/>
-                    <Baseline points="4723,3274 4871,3268"/>
+                    <Baseline points="4723,3274 4870,3268"/>
                     <TextEquiv>
                         <Unicode>245,751</Unicode>
                     </TextEquiv>
@@ -4030,7 +4030,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="4880,3225 4882,3271 4971,3268 4970,3222"/>
                 <TextLine id="line_1644617581443_1186" custom="readingOrder {index:0;}">
                     <Coords points="4885,3231 4932,3228 4935,3270 4888,3273"/>
-                    <Baseline points="4888,3271 4935,3268"/>
+                    <Baseline points="4888,3271 4934,3268"/>
                     <TextEquiv>
                         <Unicode>85</Unicode>
                     </TextEquiv>
@@ -4041,7 +4041,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="2783,3347 2784,3390 2785,3435 2854,3433 2852,3387 2851,3344"/>
                 <TextLine id="line_1644617619252_1195" custom="readingOrder {index:0;}">
                     <Coords points="2802,3343 2844,3342 2845,3389 2803,3390"/>
-                    <Baseline points="2803,3385 2845,3384"/>
+                    <Baseline points="2803,3385 2844,3384"/>
                     <TextEquiv>
                         <Unicode>12</Unicode>
                     </TextEquiv>
@@ -4052,7 +4052,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="2851,3344 2852,3387 3855,3354 4244,3341 4243,3294 3854,3308"/>
                 <TextLine id="line_1644617647660_1203" custom="readingOrder {index:0;}">
                     <Coords points="2872,3344 3464,3323 3466,3364 2874,3385"/>
-                    <Baseline points="2874,3381 3466,3360"/>
+                    <Baseline points="2874,3381 3465,3360"/>
                     <TextEquiv>
                         <Unicode>Geſellſchaftshaus ultimo 1875</Unicode>
                     </TextEquiv>
@@ -4063,7 +4063,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="4243,3294 4244,3341 4658,3328 4657,3279"/>
                 <TextLine id="line_1644617680327_1212" custom="readingOrder {index:0;}">
                     <Coords points="4300,3296 4605,3286 4608,3329 4300,3336"/>
-                    <Baseline points="4300,3331 4608,3324"/>
+                    <Baseline points="4300,3331 4607,3324"/>
                     <TextEquiv>
                         <Unicode>ℳ 214,640. —.</Unicode>
                     </TextEquiv>
@@ -4082,7 +4082,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="2852,3387 2854,3433 3857,3405 4246,3395 4244,3341 3855,3354"/>
                 <TextLine id="line_1644617726959_1228" custom="readingOrder {index:0;}">
                     <Coords points="3083,3381 3420,3372 3421,3413 3084,3422"/>
-                    <Baseline points="3084,3417 3421,3408"/>
+                    <Baseline points="3084,3417 3420,3408"/>
                     <TextEquiv>
                         <Unicode>1 % Abſchreibung</Unicode>
                     </TextEquiv>
@@ -4093,7 +4093,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="4244,3341 4246,3395 4660,3384 4658,3328"/>
                 <TextLine id="line_1644617749024_1237" custom="readingOrder {index:0;}">
                     <Coords points="4325,3341 4607,3330 4608,3372 4326,3381"/>
-                    <Baseline points="4326,3376 4608,3367"/>
+                    <Baseline points="4326,3376 4607,3367"/>
                     <TextEquiv>
                         <Unicode>„ 2,146. 40.</Unicode>
                     </TextEquiv>
@@ -4104,7 +4104,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="4658,3328 4660,3384 4885,3379 4883,3321"/>
                 <TextLine id="line_1644617775837_1246" custom="readingOrder {index:0;}">
                     <Coords points="4725,3335 4875,3329 4877,3374 4727,3380"/>
-                    <Baseline points="4727,3375 4877,3369"/>
+                    <Baseline points="4727,3375 4876,3369"/>
                     <TextEquiv>
                         <Unicode>212,493</Unicode>
                     </TextEquiv>
@@ -4115,7 +4115,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="4883,3321 4885,3379 4973,3377 4972,3319"/>
                 <TextLine id="line_1644617799330_1255" custom="readingOrder {index:0;}">
                     <Coords points="4893,3332 4937,3331 4938,3374 4894,3375"/>
-                    <Baseline points="4895,3370 4938,3369"/>
+                    <Baseline points="4895,3370 4937,3369"/>
                     <TextEquiv>
                         <Unicode>60</Unicode>
                     </TextEquiv>
@@ -4137,7 +4137,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="2854,3433 2856,3484 3859,3455 4248,3444 4246,3395 3857,3405"/>
                 <TextLine id="line_1644617870014_1283" custom="readingOrder {index:0;}">
                     <Coords points="2877,3444 3622,3416 3624,3460 2879,3488"/>
-                    <Baseline points="2879,3483 3624,3455"/>
+                    <Baseline points="2879,3483 3623,3455"/>
                     <TextEquiv>
                         <Unicode>Grundſtück in Hannover ultimo 1875</Unicode>
                     </TextEquiv>
@@ -4167,7 +4167,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="2856,3484 2857,3526 3861,3499 4249,3489 4248,3444 3859,3455"/>
                 <TextLine id="line_1644617970254_1325" custom="readingOrder {index:0;}">
                     <Coords points="3085,3481 3345,3470 3346,3515 3086,3526"/>
-                    <Baseline points="3086,3521 3346,3510"/>
+                    <Baseline points="3086,3521 3345,3510"/>
                     <TextEquiv>
                         <Unicode>Zugang 1876</Unicode>
                     </TextEquiv>
@@ -4178,7 +4178,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="4248,3444 4249,3489 4663,3478 4662,3433"/>
                 <TextLine id="line_1644617937327_1313" custom="readingOrder {index:0;}">
                     <Coords points="4327,3441 4611,3434 4612,3476 4328,3483"/>
-                    <Baseline points="4328,3478 4612,3471"/>
+                    <Baseline points="4328,3478 4611,3471"/>
                     <TextEquiv>
                         <Unicode>„ 983. 50.</Unicode>
                     </TextEquiv>
@@ -4220,7 +4220,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="2859,3571 2861,3630 3865,3601 3863,3542"/>
                 <TextLine id="line_1644618097183_1372" custom="readingOrder {index:0;}">
                     <Coords points="3090,3577 3427,3568 3428,3614 3091,3623"/>
-                    <Baseline points="3091,3618 3428,3609"/>
+                    <Baseline points="3091,3618 3427,3609"/>
                     <TextEquiv>
                         <Unicode>1 % Abſchreibung</Unicode>
                     </TextEquiv>
@@ -4254,7 +4254,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="2861,3630 2862,3681 3867,3652 3865,3601"/>
                 <TextLine id="line_1644618129697_1384" custom="readingOrder {index:0;}">
                     <Coords points="3087,3625 3301,3620 3302,3663 3088,3673"/>
-                    <Baseline points="3088,3664 3302,3658"/>
+                    <Baseline points="3088,3664 3301,3658"/>
                     <TextEquiv>
                         <Unicode>Hypotheken</Unicode>
                     </TextEquiv>
@@ -4276,7 +4276,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="4252,3590 4254,3641 4669,3629 4667,3578"/>
                 <TextLine id="line_1644618201274_1404" custom="readingOrder {index:0;}">
                     <Coords points="4332,3584 4615,3580 4616,3623 4333,3627"/>
-                    <Baseline points="4333,3622 4616,3618"/>
+                    <Baseline points="4333,3622 4615,3618"/>
                     <TextEquiv>
                         <Unicode>„ 48,820. —.</Unicode>
                     </TextEquiv>
@@ -4350,7 +4350,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="2864,3727 2866,3785 3871,3751 4257,3739 4255,3688 3869,3698"/>
                 <TextLine id="line_1644618393153_1470" custom="readingOrder {index:0;}">
                     <Coords points="3088,3726 3410,3715 3412,3760 3090,3771"/>
-                    <Baseline points="3090,3766 3412,3755"/>
+                    <Baseline points="3090,3766 3411,3755"/>
                     <TextEquiv>
                         <Unicode>Zugang in 1876</Unicode>
                     </TextEquiv>
@@ -4361,7 +4361,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="4255,3688 4257,3739 4672,3726 4670,3677"/>
                 <TextLine id="line_1644618358685_1462" custom="readingOrder {index:0;}">
                     <Coords points="4337,3691 4617,3682 4618,3723 4338,3732"/>
-                    <Baseline points="4338,3727 4618,3718"/>
+                    <Baseline points="4338,3727 4617,3718"/>
                     <TextEquiv>
                         <Unicode>„ 220. 41.</Unicode>
                     </TextEquiv>
@@ -4384,7 +4384,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="4257,3739 4258,3781 4673,3768 4672,3726"/>
                 <TextLine id="line_1644618476247_1501" custom="readingOrder {index:0;}">
                     <Coords points="4311,3745 4620,3735 4621,3777 4312,3787"/>
-                    <Baseline points="4312,3784 4621,3774"/>
+                    <Baseline points="4312,3784 4620,3774"/>
                     <TextEquiv>
                         <Unicode>ℳ 17,923. 15.</Unicode>
                     </TextEquiv>
@@ -4403,7 +4403,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="2867,3825 2870,3887 3875,3849 4260,3835 4258,3781 3873,3793"/>
                 <TextLine id="line_1644618425490_1482" custom="readingOrder {index:0;}">
                     <Coords points="3092,3829 3429,3819 3430,3863 3093,3873"/>
-                    <Baseline points="3093,3868 3430,3858"/>
+                    <Baseline points="3093,3868 3429,3858"/>
                     <TextEquiv>
                         <Unicode>5 % Abſchreibung</Unicode>
                     </TextEquiv>
@@ -4414,7 +4414,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="4258,3781 4260,3835 4675,3820 4673,3768"/>
                 <TextLine id="line_1644618485234_1506" custom="readingOrder {index:0;}">
                     <Coords points="4334,3791 4620,3781 4622,3824 4336,3834"/>
-                    <Baseline points="4336,3829 4622,3819"/>
+                    <Baseline points="4336,3829 4621,3819"/>
                     <TextEquiv>
                         <Unicode>„ 896. 15.</Unicode>
                     </TextEquiv>
@@ -4425,7 +4425,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="4673,3768 4675,3820 4898,3812 4896,3761"/>
                 <TextLine id="line_1644618555878_1532" custom="readingOrder {index:0;}">
                     <Coords points="4766,3775 4893,3772 4894,3817 4767,3820"/>
-                    <Baseline points="4767,3815 4894,3812"/>
+                    <Baseline points="4767,3815 4893,3812"/>
                     <TextEquiv>
                         <Unicode>17,027</Unicode>
                     </TextEquiv>
@@ -4458,7 +4458,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="2870,3887 2872,3942 3878,3911 4262,3899 4677,3886 4675,3820 4260,3835 3875,3849"/>
                 <TextLine id="line_1644618674617_1569" custom="readingOrder {index:0;}">
                     <Coords points="2889,3893 4331,3847 4332,3894 2890,3940"/>
-                    <Baseline points="2890,3935 4332,3889"/>
+                    <Baseline points="2890,3935 4331,3889"/>
                     <TextEquiv>
                         <Unicode>Guthaben an noch nicht fälligen Zinſen, bis 31. Dezember cr. berechnet</Unicode>
                     </TextEquiv>
@@ -4469,7 +4469,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="4675,3820 4677,3886 4900,3880 4898,3812"/>
                 <TextLine id="line_1644618703715_1581" custom="readingOrder {index:0;}">
                     <Coords points="4770,3834 4893,3830 4894,3873 4771,3877"/>
-                    <Baseline points="4771,3872 4894,3868"/>
+                    <Baseline points="4771,3872 4893,3868"/>
                     <TextEquiv>
                         <Unicode>16,949</Unicode>
                     </TextEquiv>
@@ -4495,7 +4495,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="2872,3942 2874,4003 3880,3974 4264,3964 4680,3953 4677,3886 4262,3899 3878,3911"/>
                 <TextLine id="line_1644618807038_1616" custom="readingOrder {index:0;}">
                     <Coords points="4465,3905 4629,3900 4630,3939 4466,3944"/>
-                    <Baseline points="4466,3939 4630,3934"/>
+                    <Baseline points="4466,3939 4629,3934"/>
                     <TextEquiv>
                         <Unicode>Summa</Unicode>
                     </TextEquiv>
@@ -4506,7 +4506,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="4677,3886 4680,3953 4901,3947 4900,3880"/>
                 <TextLine id="line_1644618761280_1607" custom="readingOrder {index:0;}">
                     <Coords points="4689,3895 4894,3890 4895,3930 4690,3935"/>
-                    <Baseline points="4690,3930 4895,3925"/>
+                    <Baseline points="4690,3930 4894,3925"/>
                     <TextEquiv>
                         <Unicode>13,292,162</Unicode>
                     </TextEquiv>
@@ -4517,7 +4517,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="4900,3880 4901,3947 4989,3945 4987,3878"/>
                 <TextLine id="line_1644618752574_1602" custom="readingOrder {index:0;}">
                     <Coords points="4910,3891 4955,3889 4956,3929 4911,3931"/>
-                    <Baseline points="4911,3926 4956,3924"/>
+                    <Baseline points="4911,3926 4955,3924"/>
                     <TextEquiv>
                         <Unicode>45</Unicode>
                     </TextEquiv>
@@ -4565,7 +4565,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="2808,4067 2810,4112 2877,4109 2876,4064"/>
                 <TextLine id="line_1644957310019_40" custom="readingOrder {index:0;}">
                     <Coords points="2846,4070 2867,4070 2868,4109 2847,4109"/>
-                    <Baseline points="2847,4106 2868,4106"/>
+                    <Baseline points="2847,4106 2867,4106"/>
                     <TextEquiv>
                         <Unicode>1</Unicode>
                     </TextEquiv>
@@ -4587,7 +4587,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="4681,4005 4683,4047 4904,4040 4903,3998"/>
                 <TextLine id="line_1644957364635_55" custom="readingOrder {index:0;}">
                     <Coords points="4712,4005 4900,4002 4903,4045 4715,4048"/>
-                    <Baseline points="4714,4043 4901,4040"/>
+                    <Baseline points="4714,4042 4901,4040"/>
                     <TextEquiv>
                         <Unicode>6,000,000</Unicode>
                     </TextEquiv>
@@ -4609,7 +4609,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="2810,4112 2812,4153 2879,4150 2877,4109"/>
                 <TextLine id="line_1644957476294_83" custom="readingOrder {index:0;}">
                     <Coords points="2847,4116 2868,4115 2870,4154 2849,4155"/>
-                    <Baseline points="2849,4150 2870,4149"/>
+                    <Baseline points="2849,4150 2869,4149"/>
                     <TextEquiv>
                         <Unicode>2</Unicode>
                     </TextEquiv>
@@ -4620,7 +4620,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="2877,4109 2879,4150 3886,4116 4268,4103 4684,4090 4683,4047 4267,4061 3884,4074"/>
                 <TextLine id="line_1644957519840_97" custom="readingOrder {index:0;}">
                     <Coords points="2893,4108 3202,4097 3204,4141 2895,4152"/>
-                    <Baseline points="2895,4147 3204,4136"/>
+                    <Baseline points="2895,4147 3203,4136"/>
                     <TextEquiv>
                         <Unicode>Kapital⸗Reſerve</Unicode>
                     </TextEquiv>
@@ -4631,7 +4631,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="4683,4047 4684,4090 4905,4083 4904,4040"/>
                 <TextLine id="line_1644957560589_107" custom="readingOrder {index:0;}">
                     <Coords points="4772,4049 4899,4046 4900,4088 4773,4091"/>
-                    <Baseline points="4773,4086 4900,4083"/>
+                    <Baseline points="4773,4086 4899,4083"/>
                     <TextEquiv>
                         <Unicode>48,685</Unicode>
                     </TextEquiv>
@@ -4642,7 +4642,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="4904,4040 4905,4083 4994,4081 4992,4037"/>
                 <TextLine id="line_1644957588797_117" custom="readingOrder {index:0;}">
                     <Coords points="4912,4046 4960,4045 4961,4086 4913,4087"/>
-                    <Baseline points="4917,4082 4961,4081"/>
+                    <Baseline points="4917,4082 4960,4081"/>
                     <TextEquiv>
                         <Unicode>65</Unicode>
                     </TextEquiv>
@@ -4675,7 +4675,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="4684,4090 4686,4134 4907,4127 4905,4083"/>
                 <TextLine id="line_1644957680480_145" custom="readingOrder {index:0;}">
                     <Coords points="4797,4097 4901,4095 4902,4132 4798,4134"/>
-                    <Baseline points="4798,4129 4902,4128"/>
+                    <Baseline points="4798,4129 4901,4128"/>
                     <TextEquiv>
                         <Unicode>4,224</Unicode>
                     </TextEquiv>
@@ -4686,7 +4686,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="4905,4083 4907,4127 4996,4124 4994,4081"/>
                 <TextLine id="line_1644957713766_156" custom="readingOrder {index:0;}">
                     <Coords points="4913,4093 4960,4092 4963,4133 4916,4134"/>
-                    <Baseline points="4916,4131 4963,4130"/>
+                    <Baseline points="4916,4131 4962,4130"/>
                     <TextEquiv>
                         <Unicode>71</Unicode>
                     </TextEquiv>
@@ -4708,7 +4708,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="2880,4196 2882,4240 3889,4205 4271,4192 4687,4178 4686,4134 4269,4148 3888,4161"/>
                 <TextLine id="line_1644957771668_176" custom="readingOrder {index:0;}">
                     <Coords points="2895,4198 3761,4171 3764,4216 2898,4243"/>
-                    <Baseline points="2898,4238 3764,4211"/>
+                    <Baseline points="2898,4238 3763,4211"/>
                     <TextEquiv>
                         <Unicode>Reſerve für mit Gewinnantheil Verſicherte</Unicode>
                     </TextEquiv>
@@ -4730,7 +4730,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="4907,4127 4908,4171 4998,4168 4996,4124"/>
                 <TextLine id="line_1644957832030_195" custom="readingOrder {index:0;}">
                     <Coords points="4915,4135 4963,4134 4965,4177 4917,4178"/>
-                    <Baseline points="4917,4175 4965,4174"/>
+                    <Baseline points="4917,4175 4964,4174"/>
                     <TextEquiv>
                         <Unicode>84</Unicode>
                     </TextEquiv>
@@ -4741,7 +4741,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="2816,4243 2818,4289 2883,4286 2882,4240"/>
                 <TextLine id="line_1644957862404_205" custom="readingOrder {index:0;}">
                     <Coords points="2853,4249 2873,4248 2875,4288 2855,4289"/>
-                    <Baseline points="2855,4288 2875,4287"/>
+                    <Baseline points="2855,4288 2874,4287"/>
                     <TextEquiv>
                         <Unicode>5</Unicode>
                     </TextEquiv>
@@ -4774,7 +4774,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="4908,4171 4909,4221 5000,4219 4998,4168"/>
                 <TextLine id="line_1644958007612_245" custom="readingOrder {index:0;}">
                     <Coords points="4918,4183 4963,4182 4964,4223 4919,4224"/>
-                    <Baseline points="4919,4220 4964,4219"/>
+                    <Baseline points="4919,4220 4963,4219"/>
                     <TextEquiv>
                         <Unicode>23</Unicode>
                     </TextEquiv>
@@ -4785,7 +4785,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="2818,4289 2820,4335 2885,4332 2883,4286"/>
                 <TextLine id="line_1644958045833_255" custom="readingOrder {index:0;}">
                     <Coords points="2856,4294 2876,4293 2878,4334 2858,4335"/>
-                    <Baseline points="2858,4333 2878,4332"/>
+                    <Baseline points="2858,4333 2877,4332"/>
                     <TextEquiv>
                         <Unicode>6</Unicode>
                     </TextEquiv>
@@ -4796,7 +4796,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="2883,4286 2885,4332 3893,4299 4274,4287 4691,4274 4689,4228 4272,4241 3891,4253"/>
                 <TextLine id="line_1644958093314_272" custom="readingOrder {index:0;}">
                     <Coords points="2901,4288 3290,4278 3292,4324 2903,4334"/>
-                    <Baseline points="2903,4326 3292,4316"/>
+                    <Baseline points="2903,4326 3291,4316"/>
                     <TextEquiv>
                         <Unicode>Prämien⸗Ueberträge</Unicode>
                     </TextEquiv>
@@ -4840,7 +4840,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="2885,4332 2887,4378 3895,4345 4275,4333 4274,4287 3893,4299"/>
                 <TextLine id="line_1644958299471_315" custom="readingOrder {index:0;}">
                     <Coords points="2904,4337 3226,4329 3227,4370 2905,4378"/>
-                    <Baseline points="2905,4373 3227,4365"/>
+                    <Baseline points="2905,4373 3226,4365"/>
                     <TextEquiv>
                         <Unicode>Schäden⸗Reſerve</Unicode>
                     </TextEquiv>
@@ -4870,7 +4870,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="2887,4378 2888,4430 3897,4393 4277,4380 4275,4333 3895,4345"/>
                 <TextLine id="line_1644958474682_343" custom="readingOrder {index:0;}">
                     <Coords points="3181,4365 3836,4344 3837,4394 3182,4415"/>
-                    <Baseline points="3182,4410 3837,4389"/>
+                    <Baseline points="3182,4410 3836,4389"/>
                     <TextEquiv>
                         <Unicode>ab durch Rückverſicherung gedeckt</Unicode>
                     </TextEquiv>
@@ -4881,7 +4881,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="4275,4333 4277,4380 4694,4365 4692,4320"/>
                 <TextLine id="line_1644958555636_366" custom="readingOrder {index:0;}">
                     <Coords points="4355,4333 4638,4323 4640,4369 4357,4379"/>
-                    <Baseline points="4357,4374 4640,4364"/>
+                    <Baseline points="4357,4374 4639,4364"/>
                     <TextEquiv>
                         <Unicode>„ 33,000. —.</Unicode>
                     </TextEquiv>
@@ -4892,7 +4892,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="4692,4320 4694,4365 4913,4358 4912,4313"/>
                 <TextLine id="line_1644958580354_375" custom="readingOrder {index:0;}">
                     <Coords points="4758,4321 4908,4318 4909,4360 4759,4363"/>
-                    <Baseline points="4760,4359 4909,4355"/>
+                    <Baseline points="4760,4359 4908,4355"/>
                     <TextEquiv>
                         <Unicode>284,658</Unicode>
                     </TextEquiv>
@@ -4925,7 +4925,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="2888,4430 2890,4481 3899,4445 4278,4432 4696,4418 4694,4365 4277,4380 3897,4393"/>
                 <TextLine id="line_1644958675633_403" custom="readingOrder {index:0;}">
                     <Coords points="2907,4434 4057,4401 4060,4446 2910,4479"/>
-                    <Baseline points="2910,4474 4060,4441"/>
+                    <Baseline points="2910,4474 4059,4441"/>
                     <TextEquiv>
                         <Unicode>Amortiſations⸗ und Garantiefond für Kautions⸗Darlehne</Unicode>
                     </TextEquiv>
@@ -4936,7 +4936,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="4694,4365 4696,4418 4915,4411 4913,4358"/>
                 <TextLine id="line_1644958725224_412" custom="readingOrder {index:0;}">
                     <Coords points="4784,4375 4908,4371 4909,4415 4785,4419"/>
-                    <Baseline points="4785,4414 4909,4410"/>
+                    <Baseline points="4785,4414 4908,4410"/>
                     <TextEquiv>
                         <Unicode>21,924</Unicode>
                     </TextEquiv>
@@ -4969,7 +4969,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="2890,4481 2892,4528 3901,4493 4280,4480 4697,4466 4696,4418 4278,4432 3899,4445"/>
                 <TextLine id="line_1644958817313_439" custom="readingOrder {index:0;}">
                     <Coords points="2906,4483 3110,4476 3113,4517 2909,4524"/>
-                    <Baseline points="2909,4522 3113,4515"/>
+                    <Baseline points="2909,4522 3112,4515"/>
                     <TextEquiv>
                         <Unicode>Kreditoren</Unicode>
                     </TextEquiv>
@@ -4991,7 +4991,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="4915,4411 4916,4459 5010,4456 5008,4408"/>
                 <TextLine id="line_1644958882362_457" custom="readingOrder {index:0;}">
                     <Coords points="4925,4421 4971,4420 4972,4460 4926,4461"/>
-                    <Baseline points="4926,4459 4972,4458"/>
+                    <Baseline points="4926,4459 4971,4458"/>
                     <TextEquiv>
                         <Unicode>59</Unicode>
                     </TextEquiv>
@@ -5013,7 +5013,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="2892,4528 2894,4577 3903,4542 4281,4529 4280,4480 3901,4493"/>
                 <TextLine id="line_1644958955935_475" custom="readingOrder {index:0;}">
                     <Coords points="2910,4528 3841,4498 3842,4541 2911,4571"/>
-                    <Baseline points="2916,4565 3842,4536"/>
+                    <Baseline points="2916,4565 3841,4536"/>
                     <TextEquiv>
                         <Unicode>Unerhobene Dividende der Aktionäre pro 1872</Unicode>
                     </TextEquiv>
@@ -5073,7 +5073,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="2895,4619 2897,4664 3906,4627 4284,4613 4282,4570 3904,4583"/>
                 <TextLine id="line_1644959305378_536" custom="readingOrder {index:0;}">
                     <Coords points="3326,4600 3848,4586 3852,4632 3330,4646"/>
-                    <Baseline points="3330,4642 3852,4623"/>
+                    <Baseline points="3330,4642 3851,4623"/>
                     <TextEquiv>
                         <Unicode>do. 1874</Unicode>
                     </TextEquiv>
@@ -5114,7 +5114,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="4284,4613 4285,4668 4704,4655 4702,4598"/>
                 <TextLine id="line_1644959443203_576" custom="readingOrder {index:0;}">
                     <Coords points="4366,4616 4648,4612 4649,4652 4367,4664 4367,4656"/>
-                    <Baseline points="4366,4654 4644,4647"/>
+                    <Baseline points="4366,4653 4644,4647"/>
                     <TextEquiv>
                         <Unicode>„ 837. —.</Unicode>
                     </TextEquiv>
@@ -5147,7 +5147,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="2836,4714 2838,4770 2900,4767 2898,4711"/>
                 <TextLine id="line_1644959582109_604" custom="readingOrder {index:0;}">
                     <Coords points="2850,4728 2893,4727 2894,4767 2851,4768"/>
-                    <Baseline points="2851,4764 2894,4763"/>
+                    <Baseline points="2851,4764 2893,4763"/>
                     <TextEquiv>
                         <Unicode>11</Unicode>
                     </TextEquiv>
@@ -5158,7 +5158,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="2898,4711 2900,4767 3910,4730 4287,4716 4705,4701 4704,4655 4285,4668 3908,4679"/>
                 <TextLine id="line_1644959626924_619" custom="readingOrder {index:0;}">
                     <Coords points="2920,4719 4279,4671 4281,4721 2922,4769"/>
-                    <Baseline points="2922,4764 4281,4716"/>
+                    <Baseline points="2922,4764 4280,4716"/>
                     <TextEquiv>
                         <Unicode>Zinſen (überhobener Wechſeldiskont per 31. Dezember cr. berechnet)</Unicode>
                     </TextEquiv>
@@ -5180,7 +5180,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="4922,4649 4923,4694 5016,4691 5014,4647"/>
                 <TextLine id="line_1644959678252_638" custom="readingOrder {index:0;}">
                     <Coords points="4935,4658 4981,4657 4982,4700 4936,4701"/>
-                    <Baseline points="4936,4697 4982,4696"/>
+                    <Baseline points="4936,4697 4981,4696"/>
                     <TextEquiv>
                         <Unicode>02</Unicode>
                     </TextEquiv>
@@ -5202,7 +5202,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="2900,4767 2902,4807 3912,4772 4288,4759 4287,4716 3910,4730"/>
                 <TextLine id="line_1644959762628_662" custom="readingOrder {index:0;}">
                     <Coords points="2922,4769 3453,4751 3456,4791 2925,4809"/>
-                    <Baseline points="2925,4804 3456,4786"/>
+                    <Baseline points="2925,4804 3455,4786"/>
                     <TextEquiv>
                         <Unicode>Gewinn⸗Vortrag aus 1875</Unicode>
                     </TextEquiv>
@@ -5213,7 +5213,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="4287,4716 4288,4759 4707,4745 4705,4701"/>
                 <TextLine id="line_1644959793383_672" custom="readingOrder {index:0;}">
                     <Coords points="4345,4716 4646,4708 4648,4751 4347,4759"/>
-                    <Baseline points="4346,4757 4646,4749"/>
+                    <Baseline points="4346,4756 4646,4749"/>
                     <TextEquiv>
                         <Unicode>ℳ 806. 66.</Unicode>
                     </TextEquiv>
@@ -5265,7 +5265,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="4707,4745 4709,4799 4926,4793 4924,4738"/>
                 <TextLine id="line_1644959921221_710" custom="readingOrder {index:0;}">
                     <Coords points="4797,4752 4921,4748 4922,4790 4845,4799 4798,4794"/>
-                    <Baseline points="4800,4790 4922,4786"/>
+                    <Baseline points="4800,4790 4921,4786"/>
                     <TextEquiv>
                         <Unicode>83,068</Unicode>
                     </TextEquiv>
@@ -5306,7 +5306,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="2905,4910 2907,4954 3918,4921 4293,4909 4292,4867 3916,4878"/>
                 <TextLine id="line_1644960145239_780" custom="readingOrder {index:0;}">
                     <Coords points="3131,4903 3594,4893 3595,4935 3132,4945"/>
-                    <Baseline points="3130,4942 3595,4930"/>
+                    <Baseline points="3131,4941 3594,4930"/>
                     <TextEquiv>
                         <Unicode>a. Zur Kapital⸗Reſerve</Unicode>
                     </TextEquiv>
@@ -5336,7 +5336,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="2907,4954 2910,5047 3921,5011 4296,4998 4293,4909 3918,4921"/>
                 <TextLine id="line_1644960254405_821" custom="readingOrder {index:0;}">
                     <Coords points="3137,4950 4323,4915 4324,4957 3138,4992"/>
-                    <Baseline points="3138,4987 4324,4952"/>
+                    <Baseline points="3138,4987 4323,4952"/>
                     <TextEquiv>
                         <Unicode>b. Tantième für den Aufſichtsrath und die Vorſtandsmit⸗</Unicode>
                     </TextEquiv>
@@ -5373,7 +5373,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="2910,5047 2912,5100 3923,5059 4297,5044 4296,4998 3921,5011"/>
                 <TextLine id="line_1644960439432_859" custom="readingOrder {index:0;}">
                     <Coords points="3136,5040 3842,5020 3844,5063 3138,5083"/>
-                    <Baseline points="3138,5078 3844,5058"/>
+                    <Baseline points="3138,5078 3843,5058"/>
                     <TextEquiv>
                         <Unicode>c. 5 % Dividende an die Aktionäre</Unicode>
                     </TextEquiv>
@@ -5403,7 +5403,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="2912,5100 2913,5141 3925,5103 4299,5090 4297,5044 3923,5059"/>
                 <TextLine id="line_1644960520637_881" custom="readingOrder {index:0;}">
                     <Coords points="3140,5081 4325,5049 4326,5095 3141,5127"/>
-                    <Baseline points="3141,5122 4326,5090"/>
+                    <Baseline points="3141,5122 4325,5090"/>
                     <TextEquiv>
                         <Unicode>d. Gewinn⸗Reſerve für die mit Gewinn⸗Antheil Verſicherten</Unicode>
                     </TextEquiv>
@@ -5501,7 +5501,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="4302,5187 4303,5246 4724,5233 4721,5173"/>
                 <TextLine id="line_1644960807894_961" custom="readingOrder {index:0;}">
                     <Coords points="3998,5204 4666,5190 4667,5233 3999,5247"/>
-                    <Baseline points="3999,5242 4667,5228"/>
+                    <Baseline points="3999,5242 4666,5228"/>
                     <TextEquiv>
                         <Unicode>wie nebenſtehend ℳ 83,068. 07.</Unicode>
                     </TextEquiv>
@@ -5535,7 +5535,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="4724,5233 4726,5302 4941,5298 4939,5227"/>
                 <TextLine id="line_1644960856253_980" custom="readingOrder {index:0;}">
                     <Coords points="4732,5236 4935,5232 4936,5279 4733,5283"/>
-                    <Baseline points="4733,5278 4936,5274"/>
+                    <Baseline points="4733,5278 4935,5274"/>
                     <TextEquiv>
                         <Unicode>13,292,162</Unicode>
                     </TextEquiv>
@@ -5546,7 +5546,7 @@ für das Jahr 1876.</Unicode>
                 <Coords points="4939,5227 4941,5298 5034,5296 5032,5225"/>
                 <TextLine id="line_1644960862358_985" custom="readingOrder {index:0;}">
                     <Coords points="4951,5234 4995,5233 4996,5278 4952,5279"/>
-                    <Baseline points="4952,5274 4996,5273"/>
+                    <Baseline points="4952,5274 4995,5273"/>
                     <TextEquiv>
                         <Unicode>45</Unicode>
                     </TextEquiv>
@@ -5600,14 +5600,14 @@ für das Jahr 1876.</Unicode>
             </TextLine>
             <TextLine id="r24l7" custom="readingOrder {index:6;}">
                 <Coords points="3172,5661 3389,5653 3392,5695 3177,5709"/>
-                <Baseline points="3175,5698 3389,5690"/>
+                <Baseline points="3175,5697 3389,5690"/>
                 <TextEquiv>
                     <Unicode>„ 30,300.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r24l8" custom="readingOrder {index:7;}">
                 <Coords points="3173,5707 3388,5699 3390,5739 3177,5750"/>
-                <Baseline points="3175,5742 3390,5734"/>
+                <Baseline points="3176,5741 3389,5734"/>
                 <TextEquiv>
                     <Unicode>„ 69,000.</Unicode>
                 </TextEquiv>
@@ -5621,7 +5621,7 @@ für das Jahr 1876.</Unicode>
             </TextLine>
             <TextLine id="r24l10" custom="readingOrder {index:9;}">
                 <Coords points="3178,5797 3392,5786 3394,5831 3181,5846"/>
-                <Baseline points="3182,5834 3394,5826"/>
+                <Baseline points="3182,5834 3393,5826"/>
                 <TextEquiv>
                     <Unicode>„ 8,100.</Unicode>
                 </TextEquiv>
@@ -5656,14 +5656,14 @@ für das Jahr 1876.</Unicode>
             </TextLine>
             <TextLine id="r24l15" custom="readingOrder {index:14;}">
                 <Coords points="3184,6017 3401,6010 3402,6054 3187,6066"/>
-                <Baseline points="3185,6056 3395,6050"/>
+                <Baseline points="3186,6055 3395,6050"/>
                 <TextEquiv>
                     <Unicode>„ 18,000.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r24l16" custom="readingOrder {index:15;}">
                 <Coords points="3546,5325 4314,5306 4315,5358 3547,5377"/>
-                <Baseline points="3547,5370 3945,5357 4315,5351"/>
+                <Baseline points="3547,5370 3945,5357 4314,5351"/>
                 <TextEquiv>
                     <Unicode>*) Spezifikation der Obligationen:</Unicode>
                 </TextEquiv>
@@ -5691,7 +5691,7 @@ für das Jahr 1876.</Unicode>
             </TextLine>
             <TextLine id="r24l20" custom="readingOrder {index:19;}">
                 <Coords points="3433,5514 4198,5491 4221,5498 4232,5524 4232,5533 3461,5559 3433,5552 3433,5519"/>
-                <Baseline points="3436,5553 3833,5540 4045,5535 4072,5534 4232,5533"/>
+                <Baseline points="3436,5552 3833,5540 4045,5535 4072,5534 4232,5533"/>
                 <TextEquiv>
                     <Unicode>4 ½ % tige Rheiniſche Prioritäten 1862/64.</Unicode>
                 </TextEquiv>
@@ -5705,14 +5705,14 @@ für das Jahr 1876.</Unicode>
             </TextLine>
             <TextLine id="r24l22" custom="readingOrder {index:21;}">
                 <Coords points="3435,5608 3460,5606 3658,5597 3950,5589 4376,5581 4422,5592 4434,5609 4434,5618 4355,5626 3460,5647 3435,5640"/>
-                <Baseline points="3438,5641 3571,5638 3597,5637 3907,5630 3933,5629 4148,5624 4172,5624 4220,5623 4245,5623 4434,5617"/>
+                <Baseline points="3438,5640 3571,5638 3597,5637 3907,5630 3933,5629 4148,5624 4172,5624 4220,5623 4245,5623 4434,5617"/>
                 <TextEquiv>
                     <Unicode>4 % tige Cöln⸗Mindener Prioritäten II. Emiſſion.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r24l23" custom="readingOrder {index:22;}">
                 <Coords points="3434,5654 3521,5644 4318,5630 4338,5630 4362,5639 4374,5655 4374,5664 3463,5693 3434,5687"/>
-                <Baseline points="3434,5687 3508,5685 3521,5685 3593,5683 3804,5676 3855,5675 4155,5667 4224,5667 4318,5666 4374,5664"/>
+                <Baseline points="3434,5687 3508,5685 3521,5685 3593,5683 3804,5676 3855,5675 4155,5667 4224,5667 4317,5665 4374,5664"/>
                 <TextEquiv>
                     <Unicode>4 ½ % tige do. III. do.</Unicode>
                 </TextEquiv>
@@ -5726,77 +5726,77 @@ für das Jahr 1876.</Unicode>
             </TextLine>
             <TextLine id="r24l25" custom="readingOrder {index:24;}">
                 <Coords points="3438,5743 3462,5741 3626,5730 4142,5723 4230,5722 4260,5722 4273,5749 4273,5757 3553,5782 3462,5781 3438,5775"/>
-                <Baseline points="3440,5777 3574,5773 3598,5772 3876,5766 3901,5766 4142,5759 4204,5757 4273,5757"/>
+                <Baseline points="3440,5775 3574,5773 3598,5772 3876,5766 3901,5766 4142,5759 4204,5757 4273,5757"/>
                 <TextEquiv>
                     <Unicode>4 % tige Oberſchleſiſche Prioritäten La. D.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r24l26" custom="readingOrder {index:25;}">
                 <Coords points="3444,5787 4564,5754 4585,5754 4602,5755 4604,5796 3487,5830 3444,5820"/>
-                <Baseline points="3442,5820 3492,5820 3517,5819 3580,5818 3604,5817 4602,5793"/>
+                <Baseline points="3444,5820 3492,5820 3517,5819 3580,5818 3604,5817 4602,5793"/>
                 <TextEquiv>
                     <Unicode>4 % tige Berlin⸗Potsdam⸗Magdeburger Prioritäten La. C.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r24l27" custom="readingOrder {index:26;}">
                 <Coords points="3443,5831 3657,5818 4353,5806 4394,5806 4475,5814 4475,5846 3478,5877 3443,5865"/>
-                <Baseline points="3445,5868 3602,5865 3700,5866 4476,5841"/>
+                <Baseline points="3445,5865 3602,5865 3700,5866 4475,5841"/>
                 <TextEquiv>
                     <Unicode>3 ½ % tige Bergiſch⸗Märkiſche Prioritäten III. Serie.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r24l28" custom="readingOrder {index:27;}">
                 <Coords points="3445,5875 4259,5855 4287,5855 4299,5882 4300,5895 3481,5925 3445,5910"/>
-                <Baseline points="3446,5913 3603,5910 3630,5909 3903,5901 3929,5901 4147,5896 4171,5895 4232,5894 4259,5893 4298,5892"/>
+                <Baseline points="3446,5910 3603,5910 3630,5909 3903,5901 3929,5901 4147,5896 4171,5895 4232,5894 4259,5893 4298,5892"/>
                 <TextEquiv>
                     <Unicode>3 ½ % tige Oberſchleſiſche Prioritäten La. E.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r24l29" custom="readingOrder {index:28;}">
                 <Coords points="3444,5920 4215,5902 4233,5912 4233,5942 3478,5968 3444,5955"/>
-                <Baseline points="3444,5956 3600,5952 3627,5952 3822,5949 3849,5948 4233,5937"/>
+                <Baseline points="3444,5955 3600,5952 3627,5952 3822,5949 3849,5948 4233,5937"/>
                 <TextEquiv>
                     <Unicode>3 ½ % tige Preußiſche Staatsſchuldſcheine.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r24l30" custom="readingOrder {index:29;}">
                 <Coords points="3445,5965 3470,5964 3652,5957 4158,5948 4172,5986 3470,6007 3445,6000"/>
-                <Baseline points="3448,6001 3603,5999 3626,5999 3850,5995 4168,5984"/>
+                <Baseline points="3448,6000 3603,5999 3626,5999 3850,5995 4168,5984"/>
                 <TextEquiv>
                     <Unicode>3 ½ % tige Preußiſche Prämienanleihe.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r24l31" custom="readingOrder {index:30;}">
                 <Coords points="3445,6011 3471,6009 4228,5988 4258,5999 4258,6026 4228,6036 3481,6056 3445,6044"/>
-                <Baseline points="3447,6046 3601,6043 3627,6042 3825,6039 3853,6039 4073,6032 4096,6031 4258,6025"/>
+                <Baseline points="3447,6044 3601,6043 3627,6042 3825,6039 3853,6039 4073,6032 4096,6031 4258,6025"/>
                 <TextEquiv>
                     <Unicode>4 ½ % tige Preußiſche konſolidirte Anleihe.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r24l32" custom="readingOrder {index:31;}">
                 <Coords points="3169,6076 3773,6060 3775,6104 3171,6120"/>
-                <Baseline points="3173,6114 3375,6105 3775,6099"/>
+                <Baseline points="3173,6114 3375,6105 3774,6099"/>
                 <TextEquiv>
                     <Unicode>ℳ 489,000. Nominal⸗Werth.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r24l33" custom="readingOrder {index:32;}">
                 <Coords points="3104,6123 3134,6118 3558,6108 3761,6105 3781,6105 3792,6134 3792,6142 3660,6149 3346,6158 3134,6166 3104,6161"/>
-                <Baseline points="3108,6162 3369,6151 3393,6150 3479,6148 3792,6142"/>
+                <Baseline points="3108,6161 3369,6151 3393,6150 3479,6148 3792,6142"/>
                 <TextEquiv>
                     <Unicode>Magdeburg, den 31. März 1877.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r24l34" custom="readingOrder {index:33;}">
                 <Coords points="3315,6164 4602,6130 4604,6197 3515,6237 3317,6231"/>
-                <Baseline points="3317,6226 4604,6192"/>
+                <Baseline points="3317,6226 4603,6192"/>
                 <TextEquiv>
                     <Unicode>Magdeburger Lebens⸗Verſicherungs⸗Geſellſchaft.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r24l35" custom="readingOrder {index:34;}">
                 <Coords points="3577,6231 3930,6219 3933,6263 3580,6275"/>
-                <Baseline points="3578,6273 3932,6264"/>
+                <Baseline points="3579,6272 3931,6263"/>
                 <TextEquiv>
                     <Unicode>W. C. Schmidt.</Unicode>
                 </TextEquiv>
@@ -5810,7 +5810,7 @@ für das Jahr 1876.</Unicode>
             </TextLine>
             <TextLine id="r24l37" custom="readingOrder {index:36;}">
                 <Coords points="3111,6286 5034,6237 5035,6287 3112,6336"/>
-                <Baseline points="3112,6331 5035,6282"/>
+                <Baseline points="3112,6331 5034,6282"/>
                 <TextEquiv>
                     <Unicode>Die Uebereinſtimmung des vorſtehenden Rechnungs⸗Abſchluſſes mit den Büchern der Geſellſchaft</Unicode>
                 </TextEquiv>
@@ -5824,7 +5824,7 @@ für das Jahr 1876.</Unicode>
             </TextLine>
             <TextLine id="r24l39" custom="readingOrder {index:38;}">
                 <Coords points="3112,6379 3753,6366 3754,6410 3113,6423"/>
-                <Baseline points="3113,6418 3754,6405"/>
+                <Baseline points="3113,6418 3753,6405"/>
                 <TextEquiv>
                     <Unicode>Magdeburg, den 3. Mai 1877.</Unicode>
                 </TextEquiv>
@@ -5891,7 +5891,7 @@ L. Lippert. J. Dietz. H. L. Warnecke.</Unicode>
             <Coords points="6724,425 8112,429 8112,588 6724,584"/>
             <TextLine id="r25l1" custom="readingOrder {index:0;}">
                 <Coords points="6750,457 8091,442 8093,558 6752,573"/>
-                <Baseline points="6754,552 8093,553"/>
+                <Baseline points="6754,552 8092,553"/>
                 <TextEquiv>
                     <Unicode>Zweite Beilage</Unicode>
                 </TextEquiv>
@@ -6210,7 +6210,7 @@ Monat April 1877.</Unicode>
             </TextLine>
             <TextLine id="r36l9" custom="readingOrder {index:8;}">
                 <Coords points="5254,2509 5807,2508 6184,2508 6256,2510 6308,2522 6308,2550 6256,2560 6153,2560 5374,2559 5255,2552"/>
-                <Baseline points="5254,2550 5328,2550 5374,2550 5531,2550 5576,2550 5634,2550 5662,2550 5778,2549 5807,2549 5839,2549 5873,2549 5917,2549 5950,2549 6028,2548 6070,2548 6117,2549 6153,2549 6302,2550"/>
+                <Baseline points="5254,2549 5328,2550 5374,2550 5531,2550 5576,2550 5634,2550 5662,2550 5778,2549 5807,2549 5839,2549 5873,2549 5917,2549 5950,2549 6028,2548 6070,2548 6117,2549 6153,2549 6302,2550"/>
                 <TextEquiv>
                     <Unicode>den Firmen im März d. J. und 71 Zeichen</Unicode>
                 </TextEquiv>
@@ -6231,7 +6231,7 @@ Monat April 1877.</Unicode>
             </TextLine>
             <TextLine id="r36l12" custom="readingOrder {index:11;}">
                 <Coords points="5252,2674 5347,2664 5741,2662 6067,2662 6240,2663 6265,2664 6306,2675 6306,2704 6067,2713 5608,2714 5514,2714 5252,2704"/>
-                <Baseline points="5256,2705 5417,2705 5461,2704 5698,2703 5741,2703 5797,2703 5839,2703 5888,2702 5934,2702 6302,2705"/>
+                <Baseline points="5256,2704 5417,2705 5461,2704 5698,2703 5741,2703 5797,2703 5839,2703 5888,2702 5934,2702 6301,2704"/>
                 <TextEquiv>
                     <Unicode>wurden angemeldet bei 24 Gerichtsanmelde⸗</Unicode>
                 </TextEquiv>
@@ -6245,14 +6245,14 @@ Monat April 1877.</Unicode>
             </TextLine>
             <TextLine id="r36l14" custom="readingOrder {index:13;}">
                 <Coords points="5253,2765 5424,2765 5642,2766 5684,2767 5785,2778 5785,2806 5669,2816 5627,2817 5329,2817 5253,2816"/>
-                <Baseline points="5254,2808 5477,2807 5504,2807 5779,2807"/>
+                <Baseline points="5254,2808 5477,2807 5504,2807 5778,2806"/>
                 <TextEquiv>
                     <Unicode>ſammtzahl partizipiren:</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r36l15" custom="readingOrder {index:14;}">
                 <Coords points="5282,2820 5360,2817 5530,2816 5530,2871 5360,2868 5282,2857"/>
-                <Baseline points="5283,2860 5521,2858"/>
+                <Baseline points="5283,2857 5521,2858"/>
                 <TextEquiv>
                     <Unicode>18 Leipzig,</Unicode>
                 </TextEquiv>
@@ -6266,14 +6266,14 @@ Monat April 1877.</Unicode>
             </TextLine>
             <TextLine id="r36l17" custom="readingOrder {index:16;}">
                 <Coords points="5311,2917 5516,2922 5517,2970 5308,2962"/>
-                <Baseline points="5309,2964 5512,2960"/>
+                <Baseline points="5309,2962 5512,2960"/>
                 <TextEquiv>
                     <Unicode>3 Berlin,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r36l18" custom="readingOrder {index:17;}">
                 <Coords points="5304,2969 5563,2972 5561,3022 5306,3016"/>
-                <Baseline points="5305,3014 5557,3011"/>
+                <Baseline points="5305,3013 5557,3011"/>
                 <TextEquiv>
                     <Unicode>3 Iſerlohn,</Unicode>
                 </TextEquiv>
@@ -6301,7 +6301,7 @@ Monat April 1877.</Unicode>
             </TextLine>
             <TextLine id="r36l22" custom="readingOrder {index:21;}">
                 <Coords points="5864,2967 6076,2971 6075,3020 5865,3016"/>
-                <Baseline points="5864,3012 6071,3011"/>
+                <Baseline points="5864,3011 6071,3011"/>
                 <TextEquiv>
                     <Unicode>2 Mainz,</Unicode>
                 </TextEquiv>
@@ -6392,7 +6392,7 @@ Monat April 1877.</Unicode>
             </TextLine>
             <TextLine id="r36l35" custom="readingOrder {index:34;}">
                 <Coords points="5382,3641 5456,3636 5757,3635 6103,3634 6134,3634 6193,3635 6258,3644 6280,3649 6296,3668 6296,3686 5563,3687 5456,3687 5382,3678"/>
-                <Baseline points="5381,3679 5999,3676 6103,3676 6296,3676"/>
+                <Baseline points="5382,3678 5999,3676 6103,3676 6296,3676"/>
                 <TextEquiv>
                     <Unicode>2 Zeichen: Papier⸗, Leder⸗,</Unicode>
                 </TextEquiv>
@@ -6420,7 +6420,7 @@ Monat April 1877.</Unicode>
             </TextLine>
             <TextLine id="r36l39" custom="readingOrder {index:38;}">
                 <Coords points="5385,3845 5435,3841 5917,3839 6245,3839 6293,3850 6293,3890 5957,3896 5853,3896 5435,3893 5385,3882"/>
-                <Baseline points="5385,3885 5648,3881 5702,3880 5957,3880 6021,3880 6099,3880 6155,3880 6293,3879"/>
+                <Baseline points="5385,3882 5648,3881 5702,3880 5957,3880 6021,3880 6099,3880 6155,3880 6293,3879"/>
                 <TextEquiv>
                     <Unicode>1 Zeichen: Induſtrie der Holz⸗</Unicode>
                 </TextEquiv>
@@ -6476,7 +6476,7 @@ Monat April 1877.</Unicode>
             </TextLine>
             <TextLine id="r36l47" custom="readingOrder {index:46;}">
                 <Coords points="5377,4251 5603,4253 5603,4301 5377,4299"/>
-                <Baseline points="5375,4294 5594,4293"/>
+                <Baseline points="5377,4294 5594,4293"/>
                 <TextEquiv>
                     <Unicode>zeichnung;</Unicode>
                 </TextEquiv>
@@ -6497,7 +6497,7 @@ Monat April 1877.</Unicode>
             </TextLine>
             <TextLine id="r36l50" custom="readingOrder {index:49;}">
                 <Coords points="5324,4407 5378,4404 5632,4402 5974,4401 6210,4401 6286,4413 6286,4451 5897,4453 5504,4454 5416,4454 5324,4445"/>
-                <Baseline points="5326,4446 5575,4445 5632,4444 5919,4443 5974,4443 6286,4442"/>
+                <Baseline points="5326,4445 5575,4445 5632,4444 5919,4443 5974,4443 6286,4442"/>
                 <TextEquiv>
                     <Unicode>4 Wappen, wappenartige Darſtellungen,</Unicode>
                 </TextEquiv>
@@ -6717,7 +6717,7 @@ ländiſchen Firmen an.</Unicode>
             </TextLine>
             <TextLine id="r37l3" custom="readingOrder {index:2;}">
                 <Coords points="5238,5574 5367,5562 5583,5559 5960,5557 6006,5557 6200,5559 6229,5560 6281,5576 6281,5589 6258,5597 6229,5599 5238,5607"/>
-                <Baseline points="5237,5599 5342,5598 5367,5598 5427,5598 5454,5598 5702,5594 5727,5594 5796,5595 5812,5595 6013,5594 6052,5595 6115,5595 6148,5595 6282,5598"/>
+                <Baseline points="5238,5599 5342,5598 5367,5598 5427,5598 5454,5598 5702,5594 5727,5594 5796,5595 5812,5595 6013,5594 6052,5595 6115,5595 6148,5595 6279,5589"/>
                 <TextEquiv>
                     <Unicode>gegen den Eigenthümer des Bergwerks auf Scha⸗</Unicode>
                 </TextEquiv>
@@ -6731,14 +6731,14 @@ ländiſchen Firmen an.</Unicode>
             </TextLine>
             <TextLine id="r37l5" custom="readingOrder {index:4;}">
                 <Coords points="5236,5664 5320,5652 5943,5647 6159,5647 6278,5662 6278,5687 6159,5692 5914,5691 5879,5691 5236,5697"/>
-                <Baseline points="5235,5691 5418,5690 5458,5689 5484,5689 5527,5688 5661,5685 5704,5685 5739,5685 5781,5685 5914,5684 5943,5684 6159,5686 6202,5686 6278,5687"/>
+                <Baseline points="5236,5691 5418,5690 5458,5689 5484,5689 5527,5688 5661,5685 5704,5685 5739,5685 5781,5685 5914,5684 5943,5684 6159,5686 6202,5686 6278,5687"/>
                 <TextEquiv>
                     <Unicode>gericht, I. Senat, in ſeinem Erkenntniß vom</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r37l6" custom="readingOrder {index:5;}">
                 <Coords points="5237,5699 5299,5697 5774,5687 5810,5687 6205,5693 6219,5695 6278,5707 6278,5731 6205,5743 5973,5745 5810,5746 5774,5746 5339,5742 5237,5734"/>
-                <Baseline points="5237,5735 5406,5734 5436,5734 5520,5733 5561,5733 5741,5731 5774,5731 5973,5730 6002,5730 6278,5728"/>
+                <Baseline points="5237,5734 5406,5734 5436,5734 5520,5733 5561,5733 5741,5731 5774,5731 5973,5730 6002,5730 6278,5728"/>
                 <TextEquiv>
                     <Unicode>6. März 1877 folgenden Rechtsſatz ausgeſprochen:</Unicode>
                 </TextEquiv>
@@ -6921,14 +6921,14 @@ und duldete.</Unicode>
             <Coords points="6348,1471 7407,1471 7400,3716 6328,3722"/>
             <TextLine id="r39l1" custom="readingOrder {index:0;}">
                 <Coords points="6409,1482 6553,1482 6911,1483 7234,1484 7309,1488 7394,1495 7394,1520 7234,1525 7138,1526 6714,1528 6652,1528 6520,1527 6409,1526"/>
-                <Baseline points="6409,1521 6495,1519 6520,1519 6582,1519 6628,1520 6756,1520 6782,1520 6837,1520 6862,1521 7188,1521 7215,1521 7309,1521 7336,1521 7397,1520"/>
+                <Baseline points="6409,1521 6495,1519 6520,1519 6582,1519 6628,1520 6756,1520 6782,1520 6837,1520 6862,1521 7188,1521 7215,1521 7309,1521 7336,1521 7394,1520"/>
                 <TextEquiv>
                     <Unicode>(Br. H.) Wegen der Wanderlager hatte vor</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r39l2" custom="readingOrder {index:1;}">
                 <Coords points="6360,1528 6860,1528 7039,1529 7149,1530 7395,1530 7394,1568 6982,1579 6441,1571 6360,1565"/>
-                <Baseline points="6360,1565 6505,1564 6542,1564 6599,1565 6624,1565 6860,1566 6898,1566 7095,1566 7131,1566 7395,1566"/>
+                <Baseline points="6360,1565 6505,1564 6542,1564 6599,1565 6624,1565 6860,1566 6898,1566 7095,1566 7131,1566 7394,1565"/>
                 <TextEquiv>
                     <Unicode>Kurzem der Oldenburger Magiſtrat hervorragend:</Unicode>
                 </TextEquiv>
@@ -6949,7 +6949,7 @@ und duldete.</Unicode>
             </TextLine>
             <TextLine id="r39l5" custom="readingOrder {index:4;}">
                 <Coords points="6363,1666 6446,1664 6776,1664 7375,1666 7391,1682 7391,1694 7375,1711 7303,1711 6384,1709 6363,1699"/>
-                <Baseline points="6361,1701 6423,1702 6507,1702 6534,1702 6776,1702 6802,1702 7070,1703 7103,1703 7243,1703 7272,1703 7393,1703"/>
+                <Baseline points="6363,1699 6423,1702 6507,1702 6534,1702 6776,1702 6802,1702 7070,1703 7103,1703 7243,1703 7272,1703 7387,1697"/>
                 <TextEquiv>
                     <Unicode>1) Daß hauptſächlich Manufaktur⸗, Leinen⸗, Weiß⸗</Unicode>
                 </TextEquiv>
@@ -6998,7 +6998,7 @@ und duldete.</Unicode>
             </TextLine>
             <TextLine id="r39l12" custom="readingOrder {index:11;}">
                 <Coords points="6358,1982 6407,1982 7329,1984 7374,1990 7389,2000 7389,2013 7374,2022 7006,2029 6987,2029 6731,2028 6358,2021"/>
-                <Baseline points="6358,2021 6517,2020 6543,2020 6712,2020 6731,2020 6826,2020 6850,2020 6918,2020 6939,2021 7006,2021 7024,2021 7159,2021 7178,2021 7280,2021 7297,2021 7393,2019"/>
+                <Baseline points="6358,2021 6517,2020 6543,2020 6712,2020 6731,2020 6826,2020 6850,2020 6918,2020 6939,2021 7006,2021 7024,2021 7159,2021 7178,2021 7280,2021 7297,2021 7389,2013"/>
                 <TextEquiv>
                     <Unicode>Weberei ſchadhaft ſeien, und daß deshalb dieſer Aus⸗</Unicode>
                 </TextEquiv>
@@ -7117,7 +7117,7 @@ und duldete.</Unicode>
             </TextLine>
             <TextLine id="r39l29" custom="readingOrder {index:28;}">
                 <Coords points="6355,2759 6575,2758 7369,2758 7387,2760 7387,2795 7369,2801 7159,2804 6393,2804 6355,2795"/>
-                <Baseline points="6354,2796 6448,2795 6473,2795 6550,2796 6575,2796 6909,2795 6936,2795 7035,2796 7074,2796 7176,2795 7208,2795 7387,2795"/>
+                <Baseline points="6355,2795 6448,2795 6473,2795 6550,2796 6575,2796 6909,2795 6936,2795 7035,2796 7074,2796 7176,2795 7208,2795 7387,2795"/>
                 <TextEquiv>
                     <Unicode>lager oder Waarenauktionen durch einige (vielleicht</Unicode>
                 </TextEquiv>
@@ -7208,7 +7208,7 @@ und duldete.</Unicode>
             </TextLine>
             <TextLine id="r39l42" custom="readingOrder {index:41;}">
                 <Coords points="6349,3354 6483,3352 7387,3352 7387,3389 7259,3396 7056,3397 6525,3397 6349,3389"/>
-                <Baseline points="6349,3392 6717,3389 6741,3389 6860,3389 6885,3389 7056,3389 7090,3389 7156,3389 7193,3389 7304,3389 7336,3389 7387,3389"/>
+                <Baseline points="6349,3389 6717,3389 6741,3389 6860,3389 6885,3389 7056,3389 7090,3389 7156,3389 7193,3389 7304,3389 7336,3389 7387,3389"/>
                 <TextEquiv>
                     <Unicode>ein mehrmonatiger Kredit bewilligt und ſpäter die</Unicode>
                 </TextEquiv>
@@ -7345,7 +7345,7 @@ aufgekommen ſei und überhand genommen habe.</Unicode>
             </TextLine>
             <TextLine id="r41l3" custom="readingOrder {index:2;}">
                 <Coords points="6346,3929 6453,3920 6810,3919 7342,3919 7368,3925 7382,3950 7382,3960 7368,3965 6474,3965 6346,3956"/>
-                <Baseline points="6351,3957 6415,3957 6453,3957 6772,3956 6810,3956 6976,3956 7017,3956 7145,3956 7181,3957 7379,3956"/>
+                <Baseline points="6351,3956 6415,3957 6453,3957 6772,3956 6810,3956 6976,3956 7017,3956 7145,3956 7181,3957 7379,3956"/>
                 <TextEquiv>
                     <Unicode>dem Großherzogthum Heſſen werden Dienſtags,</Unicode>
                 </TextEquiv>
@@ -7429,7 +7429,7 @@ aufgekommen ſei und überhand genommen habe.</Unicode>
             </TextLine>
             <TextLine id="r41l15" custom="readingOrder {index:14;}">
                 <Coords points="6338,4490 6400,4479 6801,4478 7181,4478 7259,4479 7374,4490 7374,4521 6597,4523 6580,4523 6377,4522 6338,4515"/>
-                <Baseline points="6338,4516 6495,4515 6523,4515 6736,4514 6778,4514 6827,4514 6854,4514 7026,4515 7070,4515 7181,4515 7224,4515 7297,4515 7341,4515 7374,4515"/>
+                <Baseline points="6338,4515 6495,4515 6523,4515 6736,4514 6778,4514 6827,4514 6854,4514 7026,4515 7070,4515 7181,4515 7224,4515 7297,4515 7341,4515 7374,4515"/>
                 <TextEquiv>
                     <Unicode>regiſters eingetragen die Prokura, welche dem zu</Unicode>
                 </TextEquiv>
@@ -7488,7 +7488,7 @@ Königliches Handelsgerichts⸗Sekretariat.</Unicode>
             <Coords points="6323,4739 7381,4739 7381,5263 6323,5263"/>
             <TextLine id="r42l1" custom="readingOrder {index:0;}">
                 <Coords points="6336,4754 6633,4752 6790,4751 7312,4751 7355,4754 7371,4768 7371,4780 7355,4789 7322,4795 7312,4796 7117,4798 6336,4789"/>
-                <Baseline points="6336,4787 6561,4786 6633,4787 6742,4788 6790,4788 6854,4787 6898,4787 6966,4787 7020,4787 7076,4789 7117,4791 7373,4788"/>
+                <Baseline points="6336,4787 6561,4786 6633,4787 6742,4788 6790,4788 6854,4787 6898,4787 6966,4787 7020,4787 7076,4789 7117,4791 7369,4781"/>
                 <TextEquiv>
                     <Unicode>Aachen. Unter Nr. 184 des Geſellſchafts⸗</Unicode>
                 </TextEquiv>
@@ -7530,7 +7530,7 @@ Königliches Handelsgerichts⸗Sekretariat.</Unicode>
             </TextLine>
             <TextLine id="r42l7" custom="readingOrder {index:6;}">
                 <Coords points="6334,5025 7234,5026 7355,5038 7369,5042 7369,5054 7355,5063 7254,5069 6363,5070 6334,5070"/>
-                <Baseline points="6334,5061 6458,5062 6484,5062 6701,5063 6715,5067 6877,5060 6896,5060 7145,5059 7171,5061 7372,5062"/>
+                <Baseline points="6334,5061 6458,5062 6484,5062 6701,5063 6715,5067 6877,5060 6896,5060 7145,5059 7171,5061 7367,5054"/>
                 <TextEquiv>
                     <Unicode>Firma Gebrüder Philips juniores aufgenom⸗</Unicode>
                 </TextEquiv>
@@ -7551,7 +7551,7 @@ Königliches Handelsgerichts⸗Sekretariat.</Unicode>
             </TextLine>
             <TextLine id="r42l10" custom="readingOrder {index:9;}">
                 <Coords points="6380,5162 6740,5160 6773,5160 6952,5161 6952,5197 6381,5202"/>
-                <Baseline points="6380,5200 6543,5198 6568,5198 6632,5197 6660,5197 6713,5197 6740,5197 6824,5197 6852,5196 6952,5195"/>
+                <Baseline points="6380,5199 6543,5198 6568,5198 6632,5197 6660,5197 6713,5197 6740,5197 6824,5197 6852,5196 6952,5195"/>
                 <TextEquiv>
                     <Unicode>Aachen, den 14. Mai 1877.</Unicode>
                 </TextEquiv>
@@ -7609,7 +7609,7 @@ Königliches Handelsgerichts⸗Sekretariat.</Unicode>
             </TextLine>
             <TextLine id="r43l5" custom="readingOrder {index:4;}">
                 <Coords points="6377,5480 6639,5477 7031,5477 7220,5479 7349,5481 7367,5491 7367,5516 7349,5517 6377,5523"/>
-                <Baseline points="6377,5517 6435,5517 6491,5517 6591,5515 6639,5515 7031,5514 7080,5515 7231,5516 7269,5516 7369,5515"/>
+                <Baseline points="6377,5517 6435,5517 6491,5517 6591,5515 6639,5515 7031,5514 7080,5515 7231,5516 7269,5516 7367,5515"/>
                 <TextEquiv>
                     <Unicode>In unſer Geſellſchaftsregiſter, woſelbſt unter</Unicode>
                 </TextEquiv>
@@ -7651,7 +7651,7 @@ Königliches Handelsgerichts⸗Sekretariat.</Unicode>
             </TextLine>
             <TextLine id="r43l11" custom="readingOrder {index:10;}">
                 <Coords points="6425,5753 6448,5747 6721,5746 6741,5746 7196,5753 7303,5755 7367,5759 7367,5791 7207,5798 6448,5801 6425,5792"/>
-                <Baseline points="6421,5790 6625,5787 6669,5787 6765,5786 6806,5786 6872,5786 6915,5786 6976,5788 7003,5788 7363,5789"/>
+                <Baseline points="6425,5790 6625,5787 6669,5787 6765,5786 6806,5786 6872,5786 6915,5786 6976,5788 7003,5788 7363,5789"/>
                 <TextEquiv>
                     <Unicode>Banquiers Herz und des Civil⸗Ingenieurs</Unicode>
                 </TextEquiv>
@@ -7665,7 +7665,7 @@ Königliches Handelsgerichts⸗Sekretariat.</Unicode>
             </TextLine>
             <TextLine id="r43l13" custom="readingOrder {index:12;}">
                 <Coords points="6420,5841 6666,5840 6799,5840 6824,5842 6824,5877 6799,5885 6574,5886 6461,5886 6420,5879"/>
-                <Baseline points="6423,5881 6644,5879 6666,5879 6818,5878"/>
+                <Baseline points="6423,5879 6644,5879 6666,5879 6818,5878"/>
                 <TextEquiv>
                     <Unicode>Liquidation gelöſcht.</Unicode>
                 </TextEquiv>
@@ -7700,7 +7700,7 @@ Königliches Handelsgerichts⸗Sekretariat.</Unicode>
             </TextLine>
             <TextLine id="r43l18" custom="readingOrder {index:17;}">
                 <Coords points="6416,6098 6455,6098 6736,6099 7163,6101 7336,6102 7366,6114 7366,6139 7163,6146 6987,6146 6514,6143 6416,6137"/>
-                <Baseline points="6419,6138 6490,6137 6514,6137 6736,6137 6763,6137 6804,6137 6828,6137 6929,6138 6947,6138 7163,6138 7185,6138 7365,6139"/>
+                <Baseline points="6419,6137 6490,6137 6514,6137 6736,6137 6763,6137 6804,6137 6828,6137 6929,6138 6947,6138 7163,6138 7185,6138 7365,6139"/>
                 <TextEquiv>
                     <Unicode>Die Geſellſchaft iſt durch gegenſeitige Ueberein⸗</Unicode>
                 </TextEquiv>
@@ -7802,7 +7802,7 @@ S. Simon</Unicode>
             <Coords points="7433,1328 8496,1332 8497,1432 7434,1439"/>
             <TextLine id="r44l1" custom="readingOrder {index:0;}">
                 <Coords points="7444,1358 7494,1347 7580,1346 8099,1346 8343,1347 8470,1347 8490,1355 8490,1384 8397,1391 7446,1384"/>
-                <Baseline points="7444,1382 7512,1382 7556,1382 7611,1383 7654,1383 7753,1383 7787,1383 7947,1383 7980,1383 8034,1383 8069,1383 8274,1383 8312,1384 8483,1382"/>
+                <Baseline points="7445,1381 7512,1382 7556,1382 7611,1383 7654,1383 7753,1383 7787,1383 7947,1383 7980,1383 8034,1383 8069,1383 8274,1383 8312,1384 8483,1382"/>
                 <TextEquiv>
                     <Unicode>und als deren Inhaber der Kaufmann Siegfried</Unicode>
                 </TextEquiv>
@@ -7837,7 +7837,7 @@ Simon hier eingetragen worden.</Unicode>
             </TextLine>
             <TextLine id="r45l3" custom="readingOrder {index:2;}">
                 <Coords points="7808,1574 7834,1569 8029,1569 8118,1574 8117,1614 7894,1621 7808,1611"/>
-                <Baseline points="7808,1611 7958,1611 7984,1612 8118,1611"/>
+                <Baseline points="7808,1611 7958,1611 7984,1612 8117,1610"/>
                 <TextEquiv>
                     <Unicode>Auguſt Daſſel</Unicode>
                 </TextEquiv>
@@ -7851,7 +7851,7 @@ Simon hier eingetragen worden.</Unicode>
             </TextLine>
             <TextLine id="r45l5" custom="readingOrder {index:4;}">
                 <Coords points="7441,1677 7490,1666 8221,1665 8262,1676 8262,1700 7620,1708 7441,1701"/>
-                <Baseline points="7441,1701 7508,1701 7535,1701 7742,1701 7770,1701 7861,1701 7888,1701 8016,1701 8043,1701 8160,1701 8187,1701 8263,1701"/>
+                <Baseline points="7441,1701 7508,1701 7535,1701 7742,1701 7770,1701 7861,1701 7888,1701 8016,1701 8043,1701 8160,1701 8186,1700 8262,1700"/>
                 <TextEquiv>
                     <Unicode>und Kaufmann Carl Auguſt Daſſel hier</Unicode>
                 </TextEquiv>
@@ -7879,7 +7879,7 @@ Simon hier eingetragen worden.</Unicode>
             </TextLine>
             <TextLine id="r45l9" custom="readingOrder {index:8;}">
                 <Coords points="7534,1858 7746,1844 7857,1846 8467,1849 8485,1865 8485,1877 8467,1884 8436,1885 8394,1886 7534,1890"/>
-                <Baseline points="7534,1882 7660,1882 7663,1882 7704,1882 7725,1883 7848,1883 7879,1883 8051,1883 8059,1883 8199,1883 8246,1884 8313,1885 8353,1885 8394,1886 8420,1885 8483,1884"/>
+                <Baseline points="7534,1882 7660,1882 7663,1882 7704,1882 7725,1883 7848,1883 7879,1883 8051,1883 8059,1883 8199,1883 8246,1884 8313,1885 8353,1885 8394,1886 8420,1885 8480,1878"/>
                 <TextEquiv>
                     <Unicode>genannte Firma Prokura ertheilt und iſt die⸗</Unicode>
                 </TextEquiv>
@@ -7944,7 +7944,7 @@ eingetragen worden.</Unicode>
             </TextLine>
             <TextLine id="r46l5" custom="readingOrder {index:4;}">
                 <Coords points="7531,2198 7554,2192 7577,2192 8231,2194 8479,2200 8481,2233 8465,2244 7797,2243 7531,2236"/>
-                <Baseline points="7531,2236 7604,2235 7630,2235 7851,2235 7898,2236 7938,2236 7975,2236 8071,2236 8092,2236 8156,2236 8173,2236 8263,2236 8291,2236 8345,2237 8372,2238 8479,2239"/>
+                <Baseline points="7531,2236 7604,2235 7630,2235 7851,2235 7898,2236 7938,2236 7975,2236 8071,2236 8092,2236 8156,2236 8173,2236 8263,2236 8291,2236 8345,2237 8372,2238 8476,2235"/>
                 <TextEquiv>
                     <Unicode>Die Geſellſchaft iſt durch den Tod des Kauf⸗</Unicode>
                 </TextEquiv>
@@ -8049,7 +8049,7 @@ eingetragen worden.</Unicode>
             </TextLine>
             <TextLine id="r46l20" custom="readingOrder {index:19;}">
                 <Coords points="7663,2882 7716,2880 7860,2880 8227,2881 8260,2898 8269,2916 8272,2919 8236,2926 8038,2924 7913,2923 7682,2918 7663,2915"/>
-                <Baseline points="7663,2918 7931,2917 7954,2918 8010,2918 8038,2918 8263,2917"/>
+                <Baseline points="7663,2915 7931,2917 7954,2918 8010,2918 8038,2918 8263,2917"/>
                 <TextEquiv>
                     <Unicode>I. Abtheilung für Civilſachen.</Unicode>
                 </TextEquiv>
@@ -8088,14 +8088,14 @@ I. Abtheilung für Civilſachen.</Unicode>
             </TextLine>
             <TextLine id="r47l2" custom="readingOrder {index:1;}">
                 <Coords points="7482,3016 7514,3016 8022,3017 8075,3022 8075,3053 7888,3062 7688,3062 7482,3060"/>
-                <Baseline points="7482,3053 7538,3053 7564,3053 7663,3054 7688,3054 7968,3054 7997,3054 8069,3054"/>
+                <Baseline points="7482,3053 7538,3053 7564,3053 7663,3054 7688,3054 7968,3054 7997,3054 8068,3053"/>
                 <TextEquiv>
                     <Unicode>In unſer Firmenregiſter ſind</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r47l3" custom="readingOrder {index:2;}">
                 <Coords points="7472,3060 7688,3066 7717,3068 7763,3075 7763,3098 7698,3107 7586,3107 7495,3099 7474,3097 7474,3063"/>
-                <Baseline points="7473,3099 7760,3098"/>
+                <Baseline points="7474,3097 7760,3098"/>
                 <TextEquiv>
                     <Unicode>I. eingetragen:</Unicode>
                 </TextEquiv>
@@ -8130,14 +8130,14 @@ I. Abtheilung für Civilſachen.</Unicode>
             </TextLine>
             <TextLine id="r47l8" custom="readingOrder {index:7;}">
                 <Coords points="7600,3290 8477,3293 8478,3334 7601,3331"/>
-                <Baseline points="7601,3326 8478,3329"/>
+                <Baseline points="7601,3326 8477,3329"/>
                 <TextEquiv>
                     <Unicode>und als deren Inhaber der Kaufmann Oscar</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r47l9" custom="readingOrder {index:8;}">
                 <Coords points="7600,3335 7892,3334 7892,3380 7600,3381"/>
-                <Baseline points="7599,3375 7886,3374"/>
+                <Baseline points="7600,3375 7886,3374"/>
                 <TextEquiv>
                     <Unicode>Roth daſelbſt;</Unicode>
                 </TextEquiv>
@@ -8165,7 +8165,7 @@ I. Abtheilung für Civilſachen.</Unicode>
             </TextLine>
             <TextLine id="r47l13" custom="readingOrder {index:12;}">
                 <Coords points="7435,3515 7884,3520 7884,3562 7435,3557"/>
-                <Baseline points="7434,3554 7875,3556"/>
+                <Baseline points="7435,3554 7875,3556"/>
                 <TextEquiv>
                     <Unicode>III. vermerkt worden:</Unicode>
                 </TextEquiv>
@@ -8200,7 +8200,7 @@ I. Abtheilung für Civilſachen.</Unicode>
             </TextLine>
             <TextLine id="r47l18" custom="readingOrder {index:17;}">
                 <Coords points="7594,3745 7720,3738 7744,3738 8238,3742 8238,3779 7890,3785 7594,3778"/>
-                <Baseline points="7596,3780 7651,3779 7678,3779 8010,3778 8038,3778 8160,3778 8189,3778 8232,3779"/>
+                <Baseline points="7596,3778 7651,3779 7678,3779 8010,3778 8038,3778 8160,3778 8189,3778 8232,3779"/>
                 <TextEquiv>
                     <Unicode>des Firmenregiſters); ſodann iſt</Unicode>
                 </TextEquiv>
@@ -8228,7 +8228,7 @@ I. Abtheilung für Civilſachen.</Unicode>
             </TextLine>
             <TextLine id="r47l22" custom="readingOrder {index:21;}">
                 <Coords points="7590,3936 7630,3924 8008,3910 8033,3910 8427,3924 8467,3933 8467,3957 8293,3966 8127,3968 7608,3970 7590,3970"/>
-                <Baseline points="7590,3961 7749,3961 7775,3960 7907,3960 7944,3960 7978,3960 8008,3960 8127,3959 8132,3959 8252,3959 8280,3959 8373,3959 8399,3958 8464,3958"/>
+                <Baseline points="7590,3961 7749,3961 7775,3960 7907,3960 7944,3960 7978,3960 8008,3960 8127,3959 8132,3959 8252,3959 8280,3959 8373,3959 8399,3958 8463,3957"/>
                 <TextEquiv>
                     <Unicode>geborene Kaiſer, zu Königshütte heute ein⸗</Unicode>
                 </TextEquiv>
@@ -8307,7 +8307,7 @@ Königliches Kreisgericht. I. Abtheilung.</Unicode>
             </TextLine>
             <TextLine id="r48l4" custom="readingOrder {index:3;}">
                 <Coords points="7493,4289 8256,4284 8468,4297 8468,4328 7778,4332 7521,4332 7493,4323"/>
-                <Baseline points="7494,4325 7534,4324 7563,4324 7638,4325 7681,4325 7890,4324 7941,4323 8103,4322 8150,4322 8371,4321 8433,4321 8468,4321"/>
+                <Baseline points="7494,4323 7534,4324 7563,4324 7638,4325 7681,4325 7890,4324 7941,4323 8103,4322 8150,4322 8371,4321 8433,4321 8468,4321"/>
                 <TextEquiv>
                     <Unicode>2) dem Kaufmann William Muſſelman zu</Unicode>
                 </TextEquiv>
@@ -8321,7 +8321,7 @@ Königliches Kreisgericht. I. Abtheilung.</Unicode>
             </TextLine>
             <TextLine id="r48l6" custom="readingOrder {index:5;}">
                 <Coords points="7424,4391 7505,4381 7562,4378 7795,4377 8101,4376 8126,4376 8141,4377 8250,4385 8250,4409 8126,4421 7795,4421 7424,4417"/>
-                <Baseline points="7424,4417 7478,4416 7505,4416 7534,4415 7562,4416 7652,4415 7681,4415 7769,4414 7795,4414 7871,4414 7897,4414 7993,4413 8019,4413 8075,4413 8101,4413 8243,4412"/>
+                <Baseline points="7424,4417 7478,4416 7505,4416 7534,4415 7562,4416 7652,4415 7681,4415 7769,4414 7795,4414 7871,4414 7897,4414 7993,4413 8019,4413 8075,4413 8101,4413 8242,4409"/>
                 <TextEquiv>
                     <Unicode>am 1. Mai 1877 hier unter der Firma:</Unicode>
                 </TextEquiv>
@@ -8448,7 +8448,7 @@ Königliches Stadtgericht. Abtheilung I.</Unicode>
             <Coords points="7403,5093 8465,5093 8465,5613 7403,5613"/>
             <TextLine id="r50l1" custom="readingOrder {index:0;}">
                 <Coords points="7417,5109 7739,5104 8096,5104 8124,5112 8126,5151 7419,5145"/>
-                <Baseline points="7417,5141 8121,5142"/>
+                <Baseline points="7418,5140 8121,5142"/>
                 <TextEquiv>
                     <Unicode>Breslau. Bekanntmachung.</Unicode>
                 </TextEquiv>
@@ -8497,7 +8497,7 @@ Königliches Stadtgericht. Abtheilung I.</Unicode>
             </TextLine>
             <TextLine id="r50l8" custom="readingOrder {index:7;}">
                 <Coords points="7415,5436 7542,5422 8059,5419 8290,5418 8413,5418 8452,5435 8454,5454 8437,5454 8309,5461 8079,5466 7884,5466 7751,5465 7415,5462"/>
-                <Baseline points="7415,5462 7517,5460 7542,5460 7678,5460 7702,5459 7855,5458 7884,5458 8020,5457 8037,5457 8263,5455 8290,5455 8359,5454 8386,5454 8456,5453"/>
+                <Baseline points="7415,5462 7517,5460 7542,5460 7678,5460 7702,5459 7855,5458 7884,5458 8020,5457 8037,5457 8263,5455 8290,5455 8359,5454 8386,5454 8453,5453"/>
                 <TextEquiv>
                     <Unicode>mann Emilie Knauer, geborne Hildebrand, hier ein⸗</Unicode>
                 </TextEquiv>
@@ -8548,7 +8548,7 @@ Königliches Stadtgericht. Abtheilung I.</Unicode>
             </TextLine>
             <TextLine id="r51l2" custom="readingOrder {index:1;}">
                 <Coords points="7457,5695 7475,5690 8361,5688 8408,5688 8451,5703 8451,5716 8433,5732 8034,5740 7457,5733"/>
-                <Baseline points="7457,5733 7525,5730 7551,5730 7653,5730 7677,5730 7744,5730 7763,5730 7832,5730 7859,5730 7990,5730 8016,5729 8315,5726 8342,5726 8452,5725"/>
+                <Baseline points="7457,5733 7525,5730 7551,5730 7653,5730 7677,5730 7744,5730 7763,5730 7832,5730 7859,5730 7990,5730 8016,5729 8315,5726 8342,5726 8447,5719"/>
                 <TextEquiv>
                     <Unicode>Die unter Nr. 202 unſeres Firmenregiſters einge⸗</Unicode>
                 </TextEquiv>
@@ -8583,7 +8583,7 @@ Königliches Stadtgericht. Abtheilung I.</Unicode>
             </TextLine>
             <TextLine id="r51l7" custom="readingOrder {index:6;}">
                 <Coords points="7455,5920 8060,5917 8107,5916 8107,5954 8079,5956 7947,5957 7692,5964 7565,5964 7456,5964"/>
-                <Baseline points="7455,5960 7691,5956 8098,5956"/>
+                <Baseline points="7455,5959 7691,5956 8097,5954"/>
                 <TextEquiv>
                     <Unicode>Bromberg, den 12. Mai 1877.</Unicode>
                 </TextEquiv>
@@ -8680,7 +8680,7 @@ Königliches Kreisgericht. I. Abtheilung.</Unicode>
             </TextLine>
             <TextLine id="r52l11" custom="readingOrder {index:10;}">
                 <Coords points="7765,6505 8009,6505 8101,6515 8101,6542 8009,6552 7836,6550 7765,6548"/>
-                <Baseline points="7765,6544 8096,6544"/>
+                <Baseline points="7765,6544 8095,6542"/>
                 <TextEquiv>
                     <Unicode>J. Hartmann.</Unicode>
                 </TextEquiv>
@@ -8724,14 +8724,14 @@ J. Hartmann.</Unicode>
             </TextLine>
             <TextLine id="r53l4" custom="readingOrder {index:3;}">
                 <Coords points="8532,1497 8622,1485 9086,1484 9532,1484 9574,1498 9574,1530 9061,1530 8622,1529 8532,1520"/>
-                <Baseline points="8532,1523 8597,1521 8622,1521 8742,1522 8763,1522 8962,1522 8980,1522 9121,1521 9150,1521 9214,1521 9238,1521 9294,1521 9308,1521 9574,1521"/>
+                <Baseline points="8532,1520 8597,1521 8622,1521 8742,1522 8763,1522 8962,1522 8980,1522 9121,1521 9150,1521 9214,1521 9238,1521 9294,1521 9308,1521 9574,1521"/>
                 <TextEquiv>
                     <Unicode>nen Firma „Theodor Mogk“ mit der Niederlaſſung</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r53l5" custom="readingOrder {index:4;}">
                 <Coords points="8533,1530 8596,1529 8757,1529 9489,1530 9576,1547 9576,1560 9549,1567 9489,1568 9077,1572 8757,1573 8737,1573 8548,1566 8533,1565"/>
-                <Baseline points="8533,1565 8568,1566 8596,1566 8757,1566 8793,1566 8886,1566 8915,1566 9077,1566 9116,1566 9171,1566 9203,1567 9407,1566 9432,1566 9577,1566"/>
+                <Baseline points="8533,1565 8568,1566 8596,1566 8757,1566 8793,1566 8886,1566 8915,1566 9077,1566 9116,1566 9171,1566 9203,1567 9407,1566 9432,1566 9575,1560"/>
                 <TextEquiv>
                     <Unicode>in Coblenz, deren Inhaber der Kaufmann Theo⸗</Unicode>
                 </TextEquiv>
@@ -8787,14 +8787,14 @@ Daemgen.</Unicode>
             </TextLine>
             <TextLine id="r54l2" custom="readingOrder {index:1;}">
                 <Coords points="8534,1847 9487,1849 9553,1852 9575,1860 9575,1885 9487,1888 8635,1890 8534,1882"/>
-                <Baseline points="8534,1883 8589,1883 8635,1883 8778,1882 8818,1882 8956,1882 8964,1882 9045,1883 9074,1883 9365,1883 9407,1884 9444,1884 9470,1884 9572,1885"/>
+                <Baseline points="8534,1882 8589,1883 8635,1883 8778,1882 8818,1882 8956,1882 8964,1882 9045,1883 9074,1883 9365,1883 9407,1884 9444,1884 9470,1884 9572,1885"/>
                 <TextEquiv>
                     <Unicode>des hieſigen Königlichen Handelsgerichts iſt heute</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r54l3" custom="readingOrder {index:2;}">
                 <Coords points="8532,1892 9529,1894 9577,1910 9577,1928 9034,1936 8534,1930"/>
-                <Baseline points="8531,1928 8630,1927 8657,1928 8728,1927 8745,1927 8828,1927 8856,1927 9071,1928 9097,1928 9228,1928 9261,1928 9318,1928 9345,1928 9379,1929 9418,1929 9574,1929"/>
+                <Baseline points="8533,1927 8630,1927 8657,1928 8728,1927 8745,1927 8828,1927 8856,1927 9071,1928 9097,1928 9228,1928 9261,1928 9318,1928 9345,1928 9379,1929 9418,1929 9573,1928"/>
                 <TextEquiv>
                     <Unicode>unter Nr. 3453 eingetragen worden der zu Meiſen⸗</Unicode>
                 </TextEquiv>
@@ -8808,7 +8808,7 @@ Daemgen.</Unicode>
             </TextLine>
             <TextLine id="r54l5" custom="readingOrder {index:4;}">
                 <Coords points="8531,1982 9526,1986 9574,1995 9574,2021 9040,2032 8531,2025"/>
-                <Baseline points="8530,2022 8693,2019 8736,2018 8786,2018 8826,2018 8946,2018 8995,2018 9167,2020 9208,2020 9374,2021 9414,2021 9475,2020 9512,2019 9574,2021"/>
+                <Baseline points="8531,2022 8693,2019 8736,2018 8786,2018 8826,2018 8946,2018 8995,2018 9167,2020 9208,2020 9374,2021 9414,2021 9475,2020 9512,2019 9574,2021"/>
                 <TextEquiv>
                     <Unicode>Inhaber der Firma „Julius Gréus“ mit der</Unicode>
                 </TextEquiv>
@@ -8857,21 +8857,21 @@ Daemgen.</Unicode>
             <Coords points="8510,2254 9587,2254 9587,3587 8510,3587"/>
             <TextLine id="r55l1" custom="readingOrder {index:0;}">
                 <Coords points="8533,2266 8560,2265 8989,2265 9252,2266 9516,2268 9534,2270 9580,2279 9584,2299 9580,2310 9449,2313 8966,2303 8748,2302 8533,2300"/>
-                <Baseline points="8532,2302 8676,2302 8730,2303 8798,2303 8822,2303 9023,2304 9077,2304 9116,2305 9143,2305 9191,2305 9218,2305 9281,2305 9311,2306 9397,2306 9425,2306 9474,2306 9499,2306 9578,2305"/>
+                <Baseline points="8533,2300 8676,2301 8730,2301 8798,2302 8822,2302 9023,2304 9077,2304 9116,2305 9143,2305 9191,2305 9218,2305 9281,2305 9311,2306 9397,2306 9425,2306 9474,2306 9499,2306 9578,2305"/>
                 <TextEquiv>
                     <Unicode>Cöln. Auf Anmeldung iſt bei Nr. 1294 d s bi ⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r55l2" custom="readingOrder {index:1;}">
                 <Coords points="8530,2310 9024,2308 9044,2308 9477,2315 9583,2316 9584,2358 8531,2351"/>
-                <Baseline points="8530,2347 8618,2347 8663,2347 8829,2346 8858,2346 9148,2347 9166,2347 9361,2349 9365,2349 9570,2353"/>
+                <Baseline points="8530,2346 8618,2347 8663,2347 8829,2346 8858,2346 9148,2347 9166,2347 9361,2349 9365,2349 9570,2353"/>
                 <TextEquiv>
                     <Unicode>ſigen Handels⸗ (Geſellſchafts⸗) Regiſters, woſelb t</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r55l3" custom="readingOrder {index:2;}">
                 <Coords points="8529,2364 8552,2357 9274,2358 9307,2371 9307,2394 9165,2403 8773,2397 8533,2397"/>
-                <Baseline points="8529,2393 8578,2393 8606,2393 8929,2394 8958,2393 9059,2394 9083,2394 9142,2394 9165,2394 9302,2392"/>
+                <Baseline points="8532,2392 8578,2393 8606,2393 8929,2394 8958,2393 9059,2394 9083,2394 9142,2394 9165,2394 9302,2392"/>
                 <TextEquiv>
                     <Unicode>die Aktiengeſellſchaft unter der Firma:</Unicode>
                 </TextEquiv>
@@ -8892,21 +8892,21 @@ Daemgen.</Unicode>
             </TextLine>
             <TextLine id="r55l6" custom="readingOrder {index:5;}">
                 <Coords points="8527,2490 9570,2492 9571,2538 8528,2536"/>
-                <Baseline points="8528,2531 9571,2533"/>
+                <Baseline points="8528,2531 9570,2533"/>
                 <TextEquiv>
                     <Unicode>Eintragung erfolgt, daß gemäß Akt des Notars</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r55l7" custom="readingOrder {index:6;}">
                 <Coords points="8526,2536 9568,2539 9570,2584 8529,2578"/>
-                <Baseline points="8528,2576 9570,2579"/>
+                <Baseline points="8528,2575 9569,2579"/>
                 <TextEquiv>
                     <Unicode>Goecke in Cöln vom 28. Dezember 1876 das is⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r55l8" custom="readingOrder {index:7;}">
                 <Coords points="8529,2583 9568,2585 9568,2630 8531,2626"/>
-                <Baseline points="8529,2623 9568,2625"/>
+                <Baseline points="8530,2622 9568,2625"/>
                 <TextEquiv>
                     <Unicode>herige Mitglied des Vorſtandes der Geſellſchaft, der</Unicode>
                 </TextEquiv>
@@ -8948,7 +8948,7 @@ Daemgen.</Unicode>
             </TextLine>
             <TextLine id="r55l14" custom="readingOrder {index:13;}">
                 <Coords points="8532,2857 9574,2856 9574,2902 8532,2903"/>
-                <Baseline points="8530,2896 9574,2897"/>
+                <Baseline points="8532,2896 9574,2897"/>
                 <TextEquiv>
                     <Unicode>Vorſtand der Geſellſchaft fungiren ſoll; daß ferner</Unicode>
                 </TextEquiv>
@@ -8990,7 +8990,7 @@ Daemgen.</Unicode>
             </TextLine>
             <TextLine id="r55l20" custom="readingOrder {index:19;}">
                 <Coords points="8525,3131 9565,3132 9566,3174 8526,3173"/>
-                <Baseline points="8526,3168 9566,3169"/>
+                <Baseline points="8526,3168 9565,3169"/>
                 <TextEquiv>
                     <Unicode>der Firmenzeichnung ſeitens der Direktion für den</Unicode>
                 </TextEquiv>
@@ -9004,21 +9004,21 @@ Daemgen.</Unicode>
             </TextLine>
             <TextLine id="r55l22" custom="readingOrder {index:21;}">
                 <Coords points="8524,3220 9564,3219 9565,3264 8525,3265"/>
-                <Baseline points="8525,3260 9565,3259"/>
+                <Baseline points="8525,3260 9564,3259"/>
                 <TextEquiv>
                     <Unicode>ſteht, die Unterſchrift eines Direktors genügend iſt,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r55l23" custom="readingOrder {index:22;}">
                 <Coords points="8524,3263 9563,3266 9564,3311 8525,3308"/>
-                <Baseline points="8525,3303 9564,3306"/>
+                <Baseline points="8525,3303 9563,3306"/>
                 <TextEquiv>
                     <Unicode>daß aber, wenn der Vorſtand aus zwei oder mehr</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r55l24" custom="readingOrder {index:23;}">
                 <Coords points="8523,3311 9568,3312 9569,3357 8524,3356"/>
-                <Baseline points="8524,3351 9569,3352"/>
+                <Baseline points="8524,3351 9568,3352"/>
                 <TextEquiv>
                     <Unicode>Direktoren beſteht, zur Gültigkeit der Firmenzeich⸗</Unicode>
                 </TextEquiv>
@@ -9032,7 +9032,7 @@ Daemgen.</Unicode>
             </TextLine>
             <TextLine id="r55l26" custom="readingOrder {index:25;}">
                 <Coords points="8524,3403 8644,3403 8667,3409 8667,3439 8593,3444 8524,3440"/>
-                <Baseline points="8524,3440 8664,3441"/>
+                <Baseline points="8524,3440 8663,3439"/>
                 <TextEquiv>
                     <Unicode>lich iſt.</Unicode>
                 </TextEquiv>
@@ -9115,7 +9115,7 @@ Weber.</Unicode>
             </TextLine>
             <TextLine id="r56l4" custom="readingOrder {index:3;}">
                 <Coords points="8516,3789 8597,3788 8639,3788 8747,3798 8747,3821 8625,3832 8597,3832 8516,3824"/>
-                <Baseline points="8516,3824 8571,3824 8597,3824 8743,3822"/>
+                <Baseline points="8516,3824 8571,3824 8597,3824 8742,3821"/>
                 <TextEquiv>
                     <Unicode>der Firma:</Unicode>
                 </TextEquiv>
@@ -9136,7 +9136,7 @@ Weber.</Unicode>
             </TextLine>
             <TextLine id="r56l7" custom="readingOrder {index:6;}">
                 <Coords points="8561,3924 8664,3923 8899,3922 9169,3922 9305,3923 9410,3924 9490,3925 9538,3936 9556,3941 9556,3954 9538,3961 9365,3968 9348,3968 8561,3961"/>
-                <Baseline points="8561,3961 8635,3959 8664,3958 8697,3958 8727,3959 8816,3958 8843,3958 9029,3958 9062,3959 9260,3959 9288,3959 9421,3961 9445,3961 9555,3960"/>
+                <Baseline points="8561,3961 8635,3959 8664,3958 8697,3958 8727,3959 8816,3958 8843,3958 9029,3958 9062,3959 9260,3959 9288,3959 9421,3961 9445,3961 9553,3955"/>
                 <TextEquiv>
                     <Unicode>Der in Cöln wohnende Kaufmann Auguſt Wen⸗</Unicode>
                 </TextEquiv>
@@ -9201,7 +9201,7 @@ Weber.</Unicode>
             </TextLine>
             <TextLine id="r57l3" custom="readingOrder {index:2;}">
                 <Coords points="8517,4307 8612,4306 9097,4306 9255,4307 9327,4320 9327,4344 9255,4351 9184,4351 8892,4350 8541,4343 8517,4342"/>
-                <Baseline points="8520,4343 8584,4343 8612,4343 8662,4343 8690,4343 8746,4343 8772,4343 9097,4343 9124,4343 9159,4343 9184,4343 9323,4343"/>
+                <Baseline points="8520,4342 8584,4343 8612,4343 8662,4343 8690,4343 8746,4343 8772,4343 9097,4343 9124,4343 9159,4343 9184,4343 9323,4343"/>
                 <TextEquiv>
                     <Unicode>233 bei der Aktiengeſellſchaft in Firma:</Unicode>
                 </TextEquiv>
@@ -9250,14 +9250,14 @@ Weber.</Unicode>
             </TextLine>
             <TextLine id="r57l10" custom="readingOrder {index:9;}">
                 <Coords points="8606,4625 8641,4624 9189,4624 9555,4625 9555,4662 9256,4669 9240,4669 8622,4662 8606,4657"/>
-                <Baseline points="8609,4659 8739,4661 8763,4661 8817,4662 8843,4661 9256,4661 9283,4661 9361,4661 9379,4661 9430,4662 9446,4662 9555,4661"/>
+                <Baseline points="8609,4658 8739,4661 8763,4661 8817,4662 8843,4661 9256,4661 9283,4661 9361,4661 9379,4661 9430,4662 9446,4662 9555,4661"/>
                 <TextEquiv>
                     <Unicode>ſchlüſſe der Generalverſammlung vom 30. April</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r57l11" custom="readingOrder {index:10;}">
                 <Coords points="8612,4672 8634,4671 8657,4670 8961,4669 9007,4669 9493,4670 9555,4671 9555,4707 9493,4711 9321,4715 9185,4715 8961,4713 8705,4709 8612,4704"/>
-                <Baseline points="8611,4707 8712,4705 8742,4705 8803,4706 8828,4706 8932,4706 8961,4706 9022,4706 9050,4706 9119,4706 9146,4706 9358,4707 9384,4707 9555,4707"/>
+                <Baseline points="8612,4704 8712,4705 8742,4705 8803,4706 8828,4706 8932,4706 8961,4706 9022,4706 9050,4706 9119,4706 9146,4706 9358,4707 9384,4707 9555,4707"/>
                 <TextEquiv>
                     <Unicode>1877, von denen ſich eine beglaubigte Abſchrift</Unicode>
                 </TextEquiv>
@@ -9334,7 +9334,7 @@ Weber.</Unicode>
             </TextLine>
             <TextLine id="r57l22" custom="readingOrder {index:21;}">
                 <Coords points="8601,5169 8765,5168 8969,5167 9294,5167 9418,5168 9508,5169 9551,5180 9551,5205 9508,5213 8655,5213 8601,5205"/>
-                <Baseline points="8601,5205 8717,5205 8765,5204 8891,5203 8943,5203 9049,5203 9098,5203 9193,5203 9243,5202 9294,5204 9353,5204 9553,5205"/>
+                <Baseline points="8601,5205 8717,5205 8765,5204 8891,5203 8943,5203 9049,5203 9098,5203 9193,5203 9243,5202 9294,5204 9353,5204 9551,5205"/>
                 <TextEquiv>
                     <Unicode>folgen künftig allein durch die „Danziger</Unicode>
                 </TextEquiv>
@@ -9392,7 +9392,7 @@ Königliches Kommerz⸗ und Admiralitäts⸗Kollegium.</Unicode>
             <Coords points="8485,5392 9564,5390 9564,5867 8485,5869"/>
             <TextLine id="r58l1" custom="readingOrder {index:0;}">
                 <Coords points="8498,5409 9192,5403 9213,5404 9242,5415 9242,5443 9213,5449 8838,5448 8499,5445"/>
-                <Baseline points="8498,5441 8716,5440 8822,5440 9233,5443"/>
+                <Baseline points="8498,5440 8716,5440 8822,5440 9233,5443"/>
                 <TextEquiv>
                     <Unicode>Dessau. Handelsrichterliche</Unicode>
                 </TextEquiv>
@@ -9420,7 +9420,7 @@ Königliches Kommerz⸗ und Admiralitäts⸗Kollegium.</Unicode>
             </TextLine>
             <TextLine id="r58l5" custom="readingOrder {index:4;}">
                 <Coords points="8589,5587 8690,5586 9464,5583 9494,5583 9537,5598 9542,5619 9519,5625 9494,5626 9259,5627 8773,5627 8589,5624"/>
-                <Baseline points="8589,5624 8664,5623 8690,5623 8893,5623 8923,5624 9048,5622 9074,5623 9259,5621 9299,5621 9362,5620 9538,5623"/>
+                <Baseline points="8589,5624 8664,5623 8690,5623 8893,5623 8923,5624 9048,5622 9074,5623 9259,5621 9299,5621 9362,5620 9537,5620"/>
                 <TextEquiv>
                     <Unicode>Der Kaufmann Eugen Schlobach von der Jo⸗</Unicode>
                 </TextEquiv>
@@ -9546,7 +9546,7 @@ Eſſen iſt gelöſcht am 10. Mai 1877.</Unicode>
             <Coords points="8476,6256 9544,6256 9544,6557 8476,6557"/>
             <TextLine id="r60l1" custom="readingOrder {index:0;}">
                 <Coords points="8493,6275 8677,6274 8679,6314 8493,6313"/>
-                <Baseline points="8493,6309 8670,6305 8679,6305"/>
+                <Baseline points="8493,6309 8670,6305 8678,6305"/>
                 <TextEquiv>
                     <Unicode>Essen.</Unicode>
                 </TextEquiv>
@@ -9588,7 +9588,7 @@ Eſſen iſt gelöſcht am 10. Mai 1877.</Unicode>
             </TextLine>
             <TextLine id="r60l7" custom="readingOrder {index:6;}">
                 <Coords points="8488,6508 8536,6497 8604,6495 8949,6495 9453,6499 9530,6512 9530,6536 9453,6545 9423,6545 9151,6543 8787,6538 8490,6536"/>
-                <Baseline points="8491,6535 9532,6537"/>
+                <Baseline points="8491,6535 9530,6536"/>
                 <TextEquiv>
                     <Unicode>und als deren Inhaber der Bauunternehmer Hein⸗</Unicode>
                 </TextEquiv>

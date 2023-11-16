@@ -1,24 +1,24 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
     <Metadata>
         <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.7.1:model_id=40804:lm=none:date=05_07_2022_11:10
 prov=READ-COOP:name=PyLaia@Transkribus:version=0.7.1:model_id=40804:date=05_07_2022_11:10
 Transkribus</Creator>
         <Created>2021-12-14T11:42:54.768+01:00</Created>
-        <LastChange>2022-12-07T16:08:13.400+01:00</LastChange>
+        <LastChange>2023-11-15T20:47:04.383+01:00</LastChange>
         <Comments>
                 Measurement unit: pixel
                 PrimaryLanguage: 
                 Producer: Transkribus
             </Comments>
-        <TranskribusMetadata docId="900641" pageId="34382456" pageNr="3" tsid="105747827" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=FXORYQIRHIEDYZAVJYTBAAVW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BMVQJTBYYWWZGHDVHZXNTLTL" imageId="27583900"/>
+        <TranskribusMetadata docId="900641" pageId="34382456" pageNr="3" tsid="139840653" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=FXORYQIRHIEDYZAVJYTBAAVW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AHKFBNLPCATMXRNAIGSJHDYQ" imageId="27583900"/>
     </Metadata>
     <Page imageFilename="1870_244_0431.jpg" imageWidth="9640" imageHeight="6584">
         <PrintSpace>
             <Coords points="692,209 8957,205 8966,6208 701,6212"/>
         </PrintSpace>
         <ReadingOrder>
-            <OrderedGroup id="ro_1690360014758" caption="Regions reading order">
+            <OrderedGroup id="ro_1700129741138" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
                 <RegionRefIndexed index="1" regionRef="r2"/>
                 <RegionRefIndexed index="2" regionRef="r3"/>
@@ -85,7 +85,7 @@ Transkribus</Creator>
             </TextLine>
             <TextLine id="r2l5" custom="readingOrder {index:4;}">
                 <Coords points="1078,841 1103,828 1257,825 1641,818 1861,816 1986,815 2239,815 2807,817 2883,819 2920,833 2941,845 2941,858 2920,871 2807,871 1287,884 1160,893 1078,882"/>
-                <Baseline points="1078,870 1425,874 1459,874 1586,872 1641,871 1825,868 1861,868 1949,868 1986,868 2239,868 2278,868 2502,867 2537,867 2632,871 2671,872 2807,869 2844,870 2938,869"/>
+                <Baseline points="1078,870 1425,874 1459,874 1586,872 1641,871 1825,868 1861,868 1949,868 1986,868 2239,868 2278,868 2502,867 2537,867 2632,871 2671,872 2807,869 2844,870 2933,862"/>
                 <TextEquiv>
                     <Unicode>eingewurzelt war, ergiebt ſich ſchließlich daraus, daß ſelbſt ein⸗</Unicode>
                 </TextEquiv>
@@ -120,7 +120,7 @@ Transkribus</Creator>
             </TextLine>
             <TextLine id="r2l10" custom="readingOrder {index:9;}">
                 <Coords points="1072,1172 1104,1151 1192,1149 1443,1146 1875,1144 1934,1144 2813,1146 2947,1161 2947,1200 2728,1209 2328,1211 2286,1211 1443,1209 1104,1204 1072,1197"/>
-                <Baseline points="1071,1200 1358,1199 1393,1199 1572,1199 1611,1198 1665,1198 1703,1198 1732,1199 1770,1199 1827,1199 1875,1199 2113,1197 2168,1197 2241,1198 2286,1198 2406,1198 2445,1200 2592,1199 2632,1199 2728,1199 2765,1198 2838,1199 2876,1200 2947,1200"/>
+                <Baseline points="1072,1197 1358,1199 1393,1199 1572,1199 1611,1198 1665,1198 1703,1198 1732,1199 1770,1199 1827,1199 1875,1199 2113,1197 2168,1197 2241,1198 2286,1198 2406,1198 2445,1200 2592,1199 2632,1199 2728,1199 2765,1198 2838,1199 2876,1200 2947,1200"/>
                 <TextEquiv>
                     <Unicode>»Goldener Wolf« u. ſ. f., Namen, die zum Theil auf die an</Unicode>
                 </TextEquiv>
@@ -219,7 +219,7 @@ Stelle des Tuchhauſes aufgeführten Häuſer übergegangen ſind.</Unicode>
             </TextLine>
             <TextLine id="r4l9" custom="readingOrder {index:8;}">
                 <Coords points="1063,2054 1168,2039 1276,2039 2765,2044 2921,2046 2941,2070 2941,2085 2921,2099 2630,2110 2480,2110 1223,2106 1190,2104 1063,2094"/>
-                <Baseline points="1063,2094 1276,2094 1312,2094 1644,2094 1682,2094 1828,2095 1866,2096 1965,2096 1990,2096 2316,2096 2354,2096 2440,2096 2480,2096 2694,2098 2728,2098 2940,2096"/>
+                <Baseline points="1063,2094 1276,2094 1312,2094 1644,2094 1682,2094 1828,2095 1866,2096 1965,2096 1990,2096 2316,2096 2354,2096 2440,2096 2480,2096 2694,2098 2728,2098 2935,2089"/>
                 <TextEquiv>
                     <Unicode>erreicht, andererſeits durch das Bewußtſein des höchſten Lebens⸗</Unicode>
                 </TextEquiv>
@@ -415,7 +415,7 @@ Stelle des Tuchhauſes aufgeführten Häuſer übergegangen ſind.</Unicode>
             </TextLine>
             <TextLine id="r4l37" custom="readingOrder {index:36;}">
                 <Coords points="1050,3885 1486,3885 2579,3894 2867,3901 2927,3915 2927,3954 2900,3965 2826,3965 1051,3946"/>
-                <Baseline points="1050,3937 1238,3937 1260,3937 1637,3941 1675,3941 1821,3942 1856,3942 1933,3942 1969,3943 2176,3944 2195,3944 2332,3946 2353,3946 2589,3949 2626,3949 2721,3951 2742,3951 2927,3954"/>
+                <Baseline points="1050,3936 1238,3937 1260,3937 1637,3941 1675,3941 1821,3942 1856,3942 1933,3942 1969,3943 2176,3944 2195,3944 2332,3946 2353,3946 2589,3949 2626,3949 2721,3951 2742,3951 2927,3954"/>
                 <TextEquiv>
                     <Unicode>ſtellten Opernhauſes, beſitzt die deutſche Oper vielleicht das einzige</Unicode>
                 </TextEquiv>
@@ -534,7 +534,7 @@ Stelle des Tuchhauſes aufgeführten Häuſer übergegangen ſind.</Unicode>
             </TextLine>
             <TextLine id="r4l54" custom="readingOrder {index:53;}">
                 <Coords points="1148,5020 1162,5007 1234,5007 1590,5009 2494,5015 2589,5017 2849,5024 2904,5038 2904,5077 2765,5083 1601,5077 1458,5070 1162,5073 1147,5042"/>
-                <Baseline points="1040,5038 1061,5043 1162,5060 1425,5062 1457,5063 1764,5066 1824,5067 1972,5068 2033,5068 2209,5068 2267,5068 2379,5068 2441,5069 2589,5072 2646,5073 2765,5075 2820,5076 2904,5067"/>
+                <Baseline points="1162,5060 1425,5062 1457,5063 1764,5066 1824,5067 1972,5068 2033,5068 2209,5068 2267,5068 2379,5068 2441,5069 2589,5072 2646,5073 2765,5075 2820,5076 2904,5067"/>
                 <TextEquiv>
                     <Unicode>Schiller's »Wilhelm Tell« gehört dem Stoff nach der</Unicode>
                 </TextEquiv>
@@ -1092,7 +1092,7 @@ des Patriotismus, welche dem Stück inmitten einer tief und</Unicode>
             </TextLine>
             <TextLine id="r5l53" custom="readingOrder {index:52;}">
                 <Coords points="3016,4021 3069,4021 3498,4024 4659,4036 4823,4048 4819,4098 4686,4101 4667,4101 4395,4100 3189,4080 3016,4075"/>
-                <Baseline points="3016,4075 3133,4074 3190,4075 3498,4079 3554,4080 3613,4081 3682,4082 3872,4084 3980,4085 4182,4086 4249,4087 4315,4087 4396,4088 4539,4088 4578,4089 4732,4090 4784,4087 4823,4087"/>
+                <Baseline points="3016,4075 3133,4074 3190,4075 3498,4079 3554,4080 3613,4081 3682,4082 3872,4084 3980,4085 4182,4086 4249,4087 4315,4087 4396,4088 4539,4088 4578,4089 4732,4090 4784,4087 4819,4086"/>
                 <TextEquiv>
                     <Unicode>Gut entſchloſſen zu opfern. »Wüßt' ich mein Herz an</Unicode>
                 </TextEquiv>
@@ -1169,7 +1169,7 @@ des Patriotismus, welche dem Stück inmitten einer tief und</Unicode>
             </TextLine>
             <TextLine id="r5l64" custom="readingOrder {index:63;}">
                 <Coords points="3005,4749 3145,4749 3387,4750 4821,4758 4820,4814 4741,4820 4707,4835 3291,4811 3036,4802 3005,4800"/>
-                <Baseline points="3011,4801 3145,4802 3199,4803 3387,4805 3456,4806 3630,4808 3678,4809 4032,4811 4068,4811 4393,4815 4440,4815 4549,4817 4587,4817 4821,4814"/>
+                <Baseline points="3011,4800 3145,4802 3199,4803 3387,4805 3456,4806 3630,4808 3678,4809 4032,4811 4068,4811 4393,4815 4440,4815 4549,4817 4587,4817 4820,4813"/>
                 <TextEquiv>
                     <Unicode>druck bringt. Lange fortdauernde Gewaltthat und Mißhand⸗</Unicode>
                 </TextEquiv>
@@ -1253,7 +1253,7 @@ des Patriotismus, welche dem Stück inmitten einer tief und</Unicode>
             </TextLine>
             <TextLine id="r5l76" custom="readingOrder {index:75;}">
                 <Coords points="2985,5551 3224,5551 4748,5561 4806,5568 4816,5575 4816,5591 4808,5614 4672,5627 4581,5626 3335,5619 2985,5605"/>
-                <Baseline points="2985,5605 3300,5607 3335,5608 3398,5608 3435,5609 3597,5610 3635,5610 3827,5612 3863,5612 4093,5615 4142,5616 4215,5617 4249,5617 4670,5619 4715,5614 4820,5599"/>
+                <Baseline points="2985,5605 3300,5607 3335,5608 3398,5608 3435,5609 3597,5610 3635,5610 3827,5612 3863,5612 4093,5615 4142,5616 4215,5617 4249,5617 4670,5619 4715,5614 4813,5596"/>
                 <TextEquiv>
                     <Unicode>Gemeinden zu einem ſtarken Ganzen, die Ueberwindung klein⸗</Unicode>
                 </TextEquiv>
@@ -1274,14 +1274,14 @@ des Patriotismus, welche dem Stück inmitten einer tief und</Unicode>
             </TextLine>
             <TextLine id="r5l79" custom="readingOrder {index:78;}">
                 <Coords points="2979,5748 4644,5758 4687,5753 4816,5746 4813,5807 4761,5814 4640,5826 3123,5816 2979,5812"/>
-                <Baseline points="2979,5800 3087,5801 3123,5802 3308,5804 3344,5805 3441,5806 3483,5807 3706,5808 3755,5808 3863,5809 3901,5810 4009,5811 4045,5811 4147,5812 4183,5812 4362,5814 4457,5815 4577,5816 4613,5816 4814,5794"/>
+                <Baseline points="2979,5800 3087,5801 3123,5802 3308,5804 3344,5805 3441,5806 3483,5807 3706,5808 3755,5808 3863,5809 3901,5810 4009,5811 4045,5811 4147,5812 4183,5812 4362,5814 4457,5815 4577,5816 4613,5816 4813,5793"/>
                 <TextEquiv>
                     <Unicode>ſind Feinde vor Gericht, hier ſind wir einig. « Seit Schillers</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r5l80" custom="readingOrder {index:79;}">
                 <Coords points="2982,5816 3107,5816 4792,5818 4814,5805 4815,5866 4772,5883 4442,5888 4221,5888 3009,5869 2982,5868"/>
-                <Baseline points="2982,5867 3242,5870 3289,5870 3362,5871 3399,5871 3588,5873 3637,5873 3878,5875 3929,5876 4018,5876 4071,5876 4171,5877 4224,5878 4440,5880 4473,5880 4606,5880 4657,5880 4735,5881 4766,5871 4815,5855"/>
+                <Baseline points="2982,5867 3242,5870 3289,5870 3362,5871 3399,5871 3588,5873 3637,5873 3878,5875 3929,5876 4018,5876 4071,5876 4171,5877 4224,5878 4440,5880 4473,5880 4606,5880 4657,5880 4735,5881 4766,5871 4814,5855"/>
                 <TextEquiv>
                     <Unicode>Dichtung die Bühne betreten, hat das deutſche Volk ſich die</Unicode>
                 </TextEquiv>
@@ -1295,7 +1295,7 @@ des Patriotismus, welche dem Stück inmitten einer tief und</Unicode>
             </TextLine>
             <TextLine id="r5l82" custom="readingOrder {index:81;}">
                 <Coords points="2981,5960 3005,5946 3041,5946 4781,5950 4822,5943 4820,6001 4711,6008 4675,6010 4611,6012 4316,6021 4290,6021 3203,6015 3005,5999 2981,5997"/>
-                <Baseline points="2987,5998 3061,5999 3100,5999 3233,6001 3272,6001 3404,6002 3440,6003 3547,6004 3582,6004 3852,6006 3883,6006 3937,6006 3976,6007 4135,6008 4173,6008 4316,6009 4352,6009 4463,6011 4501,6011 4711,6006 4744,5992 4813,5990"/>
+                <Baseline points="2987,5997 3061,5999 3100,5999 3233,6001 3272,6001 3404,6002 3440,6003 3547,6004 3582,6004 3852,6006 3883,6006 3937,6006 3976,6007 4135,6008 4173,6008 4316,6009 4352,6009 4463,6011 4501,6011 4711,6006 4744,5992 4813,5990"/>
                 <TextEquiv>
                     <Unicode>ein einig Volk von Brüdern, in keiner Noth uns trennen und</Unicode>
                 </TextEquiv>
@@ -1418,7 +1418,7 @@ gehört worden, heute iſt das Wort des Dichters erfüllt.</Unicode>
             <Coords points="4914,1037 6235,1000 6235,1428 4914,1465"/>
             <TextLine id="r7l1" custom="readingOrder {index:0;}">
                 <Coords points="4924,1065 6232,1014 6234,1379 4916,1429"/>
-                <Baseline points="4934,1395 6236,1349"/>
+                <Baseline points="4934,1395 6233,1349"/>
                 <TextEquiv>
                     <Unicode>Staats-</Unicode>
                 </TextEquiv>
@@ -1526,7 +1526,7 @@ Zieten⸗Platz Nr. 3.</Unicode>
             <Coords points="4894,1764 5286,1732 5286,1892 4894,1920"/>
             <TextLine id="r11l1" custom="readingOrder {index:0;}">
                 <Coords points="5284,1737 5284,1887 4898,1902 4901,1772"/>
-                <Baseline points="4900,1873 5287,1873"/>
+                <Baseline points="4900,1873 5284,1873"/>
                 <TextEquiv>
                     <Unicode>No 244.</Unicode>
                 </TextEquiv>
@@ -1552,7 +1552,7 @@ Zieten⸗Platz Nr. 3.</Unicode>
             <Coords points="8325,1732 8624,1732 8624,1892 8325,1892"/>
             <TextLine id="r13l1" custom="readingOrder {index:0;}">
                 <Coords points="8328,1747 8590,1747 8593,1845 8328,1845"/>
-                <Baseline points="8328,1840 8593,1840"/>
+                <Baseline points="8328,1840 8592,1840"/>
                 <TextEquiv>
                     <Unicode>1870.</Unicode>
                 </TextEquiv>

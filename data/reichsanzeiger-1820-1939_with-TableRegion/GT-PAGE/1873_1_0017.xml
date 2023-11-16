@@ -1,24 +1,24 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
     <Metadata>
         <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.7.2:model_id=40804:lm=none:date=06_07_2022_08:28
 prov=READ-COOP:name=PyLaia@Transkribus:version=0.7.2:model_id=40804:date=06_07_2022_08:28
 Transkribus</Creator>
         <Created>2021-12-14T11:43:03.697+01:00</Created>
-        <LastChange>2022-12-07T16:09:24.993+01:00</LastChange>
+        <LastChange>2023-11-15T20:47:05.702+01:00</LastChange>
         <Comments>
                 Measurement unit: pixel
                 PrimaryLanguage: 
                 Producer: Transkribus
             </Comments>
-        <TranskribusMetadata docId="900641" pageId="34524911" pageNr="12" tsid="105747876" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=DFJFDPUKLRDKKIHCILIHRMAI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NNFBKZHJPFUQNCZZQLZLRHOT" imageId="27705299"/>
+        <TranskribusMetadata docId="900641" pageId="34524911" pageNr="12" tsid="139840658" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=DFJFDPUKLRDKKIHCILIHRMAI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WTVYCUHNDLTLCRQLHFKVWIYP" imageId="27705299"/>
     </Metadata>
     <Page imageFilename="1873_1_0017.jpg" imageWidth="10728" imageHeight="7464">
         <PrintSpace>
             <Coords points="1120,920 9962,956 9987,7149 1145,7113"/>
         </PrintSpace>
         <ReadingOrder>
-            <OrderedGroup id="ro_1690360014867" caption="Regions reading order">
+            <OrderedGroup id="ro_1700129741547" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
                 <RegionRefIndexed index="1" regionRef="r2"/>
                 <RegionRefIndexed index="2" regionRef="r3"/>
@@ -49,7 +49,7 @@ Transkribus</Creator>
             <Coords points="1373,1067 3348,1141 3259,4029 1305,3984"/>
             <TextLine id="r2l1" custom="readingOrder {index:0;}">
                 <Coords points="1429,1119 1486,1109 1502,1109 1598,1110 2874,1140 3331,1161 3331,1226 3076,1216 3026,1215 1430,1175"/>
-                <Baseline points="1429,1161 1598,1166 1673,1167 1775,1170 1810,1171 2131,1179 2168,1180 2274,1183 2310,1184 2969,1204 3005,1205 3331,1214"/>
+                <Baseline points="1429,1160 1598,1166 1673,1167 1775,1170 1810,1171 2131,1179 2168,1180 2274,1183 2310,1184 2969,1204 3005,1205 3331,1214"/>
                 <TextEquiv>
                     <Unicode>geſetzt. Die Einwohner von Fontenay⸗ſous⸗Bois, Montreuil,</Unicode>
                 </TextEquiv>
@@ -329,7 +329,7 @@ Transkribus</Creator>
             </TextLine>
             <TextLine id="r2l41" custom="readingOrder {index:40;}">
                 <Coords points="1351,3778 1416,3773 1477,3773 3144,3817 3216,3817 3242,3829 3242,3870 3148,3876 3112,3876 2907,3872 2476,3862 1542,3836 1416,3834 1354,3823 1354,3784"/>
-                <Baseline points="1352,3824 1475,3827 1511,3828 1743,3833 1784,3834 1969,3838 2002,3838 2291,3845 2329,3845 2432,3848 2470,3849 2733,3856 2771,3857 2870,3860 2905,3861 3056,3865 3082,3866 3146,3868 3174,3867 3240,3871"/>
+                <Baseline points="1354,3823 1475,3827 1511,3828 1743,3833 1784,3834 1969,3838 2002,3838 2291,3845 2329,3845 2432,3848 2470,3849 2733,3856 2771,3857 2870,3860 2905,3861 3056,3865 3082,3866 3146,3868 3174,3867 3239,3870"/>
                 <TextEquiv>
                     <Unicode>nach welchem 10,000 Franzoſen von Hippolite auf Pont Ro de</Unicode>
                 </TextEquiv>
@@ -475,7 +475,7 @@ Hérimoncourt ſoll es zu einem Zuſammenſtoß gekommen ſein.</Unicode>
             </TextLine>
             <TextLine id="r3l12" custom="readingOrder {index:11;}">
                 <Coords points="1448,4814 1499,4814 1697,4818 2126,4828 2578,4839 2981,4849 3123,4858 3207,4869 3207,4909 3123,4919 3091,4919 2496,4898 2463,4906 2439,4897 2281,4896 2251,4901 2216,4893 1947,4883 1671,4882 1448,4869"/>
-                <Baseline points="1448,4867 1545,4869 1581,4870 1865,4876 1925,4878 2007,4879 2060,4880 2473,4890 2527,4892 2743,4897 2799,4899 2882,4901 2934,4903 3203,4910"/>
+                <Baseline points="1448,4867 1545,4869 1581,4870 1865,4876 1925,4878 2007,4879 2060,4880 2473,4890 2527,4892 2743,4897 2799,4899 2882,4901 2934,4903 3202,4909"/>
                 <TextEquiv>
                     <Unicode>Die Abholung der Korreſpondenz Seitens der Truppen⸗</Unicode>
                 </TextEquiv>
@@ -489,7 +489,7 @@ Hérimoncourt ſoll es zu einem Zuſammenſtoß gekommen ſein.</Unicode>
             </TextLine>
             <TextLine id="r3l14" custom="readingOrder {index:13;}">
                 <Coords points="1301,4957 1419,4948 1435,4948 1559,4949 1856,4959 1854,5019 1787,5022 1359,5012 1301,4999"/>
-                <Baseline points="1301,4998 1618,5005 1658,5006 1863,5009"/>
+                <Baseline points="1301,4998 1618,5005 1658,5006 1854,5008"/>
                 <TextEquiv>
                     <Unicode>regelmäßig erfolgt.</Unicode>
                 </TextEquiv>
@@ -797,7 +797,7 @@ treffend einen Nachtrag zu dem revidirten Geſetze über die</Unicode>
             </TextLine>
             <TextLine id="r5l12" custom="readingOrder {index:11;}">
                 <Coords points="3538,1901 3716,1905 4248,1922 4417,1934 5262,1943 5294,1980 5298,2014 5262,2013 5003,2014 4848,1999 4438,1988 4407,1996 4030,1979 3883,1963 3655,1966 3538,1953"/>
-                <Baseline points="3538,1952 3816,1961 3891,1964 4159,1974 4196,1975 4280,1978 4318,1979 4609,1989 4680,1992 4783,1996 4827,1997 5290,2007"/>
+                <Baseline points="3538,1952 3816,1961 3891,1963 4159,1974 4196,1975 4280,1978 4318,1979 4609,1989 4680,1992 4783,1996 4827,1997 5290,2007"/>
                 <TextEquiv>
                     <Unicode>Anhalt. Deſſau, 28. Dezember. Die »Geſetz⸗Samm⸗</Unicode>
                 </TextEquiv>
@@ -944,7 +944,7 @@ treffend einen Nachtrag zu dem revidirten Geſetze über die</Unicode>
             </TextLine>
             <TextLine id="r5l33" custom="readingOrder {index:32;}">
                 <Coords points="3350,3270 3395,3270 3734,3280 4716,3309 5160,3323 5230,3327 5250,3349 5250,3365 5247,3380 4996,3378 4977,3378 4651,3368 4419,3357 4395,3363 4113,3352 3839,3339 3828,3343 3810,3338 3350,3319"/>
-                <Baseline points="3350,3318 3582,3325 3617,3326 3688,3329 3706,3329 4006,3337 4023,3338 4283,3347 4301,3347 4453,3351 4474,3352 4604,3356 4617,3356 4959,3367 4977,3368 5088,3372 5111,3372 5249,3374"/>
+                <Baseline points="3350,3318 3582,3325 3617,3326 3688,3329 3706,3329 4006,3337 4023,3338 4283,3347 4301,3347 4453,3351 4474,3352 4604,3356 4617,3356 4959,3367 4977,3368 5088,3372 5111,3372 5248,3373"/>
                 <TextEquiv>
                     <Unicode>Kammer der Reichsräthe empfehlen möge: »»die Zuſtimmung zum Voll⸗</Unicode>
                 </TextEquiv>
@@ -1098,7 +1098,7 @@ treffend einen Nachtrag zu dem revidirten Geſetze über die</Unicode>
             </TextLine>
             <TextLine id="r5l55" custom="readingOrder {index:54;}">
                 <Coords points="3300,4571 3573,4582 4863,4616 5165,4627 5201,4641 5201,4677 5165,4685 5122,4685 4836,4671 4564,4661 4538,4668 4090,4644 4077,4649 3843,4645 3329,4623 3300,4619"/>
-                <Baseline points="3300,4618 3677,4628 3709,4629 3788,4631 3821,4632 3972,4637 3992,4637 4272,4644 4292,4645 4376,4648 4406,4649 4501,4652 4527,4653 4672,4659 4707,4660 4792,4664 4809,4665 5071,4672 5102,4673 5203,4674"/>
+                <Baseline points="3300,4618 3677,4628 3709,4629 3788,4631 3821,4632 3972,4637 3992,4637 4272,4644 4292,4645 4376,4648 4406,4649 4501,4652 4527,4653 4672,4659 4707,4660 4792,4664 4809,4665 5071,4672 5102,4673 5201,4674"/>
                 <TextEquiv>
                     <Unicode>Anſchauungen des Herrn Referenten dar und gaben den Verträgen ihre</Unicode>
                 </TextEquiv>
@@ -1287,7 +1287,7 @@ treffend einen Nachtrag zu dem revidirten Geſetze über die</Unicode>
             </TextLine>
             <TextLine id="r5l82" custom="readingOrder {index:81;}">
                 <Coords points="3249,6177 3276,6175 3632,6175 3654,6177 3896,6189 4006,6198 4136,6201 4304,6205 4544,6215 4590,6212 5076,6233 5138,6247 5138,6286 5046,6286 4571,6270 4537,6277 4101,6249 3997,6257 3619,6234 3520,6235 3295,6232 3249,6223"/>
-                <Baseline points="3249,6222 3632,6226 3681,6229 3913,6242 3964,6244 4060,6248 4110,6250 4197,6249 4235,6256 4699,6269 4750,6270 4968,6278 5013,6280 5136,6282"/>
+                <Baseline points="3249,6222 3632,6226 3681,6229 3913,6242 3964,6244 4060,6248 4110,6249 4197,6249 4235,6256 4699,6269 4750,6270 4968,6278 5013,6280 5136,6282"/>
                 <TextEquiv>
                     <Unicode>diplomatiſchen Ausſchuß und das Stimmverhältniß bezüglich etwa</Unicode>
                 </TextEquiv>
@@ -1308,7 +1308,7 @@ treffend einen Nachtrag zu dem revidirten Geſetze über die</Unicode>
             </TextLine>
             <TextLine id="r5l85" custom="readingOrder {index:84;}">
                 <Coords points="3240,6402 3240,6351 3301,6350 3328,6350 3431,6351 3507,6353 4470,6391 4829,6399 4925,6405 4954,6407 5131,6416 5130,6467 4983,6464 4743,6453 4680,6448 4600,6456 4500,6450 4130,6441 3893,6430 3519,6408 3301,6411"/>
-                <Baseline points="3242,6396 3365,6399 3431,6399 3461,6400 3694,6410 3743,6413 3819,6416 3867,6418 4166,6429 4217,6431 4286,6434 4333,6436 4612,6447 4665,6443 4740,6445 4779,6453 5008,6456 5046,6458 5131,6461"/>
+                <Baseline points="3242,6396 3365,6399 3431,6399 3461,6400 3694,6410 3743,6413 3819,6416 3867,6418 4166,6429 4217,6431 4286,6434 4333,6436 4612,6447 4665,6443 4740,6445 4779,6453 5008,6456 5046,6458 5130,6460"/>
                 <TextEquiv>
                     <Unicode>daß die Kammer der Reichsräthe die Berathung der Verträge vor</Unicode>
                 </TextEquiv>
@@ -1677,7 +1677,7 @@ Bayerns zur Annahme der Verträge zwinge und kamen zu dem</Unicode>
             </TextLine>
             <TextLine id="r7l30" custom="readingOrder {index:29;}">
                 <Coords points="5894,2965 5920,2965 6255,2969 6337,2970 6741,2977 7432,2989 7706,2995 7752,2998 7788,3004 7788,3046 7752,3052 7506,3052 6692,3030 5894,3026"/>
-                <Baseline points="5894,3014 6041,3016 6074,3016 6155,3017 6188,3017 6255,3018 6290,3019 6555,3024 6589,3024 6661,3026 6692,3026 6918,3029 6944,3030 7025,3031 7061,3032 7432,3040 7506,3041 7625,3044 7657,3044 7787,3047"/>
+                <Baseline points="5894,3014 6041,3016 6074,3016 6155,3017 6188,3017 6255,3018 6290,3019 6555,3024 6589,3024 6661,3026 6692,3026 6918,3029 6944,3030 7025,3031 7061,3032 7432,3040 7506,3041 7625,3044 7657,3044 7786,3046"/>
                 <TextEquiv>
                     <Unicode>ſehen, für die Annahme der Verträge ſich auszuſprechen. Herr Refe⸗</Unicode>
                 </TextEquiv>
@@ -1880,7 +1880,7 @@ Bayerns zur Annahme der Verträge zwinge und kamen zu dem</Unicode>
             </TextLine>
             <TextLine id="r7l59" custom="readingOrder {index:58;}">
                 <Coords points="5915,4828 6062,4818 6622,4819 7750,4845 7750,4900 7699,4912 7564,4902 7500,4906 7159,4901 6479,4887 6111,4885 6075,4885 5914,4873 5910,4850"/>
-                <Baseline points="5914,4870 6052,4872 6075,4872 6319,4875 6361,4875 6489,4876 6548,4877 6550,4877 6565,4877 6651,4878 6671,4878 6770,4879 6809,4880 7027,4884 7063,4885 7394,4892 7431,4893 7751,4898"/>
+                <Baseline points="5914,4870 6052,4872 6075,4872 6319,4875 6361,4875 6489,4876 6548,4877 6550,4877 6565,4877 6651,4878 6671,4878 6770,4879 6809,4880 7027,4884 7063,4885 7394,4892 7431,4893 7750,4898"/>
                 <TextEquiv>
                     <Unicode>— 1. Januar. (W. T. B.) Die morgen erſcheinende »Montags⸗</Unicode>
                 </TextEquiv>
@@ -2118,14 +2118,14 @@ deutſcherſeits freies Geleit bewilligt worden ſei.</Unicode>
             </TextLine>
             <TextLine id="r8l18" custom="readingOrder {index:17;}">
                 <Coords points="5810,6463 5840,6470 6736,6475 6852,6482 7453,6496 7661,6502 7710,6505 7708,6565 7532,6565 7290,6562 7248,6553 6391,6543 6189,6535 5856,6534 5811,6530 5807,6498"/>
-                <Baseline points="5811,6520 5969,6525 6028,6525 6128,6526 6148,6526 6740,6535 6766,6536 6858,6538 6883,6539 6983,6542 7000,6542 7494,6553 7531,6554 7710,6557"/>
+                <Baseline points="5811,6520 5969,6525 6028,6525 6128,6526 6148,6526 6740,6535 6766,6536 6858,6538 6883,6539 6983,6542 7000,6542 7494,6553 7531,6554 7708,6556"/>
                 <TextEquiv>
                     <Unicode>ſehen. Die Nordbahngeſellſchaft hat alle Stationsgebäude ſüdlich</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r8l19" custom="readingOrder {index:18;}">
                 <Coords points="5817,6538 5961,6535 6089,6535 6315,6538 6580,6542 7155,6553 7710,6570 7710,6623 7686,6624 6898,6619 6846,6609 6482,6607 6203,6601 5851,6591 5817,6586"/>
-                <Baseline points="5819,6584 5922,6590 5961,6591 6089,6592 6133,6593 6363,6595 6400,6596 6580,6598 6613,6599 6676,6601 6716,6602 6846,6605 6878,6606 7303,6615 7356,6615 7447,6619 7479,6620 7711,6622"/>
+                <Baseline points="5819,6584 5922,6590 5961,6591 6089,6592 6133,6593 6363,6595 6400,6596 6580,6598 6613,6599 6676,6601 6716,6602 6846,6605 6878,6606 7303,6615 7356,6615 7447,6619 7479,6620 7710,6622"/>
                 <TextEquiv>
                     <Unicode>von Lille räumen laſſen. — Das Hauptquartier des General</Unicode>
                 </TextEquiv>
@@ -2153,7 +2153,7 @@ deutſcherſeits freies Geleit bewilligt worden ſei.</Unicode>
             </TextLine>
             <TextLine id="r8l23" custom="readingOrder {index:22;}">
                 <Coords points="5805,6798 5826,6798 6654,6811 6909,6816 7600,6833 7704,6848 7704,6890 6897,6876 6783,6883 6538,6882 6108,6868 5978,6869 5805,6852"/>
-                <Baseline points="5811,6849 5994,6857 6038,6858 6126,6859 6159,6860 6427,6866 6464,6866 6733,6870 6765,6870 6909,6873 6941,6874 7012,6876 7048,6876 7178,6880 7213,6880 7382,6884 7418,6885 7502,6887 7538,6888 7702,6887"/>
+                <Baseline points="5811,6849 5994,6857 6038,6858 6126,6859 6159,6860 6427,6866 6464,6866 6733,6870 6765,6870 6909,6873 6941,6874 7012,6876 7048,6876 7178,6880 7213,6880 7382,6884 7418,6885 7502,6886 7538,6887 7702,6887"/>
                 <TextEquiv>
                     <Unicode>lautet, daß Abbeville kapitulirt habe. — Eine Ordre des Gene⸗</Unicode>
                 </TextEquiv>
@@ -2341,7 +2341,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2369,7 +2369,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2404,7 +2404,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2418,7 +2418,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2433,13 +2433,13 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                 </TextLine>
                 <TextLine id="TableCell_1642074782148_1669l2" custom="readingOrder {index:1;}">
                     <Coords points="7886,2775 7976,2775 8143,2779 8180,2793 8183,2831 8069,2840 7887,2832"/>
-                    <Baseline points="7886,2823 8099,2826 8130,2827 8179,2826"/>
+                    <Baseline points="7886,2822 8099,2826 8130,2827 8179,2826"/>
                     <TextEquiv>
                         <Unicode>Ankunft in</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2460,7 +2460,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2481,7 +2481,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2502,7 +2502,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2523,7 +2523,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2537,7 +2537,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2545,7 +2545,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                 <Coords points="9136,2859 9134,2993 9464,3001 9466,2867"/>
                 <TextLine id="TableCell_1642074811793_1709l0" custom="readingOrder {index:0;}">
                     <Coords points="9150,2874 9325,2874 9408,2877 9413,2937 9325,2933 9302,2933 9150,2919"/>
-                    <Baseline points="9157,2920 9191,2920 9210,2920 9270,2921 9302,2922 9399,2924"/>
+                    <Baseline points="9157,2919 9191,2920 9210,2920 9270,2921 9302,2922 9399,2924"/>
                     <TextEquiv>
                         <Unicode>8.45 fr. †</Unicode>
                     </TextEquiv>
@@ -2558,7 +2558,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2579,7 +2579,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2600,7 +2600,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2614,7 +2614,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2635,7 +2635,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2656,7 +2656,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2677,7 +2677,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2698,7 +2698,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2719,7 +2719,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2754,7 +2754,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2775,7 +2775,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2803,7 +2803,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2824,7 +2824,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2859,7 +2859,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2874,13 +2874,13 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                 </TextLine>
                 <TextLine id="TableCell_1642074954026_1809l3" custom="readingOrder {index:1;}">
                     <Coords points="7864,3676 7909,3676 8112,3678 8151,3691 8149,3733 8037,3736 7864,3726"/>
-                    <Baseline points="7864,3726 8093,3727 8112,3727 8151,3727"/>
+                    <Baseline points="7864,3726 8093,3727 8112,3727 8149,3726"/>
                     <TextEquiv>
                         <Unicode>Ankunft in</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2894,7 +2894,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2915,7 +2915,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2936,7 +2936,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2957,7 +2957,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2971,7 +2971,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2992,7 +2992,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3017,7 +3017,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3038,7 +3038,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3059,7 +3059,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3067,7 +3067,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                 <Coords points="9456,3898 9453,4032 9776,4045 9783,3906"/>
                 <TextLine id="TableCell_1642075005036_1885l0" custom="readingOrder {index:0;}">
                     <Coords points="9465,3914 9593,3901 9749,3905 9749,3986 9709,3986 9612,3982 9465,3962"/>
-                    <Baseline points="9465,3962 9581,3965 9599,3965 9704,3969 9733,3968 9751,3971"/>
+                    <Baseline points="9465,3962 9581,3965 9599,3965 9704,3969 9733,3968 9749,3971"/>
                     <TextEquiv>
                         <Unicode>8.45. fr. †</Unicode>
                     </TextEquiv>
@@ -3080,7 +3080,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3101,7 +3101,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3122,7 +3122,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3130,7 +3130,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                 <Coords points="9108,4026 9103,4162 9441,4170 9453,4032"/>
                 <TextLine id="TableCell_1642075026515_1907l0" custom="readingOrder {index:0;}">
                     <Coords points="9121,4040 9409,4048 9403,4099 9399,4107 9122,4098"/>
-                    <Baseline points="9121,4089 9257,4090 9380,4093"/>
+                    <Baseline points="9121,4088 9257,4090 9380,4093"/>
                     <TextEquiv>
                         <Unicode>8.45 fr. †</Unicode>
                     </TextEquiv>
@@ -3143,7 +3143,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3151,7 +3151,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                 <Coords points="9453,4032 9441,4170 9776,4175 9776,4045"/>
                 <TextLine id="TableCell_1642075026532_1913l0" custom="readingOrder {index:0;}">
                     <Coords points="9455,4050 9543,4050 9730,4055 9744,4103 9685,4103 9642,4103 9590,4102 9489,4097 9455,4095"/>
-                    <Baseline points="9459,4097 9498,4097 9513,4097 9574,4099 9590,4100 9732,4101"/>
+                    <Baseline points="9459,4095 9498,4097 9513,4097 9574,4099 9590,4100 9732,4101"/>
                     <TextEquiv>
                         <Unicode>8.30 Ab. *</Unicode>
                     </TextEquiv>
@@ -3164,7 +3164,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3185,7 +3185,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3213,7 +3213,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3248,7 +3248,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3262,7 +3262,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3283,7 +3283,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3297,7 +3297,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3318,7 +3318,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3339,7 +3339,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3360,7 +3360,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3374,7 +3374,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3395,7 +3395,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3420,7 +3420,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3434,7 +3434,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3455,7 +3455,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3476,7 +3476,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3497,7 +3497,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3518,7 +3518,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3539,7 +3539,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3564,7 +3564,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3578,7 +3578,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3599,7 +3599,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3624,7 +3624,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3645,7 +3645,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3680,7 +3680,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3705,7 +3705,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3726,7 +3726,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3747,7 +3747,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3768,7 +3768,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3789,7 +3789,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3803,7 +3803,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3824,7 +3824,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3849,7 +3849,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3863,7 +3863,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3884,7 +3884,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3909,7 +3909,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3923,7 +3923,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3944,7 +3944,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3965,7 +3965,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3986,7 +3986,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4000,7 +4000,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4021,7 +4021,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4046,7 +4046,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4067,7 +4067,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4088,7 +4088,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4113,7 +4113,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4134,7 +4134,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4169,7 +4169,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4190,7 +4190,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4211,7 +4211,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4225,7 +4225,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4246,7 +4246,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4271,7 +4271,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4292,7 +4292,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4313,7 +4313,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4328,13 +4328,13 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                 </TextLine>
                 <TextLine id="TableCell_1642075712902_2353l1" custom="readingOrder {index:1;}">
                     <Coords points="8314,6831 8336,6827 8363,6827 8756,6839 9030,6849 9051,6902 8382,6892 8343,6892 8314,6881"/>
-                    <Baseline points="8314,6880 8416,6882 8441,6882 8666,6886 8692,6887 8802,6888 8830,6891 9051,6894"/>
+                    <Baseline points="8314,6880 8416,6882 8441,6882 8666,6886 8692,6887 8802,6888 8830,6891 9048,6895"/>
                     <TextEquiv>
                         <Unicode>über Kreienſen reſp. Eiſenach.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4369,7 +4369,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4390,7 +4390,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4411,7 +4411,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4432,7 +4432,7 @@ Monats.) Berlin, 1. Januar 1871.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>

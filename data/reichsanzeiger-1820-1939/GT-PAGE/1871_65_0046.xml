@@ -5,20 +5,20 @@
 prov=READ-COOP:name=PyLaia@Transkribus:version=0.7.1:model_id=40804:date=05_07_2022_11:46
 Transkribus</Creator>
         <Created>2021-12-14T11:43:02.075+01:00</Created>
-        <LastChange>2023-07-26T12:26:41.577+02:00</LastChange>
+        <LastChange>2023-11-16T11:27:23.429+01:00</LastChange>
         <Comments>
                 Measurement unit: pixel
                 PrimaryLanguage: 
                 Producer: Transkribus
             </Comments>
-        <TranskribusMetadata docId="1256542" pageId="50892378" pageNr="9" tsid="130936288" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=EDJVRTVFWSFAXDDWXBSCSEWB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OLBXZGNBGPATHGSQLACXDCFH" imageId="27583903"/>
+        <TranskribusMetadata docId="1256542" pageId="50892378" pageNr="9" tsid="139882934" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=EDJVRTVFWSFAXDDWXBSCSEWB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BCDAUNJMWUBLKCTKBPPZJTFR" imageId="27583903"/>
     </Metadata>
     <Page imageFilename="1871_65_0046.jpg" imageWidth="10736" imageHeight="7536">
         <PrintSpace>
             <Coords points="910,1009 9805,972 9800,7196 905,7233"/>
         </PrintSpace>
         <ReadingOrder>
-            <OrderedGroup id="ro_1690386033265" caption="Regions reading order">
+            <OrderedGroup id="ro_1700130955686" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
                 <RegionRefIndexed index="1" regionRef="r2"/>
                 <RegionRefIndexed index="2" regionRef="r3"/>
@@ -623,7 +623,7 @@ Eigenthum derſelben antaſtet.</Unicode>
             <Coords points="1868,6471 2302,6481 2301,6561 1868,6555"/>
             <TextLine id="r7l1" custom="readingOrder {index:0;}">
                 <Coords points="1876,6478 2259,6479 2265,6551 1882,6550"/>
-                <Baseline points="1882,6545 2265,6546"/>
+                <Baseline points="1882,6545 2264,6546"/>
                 <TextEquiv>
                     <Unicode>Artikel VI.</Unicode>
                 </TextEquiv>
@@ -1537,7 +1537,7 @@ Zieten⸗Platz Nr. 3.</Unicode>
             </TextLine>
             <TextLine id="r30l18" custom="readingOrder {index:17;}">
                 <Coords points="6379,3809 6399,3783 7038,3760 7380,3752 7477,3764 7477,3803 7329,3830 6457,3840 6387,3845 6376,3827"/>
-                <Baseline points="6390,3841 6422,3841 6454,3841 6496,3836 6533,3835 6587,3833 6626,3831 7477,3801"/>
+                <Baseline points="6390,3841 6422,3841 6453,3840 6496,3836 6533,3835 6587,3833 6626,3831 7477,3801"/>
                 <TextEquiv>
                     <Unicode>Gr. v. Bismarck⸗Schönhauſen.</Unicode>
                 </TextEquiv>
@@ -1784,7 +1784,7 @@ pation.</Unicode>
             <Coords points="6410,5687 6872,5666 6873,5752 6410,5755"/>
             <TextLine id="r36l1" custom="readingOrder {index:0;}">
                 <Coords points="6459,5685 6837,5671 6839,5737 6461,5751"/>
-                <Baseline points="6461,5741 6839,5727"/>
+                <Baseline points="6461,5741 6838,5727"/>
                 <TextEquiv>
                     <Unicode>Article III.</Unicode>
                 </TextEquiv>
@@ -1811,7 +1811,7 @@ pation.</Unicode>
             </TextLine>
             <TextLine id="r37l3" custom="readingOrder {index:2;}">
                 <Coords points="5690,5949 5981,5933 6103,5927 6254,5921 7561,5881 7576,5881 7604,5882 7604,5928 7283,5946 6816,5964 6685,5968 5734,5997 5690,5997"/>
-                <Baseline points="5690,5996 5796,5991 5831,5990 6219,5972 6254,5970 6318,5967 6352,5966 6493,5959 6525,5961 6816,5952 6849,5951 6976,5948 7004,5947 7055,5945 7080,5945 7325,5938 7346,5937 7414,5935 7438,5934 7605,5928"/>
+                <Baseline points="5690,5996 5796,5991 5831,5990 6219,5972 6254,5970 6318,5967 6352,5966 6493,5959 6525,5961 6816,5952 6849,5951 6976,5948 7004,5947 7055,5945 7080,5945 7325,5938 7346,5937 7414,5935 7438,5934 7604,5928"/>
                 <TextEquiv>
                     <Unicode>Les contributions de cette catégorie, dont le montant ne serait</Unicode>
                 </TextEquiv>
@@ -2150,7 +2150,7 @@ pen angehörige und nicht bewaffnete Perſonen freigegeben.</Unicode>
             </TextLine>
             <TextLine id="r43l6" custom="readingOrder {index:5;}">
                 <Coords points="7658,4347 7718,4340 9154,4292 9493,4292 9539,4296 9558,4320 9558,4335 9539,4349 9493,4375 8113,4404 7748,4410 7658,4410"/>
-                <Baseline points="7658,4401 7899,4392 7939,4391 8169,4384 8205,4383 8294,4381 8335,4380 8589,4372 8626,4371 8736,4368 8773,4367 9133,4360 9154,4360 9555,4345"/>
+                <Baseline points="7658,4401 7899,4392 7939,4391 8169,4384 8205,4383 8294,4381 8335,4380 8589,4372 8626,4371 8736,4368 8773,4367 9133,4360 9154,4360 9551,4339"/>
                 <TextEquiv>
                     <Unicode>ſtändniß zwiſchen den deutſchen und franzöſiſchen Militärbehör⸗</Unicode>
                 </TextEquiv>
@@ -2171,7 +2171,7 @@ pen angehörige und nicht bewaffnete Perſonen freigegeben.</Unicode>
             </TextLine>
             <TextLine id="r43l9" custom="readingOrder {index:8;}">
                 <Coords points="7654,4543 7953,4539 7954,4596 7656,4608"/>
-                <Baseline points="7656,4603 7954,4591"/>
+                <Baseline points="7656,4603 7953,4591"/>
                 <TextEquiv>
                     <Unicode>Offizieren.</Unicode>
                 </TextEquiv>
@@ -2213,7 +2213,7 @@ Offizieren.</Unicode>
             </TextLine>
             <TextLine id="r44l4" custom="readingOrder {index:3;}">
                 <Coords points="7666,4830 7723,4814 7900,4808 9262,4762 9545,4762 9579,4774 9579,4805 9545,4815 9480,4831 8575,4860 7860,4875 7723,4875 7666,4869"/>
-                <Baseline points="7666,4868 7860,4864 7900,4863 8281,4850 8321,4849 8575,4842 8615,4841 8720,4839 8759,4838 9053,4829 9095,4827 9176,4825 9212,4824 9571,4810"/>
+                <Baseline points="7666,4868 7860,4864 7900,4863 8281,4850 8321,4849 8575,4842 8615,4841 8720,4839 8759,4838 9053,4829 9095,4827 9176,4825 9212,4824 9570,4807"/>
                 <TextEquiv>
                     <Unicode>miſchte Kommiſſion, beſtehend aus Delegirten der Munizipali⸗</Unicode>
                 </TextEquiv>
@@ -2296,7 +2296,7 @@ Einquartierung zu verabreden.</Unicode>
             </TextLine>
             <TextLine id="r45l6" custom="readingOrder {index:5;}">
                 <Coords points="8947,5454 8958,5447 9024,5445 9092,5445 9226,5455 9226,5506 9216,5508 9004,5504 8943,5499"/>
-                <Baseline points="8951,5500 9226,5492"/>
+                <Baseline points="8951,5499 9226,5492"/>
                 <TextEquiv>
                     <Unicode>Blume,</Unicode>
                 </TextEquiv>

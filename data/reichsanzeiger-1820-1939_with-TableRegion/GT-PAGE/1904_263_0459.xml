@@ -1,24 +1,24 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
     <Metadata>
         <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.7.0:model_id=40804:lm=none:date=27_05_2022_18:45
 prov=READ-COOP:name=PyLaia@Transkribus:version=0.7.0:model_id=40804:date=27_05_2022_18:45
 Transkribus</Creator>
         <Created>2021-12-14T12:03:24.7+01:00</Created>
-        <LastChange>2023-06-14T13:34:11.288+02:00</LastChange>
+        <LastChange>2023-11-15T20:44:12.149+01:00</LastChange>
         <Comments>
                 Measurement unit: pixel
                 PrimaryLanguage: 
                 Producer: Transkribus
             </Comments>
-        <TranskribusMetadata docId="984381" pageId="38084361" pageNr="2" tsid="126973430" status="GT" userId="109938" imgUrl="https://files.transkribus.eu/Get?id=TPDIBCDIBOIERURFSTZWYWFH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LIWFEVOMDZBLOOYYIVJXWPLX" imageId="30689781"/>
+        <TranskribusMetadata docId="984381" pageId="38084361" pageNr="2" tsid="139840385" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=TPDIBCDIBOIERURFSTZWYWFH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EDEHSYYMLAAFYGMCIDQCRDLV" imageId="30689781"/>
     </Metadata>
     <Page imageFilename="1904_263_0459.jpg" imageWidth="3765" imageHeight="5174">
         <PrintSpace>
             <Coords points="125,28 3548,44 3479,4919 75,4916"/>
         </PrintSpace>
         <ReadingOrder>
-            <OrderedGroup id="ro_1690359995242" caption="Regions reading order">
+            <OrderedGroup id="ro_1700129726731" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
                 <RegionRefIndexed index="1" regionRef="r2"/>
                 <RegionRefIndexed index="3" regionRef="r3"/>
@@ -52,14 +52,14 @@ Transkribus</Creator>
             </TextLine>
             <TextLine id="r1l2" custom="readingOrder {index:1;}">
                 <Coords points="171,85 955,96 1092,98 1204,98 1246,108 1246,130 1027,137 700,132 532,130 258,126 171,116"/>
-                <Baseline points="174,116 224,118 258,119 323,120 343,121 377,122 395,122 574,126 780,128 1025,130 1084,131 1247,130"/>
+                <Baseline points="174,116 224,118 258,119 323,120 343,121 377,122 395,122 574,126 780,128 1025,130 1084,131 1246,130"/>
                 <TextEquiv>
                     <Unicode>427 (441) — Steinkohlen 1978 (2071) — Koks 644 (618) — Kau⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l3" custom="readingOrder {index:2;}">
                 <Coords points="173,150 175,121 1243,135 1244,169 1167,172 743,166 197,157 187,155"/>
-                <Baseline points="171,149 291,154 472,158 501,159 552,160 581,160 698,162 726,162 790,163 818,163 871,164 900,164 925,164 955,165 1033,164 1053,164 1122,164 1149,164 1178,164 1191,164 1243,164"/>
+                <Baseline points="173,149 291,154 472,158 501,159 552,160 581,160 698,162 726,162 790,163 818,163 871,164 900,164 925,164 955,165 1033,164 1053,164 1122,164 1149,164 1178,164 1191,164 1243,164"/>
                 <TextEquiv>
                     <Unicode>tſchuk, Guttapercha und Gummi aller Art u. dergl. 4106 (2496)</Unicode>
                 </TextEquiv>
@@ -87,7 +87,7 @@ Transkribus</Creator>
             </TextLine>
             <TextLine id="r1l7" custom="readingOrder {index:6;}">
                 <Coords points="168,262 577,273 1086,275 1241,274 1241,306 1157,313 880,313 668,312 544,310 171,300"/>
-                <Baseline points="169,294 577,304 596,304 648,304 668,305 771,305 790,305 860,306 880,306 975,306 997,306 1032,306 1056,306 1187,307 1206,306 1241,305"/>
+                <Baseline points="170,293 577,304 596,304 648,304 668,305 771,305 790,305 860,306 880,306 975,306 997,306 1032,306 1056,306 1187,307 1206,306 1241,305"/>
                 <TextEquiv>
                     <Unicode>3547 (4761) — Farbſtoffe und Farben 3386 (3173) — Roheiſen 54</Unicode>
                 </TextEquiv>
@@ -108,14 +108,14 @@ Transkribus</Creator>
             </TextLine>
             <TextLine id="r1l10" custom="readingOrder {index:9;}">
                 <Coords points="168,370 559,382 1064,381 1206,384 1237,392 1237,414 1178,420 867,421 168,407"/>
-                <Baseline points="169,404 391,412 918,415 929,415 980,415 990,415 1237,414"/>
+                <Baseline points="169,404 391,411 918,415 929,415 980,415 990,415 1237,414"/>
                 <TextEquiv>
                     <Unicode>988 (705) — Papiermaſſe 167 (145) — Tiſchler⸗ und Drechſlerarbeiten</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l11" custom="readingOrder {index:10;}">
                 <Coords points="170,411 186,411 1238,417 1238,448 1052,454 880,455 243,447 170,438"/>
-                <Baseline points="171,439 519,447 870,450 1236,448"/>
+                <Baseline points="171,438 519,447 870,450 1236,448"/>
                 <TextEquiv>
                     <Unicode>507 (548) — Töpfer⸗ und Tonwaren 261 (248) — Fayence und</Unicode>
                 </TextEquiv>
@@ -129,7 +129,7 @@ Transkribus</Creator>
             </TextLine>
             <TextLine id="r1l13" custom="readingOrder {index:12;}">
                 <Coords points="167,486 272,484 1140,490 1234,493 1235,519 1203,526 1010,527 961,527 797,526 537,524 168,512"/>
-                <Baseline points="170,510 454,519 854,522 1067,520 1235,518"/>
+                <Baseline points="170,510 454,519 854,522 1067,520 1234,518"/>
                 <TextEquiv>
                     <Unicode>waren 244 (261) — Fabrikate aus Kupfer und deſſen Legierungen</Unicode>
                 </TextEquiv>
@@ -143,7 +143,7 @@ Transkribus</Creator>
             </TextLine>
             <TextLine id="r1l15" custom="readingOrder {index:14;}">
                 <Coords points="167,552 205,552 707,560 1206,560 1236,568 1236,589 1220,591 1148,596 920,599 908,599 544,598 459,597 242,590 167,583"/>
-                <Baseline points="169,584 370,591 440,591 575,592 890,593 985,592 1237,590"/>
+                <Baseline points="169,583 370,591 440,591 575,592 890,593 985,592 1236,589"/>
                 <TextEquiv>
                     <Unicode>Stahlwaren 1688 (1449) — Blechwaren 1000 (995) — Draht aller</Unicode>
                 </TextEquiv>
@@ -164,7 +164,7 @@ Transkribus</Creator>
             </TextLine>
             <TextLine id="r1l18" custom="readingOrder {index:17;}">
                 <Coords points="167,660 181,660 849,668 1231,663 1232,704 1148,703 519,704 256,701 167,690"/>
-                <Baseline points="169,691 453,700 652,700 803,700 1025,699 1119,698 1232,698"/>
+                <Baseline points="169,690 453,700 652,700 803,700 1025,699 1119,698 1231,698"/>
                 <TextEquiv>
                     <Unicode>1023 (1350) — Equipagen 753 (882) — Schreibpapier 1724 (1636)</Unicode>
                 </TextEquiv>
@@ -178,7 +178,7 @@ Transkribus</Creator>
             </TextLine>
             <TextLine id="r1l20" custom="readingOrder {index:19;}">
                 <Coords points="237,736 262,736 1235,736 1235,772 919,778 665,777 312,774 237,767"/>
-                <Baseline points="241,768 638,772 1235,769"/>
+                <Baseline points="241,767 638,772 1235,769"/>
                 <TextEquiv>
                     <Unicode>Ausfuhr: Weizen 5312 (3863) — Roggen 4715 (9894) —</Unicode>
                 </TextEquiv>
@@ -192,14 +192,14 @@ Transkribus</Creator>
             </TextLine>
             <TextLine id="r1l22" custom="readingOrder {index:21;}">
                 <Coords points="165,802 198,802 567,811 1233,808 1234,844 753,849 481,849 235,844 166,834"/>
-                <Baseline points="168,833 265,838 408,842 616,843 753,843 783,843 1021,840 1237,841"/>
+                <Baseline points="168,833 265,838 408,842 616,843 753,843 783,843 1021,840 1233,841"/>
                 <TextEquiv>
                     <Unicode>Erbſen 285 (563) — Faſeolen, Bohnen, Linſen u. dgl. 109 (220) — Kleie</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l23" custom="readingOrder {index:22;}">
                 <Coords points="164,844 200,840 215,843 977,847 1234,844 1234,878 952,883 785,884 361,883 247,877 200,873 164,869"/>
-                <Baseline points="166,868 215,873 234,874 327,877 451,879 681,879 857,877 993,877 1237,876"/>
+                <Baseline points="166,868 215,873 234,874 327,877 451,879 681,879 857,877 993,877 1234,876"/>
                 <TextEquiv>
                     <Unicode>und andere Abfälle der Müllerei 6491 (6997) — Eier 8980 (8878) —</Unicode>
                 </TextEquiv>
@@ -220,7 +220,7 @@ Transkribus</Creator>
             </TextLine>
             <TextLine id="r1l26" custom="readingOrder {index:25;}">
                 <Coords points="166,944 323,953 492,951 865,953 957,953 1234,953 1235,990 922,988 534,989 302,989 163,976"/>
-                <Baseline points="168,977 303,985 558,986 675,986 770,986 865,985 977,985 1231,984"/>
+                <Baseline points="168,976 303,985 558,986 675,986 770,986 865,985 977,985 1231,984"/>
                 <TextEquiv>
                     <Unicode>193 (233) — Leinkuchen 1213 (1038) — Flachs 5099 (9066) —</Unicode>
                 </TextEquiv>
@@ -234,21 +234,21 @@ Transkribus</Creator>
             </TextLine>
             <TextLine id="r1l28" custom="readingOrder {index:27;}">
                 <Coords points="164,1021 563,1026 706,1027 895,1024 919,1024 1232,1027 1231,1058 733,1064 706,1064 313,1061 165,1052"/>
-                <Baseline points="162,1049 330,1057 598,1058 793,1056 947,1056 1231,1056"/>
+                <Baseline points="164,1048 330,1057 598,1058 793,1056 947,1056 1231,1056"/>
                 <TextEquiv>
                     <Unicode>— Rauchwaren 5043 (3262) — Häute aller Art 4254 (2474) —</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l29" custom="readingOrder {index:28;}">
                 <Coords points="164,1051 359,1061 1228,1060 1228,1098 604,1098 288,1096 164,1085"/>
-                <Baseline points="162,1084 285,1091 306,1092 484,1093 501,1093 572,1093 604,1093 686,1092 704,1092 739,1092 759,1092 846,1092 886,1092 1062,1092 1082,1092 1131,1092 1152,1092 1228,1092"/>
+                <Baseline points="164,1084 285,1091 306,1092 484,1093 501,1093 572,1093 604,1093 686,1092 704,1092 739,1092 759,1092 846,1092 886,1092 1062,1092 1082,1092 1131,1092 1152,1092 1228,1092"/>
                 <TextEquiv>
                     <Unicode>Borſten, unbearbeitet 2396 (1827) — Wolle, unbearbeitet 571 (289)</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l30" custom="readingOrder {index:29;}">
                 <Coords points="163,1092 637,1095 903,1095 1212,1095 1227,1108 1227,1129 1167,1136 890,1133 556,1133 302,1134 161,1125"/>
-                <Baseline points="159,1123 395,1130 414,1130 467,1129 486,1129 550,1129 583,1129 617,1129 636,1129 750,1128 768,1128 821,1128 839,1128 899,1128 919,1128 954,1128 972,1128 1227,1129"/>
+                <Baseline points="161,1123 395,1130 414,1130 467,1129 486,1129 550,1129 583,1129 617,1129 636,1129 750,1128 768,1128 821,1128 839,1128 899,1128 919,1128 954,1128 972,1128 1227,1129"/>
                 <TextEquiv>
                     <Unicode>— Manganerze 402 (208) — Platina 462 (98) — Naphthaleuchtöle</Unicode>
                 </TextEquiv>
@@ -276,14 +276,14 @@ Transkribus</Creator>
             </TextLine>
             <TextLine id="r1l34" custom="readingOrder {index:33;}">
                 <Coords points="156,1239 213,1236 509,1241 997,1241 1226,1242 1226,1273 997,1279 418,1279 223,1273 156,1260"/>
-                <Baseline points="157,1262 308,1272 329,1272 398,1273 418,1273 513,1273 550,1273 584,1274 613,1274 714,1272 745,1272 794,1272 819,1272 997,1272 1029,1273 1080,1274 1100,1274 1226,1272"/>
+                <Baseline points="157,1260 308,1272 329,1272 398,1273 418,1273 513,1273 550,1273 584,1274 613,1274 714,1272 745,1272 794,1272 819,1272 997,1272 1029,1273 1080,1274 1100,1274 1226,1272"/>
                 <TextEquiv>
                     <Unicode>— Pferde 1188 (2860) — Waren aus Guttapercha und Gummi⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l35" custom="readingOrder {index:34;}">
                 <Coords points="159,1276 172,1269 274,1273 450,1280 450,1316 363,1316 201,1308 159,1296"/>
-                <Baseline points="159,1297 289,1307 450,1310"/>
+                <Baseline points="159,1296 289,1307 450,1310"/>
                 <TextEquiv>
                     <Unicode>elaſtikum 85 (129).</Unicode>
                 </TextEquiv>
@@ -352,21 +352,21 @@ elaſtikum 85 (129).
             </TextLine>
             <TextLine id="r2l3" custom="readingOrder {index:2;}">
                 <Coords points="227,1471 265,1471 405,1476 737,1475 1192,1478 1224,1486 1224,1508 1109,1514 718,1514 304,1510 227,1505"/>
-                <Baseline points="227,1504 519,1508 697,1509 949,1509 1054,1509 1226,1508"/>
+                <Baseline points="227,1504 519,1508 697,1509 949,1509 1054,1509 1224,1508"/>
                 <TextEquiv>
                     <Unicode>Der Direktor der Münze zu Waſhington hat vor kurzem eine</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l4" custom="readingOrder {index:3;}">
                 <Coords points="155,1497 263,1509 1223,1514 1222,1546 884,1551 320,1548 156,1535"/>
-                <Baseline points="156,1535 326,1544 357,1545 401,1545 430,1545 516,1544 547,1544 599,1544 631,1544 886,1545 918,1545 944,1545 976,1545 1022,1545 1053,1545 1223,1544"/>
+                <Baseline points="156,1535 326,1544 357,1545 401,1545 430,1545 516,1544 547,1544 599,1544 631,1544 886,1545 918,1545 944,1545 976,1545 1022,1545 1053,1545 1222,1543"/>
                 <TextEquiv>
                     <Unicode>Berechnung der Gold⸗ und Silbergewinnung in den Vereinigten</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l5" custom="readingOrder {index:4;}">
                 <Coords points="156,1536 188,1539 503,1548 1178,1551 1222,1554 1222,1580 1175,1587 857,1586 369,1581 261,1578 157,1569"/>
-                <Baseline points="155,1567 276,1578 296,1579 488,1580 508,1580 607,1580 766,1581 918,1581 946,1581 989,1581 1007,1581 1222,1580"/>
+                <Baseline points="156,1566 276,1578 296,1578 488,1580 508,1580 607,1580 766,1581 918,1581 946,1581 989,1581 1007,1581 1222,1580"/>
                 <TextEquiv>
                     <Unicode>Staaten von Amerika und in der Welt während des Kalenderjahres</Unicode>
                 </TextEquiv>
@@ -443,7 +443,7 @@ elaſtikum 85 (129).
             </TextLine>
             <TextLine id="r2l16" custom="readingOrder {index:15;}">
                 <Coords points="151,1928 186,1931 385,1944 1158,1940 1219,1945 1219,1974 1155,1979 1076,1980 793,1978 503,1983 265,1976 149,1962"/>
-                <Baseline points="150,1963 293,1973 321,1974 373,1976 503,1976 702,1975 781,1975 990,1974 1217,1974"/>
+                <Baseline points="150,1962 293,1973 321,1974 373,1976 503,1976 702,1975 781,1975 990,1974 1217,1974"/>
                 <TextEquiv>
                     <Unicode>Feinunzen mit einem Handelswerte von 29 322 000 Doll., während</Unicode>
                 </TextEquiv>
@@ -520,14 +520,14 @@ elaſtikum 85 (129).
             </TextLine>
             <TextLine id="r2l27" custom="readingOrder {index:26;}">
                 <Coords points="220,2329 465,2333 1217,2332 1215,2370 368,2373 217,2368"/>
-                <Baseline points="216,2362 344,2369 447,2368 594,2368 1216,2369"/>
+                <Baseline points="217,2362 344,2369 447,2368 594,2368 1215,2368"/>
                 <TextEquiv>
                     <Unicode>Für die hauptſächlich in Betracht kommenden Länder wies die</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l28" custom="readingOrder {index:27;}">
                 <Coords points="153,2349 280,2370 568,2371 1215,2371 1213,2410 627,2406 271,2403 150,2389"/>
-                <Baseline points="153,2384 242,2399 344,2406 492,2405 677,2402 1213,2405"/>
+                <Baseline points="153,2384 242,2399 344,2403 492,2404 677,2402 1213,2405"/>
                 <TextEquiv>
                     <Unicode>Produktion der genannten beiden Edelmetalle die folgenden Werte auf:</Unicode>
                 </TextEquiv>
@@ -575,7 +575,7 @@ Produktion der genannten beiden Edelmetalle die folgenden Werte auf:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -596,7 +596,7 @@ Produktion der genannten beiden Edelmetalle die folgenden Werte auf:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -617,7 +617,7 @@ Produktion der genannten beiden Edelmetalle die folgenden Werte auf:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -625,13 +625,13 @@ Produktion der genannten beiden Edelmetalle die folgenden Werte auf:</Unicode>
                 <Coords points="142,2460 141,2510 700,2512 904,2513 1158,2515 1158,2482 907,2482 700,2478"/>
                 <TextLine id="TableCell_1648500915643_633l0" custom="readingOrder {index:0;}">
                     <Coords points="181,2461 183,2460 303,2474 397,2477 432,2489 432,2511 425,2511 247,2507 181,2496"/>
-                    <Baseline points="181,2487 228,2502 312,2509 432,2509"/>
+                    <Baseline points="181,2487 228,2502 312,2508 432,2509"/>
                     <TextEquiv>
                         <Unicode>Nordamerika:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 4 5</CornerPts>
             </TableCell>
@@ -645,7 +645,7 @@ Produktion der genannten beiden Edelmetalle die folgenden Werte auf:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -653,13 +653,13 @@ Produktion der genannten beiden Edelmetalle die folgenden Werte auf:</Unicode>
                 <Coords points="700,2512 699,2551 904,2549 904,2513"/>
                 <TextLine id="TableCell_1648500883026_472l0" custom="readingOrder {index:0;}">
                     <Coords points="713,2515 854,2515 874,2518 874,2546 810,2547 732,2547 713,2546"/>
-                    <Baseline points="714,2547 874,2546"/>
+                    <Baseline points="714,2546 874,2546"/>
                     <TextEquiv>
                         <Unicode>73 591 700</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -673,7 +673,7 @@ Produktion der genannten beiden Edelmetalle die folgenden Werte auf:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -687,7 +687,7 @@ Produktion der genannten beiden Edelmetalle die folgenden Werte auf:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -695,13 +695,13 @@ Produktion der genannten beiden Edelmetalle die folgenden Werte auf:</Unicode>
                 <Coords points="699,2551 701,2587 904,2585 904,2549"/>
                 <TextLine id="TableCell_1648500883041_478l0" custom="readingOrder {index:0;}">
                     <Coords points="714,2552 810,2552 874,2555 874,2583 856,2584 776,2584 714,2583"/>
-                    <Baseline points="714,2583 748,2583 758,2583 810,2583 821,2583 876,2582"/>
+                    <Baseline points="714,2583 748,2583 758,2583 810,2583 821,2583 874,2582"/>
                     <TextEquiv>
                         <Unicode>10 677 500</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -715,7 +715,7 @@ Produktion der genannten beiden Edelmetalle die folgenden Werte auf:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -723,13 +723,13 @@ Produktion der genannten beiden Edelmetalle die folgenden Werte auf:</Unicode>
                 <Coords points="143,2584 141,2604 277,2609 291,2618 701,2622 701,2587"/>
                 <TextLine id="TableCell_1648500883073_486l0" custom="readingOrder {index:0;}">
                     <Coords points="280,2585 323,2585 375,2587 396,2596 396,2617 280,2617"/>
-                    <Baseline points="280,2615 398,2617"/>
+                    <Baseline points="280,2615 396,2617"/>
                     <TextEquiv>
                         <Unicode>Canada</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 4 5</CornerPts>
             </TableCell>
@@ -737,13 +737,13 @@ Produktion der genannten beiden Edelmetalle die folgenden Werte auf:</Unicode>
                 <Coords points="701,2587 701,2622 904,2618 904,2585"/>
                 <TextLine id="TableCell_1648500883073_484l0" custom="readingOrder {index:0;}">
                     <Coords points="714,2587 774,2587 876,2591 876,2618 813,2619 715,2619"/>
-                    <Baseline points="715,2619 748,2619 758,2619 812,2619 821,2619 874,2619"/>
+                    <Baseline points="715,2619 748,2619 758,2619 812,2619 820,2618 873,2618"/>
                     <TextEquiv>
                         <Unicode>18 834 500</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -757,7 +757,7 @@ Produktion der genannten beiden Edelmetalle die folgenden Werte auf:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -765,13 +765,13 @@ Produktion der genannten beiden Edelmetalle die folgenden Werte auf:</Unicode>
                 <Coords points="141,2604 142,2642 701,2656 701,2622 291,2618 277,2609"/>
                 <TextLine id="line_1653244012738_1249" custom="readingOrder {index:0;}">
                     <Coords points="174,2602 293,2621 288,2651 169,2640"/>
-                    <Baseline points="173,2637 291,2648"/>
+                    <Baseline points="173,2637 288,2647"/>
                     <TextEquiv>
                         <Unicode>Afrika</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -785,7 +785,7 @@ Produktion der genannten beiden Edelmetalle die folgenden Werte auf:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -799,7 +799,7 @@ Produktion der genannten beiden Edelmetalle die folgenden Werte auf:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -807,13 +807,13 @@ Produktion der genannten beiden Edelmetalle die folgenden Werte auf:</Unicode>
                 <Coords points="142,2642 141,2676 217,2678 228,2686 698,2687 701,2656"/>
                 <TextLine id="TableCell_1648500883135_498l0" custom="readingOrder {index:0;}">
                     <Coords points="171,2643 181,2643 364,2653 366,2686 231,2685 172,2674"/>
-                    <Baseline points="172,2673 259,2681 324,2682 367,2679"/>
+                    <Baseline points="172,2673 259,2681 324,2682 365,2679"/>
                     <TextEquiv>
                         <Unicode>Auſtralien</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 4 5</CornerPts>
             </TableCell>
@@ -827,7 +827,7 @@ Produktion der genannten beiden Edelmetalle die folgenden Werte auf:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -841,7 +841,7 @@ Produktion der genannten beiden Edelmetalle die folgenden Werte auf:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -855,7 +855,7 @@ Produktion der genannten beiden Edelmetalle die folgenden Werte auf:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 4 5</CornerPts>
             </TableCell>
@@ -869,7 +869,7 @@ Produktion der genannten beiden Edelmetalle die folgenden Werte auf:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -883,7 +883,7 @@ Produktion der genannten beiden Edelmetalle die folgenden Werte auf:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -897,7 +897,7 @@ Produktion der genannten beiden Edelmetalle die folgenden Werte auf:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -905,13 +905,13 @@ Produktion der genannten beiden Edelmetalle die folgenden Werte auf:</Unicode>
                 <Coords points="141,2748 146,2782 700,2782 699,2747"/>
                 <TextLine id="TableCell_1648500883204_516l0" custom="readingOrder {index:0;}">
                     <Coords points="275,2747 472,2747 553,2755 551,2778 500,2782 275,2782"/>
-                    <Baseline points="275,2781 553,2773"/>
+                    <Baseline points="275,2781 551,2772"/>
                     <TextEquiv>
                         <Unicode>Oeſterreich⸗Ungarn</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -925,7 +925,7 @@ Produktion der genannten beiden Edelmetalle die folgenden Werte auf:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -939,7 +939,7 @@ Produktion der genannten beiden Edelmetalle die folgenden Werte auf:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -947,13 +947,13 @@ Produktion der genannten beiden Edelmetalle die folgenden Werte auf:</Unicode>
                 <Coords points="146,2782 143,2815 700,2818 700,2782"/>
                 <TextLine id="TableCell_1648500883235_522l0" custom="readingOrder {index:0;}">
                     <Coords points="275,2785 374,2782 382,2782 498,2783 498,2813 275,2815"/>
-                    <Baseline points="276,2812 499,2811"/>
+                    <Baseline points="276,2812 498,2811"/>
                     <TextEquiv>
                         <Unicode>Deutſchland</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -967,7 +967,7 @@ Produktion der genannten beiden Edelmetalle die folgenden Werte auf:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -975,13 +975,13 @@ Produktion der genannten beiden Edelmetalle die folgenden Werte auf:</Unicode>
                 <Coords points="904,2784 904,2822 1158,2827 1158,2788"/>
                 <TextLine id="TableCell_1648500876876_352l0" custom="readingOrder {index:0;}">
                     <Coords points="957,2791 983,2785 1014,2785 1127,2791 1127,2824 1110,2826 957,2823"/>
-                    <Baseline points="956,2818 1125,2820"/>
+                    <Baseline points="957,2818 1125,2820"/>
                     <TextEquiv>
                         <Unicode>3 144 100*)</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -995,7 +995,7 @@ Produktion der genannten beiden Edelmetalle die folgenden Werte auf:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1009,7 +1009,7 @@ Produktion der genannten beiden Edelmetalle die folgenden Werte auf:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1023,7 +1023,7 @@ Produktion der genannten beiden Edelmetalle die folgenden Werte auf:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1031,13 +1031,13 @@ Produktion der genannten beiden Edelmetalle die folgenden Werte auf:</Unicode>
                 <Coords points="144,2848 145,2883 700,2885 700,2853"/>
                 <TextLine id="TableCell_1648500883266_534l0" custom="readingOrder {index:0;}">
                     <Coords points="273,2851 288,2850 366,2850 427,2851 422,2886 273,2883"/>
-                    <Baseline points="275,2877 424,2879"/>
+                    <Baseline points="275,2877 423,2878"/>
                     <TextEquiv>
                         <Unicode>Frankreich</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1051,7 +1051,7 @@ Produktion der genannten beiden Edelmetalle die folgenden Werte auf:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1065,7 +1065,7 @@ Produktion der genannten beiden Edelmetalle die folgenden Werte auf:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1079,7 +1079,7 @@ Produktion der genannten beiden Edelmetalle die folgenden Werte auf:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1093,7 +1093,7 @@ Produktion der genannten beiden Edelmetalle die folgenden Werte auf:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1107,7 +1107,7 @@ Produktion der genannten beiden Edelmetalle die folgenden Werte auf:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1115,13 +1115,13 @@ Produktion der genannten beiden Edelmetalle die folgenden Werte auf:</Unicode>
                 <Coords points="144,2914 145,2950 700,2947 904,2945 1160,2950 1158,2921 904,2920 703,2923"/>
                 <TextLine id="TableCell_1648500997289_646l0" custom="readingOrder {index:0;}">
                     <Coords points="165,2918 359,2918 377,2919 415,2928 415,2950 262,2950 205,2949 165,2948"/>
-                    <Baseline points="166,2949 328,2945 415,2949"/>
+                    <Baseline points="166,2948 328,2945 415,2949"/>
                     <TextEquiv>
                         <Unicode>Südamerika:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 4 5</CornerPts>
             </TableCell>
@@ -1129,13 +1129,13 @@ Produktion der genannten beiden Edelmetalle die folgenden Werte auf:</Unicode>
                 <Coords points="145,2950 145,2982 700,2984 700,2947"/>
                 <TextLine id="TableCell_1648500883335_552l0" custom="readingOrder {index:0;}">
                     <Coords points="272,2950 285,2949 330,2949 343,2949 385,2951 404,2961 407,2985 280,2982 272,2981"/>
-                    <Baseline points="272,2978 407,2982"/>
+                    <Baseline points="272,2978 406,2982"/>
                     <TextEquiv>
                         <Unicode>Bolivien</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1149,7 +1149,7 @@ Produktion der genannten beiden Edelmetalle die folgenden Werte auf:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1163,7 +1163,7 @@ Produktion der genannten beiden Edelmetalle die folgenden Werte auf:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1171,13 +1171,13 @@ Produktion der genannten beiden Edelmetalle die folgenden Werte auf:</Unicode>
                 <Coords points="145,2982 146,3015 700,3023 700,2984"/>
                 <TextLine id="TableCell_1648500883367_558l0" custom="readingOrder {index:0;}">
                     <Coords points="274,2984 341,2984 361,2991 356,3014 327,3017 274,3016"/>
-                    <Baseline points="276,3014 357,3014"/>
+                    <Baseline points="276,3014 356,3013"/>
                     <TextEquiv>
                         <Unicode>Chile</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1191,7 +1191,7 @@ Produktion der genannten beiden Edelmetalle die folgenden Werte auf:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1205,7 +1205,7 @@ Produktion der genannten beiden Edelmetalle die folgenden Werte auf:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1219,7 +1219,7 @@ Produktion der genannten beiden Edelmetalle die folgenden Werte auf:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1233,7 +1233,7 @@ Produktion der genannten beiden Edelmetalle die folgenden Werte auf:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1247,7 +1247,7 @@ Produktion der genannten beiden Edelmetalle die folgenden Werte auf:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1255,13 +1255,13 @@ Produktion der genannten beiden Edelmetalle die folgenden Werte auf:</Unicode>
                 <Coords points="150,3050 148,3080 700,3094 703,3060"/>
                 <TextLine id="TableCell_1648500883404_570l0" custom="readingOrder {index:0;}">
                     <Coords points="272,3083 274,3054 371,3054 416,3057 414,3088"/>
-                    <Baseline points="276,3084 411,3085"/>
+                    <Baseline points="276,3083 411,3085"/>
                     <TextEquiv>
                         <Unicode>Braſilien</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1269,13 +1269,13 @@ Produktion der genannten beiden Edelmetalle die folgenden Werte auf:</Unicode>
                 <Coords points="703,3060 700,3094 904,3097 904,3059"/>
                 <TextLine id="TableCell_1648500883404_568l0" custom="readingOrder {index:0;}">
                     <Coords points="718,3064 763,3062 800,3064 861,3064 861,3096 836,3096 719,3094"/>
-                    <Baseline points="717,3095 861,3094"/>
+                    <Baseline points="719,3094 861,3094"/>
                     <TextEquiv>
                         <Unicode>2 274 200</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1283,13 +1283,13 @@ Produktion der genannten beiden Edelmetalle die folgenden Werte auf:</Unicode>
                 <Coords points="904,3059 904,3097 1158,3097 1160,3059"/>
                 <TextLine id="line_1653244591654_1372" custom="readingOrder {index:0;}">
                     <Coords points="1000,3062 1037,3062 1039,3090 1002,3090"/>
-                    <Baseline points="1002,3085 1039,3085"/>
+                    <Baseline points="1002,3085 1038,3085"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1297,13 +1297,13 @@ Produktion der genannten beiden Edelmetalle die folgenden Werte auf:</Unicode>
                 <Coords points="148,3080 150,3109 470,3127 476,3135 700,3135 700,3094"/>
                 <TextLine id="TableCell_1648500883420_576l0" custom="readingOrder {index:0;}">
                     <Coords points="269,3084 440,3090 541,3109 535,3136 470,3133 269,3114"/>
-                    <Baseline points="273,3115 390,3118 419,3123 538,3135"/>
+                    <Baseline points="273,3114 390,3118 419,3123 535,3134"/>
                     <TextEquiv>
                         <Unicode>Britiſch⸗Guayana</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 4 5</CornerPts>
             </TableCell>
@@ -1317,7 +1317,7 @@ Produktion der genannten beiden Edelmetalle die folgenden Werte auf:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1332,13 +1332,13 @@ Produktion der genannten beiden Edelmetalle die folgenden Werte auf:</Unicode>
                 </TextLine>
                 <TextLine id="line_1653244706464_1404" custom="readingOrder {index:1;}">
                     <Coords points="1002,3137 1038,3136 1039,3162 1003,3163"/>
-                    <Baseline points="1003,3158 1039,3157"/>
+                    <Baseline points="1003,3158 1038,3157"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1352,7 +1352,7 @@ Produktion der genannten beiden Edelmetalle die folgenden Werte auf:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 4 5</CornerPts>
             </TableCell>
@@ -1366,7 +1366,7 @@ Produktion der genannten beiden Edelmetalle die folgenden Werte auf:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1384,7 +1384,7 @@ Produktion der genannten beiden Edelmetalle die folgenden Werte auf:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1398,7 +1398,7 @@ Produktion der genannten beiden Edelmetalle die folgenden Werte auf:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1412,7 +1412,7 @@ Produktion der genannten beiden Edelmetalle die folgenden Werte auf:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1420,13 +1420,13 @@ Produktion der genannten beiden Edelmetalle die folgenden Werte auf:</Unicode>
                 <Coords points="149,3184 153,3222 701,3243 698,3206"/>
                 <TextLine id="TableCell_1648500883469_594l0" custom="readingOrder {index:0;}">
                     <Coords points="164,3187 187,3187 280,3189 463,3196 461,3230 164,3222"/>
-                    <Baseline points="164,3218 354,3222 459,3230"/>
+                    <Baseline points="164,3218 354,3222 459,3229"/>
                     <TextEquiv>
                         <Unicode>Zentralamerika</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1440,7 +1440,7 @@ Produktion der genannten beiden Edelmetalle die folgenden Werte auf:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1454,7 +1454,7 @@ Produktion der genannten beiden Edelmetalle die folgenden Werte auf:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1468,7 +1468,7 @@ Produktion der genannten beiden Edelmetalle die folgenden Werte auf:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 4 5</CornerPts>
             </TableCell>
@@ -1482,7 +1482,7 @@ Produktion der genannten beiden Edelmetalle die folgenden Werte auf:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1496,7 +1496,7 @@ Produktion der genannten beiden Edelmetalle die folgenden Werte auf:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1510,7 +1510,7 @@ Produktion der genannten beiden Edelmetalle die folgenden Werte auf:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1524,7 +1524,7 @@ Produktion der genannten beiden Edelmetalle die folgenden Werte auf:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1538,7 +1538,7 @@ Produktion der genannten beiden Edelmetalle die folgenden Werte auf:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1552,7 +1552,7 @@ Produktion der genannten beiden Edelmetalle die folgenden Werte auf:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1566,7 +1566,7 @@ Produktion der genannten beiden Edelmetalle die folgenden Werte auf:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -1580,7 +1580,7 @@ Produktion der genannten beiden Edelmetalle die folgenden Werte auf:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1594,7 +1594,7 @@ Produktion der genannten beiden Edelmetalle die folgenden Werte auf:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1608,7 +1608,7 @@ Produktion der genannten beiden Edelmetalle die folgenden Werte auf:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -1622,7 +1622,7 @@ Produktion der genannten beiden Edelmetalle die folgenden Werte auf:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -1636,7 +1636,7 @@ Produktion der genannten beiden Edelmetalle die folgenden Werte auf:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1659,21 +1659,21 @@ Produktion der genannten beiden Edelmetalle die folgenden Werte auf:</Unicode>
             </TextLine>
             <TextLine id="r3l3" custom="readingOrder {index:2;}">
                 <Coords points="120,3487 241,3487 452,3491 793,3512 793,3540 703,3544 696,3544 426,3529 120,3523"/>
-                <Baseline points="126,3518 311,3519 514,3525 641,3535 740,3540 795,3537"/>
+                <Baseline points="126,3518 311,3519 514,3525 641,3535 740,3540 793,3537"/>
                 <TextEquiv>
                     <Unicode>ſchnittswerte von 2789,21 ℳ und 72,93 ℳ</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l4" custom="readingOrder {index:3;}">
                 <Coords points="401,3535 412,3535 686,3553 1160,3550 1160,3577 1111,3580 811,3583 695,3583 401,3570"/>
-                <Baseline points="403,3565 479,3568 497,3568 625,3577 730,3584 921,3581 1160,3577"/>
+                <Baseline points="403,3565 479,3568 497,3568 625,3577 730,3583 921,3581 1160,3577"/>
                 <TextEquiv>
                     <Unicode>(The Journal of Commerce and Commercial</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l5" custom="readingOrder {index:4;}">
                 <Coords points="605,3583 856,3585 934,3585 947,3586 947,3622 784,3624 621,3623 605,3613"/>
-                <Baseline points="606,3615 749,3618 947,3616"/>
+                <Baseline points="606,3614 749,3618 947,3616"/>
                 <TextEquiv>
                     <Unicode>Bulletin, New York.)</Unicode>
                 </TextEquiv>
@@ -1690,7 +1690,7 @@ Bulletin, New York.)</Unicode>
             <Coords points="466,3696 859,3692 859,3745 702,3749 466,3742"/>
             <TextLine id="r4l1" custom="readingOrder {index:0;}">
                 <Coords points="476,3695 627,3706 760,3711 844,3711 845,3750 662,3749 476,3736"/>
-                <Baseline points="482,3733 627,3742 728,3749 845,3745"/>
+                <Baseline points="482,3733 627,3742 728,3749 844,3745"/>
                 <TextEquiv>
                     <Unicode>Auſtraliſcher Bund.</Unicode>
                 </TextEquiv>
@@ -1703,7 +1703,7 @@ Bulletin, New York.)</Unicode>
             <Coords points="117,3734 702,3749 1009,3743 1195,3738 1185,4270 97,4275"/>
             <TextLine id="r5l1" custom="readingOrder {index:0;}">
                 <Coords points="189,3742 215,3742 451,3743 1181,3751 1191,3765 1191,3777 1181,3783 1142,3788 830,3789 818,3789 730,3788 518,3785 189,3774"/>
-                <Baseline points="190,3773 393,3774 482,3774 511,3779 627,3784 730,3786 736,3786 818,3786 1004,3784 1119,3783 1195,3783"/>
+                <Baseline points="190,3773 393,3774 482,3774 511,3779 627,3784 730,3786 736,3786 818,3786 1004,3784 1119,3783 1191,3777"/>
                 <TextEquiv>
                     <Unicode>Aenderung des Zollgeſetzes. Der Handels⸗ und Zoll⸗</Unicode>
                 </TextEquiv>
@@ -1717,14 +1717,14 @@ Bulletin, New York.)</Unicode>
             </TextLine>
             <TextLine id="r5l3" custom="readingOrder {index:2;}">
                 <Coords points="121,3803 320,3814 486,3816 718,3829 1178,3822 1189,3834 1189,3845 1178,3853 1139,3858 760,3867 754,3867 491,3854 217,3852 148,3844 121,3836"/>
-                <Baseline points="121,3833 223,3850 369,3844 472,3848 642,3855 780,3860 1046,3854 1116,3853 1190,3851"/>
+                <Baseline points="121,3833 223,3850 369,3844 472,3848 642,3855 780,3860 1046,3854 1116,3853 1186,3846"/>
                 <TextEquiv>
                     <Unicode>führungsbeſtimmungen (Statutory Rules, No. 25 of 1904) zum Zoll⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r5l4" custom="readingOrder {index:3;}">
                 <Coords points="119,3838 232,3849 383,3851 596,3856 767,3865 1024,3860 1040,3869 1040,3888 989,3896 881,3900 840,3900 649,3897 181,3885 119,3874"/>
-                <Baseline points="119,3871 185,3878 207,3881 323,3883 343,3883 444,3884 489,3885 596,3888 675,3895 951,3891 1042,3889"/>
+                <Baseline points="119,3871 185,3878 207,3881 323,3883 343,3883 444,3884 489,3885 596,3888 675,3895 951,3891 1040,3888"/>
                 <TextEquiv>
                     <Unicode>geſetz erlaſſen, die am 1. Juli d. J. in Kraft getreten ſind:</Unicode>
                 </TextEquiv>
@@ -1738,7 +1738,7 @@ Bulletin, New York.)</Unicode>
             </TextLine>
             <TextLine id="r5l6" custom="readingOrder {index:5;}">
                 <Coords points="187,3921 446,3925 725,3935 955,3930 1118,3926 1189,3927 1187,3964 724,3969 408,3962 187,3958"/>
-                <Baseline points="186,3953 421,3956 488,3959 656,3966 836,3968 1189,3961"/>
+                <Baseline points="187,3953 421,3956 488,3959 656,3966 835,3967 1187,3960"/>
                 <TextEquiv>
                     <Unicode>Oleomargarine, Butterin oder ähnliche Erſatzſtoffe für Butter</Unicode>
                 </TextEquiv>
@@ -1752,7 +1752,7 @@ Bulletin, New York.)</Unicode>
             </TextLine>
             <TextLine id="r5l8" custom="readingOrder {index:7;}">
                 <Coords points="116,3985 335,3993 709,4002 1009,4001 1186,3997 1187,4035 790,4043 619,4038 387,4034 184,4026 113,4018"/>
-                <Baseline points="113,4013 255,4026 321,4030 521,4027 619,4038 810,4037 1187,4030"/>
+                <Baseline points="113,4013 255,4026 321,4030 521,4027 619,4038 810,4037 1186,4030"/>
                 <TextEquiv>
                     <Unicode>wurzel eine unterſchiedliche, blaßrote Färbung gegeben und auf jeder</Unicode>
                 </TextEquiv>
@@ -1773,7 +1773,7 @@ Bulletin, New York.)</Unicode>
             </TextLine>
             <TextLine id="r5l11" custom="readingOrder {index:10;}">
                 <Coords points="195,4101 659,4108 1184,4105 1184,4142 195,4138"/>
-                <Baseline points="195,4133 630,4143 1184,4137"/>
+                <Baseline points="195,4133 630,4139 1184,4137"/>
                 <TextEquiv>
                     <Unicode>Zu Ziffer 53 — Größe der Behälter bei der Einfuhr</Unicode>
                 </TextEquiv>
@@ -1787,7 +1787,7 @@ Bulletin, New York.)</Unicode>
             </TextLine>
             <TextLine id="r5l13" custom="readingOrder {index:12;}">
                 <Coords points="178,4167 427,4177 749,4180 1028,4175 1176,4172 1180,4208 1097,4210 847,4221 633,4218 328,4214 182,4206"/>
-                <Baseline points="182,4201 413,4210 604,4214 788,4215 1180,4206"/>
+                <Baseline points="182,4201 413,4210 604,4214 788,4215 1179,4206"/>
                 <TextEquiv>
                     <Unicode>Spirituoſen, Opium, Tabak, Zigarren, Zigaretten und Schnupf⸗</Unicode>
                 </TextEquiv>
@@ -1801,7 +1801,7 @@ Bulletin, New York.)</Unicode>
             </TextLine>
             <TextLine id="r5l15" custom="readingOrder {index:14;}">
                 <Coords points="109,4238 152,4235 168,4237 211,4242 255,4255 255,4273 168,4274 152,4274 109,4260"/>
-                <Baseline points="110,4262 255,4273"/>
+                <Baseline points="110,4260 255,4273"/>
                 <TextEquiv>
                     <Unicode>enthalten:</Unicode>
                 </TextEquiv>
@@ -1843,7 +1843,7 @@ enthalten:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1857,7 +1857,7 @@ enthalten:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1871,7 +1871,7 @@ enthalten:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 4 5</CornerPts>
             </TableCell>
@@ -1885,7 +1885,7 @@ enthalten:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1899,7 +1899,7 @@ enthalten:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1913,7 +1913,7 @@ enthalten:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1927,7 +1927,7 @@ enthalten:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1941,7 +1941,7 @@ enthalten:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1955,7 +1955,7 @@ enthalten:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1969,7 +1969,7 @@ enthalten:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1983,7 +1983,7 @@ enthalten:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1997,7 +1997,7 @@ enthalten:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2011,7 +2011,7 @@ enthalten:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2025,7 +2025,7 @@ enthalten:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2034,7 +2034,7 @@ enthalten:</Unicode>
             <Coords points="89,4565 1175,4565 1175,4848 89,4848"/>
             <TextLine id="r6l1" custom="readingOrder {index:0;}">
                 <Coords points="170,4566 205,4566 1156,4571 1170,4577 1170,4598 1156,4600 1005,4609 882,4609 259,4602 170,4596"/>
-                <Baseline points="170,4596 226,4597 245,4597 364,4598 382,4598 410,4599 429,4600 554,4601 573,4601 692,4600 718,4600 777,4600 804,4600 855,4601 882,4602 1005,4602 1035,4602 1109,4601 1128,4601 1171,4598"/>
+                <Baseline points="170,4596 226,4597 245,4597 364,4598 382,4598 410,4599 429,4600 554,4601 573,4601 692,4600 718,4600 777,4600 804,4600 855,4601 882,4602 1005,4602 1035,4602 1109,4601 1128,4601 1170,4598"/>
                 <TextEquiv>
                     <Unicode>Die Einfuhr in kleineren Mengen darf nur erfolgen, wenn der</Unicode>
                 </TextEquiv>
@@ -2055,7 +2055,7 @@ enthalten:</Unicode>
             </TextLine>
             <TextLine id="r6l4" custom="readingOrder {index:3;}">
                 <Coords points="96,4668 110,4664 440,4672 795,4675 1104,4675 1166,4682 1166,4706 1084,4708 901,4712 634,4708 247,4704 97,4702"/>
-                <Baseline points="96,4699 170,4699 209,4700 270,4700 332,4700 409,4702 467,4703 512,4703 541,4704 700,4703 731,4703 790,4703 820,4704 850,4705 876,4705 1048,4706 1071,4707 1166,4703"/>
+                <Baseline points="96,4698 170,4699 209,4700 270,4700 332,4700 409,4702 467,4703 512,4703 541,4704 700,4703 731,4703 790,4703 820,4704 850,4705 876,4705 1048,4706 1071,4707 1166,4703"/>
                 <TextEquiv>
                     <Unicode>perſönlichen Gebrauch des Einführers oder zu Heilzwecken dienen</Unicode>
                 </TextEquiv>
@@ -2152,14 +2152,14 @@ des zur Einfuhr zuzulaſſenden Tees.</Unicode>
             </TextLine>
             <TextLine id="r7l8" custom="readingOrder {index:7;}">
                 <Coords points="1362,311 1643,310 1707,310 1920,311 1974,323 1974,342 1959,343 1438,348 1361,350"/>
-                <Baseline points="1362,342 1404,342 1421,342 1504,342 1523,342 1573,342 1592,342 1625,342 1643,342 1814,342 1866,342 1973,343"/>
+                <Baseline points="1362,342 1404,342 1421,342 1504,342 1523,342 1573,342 1592,342 1625,342 1643,342 1814,342 1866,342 1972,342"/>
                 <TextEquiv>
                     <Unicode>Zu Ziffer 150 — Zollfreie Proben:</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r7l9" custom="readingOrder {index:8;}">
                 <Coords points="1362,346 1615,347 2136,349 2259,346 2345,361 2342,386 2220,386 1528,380 1362,380"/>
-                <Baseline points="1362,376 1426,376 1457,376 1788,377 1950,378 2248,381 2345,382"/>
+                <Baseline points="1362,376 1426,376 1457,376 1788,377 1950,378 2248,381 2342,381"/>
                 <TextEquiv>
                     <Unicode>Von nachſtehend genannten Waren der Schiffsladung können</Unicode>
                 </TextEquiv>
@@ -2180,7 +2180,7 @@ des zur Einfuhr zuzulaſſenden Tees.</Unicode>
             </TextLine>
             <TextLine id="r7l12" custom="readingOrder {index:11;}">
                 <Coords points="1361,451 1770,453 2079,455 2323,455 2343,459 2343,494 1768,488 1444,488 1361,485"/>
-                <Baseline points="1358,483 1413,483 1425,483 1530,483 1543,483 1599,483 1611,483 1646,484 1659,484 1793,484 1806,484 1857,485 1871,486 1992,486 2011,486 2025,486 2040,486 2216,486 2231,486 2343,487"/>
+                <Baseline points="1361,483 1413,483 1425,483 1530,483 1543,483 1599,483 1611,483 1646,484 1659,484 1793,484 1806,484 1857,485 1871,486 1992,486 2011,486 2025,486 2040,486 2216,486 2231,486 2343,487"/>
                 <TextEquiv>
                     <Unicode>Bei Fäſſern von 20 Gallonen und darunter 1 Viertelpinte (gill), ²)</Unicode>
                 </TextEquiv>
@@ -2264,7 +2264,7 @@ des zur Einfuhr zuzulaſſenden Tees.</Unicode>
             </TextLine>
             <TextLine id="r7l24" custom="readingOrder {index:23;}">
                 <Coords points="1354,882 1372,877 1388,877 1654,881 1692,883 1692,911 1654,913 1473,916 1354,913"/>
-                <Baseline points="1354,914 1692,912"/>
+                <Baseline points="1354,913 1691,911"/>
                 <TextEquiv>
                     <Unicode>Tabak, bearbeitet:</Unicode>
                 </TextEquiv>
@@ -2313,7 +2313,7 @@ des zur Einfuhr zuzulaſſenden Tees.</Unicode>
             </TextLine>
             <TextLine id="r7l31" custom="readingOrder {index:30;}">
                 <Coords points="1278,1134 1795,1129 1993,1131 2322,1133 2336,1143 2336,1163 2322,1168 1279,1165"/>
-                <Baseline points="1277,1163 1373,1162 1510,1162 1589,1162 1761,1162 1992,1162 2336,1163"/>
+                <Baseline points="1278,1162 1373,1162 1510,1162 1589,1162 1761,1162 1992,1162 2336,1163"/>
                 <TextEquiv>
                     <Unicode>und je 4 Unzen für weitere 100 Pfund, jedoch im ganzen nicht mehr</Unicode>
                 </TextEquiv>
@@ -2327,7 +2327,7 @@ des zur Einfuhr zuzulaſſenden Tees.</Unicode>
             </TextLine>
             <TextLine id="r7l33" custom="readingOrder {index:32;}">
                 <Coords points="1350,1205 1607,1203 1684,1203 1763,1204 1823,1212 1823,1232 1684,1240 1409,1241 1369,1241 1350,1240"/>
-                <Baseline points="1350,1235 1819,1233"/>
+                <Baseline points="1350,1235 1818,1232"/>
                 <TextEquiv>
                     <Unicode>Zigarren und Zigaretten:</Unicode>
                 </TextEquiv>
@@ -2348,7 +2348,7 @@ des zur Einfuhr zuzulaſſenden Tees.</Unicode>
             </TextLine>
             <TextLine id="r7l36" custom="readingOrder {index:35;}">
                 <Coords points="1277,1310 1442,1310 1443,1349 1278,1349"/>
-                <Baseline points="1278,1344 1443,1344"/>
+                <Baseline points="1278,1344 1442,1344"/>
                 <TextEquiv>
                     <Unicode>Warenpoſt.</Unicode>
                 </TextEquiv>
@@ -2432,7 +2432,7 @@ Warenpoſt.
             </TextLine>
             <TextLine id="r8l5" custom="readingOrder {index:4;}">
                 <Coords points="1277,1629 1511,1626 2315,1624 2333,1634 2333,1659 1788,1659 1592,1661 1276,1662"/>
-                <Baseline points="1275,1659 1684,1656 2016,1654 2194,1655 2333,1654"/>
+                <Baseline points="1276,1659 1684,1656 2016,1654 2194,1655 2333,1654"/>
                 <TextEquiv>
                     <Unicode>vember 1904. Verifikation der Forderungen am: 30. Oktober/12. No⸗</Unicode>
                 </TextEquiv>
@@ -2457,7 +2457,7 @@ vember 1904.</Unicode>
             <Coords points="1268,1752 2343,1737 2344,1969 1269,1981"/>
             <TextLine id="r9l1" custom="readingOrder {index:0;}">
                 <Coords points="1584,1752 1630,1749 1964,1749 2025,1758 2025,1778 1974,1784 1584,1788"/>
-                <Baseline points="1583,1782 2025,1777"/>
+                <Baseline points="1584,1782 2025,1777"/>
                 <TextEquiv>
                     <Unicode>Zwangsverſteigerungen.</Unicode>
                 </TextEquiv>
@@ -2478,7 +2478,7 @@ vember 1904.</Unicode>
             </TextLine>
             <TextLine id="r9l4" custom="readingOrder {index:3;}">
                 <Coords points="1273,1874 1354,1870 1747,1865 1952,1865 2226,1866 2291,1867 2333,1876 2333,1898 1952,1902 1548,1906 1534,1906 1273,1903"/>
-                <Baseline points="1273,1903 1506,1900 1747,1897 2337,1898"/>
+                <Baseline points="1273,1903 1506,1900 1747,1897 2333,1898"/>
                 <TextEquiv>
                     <Unicode>de Beaulieu gehörig, zur Verſteigerung. 42,22 a. Mit dem</Unicode>
                 </TextEquiv>
@@ -2510,7 +2510,7 @@ Winterhelt zu Milkenberg am Main Meiſtbietender.</Unicode>
             <Coords points="1265,2039 2337,2041 2337,2282 1268,2288"/>
             <TextLine id="r10l1" custom="readingOrder {index:0;}">
                 <Coords points="1358,2054 1863,2052 1933,2051 1958,2051 2219,2053 2243,2054 2243,2085 2219,2086 1844,2089 1431,2094 1358,2088"/>
-                <Baseline points="1357,2088 1844,2085 2243,2084"/>
+                <Baseline points="1358,2088 1844,2085 2243,2084"/>
                 <TextEquiv>
                     <Unicode>Tägliche Wagengeſtellung für Kohlen und Koks</Unicode>
                 </TextEquiv>
@@ -2524,7 +2524,7 @@ Winterhelt zu Milkenberg am Main Meiſtbietender.</Unicode>
             </TextLine>
             <TextLine id="r10l3" custom="readingOrder {index:2;}">
                 <Coords points="1343,2133 1561,2134 1904,2132 2309,2133 2331,2150 2331,2162 2308,2173 1619,2170 1341,2168"/>
-                <Baseline points="1340,2166 1384,2167 1578,2165 1730,2164 1891,2163 2009,2163 2257,2165 2331,2162"/>
+                <Baseline points="1341,2166 1384,2167 1578,2165 1730,2164 1891,2163 2009,2163 2257,2165 2331,2162"/>
                 <TextEquiv>
                     <Unicode>An der Ruhr ſind am 5. d. M. geſtellt 19 740, nicht recht⸗</Unicode>
                 </TextEquiv>
@@ -2538,7 +2538,7 @@ Winterhelt zu Milkenberg am Main Meiſtbietender.</Unicode>
             </TextLine>
             <TextLine id="r10l5" custom="readingOrder {index:4;}">
                 <Coords points="1337,2208 1532,2201 1733,2201 2315,2207 2330,2208 2330,2237 2315,2242 2002,2239 1682,2242 1507,2242 1337,2239"/>
-                <Baseline points="1338,2240 1650,2235 2139,2235 2330,2237"/>
+                <Baseline points="1338,2239 1650,2235 2139,2235 2330,2237"/>
                 <TextEquiv>
                     <Unicode>In Oberſchleſien ſind am 4. d. M. geſtellt 6902, nicht recht⸗</Unicode>
                 </TextEquiv>
@@ -2577,28 +2577,28 @@ zeitig geſtellt 26 Wagen; am 5. d. M. 6611 bezw. 442 Wagen.</Unicode>
             </TextLine>
             <TextLine id="r11l3" custom="readingOrder {index:2;}">
                 <Coords points="1268,2437 1617,2434 1944,2434 2225,2436 2321,2443 2332,2454 2332,2464 2321,2469 2306,2474 2172,2474 1872,2472 1299,2468 1268,2467"/>
-                <Baseline points="1268,2467 1551,2466 2334,2467"/>
+                <Baseline points="1268,2467 1551,2466 2332,2464"/>
                 <TextEquiv>
                     <Unicode>den 14. November d. J., vergeben. Angebotsbogen und Lieferungs⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r11l4" custom="readingOrder {index:3;}">
                 <Coords points="1269,2472 1316,2471 1643,2471 1939,2471 2241,2473 2287,2474 2334,2484 2334,2505 2319,2506 2002,2508 1359,2510 1345,2510 1269,2504"/>
-                <Baseline points="1271,2505 1443,2503 1560,2502 1835,2501 2130,2503 2334,2505"/>
+                <Baseline points="1271,2504 1443,2503 1560,2502 1835,2501 2130,2503 2334,2505"/>
                 <TextEquiv>
                     <Unicode>bedingungen können von Intereſſenten im Verkehrsbureau der Berliner</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r11l5" custom="readingOrder {index:4;}">
                 <Coords points="1269,2510 1520,2505 1632,2505 1750,2510 1781,2518 1790,2530 1791,2539 1782,2541 1619,2544 1365,2543 1269,2547"/>
-                <Baseline points="1269,2540 1520,2540 1792,2539"/>
+                <Baseline points="1269,2540 1520,2540 1791,2539"/>
                 <TextEquiv>
                     <Unicode>Handelskammer eingeſehen werden.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r11l6" custom="readingOrder {index:5;}">
                 <Coords points="1343,2545 1474,2544 1790,2544 2223,2546 2308,2547 2334,2562 2334,2573 2323,2578 2223,2582 1985,2581 1788,2580 1424,2581 1343,2579"/>
-                <Baseline points="1343,2576 1878,2575 2336,2578"/>
+                <Baseline points="1343,2576 1878,2575 2333,2573"/>
                 <TextEquiv>
                     <Unicode>— In Aequatorial⸗Braſilien machen ſich jetzt nach Ueber⸗</Unicode>
                 </TextEquiv>
@@ -2619,7 +2619,7 @@ zeitig geſtellt 26 Wagen; am 5. d. M. 6611 bezw. 442 Wagen.</Unicode>
             </TextLine>
             <TextLine id="r11l9" custom="readingOrder {index:8;}">
                 <Coords points="1267,2652 1812,2648 1849,2648 2307,2653 2332,2657 2332,2683 2228,2687 1442,2684 1324,2687 1307,2686 1267,2682"/>
-                <Baseline points="1267,2682 1486,2681 1800,2680 1986,2681 2098,2682 2336,2684"/>
+                <Baseline points="1267,2682 1486,2681 1800,2680 1986,2681 2098,2682 2332,2683"/>
                 <TextEquiv>
                     <Unicode>beziehungen und die gangbarſten Waren ſind der Berliner Handels⸗</Unicode>
                 </TextEquiv>
@@ -2647,7 +2647,7 @@ zeitig geſtellt 26 Wagen; am 5. d. M. 6611 bezw. 442 Wagen.</Unicode>
             </TextLine>
             <TextLine id="r11l13" custom="readingOrder {index:12;}">
                 <Coords points="1263,2788 1342,2785 1930,2780 1943,2780 2290,2787 2313,2791 2324,2801 2324,2812 2313,2816 2290,2820 2008,2819 1516,2819 1342,2819 1262,2813"/>
-                <Baseline points="1262,2813 1618,2814 1795,2814 1960,2813 2214,2816 2326,2816"/>
+                <Baseline points="1262,2813 1618,2814 1795,2814 1960,2813 2214,2816 2324,2812"/>
                 <TextEquiv>
                     <Unicode>neue Zollgeſetz liegt mit dem zugehörigen Zolltarif im Verkehrs⸗</Unicode>
                 </TextEquiv>
@@ -2668,21 +2668,21 @@ zeitig geſtellt 26 Wagen; am 5. d. M. 6611 bezw. 442 Wagen.</Unicode>
             </TextLine>
             <TextLine id="r11l16" custom="readingOrder {index:15;}">
                 <Coords points="1323,2885 1553,2884 1638,2884 2304,2883 2321,2896 2321,2916 2307,2917 2142,2920 2113,2920 1324,2915"/>
-                <Baseline points="1327,2912 2324,2917"/>
+                <Baseline points="1327,2912 2321,2916"/>
                 <TextEquiv>
                     <Unicode>— Von dem Berliner Pfandbriefinſtitut ſind bis Ende</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r11l17" custom="readingOrder {index:16;}">
                 <Coords points="1256,2916 1373,2916 1889,2918 2279,2921 2310,2930 2318,2942 2318,2955 2281,2955 1786,2952 1257,2948"/>
-                <Baseline points="1256,2946 1404,2945 1486,2945 1674,2946 1970,2946 2318,2949"/>
+                <Baseline points="1256,2945 1404,2945 1486,2945 1674,2946 1970,2946 2318,2949"/>
                 <TextEquiv>
                     <Unicode>Oktober 1904: 19 138 800 ℳ 3 ½ % ige, 21 796 500 ℳ 4 % ige,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r11l18" custom="readingOrder {index:17;}">
                 <Coords points="1254,2951 1273,2950 1882,2951 2109,2951 2320,2953 2317,2989 2169,2987 1256,2981"/>
-                <Baseline points="1254,2977 1352,2978 1521,2979 1931,2980 2321,2982"/>
+                <Baseline points="1255,2976 1352,2978 1521,2979 1931,2980 2317,2981"/>
                 <TextEquiv>
                     <Unicode>45 927 300 ℳ 4 ½ % ige, 9 765 600 ℳ 5 % ige alte Berliner Pfandbriefe</Unicode>
                 </TextEquiv>
@@ -2703,21 +2703,21 @@ zeitig geſtellt 26 Wagen; am 5. d. M. 6611 bezw. 442 Wagen.</Unicode>
             </TextLine>
             <TextLine id="r11l21" custom="readingOrder {index:20;}">
                 <Coords points="1254,3050 1533,3050 1902,3051 2273,3053 2313,3065 2313,3091 2293,3091 1675,3084 1309,3086 1254,3081"/>
-                <Baseline points="1254,3081 1332,3081 1378,3081 1533,3080 1673,3080 1842,3081 2106,3083 2316,3087"/>
+                <Baseline points="1254,3081 1332,3081 1378,3081 1533,3080 1673,3080 1842,3081 2106,3083 2313,3087"/>
                 <TextEquiv>
                     <Unicode>briefe ausgegeben worden, wovon noch 7 088 700 ℳ 3 ½ % ige,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r11l22" custom="readingOrder {index:21;}">
                 <Coords points="1253,3087 1344,3086 1896,3086 1968,3085 2240,3091 2293,3090 2314,3100 2314,3121 2300,3126 1965,3120 1907,3128 1902,3123 1715,3117 1279,3116 1253,3115"/>
-                <Baseline points="1253,3115 1268,3115 1524,3114 1997,3115 2314,3122"/>
+                <Baseline points="1253,3115 1268,3115 1524,3114 1997,3115 2313,3121"/>
                 <TextEquiv>
                     <Unicode>6 287 100 ℳ 4 % ige, 5 255 100 ℳ, 4 ½ % ige, 1 269 600 ℳ 5 % ige</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r11l23" custom="readingOrder {index:22;}">
                 <Coords points="1251,3131 1271,3117 2003,3122 2148,3121 2260,3126 2313,3130 2312,3158 2063,3156 1467,3156 1251,3154"/>
-                <Baseline points="1251,3152 1304,3152 1449,3151 1635,3149 1714,3149 2099,3152 2313,3154"/>
+                <Baseline points="1251,3152 1304,3152 1449,3151 1635,3149 1714,3149 2099,3152 2312,3153"/>
                 <TextEquiv>
                     <Unicode>alte Berliner Pfandbriefe und 14 558 200 ℳ 3 % ige, 97 146 100 ℳ</Unicode>
                 </TextEquiv>
@@ -2731,7 +2731,7 @@ zeitig geſtellt 26 Wagen; am 5. d. M. 6611 bezw. 442 Wagen.</Unicode>
             </TextLine>
             <TextLine id="r11l25" custom="readingOrder {index:24;}">
                 <Coords points="1252,3190 1528,3189 1668,3189 2123,3190 2271,3197 2309,3201 2309,3225 2217,3227 1839,3227 1528,3226 1253,3224"/>
-                <Baseline points="1253,3224 1303,3223 1668,3220 2310,3224"/>
+                <Baseline points="1253,3224 1303,3223 1668,3220 2309,3224"/>
                 <TextEquiv>
                     <Unicode>166 544 600 ℳ Pfandbriefe von den Grundſtückseigentümern zu ver⸗</Unicode>
                 </TextEquiv>
@@ -2745,21 +2745,21 @@ zeitig geſtellt 26 Wagen; am 5. d. M. 6611 bezw. 442 Wagen.</Unicode>
             </TextLine>
             <TextLine id="r11l27" custom="readingOrder {index:26;}">
                 <Coords points="1252,3268 1269,3267 1368,3265 1636,3260 1937,3260 2226,3261 2307,3269 2308,3298 2226,3297 2010,3296 1667,3295 1368,3300 1254,3299"/>
-                <Baseline points="1252,3296 1321,3295 1726,3291 2308,3295"/>
+                <Baseline points="1253,3295 1321,3295 1726,3291 2307,3295"/>
                 <TextEquiv>
                     <Unicode>1904 ſind 350 Grundſtücke mit einem Feuerkaſſenwerte von</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r11l28" custom="readingOrder {index:27;}">
                 <Coords points="1253,3300 1573,3293 2058,3295 2202,3296 2308,3303 2309,3330 2284,3334 2040,3331 1692,3330 1252,3335"/>
-                <Baseline points="1251,3332 1285,3332 2016,3326 2310,3329"/>
+                <Baseline points="1252,3332 1285,3332 2016,3326 2308,3329"/>
                 <TextEquiv>
                     <Unicode>62 654 525 ℳ zur Beleihung mit neuen Berliner Pfandbriefen ange⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r11l29" custom="readingOrder {index:28;}">
                 <Coords points="1250,3348 1293,3336 1725,3329 1983,3329 2293,3334 2307,3344 2307,3366 2184,3370 1934,3366 1253,3373"/>
-                <Baseline points="1250,3370 1344,3368 1380,3368 1545,3364 1688,3362 1816,3361 2307,3364"/>
+                <Baseline points="1252,3369 1344,3368 1380,3368 1545,3364 1688,3362 1816,3361 2307,3364"/>
                 <TextEquiv>
                     <Unicode>meldet worden. Von den darauf erfolgten Zuſicherungen im</Unicode>
                 </TextEquiv>
@@ -2794,7 +2794,7 @@ zeitig geſtellt 26 Wagen; am 5. d. M. 6611 bezw. 442 Wagen.</Unicode>
             </TextLine>
             <TextLine id="r11l34" custom="readingOrder {index:33;}">
                 <Coords points="1250,3517 1478,3511 1723,3507 1972,3504 2279,3508 2292,3515 2304,3525 2304,3535 2292,3540 2279,3545 1997,3542 1690,3544 1524,3549 1406,3551 1249,3554"/>
-                <Baseline points="1252,3548 1437,3544 1611,3542 1782,3537 1926,3535 2306,3539"/>
+                <Baseline points="1252,3548 1437,3544 1611,3542 1782,3537 1926,3535 2304,3535"/>
                 <TextEquiv>
                     <Unicode>„W. T. B.“, ſeitens des Vorſtandes über das Ergebnis des Geſchäfts⸗</Unicode>
                 </TextEquiv>
@@ -2822,14 +2822,14 @@ zeitig geſtellt 26 Wagen; am 5. d. M. 6611 bezw. 442 Wagen.</Unicode>
             </TextLine>
             <TextLine id="r11l38" custom="readingOrder {index:37;}">
                 <Coords points="1246,3662 1329,3659 1771,3647 1936,3646 1970,3646 2286,3651 2301,3661 2301,3686 2047,3682 1908,3683 1408,3691 1246,3698"/>
-                <Baseline points="1246,3692 1445,3687 1534,3685 1701,3680 1913,3675 2005,3677 2303,3683"/>
+                <Baseline points="1246,3692 1445,3687 1534,3685 1701,3680 1913,3675 2005,3677 2301,3683"/>
                 <TextEquiv>
                     <Unicode>(im Vorjahr 5 624 385,15 ℳ) zur Verfügung. Der auf den 8. Dezember</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r11l39" custom="readingOrder {index:38;}">
                 <Coords points="1248,3698 1307,3694 1495,3691 1861,3679 2284,3684 2300,3696 2300,3719 2073,3719 1826,3718 1316,3730 1290,3730 1248,3727"/>
-                <Baseline points="1249,3728 1907,3712 2107,3714 2303,3716"/>
+                <Baseline points="1249,3727 1907,3712 2107,3714 2300,3716"/>
                 <TextEquiv>
                     <Unicode>d. J., Vormittags 10 Uhr, einzuberufenden ordentlichen Generalver⸗</Unicode>
                 </TextEquiv>
@@ -2878,28 +2878,28 @@ zeitig geſtellt 26 Wagen; am 5. d. M. 6611 bezw. 442 Wagen.</Unicode>
             </TextLine>
             <TextLine id="r11l46" custom="readingOrder {index:45;}">
                 <Coords points="1307,3948 1360,3939 1884,3928 2057,3927 2271,3933 2297,3945 2299,3968 1880,3964 1681,3969 1485,3973 1364,3973 1307,3968"/>
-                <Baseline points="1306,3970 1672,3963 1843,3958 2295,3966"/>
+                <Baseline points="1307,3968 1672,3963 1843,3958 2295,3966"/>
                 <TextEquiv>
                     <Unicode>— Der Aufſichtsrat der Portland⸗Zementfabrik Teutonia</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r11l47" custom="readingOrder {index:46;}">
                 <Coords points="1238,3978 1797,3964 2001,3964 2198,3968 2297,3975 2297,4002 2087,4003 1923,3999 1650,4005 1521,4007 1240,4012"/>
-                <Baseline points="1239,4006 1271,4006 1514,4003 1710,3998 1902,3993 2096,3997 2297,4001"/>
+                <Baseline points="1239,4005 1271,4006 1514,4003 1710,3998 1902,3993 2096,3997 2297,4001"/>
                 <TextEquiv>
                     <Unicode>in Hannover genehmigte, laut Meldung des „W. T. B.“ aus</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r11l48" custom="readingOrder {index:47;}">
                 <Coords points="1237,4014 1550,4009 1916,3997 2254,4005 2294,4016 2294,4036 2268,4040 2065,4038 1871,4033 1620,4038 1428,4045 1372,4045 1238,4048"/>
-                <Baseline points="1237,4045 1428,4040 1566,4036 1804,4031 2297,4037"/>
+                <Baseline points="1237,4044 1428,4040 1566,4036 1804,4031 2294,4036"/>
                 <TextEquiv>
                     <Unicode>Hannover, am 5. d. M. den von der Verwaltung mit der Ver⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r11l49" custom="readingOrder {index:48;}">
                 <Coords points="1234,4047 1612,4040 1852,4035 2165,4039 2292,4044 2292,4073 2195,4076 1992,4072 1796,4068 1735,4075 1473,4078 1234,4083"/>
-                <Baseline points="1239,4080 1574,4071 1808,4064 1849,4064 1882,4064 2293,4074"/>
+                <Baseline points="1239,4080 1574,4071 1808,4064 1849,4064 1882,4064 2292,4073"/>
                 <TextEquiv>
                     <Unicode>kaufsvereinigung der hannoverſchen und braunſchweigiſchen Zement⸗</Unicode>
                 </TextEquiv>
@@ -2920,14 +2920,14 @@ zeitig geſtellt 26 Wagen; am 5. d. M. 6611 bezw. 442 Wagen.</Unicode>
             </TextLine>
             <TextLine id="r11l52" custom="readingOrder {index:51;}">
                 <Coords points="1234,4155 1373,4148 1644,4144 1917,4138 2152,4142 2210,4149 2282,4153 2292,4172 2292,4179 2283,4184 1896,4175 1633,4177 1389,4183 1234,4184"/>
-                <Baseline points="1236,4184 1519,4176 1681,4172 1855,4172 1947,4173 2241,4179 2261,4180 2292,4179"/>
+                <Baseline points="1235,4183 1519,4176 1681,4172 1855,4172 1947,4173 2241,4179 2261,4180 2292,4179"/>
                 <TextEquiv>
                     <Unicode>des Geſchäftsjahres 1904/05 nach Abzug aller Verwaltungskoſten ꝛc.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r11l53" custom="readingOrder {index:52;}">
                 <Coords points="1233,4198 1246,4188 1341,4182 1697,4177 1777,4176 1793,4176 1980,4178 2262,4186 2291,4195 2291,4218 2150,4219 1913,4213 1756,4213 1464,4220 1233,4220"/>
-                <Baseline points="1233,4219 1322,4217 1568,4211 1686,4208 1853,4207 2091,4211 2293,4217"/>
+                <Baseline points="1233,4219 1322,4217 1568,4211 1686,4208 1853,4207 2091,4211 2291,4217"/>
                 <TextEquiv>
                     <Unicode>einen Betriebsgewinn von 931 789,82 ℳ. gegenüber 965 958,01 ℳ. im</Unicode>
                 </TextEquiv>
@@ -2969,7 +2969,7 @@ zeitig geſtellt 26 Wagen; am 5. d. M. 6611 bezw. 442 Wagen.</Unicode>
             </TextLine>
             <TextLine id="r11l59" custom="readingOrder {index:58;}">
                 <Coords points="1228,4400 1258,4397 1377,4395 1650,4389 1697,4389 1821,4390 2204,4400 2291,4409 2291,4433 2207,4438 2012,4431 1665,4423 1491,4426 1228,4429"/>
-                <Baseline points="1228,4429 1314,4427 1567,4420 1650,4418 1796,4420 1902,4423 2041,4426 2292,4434"/>
+                <Baseline points="1228,4429 1314,4427 1567,4420 1650,4418 1796,4420 1902,4423 2041,4426 2291,4433"/>
                 <TextEquiv>
                     <Unicode>tober: 10 382 765 Kronen (476 391 Kronen weniger als i. V.). —</Unicode>
                 </TextEquiv>
@@ -3004,7 +3004,7 @@ zeitig geſtellt 26 Wagen; am 5. d. M. 6611 bezw. 442 Wagen.</Unicode>
             </TextLine>
             <TextLine id="r11l64" custom="readingOrder {index:63;}">
                 <Coords points="1222,4574 1242,4572 1518,4567 1615,4566 1730,4566 2100,4574 2289,4583 2289,4615 2100,4616 2076,4616 1962,4612 1697,4601 1438,4603 1298,4608 1242,4608 1222,4606"/>
-                <Baseline points="1225,4606 1316,4602 1437,4598 1535,4597 1597,4597 1730,4598 1788,4599 1872,4602 2100,4609 2290,4612"/>
+                <Baseline points="1225,4606 1316,4602 1437,4598 1535,4597 1597,4597 1730,4598 1788,4599 1872,4602 2100,4609 2289,4612"/>
                 <TextEquiv>
                     <Unicode>Woche wurden 5 320 000 Dollars Gold nach Frankreich und 10 000</Unicode>
                 </TextEquiv>
@@ -3117,7 +3117,7 @@ pinte = 0,142 l).</Unicode>
             <Coords points="2393,65 3474,77 3470,336 2390,334"/>
             <TextLine id="r13l1" custom="readingOrder {index:0;}">
                 <Coords points="2402,68 2437,68 2857,74 3191,80 3407,85 3428,88 3470,98 3469,118 3450,122 3350,122 3050,119 2640,111 2419,102 2402,100"/>
-                <Baseline points="2402,100 2516,103 2535,103 2610,105 2631,105 2692,105 2710,106 2819,108 2837,108 2952,110 2982,111 3191,116 3229,117 3285,119 3304,119 3470,122"/>
+                <Baseline points="2402,100 2516,103 2535,103 2610,105 2631,105 2692,105 2710,106 2819,108 2837,108 2952,110 2982,111 3191,116 3229,117 3285,119 3304,119 3469,118"/>
                 <TextEquiv>
                     <Unicode>Dollars Gold nach anderen Ländern ausgeführt. Die Goldein⸗</Unicode>
                 </TextEquiv>
@@ -3131,7 +3131,7 @@ pinte = 0,142 l).</Unicode>
             </TextLine>
             <TextLine id="r13l3" custom="readingOrder {index:2;}">
                 <Coords points="2403,138 3158,151 3190,158 3198,177 3198,186 3190,187 2854,183 2656,182 2402,176"/>
-                <Baseline points="2401,171 2519,173 2657,176 2877,179 2959,181 3057,183 3198,186"/>
+                <Baseline points="2402,171 2519,173 2657,176 2877,179 2959,181 3057,183 3198,186"/>
                 <TextEquiv>
                     <Unicode>277 000 Dollars, die Einfuhr auf 27 000 Dollars.</Unicode>
                 </TextEquiv>
@@ -3191,7 +3191,7 @@ Doll. gegen 2 120 000 Doll. in der Vorwoche.</Unicode>
             <Coords points="2393,477 3461,477 3453,1888 2380,1911"/>
             <TextLine id="r15l1" custom="readingOrder {index:0;}">
                 <Coords points="2469,479 2874,484 3216,487 3258,488 3401,491 3463,493 3463,527 3258,528 3146,528 2717,517 2470,515"/>
-                <Baseline points="2468,509 2698,513 2718,513 2874,516 2924,517 2970,518 2989,518 3022,519 3041,519 3094,520 3139,521 3278,522 3325,523 3401,525 3433,525 3460,525"/>
+                <Baseline points="2469,508 2698,513 2718,513 2874,516 2924,517 2970,518 2989,518 3022,519 3041,519 3094,520 3139,521 3278,522 3325,523 3401,525 3433,525 3460,525"/>
                 <TextEquiv>
                     <Unicode>Hamburg, 5. November. (W. T. B.) (Schluß.) Gold in</Unicode>
                 </TextEquiv>
@@ -3205,7 +3205,7 @@ Doll. gegen 2 120 000 Doll. in der Vorwoche.</Unicode>
             </TextLine>
             <TextLine id="r15l3" custom="readingOrder {index:2;}">
                 <Coords points="2397,551 2463,550 2585,550 2963,559 2981,560 2981,590 2963,591 2870,593 2863,593 2767,592 2529,587 2399,584"/>
-                <Baseline points="2397,580 2649,583 2809,586 2981,589"/>
+                <Baseline points="2398,579 2649,583 2809,586 2981,589"/>
                 <TextEquiv>
                     <Unicode>das Kilogramm 79,25 Br., 78,75 Gd.</Unicode>
                 </TextEquiv>
@@ -3219,7 +3219,7 @@ Doll. gegen 2 120 000 Doll. in der Vorwoche.</Unicode>
             </TextLine>
             <TextLine id="r15l5" custom="readingOrder {index:4;}">
                 <Coords points="2401,619 3460,637 3461,673 2398,658"/>
-                <Baseline points="2400,653 3461,668"/>
+                <Baseline points="2400,653 3460,668"/>
                 <TextEquiv>
                     <Unicode>Einh. 4 % Rente M.⸗N. p. Arr. 100,05, Oeſterr. 4 % Rente</Unicode>
                 </TextEquiv>
@@ -3247,7 +3247,7 @@ Doll. gegen 2 120 000 Doll. in der Vorwoche.</Unicode>
             </TextLine>
             <TextLine id="r15l9" custom="readingOrder {index:8;}">
                 <Coords points="2394,767 2485,764 2516,765 2786,766 3437,778 3457,788 3457,808 3438,814 3333,811 2976,808 2394,798"/>
-                <Baseline points="2394,792 2439,793 2467,794 2516,794 2545,795 2633,796 2671,796 2786,798 2815,800 2992,803 3019,804 3064,805 3094,806 3143,805 3168,805 3266,807 3311,808 3459,807"/>
+                <Baseline points="2394,792 2439,793 2467,794 2516,794 2545,795 2633,796 2671,796 2786,798 2815,800 2992,803 3019,804 3064,805 3094,806 3143,805 3168,805 3266,807 3311,808 3457,807"/>
                 <TextEquiv>
                     <Unicode>per ult. —,—, Oeſterr. Staatsbahn per ult. 654,50, Südbahn⸗</Unicode>
                 </TextEquiv>
@@ -3261,7 +3261,7 @@ Doll. gegen 2 120 000 Doll. in der Vorwoche.</Unicode>
             </TextLine>
             <TextLine id="r15l11" custom="readingOrder {index:10;}">
                 <Coords points="2394,839 2475,835 2487,835 2694,837 3426,850 3448,851 3456,872 3456,886 2876,878 2592,871 2395,871"/>
-                <Baseline points="2394,862 2439,863 2457,863 2506,864 2526,865 2631,867 2668,867 2832,871 2865,871 2930,873 2950,873 3011,874 3030,875 3137,876 3173,877 3334,879 3351,879 3456,881"/>
+                <Baseline points="2394,861 2439,863 2457,863 2506,864 2526,865 2631,867 2668,867 2832,871 2865,871 2930,873 2950,873 3011,874 3030,875 3137,876 3173,877 3334,879 3351,879 3456,881"/>
                 <TextEquiv>
                     <Unicode>per ult. 671,25, Kreditbank, Ung. allg. 791,00, Länderbank 449,00,</Unicode>
                 </TextEquiv>
@@ -3324,7 +3324,7 @@ Doll. gegen 2 120 000 Doll. in der Vorwoche.</Unicode>
             </TextLine>
             <TextLine id="r15l20" custom="readingOrder {index:19;}">
                 <Coords points="2463,1154 2529,1154 2851,1157 3248,1166 3309,1169 3309,1199 3220,1204 2930,1199 2534,1191 2503,1190 2463,1185"/>
-                <Baseline points="2463,1184 2629,1186 2649,1187 2673,1187 2694,1187 2851,1191 2889,1192 2948,1192 2968,1193 3002,1193 3054,1196 3074,1196 3112,1197 3248,1199 3268,1199 3312,1198"/>
+                <Baseline points="2463,1184 2629,1186 2649,1187 2673,1187 2694,1187 2851,1191 2889,1192 2948,1192 2968,1193 3002,1193 3054,1196 3074,1196 3112,1197 3248,1199 3268,1199 3309,1198"/>
                 <TextEquiv>
                     <Unicode>Liſſabon, 5. November. (W. T. B.) Goldagio 19.</Unicode>
                 </TextEquiv>
@@ -3359,14 +3359,14 @@ Doll. gegen 2 120 000 Doll. in der Vorwoche.</Unicode>
             </TextLine>
             <TextLine id="r15l25" custom="readingOrder {index:24;}">
                 <Coords points="2390,1331 2421,1331 2764,1335 3364,1344 3422,1349 3454,1359 3454,1379 3368,1382 2988,1377 2802,1373 2390,1362"/>
-                <Baseline points="2390,1360 2558,1363 2811,1367 3088,1373 3456,1380"/>
+                <Baseline points="2390,1360 2558,1363 2811,1367 3088,1373 3454,1379"/>
                 <TextEquiv>
                     <Unicode>Da aber keine die Börſe in ungünſtigem Sinne beeinfluſſenden</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r15l26" custom="readingOrder {index:25;}">
                 <Coords points="2390,1366 2479,1366 2962,1374 3360,1382 3411,1385 3443,1394 3454,1400 3454,1411 3443,1419 3044,1415 2619,1405 2390,1399"/>
-                <Baseline points="2390,1396 2512,1399 2745,1403 3019,1408 3111,1410 3257,1413 3455,1416"/>
+                <Baseline points="2390,1396 2512,1399 2745,1403 3019,1408 3111,1410 3257,1413 3452,1412"/>
                 <TextEquiv>
                     <Unicode>Motive vorlagen, blieb die Grundſtimmung gut behauptet. Konjunktur⸗</Unicode>
                 </TextEquiv>
@@ -3380,7 +3380,7 @@ Doll. gegen 2 120 000 Doll. in der Vorwoche.</Unicode>
             </TextLine>
             <TextLine id="r15l28" custom="readingOrder {index:27;}">
                 <Coords points="2389,1438 2482,1438 2610,1440 3405,1455 3451,1466 3450,1490 3220,1488 2716,1480 2389,1469"/>
-                <Baseline points="2389,1469 2554,1471 2680,1473 2830,1475 2950,1478 3023,1480 3122,1482 3296,1485 3451,1488"/>
+                <Baseline points="2389,1469 2554,1471 2680,1473 2830,1475 2950,1478 3023,1480 3122,1482 3296,1485 3450,1487"/>
                 <TextEquiv>
                     <Unicode>kommenden Werten ſpäterhin dazu, einen Teil der anfangs erlittenen</Unicode>
                 </TextEquiv>
@@ -3394,14 +3394,14 @@ Doll. gegen 2 120 000 Doll. in der Vorwoche.</Unicode>
             </TextLine>
             <TextLine id="r15l30" custom="readingOrder {index:29;}">
                 <Coords points="2389,1510 2511,1510 2817,1515 3452,1528 3450,1561 2915,1554 2750,1549 2466,1548 2389,1545"/>
-                <Baseline points="2389,1540 2511,1542 2529,1542 2588,1543 2647,1544 2748,1545 2786,1545 2845,1546 2870,1547 2947,1549 2967,1549 3073,1551 3101,1552 3342,1556 3360,1557 3452,1558"/>
+                <Baseline points="2389,1540 2511,1542 2529,1542 2588,1543 2647,1544 2748,1545 2786,1545 2845,1546 2870,1547 2947,1549 2967,1549 3073,1551 3101,1552 3342,1556 3360,1557 3450,1557"/>
                 <TextEquiv>
                     <Unicode>herrſchte gute Meinung. Der gegen Schluß bekanntwerdende Bank⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r15l31" custom="readingOrder {index:30;}">
                 <Coords points="2389,1555 2424,1550 2479,1547 2487,1547 2899,1552 3430,1563 3451,1572 3451,1593 3414,1595 3164,1593 3075,1592 2898,1590 2647,1583 2392,1581"/>
-                <Baseline points="2389,1576 2502,1577 2673,1579 2925,1582 3007,1585 3186,1589 3451,1593"/>
+                <Baseline points="2391,1575 2502,1577 2673,1579 2925,1582 3007,1585 3186,1589 3451,1593"/>
                 <TextEquiv>
                     <Unicode>ausweis übertraf die Erwartungen und begünſtigte eine weitere Er⸗</Unicode>
                 </TextEquiv>
@@ -3429,14 +3429,14 @@ Doll. gegen 2 120 000 Doll. in der Vorwoche.</Unicode>
             </TextLine>
             <TextLine id="r15l35" custom="readingOrder {index:34;}">
                 <Coords points="2388,1690 2553,1690 2740,1692 3259,1698 3443,1704 3452,1725 3451,1739 2926,1731 2499,1725 2406,1725 2388,1724"/>
-                <Baseline points="2388,1719 2502,1720 2639,1721 2781,1723 2923,1726 3079,1728 3259,1732 3452,1734"/>
+                <Baseline points="2388,1719 2502,1720 2639,1721 2781,1723 2923,1726 3079,1728 3259,1732 3451,1733"/>
                 <TextEquiv>
                     <Unicode>4,83,70, Cable Transfers 4,86,75, Silber Commercial Bars 58.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r15l36" custom="readingOrder {index:35;}">
                 <Coords points="2388,1722 2424,1722 2728,1724 2754,1725 2767,1729 2778,1748 2778,1758 2754,1763 2687,1763 2402,1760 2387,1755"/>
-                <Baseline points="2387,1755 2775,1759"/>
+                <Baseline points="2387,1755 2774,1758"/>
                 <TextEquiv>
                     <Unicode>Tendenz für Geld: Leicht.</Unicode>
                 </TextEquiv>
@@ -3450,7 +3450,7 @@ Doll. gegen 2 120 000 Doll. in der Vorwoche.</Unicode>
             </TextLine>
             <TextLine id="r15l38" custom="readingOrder {index:37;}">
                 <Coords points="2388,1793 2541,1798 2543,1833 2388,1834"/>
-                <Baseline points="2388,1826 2543,1828"/>
+                <Baseline points="2388,1826 2542,1828"/>
                 <TextEquiv>
                     <Unicode>geſchloſſen.</Unicode>
                 </TextEquiv>
@@ -3464,7 +3464,7 @@ Doll. gegen 2 120 000 Doll. in der Vorwoche.</Unicode>
             </TextLine>
             <TextLine id="r15l40" custom="readingOrder {index:39;}">
                 <Coords points="2387,1863 2588,1871 2611,1886 2611,1905 2588,1906 2571,1905 2388,1899"/>
-                <Baseline points="2383,1899 2611,1899"/>
+                <Baseline points="2387,1898 2611,1899"/>
                 <TextEquiv>
                     <Unicode>London 12 17⁄32.</Unicode>
                 </TextEquiv>
@@ -3557,7 +3557,7 @@ London 12 17⁄32.</Unicode>
             </TextLine>
             <TextLine id="r17l5" custom="readingOrder {index:4;}">
                 <Coords points="2386,2199 2620,2197 2795,2200 3403,2206 3446,2217 3446,2240 3403,2243 3334,2243 2439,2234 2386,2228"/>
-                <Baseline points="2389,2230 2501,2230 2636,2231 2771,2232 2936,2233 3309,2236 3446,2240"/>
+                <Baseline points="2389,2228 2501,2230 2636,2231 2771,2232 2936,2233 3309,2236 3446,2240"/>
                 <TextEquiv>
                     <Unicode>183,25 Abnahme im Mai 1905, do. 183,50 — 183,75 — 183,50 Abnahme</Unicode>
                 </TextEquiv>
@@ -3578,21 +3578,21 @@ London 12 17⁄32.</Unicode>
             </TextLine>
             <TextLine id="r17l8" custom="readingOrder {index:7;}">
                 <Coords points="2387,2306 2468,2308 2775,2307 3445,2315 3448,2349 3260,2349 3254,2349 2957,2348 2439,2344 2389,2340"/>
-                <Baseline points="2387,2337 2439,2338 2724,2341 2957,2343 3177,2344 3201,2344 3444,2346"/>
+                <Baseline points="2388,2336 2439,2338 2724,2341 2957,2343 3177,2344 3201,2344 3444,2346"/>
                 <TextEquiv>
                     <Unicode>141,75 — 142 — 141,75 Abnahme im Dezember, do. 146,75 — 147 bis</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r17l9" custom="readingOrder {index:8;}">
                 <Coords points="2386,2345 2473,2341 2630,2346 2850,2346 3205,2348 3406,2352 3435,2361 3446,2367 3446,2379 3433,2388 3274,2388 3007,2386 2605,2380 2445,2382 2386,2376"/>
-                <Baseline points="2386,2375 2483,2376 2646,2378 2816,2379 2912,2379 3049,2380 3221,2382 3303,2383 3448,2383"/>
+                <Baseline points="2386,2375 2483,2376 2646,2378 2816,2379 2912,2379 3049,2380 3221,2382 3303,2383 3445,2379"/>
                 <TextEquiv>
                     <Unicode>146,75 Abnahme im Mai 1905 mit 1,50 ℳ Mehr⸗ oder Minder⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r17l10" custom="readingOrder {index:9;}">
                 <Coords points="2386,2381 2589,2379 2591,2418 2388,2420"/>
-                <Baseline points="2388,2415 2591,2413"/>
+                <Baseline points="2388,2415 2590,2413"/>
                 <TextEquiv>
                     <Unicode>wert. Ruhig.</Unicode>
                 </TextEquiv>
@@ -3606,7 +3606,7 @@ London 12 17⁄32.</Unicode>
             </TextLine>
             <TextLine id="r17l12" custom="readingOrder {index:11;}">
                 <Coords points="2389,2456 2434,2455 2670,2455 3421,2459 3447,2471 3447,2493 3351,2497 2446,2491 2391,2493"/>
-                <Baseline points="2389,2486 2501,2487 2520,2487 2668,2487 2685,2487 2765,2488 2794,2488 2933,2488 3092,2490 3130,2490 3160,2490 3351,2492 3378,2492 3447,2493"/>
+                <Baseline points="2390,2485 2501,2487 2520,2487 2668,2487 2685,2487 2765,2488 2794,2488 2933,2488 3092,2490 3130,2490 3160,2490 3351,2492 3378,2492 3447,2493"/>
                 <TextEquiv>
                     <Unicode>poſener, ſchleſiſcher feiner 153 — 163 frei Wagen, pommerſcher, mär⸗</Unicode>
                 </TextEquiv>
@@ -3620,7 +3620,7 @@ London 12 17⁄32.</Unicode>
             </TextLine>
             <TextLine id="r17l14" custom="readingOrder {index:13;}">
                 <Coords points="2390,2530 2461,2529 2833,2529 3189,2533 3418,2533 3448,2540 3449,2569 2644,2564 2471,2565 2390,2558"/>
-                <Baseline points="2393,2559 2639,2560 2788,2561 3053,2562 3448,2563"/>
+                <Baseline points="2393,2558 2639,2560 2788,2561 3053,2562 3448,2563"/>
                 <TextEquiv>
                     <Unicode>152 frei Wagen, pommerſcher, märkiſcher, mecklenburger, preußiſcher,</Unicode>
                 </TextEquiv>
@@ -3655,14 +3655,14 @@ London 12 17⁄32.</Unicode>
             </TextLine>
             <TextLine id="r17l19" custom="readingOrder {index:18;}">
                 <Coords points="2457,2706 3446,2709 3445,2743 2454,2735"/>
-                <Baseline points="2455,2734 3446,2742"/>
+                <Baseline points="2455,2734 3445,2741"/>
                 <TextEquiv>
                     <Unicode>Mais, runder 121 — 124 frei Wagen, amerikan. Mixed 134</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r17l20" custom="readingOrder {index:19;}">
                 <Coords points="2382,2734 3407,2742 3407,2778 2382,2770"/>
-                <Baseline points="2383,2767 3408,2775"/>
+                <Baseline points="2383,2767 3407,2775"/>
                 <TextEquiv>
                     <Unicode>bis 135 frei Wagen, türkiſcher Mixed 130 — 131 frei Wagen. Feſt.</Unicode>
                 </TextEquiv>
@@ -3748,7 +3748,7 @@ do. 45 — 44,90 — 45 Abnahme im Mai 1905. Still.</Unicode>
             </TextLine>
             <TextLine id="r18l3" custom="readingOrder {index:2;}">
                 <Coords points="2367,3099 3002,3108 3438,3120 3435,3151 3187,3147 3181,3147 2367,3133"/>
-                <Baseline points="2365,3130 2524,3132 2753,3135 2917,3137 3034,3139 3187,3142 3433,3146"/>
+                <Baseline points="2367,3130 2524,3132 2753,3135 2917,3137 3034,3139 3187,3142 3433,3146"/>
                 <TextEquiv>
                     <Unicode>Doppelztr. für: Weizen, gute Sorte †) 17,60 ℳ; 17,58 ℳ —</Unicode>
                 </TextEquiv>
@@ -3762,7 +3762,7 @@ do. 45 — 44,90 — 45 Abnahme im Mai 1905. Still.</Unicode>
             </TextLine>
             <TextLine id="r18l5" custom="readingOrder {index:4;}">
                 <Coords points="2369,3169 3431,3187 3428,3222 2366,3204"/>
-                <Baseline points="2368,3202 3430,3220"/>
+                <Baseline points="2368,3202 3428,3219"/>
                 <TextEquiv>
                     <Unicode>17,52 ℳ; 17,50 ℳ — Roggen, gute Sorte †) 13,95 ℳ; 13,93 ℳ</Unicode>
                 </TextEquiv>
@@ -3783,7 +3783,7 @@ do. 45 — 44,90 — 45 Abnahme im Mai 1905. Still.</Unicode>
             </TextLine>
             <TextLine id="r18l8" custom="readingOrder {index:7;}">
                 <Coords points="2363,3274 3426,3292 3428,3328 2365,3310"/>
-                <Baseline points="2365,3307 3428,3325"/>
+                <Baseline points="2365,3307 3427,3325"/>
                 <TextEquiv>
                     <Unicode>14,50 ℳ — Futtergerſte, Mittelſorte*) 14,40 ℳ; 13,20 ℳ —</Unicode>
                 </TextEquiv>
@@ -3853,7 +3853,7 @@ do. 45 — 44,90 — 45 Abnahme im Mai 1905. Still.</Unicode>
             </TextLine>
             <TextLine id="r18l18" custom="readingOrder {index:17;}">
                 <Coords points="2356,3624 3426,3651 3427,3688 2357,3661"/>
-                <Baseline points="2357,3658 3427,3685"/>
+                <Baseline points="2357,3658 3426,3685"/>
                 <TextEquiv>
                     <Unicode>fleiſch 1 kg 1,80 ℳ; 1,10 ℳ — Butter 1 kg 2,80 ℳ; 2,00 ℳ —</Unicode>
                 </TextEquiv>
@@ -3939,7 +3939,7 @@ Eier 60 Stück 4,50 ℳ; 3,00 ℳ — Karpfen 1 kg 2,20 ℳ; 1,20 ℳ
             <Coords points="2339,3990 3430,4018 3401,4594 2337,4597"/>
             <TextLine id="r19l1" custom="readingOrder {index:0;}">
                 <Coords points="2422,4042 2422,4011 2513,4012 2656,4015 2937,4019 3166,4031 3314,4035 3387,4043 3422,4051 3424,4078 3171,4072 2866,4055 2566,4050 2451,4046"/>
-                <Baseline points="2420,4042 2610,4046 2819,4052 3009,4058 3119,4062 3425,4074"/>
+                <Baseline points="2422,4042 2610,4046 2819,4052 3009,4058 3119,4062 3423,4074"/>
                 <TextEquiv>
                     <Unicode>Berlin, 5. November. Bericht über Speiſefette von</Unicode>
                 </TextEquiv>
@@ -3953,14 +3953,14 @@ Eier 60 Stück 4,50 ℳ; 3,00 ℳ — Karpfen 1 kg 2,20 ℳ; 1,20 ℳ
             </TextLine>
             <TextLine id="r19l3" custom="readingOrder {index:2;}">
                 <Coords points="2346,4112 2347,4089 2385,4081 2400,4081 3230,4105 3396,4111 3423,4127 3423,4138 3414,4147 3349,4147 3103,4140 2874,4133 2384,4114"/>
-                <Baseline points="2348,4111 2430,4113 2573,4118 2740,4123 2860,4126 2915,4128 2933,4128 3103,4134 3230,4138 3423,4145"/>
+                <Baseline points="2348,4111 2430,4113 2573,4118 2740,4123 2860,4126 2915,4128 2933,4128 3103,4134 3230,4138 3419,4141"/>
                 <TextEquiv>
                     <Unicode>und es wurde bis Ende der Woche nicht alles geräumt. Nur aller⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r19l4" custom="readingOrder {index:3;}">
                 <Coords points="2349,4117 2437,4117 3193,4139 3422,4148 3422,4176 3421,4178 3284,4181 3269,4181 3084,4175 2421,4154 2349,4152"/>
-                <Baseline points="2349,4146 2437,4149 2456,4151 2619,4155 2651,4156 2762,4159 2794,4160 2840,4162 2862,4162 2899,4163 2920,4165 3008,4167 3040,4168 3072,4169 3086,4169 3193,4172 3225,4173 3347,4177 3378,4178 3422,4179"/>
+                <Baseline points="2349,4146 2437,4149 2456,4151 2619,4155 2651,4156 2762,4159 2794,4160 2840,4162 2862,4162 2899,4163 2920,4165 3008,4167 3040,4168 3072,4169 3086,4169 3193,4172 3225,4173 3347,4177 3378,4178 3421,4178"/>
                 <TextEquiv>
                     <Unicode>feinſte Qualitäten konnten ſich im Preiſe behaupten, während ab⸗</Unicode>
                 </TextEquiv>
@@ -4009,7 +4009,7 @@ Eier 60 Stück 4,50 ℳ; 3,00 ℳ — Karpfen 1 kg 2,20 ℳ; 1,20 ℳ
             </TextLine>
             <TextLine id="r19l11" custom="readingOrder {index:10;}">
                 <Coords points="2344,4369 2784,4382 2981,4385 3410,4389 3409,4422 2343,4407"/>
-                <Baseline points="2346,4402 2787,4416 3069,4419 3409,4417"/>
+                <Baseline points="2346,4402 2787,4413 3069,4417 3409,4417"/>
                 <TextEquiv>
                     <Unicode>beſſer geworden; in Hamburg war Lokoware mehr begehrt, und</Unicode>
                 </TextEquiv>
@@ -4037,7 +4037,7 @@ Eier 60 Stück 4,50 ℳ; 3,00 ℳ — Karpfen 1 kg 2,20 ℳ; 1,20 ℳ
             </TextLine>
             <TextLine id="r19l15" custom="readingOrder {index:14;}">
                 <Coords points="2342,4515 2876,4525 3396,4516 3396,4548 2939,4558 2343,4554"/>
-                <Baseline points="2343,4549 2729,4555 2953,4556 3193,4549 3397,4544"/>
+                <Baseline points="2343,4549 2729,4555 2953,4556 3193,4549 3396,4544"/>
                 <TextEquiv>
                     <Unicode>(Krone) 46 ℳ, Berliner Bratenſchmalz (Kornblume) 48 ℳ in Tierces</Unicode>
                 </TextEquiv>
@@ -4072,14 +4072,14 @@ bis 50 ℳ — Speck: Knapp bei ſehr feſter Tendenz.</Unicode>
             <Coords points="2337,4677 3392,4667 3398,4861 2333,4858"/>
             <TextLine id="r20l1" custom="readingOrder {index:0;}">
                 <Coords points="2412,4686 3070,4674 3146,4673 3246,4672 3319,4672 3356,4673 3388,4681 3388,4707 3006,4710 2794,4714 2556,4720 2412,4718"/>
-                <Baseline points="2410,4718 2555,4716 2638,4715 2740,4713 2912,4707 3107,4703 3388,4701"/>
+                <Baseline points="2412,4718 2555,4716 2638,4715 2740,4713 2912,4707 3107,4703 3388,4701"/>
                 <TextEquiv>
                     <Unicode>Berlin, 5. November. Wochenbericht für Stärke,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r20l2" custom="readingOrder {index:1;}">
                 <Coords points="2340,4720 3127,4706 3371,4706 3390,4716 3390,4737 3270,4740 2955,4742 2747,4748 2340,4751"/>
-                <Baseline points="2340,4751 2432,4751 2649,4748 2711,4746 2937,4740 2953,4740 2987,4739 3001,4739 3016,4738 3034,4738 3087,4737 3117,4739 3127,4739 3270,4739 3280,4740 3387,4737"/>
+                <Baseline points="2340,4751 2431,4750 2649,4748 2711,4746 2937,4740 2953,4740 2987,4739 3001,4739 3016,4738 3034,4738 3087,4737 3117,4739 3127,4739 3270,4739 3279,4739 3387,4737"/>
                 <TextEquiv>
                     <Unicode>Stärkefabrikate und Hülſenfrüchte von Max Sabersky, Berlin.</Unicode>
                 </TextEquiv>
@@ -4093,14 +4093,14 @@ bis 50 ℳ — Speck: Knapp bei ſehr feſter Tendenz.</Unicode>
             </TextLine>
             <TextLine id="r20l4" custom="readingOrder {index:3;}">
                 <Coords points="2337,4789 2620,4783 2811,4779 2910,4778 3051,4778 3321,4777 3388,4792 3388,4812 3372,4813 3119,4813 2769,4814 2448,4823 2339,4821"/>
-                <Baseline points="2337,4821 2447,4819 2467,4818 2519,4817 2537,4816 2575,4815 2620,4814 2680,4812 2697,4812 2781,4809 2811,4808 2892,4806 2910,4806 3051,4806 3171,4808 3203,4808 3216,4808 3245,4809 3258,4809 3390,4812"/>
+                <Baseline points="2338,4820 2447,4819 2467,4818 2519,4817 2537,4816 2575,4815 2620,4814 2680,4812 2697,4812 2781,4809 2811,4808 2892,4806 2910,4806 3051,4806 3171,4808 3203,4808 3216,4808 3245,4809 3258,4809 3388,4812"/>
                 <TextEquiv>
                     <Unicode>Bedarf, und die Preiſe waren wenig verändert. Es ſind zu notieren:</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r20l5" custom="readingOrder {index:4;}">
                 <Coords points="2337,4826 2912,4810 3100,4809 3347,4814 3382,4825 3394,4845 3394,4858 3216,4851 2967,4849 2714,4851 2520,4854 2337,4857"/>
-                <Baseline points="2338,4855 2567,4848 2810,4841 2933,4842 3151,4844 3396,4853"/>
+                <Baseline points="2338,4855 2567,4848 2810,4841 2933,4842 3151,4844 3394,4853"/>
                 <TextEquiv>
                     <Unicode>I a. Kartoffelſtärke 28 ¼ — 28 ¾ ℳ, I a. Kartoffelmehl 28 ¼ — 28 ¾ ℳ,</Unicode>
                 </TextEquiv>
