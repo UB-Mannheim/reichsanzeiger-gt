@@ -1,4 +1,6 @@
 # reichsanzeiger-gt
+[![DOI 10.5281/zenodo.10144428](https://zenodo.org/badge/DOI/10.5281/zenodo.10144428.svg)](https://zenodo.org/doi/10.5281/zenodo.10144094)
+
 Ground truth for German newspaper **"Deutscher Reichsanzeiger und Preußischer Staatsanzeiger"** (*German Imperial Gazette and Prussian Official Gazette*), which was published under changing names from 1819 to 1945 (https://digi.bib.uni-mannheim.de/periodika/reichsanzeiger/ausgaben). 
 
 The ground truth is provided as PAGE-XML and URLs for the corresponding newspaper scans/images. Use the provided bash-script to download the images.
