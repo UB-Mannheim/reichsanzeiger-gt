@@ -1,22 +1,22 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
     <Metadata>
         <Creator>Transkribus</Creator>
         <Created>2021-12-14T11:43:15.332+01:00</Created>
-        <LastChange>2022-12-07T16:08:12.086+01:00</LastChange>
+        <LastChange>2023-11-15T20:46:57.549+01:00</LastChange>
         <Comments>
                 Measurement unit: pixel
                 PrimaryLanguage: 
                 Producer: Transkribus
             </Comments>
-        <TranskribusMetadata docId="900641" pageId="34382461" pageNr="17" tsid="105747826" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=DPVZFDFBPHWFHQDCVRASYHZJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FUMBEZAXKQAWEIMCYOCZSMJN" imageId="27583905"/>
+        <TranskribusMetadata docId="900641" pageId="34382461" pageNr="17" tsid="139840644" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=DPVZFDFBPHWFHQDCVRASYHZJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ULPYVZVUHWEGMIVRFUAQNXGM" imageId="27583905"/>
     </Metadata>
     <Page imageFilename="1876_174_0602.jpg" imageWidth="10344" imageHeight="7040">
         <PrintSpace>
             <Coords points="606,227 10036,158 10219,6768 625,6752"/>
         </PrintSpace>
         <ReadingOrder>
-            <OrderedGroup id="ro_1690360015080" caption="Regions reading order">
+            <OrderedGroup id="ro_1700129742654" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
                 <RegionRefIndexed index="1" regionRef="r2"/>
                 <RegionRefIndexed index="2" regionRef="r3"/>
@@ -271,7 +271,7 @@
             </TextLine>
             <TextLine id="r1l34" custom="readingOrder {index:33;}">
                 <Coords points="724,2187 1218,2167 1957,2159 1977,2159 2092,2164 2120,2193 2120,2210 2095,2201 1677,2220 1218,2232 724,2228"/>
-                <Baseline points="724,2228 1347,2216 1375,2215 1446,2214 1462,2214 1718,2209 1735,2209 1805,2208 1829,2207 1894,2206 1917,2206 1991,2205 2016,2204 2047,2204 2070,2203 2120,2202"/>
+                <Baseline points="724,2228 1347,2216 1375,2215 1446,2214 1462,2214 1718,2209 1735,2209 1805,2208 1829,2207 1894,2206 1917,2206 1991,2205 2016,2204 2046,2203 2069,2202 2120,2202"/>
                 <TextEquiv>
                     <Unicode>Ober⸗Tribunals⸗Senats für Strafſachen, vom 27. Juni d. J.,</Unicode>
                 </TextEquiv>
@@ -446,7 +446,7 @@
             </TextLine>
             <TextLine id="r1l59" custom="readingOrder {index:58;}">
                 <Coords points="743,3562 764,3550 1425,3538 1797,3532 2063,3529 2098,3529 2147,3544 2147,3561 2133,3575 2032,3579 1907,3583 1634,3589 831,3606 743,3606"/>
-                <Baseline points="743,3598 831,3596 859,3595 927,3593 953,3593 1127,3588 1165,3587 1291,3584 1318,3583 1397,3581 1425,3581 1669,3576 1702,3576 1907,3572 1948,3571 2032,3569 2063,3569 2147,3564"/>
+                <Baseline points="743,3598 831,3596 859,3595 927,3593 953,3593 1127,3588 1165,3587 1291,3584 1318,3583 1397,3581 1425,3581 1669,3576 1702,3576 1907,3572 1948,3571 2032,3569 2063,3569 2145,3562"/>
                 <TextEquiv>
                     <Unicode>nach St. Thomas zurück und beabſichtigte demnächſt nach Cu⸗</Unicode>
                 </TextEquiv>
@@ -547,7 +547,7 @@ begonnenen Schießübungen fortzuſetzen. An Bord Alles wohl.</Unicode>
             </TextLine>
             <TextLine id="r2l3" custom="readingOrder {index:2;}">
                 <Coords points="748,3838 869,3835 1908,3811 2062,3811 2122,3821 2148,3827 2148,3842 2122,3850 2062,3860 2037,3861 889,3888 869,3888 748,3880"/>
-                <Baseline points="748,3880 973,3874 1017,3873 1083,3872 1121,3871 1232,3868 1275,3867 1338,3865 1378,3865 1839,3856 1882,3855 2145,3844"/>
+                <Baseline points="748,3880 973,3874 1017,3873 1083,3872 1121,3871 1232,3868 1275,3867 1338,3865 1378,3865 1839,3856 1882,3855 2144,3843"/>
                 <TextEquiv>
                     <Unicode>Berathung des Etats der Forſt⸗Lehranſtalt Aſchaffen⸗</Unicode>
                 </TextEquiv>
@@ -935,7 +935,7 @@ Korrektionen der Seitengewäſſer zu ſuchen ſeien.</Unicode>
             </TextLine>
             <TextLine id="r5l6" custom="readingOrder {index:5;}">
                 <Coords points="791,6418 907,6415 959,6413 1143,6409 1800,6397 2090,6392 2178,6392 2204,6401 2204,6431 2178,6443 1472,6456 1005,6463 959,6463 794,6463"/>
-                <Baseline points="797,6459 880,6455 907,6454 1114,6451 1143,6450 1357,6447 1383,6447 1422,6446 1449,6446 1553,6445 1572,6445 1699,6442 1726,6442 1765,6441 1779,6441 1903,6438 1924,6438 1975,6437 1993,6437 2052,6435 2069,6435 2201,6433"/>
+                <Baseline points="797,6459 880,6455 907,6454 1114,6451 1143,6450 1357,6447 1383,6447 1422,6446 1449,6446 1553,6445 1572,6445 1699,6442 1726,6442 1765,6441 1779,6441 1903,6438 1924,6438 1975,6437 1993,6437 2052,6435 2069,6435 2200,6432"/>
                 <TextEquiv>
                     <Unicode>Der Erzherzog Albrecht iſt heute Abend in Bruck an der Leitha</Unicode>
                 </TextEquiv>
@@ -963,7 +963,7 @@ Korrektionen der Seitengewäſſer zu ſuchen ſeien.</Unicode>
             </TextLine>
             <TextLine id="r5l10" custom="readingOrder {index:9;}">
                 <Coords points="804,6621 1244,6612 2001,6601 2076,6600 2116,6600 2186,6607 2209,6614 2209,6630 2186,6638 2116,6650 1980,6657 1186,6669 900,6673 824,6673 804,6669"/>
-                <Baseline points="804,6664 918,6661 947,6660 1048,6659 1074,6658 1186,6656 1219,6655 1511,6651 1539,6651 1652,6649 1678,6648 1744,6647 1766,6647 1980,6643 2001,6643 2202,6633"/>
+                <Baseline points="804,6664 918,6661 947,6660 1048,6659 1074,6658 1186,6656 1219,6655 1511,6651 1539,6651 1652,6649 1678,6648 1744,6647 1766,6647 1980,6643 2001,6643 2201,6632"/>
                 <TextEquiv>
                     <Unicode>Folge einer neuen Vereinbarung außer den bisherigen Suſten⸗</Unicode>
                 </TextEquiv>
@@ -1456,7 +1456,7 @@ Aufenthalt nehmen.</Unicode>
             </TextLine>
             <TextLine id="r8l20" custom="readingOrder {index:19;}">
                 <Coords points="2219,3601 2332,3596 3394,3575 3449,3575 3606,3584 3626,3589 3626,3606 3606,3612 3449,3626 2402,3648 2332,3648 2219,3641"/>
-                <Baseline points="2219,3641 2256,3641 2282,3640 2595,3634 2623,3633 2776,3630 2806,3629 2942,3626 3001,3625 3116,3623 3144,3622 3224,3620 3253,3620 3341,3618 3370,3617 3528,3614 3556,3613 3625,3610"/>
+                <Baseline points="2219,3641 2256,3641 2282,3640 2595,3634 2623,3633 2776,3630 2806,3629 2942,3626 3001,3625 3116,3623 3144,3622 3224,3620 3253,3620 3341,3618 3370,3617 3528,3614 3556,3613 3623,3606"/>
                 <TextEquiv>
                     <Unicode>in Konſtantinopel Waffen kaufen. Elliot und noch mehrere an⸗</Unicode>
                 </TextEquiv>
@@ -1820,7 +1820,7 @@ Aufenthalt nehmen.</Unicode>
             </TextLine>
             <TextLine id="r8l72" custom="readingOrder {index:71;}">
                 <Coords points="2262,6050 2285,6036 3597,6018 3664,6018 3664,6056 3616,6064 3507,6068 2373,6092 2287,6100 2264,6096"/>
-                <Baseline points="2262,6088 2449,6082 2473,6082 2628,6079 2652,6078 2726,6078 2752,6078 2914,6076 2938,6076 3073,6072 3098,6071 3139,6070 3164,6070 3369,6069 3415,6068 3486,6067 3501,6066 3556,6065 3572,6064 3664,6046"/>
+                <Baseline points="2263,6087 2449,6082 2473,6082 2628,6079 2652,6078 2726,6078 2752,6078 2914,6076 2938,6076 3073,6072 3098,6071 3139,6070 3164,6070 3369,6069 3415,6068 3486,6067 3501,6066 3556,6065 3572,6064 3664,6046"/>
                 <TextEquiv>
                     <Unicode>Fürſten Milan eine friedliche Politik zu empfehlen. Am 10. Juni</Unicode>
                 </TextEquiv>
@@ -2112,7 +2112,7 @@ Graf Beuſt habe ihm Graf Andraſſys Anſicht mitgetheilt, daß er</Unicode>
             </TextLine>
             <TextLine id="r9l17" custom="readingOrder {index:16;}">
                 <Coords points="3654,1177 3700,1173 3824,1169 5047,1147 5063,1147 5062,1194 4473,1205 3715,1219 3700,1219 3654,1212"/>
-                <Baseline points="3654,1203 3760,1210 3824,1209 4008,1205 4070,1204 4199,1201 4267,1200 4331,1199 4394,1198 4460,1197 4518,1196 4588,1195 4646,1194 4776,1192 4841,1191 4899,1191 4948,1189 5047,1188 5059,1187 5063,1187"/>
+                <Baseline points="3654,1203 3760,1210 3824,1209 4008,1205 4070,1204 4199,1201 4267,1200 4331,1199 4394,1198 4460,1197 4518,1196 4588,1195 4646,1194 4776,1192 4841,1191 4899,1191 4948,1189 5047,1188 5059,1187"/>
                 <TextEquiv>
                     <Unicode>dafür betrachtet wurde, daß wir eine Löſung der orien⸗</Unicode>
                 </TextEquiv>
@@ -2168,7 +2168,7 @@ Graf Beuſt habe ihm Graf Andraſſys Anſicht mitgetheilt, daß er</Unicode>
             </TextLine>
             <TextLine id="r9l25" custom="readingOrder {index:24;}">
                 <Coords points="3660,1543 3677,1542 3785,1539 4101,1532 5052,1514 5069,1514 5071,1563 3727,1578 3702,1587 3660,1584"/>
-                <Baseline points="3660,1580 3761,1578 3785,1578 3895,1576 3921,1575 4041,1573 4101,1572 4265,1569 4292,1568 4502,1564 4532,1563 4594,1562 4619,1563 4818,1559 4841,1558 4898,1557 4925,1557 5052,1555 5066,1555 5069,1555"/>
+                <Baseline points="3660,1580 3760,1577 3784,1577 3895,1576 3921,1575 4041,1573 4101,1572 4265,1569 4292,1568 4502,1564 4532,1563 4594,1562 4619,1563 4818,1559 4841,1558 4898,1557 4925,1557 5052,1555 5066,1555 5069,1555"/>
                 <TextEquiv>
                     <Unicode>führt haben mögen Deutlich geſprochen: das Benehmen der Baſchi⸗</Unicode>
                 </TextEquiv>
@@ -2355,7 +2355,7 @@ werden müſſe, zu verdanken.....“</Unicode>
             </TextLine>
             <TextLine id="r10l11" custom="readingOrder {index:10;}">
                 <Coords points="3671,2595 4946,2571 4994,2571 5088,2579 5088,2609 5044,2620 4982,2622 4593,2628 4585,2628 3673,2645"/>
-                <Baseline points="3672,2638 4593,2620 4613,2619 4783,2615 4802,2615 4862,2613 4881,2613 5088,2608"/>
+                <Baseline points="3672,2637 4593,2620 4613,2619 4783,2615 4802,2615 4862,2613 4881,2613 5088,2608"/>
                 <TextEquiv>
                     <Unicode>Miniſterium in der Deputirtenkammer 350, Summe der Anhänger</Unicode>
                 </TextEquiv>
@@ -2432,7 +2432,7 @@ werden müſſe, zu verdanken.....“</Unicode>
             </TextLine>
             <TextLine id="r10l22" custom="readingOrder {index:21;}">
                 <Coords points="3687,3172 3739,3168 3755,3167 3865,3161 4832,3137 4864,3137 5070,3141 5098,3157 5098,3173 5070,3180 5013,3192 4982,3194 4864,3199 3991,3213 3865,3213 3687,3209"/>
-                <Baseline points="3687,3209 3778,3206 3807,3206 4031,3202 4077,3201 4135,3199 4168,3199 4232,3197 4269,3197 4533,3191 4567,3191 4656,3189 4692,3188 4766,3187 4795,3186 5092,3175"/>
+                <Baseline points="3687,3209 3778,3206 3807,3206 4031,3202 4077,3201 4135,3199 4168,3199 4232,3197 4269,3197 4533,3191 4567,3191 4656,3189 4692,3188 4766,3187 4795,3186 5091,3174"/>
                 <TextEquiv>
                     <Unicode>bald bevorſtehe: bei der Abſtimmung über das Munizipal⸗</Unicode>
                 </TextEquiv>
@@ -2684,14 +2684,14 @@ werden müſſe, zu verdanken.....“</Unicode>
             </TextLine>
             <TextLine id="r10l58" custom="readingOrder {index:57;}">
                 <Coords points="3717,5101 3721,5089 3781,5086 3870,5086 3932,5095 3932,5123 3801,5131 3724,5145"/>
-                <Baseline points="3719,5129 3932,5122"/>
+                <Baseline points="3721,5128 3932,5122"/>
                 <TextEquiv>
                     <Unicode>folgender:</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r10l59" custom="readingOrder {index:58;}">
                 <Coords points="3828,5134 4129,5125 5076,5102 5125,5117 5125,5145 5071,5158 3829,5171 3821,5182 3807,5171"/>
-                <Baseline points="3816,5173 3863,5173 3892,5172 3908,5171 3937,5170 3996,5168 4020,5167 4074,5166 4099,5166 4194,5165 4222,5164 4254,5165 4279,5164 4321,5163 4346,5162 4400,5160 4443,5159 4479,5158 4520,5157 4604,5155 4624,5152 4798,5149 4823,5149 5020,5145 5036,5145 5125,5143"/>
+                <Baseline points="3816,5173 3862,5170 3891,5170 3907,5170 3936,5169 3996,5168 4020,5167 4074,5166 4099,5166 4194,5165 4222,5164 4254,5165 4279,5164 4321,5163 4346,5162 4400,5160 4443,5159 4479,5158 4520,5157 4604,5155 4624,5152 4798,5149 4823,5149 5020,5145 5036,5145 5125,5143"/>
                 <TextEquiv>
                     <Unicode>„Als am 29. Juni d. J. die in fünf Gruppen getheilten Kan⸗</Unicode>
                 </TextEquiv>
@@ -2712,7 +2712,7 @@ werden müſſe, zu verdanken.....“</Unicode>
             </TextLine>
             <TextLine id="r10l62" custom="readingOrder {index:61;}">
                 <Coords points="3723,5280 3781,5274 5080,5241 5101,5241 5130,5246 5130,5283 5099,5294 4040,5306 3723,5314"/>
-                <Baseline points="3723,5314 3754,5313 3781,5313 3908,5310 3936,5309 4138,5305 4163,5304 4233,5304 4260,5303 4432,5298 4472,5297 4543,5295 4578,5294 4677,5291 4711,5289 4767,5287 4781,5287 4948,5285 4983,5285 5130,5283"/>
+                <Baseline points="3723,5314 3754,5313 3780,5312 3907,5309 3935,5308 4137,5304 4163,5304 4232,5303 4260,5303 4432,5298 4472,5297 4543,5295 4578,5294 4677,5291 4711,5289 4767,5287 4781,5287 4948,5285 4983,5285 5130,5283"/>
                 <TextEquiv>
                     <Unicode>le Grand angehörten und erklärten, daß ihnen die Aufgabe bekannt</Unicode>
                 </TextEquiv>
@@ -2761,7 +2761,7 @@ werden müſſe, zu verdanken.....“</Unicode>
             </TextLine>
             <TextLine id="r10l69" custom="readingOrder {index:68;}">
                 <Coords points="3724,5599 4855,5567 5104,5563 5142,5563 5143,5610 5104,5616 3727,5634"/>
-                <Baseline points="3727,5637 4564,5615 4628,5612 4672,5612 4737,5611 4794,5610 4855,5609 5104,5604 5141,5603 5142,5603"/>
+                <Baseline points="3727,5634 4564,5615 4628,5612 4672,5612 4737,5611 4794,5610 4855,5609 5104,5604 5141,5603 5142,5603"/>
                 <TextEquiv>
                     <Unicode>Profeſſor der graphiſchen Studien an der polytechniſchen</Unicode>
                 </TextEquiv>
@@ -3709,7 +3709,7 @@ lieber mit dem Sultan als mit dem Czar unterhandeln....“</Unicode>
             </TextLine>
             <TextLine id="r13l16" custom="readingOrder {index:15;}">
                 <Coords points="5539,4788 5572,4785 5673,4781 6625,4761 6927,4756 6946,4756 6944,4801 5603,4828 5572,4828 5539,4822"/>
-                <Baseline points="5539,4822 5647,4821 5673,4821 5947,4813 5972,4813 6025,4813 6091,4812 6164,4811 6189,4811 6426,4806 6465,4804 6538,4803 6565,4802 6759,4797 6796,4796 6927,4794 6944,4793 6946,4793"/>
+                <Baseline points="5539,4822 5647,4821 5673,4821 5947,4813 5972,4813 6025,4813 6091,4812 6164,4811 6189,4811 6426,4806 6465,4804 6538,4803 6565,4802 6759,4797 6796,4796 6927,4794 6944,4793"/>
                 <TextEquiv>
                     <Unicode>lichen Schilderungen ob. Ein Beweggrund war gleichwohl vorhan⸗</Unicode>
                 </TextEquiv>
@@ -3779,7 +3779,7 @@ lieber mit dem Sultan als mit dem Czar unterhandeln....“</Unicode>
             </TextLine>
             <TextLine id="r13l26" custom="readingOrder {index:25;}">
                 <Coords points="5543,5257 5549,5254 5606,5247 5622,5246 5708,5243 6193,5231 6385,5227 6877,5217 6924,5217 6956,5227 6956,5254 6924,5257 6423,5267 6074,5277 5652,5289 5622,5289 5549,5285 5543,5260"/>
-                <Baseline points="5552,5283 5671,5282 5708,5281 5923,5276 5966,5275 6102,5271 6145,5270 6222,5268 6261,5268 6348,5266 6385,5265 6522,5262 6565,5262 6808,5258 6877,5258 6956,5253"/>
+                <Baseline points="5552,5283 5671,5282 5708,5281 5923,5276 5966,5275 6102,5271 6145,5270 6222,5268 6261,5268 6348,5266 6385,5265 6522,5262 6565,5262 6808,5258 6876,5257 6956,5253"/>
                 <TextEquiv>
                     <Unicode>welche hingerichtet worden ſind, ohne Verzug unterbreiten. Der</Unicode>
                 </TextEquiv>
@@ -3814,7 +3814,7 @@ lieber mit dem Sultan als mit dem Czar unterhandeln....“</Unicode>
             </TextLine>
             <TextLine id="r13l31" custom="readingOrder {index:30;}">
                 <Coords points="5554,5485 5615,5475 5942,5465 6396,5455 6827,5449 6921,5449 6961,5459 6961,5484 6561,5500 6150,5507 5554,5513"/>
-                <Baseline points="5554,5513 5680,5512 5721,5511 5788,5510 5830,5509 5898,5508 5942,5507 6151,5501 6191,5500 6357,5494 6396,5493 6548,5491 6591,5490 6635,5489 6679,5488 6859,5484 6903,5483 6961,5482"/>
+                <Baseline points="5554,5513 5679,5511 5721,5511 5788,5510 5830,5509 5898,5508 5942,5507 6151,5501 6191,5500 6357,5494 6396,5493 6548,5491 6591,5490 6635,5489 6679,5488 6859,5484 6903,5483 6961,5482"/>
                 <TextEquiv>
                     <Unicode>verübt und eine bulgariſche Bäuerin getödtet, ſie alſogleich den</Unicode>
                 </TextEquiv>
@@ -3835,7 +3835,7 @@ lieber mit dem Sultan als mit dem Czar unterhandeln....“</Unicode>
             </TextLine>
             <TextLine id="r13l34" custom="readingOrder {index:33;}">
                 <Coords points="5559,5614 6388,5593 6939,5585 6964,5585 6964,5622 6848,5631 6457,5637 5679,5648 5559,5658"/>
-                <Baseline points="5559,5653 5743,5649 5767,5649 5858,5646 5885,5646 6092,5641 6118,5640 6188,5639 6215,5638 6364,5633 6388,5633 6516,5630 6554,5629 6624,5628 6652,5627 6784,5624 6812,5624 6872,5623 6901,5622 6964,5621"/>
+                <Baseline points="5559,5653 5742,5647 5766,5646 5857,5645 5884,5645 6092,5641 6118,5640 6188,5639 6215,5638 6364,5633 6388,5633 6516,5630 6554,5629 6624,5628 6652,5627 6784,5624 6812,5624 6872,5623 6901,5622 6964,5621"/>
                 <TextEquiv>
                     <Unicode>Miniſter, einen energiſchen und ſtrengen Mann, und ſtattete ihn mit</Unicode>
                 </TextEquiv>
@@ -3884,14 +3884,14 @@ lieber mit dem Sultan als mit dem Czar unterhandeln....“</Unicode>
             </TextLine>
             <TextLine id="r13l41" custom="readingOrder {index:40;}">
                 <Coords points="5571,5930 6741,5907 6880,5907 6972,5916 6972,5941 6925,5958 6764,5958 5822,5972 5676,5972 5571,5964"/>
-                <Baseline points="5574,5965 5627,5973 5652,5972 5862,5969 5886,5969 5959,5969 5984,5968 6118,5964 6143,5964 6213,5963 6238,5962 6272,5961 6300,5960 6359,5958 6383,5958 6619,5950 6647,5949 6698,5948 6723,5947 6880,5943 6905,5942 6972,5940"/>
+                <Baseline points="5574,5964 5627,5968 5652,5970 5862,5969 5886,5969 5959,5969 5984,5968 6118,5964 6143,5964 6213,5963 6238,5962 6272,5961 6300,5960 6359,5958 6383,5958 6619,5950 6647,5949 6698,5948 6723,5947 6880,5943 6905,5942 6972,5940"/>
                 <TextEquiv>
                     <Unicode>die Schuldigen ſein mögen, und ſo der Bevölkerung ein Beiſpiel von</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r13l42" custom="readingOrder {index:41;}">
                 <Coords points="5571,5973 6872,5951 6886,5951 6957,5952 6974,5967 6974,5980 6973,5994 6827,5999 6358,6012 5995,6022 5776,6022 5638,6019 5571,6010"/>
-                <Baseline points="5578,6009 5630,6021 5656,6021 5783,6018 5819,6018 5857,6017 5882,6016 5995,6014 6033,6013 6154,6010 6181,6010 6243,6008 6270,6007 6478,6001 6505,6000 6674,5995 6709,5993 6760,5992 6785,5993 6844,5993 6872,5991 6973,5990"/>
+                <Baseline points="5578,6009 5630,6017 5656,6019 5783,6018 5819,6018 5857,6017 5882,6016 5995,6014 6033,6013 6154,6010 6181,6010 6243,6008 6270,6007 6478,6001 6505,6000 6674,5995 6709,5993 6760,5992 6785,5993 6844,5993 6872,5991 6973,5990"/>
                 <TextEquiv>
                     <Unicode>der Strafe zu geben, welche alle Diejenigen erwartet, die ſich fried⸗</Unicode>
                 </TextEquiv>
@@ -4235,7 +4235,7 @@ Zuſammenſtoß bevor. — Durch die amtliche Meldung wird</Unicode>
             </TextLine>
             <TextLine id="r14l31" custom="readingOrder {index:30;}">
                 <Coords points="6948,1872 6972,1866 7936,1842 8208,1842 8349,1844 8349,1873 8208,1890 7181,1918 6948,1921"/>
-                <Baseline points="6947,1912 7180,1905 7219,1904 7369,1900 7413,1898 7491,1896 7528,1895 7594,1893 7620,1892 7772,1888 7812,1887 7906,1886 7935,1885 8267,1876 8295,1875 8348,1874"/>
+                <Baseline points="6948,1912 7180,1905 7219,1904 7369,1900 7413,1898 7491,1896 7528,1895 7594,1893 7620,1892 7772,1888 7812,1887 7906,1886 7935,1885 8267,1876 8295,1875 8347,1873"/>
                 <TextEquiv>
                     <Unicode>Podgorizza werden von den Türken neue Verſchanzungen er⸗</Unicode>
                 </TextEquiv>
@@ -4466,7 +4466,7 @@ Zuſammenſtoß bevor. — Durch die amtliche Meldung wird</Unicode>
             </TextLine>
             <TextLine id="r14l64" custom="readingOrder {index:63;}">
                 <Coords points="6985,3415 7730,3392 8316,3382 8355,3382 8391,3383 8391,3418 8355,3422 8208,3421 7664,3446 7621,3442 6985,3452"/>
-                <Baseline points="6985,3452 7132,3448 7169,3447 7233,3446 7259,3445 7312,3444 7336,3443 7441,3440 7456,3440 7536,3437 7556,3437 7704,3435 7730,3435 7971,3428 7996,3428 8063,3426 8090,3427 8274,3422 8316,3422 8391,3417"/>
+                <Baseline points="6985,3452 7132,3448 7169,3447 7233,3446 7259,3445 7312,3444 7336,3443 7441,3440 7456,3440 7536,3437 7556,3437 7704,3435 7730,3435 7971,3428 7996,3428 8063,3426 8089,3426 8274,3421 8316,3421 8391,3417"/>
                 <TextEquiv>
                     <Unicode>Utovo und die vierte ſteht zwiſchen Neveſinje und Gaczko. Die</Unicode>
                 </TextEquiv>
@@ -4655,7 +4655,7 @@ Zuſammenſtoß bevor. — Durch die amtliche Meldung wird</Unicode>
             </TextLine>
             <TextLine id="r14l91" custom="readingOrder {index:90;}">
                 <Coords points="7013,4685 7054,4673 7605,4649 8301,4645 8420,4645 8420,4679 7912,4703 7248,4706 7122,4717 7013,4712"/>
-                <Baseline points="7013,4712 7096,4712 7122,4710 7250,4706 7302,4704 7378,4702 7419,4701 7556,4699 7582,4698 7941,4691 7981,4690 8133,4686 8160,4687 8275,4683 8301,4683 8420,4679"/>
+                <Baseline points="7013,4712 7096,4712 7122,4710 7249,4705 7302,4704 7378,4702 7419,4701 7556,4699 7582,4698 7941,4691 7981,4690 8133,4686 8160,4687 8275,4683 8301,4683 8420,4679"/>
                 <TextEquiv>
                     <Unicode>auch gelang. Die übrigen Inſurgentenführer wählten Simo Davi⸗</Unicode>
                 </TextEquiv>
@@ -4961,7 +4961,7 @@ von Salonichi zu einem Jahre Gefängniß verurtheilt worden.</Unicode>
             </TextLine>
             <TextLine id="r15l6" custom="readingOrder {index:5;}">
                 <Coords points="7043,5998 7066,5987 7672,5970 7891,5964 8430,5954 8453,5954 8453,5994 8343,5999 7531,6017 7269,6035 7247,6035 7043,6027"/>
-                <Baseline points="7043,6027 7219,6024 7247,6023 7430,6019 7457,6018 7531,6017 7583,6016 7652,6012 7672,6011 7844,6005 7867,6005 7989,6004 8016,6003 8125,6002 8151,6002 8343,5997 8370,5997 8453,5994"/>
+                <Baseline points="7043,6027 7219,6024 7247,6023 7430,6019 7457,6018 7531,6017 7582,6015 7652,6012 7672,6011 7844,6005 7867,6005 7989,6004 8016,6003 8125,6002 8151,6002 8343,5997 8370,5997 8453,5994"/>
                 <TextEquiv>
                     <Unicode>ritorium gedrängt hat. Die Vorlage macht unter ſerbiſchen und</Unicode>
                 </TextEquiv>
@@ -5084,7 +5084,7 @@ Sioux⸗Ind er ſtieß, wie er den Major Reno zur Umzin⸗</Unicode>
             </TextLine>
             <TextLine id="r17l5" custom="readingOrder {index:4;}">
                 <Coords points="8385,485 9461,457 9475,455 9802,459 9802,499 9574,514 9475,514 8817,537 8401,554 8377,554"/>
-                <Baseline points="8377,530 8602,525 8630,525 8817,521 8843,521 8916,519 8942,519 9018,518 9045,518 9107,516 9150,515 9253,512 9299,510 9382,508 9409,507 9802,498"/>
+                <Baseline points="8379,530 8602,525 8630,525 8817,521 8843,521 8916,519 8942,519 9018,518 9045,518 9107,516 9150,515 9253,512 9299,510 9382,508 9409,507 9802,498"/>
                 <TextEquiv>
                     <Unicode>Gefallenen beerdigen ließ und ſich dann zum Yellowſtone⸗River</Unicode>
                 </TextEquiv>
@@ -5119,7 +5119,7 @@ Sioux⸗Ind er ſtieß, wie er den Major Reno zur Umzin⸗</Unicode>
             </TextLine>
             <TextLine id="r17l10" custom="readingOrder {index:9;}">
                 <Coords points="8483,744 8513,742 8706,737 9750,711 9769,711 9795,716 9795,760 9769,768 8797,781 8546,788 8486,788"/>
-                <Baseline points="8483,783 8664,779 8706,778 8848,774 8891,773 9139,769 9176,768 9244,767 9287,766 9353,765 9392,764 9596,758 9640,756 9795,751"/>
+                <Baseline points="8485,782 8664,779 8706,778 8848,774 8891,773 9139,769 9176,768 9244,767 9287,766 9353,765 9392,764 9596,758 9640,756 9795,751"/>
                 <TextEquiv>
                     <Unicode>Während Cuſters Truppentheil nur aus Kavallerie beſtand,</Unicode>
                 </TextEquiv>
@@ -5182,7 +5182,7 @@ Sioux⸗Ind er ſtieß, wie er den Major Reno zur Umzin⸗</Unicode>
             </TextLine>
             <TextLine id="r17l19" custom="readingOrder {index:18;}">
                 <Coords points="8400,1161 8566,1155 9095,1141 9783,1129 9804,1129 9804,1166 9693,1169 8626,1197 8564,1200 8461,1201 8400,1197"/>
-                <Baseline points="8400,1188 8507,1195 8548,1194 8625,1192 8659,1191 8852,1186 8893,1184 8977,1182 9019,1181 9124,1179 9165,1178 9237,1177 9312,1175 9414,1173 9455,1172 9544,1172 9585,1171 9692,1169 9731,1168 9804,1165"/>
+                <Baseline points="8400,1188 8507,1195 8548,1194 8625,1192 8659,1191 8852,1186 8893,1184 8977,1182 9019,1181 9124,1179 9165,1178 9237,1177 9312,1175 9414,1173 9455,1172 9544,1172 9585,1171 9692,1169 9730,1167 9804,1165"/>
                 <TextEquiv>
                     <Unicode>brach, wie verabredet war, zuerſt auf. Terry blieb zurück und</Unicode>
                 </TextEquiv>
@@ -5616,14 +5616,14 @@ Sioux⸗Ind er ſtieß, wie er den Major Reno zur Umzin⸗</Unicode>
             </TextLine>
             <TextLine id="r17l81" custom="readingOrder {index:80;}">
                 <Coords points="8473,4002 9672,3970 9797,3970 9871,3979 9888,3984 9888,3997 9871,4005 9825,4013 9433,4028 8722,4043 8556,4046 8532,4046 8473,4042"/>
-                <Baseline points="8473,4040 8594,4037 8622,4037 8722,4034 8746,4033 8810,4031 8837,4031 8949,4028 8975,4027 9205,4023 9246,4022 9433,4017 9475,4016 9546,4015 9573,4014 9645,4011 9672,4011 9886,3999"/>
+                <Baseline points="8473,4040 8594,4037 8622,4037 8722,4034 8746,4033 8810,4031 8837,4031 8949,4028 8975,4027 9205,4023 9246,4022 9433,4017 9475,4016 9546,4015 9573,4014 9645,4011 9672,4011 9885,3998"/>
                 <TextEquiv>
                     <Unicode>Cuſter ſelbſt mit ſeinen ſämmtlichen Offizieren und dem Korreſpon⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r17l82" custom="readingOrder {index:81;}">
                 <Coords points="8475,4050 8733,4042 9768,4014 9849,4014 9892,4016 9892,4050 9826,4062 9525,4070 9149,4079 8859,4082 8550,4084 8475,4084"/>
-                <Baseline points="8481,4086 8589,4082 8619,4082 8710,4080 8733,4079 8968,4074 8992,4073 9149,4070 9198,4069 9290,4066 9331,4065 9386,4064 9423,4063 9550,4059 9583,4059 9741,4055 9768,4054 9892,4050"/>
+                <Baseline points="8481,4084 8589,4082 8619,4082 8710,4080 8733,4079 8968,4074 8992,4073 9149,4070 9198,4069 9290,4066 9331,4065 9386,4064 9423,4063 9550,4059 9583,4059 9741,4055 9768,4054 9892,4050"/>
                 <TextEquiv>
                     <Unicode>denten einer New⸗Yorker Zeitung. Von der ganzen Kolonne ſcheint</Unicode>
                 </TextEquiv>
@@ -5700,7 +5700,7 @@ Sioux⸗Ind er ſtieß, wie er den Major Reno zur Umzin⸗</Unicode>
             </TextLine>
             <TextLine id="r17l93" custom="readingOrder {index:92;}">
                 <Coords points="8496,4558 8515,4555 8581,4552 9600,4524 9801,4520 9889,4520 9904,4534 9904,4547 9889,4564 9730,4572 9430,4582 9130,4586 8604,4591 8515,4591 8496,4590"/>
-                <Baseline points="8500,4592 8536,4590 8563,4591 8639,4587 8666,4588 8748,4586 8770,4585 8841,4584 8870,4583 9034,4579 9061,4578 9130,4577 9155,4576 9208,4575 9233,4574 9456,4568 9482,4568 9519,4567 9544,4566 9783,4559 9801,4559 9894,4551"/>
+                <Baseline points="8500,4590 8536,4590 8563,4591 8639,4587 8666,4588 8748,4586 8770,4585 8841,4584 8870,4583 9034,4579 9061,4578 9130,4577 9155,4576 9208,4575 9233,4574 9456,4568 9482,4568 9519,4567 9544,4566 9783,4559 9801,4559 9894,4551"/>
                 <TextEquiv>
                     <Unicode>16 Kil. weit und erkannte, daß ihr Hauptcorps in ſüdweſtlicher Rich⸗</Unicode>
                 </TextEquiv>
@@ -5735,7 +5735,7 @@ Sioux⸗Ind er ſtieß, wie er den Major Reno zur Umzin⸗</Unicode>
             </TextLine>
             <TextLine id="r17l98" custom="readingOrder {index:97;}">
                 <Coords points="8591,4781 9338,4752 9749,4748 9807,4748 9834,4749 9907,4757 9907,4783 9852,4794 9518,4804 9282,4803 8551,4820"/>
-                <Baseline points="8591,4811 8749,4816 8774,4816 8935,4812 8974,4811 9048,4809 9073,4808 9128,4807 9152,4806 9230,4805 9256,4804 9576,4793 9603,4792 9723,4789 9749,4791 9907,4783"/>
+                <Baseline points="8591,4811 8748,4815 8773,4814 8934,4811 8973,4810 9047,4808 9072,4807 9127,4806 9152,4806 9229,4804 9255,4803 9576,4793 9603,4792 9723,4789 9749,4791 9907,4783"/>
                 <TextEquiv>
                     <Unicode>General Cuſter war ein noch verhältnißmäßig junger Offizier</Unicode>
                 </TextEquiv>
@@ -5798,7 +5798,7 @@ Sioux⸗Ind er ſtieß, wie er den Major Reno zur Umzin⸗</Unicode>
             </TextLine>
             <TextLine id="r17l107" custom="readingOrder {index:106;}">
                 <Coords points="8600,5195 9845,5157 9868,5157 9915,5172 9915,5206 9728,5212 9667,5215 8696,5227 8600,5235"/>
-                <Baseline points="8600,5234 8675,5231 8701,5231 8853,5226 8879,5225 8918,5224 8942,5224 9074,5221 9100,5221 9184,5219 9199,5218 9356,5214 9378,5213 9549,5208 9575,5208 9616,5206 9644,5206 9749,5204 9777,5203 9915,5197"/>
+                <Baseline points="8600,5234 8674,5228 8700,5226 8852,5225 8878,5224 8918,5224 8941,5223 9074,5221 9100,5221 9184,5219 9199,5218 9356,5214 9378,5213 9549,5208 9575,5208 9616,5206 9644,5206 9749,5204 9777,5203 9915,5197"/>
                 <TextEquiv>
                     <Unicode>Die Gegend, in welcher dieſe Kämpfe vorfielen, iſt felſig, unweg⸗</Unicode>
                 </TextEquiv>
@@ -5847,7 +5847,7 @@ Sioux⸗Ind er ſtieß, wie er den Major Reno zur Umzin⸗</Unicode>
             </TextLine>
             <TextLine id="r17l114" custom="readingOrder {index:113;}">
                 <Coords points="8511,5519 8804,5510 9861,5482 9880,5482 9920,5488 9920,5515 9678,5537 8539,5560 8511,5564"/>
-                <Baseline points="8511,5557 8597,5555 8630,5554 8779,5551 8804,5550 8945,5546 8971,5546 9082,5543 9110,5542 9241,5538 9267,5538 9322,5536 9370,5536 9522,5531 9541,5530 9722,5526 9748,5526 9810,5524 9834,5523 9920,5508"/>
+                <Baseline points="8511,5557 8597,5555 8630,5554 8779,5551 8804,5550 8945,5546 8971,5546 9082,5543 9110,5542 9241,5538 9267,5538 9322,5536 9370,5536 9522,5531 9541,5530 9722,5526 9748,5526 9810,5524 9833,5522 9920,5508"/>
                 <TextEquiv>
                     <Unicode>Fort Lincoln, welches öſtlich gelegen iſt. General Sherman hat über</Unicode>
                 </TextEquiv>
@@ -5882,14 +5882,14 @@ Sioux⸗Ind er ſtieß, wie er den Major Reno zur Umzin⸗</Unicode>
             </TextLine>
             <TextLine id="r17l119" custom="readingOrder {index:118;}">
                 <Coords points="8519,5758 8560,5747 9610,5715 9902,5709 9922,5709 9922,5744 9801,5758 8654,5790 8520,5793"/>
-                <Baseline points="8519,5787 8657,5784 8683,5783 8763,5781 8788,5780 8871,5778 8897,5777 8959,5775 8982,5774 9071,5772 9096,5772 9189,5769 9214,5768 9349,5764 9385,5763 9433,5761 9471,5760 9569,5757 9610,5755 9825,5749 9852,5749 9922,5735"/>
+                <Baseline points="8519,5786 8657,5784 8683,5783 8763,5781 8788,5780 8871,5778 8897,5777 8959,5775 8982,5774 9071,5772 9096,5772 9189,5769 9214,5768 9349,5764 9385,5763 9433,5761 9471,5760 9569,5757 9610,5755 9825,5749 9852,5749 9922,5735"/>
                 <TextEquiv>
                     <Unicode>gerückt, ſtieß aber auf etwa 4000 Sioux, die durch Cheyennes⸗ und</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r17l120" custom="readingOrder {index:119;}">
                 <Coords points="8519,5794 8665,5791 8812,5783 9497,5757 9820,5753 9884,5753 9928,5765 9923,5796 9516,5813 8895,5841 8812,5841 8615,5837 8513,5837"/>
-                <Baseline points="8520,5831 8941,5822 8964,5821 9126,5817 9149,5816 9278,5811 9329,5809 9394,5807 9440,5805 9619,5799 9651,5798 9756,5795 9798,5793 9928,5790"/>
+                <Baseline points="8520,5831 8941,5822 8964,5821 9126,5817 9149,5816 9278,5811 9329,5809 9394,5807 9440,5805 9619,5799 9651,5798 9756,5795 9798,5793 9924,5789"/>
                 <TextEquiv>
                     <Unicode>Arrapahoes⸗Indianer verſtärkt waren, und beſchloß, dieſer Ueber⸗</Unicode>
                 </TextEquiv>
@@ -5959,7 +5959,7 @@ Sioux⸗Ind er ſtieß, wie er den Major Reno zur Umzin⸗</Unicode>
             </TextLine>
             <TextLine id="r17l130" custom="readingOrder {index:129;}">
                 <Coords points="8626,6276 8949,6265 9843,6244 9917,6244 9949,6254 9949,6284 9892,6297 9638,6305 8815,6323 8633,6324"/>
-                <Baseline points="8632,6319 8815,6313 8845,6312 8886,6310 8906,6309 9062,6304 9087,6303 9388,6300 9405,6299 9638,6294 9664,6293 9740,6291 9769,6290 9949,6283"/>
+                <Baseline points="8632,6318 8815,6313 8845,6312 8886,6310 8906,6309 9062,6304 9087,6303 9388,6300 9405,6299 9638,6294 9664,6293 9740,6291 9769,6290 9949,6283"/>
                 <TextEquiv>
                     <Unicode>— Nach in London eingegangenen Nachrichten aus Mexiko</Unicode>
                 </TextEquiv>

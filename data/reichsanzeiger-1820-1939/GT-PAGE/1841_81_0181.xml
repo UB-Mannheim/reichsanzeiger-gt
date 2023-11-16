@@ -5,20 +5,20 @@
 prov=READ-COOP:name=PyLaia@Transkribus:version=0.7.1:model_id=40804:date=04_07_2022_15:33
 Transkribus</Creator>
         <Created>2021-12-14T11:24:30.698+01:00</Created>
-        <LastChange>2023-07-26T12:28:01.803+02:00</LastChange>
+        <LastChange>2023-11-16T11:26:57.400+01:00</LastChange>
         <Comments>
                 Measurement unit: pixel
                 PrimaryLanguage: 
                 Producer: Transkribus
             </Comments>
-        <TranskribusMetadata docId="1256539" pageId="50892349" pageNr="1" tsid="130936403" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=GCJTOFIFAMACHZWVTTUDQRHM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WSCWTPFDIYPUTRPVLPJAHUHE" imageId="27320781"/>
+        <TranskribusMetadata docId="1256539" pageId="50892349" pageNr="1" tsid="139882919" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=GCJTOFIFAMACHZWVTTUDQRHM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZABBBHRMEAVRGJBXDNPGZTIK" imageId="27320781"/>
     </Metadata>
     <Page imageFilename="1841_81_0181.jpg" imageWidth="9688" imageHeight="6568">
         <PrintSpace>
             <Coords points="447,299 9504,201 9504,6265 447,6363"/>
         </PrintSpace>
         <ReadingOrder>
-            <OrderedGroup id="ro_1690386034538" caption="Regions reading order">
+            <OrderedGroup id="ro_1700130959177" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
                 <RegionRefIndexed index="1" regionRef="r2"/>
                 <RegionRefIndexed index="2" regionRef="r3"/>
@@ -85,7 +85,7 @@ Transkribus</Creator>
             </TextLine>
             <TextLine id="r2l4" custom="readingOrder {index:3;}">
                 <Coords points="515,689 537,678 1289,643 1688,627 1728,627 1833,635 1833,662 1806,674 1372,676 606,731 537,731 515,727"/>
-                <Baseline points="515,722 767,709 789,707 864,703 916,700 938,699 963,697 1052,692 1077,691 1242,684 1289,682 1353,679 1379,678 1463,675 1496,673 1569,670 1594,669 1766,661 1792,659 1833,657"/>
+                <Baseline points="515,722 767,709 789,707 864,703 916,700 938,699 963,697 1052,692 1077,691 1242,684 1288,681 1352,677 1378,675 1463,675 1496,673 1569,670 1594,669 1766,661 1792,659 1833,657"/>
                 <TextEquiv>
                     <Unicode>Separat⸗Akte vom 15 Juli ableiten. Da man dies vergeſſen zu</Unicode>
                 </TextEquiv>
@@ -659,7 +659,7 @@ Transkribus</Creator>
             </TextLine>
             <TextLine id="r2l86" custom="readingOrder {index:85;}">
                 <Coords points="532,4281 1548,4241 1828,4240 1855,4240 1885,4247 1885,4272 694,4320 536,4326"/>
-                <Baseline points="532,4314 648,4312 674,4312 893,4304 920,4303 955,4302 981,4301 1162,4295 1187,4294 1235,4293 1260,4292 1424,4286 1450,4285 1504,4283 1527,4283 1757,4275 1782,4274 1885,4270"/>
+                <Baseline points="534,4313 648,4312 674,4312 893,4304 920,4303 955,4302 981,4301 1162,4295 1187,4294 1235,4293 1260,4292 1424,4286 1450,4285 1504,4283 1527,4283 1757,4275 1782,4274 1885,4270"/>
                 <TextEquiv>
                     <Unicode>riſchen Eigenthums es wünſchte, die Vortheile der Reciprocität anbie⸗</Unicode>
                 </TextEquiv>
@@ -2367,9 +2367,9 @@ falls er ſeinen Vater uͤberlebe, als Nachfolger beſtaͤtigt werden,</Unicode>
                     <Unicode>Suez nach Oſtindien; ſein Flaggenſchiff, der „Cornwallis“, von</Unicode>
                 </TextEquiv>
             </TextLine>
-            <TextLine id="r7l49" custom="readingOrder {index:48;}">
-                <Coords points="3337,2725 4087,2706 4345,2705 4397,2705 4590,2718 4590,2728 4244,2754 3833,2763 3659,2765 3423,2765 3337,2763"/>
-                <Baseline points="3337,2763 3394,2763 3423,2764 3615,2759 3644,2758 3702,2756 3732,2755 3767,2755 3795,2754 4001,2747 4030,2747 4244,2740 4271,2739 4420,2734 4570,2728 4590,2727"/>
+            <TextLine id="line_1700078570847_2" custom="readingOrder {index:48;}">
+                <Coords points="3337,2725 4087,2706 4345,2705 4397,2705 4445,2708 4445,2738 4244,2754 3833,2763 3659,2765 3423,2765 3337,2763"/>
+                <Baseline points="3337,2763 3394,2763 3423,2764 3615,2759 3644,2758 3702,2756 3732,2755 3767,2755 3795,2754 4001,2747 4030,2747 4244,2740 4271,2739 4420,2734 4445,2733"/>
                 <TextEquiv>
                     <Unicode>72 Kanonen, ſoll in Plymouth ausgeruͤſtet werden.</Unicode>
                 </TextEquiv>
@@ -2523,7 +2523,7 @@ falls er ſeinen Vater uͤberlebe, als Nachfolger beſtaͤtigt werden,</Unicode>
             </TextLine>
             <TextLine id="r7l71" custom="readingOrder {index:70;}">
                 <Coords points="3482,3762 4690,3737 4738,3746 4738,3773 4387,3799 3685,3812 3497,3812 3473,3811 3441,3806"/>
-                <Baseline points="3438,3763 3473,3792 3813,3799 3842,3798 3902,3796 3933,3795 4162,3788 4191,3787 4535,3777 4563,3776 4738,3771"/>
+                <Baseline points="3461,3784 3473,3792 3813,3799 3842,3798 3902,3796 3933,3795 4162,3788 4191,3787 4535,3777 4563,3776 4738,3771"/>
                 <TextEquiv>
                     <Unicode>Die Reſignation des Spaniſchen Finanz⸗Miniſters Gamboa</Unicode>
                 </TextEquiv>
@@ -2912,7 +2912,7 @@ Erſparniß eintreten.</Unicode>
             </TextLine>
             <TextLine id="r11l6" custom="readingOrder {index:5;}">
                 <Coords points="3429,5692 3828,5663 4263,5650 4316,5658 4316,5683 4201,5702 3451,5734 3429,5734"/>
-                <Baseline points="3429,5724 3529,5718 3556,5716 3646,5711 3676,5710 3713,5708 3717,5705 3739,5705 3766,5704 3800,5702 3828,5701 3931,5698 3962,5696 3993,5695 4022,5695 4065,5693 4093,5693 4295,5687"/>
+                <Baseline points="3429,5724 3529,5718 3556,5716 3646,5711 3676,5710 3713,5708 3717,5705 3739,5705 3766,5704 3800,5702 3828,5701 3931,5698 3962,5696 3993,5695 4022,5695 4065,5693 4093,5693 4294,5686"/>
                 <TextEquiv>
                     <Unicode>hung wird den 6. Juni d. J. ſtattfinden.</Unicode>
                 </TextEquiv>
@@ -3323,7 +3323,7 @@ daß hieruͤber von der Tagſatzung nicht einzuſchreiten ſey.</Unicode>
             </TextLine>
             <TextLine id="r18l6" custom="readingOrder {index:5;}">
                 <Coords points="5143,2270 5199,2265 5551,2256 6347,2245 6475,2245 6496,2255 6496,2280 6475,2288 5327,2306 5153,2308"/>
-                <Baseline points="5143,2301 5282,2299 5311,2298 5379,2297 5405,2297 5523,2295 5551,2294 5692,2291 5720,2291 5854,2288 5927,2287 5980,2287 6008,2287 6045,2286 6074,2286 6222,2284 6253,2283 6317,2283 6347,2282 6496,2279"/>
+                <Baseline points="5150,2298 5282,2299 5311,2298 5379,2297 5405,2297 5523,2295 5551,2294 5692,2291 5720,2291 5854,2288 5927,2287 5980,2287 6008,2287 6045,2286 6074,2286 6222,2284 6253,2283 6317,2283 6347,2282 6496,2279"/>
                 <TextEquiv>
                     <Unicode>geſtern aus Rache erſchoß, fuͤſilirt. Es iſt traurig, daß aͤhnliche</Unicode>
                 </TextEquiv>
@@ -3903,7 +3903,7 @@ drider Kapitaliſten ausgehendes Anerbieten handeln, der Regierung
             </TextLine>
             <TextLine id="r22l14" custom="readingOrder {index:13;}">
                 <Coords points="5216,5697 5450,5691 5473,5691 6517,5695 6562,5704 6562,5730 6517,5739 5340,5732 5214,5740"/>
-                <Baseline points="5222,5729 5310,5728 5380,5725 5533,5731 5563,5734 5729,5732 5746,5733 5844,5737 5865,5741 5921,5741 5937,5741 6064,5740 6090,5740 6125,5740 6151,5739 6296,5734 6323,5735 6562,5730"/>
+                <Baseline points="5222,5729 5310,5728 5380,5725 5533,5731 5563,5733 5729,5732 5746,5733 5844,5734 5865,5735 5921,5735 5937,5735 6064,5736 6090,5736 6125,5736 6151,5736 6296,5734 6323,5735 6562,5730"/>
                 <TextEquiv>
                     <Unicode>land entwichen, darunter ſogar ein Oberſt in Koͤnigl. Griechiſchen</Unicode>
                 </TextEquiv>
@@ -3931,7 +3931,7 @@ drider Kapitaliſten ausgehendes Anerbieten handeln, der Regierung
             </TextLine>
             <TextLine id="r22l18" custom="readingOrder {index:17;}">
                 <Coords points="5221,5885 5436,5879 5753,5875 5970,5875 6549,5888 6563,5899 6563,5919 6549,5923 5976,5940 5705,5926 5221,5926"/>
-                <Baseline points="5221,5915 5313,5917 5339,5918 5523,5938 5548,5938 5611,5937 5637,5936 5816,5934 5833,5934 5976,5932 5993,5931 6150,5930 6175,5929 6225,5928 6304,5927 6380,5926 6445,5924 6563,5914"/>
+                <Baseline points="5221,5915 5313,5917 5339,5918 5523,5926 5548,5926 5611,5926 5637,5926 5816,5931 5833,5932 5976,5932 5993,5931 6150,5930 6175,5929 6225,5928 6304,5927 6380,5926 6445,5924 6563,5914"/>
                 <TextEquiv>
                     <Unicode>chem jedenfalls der Zeitpunkt ſchlecht gewaͤhlt iſt. Die Kandio⸗</Unicode>
                 </TextEquiv>
@@ -5203,21 +5203,21 @@ Verwaltungs⸗Koſten zum Belaufe von 403,002 P., einen Rein⸗Ertrag von
             </TextLine>
             <TextLine id="r26l22" custom="readingOrder {index:21;}">
                 <Coords points="7969,1254 9280,1214 9298,1214 9316,1218 9316,1245 9229,1258 7994,1296 7969,1296"/>
-                <Baseline points="7969,1282 8127,1280 8158,1281 8298,1279 8330,1279 8395,1278 8426,1278 8556,1275 8588,1274 8628,1273 8660,1272 8721,1269 8745,1269 8899,1263 8923,1262 9020,1264 9046,1264 9196,1257 9228,1259 9316,1238"/>
+                <Baseline points="7969,1282 8127,1280 8158,1281 8298,1279 8330,1279 8395,1278 8426,1278 8556,1275 8588,1274 8628,1273 8660,1272 8721,1269 8745,1269 8899,1263 8923,1262 9020,1264 9045,1263 9196,1257 9227,1258 9316,1238"/>
                 <TextEquiv>
                     <Unicode>1,049,341 Piaſter, und hiervon ab für Ausfälle 8,069 Piaſter, giebt</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r26l23" custom="readingOrder {index:22;}">
                 <Coords points="7957,1288 7990,1292 8067,1289 8252,1290 8904,1270 9037,1267 9262,1252 9312,1250 9316,1289 9270,1297 8510,1326 8391,1330 7974,1335 7957,1340"/>
-                <Baseline points="7967,1325 8033,1324 8066,1324 8229,1322 8252,1322 8391,1320 8437,1320 8588,1315 8617,1314 8726,1311 8759,1310 8806,1308 8830,1307 9010,1302 9037,1301 9233,1293 9258,1292 9316,1283"/>
+                <Baseline points="7967,1325 8033,1324 8066,1324 8229,1322 8252,1322 8391,1320 8437,1320 8588,1315 8617,1314 8726,1311 8759,1310 8806,1308 8830,1307 9010,1302 9037,1301 9233,1293 9258,1292 9315,1283"/>
                 <TextEquiv>
                     <Unicode>jene 1,041,272 Piaſter. Dagegen haben die direkten Steuern für</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r26l24" custom="readingOrder {index:23;}">
                 <Coords points="7973,1340 8010,1338 8094,1334 8981,1310 9036,1309 9312,1309 9312,1332 9282,1338 9229,1343 8702,1362 8326,1369 8270,1369 7973,1367"/>
-                <Baseline points="7973,1366 8047,1366 8076,1366 8168,1365 8192,1365 8326,1364 8358,1363 8421,1362 8445,1361 8581,1358 8643,1357 8741,1354 8773,1353 8869,1350 8896,1349 8956,1347 8981,1351 9074,1350 9100,1349 9201,1348 9227,1347 9312,1326"/>
+                <Baseline points="7973,1366 8047,1366 8076,1366 8168,1365 8192,1365 8326,1364 8358,1363 8421,1362 8445,1361 8581,1358 8643,1357 8741,1354 8773,1353 8869,1350 8896,1349 8956,1347 8981,1351 9073,1348 9099,1347 9200,1344 9226,1343 9312,1326"/>
                 <TextEquiv>
                     <Unicode>1839 einen Ausfall von 292,845 Piaſter gegen das Jahr zuvor erge⸗</Unicode>
                 </TextEquiv>
@@ -5287,7 +5287,7 @@ Verwaltungs⸗Koſten zum Belaufe von 403,002 P., einen Rein⸗Ertrag von
             </TextLine>
             <TextLine id="r26l34" custom="readingOrder {index:33;}">
                 <Coords points="7978,1758 8059,1755 9061,1722 9268,1721 9283,1721 9321,1730 9316,1759 8990,1772 8223,1789 8196,1789 7999,1788 7978,1787"/>
-                <Baseline points="7978,1787 8033,1786 8059,1786 8160,1785 8196,1784 8223,1784 8248,1783 8395,1781 8421,1781 8475,1780 8499,1780 8612,1779 8636,1778 8685,1778 8717,1778 9033,1766 9061,1765 9206,1760 9242,1758 9321,1753"/>
+                <Baseline points="7978,1787 8033,1786 8059,1786 8160,1785 8196,1784 8223,1784 8248,1783 8395,1781 8421,1781 8475,1780 8499,1780 8612,1779 8636,1778 8685,1778 8717,1778 9033,1766 9061,1765 9206,1760 9242,1758 9317,1752"/>
                 <TextEquiv>
                     <Unicode>den kann, ſo belaufen ſich freilich die außerordentlichen Mittel, über</Unicode>
                 </TextEquiv>
@@ -5343,7 +5343,7 @@ Verwaltungs⸗Koſten zum Belaufe von 403,002 P., einen Rein⸗Ertrag von
             </TextLine>
             <TextLine id="r26l42" custom="readingOrder {index:41;}">
                 <Coords points="7983,2096 9196,2062 9243,2061 9285,2061 9329,2062 9329,2092 9297,2104 8724,2121 8070,2130 8056,2130 7983,2129"/>
-                <Baseline points="7983,2128 8070,2126 8098,2125 8204,2123 8230,2122 8310,2121 8338,2120 8389,2119 8416,2119 8544,2117 8564,2117 8763,2112 8787,2113 9101,2101 9127,2100 9184,2098 9196,2097 9329,2099"/>
+                <Baseline points="7983,2128 8070,2126 8098,2125 8204,2123 8230,2122 8310,2121 8338,2120 8389,2119 8416,2119 8544,2117 8564,2117 8763,2112 8787,2113 9101,2101 9127,2100 9184,2098 9196,2097 9326,2092"/>
                 <TextEquiv>
                     <Unicode>übrig bleibt, kann als wirklich disponibler Einnahme⸗Fonds des Schat⸗</Unicode>
                 </TextEquiv>
@@ -5364,7 +5364,7 @@ Verwaltungs⸗Koſten zum Belaufe von 403,002 P., einen Rein⸗Ertrag von
             </TextLine>
             <TextLine id="r26l45" custom="readingOrder {index:44;}">
                 <Coords points="7980,2226 7992,2224 9248,2186 9283,2186 9333,2187 9334,2220 9254,2229 9098,2242 8688,2251 8076,2256 7992,2256 7980,2254"/>
-                <Baseline points="7980,2254 8076,2253 8113,2252 8191,2251 8215,2250 8313,2248 8344,2247 8476,2245 8501,2244 8643,2242 8676,2241 8751,2239 8783,2238 8925,2233 8956,2232 9019,2229 9045,2229 9223,2224 9248,2223 9333,2221"/>
+                <Baseline points="7980,2254 8076,2253 8113,2252 8191,2251 8215,2250 8313,2248 8344,2247 8476,2245 8501,2244 8643,2242 8676,2241 8751,2239 8783,2238 8925,2233 8956,2232 9019,2229 9045,2229 9223,2224 9248,2223 9332,2220"/>
                 <TextEquiv>
                     <Unicode>leihen neue Bons emittirt worden, zum Belaufe von 6,000,840 Pfd.</Unicode>
                 </TextEquiv>
@@ -5917,7 +5917,7 @@ Verwaltungs⸗Koſten zum Belaufe von 403,002 P., einen Rein⸗Ertrag von
             </TextLine>
             <TextLine id="r26l124" custom="readingOrder {index:123;}">
                 <Coords points="8039,5875 8091,5866 8956,5830 9211,5819 9348,5827 9348,5854 9210,5867 9036,5877 8154,5916 8039,5916"/>
-                <Baseline points="8039,5905 8190,5902 8222,5901 8269,5900 8322,5899 8385,5898 8418,5897 8488,5894 8519,5893 8590,5891 8623,5890 8832,5887 8891,5873 8921,5871 9211,5856 9243,5855 9348,5852"/>
+                <Baseline points="8039,5905 8190,5902 8222,5901 8269,5900 8322,5899 8385,5898 8418,5897 8488,5894 8519,5893 8590,5891 8623,5890 8831,5886 8891,5873 8921,5871 9211,5856 9243,5855 9348,5852"/>
                 <TextEquiv>
                     <Unicode>ziehung auf das von ihm vorgeſchlagene Rettungsmittel gegen</Unicode>
                 </TextEquiv>
@@ -5931,7 +5931,7 @@ Verwaltungs⸗Koſten zum Belaufe von 403,002 P., einen Rein⸗Ertrag von
             </TextLine>
             <TextLine id="r26l126" custom="readingOrder {index:125;}">
                 <Coords points="8040,5970 8063,5961 8748,5923 9155,5911 9248,5911 9344,5919 9345,5964 9339,5949 8858,5971 8655,5983 8133,6002 8063,5999 8040,5998"/>
-                <Baseline points="8040,5991 8107,5989 8133,5991 8167,5991 8209,5991 8405,5995 8445,5996 8478,5996 8527,5987 8741,5975 8923,5960 8947,5958 9032,5953 9056,5953 9130,5951 9155,5950 9248,5947 9289,5946 9344,5945"/>
+                <Baseline points="8040,5991 8107,5989 8133,5991 8167,5991 8209,5991 8404,5992 8444,5990 8477,5989 8527,5987 8741,5975 8923,5960 8947,5958 9032,5953 9056,5953 9130,5951 9155,5950 9248,5947 9289,5946 9344,5945"/>
                 <TextEquiv>
                     <Unicode>wir ſo fortfahren, ſo duͤrfte der Augenblick nicht fern ſeyn, wo</Unicode>
                 </TextEquiv>

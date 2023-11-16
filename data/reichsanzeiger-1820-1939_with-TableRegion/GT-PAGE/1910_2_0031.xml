@@ -1,24 +1,24 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
     <Metadata>
         <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.7.1:model_id=40804:lm=none:date=21_06_2022_12:40
 prov=READ-COOP:name=PyLaia@Transkribus:version=0.7.1:model_id=40804:date=21_06_2022_12:40
 Transkribus</Creator>
         <Created>2021-12-14T12:17:34.173+01:00</Created>
-        <LastChange>2023-06-13T15:08:07.366+02:00</LastChange>
+        <LastChange>2023-11-16T09:31:50.067+01:00</LastChange>
         <Comments>
                 Measurement unit: pixel
                 PrimaryLanguage: 
                 Producer: Transkribus
             </Comments>
-        <TranskribusMetadata docId="1028597" pageId="43217645" pageNr="1" tsid="126835445" status="GT" userId="109938" imgUrl="https://files.transkribus.eu/Get?id=ZHJBSWZELALVQEBVHHNUZUPA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LVGTADPTCKRHOVAOTZCCBXNO" imageId="35453657"/>
+        <TranskribusMetadata docId="1028597" pageId="43217645" pageNr="1" tsid="139879516" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=ZHJBSWZELALVQEBVHHNUZUPA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QJHAENZXBKOZYURPPJKLCGUD" imageId="35453657"/>
     </Metadata>
     <Page imageFilename="1910_2_0031.jpg" imageWidth="10088" imageHeight="7464">
         <PrintSpace>
             <Coords points="499,350 9737,387 9647,6927 440,6842"/>
         </PrintSpace>
         <ReadingOrder>
-            <OrderedGroup id="ro_1690359980507" caption="Regions reading order">
+            <OrderedGroup id="ro_1700129719991" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
                 <RegionRefIndexed index="1" regionRef="r2"/>
                 <RegionRefIndexed index="2" regionRef="r3"/>
@@ -107,7 +107,7 @@ Transkribus</Creator>
             </TextLine>
             <TextLine id="r1l4" custom="readingOrder {index:3;}">
                 <Coords points="687,665 734,659 1414,646 1752,641 1969,639 2055,635 2066,636 2083,656 2083,668 2069,685 2048,680 1686,689 851,699 730,705 679,697 679,671"/>
-                <Baseline points="687,697 847,695 860,694 928,693 940,693 995,692 1008,692 1095,691 1108,691 1161,690 1173,690 1402,685 1413,685 1548,683 1561,683 1628,682 1641,682 1850,679 1863,678 1895,678 1953,677 2081,676"/>
+                <Baseline points="687,697 847,695 860,694 928,693 940,693 995,692 1008,692 1095,691 1108,691 1161,690 1173,690 1402,685 1413,685 1548,683 1561,683 1628,682 1641,682 1850,679 1863,678 1895,678 1953,677 2078,673"/>
                 <TextEquiv>
                     <Unicode>auffielen und die man als Marskanäle deutete und bezeichnete, in Wirklich⸗</Unicode>
                 </TextEquiv>
@@ -128,7 +128,7 @@ Transkribus</Creator>
             </TextLine>
             <TextLine id="r1l7" custom="readingOrder {index:6;}">
                 <Coords points="686,795 823,792 1129,789 1443,783 1820,779 1948,779 2083,776 2086,808 2063,819 1950,821 1621,828 981,838 847,838 689,840"/>
-                <Baseline points="686,835 981,830 1008,829 1063,828 1089,828 1288,825 1312,824 1368,823 1391,823 1504,821 1529,821 1776,817 1800,817 1959,814 2009,813 2083,812"/>
+                <Baseline points="688,834 981,830 1008,829 1063,828 1089,828 1288,825 1312,824 1368,823 1391,823 1504,821 1529,821 1776,817 1800,817 1959,814 2009,813 2082,809"/>
                 <TextEquiv>
                     <Unicode>Marsoberfläche bei Benutzung der bisher angewandten kleineren Fern⸗</Unicode>
                 </TextEquiv>
@@ -629,7 +629,7 @@ gerichtsrat. Zweite, neu bearbeitete Auflage. Kart. 1,40 ℳ. Pader⸗</Unicode>
             <Coords points="2133,460 3565,448 3568,737 2135,768"/>
             <TextLine id="r4l1" custom="readingOrder {index:0;}">
                 <Coords points="2147,498 2773,485 3180,479 3440,477 3542,477 3558,516 2711,537 2545,538 2147,538"/>
-                <Baseline points="2148,535 2247,539 2278,535 2408,534 2432,532 2497,533 2505,532 2719,531 2750,529 2959,524 3021,522 3049,522 3100,520 3153,519 3180,518 3219,519 3244,518 3314,515 3342,515 3413,514 3440,514 3542,513"/>
+                <Baseline points="2148,535 2247,538 2278,535 2408,534 2432,532 2497,533 2505,532 2719,531 2750,529 2959,524 3021,522 3049,522 3100,520 3153,519 3180,518 3219,519 3244,518 3314,515 3342,515 3413,514 3440,514 3542,513"/>
                 <TextEquiv>
                     <Unicode>born, Verlag von Ferdinand Schöningh. — Es iſt dies eine hand⸗</Unicode>
                 </TextEquiv>
@@ -1009,7 +1009,7 @@ reichhaltige Rechtſprechung des Oberverwaltungsgerichts hingewieſen.</Unicode>
             </TextLine>
             <TextLine id="r6l47" custom="readingOrder {index:46;}">
                 <Coords points="2180,3023 2220,3021 3105,3005 3503,2997 3574,2997 3577,3040 2798,3054 2517,3064 2325,3066 2277,3066 2215,3065 2170,3060 2170,3023"/>
-                <Baseline points="2174,3062 2325,3059 2351,3059 2558,3054 2586,3054 2621,3053 2648,3052 2795,3049 2845,3049 2900,3048 2928,3047 3059,3045 3084,3044 3203,3042 3227,3041 3321,3039 3348,3039 3404,3038 3422,3037 3574,3034"/>
+                <Baseline points="2174,3060 2325,3059 2351,3059 2558,3054 2586,3054 2621,3053 2648,3052 2795,3049 2845,3049 2900,3048 2928,3047 3059,3045 3084,3044 3203,3042 3227,3041 3321,3039 3348,3039 3404,3038 3422,3037 3574,3034"/>
                 <TextEquiv>
                     <Unicode>köſtliche Wirkungen zu ſchaffen. An zweiter Stelle ſtand als Neuheit</Unicode>
                 </TextEquiv>
@@ -1771,7 +1771,7 @@ lichen Theater der „Urania“ gehalten werden.</Unicode>
             </TextLine>
             <TextLine id="r16l23" custom="readingOrder {index:22;}">
                 <Coords points="730,4978 1247,4962 1281,4960 1491,4956 1505,4983 1500,4992 1491,5004 1274,5009 842,5021 806,5021 726,5022 723,4978"/>
-                <Baseline points="730,5015 903,5011 929,5011 995,5009 1025,5008 1133,5005 1156,5004 1221,5002 1245,5002 1499,4995"/>
+                <Baseline points="730,5015 903,5011 929,5011 995,5009 1025,5008 1133,5005 1156,5004 1221,5002 1245,5002 1498,4994"/>
                 <TextEquiv>
                     <Unicode>Aufzügen von Ernſt von Wildenbruch.</Unicode>
                 </TextEquiv>
@@ -2053,7 +2053,7 @@ Donnerstag und folgende Tage: Der Skandal.</Unicode>
             <Coords points="1808,3724 2869,3724 2860,4049 1808,4077"/>
             <TextLine id="r20l1" custom="readingOrder {index:0;}">
                 <Coords points="1858,3760 2072,3752 2751,3748 2842,3748 2855,3765 2855,3779 2842,3793 2324,3814 2072,3817 1858,3811"/>
-                <Baseline points="1858,3811 2010,3808 2042,3807 2435,3798 2504,3795 2702,3788 2751,3786 2852,3784"/>
+                <Baseline points="1858,3811 2010,3808 2042,3807 2435,3798 2504,3795 2702,3788 2751,3786 2851,3783"/>
                 <TextEquiv>
                     <Unicode>Neues Schauſpielhaus. Mittwoch, Nach⸗</Unicode>
                 </TextEquiv>
@@ -2164,7 +2164,7 @@ Freitag: Das Konzert.</Unicode>
             </TextLine>
             <TextLine id="r22l4" custom="readingOrder {index:3;}">
                 <Coords points="1822,4571 1861,4570 1999,4569 1989,4609 1968,4612 1832,4615 1823,4599"/>
-                <Baseline points="1830,4612 1987,4605"/>
+                <Baseline points="1830,4611 1987,4605"/>
                 <TextEquiv>
                     <Unicode>Schiller.</Unicode>
                 </TextEquiv>
@@ -2743,7 +2743,7 @@ Hinze⸗Reinhold. Mitw.: Charlotte Kühne
             </TextLine>
             <TextLine id="r35l2" custom="readingOrder {index:1;}">
                 <Coords points="2947,5630 3137,5627 3803,5614 3938,5611 3992,5615 3992,5651 3943,5661 3528,5668 3065,5676 3043,5676 2950,5676 2947,5634"/>
-                <Baseline points="2947,5672 3088,5668 3137,5667 3525,5659 3592,5657 3631,5656 3673,5655 3722,5654 3777,5654 3992,5651"/>
+                <Baseline points="2949,5671 3088,5668 3137,5667 3525,5659 3592,5657 3631,5656 3673,5655 3722,5654 3777,5654 3992,5651"/>
                 <TextEquiv>
                     <Unicode>Große Extravorſtellung. U. a.: Original⸗</Unicode>
                 </TextEquiv>
@@ -2757,7 +2757,7 @@ Hinze⸗Reinhold. Mitw.: Charlotte Kühne
             </TextLine>
             <TextLine id="r35l4" custom="readingOrder {index:3;}">
                 <Coords points="2949,5725 3482,5715 3896,5708 3973,5708 3995,5716 3995,5743 3973,5748 3338,5763 2951,5768"/>
-                <Baseline points="2949,5763 3072,5761 3135,5760 3180,5759 3230,5758 3434,5753 3482,5752 3696,5749 3759,5748 3830,5746 3896,5745 3995,5743"/>
+                <Baseline points="2950,5762 3072,5761 3135,5760 3180,5759 3230,5758 3434,5753 3482,5752 3696,5749 3759,5748 3830,5746 3896,5745 3995,5743"/>
                 <TextEquiv>
                     <Unicode>Welt. — Sergeant Brennan, der beſte</Unicode>
                 </TextEquiv>
@@ -2850,7 +2850,7 @@ Große Feerie in 5 Akten.</Unicode>
             </TextLine>
             <TextLine id="r36l4" custom="readingOrder {index:3;}">
                 <Coords points="2959,6298 3050,6297 3213,6292 3893,6278 3935,6277 3994,6281 4008,6294 4008,6308 4003,6320 3926,6321 3189,6339 3033,6339 2956,6338 2961,6300"/>
-                <Baseline points="2961,6336 3189,6331 3213,6330 3349,6327 3391,6326 3434,6326 3475,6325 3561,6323 3586,6323 3851,6318 3887,6317 4008,6313"/>
+                <Baseline points="2961,6336 3189,6331 3213,6330 3349,6327 3391,6326 3434,6326 3475,6325 3561,6323 3586,6323 3851,6318 3887,6317 4006,6312"/>
                 <TextEquiv>
                     <Unicode>dreſſierten Affen. — Der Amerikaner Kers⸗</Unicode>
                 </TextEquiv>
@@ -2922,7 +2922,7 @@ Marja.</Unicode>
             <Coords points="4199,3679 4899,3667 4899,3769 4199,3779"/>
             <TextLine id="r37l1" custom="readingOrder {index:0;}">
                 <Coords points="4209,3707 4236,3700 4890,3694 4855,3767 4229,3778 4202,3774 4202,3707"/>
-                <Baseline points="4209,3757 4865,3750"/>
+                <Baseline points="4209,3757 4863,3749"/>
                 <TextEquiv>
                     <Unicode>Familiennachrichten.</Unicode>
                 </TextEquiv>
@@ -2984,7 +2984,7 @@ Marja.</Unicode>
             </TextLine>
             <TextLine id="r38l8" custom="readingOrder {index:7;}">
                 <Coords points="4067,4124 4086,4121 4289,4117 4910,4107 4960,4107 5041,4110 5039,4146 5010,4152 4816,4156 4410,4160 4126,4165 4067,4165"/>
-                <Baseline points="4066,4161 4452,4153 4494,4153 4640,4149 4691,4149 4738,4148 4786,4148 4857,4147 4910,4146 5033,4142"/>
+                <Baseline points="4067,4161 4452,4153 4494,4153 4640,4149 4691,4149 4738,4148 4786,4148 4857,4147 4910,4146 5033,4142"/>
                 <TextEquiv>
                     <Unicode>(Breslau — Beuthen O.⸗S.). — Frl. Margot</Unicode>
                 </TextEquiv>
@@ -3026,7 +3026,7 @@ Marja.</Unicode>
             </TextLine>
             <TextLine id="r38l14" custom="readingOrder {index:13;}">
                 <Coords points="4072,4409 4528,4400 4965,4392 4978,4392 5031,4397 5029,4435 4863,4443 4199,4449 4101,4455 4067,4452 4066,4407"/>
-                <Baseline points="4072,4448 4190,4444 4231,4442 4264,4441 4306,4442 4413,4441 4437,4440 4503,4439 4528,4439 4698,4436 4739,4436 4802,4434 4835,4434 4906,4433 4932,4432 5030,4428"/>
+                <Baseline points="4072,4448 4190,4444 4231,4442 4264,4441 4306,4442 4413,4441 4437,4440 4503,4439 4528,4439 4698,4436 4739,4436 4802,4434 4835,4434 4906,4433 4932,4432 5029,4427"/>
                 <TextEquiv>
                     <Unicode>Ritter u. Edler von Oetinger mit Frl. Maria</Unicode>
                 </TextEquiv>
@@ -3061,7 +3061,7 @@ Marja.</Unicode>
             </TextLine>
             <TextLine id="r38l19" custom="readingOrder {index:18;}">
                 <Coords points="4079,4645 4704,4638 4863,4637 4885,4637 5026,4629 5028,4672 4994,4678 4570,4686 4423,4692 4077,4692 4075,4645"/>
-                <Baseline points="4079,4687 4417,4681 4441,4681 4578,4679 4600,4678 4686,4676 4704,4677 4885,4671 4912,4671 4954,4670 4975,4670 5028,4660"/>
+                <Baseline points="4079,4687 4417,4681 4441,4681 4578,4679 4600,4678 4686,4676 4704,4677 4885,4671 4912,4671 4954,4670 4975,4670 5027,4660"/>
                 <TextEquiv>
                     <Unicode>Wiedebach⸗Noſtitz (Brieg, Bez. Breslau). — Hrn.</Unicode>
                 </TextEquiv>
@@ -3082,7 +3082,7 @@ Marja.</Unicode>
             </TextLine>
             <TextLine id="r38l22" custom="readingOrder {index:21;}">
                 <Coords points="4080,4799 4119,4797 4634,4788 4852,4785 4915,4781 4987,4777 5004,4780 5032,4778 5028,4813 4970,4821 4801,4830 4258,4840 4104,4845 4080,4845"/>
-                <Baseline points="4080,4837 4266,4833 4291,4832 4493,4828 4522,4828 4552,4827 4579,4826 4656,4825 4699,4824 4743,4823 4820,4823 4845,4823 4881,4822 5030,4810"/>
+                <Baseline points="4080,4837 4266,4833 4291,4832 4493,4828 4522,4828 4552,4827 4579,4826 4656,4825 4699,4824 4743,4823 4820,4823 4845,4823 4881,4822 5028,4809"/>
                 <TextEquiv>
                     <Unicode>Hertzberg (Frankfurt a. O.). — Hr. Stabsarzt</Unicode>
                 </TextEquiv>
@@ -3202,14 +3202,14 @@ burg, geb. von Bredow (Breslau⸗Schleibitz).</Unicode>
             </TextLine>
             <TextLine id="r39l3" custom="readingOrder {index:2;}">
                 <Coords points="4094,5554 4116,5552 4892,5526 4918,5526 4989,5524 5010,5531 5006,5564 4999,5582 4918,5587 4698,5591 4224,5597 4119,5602 4091,5602"/>
-                <Baseline points="4094,5593 4224,5590 4248,5589 4304,5588 4326,5588 4527,5584 4554,5583 4791,5578 4814,5577 4847,5576 4871,5575 5007,5564"/>
+                <Baseline points="4094,5593 4224,5590 4248,5589 4304,5588 4326,5588 4527,5584 4554,5583 4791,5578 4814,5577 4847,5576 4871,5575 5006,5563"/>
                 <TextEquiv>
                     <Unicode>Verlag der Expedition (Heidrich) in Berlin.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r39l4" custom="readingOrder {index:3;}">
                 <Coords points="4045,5623 4068,5621 4911,5593 4972,5593 5011,5591 5015,5640 4971,5647 4795,5658 4096,5670 4046,5671"/>
-                <Baseline points="4045,5663 4159,5660 4181,5659 4237,5658 4261,5657 4528,5653 4548,5653 4808,5647 4830,5646 4893,5643 4911,5642 5014,5630"/>
+                <Baseline points="4045,5662 4159,5660 4181,5659 4237,5658 4261,5657 4528,5653 4548,5653 4808,5647 4830,5646 4893,5643 4911,5642 5014,5630"/>
                 <TextEquiv>
                     <Unicode>Druck der Norddeutſchen Buchdruckerei und Verlag</Unicode>
                 </TextEquiv>
@@ -3265,7 +3265,7 @@ burg, geb. von Bredow (Breslau⸗Schleibitz).</Unicode>
             </TextLine>
             <TextLine id="r39l12" custom="readingOrder {index:11;}">
                 <Coords points="4055,6083 4171,6075 4746,6068 4794,6068 5007,6045 5007,6092 4871,6110 4576,6117 4400,6120 4171,6120 4050,6121"/>
-                <Baseline points="4055,6118 4128,6117 4155,6117 4400,6111 4423,6110 4650,6107 4675,6106 4794,6104 4838,6103 4908,6098 4976,6090 5008,6078"/>
+                <Baseline points="4055,6118 4128,6117 4155,6117 4400,6111 4423,6110 4650,6107 4675,6106 4794,6104 4838,6103 4908,6098 4976,6090 5007,6078"/>
                 <TextEquiv>
                     <Unicode>des öffentlichen Anzeigers durch gerichtlich</Unicode>
                 </TextEquiv>
@@ -3293,7 +3293,7 @@ burg, geb. von Bredow (Breslau⸗Schleibitz).</Unicode>
             </TextLine>
             <TextLine id="r39l16" custom="readingOrder {index:15;}">
                 <Coords points="4060,6263 4088,6259 4370,6255 4540,6254 4719,6250 4859,6245 4933,6242 5004,6227 5003,6274 4959,6285 4759,6294 4707,6297 4380,6306 4088,6306 4061,6305"/>
-                <Baseline points="4060,6301 4375,6291 4461,6292 4752,6288 4834,6282 4968,6273 5002,6260"/>
+                <Baseline points="4060,6300 4375,6291 4461,6292 4752,6288 4834,6282 4968,6273 5002,6260"/>
                 <TextEquiv>
                     <Unicode>Obligationen, Pfandbriefe, Hypotheke</Unicode>
                 </TextEquiv>
@@ -3403,7 +3403,7 @@ und Aktiengeſellſchaften, für die Woche
             <Coords points="5339,840 5647,850 5640,944 5332,938"/>
             <TextLine id="r42l1" custom="readingOrder {index:0;}">
                 <Coords points="5379,845 5641,857 5637,937 5353,929 5358,856"/>
-                <Baseline points="5359,924 5638,930"/>
+                <Baseline points="5359,924 5637,929"/>
                 <TextEquiv>
                     <Unicode>No. 2.</Unicode>
                 </TextEquiv>
@@ -3665,7 +3665,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3679,7 +3679,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -3700,7 +3700,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -3728,7 +3728,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -3746,7 +3746,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3760,7 +3760,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3768,13 +3768,13 @@ direkt oder über andere Länder</Unicode>
                 <Coords points="5978,2573 5974,2622 6127,2629 6131,2579"/>
                 <TextLine id="TableCell_1648623154992_963l0" custom="readingOrder {index:0;}">
                     <Coords points="5996,2579 6111,2584 6108,2621 5993,2616"/>
-                    <Baseline points="6015,2617 6106,2620"/>
+                    <Baseline points="6015,2616 6106,2620"/>
                     <TextEquiv>
                         <Unicode>1908</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3788,7 +3788,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3796,13 +3796,13 @@ direkt oder über andere Länder</Unicode>
                 <Coords points="6304,2586 6300,2637 6493,2645 6497,2594"/>
                 <TextLine id="TableCell_1648623155101_975l0" custom="readingOrder {index:0;}">
                     <Coords points="6327,2593 6472,2599 6469,2637 6324,2631"/>
-                    <Baseline points="6352,2633 6445,2634"/>
+                    <Baseline points="6352,2632 6445,2634"/>
                     <TextEquiv>
                         <Unicode>1908</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3810,13 +3810,13 @@ direkt oder über andere Länder</Unicode>
                 <Coords points="6497,2594 6493,2645 6676,2653 6680,2601"/>
                 <TextLine id="TableCell_1648623155155_981l0" custom="readingOrder {index:0;}">
                     <Coords points="6519,2601 6656,2606 6653,2645 6516,2639"/>
-                    <Baseline points="6539,2639 6627,2644"/>
+                    <Baseline points="6539,2639 6627,2643"/>
                     <TextEquiv>
                         <Unicode>1907</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3830,7 +3830,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3844,7 +3844,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3858,7 +3858,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3872,7 +3872,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3886,7 +3886,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3900,7 +3900,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3908,13 +3908,13 @@ direkt oder über andere Länder</Unicode>
                 <Coords points="6493,2645 6490,2691 6673,2698 6676,2653"/>
                 <TextLine id="TableCell_1648623155155_979l0" custom="readingOrder {index:0;}">
                     <Coords points="6515,2651 6652,2657 6650,2691 6513,2686"/>
-                    <Baseline points="6525,2686 6641,2691"/>
+                    <Baseline points="6525,2686 6641,2690"/>
                     <TextEquiv>
                         <Unicode>30625</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3928,7 +3928,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3942,7 +3942,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3956,7 +3956,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3970,7 +3970,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3984,7 +3984,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3998,7 +3998,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4012,7 +4012,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4040,7 +4040,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4054,7 +4054,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4068,7 +4068,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4082,7 +4082,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4096,7 +4096,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4110,7 +4110,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4124,7 +4124,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4138,7 +4138,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4152,7 +4152,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4166,7 +4166,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4180,7 +4180,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4194,7 +4194,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4208,7 +4208,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4222,7 +4222,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4236,7 +4236,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4250,7 +4250,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4264,7 +4264,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4278,7 +4278,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4292,7 +4292,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4306,7 +4306,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4320,7 +4320,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4334,7 +4334,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4348,7 +4348,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4362,7 +4362,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4376,7 +4376,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4390,7 +4390,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4404,7 +4404,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4418,7 +4418,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4432,7 +4432,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4446,7 +4446,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4460,7 +4460,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4474,7 +4474,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4488,7 +4488,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4502,7 +4502,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4516,7 +4516,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4530,7 +4530,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4544,7 +4544,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4558,7 +4558,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4572,7 +4572,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4586,7 +4586,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4600,7 +4600,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4614,7 +4614,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4628,7 +4628,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4642,7 +4642,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4656,7 +4656,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4670,7 +4670,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4684,7 +4684,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4698,7 +4698,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4712,7 +4712,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4740,7 +4740,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4754,7 +4754,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4768,7 +4768,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4782,7 +4782,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4796,7 +4796,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4810,7 +4810,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4824,7 +4824,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4845,7 +4845,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4859,7 +4859,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4873,7 +4873,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4887,7 +4887,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4901,7 +4901,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4915,7 +4915,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4929,7 +4929,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4943,7 +4943,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4957,7 +4957,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4971,7 +4971,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4985,7 +4985,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4999,7 +4999,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5013,7 +5013,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5027,7 +5027,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5048,7 +5048,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5062,7 +5062,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5076,7 +5076,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5090,7 +5090,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5104,7 +5104,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5118,7 +5118,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5132,7 +5132,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5146,7 +5146,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5160,7 +5160,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5174,7 +5174,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5188,7 +5188,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5202,7 +5202,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5216,7 +5216,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5230,7 +5230,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5244,7 +5244,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5258,7 +5258,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5272,7 +5272,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5280,13 +5280,13 @@ direkt oder über andere Länder</Unicode>
                 <Coords points="5927,3537 5925,3585 6081,3592 6083,3543"/>
                 <TextLine id="TableCell_1648623092957_373l0" custom="readingOrder {index:0;}">
                     <Coords points="5946,3543 6063,3548 6061,3585 5944,3579"/>
-                    <Baseline points="5967,3581 6057,3583"/>
+                    <Baseline points="5967,3580 6057,3583"/>
                     <TextEquiv>
                         <Unicode>9373</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5294,13 +5294,13 @@ direkt oder über andere Länder</Unicode>
                 <Coords points="6083,3543 6081,3592 6254,3599 6256,3550"/>
                 <TextLine id="TableCell_1648623093027_379l0" custom="readingOrder {index:0;}">
                     <Coords points="6104,3550 6234,3555 6232,3592 6102,3586"/>
-                    <Baseline points="6108,3587 6222,3590"/>
+                    <Baseline points="6108,3586 6222,3590"/>
                     <TextEquiv>
                         <Unicode>12963</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5314,7 +5314,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5328,7 +5328,7 @@ direkt oder über andere Länder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -5358,7 +5358,7 @@ direkt oder über andere Länder</Unicode>
             </TextLine>
             <TextLine id="r48l4" custom="readingOrder {index:3;}">
                 <Coords points="5218,3711 5369,3711 5606,3725 5785,3731 6611,3767 6614,3807 6390,3805 6021,3779 5458,3761 5219,3754"/>
-                <Baseline points="5218,3745 5369,3751 5410,3753 5470,3755 5508,3757 5634,3762 5672,3764 5800,3769 5835,3770 5896,3773 5915,3773 5979,3776 5999,3777 6608,3805"/>
+                <Baseline points="5218,3744 5369,3751 5410,3753 5470,3755 5508,3757 5634,3762 5672,3764 5800,3769 5835,3770 5896,3773 5915,3773 5979,3776 5999,3777 6608,3805"/>
                 <TextEquiv>
                     <Unicode>entfielen auf fremde Länder 250 338 797 (287 891 384) Pfd. Sterl.</Unicode>
                 </TextEquiv>
@@ -5491,7 +5491,7 @@ Hongkong und Macao 9216 (12 034) — Japan, einſchl. Formoſa
             </TextLine>
             <TextLine id="r49l4" custom="readingOrder {index:3;}">
                 <Coords points="5179,4557 6568,4617 6571,4665 5188,4607"/>
-                <Baseline points="5186,4596 6565,4657"/>
+                <Baseline points="5186,4595 6565,4657"/>
                 <TextEquiv>
                     <Unicode>Gemäß einer mit Bezug auf das Geſetz vom 12. Juni 1909 (Staats-</Unicode>
                 </TextEquiv>
@@ -5639,7 +5639,7 @@ brauchsabgabe. (Nederlandsche Staatscourant.)</Unicode>
             </TextLine>
             <TextLine id="r50l5" custom="readingOrder {index:4;}">
                 <Coords points="5330,5496 5444,5502 6326,5534 6394,5538 6528,5546 6530,5588 6492,5584 6232,5578 5832,5557 5604,5553 5411,5541 5143,5523 5140,5481"/>
-                <Baseline points="5145,5517 5333,5536 5515,5541 5557,5542 5804,5551 5831,5552 5977,5558 6020,5560 6085,5562 6146,5565 6191,5567 6232,5569 6326,5573 6351,5574 6437,5576 6463,5578 6523,5579"/>
+                <Baseline points="5145,5517 5333,5535 5515,5541 5557,5542 5804,5551 5831,5552 5977,5558 6020,5560 6085,5562 6146,5565 6191,5567 6232,5569 6326,5573 6351,5574 6437,5576 6463,5578 6523,5579"/>
                 <TextEquiv>
                     <Unicode>von den Kammern angenommen worden und hat durch ſeine am</Unicode>
                 </TextEquiv>
@@ -5783,7 +5783,7 @@ Geſandtſchaft in Mexiko.)</Unicode>
                 <Coords points="5151,6405 5175,6416 5337,6429 5467,6440 5574,6442 5714,6450 5851,6454 5968,6458 6245,6458 6470,6478 6480,6516 6457,6517 6036,6507 5913,6500 5773,6500 5669,6491 5482,6483 5368,6473 5267,6472 5194,6461 5123,6449 5097,6454 5099,6400"/>
                 <Baseline points="5103,6438 5167,6449 5253,6462 5364,6471 5483,6477 5646,6483 5796,6488 5866,6493 5968,6495 6245,6502 6269,6503 6470,6512"/>
                 <TextEquiv>
-                    <Unicode>ſür das Jahr 1909, Teil I, betrug im Oberbergamtsbezirk Dortmund</Unicode>
+                    <Unicode>für das Jahr 1909, Teil I, betrug im Oberbergamtsbezirk Dortmund</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r51l5" custom="readingOrder {index:4;}">
@@ -5804,7 +5804,7 @@ Geſandtſchaft in Mexiko.)</Unicode>
                 <Unicode>Bergarbeiterlöhne im Oberbergamtsbezirk Dortmund
 im Jahre 1909 und in den Vorjahren.
 Nach dem Jahresbericht der Handelskammer für den Kreis Eſſen
-ſür das Jahr 1909, Teil I, betrug im Oberbergamtsbezirk Dortmund
+für das Jahr 1909, Teil I, betrug im Oberbergamtsbezirk Dortmund
 die Zahl der Arbeiter (mit Ausſchluß der feſt beſoldeten Beamten
 und Aufſeher) im 3. Vierteljahr 1909: 327 003, 1908: 323 303,</Unicode>
             </TextEquiv>
@@ -5911,7 +5911,7 @@ vom 20. November d. J.</Unicode>
             </TextLine>
             <TextLine id="r53l12" custom="readingOrder {index:11;}">
                 <Coords points="6785,1630 6792,1606 6918,1608 6952,1615 7323,1630 7840,1654 7878,1659 7905,1670 7905,1691 7860,1699 7842,1699 7050,1669 6853,1653 6799,1651"/>
-                <Baseline points="6792,1641 7021,1654 7044,1656 7425,1674 7451,1675 7484,1676 7509,1677 7679,1683 7707,1684 7767,1687 7792,1688 7892,1691"/>
+                <Baseline points="6792,1640 7021,1654 7044,1656 7425,1674 7451,1675 7484,1676 7509,1677 7679,1683 7707,1684 7767,1687 7792,1688 7892,1691"/>
                 <TextEquiv>
                     <Unicode>Allgemeinen Knappſchaftsvereins in Bochum, wie folgt:</Unicode>
                 </TextEquiv>
@@ -5967,7 +5967,7 @@ Jahre 1892 ab:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -5985,7 +5985,7 @@ Jahre 1892 ab:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 3 4 7</CornerPts>
             </TableCell>
@@ -6003,7 +6003,7 @@ Jahre 1892 ab:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6017,7 +6017,7 @@ Jahre 1892 ab:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6031,7 +6031,7 @@ Jahre 1892 ab:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6045,7 +6045,7 @@ Jahre 1892 ab:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6070,7 +6070,7 @@ Jahre 1892 ab:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6098,7 +6098,7 @@ Jahre 1892 ab:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6126,7 +6126,7 @@ Jahre 1892 ab:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6147,7 +6147,7 @@ Jahre 1892 ab:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6161,7 +6161,7 @@ Jahre 1892 ab:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6175,7 +6175,7 @@ Jahre 1892 ab:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6189,7 +6189,7 @@ Jahre 1892 ab:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6203,7 +6203,7 @@ Jahre 1892 ab:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6217,7 +6217,7 @@ Jahre 1892 ab:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6231,7 +6231,7 @@ Jahre 1892 ab:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6245,7 +6245,7 @@ Jahre 1892 ab:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6259,7 +6259,7 @@ Jahre 1892 ab:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6273,7 +6273,7 @@ Jahre 1892 ab:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6287,7 +6287,7 @@ Jahre 1892 ab:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6301,7 +6301,7 @@ Jahre 1892 ab:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6315,7 +6315,7 @@ Jahre 1892 ab:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6329,7 +6329,7 @@ Jahre 1892 ab:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6343,7 +6343,7 @@ Jahre 1892 ab:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6351,13 +6351,13 @@ Jahre 1892 ab:</Unicode>
                 <Coords points="7145,2295 7143,2336 7442,2350 7444,2308"/>
                 <TextLine id="TableCell_1648623448521_1254l0" custom="readingOrder {index:0;}">
                     <Coords points="7298,2304 7400,2311 7399,2347 7256,2340 7258,2305"/>
-                    <Baseline points="7261,2341 7388,2345"/>
+                    <Baseline points="7261,2340 7388,2345"/>
                     <TextEquiv>
                         <Unicode>41 560</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6371,7 +6371,7 @@ Jahre 1892 ab:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6385,7 +6385,7 @@ Jahre 1892 ab:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6399,7 +6399,7 @@ Jahre 1892 ab:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6413,7 +6413,7 @@ Jahre 1892 ab:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6427,7 +6427,7 @@ Jahre 1892 ab:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6441,7 +6441,7 @@ Jahre 1892 ab:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6455,7 +6455,7 @@ Jahre 1892 ab:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6469,7 +6469,7 @@ Jahre 1892 ab:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6483,7 +6483,7 @@ Jahre 1892 ab:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6497,7 +6497,7 @@ Jahre 1892 ab:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6511,7 +6511,7 @@ Jahre 1892 ab:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6525,7 +6525,7 @@ Jahre 1892 ab:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6539,7 +6539,7 @@ Jahre 1892 ab:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6553,7 +6553,7 @@ Jahre 1892 ab:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6567,7 +6567,7 @@ Jahre 1892 ab:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6581,7 +6581,7 @@ Jahre 1892 ab:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6595,7 +6595,7 @@ Jahre 1892 ab:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6609,7 +6609,7 @@ Jahre 1892 ab:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6623,7 +6623,7 @@ Jahre 1892 ab:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6637,7 +6637,7 @@ Jahre 1892 ab:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6651,7 +6651,7 @@ Jahre 1892 ab:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6665,7 +6665,7 @@ Jahre 1892 ab:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6679,7 +6679,7 @@ Jahre 1892 ab:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6693,7 +6693,7 @@ Jahre 1892 ab:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6707,7 +6707,7 @@ Jahre 1892 ab:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6721,7 +6721,7 @@ Jahre 1892 ab:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6735,7 +6735,7 @@ Jahre 1892 ab:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6779,7 +6779,7 @@ Jahre 1892 ab:</Unicode>
             </TextLine>
             <TextLine id="r54l6" custom="readingOrder {index:5;}">
                 <Coords points="6726,2775 6732,2757 6749,2751 6872,2751 6954,2759 7106,2766 7351,2777 7546,2781 8005,2806 8095,2807 8125,2813 8120,2850 8071,2850 7803,2842 7623,2834 7092,2809 7013,2805 6843,2800 6771,2797 6740,2792"/>
-                <Baseline points="6732,2786 6872,2792 6923,2794 7009,2799 7043,2801 7343,2814 7391,2816 7477,2819 7514,2821 7629,2826 7682,2828 7736,2830 7769,2831 7934,2840 7972,2843 8026,2843 8068,2845 8118,2847"/>
+                <Baseline points="6733,2784 6872,2792 6923,2794 7009,2799 7043,2801 7343,2814 7391,2816 7477,2819 7514,2821 7629,2826 7682,2828 7736,2830 7769,2831 7934,2840 7972,2843 8026,2843 8068,2845 8118,2847"/>
                 <TextEquiv>
                     <Unicode>tägliche reine Arbeitsverdienſt ohne Abzug der Beiträge für die</Unicode>
                 </TextEquiv>
@@ -6793,7 +6793,7 @@ Jahre 1892 ab:</Unicode>
             </TextLine>
             <TextLine id="r54l8" custom="readingOrder {index:7;}">
                 <Coords points="7619,2882 7639,2882 7895,2892 8051,2900 8083,2901 8117,2904 8117,2947 8088,2943 8021,2941 7842,2930 7616,2918 7481,2917 7410,2909 7209,2905 7137,2901 7116,2905 7050,2902 7012,2896 6758,2886 6729,2883 6726,2840 6859,2850 6887,2850 7012,2854 7187,2864 7278,2866 7418,2871 7512,2879"/>
-                <Baseline points="6725,2878 6887,2885 7016,2890 7203,2902 7461,2910 7619,2915 7639,2916 7667,2918 7710,2920 7736,2921 7797,2924 7823,2926 7930,2931 7972,2933 8051,2936 8070,2937 8114,2939"/>
+                <Baseline points="6728,2877 6887,2885 7016,2890 7203,2902 7461,2910 7619,2915 7639,2916 7667,2918 7710,2920 7736,2921 7797,2924 7823,2926 7930,2931 7972,2933 8051,2936 8070,2937 8114,2939"/>
                 <TextEquiv>
                     <Unicode>hatten einen täglichen Arbeitsverdienſt von 5 ℳ und mehr: 31,7 %</Unicode>
                 </TextEquiv>
@@ -6968,7 +6968,7 @@ Nicht geſtellt — —</Unicode>
             </TextLine>
             <TextLine id="r56l11" custom="readingOrder {index:10;}">
                 <Coords points="6669,4011 6723,4011 7141,4027 8032,4065 8049,4077 8055,4107 8033,4117 7912,4113 7160,4074 6698,4053 6665,4053 6666,4011"/>
-                <Baseline points="6669,4048 6785,4053 6827,4054 6909,4058 6956,4059 6991,4061 7008,4061 7072,4064 7098,4065 7258,4071 7297,4073 7498,4082 7541,4084 7591,4086 7858,4099 7870,4099 7912,4101 8052,4111"/>
+                <Baseline points="6669,4048 6785,4053 6827,4054 6909,4058 6956,4059 6991,4061 7008,4061 7072,4064 7098,4065 7258,4071 7297,4073 7498,4082 7541,4084 7591,4086 7858,4099 7870,4099 7912,4101 8051,4108"/>
                 <TextEquiv>
                     <Unicode>Werft über 14 000 Arbeiter beſchäftigt, die Preiſe recht ſchlecht.</Unicode>
                 </TextEquiv>
@@ -7052,7 +7052,7 @@ Nicht geſtellt — —</Unicode>
             </TextLine>
             <TextLine id="r56l23" custom="readingOrder {index:22;}">
                 <Coords points="6636,4593 6640,4575 6678,4564 6854,4568 7391,4589 7594,4600 8030,4621 8030,4642 8028,4666 7525,4642 6774,4613 6642,4605"/>
-                <Baseline points="6640,4602 6893,4608 6939,4610 6965,4611 7220,4621 7245,4622 7320,4625 7360,4626 7604,4635 7650,4642 8021,4658"/>
+                <Baseline points="6640,4601 6893,4608 6939,4610 6965,4611 7220,4621 7245,4622 7320,4625 7360,4626 7604,4635 7650,4642 8021,4658"/>
                 <TextEquiv>
                     <Unicode>mittlungen im Handelshafen Kiel eingegangen: etwa 6020 Schiffe</Unicode>
                 </TextEquiv>
@@ -7255,7 +7255,7 @@ Nicht geſtellt — —</Unicode>
             </TextLine>
             <TextLine id="r56l52" custom="readingOrder {index:51;}">
                 <Coords points="6575,5886 6607,5886 6908,5904 7025,5907 7411,5919 7823,5941 7967,5946 7963,5992 7415,5965 7213,5961 6610,5937 6578,5937 6571,5908"/>
-                <Baseline points="6573,5925 6848,5936 6887,5937 6922,5939 6950,5940 7071,5944 7104,5945 7256,5951 7281,5952 7451,5959 7672,5970 7755,5975 7875,5981 7957,5984"/>
+                <Baseline points="6574,5924 6848,5936 6887,5937 6922,5939 6950,5940 7071,5944 7104,5945 7256,5951 7281,5952 7451,5959 7672,5970 7755,5975 7875,5981 7957,5984"/>
                 <TextEquiv>
                     <Unicode>Frachtenmarkt in einigen wenigen Verkehrsbeziehungen ſich beſſer ge⸗</Unicode>
                 </TextEquiv>
@@ -7360,28 +7360,28 @@ Nicht geſtellt — —</Unicode>
             </TextLine>
             <TextLine id="r56l67" custom="readingOrder {index:66;}">
                 <Coords points="6539,6607 6533,6575 6623,6577 6776,6582 7130,6598 7897,6628 7923,6639 7923,6665 7895,6670 7873,6672 7113,6641 6574,6616"/>
-                <Baseline points="6541,6608 6797,6618 6932,6624 6970,6625 7235,6636 7256,6637 7334,6640 7361,6641 7429,6644 7455,6645 7668,6654 7711,6656 7787,6660 7810,6661 7923,6665"/>
+                <Baseline points="6541,6607 6797,6618 6932,6624 6970,6625 7235,6636 7256,6637 7334,6640 7361,6641 7429,6644 7455,6645 7668,6654 7711,6656 7787,6660 7810,6661 7923,6665"/>
                 <TextEquiv>
                     <Unicode>norwegiſcher Reeder übergegangen ſind, die namentlich, weil ihnen</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r56l68" custom="readingOrder {index:67;}">
                 <Coords points="6537,6617 6554,6617 6737,6624 7616,6662 7860,6670 7925,6679 7921,6717 7753,6712 7691,6712 7487,6705 7264,6693 6949,6679 6716,6672 6534,6658 6532,6617"/>
-                <Baseline points="6537,6652 6586,6655 6611,6657 6857,6666 6886,6667 6978,6671 7002,6672 7123,6677 7150,6678 7294,6683 7311,6684 7426,6689 7453,6690 7631,6698 7660,6699 7789,6705 7806,6706 7922,6710"/>
+                <Baseline points="6537,6652 6586,6655 6611,6657 6857,6666 6886,6667 6978,6671 7002,6672 7123,6677 7150,6678 7294,6683 7311,6684 7426,6689 7453,6690 7631,6698 7660,6699 7789,6705 7806,6706 7921,6709"/>
                 <TextEquiv>
                     <Unicode>die Geſetzgebung ihres Landes weniger Laſten auferlegt, billiger fahren</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r56l69" custom="readingOrder {index:68;}">
                 <Coords points="6530,6662 6588,6662 7026,6677 7434,6698 7863,6714 7878,6717 7925,6731 7925,6755 7878,6762 7847,6762 6686,6710 6530,6702"/>
-                <Baseline points="6537,6699 6588,6699 6684,6705 6739,6708 6782,6710 6832,6712 6859,6713 7026,6719 7065,6720 7131,6723 7174,6724 7351,6730 7379,6731 7454,6735 7457,6737 7512,6739 7551,6741 7617,6744 7663,6746 7717,6747 7758,6749 7920,6756"/>
+                <Baseline points="6537,6699 6588,6699 6684,6705 6739,6708 6782,6710 6832,6712 6859,6713 7026,6719 7065,6720 7131,6723 7174,6724 7351,6730 7379,6731 7454,6735 7457,6737 7512,6739 7551,6741 7617,6744 7663,6746 7717,6747 7758,6749 7919,6755"/>
                 <TextEquiv>
                     <Unicode>können als die deutſchen und engliſchen Reeder und der deutſchen</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r56l70" custom="readingOrder {index:69;}">
                 <Coords points="6527,6732 6527,6707 6560,6708 6680,6710 7447,6742 7628,6754 7667,6764 7678,6782 7678,6788 7667,6796 7521,6796 7302,6789 7036,6780 6560,6754 6531,6751"/>
-                <Baseline points="6529,6745 6753,6754 6823,6757 6850,6758 6975,6763 6997,6764 7258,6773 7281,6774 7493,6783 7521,6784 7676,6792"/>
+                <Baseline points="6529,6744 6753,6754 6823,6757 6850,6758 6975,6763 6997,6764 7258,6773 7281,6774 7493,6783 7521,6784 7674,6790"/>
                 <TextEquiv>
                     <Unicode>Schiffahrt eine immer empfindlichere Konkurrenz bereiten.</Unicode>
                 </TextEquiv>
@@ -7561,14 +7561,14 @@ Schiffahrt eine immer empfindlichere Konkurrenz bereiten.</Unicode>
             </TextLine>
             <TextLine id="r57l15" custom="readingOrder {index:14;}">
                 <Coords points="8236,1809 9316,1863 9319,1905 8237,1856"/>
-                <Baseline points="8236,1849 8466,1861 8929,1883 9308,1900"/>
+                <Baseline points="8236,1848 8466,1861 8929,1883 9308,1900"/>
                 <TextEquiv>
                     <Unicode>ſehr lebhaft zu feſten und teilweiſe ſteigenden Preiſen.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r57l16" custom="readingOrder {index:15;}">
                 <Coords points="9228,1904 9275,1904 9582,1910 9613,1920 9621,1934 9621,1958 9607,1967 9158,1948 8325,1904 8330,1857"/>
-                <Baseline points="8329,1898 8691,1916 9228,1942 9300,1944 9347,1947 9620,1960"/>
+                <Baseline points="8329,1898 8691,1916 9228,1942 9300,1944 9347,1947 9619,1959"/>
                 <TextEquiv>
                     <Unicode>Budapeſt, 3. Januar. (W. T. B.) Der hauptſtädtiſche</Unicode>
                 </TextEquiv>
@@ -7589,7 +7589,7 @@ Schiffahrt eine immer empfindlichere Konkurrenz bereiten.</Unicode>
             </TextLine>
             <TextLine id="r57l19" custom="readingOrder {index:18;}">
                 <Coords points="9095,2035 9112,2035 9199,2039 9491,2054 9502,2081 9502,2087 9491,2097 9475,2097 9366,2093 8224,2036 8223,1992"/>
-                <Baseline points="8235,2030 8846,2061 9095,2071 9249,2078 9275,2080 9401,2085 9427,2086 9500,2091"/>
+                <Baseline points="8235,2030 8846,2061 9095,2071 9249,2078 9275,2080 9401,2085 9427,2086 9498,2089"/>
                 <TextEquiv>
                     <Unicode>von 2 Millionen Pfund, an. Der Uebernahmekurs beträgt 91 ½.</Unicode>
                 </TextEquiv>
@@ -7852,7 +7852,7 @@ Kronen Serie 863 Nr. 24, Serie 863 Nr. 56, Serie 2845 Nr. 59.</Unicode>
             </TextLine>
             <TextLine id="r58l9" custom="readingOrder {index:8;}">
                 <Coords points="8454,3560 8950,3582 8982,3582 9233,3593 9462,3604 9524,3612 9537,3638 9537,3653 9485,3653 8724,3618 8153,3595 8153,3548"/>
-                <Baseline points="8152,3583 8308,3593 8549,3602 8950,3619 9062,3624 9091,3625 9168,3629 9187,3630 9301,3635 9328,3637 9464,3643 9480,3644 9537,3647"/>
+                <Baseline points="8153,3583 8308,3593 8549,3602 8950,3619 9062,3624 9091,3625 9168,3629 9187,3630 9301,3635 9328,3637 9464,3643 9480,3644 9537,3647"/>
                 <TextEquiv>
                     <Unicode>geringe Sorte *) 15,00 ℳ, 14,40 ℳ. — Hafer, gute Sorte *) 18,00 ℳ,</Unicode>
                 </TextEquiv>
@@ -7894,7 +7894,7 @@ Kronen Serie 863 Nr. 24, Serie 863 Nr. 56, Serie 2845 Nr. 59.</Unicode>
             </TextLine>
             <TextLine id="r58l15" custom="readingOrder {index:14;}">
                 <Coords points="8135,3823 8182,3823 8850,3849 9378,3878 9536,3893 9536,3925 9254,3916 9065,3907 8136,3864"/>
-                <Baseline points="8135,3858 8241,3863 8263,3863 8318,3865 8347,3866 8452,3871 8474,3872 8528,3874 8552,3875 8596,3877 8635,3879 8910,3893 8937,3894 9037,3898 9061,3899 9167,3904 9191,3905 9247,3908 9273,3909 9374,3913 9397,3914 9452,3916 9522,3917"/>
+                <Baseline points="8135,3857 8241,3863 8263,3863 8318,3865 8347,3866 8452,3871 8474,3872 8528,3874 8552,3875 8596,3877 8635,3879 8910,3893 8937,3894 9037,3898 9061,3899 9167,3904 9191,3905 9247,3908 9273,3909 9374,3913 9397,3914 9452,3916 9522,3917"/>
                 <TextEquiv>
                     <Unicode>50,00 ℳ, 30,00 ℳ. — Speiſebohnen, weiße 50,00 ℳ, 30,00 ℳ. —</Unicode>
                 </TextEquiv>
@@ -8150,7 +8150,7 @@ Börſenbeilage.</Unicode>
             </TextLine>
             <TextLine id="r60l17" custom="readingOrder {index:16;}">
                 <Coords points="8057,5412 8815,5443 8931,5449 9063,5455 9135,5459 9145,5507 8946,5494 8808,5490 8647,5484 8093,5459 8071,5457 8054,5448"/>
-                <Baseline points="8057,5450 8151,5454 8175,5454 8326,5461 8353,5462 8431,5465 8464,5466 8590,5473 8615,5474 8735,5479 8777,5480 9061,5492 9075,5492 9133,5498"/>
+                <Baseline points="8057,5449 8151,5454 8175,5454 8326,5461 8353,5462 8431,5465 8464,5466 8590,5473 8615,5474 8735,5479 8777,5480 9061,5492 9075,5492 9133,5498"/>
                 <TextEquiv>
                     <Unicode>liſche Konſols 83 ⅛, Silber 24 3⁄16, Privatdiskont 3 ¼.</Unicode>
                 </TextEquiv>
@@ -8199,7 +8199,7 @@ Börſenbeilage.</Unicode>
             </TextLine>
             <TextLine id="r60l24" custom="readingOrder {index:23;}">
                 <Coords points="8040,5734 8111,5734 8561,5755 9333,5790 9438,5803 9438,5827 9333,5834 9267,5830 8990,5816 8431,5794 8038,5776"/>
-                <Baseline points="8040,5768 8111,5771 8154,5773 8233,5776 8275,5778 8346,5781 8388,5783 8650,5794 8694,5796 8757,5798 8798,5799 8838,5801 8875,5803 9131,5814 9170,5816 9432,5829"/>
+                <Baseline points="8040,5768 8111,5771 8154,5773 8233,5776 8275,5778 8346,5781 8388,5783 8650,5794 8694,5796 8757,5798 8798,5799 8838,5801 8875,5803 9131,5814 9170,5816 9431,5827"/>
                 <TextEquiv>
                     <Unicode>trat aber eine Abſchwächung ein, da Realiſationen vorgenommen</Unicode>
                 </TextEquiv>
@@ -8367,7 +8367,7 @@ London 15 ¼.</Unicode>
             </TextLine>
             <TextLine id="r61l5" custom="readingOrder {index:4;}">
                 <Coords points="7987,6665 7994,6640 8063,6637 8381,6646 8795,6662 9343,6690 9370,6694 9389,6709 9389,6721 9384,6729 9340,6736 9312,6731 8572,6700 8107,6681 8007,6676"/>
-                <Baseline points="7998,6671 8427,6685 8477,6687 8508,6689 8542,6690 8833,6703 8860,6704 9109,6715 9132,6716 9191,6718 9231,6720 9264,6721 9290,6722 9386,6728"/>
+                <Baseline points="7998,6671 8427,6685 8477,6687 8508,6689 8542,6690 8833,6703 8860,6704 9109,6715 9132,6716 9191,6718 9231,6720 9264,6721 9290,6722 9385,6727"/>
                 <TextEquiv>
                     <Unicode>und Flammkohle: a. Gasförderkohle 12,00 — 14,00 ℳ, b. Gas⸗</Unicode>
                 </TextEquiv>

@@ -1,22 +1,22 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
     <Metadata>
         <Creator>Transkribus</Creator>
         <Created>2021-12-14T11:50:06.232+01:00</Created>
-        <LastChange>2022-12-07T16:07:10.307+01:00</LastChange>
+        <LastChange>2023-11-15T20:45:59.731+01:00</LastChange>
         <Comments>
                 Measurement unit: pixel
                 PrimaryLanguage: 
                 Producer: Transkribus
             </Comments>
-        <TranskribusMetadata docId="921581" pageId="35138896" pageNr="4" tsid="105747796" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=QSERBLLATRBKOHSSRAHTGGCC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VYOHLQQNYHAPGXMTMTNGQDLD" imageId="28254088"/>
+        <TranskribusMetadata docId="921581" pageId="35138896" pageNr="4" tsid="139840539" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=QSERBLLATRBKOHSSRAHTGGCC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZXZNFCAVFBWPBZBDDFJXJSOP" imageId="28254088"/>
     </Metadata>
     <Page imageFilename="1883_3_0036.jpg" imageWidth="10040" imageHeight="7080">
         <PrintSpace>
             <Coords points="468,219 9846,299 9759,6901 329,6810"/>
         </PrintSpace>
         <ReadingOrder>
-            <OrderedGroup id="ro_1690360007022" caption="Regions reading order">
+            <OrderedGroup id="ro_1700129734108" caption="Regions reading order">
                 <RegionRefIndexed index="2" regionRef="r1"/>
                 <RegionRefIndexed index="3" regionRef="r2"/>
                 <RegionRefIndexed index="4" regionRef="r3"/>
@@ -42,7 +42,7 @@
                 <Coords points="600,487 592,775 1256,785 1265,500"/>
                 <TextLine id="line_1647255125254_9" custom="readingOrder {index:0;}">
                     <Coords points="898,613 1013,611 1014,661 899,663"/>
-                    <Baseline points="899,658 1014,656"/>
+                    <Baseline points="899,658 1013,656"/>
                     <TextEquiv>
                         <Unicode>Nach:</Unicode>
                     </TextEquiv>
@@ -96,7 +96,7 @@
                 <Coords points="1529,504 1522,789 1673,791 1681,507"/>
                 <TextLine id="line_1647255185544_49" custom="readingOrder {index:0;}">
                     <Coords points="1546,513 1654,516 1655,547 1547,544"/>
-                    <Baseline points="1547,539 1655,542"/>
+                    <Baseline points="1547,539 1654,542"/>
                     <TextEquiv>
                         <Unicode>Druck-</Unicode>
                     </TextEquiv>
@@ -110,7 +110,7 @@
                 </TextLine>
                 <TextLine id="line_1647255195590_59" custom="readingOrder {index:2;}">
                     <Coords points="1543,577 1666,577 1669,614 1546,614"/>
-                    <Baseline points="1546,609 1669,609"/>
+                    <Baseline points="1546,609 1668,609"/>
                     <TextEquiv>
                         <Unicode>Waaren-</Unicode>
                     </TextEquiv>
@@ -138,14 +138,14 @@
                 </TextLine>
                 <TextLine id="line_1647255211981_79" custom="readingOrder {index:6;}">
                     <Coords points="1538,716 1657,720 1659,751 1540,747"/>
-                    <Baseline points="1540,742 1659,746"/>
+                    <Baseline points="1540,742 1658,746"/>
                     <TextEquiv>
                         <Unicode>papiere.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="line_1647255216266_84" custom="readingOrder {index:7;}">
                     <Coords points="1574,751 1615,751 1618,782 1577,782"/>
-                    <Baseline points="1577,777 1618,777"/>
+                    <Baseline points="1577,777 1617,777"/>
                     <TextEquiv>
                         <Unicode>Pf.</Unicode>
                     </TextEquiv>
@@ -266,7 +266,7 @@
                 </TextLine>
                 <TextLine id="line_1647259437292_353" custom="readingOrder {index:8;}">
                     <Coords points="1243,2255 1331,2255 1334,2294 1246,2294"/>
-                    <Baseline points="1246,2289 1334,2289"/>
+                    <Baseline points="1246,2289 1333,2289"/>
                     <TextEquiv>
                         <Unicode>15 g</Unicode>
                     </TextEquiv>
@@ -309,7 +309,7 @@
                 </TextLine>
                 <TextLine id="line_1647259528778_407" custom="readingOrder {index:3;}">
                     <Coords points="1536,1872 1604,1877 1605,1913 1538,1914"/>
-                    <Baseline points="1538,1909 1605,1908"/>
+                    <Baseline points="1538,1909 1604,1908"/>
                     <TextEquiv>
                         <Unicode>Ge-</Unicode>
                     </TextEquiv>
@@ -351,7 +351,7 @@
                 </TextLine>
                 <TextLine id="line_1647259553004_437" custom="readingOrder {index:9;}">
                     <Coords points="1536,2141 1592,2139 1594,2189 1538,2191"/>
-                    <Baseline points="1538,2186 1594,2184"/>
+                    <Baseline points="1538,2186 1593,2184"/>
                     <TextEquiv>
                         <Unicode>20,</Unicode>
                     </TextEquiv>
@@ -1129,7 +1129,7 @@
                 <Coords points="1775,2711 1774,2764 1772,2854 2753,2874 2755,2784 2756,2731"/>
                 <TextLine id="line_1647260990613_874" custom="readingOrder {index:0;}">
                     <Coords points="1783,2715 2749,2734 2751,2779 1785,2760"/>
-                    <Baseline points="1785,2755 2751,2774"/>
+                    <Baseline points="1785,2755 2750,2774"/>
                     <TextEquiv>
                         <Unicode>48) Ueber Italien, sofern nicht über Triest</Unicode>
                     </TextEquiv>
@@ -1408,7 +1408,7 @@
                 </TextLine>
                 <TextLine id="line_1647257812901_145" custom="readingOrder {index:2;}">
                     <Coords points="3630,767 3680,764 3683,814 3633,817"/>
-                    <Baseline points="3633,812 3683,809"/>
+                    <Baseline points="3633,812 3682,809"/>
                     <TextEquiv>
                         <Unicode>Pf.</Unicode>
                     </TextEquiv>
@@ -1433,7 +1433,7 @@
                 </TextLine>
                 <TextLine id="line_1647257834343_163" custom="readingOrder {index:2;}">
                     <Coords points="3735,612 3856,614 3862,647 3741,645"/>
-                    <Baseline points="3741,640 3862,642"/>
+                    <Baseline points="3741,640 3861,642"/>
                     <TextEquiv>
                         <Unicode>Waaren-</Unicode>
                     </TextEquiv>
@@ -1447,7 +1447,7 @@
                 </TextLine>
                 <TextLine id="line_1647257841466_173" custom="readingOrder {index:4;}">
                     <Coords points="3762,680 3819,678 3821,712 3764,714"/>
-                    <Baseline points="3764,709 3821,707"/>
+                    <Baseline points="3764,709 3820,707"/>
                     <TextEquiv>
                         <Unicode>Ge-</Unicode>
                     </TextEquiv>
@@ -1461,14 +1461,14 @@
                 </TextLine>
                 <TextLine id="line_1647257848780_183" custom="readingOrder {index:6;}">
                     <Coords points="3733,751 3850,751 3852,782 3735,782"/>
-                    <Baseline points="3735,777 3852,777"/>
+                    <Baseline points="3735,777 3851,777"/>
                     <TextEquiv>
                         <Unicode>papiere.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="line_1647257852081_188" custom="readingOrder {index:7;}">
                     <Coords points="3770,784 3818,783 3819,815 3771,816"/>
-                    <Baseline points="3771,811 3819,810"/>
+                    <Baseline points="3771,811 3818,810"/>
                     <TextEquiv>
                         <Unicode>Pf.</Unicode>
                     </TextEquiv>
@@ -1500,7 +1500,7 @@
                 </TextLine>
                 <TextLine id="line_1647257901074_219" custom="readingOrder {index:3;}">
                     <Coords points="3920,770 3966,769 3967,819 3921,820"/>
-                    <Baseline points="3921,815 3967,814"/>
+                    <Baseline points="3921,815 3966,814"/>
                     <TextEquiv>
                         <Unicode>Pf.</Unicode>
                     </TextEquiv>
@@ -1589,7 +1589,7 @@
                 </TextLine>
                 <TextLine id="line_1647261489155_1159" custom="readingOrder {index:8;}">
                     <Coords points="3442,2310 3526,2307 3528,2350 3444,2353"/>
-                    <Baseline points="3444,2348 3528,2345"/>
+                    <Baseline points="3444,2348 3527,2345"/>
                     <TextEquiv>
                         <Unicode>15 g</Unicode>
                     </TextEquiv>
@@ -1611,7 +1611,7 @@
                 <Coords points="3721,819 3718,917 3715,1049 3711,1182 3706,1360 3704,1447 3702,1517 3701,1572 3699,1623 3697,1709 3696,1762 3694,1808 3693,1848 3692,1895 3691,1944 3690,1985 3688,2035 3687,2084 3686,2126 3685,2171 3683,2220 3682,2269 3681,2310 3680,2356 3678,2403 3677,2440 3675,2533 3671,2674 3670,2723 3666,2863 3662,2996 3661,3064 3659,3110 3658,3160 3654,3295 3652,3386 3650,3445 3808,3447 3809,3388 3811,3298 3814,3162 3815,3111 3816,3065 3817,2999 3820,2865 3823,2724 3824,2676 3827,2535 3829,2440 3830,2406 3831,2358 3832,2312 3833,2271 3834,2222 3835,2173 3836,2127 3837,2086 3838,2036 3839,1987 3840,1946 3841,1897 3842,1850 3843,1811 3844,1764 3845,1712 3847,1625 3848,1573 3849,1518 3851,1447 3852,1361 3856,1184 3859,1051 3862,918 3864,820"/>
                 <TextLine id="line_1647262587968_1185" custom="readingOrder {index:0;}">
                     <Coords points="3753,1735 3778,1734 3780,1784 3755,1785"/>
-                    <Baseline points="3755,1780 3780,1779"/>
+                    <Baseline points="3755,1780 3779,1779"/>
                     <TextEquiv>
                         <Unicode>5</Unicode>
                     </TextEquiv>
@@ -1646,7 +1646,7 @@
                 </TextLine>
                 <TextLine id="line_1647262610976_1210" custom="readingOrder {index:5;}">
                     <Coords points="3732,1975 3797,1975 3796,2016 3731,2016"/>
-                    <Baseline points="3732,2007 3797,2007"/>
+                    <Baseline points="3732,2007 3796,2006"/>
                     <TextEquiv>
                         <Unicode>pa-</Unicode>
                     </TextEquiv>
@@ -1681,7 +1681,7 @@
                 </TextLine>
                 <TextLine id="line_1647262634851_1235" custom="readingOrder {index:10;}">
                     <Coords points="3704,2202 3812,2203 3813,2245 3705,2244"/>
-                    <Baseline points="3705,2239 3813,2240"/>
+                    <Baseline points="3705,2239 3812,2240"/>
                     <TextEquiv>
                         <Unicode>Waa-</Unicode>
                     </TextEquiv>
@@ -1695,7 +1695,7 @@
                 </TextLine>
                 <TextLine id="line_1647262642926_1245" custom="readingOrder {index:12;}">
                     <Coords points="3684,2291 3820,2294 3822,2336 3686,2333"/>
-                    <Baseline points="3686,2328 3822,2331"/>
+                    <Baseline points="3686,2328 3821,2331"/>
                     <TextEquiv>
                         <Unicode>proben</Unicode>
                     </TextEquiv>
@@ -1788,7 +1788,7 @@
                 <Coords points="4018,924 4014,1053 5024,1073 5025,939"/>
                 <TextLine id="line_1647262794879_1319" custom="readingOrder {index:0;}">
                     <Coords points="4022,926 4996,936 4998,982 4024,965"/>
-                    <Baseline points="4024,960 4998,977"/>
+                    <Baseline points="4024,960 4997,977"/>
                     <TextEquiv>
                         <Unicode>54) Mauritius nebst Amiranten, Seychellen</Unicode>
                     </TextEquiv>
@@ -2018,7 +2018,7 @@
                 <Coords points="2808,1701 2807,1748 3424,1758 3425,1713"/>
                 <TextLine id="line_1647261113886_937" custom="readingOrder {index:0;}">
                     <Coords points="2832,1705 3046,1708 3047,1750 2833,1747"/>
-                    <Baseline points="2833,1742 3047,1745"/>
+                    <Baseline points="2833,1742 3046,1745"/>
                     <TextEquiv>
                         <Unicode>61) Chile.</Unicode>
                     </TextEquiv>
@@ -2077,7 +2077,7 @@
                 <Coords points="2805,1836 2804,1886 3420,1893 3422,1845"/>
                 <TextLine id="line_1647261171819_969" custom="readingOrder {index:0;}">
                     <Coords points="2829,1841 3110,1845 3111,1890 2830,1886"/>
-                    <Baseline points="2830,1881 3111,1885"/>
+                    <Baseline points="2830,1881 3110,1885"/>
                     <TextEquiv>
                         <Unicode>64) Ecuador.</Unicode>
                     </TextEquiv>
@@ -2114,7 +2114,7 @@
                 <Coords points="2803,1931 2802,1974 3418,1982 3419,1940"/>
                 <TextLine id="line_1647261199908_985" custom="readingOrder {index:0;}">
                     <Coords points="2810,1936 3136,1936 3169,1936 3169,1978 2999,1976 2810,1971"/>
-                    <Baseline points="2810,1971 2873,1972 2926,1972 3159,1978 3169,1978"/>
+                    <Baseline points="2810,1971 2873,1972 2926,1972 3159,1977 3169,1978"/>
                     <TextEquiv>
                         <Unicode>66) Guatemala.</Unicode>
                     </TextEquiv>
@@ -2244,7 +2244,7 @@
                 <Coords points="3986,2273 3985,2314 5009,2342 5009,2288"/>
                 <TextLine id="line_1647263027968_1419" custom="readingOrder {index:0;}">
                     <Coords points="3995,2273 4748,2288 4752,2333 3997,2316"/>
-                    <Baseline points="3997,2311 4752,2328"/>
+                    <Baseline points="3997,2311 4751,2328"/>
                     <TextEquiv>
                         <Unicode>73) Postkarten mit Antwort 20 ₰.</Unicode>
                     </TextEquiv>
@@ -2383,7 +2383,7 @@
                 <Coords points="3977,2679 3981,2733 5007,2756 5006,2700"/>
                 <TextLine id="line_1647263267057_1442" custom="readingOrder {index:0;}">
                     <Coords points="3989,2684 4774,2701 4775,2744 3990,2727"/>
-                    <Baseline points="3990,2722 4775,2739"/>
+                    <Baseline points="3990,2722 4774,2739"/>
                     <TextEquiv>
                         <Unicode>79) Ste. Croix, St. Jean, St. Thomas.</Unicode>
                     </TextEquiv>
@@ -3220,7 +3220,7 @@ gebenen Vorschriften, jedoch nach Abzug des vom Absender bereits gezahlten Betra
                 </TextLine>
                 <TextLine id="line_1647265614043_1835" custom="readingOrder {index:5;}">
                     <Coords points="1843,5058 1936,5058 1937,5098 1844,5098"/>
-                    <Baseline points="1844,5093 1937,5093"/>
+                    <Baseline points="1844,5093 1936,5093"/>
                     <TextEquiv>
                         <Unicode>min-</Unicode>
                     </TextEquiv>
@@ -3284,7 +3284,7 @@ gebenen Vorschriften, jedoch nach Abzug des vom Absender bereits gezahlten Betra
                 <Coords points="544,5298 540,5441 1132,5449 1135,5307"/>
                 <TextLine id="line_1647265804732_1902" custom="readingOrder {index:0;}">
                     <Coords points="585,5300 809,5303 806,5360 582,5357"/>
-                    <Baseline points="584,5345 808,5348"/>
+                    <Baseline points="584,5345 806,5347"/>
                     <TextEquiv>
                         <Unicode>2) Belgien</Unicode>
                     </TextEquiv>
@@ -3320,7 +3320,7 @@ gebenen Vorschriften, jedoch nach Abzug des vom Absender bereits gezahlten Betra
                 <Coords points="1358,5310 1355,5460 1568,5458 1571,5313"/>
                 <TextLine id="line_1647265853524_1919" custom="readingOrder {index:0;}">
                     <Coords points="1435,5316 1491,5315 1492,5365 1436,5366"/>
-                    <Baseline points="1436,5361 1492,5360"/>
+                    <Baseline points="1436,5361 1491,5360"/>
                     <TextEquiv>
                         <Unicode>20</Unicode>
                     </TextEquiv>
@@ -3439,7 +3439,7 @@ gebenen Vorschriften, jedoch nach Abzug des vom Absender bereits gezahlten Betra
                 <Coords points="1568,5458 1569,5602 1765,5594 1767,5457"/>
                 <TextLine id="line_1647265950344_1969" custom="readingOrder {index:0;}">
                     <Coords points="1642,5456 1697,5455 1698,5505 1643,5506"/>
-                    <Baseline points="1643,5501 1698,5500"/>
+                    <Baseline points="1643,5501 1697,5500"/>
                     <TextEquiv>
                         <Unicode>20</Unicode>
                     </TextEquiv>
@@ -3450,7 +3450,7 @@ gebenen Vorschriften, jedoch nach Abzug des vom Absender bereits gezahlten Betra
                 <Coords points="1767,5457 1765,5594 1995,5608 1998,5460"/>
                 <TextLine id="line_1647265961209_1977" custom="readingOrder {index:0;}">
                     <Coords points="1878,5459 1905,5458 1907,5508 1880,5509"/>
-                    <Baseline points="1880,5504 1907,5503"/>
+                    <Baseline points="1880,5504 1906,5503"/>
                     <TextEquiv>
                         <Unicode>8</Unicode>
                     </TextEquiv>
@@ -3557,7 +3557,7 @@ gebenen Vorschriften, jedoch nach Abzug des vom Absender bereits gezahlten Betra
                 <Coords points="1564,5639 1564,5686 1763,5688 1764,5642"/>
                 <TextLine id="line_1647266111956_2067" custom="readingOrder {index:0;}">
                     <Coords points="1639,5642 1696,5640 1699,5685 1642,5687"/>
-                    <Baseline points="1642,5682 1699,5680"/>
+                    <Baseline points="1642,5682 1698,5680"/>
                     <TextEquiv>
                         <Unicode>20</Unicode>
                     </TextEquiv>
@@ -3583,7 +3583,7 @@ gebenen Vorschriften, jedoch nach Abzug des vom Absender bereits gezahlten Betra
                 <Coords points="535,5674 534,5715 1127,5723 1127,5681"/>
                 <TextLine id="line_1647266021777_2004" custom="readingOrder {index:0;}">
                     <Coords points="677,5674 1074,5682 1075,5722 678,5714"/>
-                    <Baseline points="678,5709 1075,5717"/>
+                    <Baseline points="678,5709 1074,5717"/>
                     <TextEquiv>
                         <Unicode>b. Island u. Faröer</Unicode>
                     </TextEquiv>
@@ -3605,7 +3605,7 @@ gebenen Vorschriften, jedoch nach Abzug des vom Absender bereits gezahlten Betra
                 <Coords points="1564,5686 1563,5729 1762,5732 1763,5688"/>
                 <TextLine id="line_1647266123218_2082" custom="readingOrder {index:0;}">
                     <Coords points="1644,5690 1696,5690 1697,5730 1645,5730"/>
-                    <Baseline points="1645,5725 1697,5725"/>
+                    <Baseline points="1645,5725 1696,5725"/>
                     <TextEquiv>
                         <Unicode>20</Unicode>
                     </TextEquiv>
@@ -3616,7 +3616,7 @@ gebenen Vorschriften, jedoch nach Abzug des vom Absender bereits gezahlten Betra
                 <Coords points="1763,5688 1762,5732 1993,5735 1994,5691"/>
                 <TextLine id="line_1647266127102_2087" custom="readingOrder {index:0;}">
                     <Coords points="1880,5692 1903,5695 1902,5736 1879,5733"/>
-                    <Baseline points="1880,5728 1903,5731"/>
+                    <Baseline points="1880,5728 1902,5730"/>
                     <TextEquiv>
                         <Unicode>8</Unicode>
                     </TextEquiv>
@@ -3679,7 +3679,7 @@ gebenen Vorschriften, jedoch nach Abzug des vom Absender bereits gezahlten Betra
                 <Coords points="533,5754 527,5971 1122,5993 1126,5770"/>
                 <TextLine id="line_1647266202263_2111" custom="readingOrder {index:0;}">
                     <Coords points="568,5765 815,5771 817,5810 570,5804"/>
-                    <Baseline points="570,5799 817,5805"/>
+                    <Baseline points="570,5799 816,5805"/>
                     <TextEquiv>
                         <Unicode>5) Egypten</Unicode>
                     </TextEquiv>
@@ -3845,7 +3845,7 @@ gebenen Vorschriften, jedoch nach Abzug des vom Absender bereits gezahlten Betra
                 <Coords points="1757,5995 1754,6133 1986,6136 1988,6000"/>
                 <TextLine id="line_1647266345255_2204" custom="readingOrder {index:0;}">
                     <Coords points="1869,6004 1902,6003 1903,6053 1870,6054"/>
-                    <Baseline points="1870,6049 1903,6048"/>
+                    <Baseline points="1870,6049 1902,6048"/>
                     <TextEquiv>
                         <Unicode>8</Unicode>
                     </TextEquiv>
@@ -3910,7 +3910,7 @@ gebenen Vorschriften, jedoch nach Abzug des vom Absender bereits gezahlten Betra
                 <Coords points="1344,6133 1340,6248 1553,6252 1555,6130"/>
                 <TextLine id="line_1647266489055_2264" custom="readingOrder {index:0;}">
                     <Coords points="1422,6133 1472,6132 1473,6182 1423,6183"/>
-                    <Baseline points="1423,6178 1473,6177"/>
+                    <Baseline points="1423,6178 1472,6177"/>
                     <TextEquiv>
                         <Unicode>20</Unicode>
                     </TextEquiv>
@@ -4037,7 +4037,7 @@ gebenen Vorschriften, jedoch nach Abzug des vom Absender bereits gezahlten Betra
                 <Coords points="1114,6355 1109,6587 1333,6590 1338,6359"/>
                 <TextLine id="line_1647266557495_2321" custom="readingOrder {index:0;}">
                     <Coords points="1144,6356 1304,6363 1305,6408 1145,6401"/>
-                    <Baseline points="1145,6396 1305,6403"/>
+                    <Baseline points="1145,6396 1304,6403"/>
                     <TextEquiv>
                         <Unicode>4000 ℳ</Unicode>
                     </TextEquiv>
@@ -4073,7 +4073,7 @@ gebenen Vorschriften, jedoch nach Abzug des vom Absender bereits gezahlten Betra
                 <Coords points="1551,6354 1546,6593 1745,6596 1749,6358"/>
                 <TextLine id="line_1647266612963_2354" custom="readingOrder {index:0;}">
                     <Coords points="1627,6363 1681,6362 1682,6412 1628,6413"/>
-                    <Baseline points="1628,6408 1682,6407"/>
+                    <Baseline points="1628,6408 1681,6407"/>
                     <TextEquiv>
                         <Unicode>20</Unicode>
                     </TextEquiv>
@@ -4269,7 +4269,7 @@ gebenen Vorschriften, jedoch nach Abzug des vom Absender bereits gezahlten Betra
                 </TextLine>
                 <TextLine id="line_1647266743257_2444" custom="readingOrder {index:2;}">
                     <Coords points="3823,4596 3963,4601 3961,4639 3823,4641"/>
-                    <Baseline points="3821,4629 3961,4634"/>
+                    <Baseline points="3823,4629 3961,4634"/>
                     <TextEquiv>
                         <Unicode>gebühr</Unicode>
                     </TextEquiv>
@@ -4376,7 +4376,7 @@ gebenen Vorschriften, jedoch nach Abzug des vom Absender bereits gezahlten Betra
                 <Coords points="3571,4802 3564,4992 3791,4987 3794,4805"/>
                 <TextLine id="line_1647266891906_2544" custom="readingOrder {index:0;}">
                     <Coords points="3650,4846 3707,4845 3708,4895 3651,4896"/>
-                    <Baseline points="3651,4891 3708,4890"/>
+                    <Baseline points="3651,4891 3707,4890"/>
                     <TextEquiv>
                         <Unicode>20</Unicode>
                     </TextEquiv>
@@ -4398,7 +4398,7 @@ gebenen Vorschriften, jedoch nach Abzug des vom Absender bereits gezahlten Betra
                 <Coords points="3989,4808 3986,4989 4208,4992 4211,4812"/>
                 <TextLine id="line_1647266898616_2554" custom="readingOrder {index:0;}">
                     <Coords points="4097,4857 4123,4856 4125,4906 4099,4907"/>
-                    <Baseline points="4099,4902 4125,4901"/>
+                    <Baseline points="4099,4902 4124,4901"/>
                     <TextEquiv>
                         <Unicode>8</Unicode>
                     </TextEquiv>
@@ -4427,7 +4427,7 @@ gebenen Vorschriften, jedoch nach Abzug des vom Absender bereits gezahlten Betra
                 <Coords points="2749,4975 2745,5204 3337,5217 3341,4982"/>
                 <TextLine id="line_1647266935582_2571" custom="readingOrder {index:0;}">
                     <Coords points="2763,4978 3086,4986 3086,5032 2763,5024"/>
-                    <Baseline points="2764,5012 3087,5020"/>
+                    <Baseline points="2764,5012 3086,5020"/>
                     <TextEquiv>
                         <Unicode>11) Niederland</Unicode>
                     </TextEquiv>
@@ -4560,7 +4560,7 @@ gebenen Vorschriften, jedoch nach Abzug des vom Absender bereits gezahlten Betra
                 <Coords points="3337,5217 3335,5302 3562,5305 3563,5220"/>
                 <TextLine id="line_1647267160327_2690" custom="readingOrder {index:0;}">
                     <Coords points="3397,5220 3503,5224 3504,5261 3398,5257"/>
-                    <Baseline points="3398,5252 3504,5256"/>
+                    <Baseline points="3398,5252 3503,5256"/>
                     <TextEquiv>
                         <Unicode>unbe-</Unicode>
                     </TextEquiv>
@@ -4894,7 +4894,7 @@ gebenen Vorschriften, jedoch nach Abzug des vom Absender bereits gezahlten Betra
                 <Coords points="3779,5626 3777,5763 3974,5766 3977,5628"/>
                 <TextLine id="line_1647267543114_2834" custom="readingOrder {index:0;}">
                     <Coords points="3849,5629 3902,5627 3904,5677 3851,5679"/>
-                    <Baseline points="3851,5674 3904,5672"/>
+                    <Baseline points="3851,5674 3903,5672"/>
                     <TextEquiv>
                         <Unicode>20</Unicode>
                     </TextEquiv>
@@ -5068,7 +5068,7 @@ gebenen Vorschriften, jedoch nach Abzug des vom Absender bereits gezahlten Betra
                 <Coords points="3772,6007 3770,6106 3969,6109 3971,6010"/>
                 <TextLine id="line_1647267684750_2928" custom="readingOrder {index:0;}">
                     <Coords points="3848,6014 3898,6012 3900,6062 3850,6064"/>
-                    <Baseline points="3850,6059 3900,6057"/>
+                    <Baseline points="3850,6059 3899,6057"/>
                     <TextEquiv>
                         <Unicode>20</Unicode>
                     </TextEquiv>
@@ -5108,7 +5108,7 @@ gebenen Vorschriften, jedoch nach Abzug des vom Absender bereits gezahlten Betra
                 <Coords points="2733,6091 2731,6245 3317,6255 3320,6100"/>
                 <TextLine id="line_1647267722229_2944" custom="readingOrder {index:0;}">
                     <Coords points="2747,6097 3013,6102 3014,6141 2748,6136"/>
-                    <Baseline points="2748,6131 3014,6136"/>
+                    <Baseline points="2748,6131 3013,6136"/>
                     <TextEquiv>
                         <Unicode>19) Schweiz</Unicode>
                     </TextEquiv>
@@ -5144,14 +5144,14 @@ gebenen Vorschriften, jedoch nach Abzug des vom Absender bereits gezahlten Betra
                 </TextLine>
                 <TextLine id="TableCell_1642669334680_6586l1" custom="readingOrder {index:1;}">
                     <Coords points="3549,6154 3694,6153 3718,6153 3766,6161 3769,6184 3763,6199 3717,6201 3682,6201 3615,6203 3549,6197"/>
-                    <Baseline points="3549,6190 3612,6191 3618,6191 3769,6181"/>
+                    <Baseline points="3549,6190 3612,6191 3618,6191 3768,6181"/>
                     <TextEquiv>
                         <Unicode>(im Grenz-</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="TableCell_1642669334680_6586l2" custom="readingOrder {index:2;}">
                     <Coords points="3549,6200 3569,6200 3768,6202 3759,6252 3709,6251 3549,6235"/>
-                    <Baseline points="3549,6235 3672,6237 3701,6238 3768,6238"/>
+                    <Baseline points="3549,6235 3672,6237 3701,6238 3761,6236"/>
                     <TextEquiv>
                         <Unicode>bezirk 10)</Unicode>
                     </TextEquiv>
@@ -5173,7 +5173,7 @@ gebenen Vorschriften, jedoch nach Abzug des vom Absender bereits gezahlten Betra
                 <Coords points="3969,6109 3967,6266 4182,6270 4185,6118"/>
                 <TextLine id="line_1647267789510_2977" custom="readingOrder {index:0;}">
                     <Coords points="4070,6132 4101,6131 4102,6181 4071,6182"/>
-                    <Baseline points="4071,6177 4102,6176"/>
+                    <Baseline points="4071,6177 4101,6176"/>
                     <TextEquiv>
                         <Unicode>8</Unicode>
                     </TextEquiv>
@@ -5220,7 +5220,7 @@ gebenen Vorschriften, jedoch nach Abzug des vom Absender bereits gezahlten Betra
                 </TextLine>
                 <TextLine id="TableCell_1642669328699_6502l1" custom="readingOrder {index:1;}">
                     <Coords points="3327,6302 3438,6308 3541,6310 3538,6348 3485,6345 3359,6347 3326,6358 3324,6317"/>
-                    <Baseline points="3325,6346 3438,6344 3473,6344 3534,6345"/>
+                    <Baseline points="3325,6345 3438,6344 3473,6344 3534,6345"/>
                     <TextEquiv>
                         <Unicode>(5000 Frs.)</Unicode>
                     </TextEquiv>
@@ -5376,7 +5376,7 @@ gebenen Vorschriften, jedoch nach Abzug des vom Absender bereits gezahlten Betra
                 <Coords points="2729,6475 2726,6614 3310,6625 3536,6629 3761,6633 3961,6637 4175,6641 4988,6658 4987,6512 4178,6498 3963,6495 3764,6492 3539,6489 3313,6483"/>
                 <TextLine id="line_1647268030550_3103" custom="readingOrder {index:0;}">
                     <Coords points="2885,6479 4886,6519 4887,6559 2886,6519"/>
-                    <Baseline points="2886,6514 4887,6554"/>
+                    <Baseline points="2886,6514 4886,6554"/>
                     <TextEquiv>
                         <Unicode>Der Tarif für Briefe mit Werthangabe nach Griechenland, Montenegro und der Türkei ist bei</Unicode>
                     </TextEquiv>
@@ -5444,7 +5444,7 @@ dasselbe mit lateinischen Schriftzeichen.</Unicode>
             <Coords points="7456,683 9622,728 9607,921 7451,870"/>
             <TextLine id="r6l1" custom="readingOrder {index:0;}">
                 <Coords points="7674,686 9116,716 9558,726 9585,739 9593,768 9593,781 9551,785 9400,777 7673,728"/>
-                <Baseline points="7673,731 9115,761 9131,762 9593,773"/>
+                <Baseline points="7673,728 9115,761 9131,762 9593,773"/>
                 <TextEquiv>
                     <Unicode>Für telegraphische Postanweisungen ist zu entrichten: a. die Postanweisungsgebühr,</Unicode>
                 </TextEquiv>
@@ -5483,7 +5483,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                 <Coords points="5211,881 5207,1008 5205,1088 5832,1095 5833,1018 5835,892"/>
                 <TextLine id="line_1647268287229_3150" custom="readingOrder {index:0;}">
                     <Coords points="5381,893 5704,888 5705,938 5382,943"/>
-                    <Baseline points="5382,938 5705,933"/>
+                    <Baseline points="5382,938 5704,933"/>
                     <TextEquiv>
                         <Unicode>Benennung</Unicode>
                     </TextEquiv>
@@ -5742,7 +5742,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                 <Coords points="8481,1125 8477,1263 9637,1277 9640,1140"/>
                 <TextLine id="line_1647268638887_3283" custom="readingOrder {index:0;}">
                     <Coords points="8498,1135 9590,1175 9591,1214 8497,1185"/>
-                    <Baseline points="8497,1180 9591,1209"/>
+                    <Baseline points="8497,1180 9590,1209"/>
                     <TextEquiv>
                         <Unicode>1) Eilbestellgebühr s. Tarif A. No. 1. —</Unicode>
                     </TextEquiv>
@@ -5872,7 +5872,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                 <Coords points="5200,1355 5198,1453 5827,1453 5828,1362"/>
                 <TextLine id="line_1647268801087_3361" custom="readingOrder {index:0;}">
                     <Coords points="5276,1364 5483,1358 5484,1408 5277,1414"/>
-                    <Baseline points="5277,1409 5484,1403"/>
+                    <Baseline points="5277,1409 5483,1403"/>
                     <TextEquiv>
                         <Unicode>3) Belgien</Unicode>
                     </TextEquiv>
@@ -6019,7 +6019,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                 <Coords points="5198,1453 5197,1546 5822,1543 5827,1453"/>
                 <TextLine id="line_1647268924719_3422" custom="readingOrder {index:0;}">
                     <Coords points="5282,1457 5594,1451 5595,1498 5283,1504"/>
-                    <Baseline points="5283,1499 5595,1493"/>
+                    <Baseline points="5283,1499 5594,1493"/>
                     <TextEquiv>
                         <Unicode>4) Cap-Kolonie</Unicode>
                     </TextEquiv>
@@ -6110,7 +6110,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                 <Coords points="6543,1557 6541,1648 6902,1660 6915,1567"/>
                 <TextLine id="line_1647269013077_3467" custom="readingOrder {index:0;}">
                     <Coords points="6661,1560 6786,1562 6787,1606 6662,1604"/>
-                    <Baseline points="6662,1599 6787,1601"/>
+                    <Baseline points="6662,1599 6786,1601"/>
                     <TextEquiv>
                         <Unicode>20 ℳ</Unicode>
                     </TextEquiv>
@@ -6255,7 +6255,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                 <Coords points="5195,1729 5193,1817 5816,1814 5820,1728"/>
                 <TextLine id="line_1647269305891_3606" custom="readingOrder {index:0;}">
                     <Coords points="5274,1737 5495,1732 5496,1772 5275,1777"/>
-                    <Baseline points="5275,1772 5496,1767"/>
+                    <Baseline points="5275,1772 5495,1767"/>
                     <TextEquiv>
                         <Unicode>7) Egypten</Unicode>
                     </TextEquiv>
@@ -6427,7 +6427,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                 <Coords points="5816,1814 5819,1932 5810,2236 6170,2250 6176,1938 6175,1827"/>
                 <TextLine id="line_1647269277659_3588" custom="readingOrder {index:0;}">
                     <Coords points="5858,1822 6133,1830 6135,1871 5860,1863"/>
-                    <Baseline points="5860,1858 6135,1866"/>
+                    <Baseline points="5860,1858 6134,1866"/>
                     <TextEquiv>
                         <Unicode>500 Franken.</Unicode>
                     </TextEquiv>
@@ -6438,7 +6438,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                 <Coords points="6175,1827 6176,1938 6170,2250 6527,2253 6534,1944 6537,1834"/>
                 <TextLine id="line_1647269262655_3579" custom="readingOrder {index:0;}">
                     <Coords points="6323,1833 6377,1831 6379,1869 6325,1871"/>
-                    <Baseline points="6325,1866 6379,1864"/>
+                    <Baseline points="6325,1866 6378,1864"/>
                     <TextEquiv>
                         <Unicode>20</Unicode>
                     </TextEquiv>
@@ -6503,7 +6503,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                 <Coords points="8454,1821 8448,1873 8448,1977 9619,1996 9620,1860"/>
                 <TextLine id="line_1647269107133_3505" custom="readingOrder {index:0;}">
                     <Coords points="8493,1828 9578,1861 9581,1898 8493,1868"/>
-                    <Baseline points="8493,1863 9581,1893"/>
+                    <Baseline points="8493,1863 9580,1893"/>
                     <TextEquiv>
                         <Unicode>7) Postanweisungen sind nach allen grösseren</Unicode>
                     </TextEquiv>
@@ -6731,7 +6731,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                 <Coords points="5187,2364 5185,2482 5802,2490 5814,2370"/>
                 <TextLine id="line_1647269449250_3682" custom="readingOrder {index:0;}">
                     <Coords points="5240,2367 5519,2367 5521,2413 5241,2417"/>
-                    <Baseline points="5241,2412 5521,2408"/>
+                    <Baseline points="5241,2412 5520,2408"/>
                     <TextEquiv>
                         <Unicode>10) Helgoland</Unicode>
                     </TextEquiv>
@@ -6934,7 +6934,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                 </TextLine>
                 <TextLine id="line_1647503943365_27" custom="readingOrder {index:4;}">
                     <Coords points="5287,2662 5431,2659 5432,2709 5288,2712"/>
-                    <Baseline points="5288,2707 5432,2704"/>
+                    <Baseline points="5288,2707 5431,2704"/>
                     <TextEquiv>
                         <Unicode>Goletta</Unicode>
                     </TextEquiv>
@@ -7311,7 +7311,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                 </TextLine>
                 <TextLine id="line_1647331373871_189" custom="readingOrder {index:1;}">
                     <Coords points="7654,2960 8207,2960 8249,2966 8348,2968 8403,2971 8405,3008 8234,3017 8210,3017 7654,2996"/>
-                    <Baseline points="7667,2990 7803,2997 7871,2998 7899,2998 8076,3001 8100,3001 8162,3002 8187,3003 8405,3007"/>
+                    <Baseline points="7667,2990 7803,2997 7871,2998 7899,2998 8076,3001 8100,3001 8162,3002 8187,3003 8404,3007"/>
                     <TextEquiv>
                         <Unicode>Name und Wohnort des Absenders.</Unicode>
                     </TextEquiv>
@@ -7815,7 +7815,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                 <Coords points="7566,3634 7563,3775 8411,3789 8415,3653"/>
                 <TextLine id="line_1647331832078_417" custom="readingOrder {index:0;}">
                     <Coords points="7601,3654 8391,3673 8391,3727 7601,3708"/>
-                    <Baseline points="7600,3699 8390,3718"/>
+                    <Baseline points="7601,3699 8390,3718"/>
                     <TextEquiv>
                         <Unicode>Angabe des eingezahlten Betrages, Be-</Unicode>
                     </TextEquiv>
@@ -8218,7 +8218,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
                 <Coords points="8404,4063 8401,4184 8394,4455 9584,4479 9588,4214 9591,4105"/>
                 <TextLine id="line_1647332370419_662" custom="readingOrder {index:0;}">
                     <Coords points="8436,4063 9520,4102 9521,4139 8435,4113"/>
-                    <Baseline points="8435,4108 9521,4134"/>
+                    <Baseline points="8435,4108 9520,4134"/>
                     <TextEquiv>
                         <Unicode>24) Die Postanweisung muss ausser dem Namen</Unicode>
                     </TextEquiv>
@@ -8394,7 +8394,7 @@ d. das Eilbestellgeld für die Besorgung am Bestimmungsort.</Unicode>
             <Coords points="6291,4486 8435,4526 8438,4599 6271,4560"/>
             <TextLine id="r7l1" custom="readingOrder {index:0;}">
                 <Coords points="6295,4498 8419,4532 8417,4594 6293,4560"/>
-                <Baseline points="6291,4550 8415,4584"/>
+                <Baseline points="6293,4550 8415,4584"/>
                 <TextEquiv>
                     <Unicode>D. Postaufträge zur Einziehung von Geldbeträgen.</Unicode>
                 </TextEquiv>
@@ -8524,7 +8524,7 @@ kommt eine Gebühr nicht zur Erhebung.</Unicode>
                 <Coords points="5547,4817 5546,4859 5543,4965 5827,4968 5829,4863 5829,4821"/>
                 <TextLine id="line_1647332712989_764" custom="readingOrder {index:0;}">
                     <Coords points="5563,4821 5811,4829 5812,4866 5564,4858"/>
-                    <Baseline points="5564,4853 5812,4861"/>
+                    <Baseline points="5564,4853 5811,4861"/>
                     <TextEquiv>
                         <Unicode>Meistbetrag</Unicode>
                     </TextEquiv>
@@ -8621,7 +8621,7 @@ kommt eine Gebühr nicht zur Erhebung.</Unicode>
                 <Coords points="8020,4857 8019,4900 8312,4905 8462,4907 8463,4866 8313,4863 8251,4862"/>
                 <TextLine id="line_1647332825754_824" custom="readingOrder {index:0;}">
                     <Coords points="8184,4864 8306,4865 8307,4901 8185,4900"/>
-                    <Baseline points="8191,4896 8307,4896"/>
+                    <Baseline points="8191,4896 8306,4896"/>
                     <TextEquiv>
                         <Unicode>Taxe.</Unicode>
                     </TextEquiv>
@@ -8859,7 +8859,7 @@ kommt eine Gebühr nicht zur Erhebung.</Unicode>
                 </TextLine>
                 <TextLine id="line_1647332876634_859" custom="readingOrder {index:1;}">
                     <Coords points="8363,5097 8407,5096 8408,5146 8364,5147"/>
-                    <Baseline points="8364,5142 8408,5141"/>
+                    <Baseline points="8364,5142 8407,5141"/>
                     <TextEquiv>
                         <Unicode>20</Unicode>
                     </TextEquiv>
@@ -8928,7 +8928,7 @@ kommt eine Gebühr nicht zur Erhebung.</Unicode>
                 <Coords points="6115,5199 6112,5301 6113,5382 6270,5386 6271,5287 6273,5200"/>
                 <TextLine id="line_1647333031269_961" custom="readingOrder {index:0;}">
                     <Coords points="6169,5197 6220,5196 6221,5246 6170,5247"/>
-                    <Baseline points="6170,5242 6221,5241"/>
+                    <Baseline points="6170,5242 6220,5241"/>
                     <TextEquiv>
                         <Unicode>20</Unicode>
                     </TextEquiv>
@@ -9018,7 +9018,7 @@ kommt eine Gebühr nicht zur Erhebung.</Unicode>
                 <Coords points="8304,5228 8302,5328 8452,5324 8454,5229"/>
                 <TextLine id="line_1647333210024_1069" custom="readingOrder {index:0;}">
                     <Coords points="8355,5230 8405,5229 8406,5279 8356,5280"/>
-                    <Baseline points="8356,5275 8406,5274"/>
+                    <Baseline points="8356,5275 8405,5274"/>
                     <TextEquiv>
                         <Unicode>20</Unicode>
                     </TextEquiv>
@@ -9069,7 +9069,7 @@ kommt eine Gebühr nicht zur Erhebung.</Unicode>
                 <Coords points="8010,5323 8007,5433 8299,5441 8302,5328"/>
                 <TextLine id="line_1647333219601_1084" custom="readingOrder {index:0;}">
                     <Coords points="8131,5317 8181,5316 8182,5366 8132,5367"/>
-                    <Baseline points="8132,5362 8182,5361"/>
+                    <Baseline points="8132,5362 8181,5361"/>
                     <TextEquiv>
                         <Unicode>20</Unicode>
                     </TextEquiv>
@@ -9181,7 +9181,7 @@ kommt eine Gebühr nicht zur Erhebung.</Unicode>
                 <Coords points="6270,5386 6263,5568 7337,5592 7347,5406"/>
                 <TextLine id="line_1647333114207_1025" custom="readingOrder {index:0;}">
                     <Coords points="6316,5388 7313,5403 7314,5444 6317,5429"/>
-                    <Baseline points="6317,5424 7314,5439"/>
+                    <Baseline points="6317,5424 7313,5439"/>
                     <TextEquiv>
                         <Unicode>3) Im Falle der Annahme werden von dem ein-</Unicode>
                     </TextEquiv>
@@ -9242,7 +9242,7 @@ kommt eine Gebühr nicht zur Erhebung.</Unicode>
                 </TextLine>
                 <TextLine id="line_1647333253002_1121" custom="readingOrder {index:1;}">
                     <Coords points="8026,5508 8112,5503 8279,5507 8281,5555 8026,5549"/>
-                    <Baseline points="8026,5543 8064,5543 8114,5540 8281,5544"/>
+                    <Baseline points="8026,5543 8064,5543 8114,5540 8280,5544"/>
                     <TextEquiv>
                         <Unicode>für je 15 g</Unicode>
                     </TextEquiv>
@@ -9400,7 +9400,7 @@ kommt eine Gebühr nicht zur Erhebung.</Unicode>
             <Coords points="5216,5775 9442,5852 9439,5935 5221,5875"/>
             <TextLine id="r11l1" custom="readingOrder {index:0;}">
                 <Coords points="5243,5775 9419,5855 9416,5905 5242,5825"/>
-                <Baseline points="5242,5820 9417,5893"/>
+                <Baseline points="5242,5820 9416,5892"/>
                 <TextEquiv>
                     <Unicode>I. Packete ohne angegebenen Werth und Packete mit Werthangabe nach Orten innerhalb des Deutschen Reichs-Postgebiets, sowie nach Bayern,</Unicode>
                 </TextEquiv>
@@ -9476,7 +9476,7 @@ Württemberg und Oesterreich-Ungarn.</Unicode>
                 <Coords points="5816,6001 5805,6185 5953,6187 5961,6003"/>
                 <TextLine id="line_1647333730718_110" custom="readingOrder {index:0;}">
                     <Coords points="5848,6001 5935,6005 5924,6045 5837,6041"/>
-                    <Baseline points="5837,6036 5924,6040"/>
+                    <Baseline points="5838,6036 5924,6040"/>
                     <TextEquiv>
                         <Unicode>über</Unicode>
                     </TextEquiv>
@@ -9611,7 +9611,7 @@ Württemberg und Oesterreich-Ungarn.</Unicode>
                 </TextLine>
                 <TextLine id="line_1647333785661_195" custom="readingOrder {index:1;}">
                     <Coords points="6453,6098 6523,6094 6525,6139 6455,6143"/>
-                    <Baseline points="6455,6138 6525,6134"/>
+                    <Baseline points="6455,6138 6524,6134"/>
                     <TextEquiv>
                         <Unicode>150</Unicode>
                     </TextEquiv>
@@ -10067,7 +10067,7 @@ oder einen Theil von 300 ℳ, mindestens jedoch 10 ₰.</Unicode>
             <Coords points="5143,6475 7283,6525 7275,6763 5122,6760"/>
             <TextLine id="r16l1" custom="readingOrder {index:0;}">
                 <Coords points="5362,6483 5995,6499 6598,6509 7273,6530 7275,6570 6597,6559 5994,6549 5361,6533"/>
-                <Baseline points="5361,6528 5994,6544 6597,6554 7275,6565"/>
+                <Baseline points="5361,6528 5994,6544 6597,6554 7274,6565"/>
                 <TextEquiv>
                     <Unicode>Vorbemerkungen: Die Taxen sind nur insoweit angegeben, als einheitliche Portosätze bestehen.</Unicode>
                 </TextEquiv>

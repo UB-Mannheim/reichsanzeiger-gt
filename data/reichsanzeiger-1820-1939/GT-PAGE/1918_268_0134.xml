@@ -5,20 +5,20 @@
 prov=READ-COOP:name=PyLaia@Transkribus:version=0.7.3:model_id=40804:lm=provided:date=15_07_2022_20:40
 Transkribus</Creator>
         <Created>2021-12-14T12:18:09.675+01:00</Created>
-        <LastChange>2023-07-26T11:31:00.592+02:00</LastChange>
+        <LastChange>2023-11-16T11:22:33.168+01:00</LastChange>
         <Comments>
                 Measurement unit: pixel
                 PrimaryLanguage: 
                 Producer: Transkribus
             </Comments>
-        <TranskribusMetadata docId="1256532" pageId="50892319" pageNr="19" tsid="130933485" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=MINNUNJBVMEKGFBFESMEWJVV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZTYKLMIAIUXUMSHGFXENOVGT" imageId="35453680"/>
+        <TranskribusMetadata docId="1256532" pageId="50892319" pageNr="19" tsid="139882737" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=MINNUNJBVMEKGFBFESMEWJVV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GPOWYSCYSFFIJLWXJUJWTFVO" imageId="35453680"/>
     </Metadata>
     <Page imageFilename="1918_268_0134.jpg" imageWidth="5000" imageHeight="7648">
         <PrintSpace>
             <Coords points="156,462 4739,463 4615,6864 89,6864"/>
         </PrintSpace>
         <ReadingOrder>
-            <OrderedGroup id="ro_1690386044684" caption="Regions reading order">
+            <OrderedGroup id="ro_1700130969568" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
                 <RegionRefIndexed index="1" regionRef="r2"/>
                 <RegionRefIndexed index="2" regionRef="r3"/>
@@ -441,7 +441,7 @@ Berlin SW. 48, Wilhelmſtraße Nr. 32.</Unicode>
                 <Coords points="192,3496 192,3467 296,3456 379,3456 1026,3461 1505,3465 1567,3469 1567,3518 939,3512 827,3506 295,3506"/>
                 <Baseline points="192,3496 266,3497 296,3498 731,3501 760,3502 867,3503 888,3504 1175,3508 1202,3508 1455,3508 1482,3508 1567,3509"/>
                 <TextEquiv>
-                    <Unicode>von Lieferungsverträgen über Herbstgemüſe vorbehalten hat,</Unicode>
+                    <Unicode>von Lieferungsverträgen über Herbſtgemüſe vorbehalten hat,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r12l26" custom="readingOrder {index:25;}">
@@ -476,7 +476,7 @@ treffend amtliche Vertragsmuſter für Lieferungsverträge über
 Frühgemüſe und über Herbſtgemüſe aus der Ernte 1919,
 über das Verzeichnis der Sperrgebiete, in denen ſich die
 Reichsſtelle für Gemüſe und Obſt die alleinige Abſchließung
-von Lieferungsverträgen über Herbstgemüſe vorbehalten hat,
+von Lieferungsverträgen über Herbſtgemüſe vorbehalten hat,
 und betreffend die Schiedsgerichtsordnung.</Unicode>
             </TextEquiv>
         </TextRegion>
@@ -1071,7 +1071,7 @@ Haaſe.</Unicode>
             <Coords points="1614,3297 3098,3297 3088,4462 1603,4456"/>
             <TextLine id="r20l1" custom="readingOrder {index:0;}">
                 <Coords points="1746,3309 3066,3319 3074,3318 3078,3368 3067,3374 1745,3364"/>
-                <Baseline points="1746,3354 3068,3364 3078,3363"/>
+                <Baseline points="1746,3354 3068,3364 3077,3363"/>
                 <TextEquiv>
                     <Unicode>Die Kohlenwirtſchaft iſt ebenſo wichtig und gefährdet</Unicode>
                 </TextEquiv>
@@ -1540,7 +1540,7 @@ bewilligung zur Durchfuhr zuzulaſſen.</Unicode>
             </TextLine>
             <TextLine id="r23l11" custom="readingOrder {index:10;}">
                 <Coords points="1609,6612 1624,6610 1754,6597 2558,6604 2992,6609 3036,6614 3036,6650 2992,6654 2548,6652 1754,6639 1609,6646"/>
-                <Baseline points="1609,6637 1665,6637 1706,6638 1776,6640 1797,6641 1883,6638 1914,6638 2115,6639 2145,6639 2264,6641 2289,6641 2378,6642 2391,6643 2533,6645 2541,6645 2549,6645 2565,6645 2679,6647 2696,6647 2838,6650 2851,6650 3036,6648"/>
+                <Baseline points="1609,6637 1665,6637 1706,6638 1776,6639 1797,6639 1883,6638 1914,6638 2115,6639 2145,6639 2264,6641 2289,6641 2378,6642 2391,6643 2533,6645 2541,6645 2549,6645 2565,6645 2679,6647 2696,6647 2838,6650 2851,6650 3036,6648"/>
                 <TextEquiv>
                     <Unicode>zur Ausfuhr zuzulaſſen, ſoweit nicht Ziffer 2 etwas anderes beſtimmt.</Unicode>
                 </TextEquiv>
@@ -2009,14 +2009,14 @@ bewilligungen zur Durchfuhr zuzulaſſen.</Unicode>
             </TextLine>
             <TextLine id="r27l10" custom="readingOrder {index:9;}">
                 <Coords points="3219,4813 3245,4807 3270,4807 3646,4811 4084,4816 4552,4823 4552,4863 3272,4857 3247,4857 3124,4856 3124,4817"/>
-                <Baseline points="3127,4851 3282,4849 3315,4849 3400,4850 3441,4850 3646,4851 3686,4852 3805,4853 3845,4853 3936,4855 3971,4855 4084,4857 4130,4857 4142,4858 4178,4858 4288,4860 4326,4860 4465,4862 4498,4863 4552,4863"/>
+                <Baseline points="3127,4851 3282,4849 3315,4849 3400,4850 3441,4850 3646,4851 3686,4852 3805,4853 3845,4853 3936,4855 3971,4855 4084,4857 4130,4857 4142,4858 4178,4858 4288,4860 4326,4860 4465,4862 4498,4862 4552,4863"/>
                 <TextEquiv>
                     <Unicode>zur Ausfuhr zuzulaſſen, ſoweit nicht Ziffer 2 etwas anderes be⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r27l11" custom="readingOrder {index:10;}">
                 <Coords points="3158,4856 3221,4862 3267,4865 3267,4899 3123,4907 3122,4857"/>
-                <Baseline points="3121,4897 3267,4896"/>
+                <Baseline points="3122,4896 3267,4896"/>
                 <TextEquiv>
                     <Unicode>immt.</Unicode>
                 </TextEquiv>
@@ -2058,7 +2058,7 @@ bewilligungen zur Durchfuhr zuzulaſſen.</Unicode>
             </TextLine>
             <TextLine id="r27l17" custom="readingOrder {index:16;}">
                 <Coords points="3121,5164 3158,5155 3185,5155 4070,5166 4363,5171 4450,5174 4518,5181 4549,5186 4549,5214 3451,5210 3326,5210 3191,5208 3121,5204"/>
-                <Baseline points="3121,5199 3273,5200 3282,5200 3407,5201 3444,5201 3608,5202 3648,5202 3700,5202 3739,5203 3812,5203 3834,5203 3922,5204 3959,5204 4070,5207 4132,5208 4201,5209 4235,5210 4297,5211 4323,5211 4450,5213 4482,5214 4549,5207"/>
+                <Baseline points="3121,5199 3273,5200 3282,5200 3407,5201 3444,5201 3608,5202 3648,5202 3700,5202 3739,5203 3812,5203 3834,5203 3922,5204 3959,5204 4070,5207 4132,5208 4201,5209 4235,5210 4297,5211 4323,5211 4450,5213 4482,5213 4549,5207"/>
                 <TextEquiv>
                     <Unicode>Durchfuhr verboten iſt, ſind auch künftig nur auf Grund von</Unicode>
                 </TextEquiv>

@@ -5,20 +5,20 @@
 prov=READ-COOP:name=PyLaia@Transkribus:version=0.7.1:model_id=40804:date=05_07_2022_09:14
 Transkribus</Creator>
         <Created>2021-12-14T11:24:31.715+01:00</Created>
-        <LastChange>2023-07-26T12:28:00.799+02:00</LastChange>
+        <LastChange>2023-11-16T11:34:16.553+01:00</LastChange>
         <Comments>
                 Measurement unit: pixel
                 PrimaryLanguage: 
                 Producer: Transkribus
             </Comments>
-        <TranskribusMetadata docId="1256539" pageId="50892352" pageNr="4" tsid="130936402" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=DEMRVEDBYPFXRMFGNRSOJXAK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XTTQDNASYGPQOSBRXMBUGWQI" imageId="27320786"/>
+        <TranskribusMetadata docId="1256539" pageId="50892352" pageNr="4" tsid="139884551" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=DEMRVEDBYPFXRMFGNRSOJXAK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DWAYKPWYDCEBJTKJTWGZMXRL" imageId="27320786"/>
     </Metadata>
     <Page imageFilename="1847_130_0342.jpg" imageWidth="9784" imageHeight="6408">
         <PrintSpace>
             <Coords points="542,212 9604,227 9634,6161 572,6146"/>
         </PrintSpace>
         <ReadingOrder>
-            <OrderedGroup id="ro_1690386034589" caption="Regions reading order">
+            <OrderedGroup id="ro_1700130959547" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
                 <RegionRefIndexed index="1" regionRef="r2"/>
                 <RegionRefIndexed index="2" regionRef="r3"/>
@@ -99,7 +99,7 @@ Transkribus</Creator>
             <Coords points="570,346 2012,339 2002,2212 566,2224"/>
             <TextLine id="r2l1" custom="readingOrder {index:0;}">
                 <Coords points="594,374 675,362 1934,352 1957,352 1997,367 1992,387 711,403 675,408 594,399"/>
-                <Baseline points="594,399 653,399 675,399 876,398 897,398 1071,398 1093,398 1186,397 1242,397 1293,396 1323,396 1569,394 1592,394 1713,391 1743,391 1816,389 1845,388 1909,387 1934,386 1997,385"/>
+                <Baseline points="594,399 653,399 675,399 876,398 897,398 1071,398 1093,398 1186,397 1241,396 1292,395 1322,395 1568,392 1591,391 1712,390 1742,390 1816,389 1845,388 1909,387 1934,386 1992,383"/>
                 <TextEquiv>
                     <Unicode>ren Platzbedarf beſchränkt blieb. In ſchwimmender Waare ging eine La⸗</Unicode>
                 </TextEquiv>
@@ -155,28 +155,28 @@ Transkribus</Creator>
             </TextLine>
             <TextLine id="r2l9" custom="readingOrder {index:8;}">
                 <Coords points="606,714 1936,686 1956,686 1992,691 1992,732 1950,734 1132,743 679,757 631,757 606,749"/>
-                <Baseline points="606,749 729,748 753,748 803,747 827,747 961,747 985,747 1049,747 1074,747 1179,746 1205,745 1281,743 1306,742 1480,736 1505,735 1547,734 1570,733 1675,730 1698,729 1745,727 1771,727 1834,727 1858,728 1874,729 1900,730 1992,721"/>
+                <Baseline points="606,749 729,748 753,748 803,747 827,747 961,747 985,747 1048,745 1073,744 1178,742 1204,742 1280,741 1305,741 1480,736 1505,735 1547,734 1570,733 1675,730 1698,729 1745,727 1771,727 1834,727 1858,728 1874,729 1900,730 1992,721"/>
                 <TextEquiv>
                     <Unicode>Rthlr., für 84 ⅝ pfd. 109 Rthlr. bez., ſchwimmd. im Kanal für 82 ⅝ a 83 pf.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l10" custom="readingOrder {index:9;}">
                 <Coords points="611,763 1702,743 1832,735 1929,735 1990,746 1990,775 1929,780 1516,793 1403,796 1036,799 998,799 622,792 608,791"/>
-                <Baseline points="610,784 658,785 683,786 846,784 873,783 940,783 964,784 1069,783 1095,783 1252,781 1276,781 1405,780 1424,780 1561,779 1583,778 1630,778 1655,778 1728,777 1753,777 1812,776 1834,776 1992,760"/>
+                <Baseline points="610,784 658,785 683,786 846,784 873,783 940,783 964,784 1069,783 1095,783 1252,781 1276,781 1405,780 1424,780 1561,779 1583,778 1630,778 1655,778 1728,777 1753,777 1812,776 1834,776 1990,760"/>
                 <TextEquiv>
                     <Unicode>im Verbande 105 Rthlr. bezahlt; derſelbe erſtreckte ſich auch auf Termine,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l11" custom="readingOrder {index:10;}">
                 <Coords points="608,807 629,801 1518,783 1799,778 1925,778 1990,779 1987,819 1060,844 988,845 885,846 866,846 629,842 608,836"/>
-                <Baseline points="608,836 714,836 730,836 778,835 788,835 986,834 995,834 1098,833 1108,833 1242,829 1260,828 1298,826 1309,826 1490,817 1501,817 1697,813 1706,813 1779,813 1799,813 1866,812 1875,812 1990,811"/>
+                <Baseline points="608,836 714,836 730,836 778,835 788,835 986,834 995,834 1098,833 1108,833 1242,829 1260,828 1298,826 1309,826 1490,817 1501,817 1697,813 1706,813 1779,813 1799,813 1866,812 1875,812 1987,810"/>
                 <TextEquiv>
                     <Unicode>wofür die Steigerung wegen Mangel an Verkäufern bedeutender war. Der Werth</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l12" custom="readingOrder {index:11;}">
                 <Coords points="609,853 674,845 1513,824 1749,824 1871,825 1993,821 1991,855 1979,859 1035,885 794,887 609,886"/>
-                <Baseline points="609,880 660,879 674,879 1033,877 1059,877 1167,873 1193,872 1238,870 1261,869 1308,867 1339,866 1417,866 1442,865 1496,865 1513,865 1708,863 1733,863 1782,863 1807,862 1842,862 1855,862 1923,861 1941,861 1991,849"/>
+                <Baseline points="609,880 660,879 674,879 1033,877 1059,877 1167,873 1193,872 1238,870 1261,869 1308,867 1339,866 1417,866 1442,865 1496,865 1513,865 1708,863 1733,863 1782,863 1807,862 1842,862 1855,862 1922,860 1940,860 1991,849"/>
                 <TextEquiv>
                     <Unicode>pr. Frühjahrs⸗Lieferung müßte, bei der Nähe des Stichtages, bis zu dem für</Unicode>
                 </TextEquiv>
@@ -190,7 +190,7 @@ Transkribus</Creator>
             </TextLine>
             <TextLine id="r2l14" custom="readingOrder {index:13;}">
                 <Coords points="611,941 648,934 1470,911 1733,910 1766,910 1899,912 1935,906 1986,911 1990,949 1966,959 1614,951 883,972 773,972 611,966"/>
-                <Baseline points="611,960 748,959 773,959 966,957 1001,957 1049,957 1085,956 1245,952 1267,951 1414,945 1448,945 1530,944 1566,944 1705,943 1733,943 1847,943 1882,942 1990,942"/>
+                <Baseline points="611,960 748,959 773,959 966,957 1001,957 1049,957 1085,956 1245,952 1267,951 1414,945 1448,945 1530,944 1566,944 1705,943 1733,943 1847,943 1882,942 1989,942"/>
                 <TextEquiv>
                     <Unicode>anderen Lieferzeiten der ſteigenden Tendenz, ohne anderen Grund dafür,</Unicode>
                 </TextEquiv>
@@ -232,7 +232,7 @@ Transkribus</Creator>
             </TextLine>
             <TextLine id="r2l20" custom="readingOrder {index:19;}">
                 <Coords points="612,1193 923,1184 954,1184 1014,1189 1012,1217 635,1225 612,1224"/>
-                <Baseline points="612,1224 658,1225 673,1225 710,1225 725,1225 766,1224 790,1224 887,1218 923,1218 1004,1213"/>
+                <Baseline points="612,1224 657,1224 672,1224 709,1223 724,1223 765,1222 789,1221 887,1218 923,1218 1004,1213"/>
                 <TextEquiv>
                     <Unicode>76 — 78 Rthlr. über.</Unicode>
                 </TextEquiv>
@@ -639,7 +639,7 @@ Actien 1591. Anl. de 1834 155 ¼. de 1839 119 ½. Nordb. 169 ¼. Gloggn. 124.</U
             </TextLine>
             <TextLine id="r7l6" custom="readingOrder {index:5;}">
                 <Coords points="2059,889 2078,885 2098,885 3357,890 3379,892 3438,901 3438,923 3379,930 2660,938 2105,926 2085,926 2061,918"/>
-                <Baseline points="2059,920 2119,920 2140,920 2265,921 2291,921 2414,924 2441,924 2473,925 2498,925 2565,926 2590,927 2801,925 2825,924 2887,923 2910,923 3102,924 3125,924 3193,923 3221,923 3327,923 3349,923 3438,923"/>
+                <Baseline points="2061,918 2119,920 2140,920 2265,921 2291,921 2414,924 2441,924 2473,925 2498,925 2565,926 2590,927 2801,925 2825,924 2887,923 2910,923 3102,924 3125,924 3193,923 3221,923 3327,923 3349,923 3438,923"/>
                 <TextEquiv>
                     <Unicode>des vorigen Jahres in dem Regierungs⸗ und Schulrathe von Türk ihren</Unicode>
                 </TextEquiv>
@@ -751,7 +751,7 @@ Actien 1591. Anl. de 1834 155 ¼. de 1839 119 ½. Nordb. 169 ¼. Gloggn. 124.</U
             </TextLine>
             <TextLine id="r7l22" custom="readingOrder {index:21;}">
                 <Coords points="2056,1586 2171,1584 2251,1583 3238,1583 3359,1584 3385,1585 3435,1595 3435,1618 3398,1630 2076,1638 2052,1621"/>
-                <Baseline points="2055,1618 2224,1619 2250,1619 2344,1619 2380,1619 2485,1620 2522,1621 2576,1622 2600,1622 2631,1623 2658,1623 2735,1621 2759,1621 2878,1620 2915,1620 2974,1620 2999,1620 3196,1619 3224,1619 3434,1619"/>
+                <Baseline points="2055,1618 2224,1619 2250,1619 2344,1619 2380,1619 2485,1620 2522,1621 2576,1622 2600,1622 2631,1623 2658,1623 2735,1621 2759,1621 2878,1620 2915,1620 2974,1620 2999,1620 3196,1619 3224,1619 3433,1618"/>
                 <TextEquiv>
                     <Unicode>demſelben Tage, welche wir in einer Anzahl von Exemplaren ſämmtlichen</Unicode>
                 </TextEquiv>
@@ -1083,14 +1083,14 @@ Helmholtz. Bernhardi. Herter. Püchler.</Unicode>
             <Coords points="3489,880 4903,889 4907,2490 3494,2490"/>
             <TextLine id="r10l1" custom="readingOrder {index:0;}">
                 <Coords points="3610,885 3641,885 4793,892 4889,891 4890,922 4865,928 4649,932 4395,935 4162,935 4062,934 3744,930 3610,921"/>
-                <Baseline points="3610,921 3783,921 3820,921 3877,922 3908,922 4002,924 4062,925 4127,926 4162,926 4395,929 4454,928 4545,928 4584,928 4890,919"/>
+                <Baseline points="3610,921 3783,921 3820,921 3877,922 3908,922 4002,924 4062,925 4127,926 4162,926 4395,929 4454,928 4545,928 4584,928 4889,919"/>
                 <TextEquiv>
                     <Unicode>Montag, 10. Mai. Im Opernhauſe. 76ſte Schauſpielhaus⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r10l2" custom="readingOrder {index:1;}">
                 <Coords points="3508,931 3531,927 4266,937 4461,938 4676,937 4793,940 4864,941 4889,954 4889,977 4636,984 3826,976 3534,976 3511,969"/>
-                <Baseline points="3508,967 4024,969 4080,970 4147,972 4261,972 4362,968 4391,967 4666,965 4697,965 4752,965 4799,964 4827,964 4857,964 4889,964"/>
+                <Baseline points="3510,966 4024,969 4080,970 4147,972 4261,972 4362,968 4391,967 4666,965 4697,965 4752,965 4799,964 4827,964 4857,964 4889,964"/>
                 <TextEquiv>
                     <Unicode>Abonnements⸗Vorſtellung: Die Quitzows, vaterländiſches Drama in</Unicode>
                 </TextEquiv>
@@ -1426,7 +1426,7 @@ zur Handlung gehörige Muſik iſt von G. Meyerbeer.</Unicode>
                 <Unicode>[418]</Unicode>
             </TextEquiv>
         </TextRegion>
-        <TextRegion type="heading" id="r17" custom="readingOrder {index:16;} structure {type:heading;}">
+        <TextRegion type="paragraph" id="r17" custom="readingOrder {index:16;} structure {type:paragraph;}">
             <Coords points="570,3170 751,3167 749,3110 1634,3106 1602,4139 540,4132"/>
             <TextLine id="r17l1" custom="readingOrder {index:0;}">
                 <Coords points="843,3114 1422,3114 1422,3163 843,3163"/>
@@ -1846,7 +1846,7 @@ Prozent.</Unicode>
             </TextLine>
             <TextLine id="r20l27" custom="readingOrder {index:26;}">
                 <Coords points="598,5903 671,5901 744,5901 1562,5909 1595,5910 1611,5926 1611,5937 1595,5945 1504,5954 1464,5954 652,5942 598,5933"/>
-                <Baseline points="598,5925 655,5943 671,5943 803,5937 826,5936 897,5937 923,5938 987,5939 1009,5940 1123,5942 1146,5943 1315,5945 1339,5945 1439,5946 1464,5946 1611,5934"/>
+                <Baseline points="598,5925 655,5942 671,5942 803,5937 826,5936 897,5937 923,5938 987,5939 1009,5940 1123,5942 1146,5943 1315,5945 1339,5945 1439,5946 1464,5946 1611,5934"/>
                 <TextEquiv>
                     <Unicode>90 Prozent oder 180 Thaler lautenden neuen Partial⸗</Unicode>
                 </TextEquiv>
@@ -2336,7 +2336,7 @@ Abends
             </TextLine>
             <TextLine id="r26l2" custom="readingOrder {index:1;}">
                 <Coords points="1742,5698 1759,5693 1777,5693 2652,5714 2686,5731 2686,5741 2670,5748 2610,5756 2424,5745 1938,5741 1766,5733 1742,5732"/>
-                <Baseline points="1742,5731 1832,5733 1854,5733 2052,5737 2074,5738 2130,5739 2151,5743 2196,5743 2218,5744 2328,5745 2357,5745 2610,5749 2635,5749 2686,5738"/>
+                <Baseline points="1742,5731 1832,5733 1854,5733 2052,5737 2074,5738 2130,5739 2151,5742 2196,5743 2218,5743 2328,5744 2357,5744 2610,5749 2635,5749 2686,5738"/>
                 <TextEquiv>
                     <Unicode>Unter Hinweiſung auf die bereits veröffentlichten be⸗</Unicode>
                 </TextEquiv>
@@ -2350,7 +2350,7 @@ Abends
             </TextLine>
             <TextLine id="r26l4" custom="readingOrder {index:3;}">
                 <Coords points="1697,5785 1798,5784 1932,5784 2639,5790 2672,5799 2685,5809 2685,5832 2672,5840 2639,5845 2295,5837 1799,5817 1718,5818 1697,5816"/>
-                <Baseline points="1697,5816 1813,5818 1833,5818 2043,5820 2071,5821 2129,5821 2155,5823 2253,5828 2276,5829 2685,5826"/>
+                <Baseline points="1697,5816 1813,5817 1833,5818 2043,5820 2071,5821 2129,5821 2155,5823 2253,5828 2276,5829 2685,5826"/>
                 <TextEquiv>
                     <Unicode>darauf aufmerkſam, daß unſere Paſſagier⸗Dampfſchiffe</Unicode>
                 </TextEquiv>
@@ -2371,7 +2371,7 @@ Abends
             </TextLine>
             <TextLine id="r26l7" custom="readingOrder {index:6;}">
                 <Coords points="1697,5914 1727,5913 1873,5913 2008,5914 2216,5916 2647,5929 2672,5935 2688,5939 2688,5952 2672,5960 2538,5970 2404,5958 1806,5952 1697,5949"/>
-                <Baseline points="1694,5946 1870,5947 1903,5947 2146,5949 2182,5950 2346,5954 2378,5956 2579,5959 2611,5960 2685,5947"/>
+                <Baseline points="1697,5946 1870,5947 1903,5947 2146,5949 2182,5950 2346,5954 2378,5956 2579,5959 2611,5960 2685,5947"/>
                 <TextEquiv>
                     <Unicode>Eiſenbahn abgegangenen Reiſenden Gelegenheit dar⸗</Unicode>
                 </TextEquiv>
@@ -2517,7 +2517,7 @@ Holtzapfel.</Unicode>
             </TextLine>
             <TextLine id="r29l4" custom="readingOrder {index:3;}">
                 <Coords points="2921,3708 2998,3689 3486,3686 3546,3686 3589,3689 3659,3705 3655,3767 3542,3768 3480,3767 2921,3753"/>
-                <Baseline points="2921,3752 3026,3754 3079,3754 3281,3753 3325,3753 3486,3751 3505,3751 3659,3748"/>
+                <Baseline points="2921,3752 3026,3754 3079,3754 3281,3753 3325,3753 3486,3751 3505,3751 3656,3747"/>
                 <TextEquiv>
                     <Unicode>und Lübeck und Riga.</Unicode>
                 </TextEquiv>
@@ -2837,7 +2837,7 @@ F. Fetſchow &amp; Sohn zu haben.</Unicode>
             </TextLine>
             <TextLine id="r33l3" custom="readingOrder {index:2;}">
                 <Coords points="2764,5372 3529,5359 3614,5359 3780,5374 3780,5391 3522,5408 3499,5404 2804,5400 2764,5403"/>
-                <Baseline points="2764,5395 2899,5403 2930,5402 3040,5400 3076,5398 3175,5393 3206,5393 3481,5388 3501,5388 3538,5389 3572,5389 3699,5391 3723,5391 3780,5391"/>
+                <Baseline points="2764,5395 2899,5400 2930,5400 3040,5400 3076,5398 3175,5393 3206,5393 3481,5388 3501,5388 3538,5389 3572,5389 3699,5391 3723,5391 3780,5391"/>
                 <TextEquiv>
                     <Unicode>Marchi Alletti legale rappresentante il minore suo</Unicode>
                 </TextEquiv>
@@ -2858,7 +2858,7 @@ F. Fetſchow &amp; Sohn zu haben.</Unicode>
             </TextLine>
             <TextLine id="r33l6" custom="readingOrder {index:5;}">
                 <Coords points="2764,5511 2779,5502 3192,5488 3222,5488 3628,5489 3758,5490 3778,5504 3778,5522 3484,5531 3248,5525 3194,5524 2764,5534"/>
-                <Baseline points="2764,5534 2839,5533 2873,5531 2930,5529 2957,5528 3112,5521 3136,5520 3167,5519 3192,5519 3377,5518 3408,5518 3441,5518 3467,5518 3579,5519 3605,5519 3778,5518"/>
+                <Baseline points="2764,5534 2838,5532 2873,5531 2930,5529 2957,5528 3112,5521 3136,5520 3167,5519 3192,5519 3377,5518 3408,5518 3441,5518 3467,5518 3579,5519 3605,5519 3778,5518"/>
                 <TextEquiv>
                     <Unicode>tista del Comune di Vescovato in questa Provincia</Unicode>
                 </TextEquiv>
@@ -3015,7 +3015,7 @@ di settimana in settimana nella Gazzetta Provinciale,</Unicode>
             </TextLine>
             <TextLine id="r34l6" custom="readingOrder {index:5;}">
                 <Coords points="4211,3219 4329,3220 4365,3219 4509,3219 4551,3220 4551,3249 4294,3251 4213,3253"/>
-                <Baseline points="4220,3254 4336,3250 4365,3249 4551,3248"/>
+                <Baseline points="4219,3252 4336,3250 4365,3249 4551,3248"/>
                 <TextEquiv>
                     <Unicode>Resti Ferrari.</Unicode>
                 </TextEquiv>
@@ -4287,7 +4287,7 @@ Wernigerode, nach Breslau.</Unicode>
             </TextLine>
             <TextLine id="r57l57" custom="readingOrder {index:56;}">
                 <Coords points="5070,5817 5074,5781 5111,5787 6358,5801 6431,5799 6446,5800 6436,5838 5340,5861 5174,5833 5083,5828 5050,5802"/>
-                <Baseline points="5069,5814 5152,5830 5181,5830 5325,5827 5352,5828 5497,5830 5531,5830 5598,5831 5635,5831 5669,5832 5696,5832 5788,5833 5808,5833 5891,5833 5920,5833 6024,5834 6063,5834 6098,5834 6124,5834 6193,5834 6223,5834 6453,5835"/>
+                <Baseline points="5070,5814 5152,5830 5181,5830 5325,5827 5352,5828 5497,5830 5531,5830 5598,5831 5635,5831 5669,5832 5696,5832 5788,5833 5808,5833 5891,5833 5920,5833 6024,5834 6063,5834 6098,5834 6124,5834 6193,5834 6223,5834 6437,5831"/>
                 <TextEquiv>
                     <Unicode>nicht gedruckt geleſen, und es kann nicht etwas in dem ſtenographi⸗</Unicode>
                 </TextEquiv>
@@ -4892,7 +4892,7 @@ lautet:</Unicode>
             </TextLine>
             <TextLine id="r59l70" custom="readingOrder {index:69;}">
                 <Coords points="6519,4625 6967,4622 7007,4622 7542,4625 7553,4652 7553,4659 7542,4670 7324,4672 6889,4673 6871,4673 6720,4672 6631,4669 6519,4661"/>
-                <Baseline points="6518,4660 6689,4660 6719,4661 6844,4662 6870,4662 6938,4663 6966,4663 7031,4664 7062,4664 7149,4663 7177,4662 7231,4662 7258,4661 7264,4661 7304,4661 7475,4659 7505,4659 7552,4658"/>
+                <Baseline points="6519,4660 6689,4660 6719,4661 6844,4662 6870,4662 6938,4663 6966,4663 7031,4664 7062,4664 7149,4663 7177,4662 7231,4662 7258,4661 7264,4661 7304,4661 7475,4659 7505,4659 7552,4658"/>
                 <TextEquiv>
                     <Unicode>Anträgen geſtellt hat, von mehr als ⅔ geſchehen iſt.</Unicode>
                 </TextEquiv>
@@ -5957,7 +5957,7 @@ zur Vertheilung:</Unicode>
             </TextLine>
             <TextLine id="r61l63" custom="readingOrder {index:62;}">
                 <Coords points="8120,5472 8251,5461 8290,5460 8890,5447 8992,5445 9021,5445 9043,5450 9054,5461 9053,5476 8779,5504 8120,5507"/>
-                <Baseline points="8120,5497 8180,5497 8207,5497 8265,5498 8290,5498 8415,5497 8443,5496 8497,5495 8518,5495 8753,5487 8781,5486 8843,5483 8869,5482 8955,5478 8992,5477 9043,5479"/>
+                <Baseline points="8120,5497 8180,5497 8207,5497 8265,5498 8290,5498 8415,5497 8443,5496 8497,5495 8518,5495 8753,5487 8781,5486 8843,5483 8869,5482 8955,5478 8992,5477 9042,5477"/>
                 <TextEquiv>
                     <Unicode>gen auf Grund der Geſetzgebung von 1807 bis</Unicode>
                 </TextEquiv>

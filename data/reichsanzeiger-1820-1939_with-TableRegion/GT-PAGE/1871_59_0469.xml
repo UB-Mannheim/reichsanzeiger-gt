@@ -1,24 +1,24 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
     <Metadata>
         <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.7.1:model_id=40804:lm=none:date=05_07_2022_11:37
 prov=READ-COOP:name=PyLaia@Transkribus:version=0.7.1:model_id=40804:date=05_07_2022_11:37
 Transkribus</Creator>
         <Created>2021-12-14T11:43:01.484+01:00</Created>
-        <LastChange>2022-12-07T16:09:23.390+01:00</LastChange>
+        <LastChange>2023-11-15T20:46:40.848+01:00</LastChange>
         <Comments>
                 Measurement unit: pixel
                 PrimaryLanguage: 
                 Producer: Transkribus
             </Comments>
-        <TranskribusMetadata docId="900641" pageId="34382457" pageNr="7" tsid="105747875" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=JJQLOZUDRKUEYQOGGOADIKLL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CATKTOPFIIJUFURPNKJGQBJE" imageId="27583901"/>
+        <TranskribusMetadata docId="900641" pageId="34382457" pageNr="7" tsid="139840610" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=JJQLOZUDRKUEYQOGGOADIKLL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NHCIRCFDDPJTQJMOBJAJDQOX" imageId="27583901"/>
     </Metadata>
     <Page imageFilename="1871_59_0469.jpg" imageWidth="10720" imageHeight="7440">
         <PrintSpace>
             <Coords points="845,1032 9884,995 10025,7137 986,7174"/>
         </PrintSpace>
         <ReadingOrder>
-            <OrderedGroup id="ro_1690360014811" caption="Regions reading order">
+            <OrderedGroup id="ro_1700129741322" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
                 <RegionRefIndexed index="1" regionRef="r2"/>
                 <RegionRefIndexed index="3" regionRef="r3"/>
@@ -80,7 +80,7 @@ Transkribus</Creator>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -94,7 +94,7 @@ Transkribus</Creator>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -108,7 +108,7 @@ Transkribus</Creator>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -122,7 +122,7 @@ Transkribus</Creator>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -136,7 +136,7 @@ Transkribus</Creator>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -150,7 +150,7 @@ Transkribus</Creator>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -178,7 +178,7 @@ Transkribus</Creator>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -192,7 +192,7 @@ Transkribus</Creator>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -206,7 +206,7 @@ Transkribus</Creator>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -465,7 +465,7 @@ Wilhelm. «</Unicode>
             </TextLine>
             <TextLine id="r7l3" custom="readingOrder {index:2;}">
                 <Coords points="1175,4042 1471,4042 2037,4046 2987,4055 3041,4058 3067,4083 3067,4100 3041,4110 2907,4120 2037,4123 1944,4123 1847,4121 1311,4105 1175,4098"/>
-                <Baseline points="1175,4097 1471,4096 1530,4097 1769,4098 1825,4098 1901,4099 1944,4099 2152,4100 2215,4100 2351,4101 2411,4103 2568,4104 2631,4105 2716,4106 2776,4107 3062,4106"/>
+                <Baseline points="1175,4097 1471,4096 1530,4097 1769,4098 1825,4098 1901,4099 1944,4099 2152,4100 2215,4100 2351,4101 2411,4103 2568,4104 2631,4105 2716,4106 2776,4107 3060,4102"/>
                 <TextEquiv>
                     <Unicode>überſendet worden, in welchen allen neben der Beglück⸗</Unicode>
                 </TextEquiv>
@@ -570,7 +570,7 @@ Wilhelm. «</Unicode>
             </TextLine>
             <TextLine id="r7l18" custom="readingOrder {index:17;}">
                 <Coords points="1159,5038 1229,5038 2068,5042 2842,5048 2988,5054 3054,5067 3054,5122 2965,5121 1160,5106"/>
-                <Baseline points="1159,5097 1394,5095 1426,5095 1739,5096 1774,5096 1972,5098 2007,5098 2157,5100 2179,5100 2297,5100 2322,5100 2512,5101 2546,5102 2883,5107 2907,5107 3054,5109"/>
+                <Baseline points="1159,5096 1394,5095 1426,5095 1739,5096 1774,5096 1972,5098 2007,5098 2157,5100 2179,5100 2297,5100 2322,5100 2512,5101 2546,5102 2883,5107 2907,5107 3054,5109"/>
                 <TextEquiv>
                     <Unicode>Leipzig, Hamburg, Tholey (Reg. Bez. Trier), Kallmerode (Reg.</Unicode>
                 </TextEquiv>
@@ -819,7 +819,7 @@ bewegte Menſchenmenge durchzog die Straßen.</Unicode>
             </TextLine>
             <TextLine id="r9l3" custom="readingOrder {index:2;}">
                 <Coords points="3184,1398 3343,1396 3519,1396 3707,1397 4182,1401 4449,1407 4676,1414 4986,1424 5036,1426 5088,1440 5088,1479 4986,1489 4943,1472 3670,1460 3343,1463 3184,1448"/>
-                <Baseline points="3184,1448 3275,1448 3314,1449 3519,1449 3590,1451 3852,1453 3890,1454 3973,1455 4008,1455 4325,1459 4361,1460 4488,1463 4527,1464 4601,1466 4635,1467 4773,1471 4824,1473 4909,1475 4942,1476 5088,1479"/>
+                <Baseline points="3184,1448 3275,1448 3314,1449 3519,1449 3590,1451 3852,1453 3890,1454 3973,1455 4008,1455 4325,1459 4361,1460 4488,1463 4527,1464 4601,1466 4635,1467 4773,1470 4824,1470 4909,1471 4942,1471 5088,1479"/>
                 <TextEquiv>
                     <Unicode>den Vorſitz. Nachdem der Vorſitzende über die Lage der Frie⸗</Unicode>
                 </TextEquiv>
@@ -833,7 +833,7 @@ bewegte Menſchenmenge durchzog die Straßen.</Unicode>
             </TextLine>
             <TextLine id="r9l5" custom="readingOrder {index:4;}">
                 <Coords points="3181,1529 3214,1528 3307,1528 3787,1531 4236,1536 4738,1545 5082,1560 5082,1613 4856,1617 4836,1605 4204,1604 3274,1597 3181,1582"/>
-                <Baseline points="3181,1582 3491,1584 3548,1585 3697,1584 3753,1585 3877,1586 3939,1587 4014,1588 4052,1588 4294,1592 4360,1594 4439,1595 4483,1597 4780,1605 4835,1607 4927,1609 4981,1611 5082,1613"/>
+                <Baseline points="3181,1582 3491,1584 3548,1585 3697,1584 3753,1585 3877,1586 3939,1587 4014,1588 4052,1588 4294,1592 4360,1594 4439,1595 4483,1597 4780,1604 4835,1604 4927,1609 4981,1611 5082,1613"/>
                 <TextEquiv>
                     <Unicode>Reichstags ſowie über die Bildung der Ausſchüſſe für das</Unicode>
                 </TextEquiv>
@@ -861,7 +861,7 @@ bewegte Menſchenmenge durchzog die Straßen.</Unicode>
             </TextLine>
             <TextLine id="r9l9" custom="readingOrder {index:8;}">
                 <Coords points="3182,1795 3622,1795 4092,1797 4630,1812 4897,1820 5011,1825 5079,1839 5079,1880 4860,1886 4806,1881 4291,1867 3183,1852"/>
-                <Baseline points="3182,1851 3622,1851 3658,1850 3760,1850 3793,1851 4092,1856 4145,1857 4213,1858 4267,1859 4326,1860 4362,1861 4456,1864 4496,1865 4786,1873 4838,1873 4929,1874 4981,1874 5079,1875"/>
+                <Baseline points="3182,1850 3622,1851 3658,1850 3760,1850 3793,1851 4092,1856 4145,1857 4213,1858 4267,1859 4326,1860 4362,1861 4456,1864 4496,1865 4786,1873 4838,1873 4929,1874 4981,1874 5079,1875"/>
                 <TextEquiv>
                     <Unicode>fahrtsvertrages mit Honduras — b) das Regulativ für den</Unicode>
                 </TextEquiv>
@@ -931,7 +931,7 @@ bewegte Menſchenmenge durchzog die Straßen.</Unicode>
             </TextLine>
             <TextLine id="r9l19" custom="readingOrder {index:18;}">
                 <Coords points="3177,2460 3221,2460 3588,2463 3917,2466 4762,2479 5074,2491 5074,2544 5014,2557 4747,2550 4420,2542 3816,2534 3177,2512"/>
-                <Baseline points="3177,2512 3588,2514 3638,2515 3763,2518 3815,2519 4230,2526 4286,2527 4456,2532 4506,2533 4588,2535 4636,2536 5077,2541"/>
+                <Baseline points="3177,2512 3588,2514 3638,2515 3763,2518 3815,2519 4230,2526 4286,2527 4456,2532 4506,2533 4588,2535 4636,2536 5074,2541"/>
                 <TextEquiv>
                     <Unicode>Amendements zum Geſetzentwurfe wegen des Schadenerſatzes</Unicode>
                 </TextEquiv>
@@ -1193,7 +1193,7 @@ Verkehr trat heute zu einer Sitzung zuſammen.</Unicode>
             </TextLine>
             <TextLine id="r10l18" custom="readingOrder {index:17;}">
                 <Coords points="3151,4737 3219,4736 3237,4736 3800,4737 4088,4742 4527,4751 4761,4758 5053,4776 5053,4817 4527,4819 4481,4811 3155,4792"/>
-                <Baseline points="3151,4789 3262,4790 3319,4790 3402,4790 3459,4789 3800,4793 3917,4794 4242,4799 4300,4800 4391,4802 4477,4804 4627,4808 4666,4809 4835,4812 4872,4814 5053,4817"/>
+                <Baseline points="3154,4788 3262,4790 3319,4790 3402,4790 3459,4789 3800,4793 3917,4794 4242,4799 4300,4800 4391,4802 4477,4804 4627,4808 4666,4809 4835,4812 4872,4814 5053,4817"/>
                 <TextEquiv>
                     <Unicode>hofe der linksſeitigen Seine⸗Bahn bei. Zum Diner waren</Unicode>
                 </TextEquiv>
@@ -1221,7 +1221,7 @@ Verkehr trat heute zu einer Sitzung zuſammen.</Unicode>
             </TextLine>
             <TextLine id="r10l22" custom="readingOrder {index:21;}">
                 <Coords points="3150,5002 3461,5002 3562,5003 3860,5006 4204,5010 4459,5013 4927,5023 4991,5029 5028,5042 5053,5054 5053,5072 5028,5083 4927,5097 4898,5086 3741,5067 3197,5068 3150,5057"/>
-                <Baseline points="3150,5057 3461,5056 3519,5057 3620,5056 3679,5056 3776,5057 3834,5057 3910,5060 3966,5062 4216,5066 4250,5066 4713,5076 4768,5078 4822,5079 4863,5080 5054,5077"/>
+                <Baseline points="3150,5057 3461,5056 3519,5057 3620,5056 3679,5056 3776,5057 3834,5057 3910,5060 3966,5062 4216,5066 4250,5066 4713,5076 4768,5078 4822,5079 4863,5080 5051,5072"/>
                 <TextEquiv>
                     <Unicode>Ehrenſäbel ein, den die »deutſche Sanitary⸗Fair« in Phila⸗</Unicode>
                 </TextEquiv>
@@ -1235,7 +1235,7 @@ Verkehr trat heute zu einer Sitzung zuſammen.</Unicode>
             </TextLine>
             <TextLine id="r10l24" custom="readingOrder {index:23;}">
                 <Coords points="3147,5139 3214,5137 3413,5136 3451,5136 3695,5137 3849,5138 4679,5150 5046,5162 5046,5230 4917,5214 3157,5187"/>
-                <Baseline points="3147,5187 3358,5189 3413,5189 3695,5191 3751,5192 3849,5193 3934,5195 4036,5196 4091,5197 4305,5202 4359,5203 4679,5209 4738,5210 4851,5213 4907,5214 5046,5216"/>
+                <Baseline points="3156,5185 3358,5189 3413,5189 3695,5191 3751,5192 3849,5193 3934,5195 4036,5196 4091,5197 4305,5202 4359,5203 4679,5209 4738,5210 4851,5212 4907,5213 5046,5216"/>
                 <TextEquiv>
                     <Unicode>prinzen überſandt hat. Die deutſche Geſellſchaft war einig</Unicode>
                 </TextEquiv>
@@ -1284,7 +1284,7 @@ Verkehr trat heute zu einer Sitzung zuſammen.</Unicode>
             </TextLine>
             <TextLine id="r10l31" custom="readingOrder {index:30;}">
                 <Coords points="3144,5602 3293,5602 3567,5604 3654,5605 3866,5608 4075,5611 4257,5614 4690,5623 5043,5633 5043,5683 4814,5690 4754,5691 4651,5679 3840,5673 3144,5668"/>
-                <Baseline points="3144,5658 3293,5656 3330,5656 3427,5656 3482,5656 3567,5657 3604,5659 3866,5660 3908,5661 3994,5663 4028,5662 4291,5668 4346,5670 4573,5675 4611,5676 4883,5681 4928,5682 5038,5685"/>
+                <Baseline points="3144,5658 3293,5656 3330,5656 3427,5656 3482,5656 3567,5657 3604,5659 3866,5660 3908,5661 3994,5663 4028,5662 4291,5668 4346,5670 4573,5675 4611,5676 4883,5681 4928,5682 5037,5683"/>
                 <TextEquiv>
                     <Unicode>Griff iſt, als Sinnbild des Kampfes zwiſchen Wahrheit und</Unicode>
                 </TextEquiv>
@@ -1389,14 +1389,14 @@ Verkehr trat heute zu einer Sitzung zuſammen.</Unicode>
             </TextLine>
             <TextLine id="r10l46" custom="readingOrder {index:45;}">
                 <Coords points="3127,6615 3256,6601 3315,6601 4247,6611 4799,6623 4866,6626 5004,6642 5030,6649 5030,6671 5004,6681 4940,6694 4906,6694 4019,6688 3421,6676 3127,6666"/>
-                <Baseline points="3127,6654 3222,6656 3256,6656 3532,6658 3568,6659 3821,6662 3857,6663 3949,6664 3985,6665 4063,6666 4082,6666 4343,6670 4376,6671 4497,6673 4533,6674 4610,6675 4639,6676 4799,6679 4818,6679 5028,6684"/>
+                <Baseline points="3127,6654 3222,6656 3256,6656 3532,6658 3568,6659 3821,6662 3857,6663 3949,6664 3985,6665 4063,6666 4082,6666 4343,6670 4376,6671 4497,6673 4533,6674 4610,6675 4639,6676 4799,6679 4818,6679 5023,6673"/>
                 <TextEquiv>
                     <Unicode>gen Nummer abdruckt, hat die Kammer noch im letzten Augen⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r10l47" custom="readingOrder {index:46;}">
                 <Coords points="3127,6670 3162,6669 3203,6668 3242,6668 3549,6670 4414,6679 4893,6693 5026,6708 5026,6748 4667,6754 4100,6738 4047,6741 3414,6722 3127,6720"/>
-                <Baseline points="3127,6707 3242,6722 3278,6722 3378,6723 3415,6724 3549,6727 3586,6728 3901,6730 3941,6731 4104,6732 4139,6733 4414,6739 4468,6740 4667,6743 4724,6744 4827,6745 4866,6746 5026,6738"/>
+                <Baseline points="3127,6707 3242,6720 3278,6721 3378,6721 3415,6722 3549,6726 3586,6727 3901,6730 3941,6731 4104,6732 4139,6733 4414,6739 4468,6740 4667,6743 4724,6744 4827,6745 4866,6746 5026,6738"/>
                 <TextEquiv>
                     <Unicode>blick vor ihrer Vertagung einige Beſchlüſſe gefaßt, aus denen</Unicode>
                 </TextEquiv>
@@ -1583,7 +1583,7 @@ tung überzugehen. Dahin gehört zunächſt der Antrag Ger⸗</Unicode>
             </TextLine>
             <TextLine id="r12l14" custom="readingOrder {index:13;}">
                 <Coords points="5718,2189 5869,2181 6935,2166 7204,2164 7502,2162 7591,2162 7612,2187 7612,2201 7591,2215 7131,2231 6827,2236 6209,2245 5869,2245 5718,2239"/>
-                <Baseline points="5718,2226 5794,2239 5832,2238 6209,2230 6247,2230 6353,2228 6389,2228 6424,2227 6460,2226 6897,2220 6935,2219 7010,2219 7047,2219 7131,2218 7169,2218 7268,2217 7305,2217 7443,2216 7482,2215 7611,2213"/>
+                <Baseline points="5718,2226 5794,2239 5832,2238 6209,2230 6247,2230 6353,2228 6389,2228 6424,2227 6460,2226 6897,2220 6935,2219 7010,2219 7047,2219 7131,2218 7169,2218 7268,2217 7305,2217 7443,2216 7482,2215 7605,2205"/>
                 <TextEquiv>
                     <Unicode>die Niederſetzung von 8 Kommiſſionen, die ſich mit einer voll⸗</Unicode>
                 </TextEquiv>
@@ -1625,7 +1625,7 @@ tung überzugehen. Dahin gehört zunächſt der Antrag Ger⸗</Unicode>
             </TextLine>
             <TextLine id="r12l20" custom="readingOrder {index:19;}">
                 <Coords points="5719,2587 5775,2582 6511,2568 7508,2562 7556,2562 7596,2575 7616,2586 7616,2602 7596,2614 7556,2628 7013,2637 6033,2650 5775,2650 5719,2649"/>
-                <Baseline points="5719,2641 6033,2635 6069,2635 6152,2633 6190,2633 6339,2629 6376,2629 6486,2626 6511,2626 7051,2619 7086,2619 7161,2619 7196,2618 7355,2616 7393,2616 7487,2615 7508,2614 7610,2617"/>
+                <Baseline points="5719,2641 6033,2635 6069,2635 6152,2633 6190,2633 6339,2629 6376,2629 6486,2626 6511,2626 7051,2619 7086,2619 7161,2619 7196,2618 7355,2616 7393,2616 7487,2615 7508,2614 7604,2608"/>
                 <TextEquiv>
                     <Unicode>ſchaffenheit der Poſt⸗ und Telegraphenlinien, die ſechſte den Zu⸗</Unicode>
                 </TextEquiv>
@@ -1751,7 +1751,7 @@ tung überzugehen. Dahin gehört zunächſt der Antrag Ger⸗</Unicode>
             </TextLine>
             <TextLine id="r12l38" custom="readingOrder {index:37;}">
                 <Coords points="5725,3786 5758,3777 7234,3762 7491,3761 7508,3761 7571,3763 7628,3776 7627,3823 5839,3852 5755,3854 5722,3850"/>
-                <Baseline points="5725,3841 5832,3839 5869,3838 5957,3837 6004,3835 6054,3834 6109,3833 6245,3830 6291,3830 6458,3826 6495,3826 6914,3819 6950,3819 7013,3818 7049,3818 7368,3816 7430,3815 7508,3815 7544,3814 7628,3813"/>
+                <Baseline points="5725,3841 5832,3839 5869,3838 5957,3837 6004,3835 6054,3834 6109,3833 6245,3830 6291,3830 6458,3826 6495,3826 6914,3819 6950,3819 7013,3818 7049,3818 7368,3816 7430,3815 7508,3815 7544,3814 7627,3812"/>
                 <TextEquiv>
                     <Unicode>Frankreichs einer neuen Verſammlung zu überlaſſen, bei der</Unicode>
                 </TextEquiv>
@@ -1793,7 +1793,7 @@ tung überzugehen. Dahin gehört zunächſt der Antrag Ger⸗</Unicode>
             </TextLine>
             <TextLine id="r12l44" custom="readingOrder {index:43;}">
                 <Coords points="5728,4188 5761,4187 6406,4169 7351,4161 7568,4161 7633,4175 7633,4214 7545,4226 6450,4240 6393,4241 5729,4247"/>
-                <Baseline points="5728,4241 5966,4237 6002,4236 6334,4229 6388,4228 6462,4226 6502,4226 6597,4224 6645,4223 6918,4219 6955,4219 7278,4216 7318,4215 7633,4214"/>
+                <Baseline points="5728,4240 5966,4237 6002,4236 6334,4229 6388,4228 6462,4226 6502,4226 6597,4224 6645,4223 6918,4219 6955,4219 7278,4216 7318,4215 7633,4214"/>
                 <TextEquiv>
                     <Unicode>ſtaltung Frankreichs auf die derzeitige, gemäßigten Prinzipien</Unicode>
                 </TextEquiv>
@@ -1821,7 +1821,7 @@ tung überzugehen. Dahin gehört zunächſt der Antrag Ger⸗</Unicode>
             </TextLine>
             <TextLine id="r12l48" custom="readingOrder {index:47;}">
                 <Coords points="5733,4469 5833,4453 6351,4436 7139,4430 7452,4428 7597,4428 7636,4442 7636,4476 7597,4491 6879,4503 5878,4511 5833,4518 5733,4510"/>
-                <Baseline points="5733,4509 5943,4505 6003,4503 6058,4502 6132,4501 6295,4498 6351,4496 6782,4488 6851,4487 6951,4485 7004,4484 7084,4484 7139,4484 7283,4482 7316,4482 7400,4482 7452,4481 7636,4480"/>
+                <Baseline points="5733,4509 5943,4505 6003,4503 6058,4502 6132,4501 6295,4498 6351,4496 6782,4488 6851,4487 6951,4485 7004,4484 7084,4484 7139,4484 7283,4482 7316,4482 7400,4482 7452,4481 7634,4476"/>
                 <TextEquiv>
                     <Unicode>machen es jedoch wahrſcheinlich, daß der Chef der Exeku⸗</Unicode>
                 </TextEquiv>
@@ -1947,7 +1947,7 @@ tung überzugehen. Dahin gehört zunächſt der Antrag Ger⸗</Unicode>
             </TextLine>
             <TextLine id="r12l66" custom="readingOrder {index:65;}">
                 <Coords points="5746,5688 5773,5675 6023,5668 6565,5656 7348,5644 7625,5643 7653,5643 7653,5697 7619,5699 7283,5699 6666,5716 6061,5735 5998,5735 5746,5730"/>
-                <Baseline points="5746,5730 5887,5727 5923,5727 6280,5717 6303,5717 6503,5712 6539,5710 6707,5709 6753,5708 6880,5706 6918,5706 6995,5705 7032,5704 7313,5701 7348,5701 7530,5699 7566,5698 7653,5697"/>
+                <Baseline points="5746,5730 5887,5727 5923,5727 6280,5717 6303,5717 6503,5712 6539,5710 6707,5709 6753,5708 6880,5706 6918,5706 6995,5705 7032,5704 7313,5699 7348,5699 7530,5699 7566,5698 7653,5697"/>
                 <TextEquiv>
                     <Unicode>einer nochmaligen herben Kritik über die geſammte Taktik des</Unicode>
                 </TextEquiv>
@@ -2024,7 +2024,7 @@ tung überzugehen. Dahin gehört zunächſt der Antrag Ger⸗</Unicode>
             </TextLine>
             <TextLine id="r12l77" custom="readingOrder {index:76;}">
                 <Coords points="5754,6418 5982,6411 6487,6397 7467,6385 7553,6385 7664,6397 7664,6437 7555,6452 6396,6475 5851,6490 5754,6476"/>
-                <Baseline points="5755,6481 5931,6476 5983,6475 6263,6468 6352,6466 6431,6464 6488,6463 6866,6456 6922,6455 7008,6453 7063,6452 7292,6449 7348,6448 7438,6446 7468,6446 7665,6442"/>
+                <Baseline points="5755,6476 5931,6476 5983,6475 6263,6468 6352,6466 6431,6464 6488,6463 6866,6456 6922,6455 7008,6453 7063,6452 7292,6449 7348,6448 7438,6446 7468,6446 7664,6437"/>
                 <TextEquiv>
                     <Unicode>Mont Valérien. In Gemeinſchaft des Kaiſers, des Kron⸗</Unicode>
                 </TextEquiv>
@@ -2059,7 +2059,7 @@ tung überzugehen. Dahin gehört zunächſt der Antrag Ger⸗</Unicode>
             </TextLine>
             <TextLine id="r12l82" custom="readingOrder {index:81;}">
                 <Coords points="5766,6757 6370,6746 6387,6746 6540,6755 6540,6796 6459,6811 6259,6816 6239,6816 5766,6811"/>
-                <Baseline points="5766,6811 5852,6810 5886,6809 5978,6809 6015,6808 6203,6804 6239,6802 6540,6796 6540,6796"/>
+                <Baseline points="5766,6811 5852,6810 5886,6809 5978,6809 6015,6808 6203,6804 6239,6802 6540,6796"/>
                 <TextEquiv>
                     <Unicode>der III. Armee zubringen.</Unicode>
                 </TextEquiv>
@@ -2080,7 +2080,7 @@ tung überzugehen. Dahin gehört zunächſt der Antrag Ger⸗</Unicode>
             </TextLine>
             <TextLine id="r12l85" custom="readingOrder {index:84;}">
                 <Coords points="5768,6962 5796,6954 7424,6917 7611,6917 7653,6921 7673,6945 7673,6963 7653,6977 7611,6997 6356,7015 5971,7018 5796,7018 5768,7009"/>
-                <Baseline points="5768,7009 5971,7006 6025,7006 6110,7004 6162,7004 6356,7001 6389,7001 6766,6993 6820,6992 6915,6990 6963,6989 7199,6984 7262,6984 7348,6983 7388,6984 7669,6971"/>
+                <Baseline points="5768,7009 5971,7006 6025,7006 6110,7004 6162,7004 6356,7001 6389,7001 6766,6993 6820,6992 6915,6990 6963,6989 7199,6984 7262,6984 7348,6983 7388,6984 7666,6967"/>
                 <TextEquiv>
                     <Unicode>welcher der pariſer Bevölkerung den Abſchluß der Friedens⸗</Unicode>
                 </TextEquiv>
@@ -2219,7 +2219,7 @@ welcher der pariſer Bevölkerung den Abſchluß der Friedens⸗</Unicode>
             </TextLine>
             <TextLine id="r13l7" custom="readingOrder {index:6;}">
                 <Coords points="7700,1692 7857,1690 8558,1683 8952,1680 9446,1678 9488,1678 9559,1692 9585,1702 9585,1722 9559,1732 9115,1746 8682,1751 8055,1756 7987,1756 7700,1747"/>
-                <Baseline points="7700,1747 7820,1746 7857,1746 7951,1744 7987,1743 8256,1741 8292,1741 8366,1741 8392,1741 8523,1740 8558,1739 8765,1736 8800,1736 8913,1735 8952,1734 9024,1734 9062,1734 9222,1735 9260,1733 9316,1733 9353,1733 9406,1733 9446,1732 9581,1724"/>
+                <Baseline points="7700,1747 7820,1746 7857,1746 7951,1744 7987,1743 8256,1741 8292,1741 8366,1741 8392,1741 8523,1740 8558,1739 8765,1736 8800,1736 8913,1735 8952,1734 9024,1734 9062,1734 9222,1735 9260,1733 9316,1733 9353,1733 9406,1733 9446,1732 9580,1723"/>
                 <TextEquiv>
                     <Unicode>Rue St. Honorée, die Rue Royale und die Place de la Con⸗</Unicode>
                 </TextEquiv>
@@ -2240,7 +2240,7 @@ welcher der pariſer Bevölkerung den Abſchluß der Friedens⸗</Unicode>
             </TextLine>
             <TextLine id="r13l10" custom="readingOrder {index:9;}">
                 <Coords points="7703,1892 8802,1882 9338,1879 9494,1879 9582,1897 9582,1923 9549,1932 9258,1946 8887,1950 7898,1956 7734,1956 7703,1954"/>
-                <Baseline points="7703,1946 7898,1944 7932,1944 8104,1942 8143,1941 8243,1941 8278,1940 8339,1940 8377,1939 8697,1936 8732,1936 8887,1934 8925,1933 9032,1932 9069,1933 9203,1933 9237,1933 9301,1932 9338,1932 9583,1924"/>
+                <Baseline points="7703,1946 7898,1944 7932,1944 8104,1942 8143,1941 8243,1941 8278,1940 8339,1940 8377,1939 8697,1936 8732,1936 8887,1934 8925,1933 9032,1932 9069,1933 9203,1933 9237,1933 9301,1932 9338,1932 9582,1923"/>
                 <TextEquiv>
                     <Unicode>Paris, indem wir ſie beſchwören, ruhig und einig zu bleiben.«</Unicode>
                 </TextEquiv>
@@ -2355,7 +2355,7 @@ quiſitionen und Kontributionen aufgehört.</Unicode>
             </TextLine>
             <TextLine id="r14l12" custom="readingOrder {index:11;}">
                 <Coords points="7713,2855 7742,2851 8599,2843 9354,2838 9569,2838 9595,2850 9595,2886 9543,2889 9270,2899 7916,2910 7742,2910 7713,2903"/>
-                <Baseline points="7712,2905 8007,2901 8070,2900 8292,2898 8332,2897 8418,2896 8458,2896 8536,2895 8569,2895 8686,2894 8718,2894 8849,2893 8881,2893 9019,2892 9048,2892 9323,2892 9353,2892 9594,2890"/>
+                <Baseline points="7713,2903 8007,2901 8070,2900 8292,2898 8332,2897 8418,2896 8458,2896 8536,2895 8569,2895 8686,2894 8718,2894 8849,2893 8881,2893 9019,2892 9048,2892 9323,2892 9353,2892 9593,2886"/>
                 <TextEquiv>
                     <Unicode>Schlachten! Preußen ſoll ſich nicht mehr ſeiner zahlreichen Artillerie</Unicode>
                 </TextEquiv>
@@ -2383,7 +2383,7 @@ quiſitionen und Kontributionen aufgehört.</Unicode>
             </TextLine>
             <TextLine id="r14l16" custom="readingOrder {index:15;}">
                 <Coords points="7711,3108 8031,3090 8424,3086 8726,3083 8854,3082 9394,3079 9543,3079 9576,3092 9596,3102 9596,3117 9576,3129 9543,3138 8819,3152 8726,3152 8570,3151 7711,3144"/>
-                <Baseline points="7711,3143 7866,3141 7885,3141 7999,3140 8018,3139 8089,3138 8116,3138 8190,3137 8209,3137 8315,3135 8333,3135 8406,3134 8424,3133 8704,3132 8726,3132 8819,3131 8836,3131 9111,3129 9129,3129 9234,3128 9265,3128 9338,3128 9355,3127 9594,3125"/>
+                <Baseline points="7711,3143 7866,3141 7885,3141 7999,3140 8018,3139 8089,3138 8116,3138 8190,3137 8209,3137 8315,3135 8333,3135 8406,3134 8424,3133 8704,3132 8726,3132 8819,3131 8836,3131 9111,3129 9129,3129 9234,3128 9265,3128 9338,3128 9355,3127 9591,3120"/>
                 <TextEquiv>
                     <Unicode>mann vom 18. bis zum 60. Lebensjahr ſoll verpflichtet ſein, ein Pruſſien⸗</Unicode>
                 </TextEquiv>
@@ -2490,7 +2490,7 @@ Bleies habt ihr eine wahre Mitrailleuſe in den Händen, welche auf
             </TextLine>
             <TextLine id="r15l2" custom="readingOrder {index:1;}">
                 <Coords points="7720,3870 7830,3868 8339,3861 8748,3857 9503,3854 9543,3854 9582,3868 9604,3878 9604,3895 9582,3907 9466,3917 8326,3929 7882,3932 7830,3932 7720,3925"/>
-                <Baseline points="7720,3925 8139,3917 8194,3916 8284,3914 8311,3914 8671,3912 8709,3912 9046,3909 9100,3909 9280,3908 9317,3908 9466,3907 9503,3907 9604,3906"/>
+                <Baseline points="7720,3925 8139,3917 8194,3916 8284,3914 8311,3914 8671,3912 8709,3912 9046,3909 9100,3909 9280,3908 9317,3908 9466,3907 9503,3907 9599,3897"/>
                 <TextEquiv>
                     <Unicode>Verſammlung am Donnerſtag Nachmittag wurde durch ein⸗</Unicode>
                 </TextEquiv>
@@ -2836,7 +2836,7 @@ Deutſch⸗Lothringen.</Unicode>
             <Coords points="7735,6759 9700,6759 9700,7004 7735,7004"/>
             <TextLine id="r20l1" custom="readingOrder {index:0;}">
                 <Coords points="7885,6781 8386,6771 9456,6761 9488,6761 9629,6772 9650,6784 9650,6802 9629,6816 9235,6826 8721,6838 8096,6847 7926,6847 7885,6838"/>
-                <Baseline points="7885,6837 8156,6833 8211,6832 8359,6830 8386,6829 8721,6826 8756,6826 9235,6819 9290,6818 9419,6816 9456,6814 9501,6815 9592,6816 9652,6812"/>
+                <Baseline points="7885,6837 8156,6833 8211,6832 8359,6830 8386,6829 8721,6826 8756,6826 9235,6819 9290,6818 9419,6816 9456,6814 9501,6815 9592,6816 9646,6804"/>
                 <TextEquiv>
                     <Unicode>Nachdem durch Allerhöchſte Kabinets⸗Ordre vom 7. No⸗</Unicode>
                 </TextEquiv>
@@ -2850,7 +2850,7 @@ Deutſch⸗Lothringen.</Unicode>
             </TextLine>
             <TextLine id="r20l3" custom="readingOrder {index:2;}">
                 <Coords points="7762,6932 7844,6918 8193,6907 8774,6895 9503,6891 9588,6891 9660,6916 9660,6936 9628,6948 8874,6977 8722,6980 8032,6982 7762,6974"/>
-                <Baseline points="7762,6974 7874,6973 7913,6972 7995,6971 8032,6970 8154,6969 8193,6968 8581,6963 8622,6962 8698,6962 8743,6961 8919,6958 8944,6957 9186,6952 9208,6952 9357,6949 9390,6948 9486,6946 9503,6948 9658,6942"/>
+                <Baseline points="7762,6974 7874,6973 7913,6972 7995,6971 8032,6970 8154,6969 8193,6968 8581,6963 8622,6962 8698,6962 8743,6961 8919,6958 8944,6957 9186,6952 9208,6952 9357,6949 9390,6948 9486,6946 9503,6948 9656,6937"/>
                 <TextEquiv>
                     <Unicode>und der zum Quellengebiet der Brüche gehörige Theil des Kan⸗</Unicode>
                 </TextEquiv>

@@ -1,24 +1,24 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
     <Metadata>
         <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.7.2:model_id=40804:lm=none:date=06_07_2022_09:35
 prov=READ-COOP:name=PyLaia@Transkribus:version=0.7.2:model_id=40804:date=06_07_2022_09:35
 Transkribus</Creator>
         <Created>2021-12-14T12:18:05.209+01:00</Created>
-        <LastChange>2023-06-13T15:52:06.746+02:00</LastChange>
+        <LastChange>2023-11-16T09:32:18.290+01:00</LastChange>
         <Comments>
                 Measurement unit: pixel
                 PrimaryLanguage: 
                 Producer: Transkribus
             </Comments>
-        <TranskribusMetadata docId="1028597" pageId="43217663" pageNr="14" tsid="126853526" status="GT" userId="109938" imgUrl="https://files.transkribus.eu/Get?id=FUFWSWWNBWRJTAQJXOKLEGJO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YBTJPLPMUDIMPHYXQPETPYZQ" imageId="35453675"/>
+        <TranskribusMetadata docId="1028597" pageId="43217663" pageNr="14" tsid="139879522" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=FUFWSWWNBWRJTAQJXOKLEGJO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WLDGBVJZGFCEXYKFLKJCBPOZ" imageId="35453675"/>
     </Metadata>
     <Page imageFilename="1918_1_0015.jpg" imageWidth="9928" imageHeight="7096">
         <PrintSpace>
             <Coords points="328,330 9497,331 9493,6631 328,6721"/>
         </PrintSpace>
         <ReadingOrder>
-            <OrderedGroup id="ro_1690359980874" caption="Regions reading order">
+            <OrderedGroup id="ro_1700129721644" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
                 <RegionRefIndexed index="1" regionRef="r2"/>
                 <RegionRefIndexed index="2" regionRef="r3"/>
@@ -561,7 +561,7 @@ Oberamtsrichter Buob.</Unicode>
             </TextLine>
             <TextLine id="r5l30" custom="readingOrder {index:29;}">
                 <Coords points="434,2928 553,2926 807,2924 894,2924 1266,2925 1266,2969 682,2973 553,2973 435,2972"/>
-                <Baseline points="434,2964 507,2965 530,2965 682,2964 717,2964 773,2964 807,2964 894,2965 932,2965 987,2965 1022,2965 1192,2964 1225,2964 1266,2963"/>
+                <Baseline points="434,2963 507,2965 530,2965 682,2964 717,2964 773,2964 807,2964 894,2965 932,2965 987,2965 1022,2965 1192,2964 1225,2964 1266,2963"/>
                 <TextEquiv>
                     <Unicode>Die Einſicht der Liſte der Genoſſen iſt</Unicode>
                 </TextEquiv>
@@ -939,14 +939,14 @@ Amtsgericht Uchte, 21. Dezember 1917.</Unicode>
             </TextLine>
             <TextLine id="r11l10" custom="readingOrder {index:9;}">
                 <Coords points="417,4742 838,4739 1157,4738 1198,4738 1252,4751 1253,4781 1200,4783 785,4785 590,4785 418,4784"/>
-                <Baseline points="417,4778 543,4779 590,4779 785,4778 838,4778 912,4778 960,4777 1112,4778 1157,4779 1252,4776"/>
+                <Baseline points="417,4777 543,4779 590,4779 785,4778 838,4778 912,4778 960,4777 1112,4778 1157,4779 1252,4776"/>
                 <TextEquiv>
                     <Unicode>ſtantin Hornſtein. Als weiteres Vor⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r11l11" custom="readingOrder {index:10;}">
                 <Coords points="417,4795 434,4792 568,4785 1211,4785 1252,4796 1251,4828 955,4832 600,4832 417,4831"/>
-                <Baseline points="417,4823 687,4825 723,4824 791,4824 827,4824 973,4824 997,4824 1052,4824 1078,4824 1252,4824"/>
+                <Baseline points="417,4823 687,4825 723,4824 791,4824 827,4824 973,4824 997,4824 1052,4824 1078,4824 1251,4823"/>
                 <TextEquiv>
                     <Unicode>ſtandsmitglied und zugleich als Stellver⸗</Unicode>
                 </TextEquiv>
@@ -974,7 +974,7 @@ Amtsgericht Uchte, 21. Dezember 1917.</Unicode>
             </TextLine>
             <TextLine id="r11l15" custom="readingOrder {index:14;}">
                 <Coords points="672,4969 988,4969 1008,4971 1008,5009 988,5016 794,5016 674,5014"/>
-                <Baseline points="672,5005 740,5006 767,5007 1008,5009"/>
+                <Baseline points="673,5004 740,5006 767,5007 1008,5009"/>
                 <TextEquiv>
                     <Unicode>Gr. Amtsgericht.</Unicode>
                 </TextEquiv>
@@ -1217,7 +1217,7 @@ Gr. Amtsgericht.</Unicode>
             </TextLine>
             <TextLine id="r13l30" custom="readingOrder {index:29;}">
                 <Coords points="419,6372 478,6367 975,6367 1195,6371 1245,6381 1245,6407 1212,6409 990,6414 856,6414 485,6412 420,6411"/>
-                <Baseline points="419,6406 587,6406 634,6407 698,6407 745,6406 819,6407 856,6408 1093,6407 1131,6407 1245,6404"/>
+                <Baseline points="419,6405 587,6406 634,6407 698,6407 745,6406 819,6407 856,6408 1093,6407 1131,6407 1245,6404"/>
                 <TextEquiv>
                     <Unicode>desſelben von dem Vorſitzenden unter⸗</Unicode>
                 </TextEquiv>
@@ -1361,7 +1361,7 @@ die Zeichnung der Firma durch den Vor⸗</Unicode>
             </TextLine>
             <TextLine id="r14l11" custom="readingOrder {index:10;}">
                 <Coords points="1324,876 1386,875 1684,874 2123,874 2161,894 2161,908 2163,916 2123,914 1900,920 1527,922 1508,922 1323,919"/>
-                <Baseline points="1324,914 1345,914 1386,914 1527,914 1543,914 1656,914 1682,915 1949,913 1972,914 2008,914 2022,914 2162,911"/>
+                <Baseline points="1324,914 1345,914 1386,914 1527,914 1543,914 1656,914 1682,915 1949,913 1972,914 2008,914 2022,914 2161,911"/>
                 <TextEquiv>
                     <Unicode>3) Ludwig Ewig, Bäckermeiſter in Nieder⸗</Unicode>
                 </TextEquiv>
@@ -1375,7 +1375,7 @@ die Zeichnung der Firma durch den Vor⸗</Unicode>
             </TextLine>
             <TextLine id="r14l13" custom="readingOrder {index:12;}">
                 <Coords points="1323,978 1370,966 1814,965 1982,965 2162,970 2163,1006 2145,1008 1982,1010 1623,1012 1370,1012 1323,1005"/>
-                <Baseline points="1323,1005 1438,1005 1475,1005 1517,1005 1546,1005 1708,1004 1731,1005 1790,1005 1814,1005 2080,1003 2106,1003 2163,1001"/>
+                <Baseline points="1323,1005 1438,1005 1475,1005 1517,1005 1546,1005 1708,1004 1731,1005 1790,1005 1814,1005 2080,1003 2106,1003 2162,1001"/>
                 <TextEquiv>
                     <Unicode>noſſen iſt während der Dienſtſtunden des</Unicode>
                 </TextEquiv>
@@ -1580,7 +1580,7 @@ Amtsrichter Majer.</Unicode>
             <Coords points="1295,2042 1997,2042 1997,2093 2160,2093 2147,3655 1282,3656"/>
             <TextLine id="r19l1" custom="readingOrder {index:0;}">
                 <Coords points="1312,2047 1790,2047 1854,2054 1856,2088 1612,2087 1416,2087 1313,2087"/>
-                <Baseline points="1312,2083 1612,2082 1636,2082 1854,2083"/>
+                <Baseline points="1312,2082 1612,2082 1636,2082 1854,2083"/>
                 <TextEquiv>
                     <Unicode>Oberndorf, Neckar.</Unicode>
                 </TextEquiv>
@@ -1608,7 +1608,7 @@ Amtsrichter Majer.</Unicode>
             </TextLine>
             <TextLine id="r19l5" custom="readingOrder {index:4;}">
                 <Coords points="1308,2238 1415,2230 1588,2229 1623,2229 2026,2230 2146,2242 2149,2272 2100,2273 1752,2275 1490,2276 1394,2276 1309,2271"/>
-                <Baseline points="1308,2267 1549,2268 1588,2268 1623,2268 1714,2268 1900,2267 2008,2268 2026,2268 2076,2269 2145,2268"/>
+                <Baseline points="1308,2266 1549,2268 1588,2268 1623,2268 1714,2268 1900,2267 2008,2268 2026,2268 2076,2269 2145,2268"/>
                 <TextEquiv>
                     <Unicode>merzierrat in Schramberg, 1 ver⸗</Unicode>
                 </TextEquiv>
@@ -1685,7 +1685,7 @@ Amtsrichter Majer.</Unicode>
             </TextLine>
             <TextLine id="r19l16" custom="readingOrder {index:15;}">
                 <Coords points="1304,2743 1343,2732 1580,2733 1607,2733 2143,2736 2143,2780 1607,2778 1582,2775 1305,2775"/>
-                <Baseline points="1304,2768 1455,2771 1492,2771 1580,2771 1601,2771 1604,2771 1701,2771 1735,2771 1762,2771 1793,2771 1832,2771 1867,2771 1902,2772 1934,2772 1972,2772 1992,2772 2023,2772 2074,2773 2110,2771 2143,2770"/>
+                <Baseline points="1304,2767 1455,2771 1492,2771 1580,2771 1601,2771 1604,2771 1701,2771 1735,2771 1762,2771 1793,2771 1832,2771 1867,2771 1902,2772 1934,2772 1972,2772 1992,2772 2023,2772 2074,2773 2110,2771 2143,2770"/>
                 <TextEquiv>
                     <Unicode>gehäuſe, Nr. 1, 2, 3, 4, 5, 6, 7, 8, 9,</Unicode>
                 </TextEquiv>
@@ -1865,7 +1865,7 @@ Amtsrichter Majer.</Unicode>
             <Coords points="1985,3669 2148,3670 2147,3726 1986,3726"/>
             <TextLine id="r20l1" custom="readingOrder {index:0;}">
                 <Coords points="2005,3675 2136,3675 2135,3720 1991,3721 1990,3677"/>
-                <Baseline points="1988,3714 2132,3716"/>
+                <Baseline points="1990,3713 2132,3716"/>
                 <TextEquiv>
                     <Unicode>[54210]</Unicode>
                 </TextEquiv>
@@ -1878,7 +1878,7 @@ Amtsrichter Majer.</Unicode>
             <Coords points="1281,3669 1985,3669 1986,3726 2147,3726 2141,4324 1282,4322"/>
             <TextLine id="r21l1" custom="readingOrder {index:0;}">
                 <Coords points="1299,3674 1547,3674 1575,3682 1575,3715 1515,3715 1300,3714"/>
-                <Baseline points="1299,3709 1575,3710"/>
+                <Baseline points="1299,3708 1575,3710"/>
                 <TextEquiv>
                     <Unicode>Radeberg.</Unicode>
                 </TextEquiv>
@@ -1934,7 +1934,7 @@ Amtsrichter Majer.</Unicode>
             </TextLine>
             <TextLine id="r21l9" custom="readingOrder {index:8;}">
                 <Coords points="1292,4044 1309,4041 1462,4041 1756,4042 1899,4043 2121,4045 2131,4074 2131,4091 1764,4086 1532,4089 1353,4087 1294,4087"/>
-                <Baseline points="1292,4081 1462,4080 1497,4080 1801,4082 1828,4082 1924,4081 1947,4083 2015,4083 2028,4083 2131,4083"/>
+                <Baseline points="1293,4080 1462,4080 1497,4080 1801,4082 1828,4082 1924,4081 1947,4083 2015,4083 2028,4083 2131,4083"/>
                 <TextEquiv>
                     <Unicode>käppchen, Fabriknummern 3235 und 3236,</Unicode>
                 </TextEquiv>
@@ -2008,7 +2008,7 @@ Königliches Amtsgericht.</Unicode>
             <Coords points="1283,4347 1979,4347 1979,4405 2136,4405 2137,4911 1284,4911"/>
             <TextLine id="r23l1" custom="readingOrder {index:0;}">
                 <Coords points="1292,4354 1491,4354 1808,4356 1842,4364 1846,4395 1595,4396 1584,4396 1293,4394"/>
-                <Baseline points="1292,4390 1595,4390 1620,4390 1842,4392"/>
+                <Baseline points="1292,4389 1595,4390 1620,4390 1842,4392"/>
                 <TextEquiv>
                     <Unicode>Sonneberg, S.-Mein.</Unicode>
                 </TextEquiv>
@@ -2109,7 +2109,7 @@ Herzogl. Amtsgericht. Abt. I.</Unicode>
             <Coords points="1975,4933 2135,4933 2135,4992 1977,4993"/>
             <TextLine id="r24l1" custom="readingOrder {index:0;}">
                 <Coords points="1982,4940 2132,4940 2132,4992 2040,4992 1981,4988 1981,4943"/>
-                <Baseline points="1982,4981 2135,4981"/>
+                <Baseline points="1982,4981 2132,4981"/>
                 <TextEquiv>
                     <Unicode>[54212]</Unicode>
                 </TextEquiv>
@@ -2150,7 +2150,7 @@ Herzogl. Amtsgericht. Abt. I.</Unicode>
             </TextLine>
             <TextLine id="r25l5" custom="readingOrder {index:4;}">
                 <Coords points="1291,5128 1305,5122 1731,5122 2104,5126 2130,5138 2131,5169 1933,5170 1805,5170 1305,5168 1287,5161 1289,5128"/>
-                <Baseline points="1291,5160 1397,5162 1418,5162 1504,5160 1521,5160 1748,5162 1805,5162 1933,5164 1961,5165 2131,5165"/>
+                <Baseline points="1291,5160 1397,5162 1418,5162 1504,5160 1521,5160 1748,5162 1805,5162 1933,5164 1961,5165 2130,5165"/>
                 <TextEquiv>
                     <Unicode>theke und Chemiſche Fabrik, Witten⸗</Unicode>
                 </TextEquiv>
@@ -2252,7 +2252,7 @@ Großherzogliches Amtsgericht.</Unicode>
             <Coords points="1978,5818 2140,5819 2139,5873 1978,5874"/>
             <TextLine id="r27l1" custom="readingOrder {index:0;}">
                 <Coords points="1982,5825 2023,5824 2133,5824 2133,5873 1994,5873 1982,5871"/>
-                <Baseline points="1981,5862 2129,5860"/>
+                <Baseline points="1982,5862 2129,5860"/>
                 <TextEquiv>
                     <Unicode>[54213]</Unicode>
                 </TextEquiv>
@@ -2349,7 +2349,7 @@ Großherzogliches Amtsgericht.</Unicode>
             </TextLine>
             <TextLine id="r28l13" custom="readingOrder {index:12;}">
                 <Coords points="1284,6386 1311,6383 1424,6375 1455,6375 2082,6376 2123,6387 2123,6421 1862,6421 1737,6418 1285,6417"/>
-                <Baseline points="1284,6410 1391,6411 1424,6411 1575,6412 1615,6413 1886,6413 1917,6413 2005,6413 2022,6414 2123,6416"/>
+                <Baseline points="1284,6409 1391,6411 1424,6411 1575,6412 1615,6413 1886,6413 1917,6413 2005,6413 2022,6414 2123,6416"/>
                 <TextEquiv>
                     <Unicode>nuar 1918, Vormittags 10 ½ Uhr,</Unicode>
                 </TextEquiv>
@@ -2406,7 +2406,7 @@ Königliches Amtsgericht. Abteilung 5.</Unicode>
             <Coords points="2881,406 3044,406 3044,466 2885,467"/>
             <TextLine id="r29l1" custom="readingOrder {index:0;}">
                 <Coords points="2901,413 3040,415 3042,464 2894,463 2889,413"/>
-                <Baseline points="2893,454 3039,455"/>
+                <Baseline points="2893,453 3039,455"/>
                 <TextEquiv>
                     <Unicode>[54217]</Unicode>
                 </TextEquiv>
@@ -2440,7 +2440,7 @@ Königliches Amtsgericht. Abteilung 5.</Unicode>
             </TextLine>
             <TextLine id="r30l4" custom="readingOrder {index:3;}">
                 <Coords points="2429,552 2663,555 2700,555 3038,553 3040,600 3011,600 2587,599 2449,594 2203,600 2198,555"/>
-                <Baseline points="2204,594 2468,594 2587,594 2598,594 2663,594 2735,592 3011,591 3040,590"/>
+                <Baseline points="2204,594 2468,594 2587,594 2598,594 2663,594 2735,592 3011,591 3039,590"/>
                 <TextEquiv>
                     <Unicode>28. Dezember 1917, Vormittags 11 ¾ Uhr,</Unicode>
                 </TextEquiv>
@@ -2496,7 +2496,7 @@ Königliches Amtsgericht. Abteilung 5.</Unicode>
             </TextLine>
             <TextLine id="r30l12" custom="readingOrder {index:11;}">
                 <Coords points="2197,918 2601,916 2626,916 3037,916 3037,959 2906,964 2632,964 2595,964 2261,962 2198,962"/>
-                <Baseline points="2197,957 2281,956 2304,956 2372,955 2396,956 2601,955 2615,955 2626,955 2637,955 2946,954 2976,954 3037,954"/>
+                <Baseline points="2197,956 2281,956 2304,956 2372,955 2396,956 2601,955 2615,955 2626,955 2637,955 2946,954 2976,954 3037,954"/>
                 <TextEquiv>
                     <Unicode>lung und allgemeiner Prüfungstermin auf</Unicode>
                 </TextEquiv>
@@ -2524,7 +2524,7 @@ Königliches Amtsgericht. Abteilung 5.</Unicode>
             </TextLine>
             <TextLine id="r30l16" custom="readingOrder {index:15;}">
                 <Coords points="2197,1107 2271,1100 2289,1100 2330,1111 2343,1126 2345,1139 2332,1141 2272,1142 2199,1143"/>
-                <Baseline points="2197,1137 2343,1136"/>
+                <Baseline points="2198,1136 2343,1136"/>
                 <TextEquiv>
                     <Unicode>worden.</Unicode>
                 </TextEquiv>
@@ -2630,7 +2630,7 @@ Gr. Amtsgericht I.</Unicode>
             </TextLine>
             <TextLine id="r32l8" custom="readingOrder {index:7;}">
                 <Coords points="2190,1602 2265,1600 2861,1602 3027,1600 3028,1640 2546,1646 2272,1646 2190,1638"/>
-                <Baseline points="2190,1638 2227,1638 2263,1638 2546,1638 2592,1639 2678,1639 2733,1639 2808,1639 2856,1639 3028,1636"/>
+                <Baseline points="2190,1638 2227,1638 2263,1638 2546,1638 2592,1639 2678,1639 2733,1639 2808,1639 2856,1639 3027,1636"/>
                 <TextEquiv>
                     <Unicode>in Habelſchwerdt wird zum Konkurs⸗</Unicode>
                 </TextEquiv>
@@ -2672,7 +2672,7 @@ Gr. Amtsgericht I.</Unicode>
             </TextLine>
             <TextLine id="r32l14" custom="readingOrder {index:13;}">
                 <Coords points="2188,1886 2234,1877 2388,1875 2666,1873 3022,1873 3024,1915 2767,1917 2666,1917 2414,1918 2190,1918"/>
-                <Baseline points="2188,1913 2327,1913 2388,1913 2609,1913 2666,1913 2767,1912 2832,1912 2912,1912 2971,1912 3022,1912"/>
+                <Baseline points="2189,1912 2327,1913 2388,1913 2609,1913 2666,1913 2767,1912 2832,1912 2912,1912 2971,1912 3022,1912"/>
                 <TextEquiv>
                     <Unicode>anderen Verwalters ſowie über die</Unicode>
                 </TextEquiv>
@@ -2686,7 +2686,7 @@ Gr. Amtsgericht I.</Unicode>
             </TextLine>
             <TextLine id="r32l16" custom="readingOrder {index:15;}">
                 <Coords points="2188,1971 2313,1966 2570,1966 3024,1965 3028,2007 2930,2010 2568,2012 2308,2009 2189,2006 2188,1977"/>
-                <Baseline points="2188,1997 2254,2004 2290,2004 2603,2004 2639,2004 2719,2004 2756,2004 2808,2004 2833,2004 2882,2004 2906,2004 2930,2003 2958,2003 3026,2003"/>
+                <Baseline points="2188,1996 2254,2004 2290,2004 2603,2004 2639,2004 2719,2004 2756,2004 2808,2004 2833,2004 2882,2004 2906,2004 2930,2003 2958,2003 3026,2003"/>
                 <TextEquiv>
                     <Unicode>und eintretendenfalls über die im § 132</Unicode>
                 </TextEquiv>
@@ -2777,7 +2777,7 @@ Gr. Amtsgericht I.</Unicode>
             </TextLine>
             <TextLine id="r32l29" custom="readingOrder {index:28;}">
                 <Coords points="2184,2573 2232,2563 2246,2561 2722,2561 2932,2562 2999,2564 3012,2573 3012,2599 2999,2601 2932,2608 2791,2608 2246,2607 2185,2602"/>
-                <Baseline points="2184,2600 2295,2600 2332,2600 2377,2600 2416,2601 2483,2601 2524,2601 2582,2601 2622,2601 2738,2600 2777,2600 3012,2599"/>
+                <Baseline points="2184,2599 2295,2600 2332,2600 2377,2600 2416,2601 2483,2601 2524,2601 2582,2601 2622,2601 2738,2600 2777,2600 3012,2599"/>
                 <TextEquiv>
                     <Unicode>welche ſie aus der Sache abgeſonderte</Unicode>
                 </TextEquiv>
@@ -2791,7 +2791,7 @@ Gr. Amtsgericht I.</Unicode>
             </TextLine>
             <TextLine id="r32l31" custom="readingOrder {index:30;}">
                 <Coords points="2179,2653 2865,2655 2895,2656 3021,2661 3023,2700 2891,2701 2867,2701 2182,2698"/>
-                <Baseline points="2179,2693 2517,2693 2561,2692 2616,2692 2660,2693 2749,2693 2775,2692 2833,2692 2865,2692 2936,2693 2961,2693 3019,2692"/>
+                <Baseline points="2181,2692 2517,2693 2561,2692 2616,2692 2660,2693 2749,2693 2775,2692 2833,2692 2865,2692 2936,2693 2961,2693 3019,2692"/>
                 <TextEquiv>
                     <Unicode>Konkursverwalter bis zum 22. Januar</Unicode>
                 </TextEquiv>
@@ -2884,7 +2884,7 @@ Königliches Amtsgericht in Habelſchwerdt.</Unicode>
             </TextLine>
             <TextLine id="r34l4" custom="readingOrder {index:3;}">
                 <Coords points="2180,2990 2207,2985 2259,2977 2734,2976 2788,2976 2968,2978 3016,2983 3016,2993 3016,3008 3016,3020 2968,3021 2784,3022 2321,3022 2182,3021"/>
-                <Baseline points="2180,3014 2394,3014 2409,3014 2633,3015 2659,3015 2726,3015 2730,3015 2895,3015 2919,3015 3016,3014"/>
+                <Baseline points="2181,3013 2394,3014 2409,3014 2633,3015 2659,3015 2726,3015 2730,3015 2895,3015 2919,3015 3016,3014"/>
                 <TextEquiv>
                     <Unicode>alleinigen Inhabers der Firma Her⸗</Unicode>
                 </TextEquiv>
@@ -2898,7 +2898,7 @@ Königliches Amtsgericht in Habelſchwerdt.</Unicode>
             </TextLine>
             <TextLine id="r34l6" custom="readingOrder {index:5;}">
                 <Coords points="2177,3070 2965,3068 2983,3068 3014,3074 3014,3113 3000,3113 2982,3113 2296,3112 2196,3110 2178,3108"/>
-                <Baseline points="2177,3104 2204,3105 2222,3105 2308,3107 2333,3107 2374,3107 2391,3107 2448,3105 2466,3105 2522,3106 2553,3106 2719,3106 2740,3106 2841,3106 2856,3107 3014,3107"/>
+                <Baseline points="2177,3103 2204,3105 2222,3105 2308,3107 2333,3107 2374,3107 2391,3107 2448,3105 2466,3105 2522,3106 2553,3106 2719,3106 2740,3106 2841,3106 2856,3107 3014,3107"/>
                 <TextEquiv>
                     <Unicode>i. W, iſt am 27. Dezember 1917, Mittags</Unicode>
                 </TextEquiv>
@@ -2975,7 +2975,7 @@ Königliches Amtsgericht in Habelſchwerdt.</Unicode>
             </TextLine>
             <TextLine id="r34l17" custom="readingOrder {index:16;}">
                 <Coords points="2174,3583 2212,3573 2872,3575 2891,3575 3010,3575 3012,3617 2895,3621 2876,3621 2290,3619 2175,3614"/>
-                <Baseline points="2174,3611 2340,3611 2358,3611 2426,3611 2441,3611 2537,3612 2560,3612 2622,3612 2639,3612 2712,3612 2730,3612 3010,3613"/>
+                <Baseline points="2174,3610 2340,3611 2358,3611 2426,3611 2441,3611 2537,3612 2560,3612 2622,3612 2639,3612 2712,3612 2730,3612 3010,3613"/>
                 <TextEquiv>
                     <Unicode>mittags 10 Uhr, vor dem unterzeichneten</Unicode>
                 </TextEquiv>
@@ -3096,7 +3096,7 @@ Königliches Amtsgericht Hagen i. W.</Unicode>
             </TextLine>
             <TextLine id="r36l10" custom="readingOrder {index:9;}">
                 <Coords points="2169,4206 2536,4206 2973,4208 2991,4214 3005,4228 3005,4243 2991,4248 2874,4255 2785,4255 2274,4254 2166,4251"/>
-                <Baseline points="2169,4247 2244,4247 2254,4248 2573,4247 2585,4247 2643,4247 2658,4248 2746,4247 2770,4246 2874,4247 2885,4247 3003,4246"/>
+                <Baseline points="2169,4247 2244,4247 2254,4248 2573,4247 2585,4247 2643,4247 2658,4248 2746,4247 2770,4246 2874,4247 2885,4247 3002,4243"/>
                 <TextEquiv>
                     <Unicode>Der Gerichtsſchreiber des Königlichen Amts⸗</Unicode>
                 </TextEquiv>
@@ -3355,7 +3355,7 @@ gerichts Berlin⸗Mitte. Abteilung 83.</Unicode>
             </TextLine>
             <TextLine id="r40l11" custom="readingOrder {index:10;}">
                 <Coords points="2204,5595 2603,5597 2781,5597 2991,5600 3002,5627 3001,5642 2782,5644 2603,5646 2259,5640 2202,5638"/>
-                <Baseline points="2204,5635 2570,5638 2583,5638 2643,5637 2657,5637 2703,5637 2726,5637 2798,5639 2802,5639 2892,5640 2923,5640 3002,5638"/>
+                <Baseline points="2204,5635 2570,5638 2583,5638 2643,5637 2657,5637 2703,5637 2726,5637 2798,5639 2802,5639 2892,5640 2923,5640 3001,5637"/>
                 <TextEquiv>
                     <Unicode>Charlottenburg, den 27. Dezember 1917.</Unicode>
                 </TextEquiv>
@@ -3399,7 +3399,7 @@ Königliches Amtsgericht.</Unicode>
             <Coords points="2159,5725 2849,5729 2852,5782 3008,5782 3009,6112 2160,6107"/>
             <TextLine id="r42l1" custom="readingOrder {index:0;}">
                 <Coords points="2167,5734 2249,5732 2410,5732 2442,5740 2442,5775 2383,5775 2168,5773"/>
-                <Baseline points="2167,5768 2442,5769"/>
+                <Baseline points="2167,5767 2442,5769"/>
                 <TextEquiv>
                     <Unicode>Duisburg.</Unicode>
                 </TextEquiv>
@@ -3448,7 +3448,7 @@ Königliches Amtsgericht.</Unicode>
             </TextLine>
             <TextLine id="r42l8" custom="readingOrder {index:7;}">
                 <Coords points="2347,6052 2773,6052 2800,6053 2815,6056 2826,6080 2827,6098 2800,6100 2347,6100"/>
-                <Baseline points="2347,6093 2566,6092 2590,6092 2827,6093"/>
+                <Baseline points="2347,6093 2566,6092 2590,6092 2826,6093"/>
                 <TextEquiv>
                     <Unicode>Königliches Amtsgericht.</Unicode>
                 </TextEquiv>
@@ -3502,7 +3502,7 @@ Königliches Amtsgericht.</Unicode>
             </TextLine>
             <TextLine id="r44l4" custom="readingOrder {index:3;}">
                 <Coords points="2159,6287 2343,6284 2552,6283 2673,6283 2967,6284 2994,6287 2994,6330 2704,6328 2161,6330"/>
-                <Baseline points="2159,6323 2276,6323 2320,6321 2400,6323 2449,6322 2510,6323 2552,6323 2748,6322 2784,6323 2841,6324 2866,6324 2994,6322"/>
+                <Baseline points="2160,6322 2276,6323 2320,6321 2400,6323 2449,6322 2510,6323 2552,6323 2748,6322 2784,6323 2841,6324 2866,6324 2994,6322"/>
                 <TextEquiv>
                     <Unicode>fahren über das Vermögen des Land⸗</Unicode>
                 </TextEquiv>
@@ -3566,7 +3566,7 @@ Gerichtsſchreiberei des K. Amtsgerichts.</Unicode>
             <Coords points="3763,407 3920,407 3919,467 3766,467"/>
             <TextLine id="r45l1" custom="readingOrder {index:0;}">
                 <Coords points="3763,413 3852,413 3919,414 3919,467 3766,467"/>
-                <Baseline points="3767,454 3920,454"/>
+                <Baseline points="3767,454 3919,454"/>
                 <TextEquiv>
                     <Unicode>[54213]</Unicode>
                 </TextEquiv>
@@ -3593,7 +3593,7 @@ Gerichtsſchreiberei des K. Amtsgerichts.</Unicode>
             </TextLine>
             <TextLine id="r46l3" custom="readingOrder {index:2;}">
                 <Coords points="3075,520 3114,511 3686,509 3856,509 3901,510 3915,527 3916,555 3854,552 3678,554 3135,551 3075,549"/>
-                <Baseline points="3075,549 3199,550 3236,550 3296,550 3329,550 3457,549 3481,549 3603,550 3628,550 3916,549"/>
+                <Baseline points="3075,549 3199,550 3236,550 3296,550 3329,550 3457,549 3481,549 3603,550 3628,550 3915,549"/>
                 <TextEquiv>
                     <Unicode>mögen der verw. Frau Volkdirektor,</Unicode>
                 </TextEquiv>
@@ -3721,7 +3721,7 @@ Königliches Amtsgericht.</Unicode>
             </TextLine>
             <TextLine id="r48l5" custom="readingOrder {index:4;}">
                 <Coords points="3069,1173 3305,1168 3895,1168 3909,1188 3909,1203 3898,1211 3390,1213 3070,1211"/>
-                <Baseline points="3069,1206 3385,1206 3417,1206 3454,1207 3480,1207 3648,1208 3683,1207 3769,1206 3816,1207 3909,1203"/>
+                <Baseline points="3069,1205 3385,1206 3417,1206 3454,1207 3480,1207 3648,1208 3683,1207 3769,1206 3816,1207 3909,1203"/>
                 <TextEquiv>
                     <Unicode>wareugeſchäft in Werne, wird, nach⸗</Unicode>
                 </TextEquiv>
@@ -3819,14 +3819,14 @@ Königliches Amtsgericht.</Unicode>
             </TextLine>
             <TextLine id="r50l5" custom="readingOrder {index:4;}">
                 <Coords points="3064,1648 3181,1646 3373,1646 3779,1648 3906,1662 3906,1687 3866,1694 3181,1694 3065,1691"/>
-                <Baseline points="3064,1684 3123,1685 3145,1685 3373,1684 3398,1685 3647,1686 3667,1687 3906,1687"/>
+                <Baseline points="3064,1683 3123,1685 3145,1685 3373,1684 3398,1685 3647,1686 3667,1687 3906,1687"/>
                 <TextEquiv>
                     <Unicode>der nachträglich angemeldeten Forderungen</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r50l6" custom="readingOrder {index:5;}">
                 <Coords points="3063,1703 3113,1692 3127,1692 3850,1696 3907,1704 3907,1732 3752,1737 3740,1737 3113,1735 3064,1735"/>
-                <Baseline points="3063,1730 3127,1730 3165,1730 3228,1730 3276,1730 3344,1730 3433,1731 3569,1731 3601,1731 3752,1730 3802,1731 3907,1732"/>
+                <Baseline points="3063,1729 3127,1730 3165,1730 3228,1730 3276,1730 3344,1730 3433,1731 3569,1731 3601,1731 3752,1730 3802,1731 3907,1732"/>
                 <TextEquiv>
                     <Unicode>auf den 22 Januar 1918, Vor⸗</Unicode>
                 </TextEquiv>
@@ -3903,7 +3903,7 @@ Königliches Amtsgericht.</Unicode>
             </TextLine>
             <TextLine id="r52l3" custom="readingOrder {index:2;}">
                 <Coords points="3059,2044 3098,2034 3587,2034 3849,2035 3888,2042 3899,2064 3899,2080 3888,2081 3587,2082 3549,2082 3121,2076 3060,2076"/>
-                <Baseline points="3059,2071 3182,2072 3198,2072 3258,2072 3277,2072 3532,2073 3549,2073 3670,2073 3682,2073 3899,2074"/>
+                <Baseline points="3059,2070 3182,2072 3198,2072 3258,2072 3277,2072 3532,2073 3549,2073 3670,2073 3682,2073 3899,2074"/>
                 <TextEquiv>
                     <Unicode>mögen des Apothekers Joſef Bongartz,</Unicode>
                 </TextEquiv>
@@ -3924,7 +3924,7 @@ Königliches Amtsgericht.</Unicode>
             </TextLine>
             <TextLine id="r52l6" custom="readingOrder {index:5;}">
                 <Coords points="3058,2171 3574,2170 3605,2170 3635,2183 3646,2200 3645,2212 3605,2217 3487,2217 3058,2216"/>
-                <Baseline points="3058,2208 3402,2211 3425,2210 3646,2209"/>
+                <Baseline points="3058,2208 3402,2211 3425,2210 3645,2208"/>
                 <TextEquiv>
                     <Unicode>Zwangsvergleichs aufgehoben.</Unicode>
                 </TextEquiv>
@@ -3938,7 +3938,7 @@ Königliches Amtsgericht.</Unicode>
             </TextLine>
             <TextLine id="r52l8" custom="readingOrder {index:7;}">
                 <Coords points="3059,2261 3099,2261 3756,2263 3890,2266 3900,2291 3900,2303 3849,2311 3652,2311 3147,2308 3061,2304"/>
-                <Baseline points="3059,2302 3137,2302 3147,2302 3464,2303 3494,2303 3544,2302 3548,2302 3804,2303 3818,2303 3859,2303 3869,2303 3900,2303"/>
+                <Baseline points="3060,2301 3137,2302 3147,2302 3464,2303 3494,2303 3544,2302 3548,2302 3804,2303 3818,2303 3859,2303 3869,2303 3900,2303"/>
                 <TextEquiv>
                     <Unicode>Der Gerichtsſchreiber Gr. Amtsgerichts. Z. 6.</Unicode>
                 </TextEquiv>
@@ -3958,7 +3958,7 @@ Der Gerichtsſchreiber Gr. Amtsgerichts. Z. 6.</Unicode>
             <Coords points="3748,2327 3913,2328 3912,2381 3749,2381"/>
             <TextLine id="r53l1" custom="readingOrder {index:0;}">
                 <Coords points="3748,2334 3769,2333 3792,2333 3900,2334 3900,2379 3875,2381 3749,2381"/>
-                <Baseline points="3755,2372 3902,2372"/>
+                <Baseline points="3755,2372 3900,2372"/>
                 <TextEquiv>
                     <Unicode>[54245]</Unicode>
                 </TextEquiv>
@@ -3971,14 +3971,14 @@ Der Gerichtsſchreiber Gr. Amtsgerichts. Z. 6.</Unicode>
             <Coords points="3043,2327 3748,2327 3749,2381 3912,2381 3905,2701 3043,2708"/>
             <TextLine id="r54l1" custom="readingOrder {index:0;}">
                 <Coords points="3085,2329 3384,2327 3418,2332 3418,2368 3384,2374 3055,2374 3055,2327"/>
-                <Baseline points="3058,2364 3419,2366"/>
+                <Baseline points="3058,2364 3418,2366"/>
                 <TextEquiv>
                     <Unicode>M.-Gladbach.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r54l2" custom="readingOrder {index:1;}">
                 <Coords points="3099,2376 3104,2375 3559,2375 3668,2377 3775,2379 3895,2382 3898,2421 3559,2420 3218,2420 3104,2415 3099,2414 3099,2379"/>
-                <Baseline points="3105,2414 3187,2415 3218,2414 3559,2417 3596,2417 3677,2417 3712,2417 3775,2417 3852,2418 3899,2418"/>
+                <Baseline points="3105,2414 3187,2415 3218,2414 3559,2417 3596,2417 3677,2417 3712,2417 3775,2417 3852,2418 3897,2418"/>
                 <TextEquiv>
                     <Unicode>Das Konkursverfahren über das Ver⸗</Unicode>
                 </TextEquiv>
@@ -4081,14 +4081,14 @@ Königliches Amtsgericht.</Unicode>
             </TextLine>
             <TextLine id="r56l5" custom="readingOrder {index:4;}">
                 <Coords points="3054,2905 3161,2904 3817,2904 3865,2904 3895,2910 3895,2953 3842,2953 3485,2949 3094,2943 3055,2944"/>
-                <Baseline points="3054,2939 3111,2942 3161,2942 3399,2944 3445,2944 3775,2946 3816,2947 3895,2947"/>
+                <Baseline points="3054,2938 3111,2942 3161,2942 3399,2944 3445,2944 3775,2946 3816,2947 3895,2947"/>
                 <TextEquiv>
                     <Unicode>des verſtorbenen Malermeiſters Th.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r56l6" custom="readingOrder {index:5;}">
                 <Coords points="3055,2951 3423,2951 3823,2952 3880,2964 3896,2973 3896,2987 3895,2995 3823,3000 3741,3000 3480,2996 3056,2991"/>
-                <Baseline points="3055,2987 3252,2988 3290,2988 3354,2989 3381,2989 3585,2990 3620,2991 3706,2991 3741,2991 3823,2992 3847,2992 3895,2991"/>
+                <Baseline points="3055,2986 3252,2988 3290,2988 3354,2989 3381,2989 3585,2990 3620,2991 3706,2991 3741,2991 3823,2992 3847,2992 3895,2991"/>
                 <TextEquiv>
                     <Unicode>Gerriets aus Burhave wird noch er⸗</Unicode>
                 </TextEquiv>
@@ -4164,7 +4164,7 @@ Nordenham, den 21. Dezember 1917.</Unicode>
             </TextLine>
             <TextLine id="r58l4" custom="readingOrder {index:3;}">
                 <Coords points="3054,3295 3389,3294 3620,3294 3808,3297 3870,3300 3893,3311 3895,3340 3872,3341 3618,3342 3474,3342 3281,3341 3055,3336"/>
-                <Baseline points="3054,3333 3301,3332 3325,3332 3363,3333 3389,3334 3664,3334 3689,3335 3730,3335 3750,3336 3892,3337"/>
+                <Baseline points="3054,3332 3301,3332 3325,3332 3363,3333 3389,3334 3664,3334 3689,3335 3730,3335 3750,3336 3892,3337"/>
                 <TextEquiv>
                     <Unicode>Meyerholz in Fahre horſt iſt Termin</Unicode>
                 </TextEquiv>
@@ -4178,7 +4178,7 @@ Nordenham, den 21. Dezember 1917.</Unicode>
             </TextLine>
             <TextLine id="r58l6" custom="readingOrder {index:5;}">
                 <Coords points="3052,3393 3268,3387 3302,3386 3323,3386 3871,3389 3893,3401 3893,3438 3580,3438 3121,3432 3051,3426 3050,3396"/>
-                <Baseline points="3050,3422 3232,3425 3268,3426 3449,3426 3484,3427 3543,3427 3580,3427 3893,3428"/>
+                <Baseline points="3050,3421 3232,3425 3268,3426 3449,3426 3484,3427 3543,3427 3580,3427 3893,3428"/>
                 <TextEquiv>
                     <Unicode>derungen, Abnahme der Schlußrechnung,</Unicode>
                 </TextEquiv>
@@ -4220,14 +4220,14 @@ Nordenham, den 21. Dezember 1917.</Unicode>
             </TextLine>
             <TextLine id="r58l12" custom="readingOrder {index:11;}">
                 <Coords points="3050,3664 3130,3661 3497,3661 3727,3664 3878,3669 3892,3695 3892,3712 3834,3709 3088,3704 3068,3699 3051,3700 3050,3670"/>
-                <Baseline points="3052,3700 3105,3700 3130,3699 3497,3701 3539,3701 3625,3702 3666,3702 3727,3702 3766,3702 3813,3703 3835,3704 3892,3705"/>
+                <Baseline points="3051,3699 3105,3700 3130,3699 3497,3701 3539,3701 3625,3702 3666,3702 3727,3702 3766,3702 3813,3703 3835,3704 3892,3705"/>
                 <TextEquiv>
                     <Unicode>des Konkursverwalters wird auf 60 ℳ,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r58l13" custom="readingOrder {index:12;}">
                 <Coords points="3047,3707 3171,3707 3719,3710 3892,3713 3893,3753 3774,3757 3765,3757 3561,3756 3253,3754 3049,3750"/>
-                <Baseline points="3047,3744 3104,3744 3132,3745 3272,3745 3312,3746 3419,3748 3443,3748 3621,3749 3657,3749 3719,3749 3742,3748 3887,3751"/>
+                <Baseline points="3048,3743 3104,3744 3132,3745 3272,3745 3312,3746 3419,3748 3443,3748 3621,3749 3657,3749 3719,3749 3742,3748 3887,3751"/>
                 <TextEquiv>
                     <Unicode>der Betrag ſeiner Auslagen auf 4,28 ℳ</Unicode>
                 </TextEquiv>
@@ -4289,21 +4289,21 @@ Königliches Amtsgericht.</Unicode>
             <Coords points="3033,3908 3739,3912 3739,3964 3903,3964 3903,4299 3033,4295"/>
             <TextLine id="r60l1" custom="readingOrder {index:0;}">
                 <Coords points="3046,3914 3161,3908 3212,3909 3260,3917 3263,3951 3206,3960 3177,3960 3047,3958"/>
-                <Baseline points="3046,3950 3260,3950"/>
+                <Baseline points="3046,3949 3260,3950"/>
                 <TextEquiv>
                     <Unicode>Tuchel.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r60l2" custom="readingOrder {index:1;}">
                 <Coords points="3099,3960 3427,3959 3550,3959 3667,3961 3763,3966 3832,3965 3877,3971 3889,3985 3889,3997 3886,4006 3554,4005 3527,4006 3096,4002"/>
-                <Baseline points="3099,3999 3180,3998 3206,3997 3550,4000 3586,4000 3667,4000 3701,4001 3763,4000 3805,4000 3889,4001"/>
+                <Baseline points="3099,3999 3180,3998 3206,3997 3550,4000 3586,4000 3667,4000 3701,4001 3763,4000 3805,4000 3887,4000"/>
                 <TextEquiv>
                     <Unicode>Das Konkursverfahren über das Ver⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r60l3" custom="readingOrder {index:2;}">
                 <Coords points="3044,4016 3083,4006 3658,4006 3777,4007 3829,4009 3849,4010 3888,4018 3890,4054 3849,4054 3777,4055 3725,4055 3104,4050 3045,4050"/>
-                <Baseline points="3044,4043 3165,4045 3190,4045 3250,4044 3276,4044 3710,4047 3725,4047 3888,4047"/>
+                <Baseline points="3044,4042 3165,4045 3190,4045 3250,4044 3276,4044 3710,4047 3725,4047 3888,4047"/>
                 <TextEquiv>
                     <Unicode>mögen des Maſchinenhändlers Joſefat</Unicode>
                 </TextEquiv>
@@ -4317,7 +4317,7 @@ Königliches Amtsgericht.</Unicode>
             </TextLine>
             <TextLine id="r60l5" custom="readingOrder {index:4;}">
                 <Coords points="3046,4097 3251,4097 3637,4098 3872,4100 3889,4102 3889,4147 3257,4146 3107,4145 3048,4142"/>
-                <Baseline points="3046,4137 3251,4138 3300,4138 3358,4138 3395,4139 3679,4139 3718,4139 3889,4141"/>
+                <Baseline points="3047,4136 3251,4138 3300,4138 3358,4138 3395,4139 3679,4139 3718,4139 3889,4141"/>
                 <TextEquiv>
                     <Unicode>Abhaltung des Schlußtermins hierdurch</Unicode>
                 </TextEquiv>
@@ -4410,7 +4410,7 @@ bahnen.</Unicode>
                 <Coords points="3082,4918 3078,4906 3087,4894 3437,4894 3819,4895 3883,4897 3886,4935 3819,4939 3675,4942 3245,4940 3089,4935 3073,4913"/>
                 <Baseline points="3090,4931 3482,4935 3552,4935 3605,4934 3883,4933"/>
                 <TextEquiv>
-                    <Unicode>Ausnahmetarif ſür Düngemittel</Unicode>
+                    <Unicode>Ausnahmetarif für Düngemittel</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r63l2" custom="readingOrder {index:1;}">
@@ -4457,7 +4457,7 @@ bahnen.</Unicode>
             </TextLine>
             <TextLine id="r63l8" custom="readingOrder {index:7;}">
                 <Coords points="3040,5223 3115,5215 3229,5214 3536,5214 3820,5215 3852,5217 3881,5222 3882,5262 3857,5259 3520,5261 3479,5260 3186,5259 3041,5256"/>
-                <Baseline points="3040,5250 3465,5252 3483,5252 3555,5252 3578,5252 3635,5254 3657,5254 3758,5254 3769,5254 3881,5253"/>
+                <Baseline points="3040,5249 3465,5252 3483,5252 3555,5252 3578,5252 3635,5254 3657,5254 3758,5254 3769,5254 3881,5253"/>
                 <TextEquiv>
                     <Unicode>wendungsbedingungen wie für rohe Kali⸗</Unicode>
                 </TextEquiv>
@@ -4526,7 +4526,7 @@ bahnen.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>Ausnahmetarif ſür Düngemittel
+                <Unicode>Ausnahmetarif für Düngemittel
 uſw. (Tſv. 2). Vom 1. März 1918
 an gelten für Kalidüngeſalze, auch
 ſchwefelfaure Kalimagneſia, bis zu einem
@@ -4562,7 +4562,7 @@ Königliche Eiſenbahndirektion.</Unicode>
             <Coords points="3031,5735 3199,5738 3198,5687 3893,5692 3883,6621 3018,6614"/>
             <TextLine id="r65l1" custom="readingOrder {index:0;}">
                 <Coords points="3041,5738 3854,5738 3880,5749 3880,5780 3854,5786 3650,5786 3528,5785 3320,5783 3043,5779"/>
-                <Baseline points="3041,5776 3208,5776 3221,5776 3306,5775 3320,5775 3880,5780"/>
+                <Baseline points="3042,5775 3208,5776 3221,5776 3306,5775 3320,5775 3880,5780"/>
                 <TextEquiv>
                     <Unicode>Staats⸗ und Privatbahngüterverkehr.</Unicode>
                 </TextEquiv>
@@ -4576,7 +4576,7 @@ Königliche Eiſenbahndirektion.</Unicode>
             </TextLine>
             <TextLine id="r65l3" custom="readingOrder {index:2;}">
                 <Coords points="3041,5827 3602,5830 3629,5829 3880,5834 3880,5875 3818,5878 3625,5874 3606,5874 3183,5874 3042,5869"/>
-                <Baseline points="3041,5865 3332,5867 3348,5866 3367,5867 3385,5867 3407,5867 3434,5867 3491,5868 3507,5867 3674,5871 3699,5871 3877,5871"/>
+                <Baseline points="3041,5864 3332,5867 3348,5866 3367,5867 3385,5867 3407,5867 3434,5867 3491,5868 3507,5867 3674,5871 3699,5871 3877,5871"/>
                 <TextEquiv>
                     <Unicode>Ausnahmetarif 7 h für Eiſenerz, Mangan⸗</Unicode>
                 </TextEquiv>
@@ -4590,7 +4590,7 @@ Königliche Eiſenbahndirektion.</Unicode>
             </TextLine>
             <TextLine id="r65l5" custom="readingOrder {index:4;}">
                 <Coords points="3038,5931 3130,5920 3358,5920 3378,5920 3842,5923 3863,5926 3877,5944 3877,5959 3879,5967 3789,5970 3604,5970 3187,5966 3061,5963 3038,5961"/>
-                <Baseline points="3041,5956 3106,5958 3130,5958 3504,5959 3521,5959 3678,5961 3694,5961 3789,5963 3808,5963 3879,5964"/>
+                <Baseline points="3041,5956 3106,5958 3130,5958 3504,5959 3521,5959 3678,5961 3694,5961 3789,5963 3808,5963 3878,5964"/>
                 <TextEquiv>
                     <Unicode>und Kupferliesabbrände (purple ore), Ab⸗</Unicode>
                 </TextEquiv>
@@ -4667,14 +4667,14 @@ Königliche Eiſenbahndirektion.</Unicode>
             </TextLine>
             <TextLine id="r65l16" custom="readingOrder {index:15;}">
                 <Coords points="3029,6424 3231,6424 3677,6429 3773,6431 3818,6432 3872,6442 3875,6476 3559,6475 3492,6475 3269,6473 3030,6469"/>
-                <Baseline points="3029,6466 3231,6466 3269,6466 3353,6465 3378,6465 3424,6466 3448,6467 3559,6467 3609,6467 3677,6468 3707,6469 3773,6470 3797,6470 3872,6471"/>
+                <Baseline points="3029,6465 3231,6466 3269,6466 3353,6465 3378,6465 3424,6466 3448,6467 3559,6467 3609,6467 3677,6468 3707,6469 3773,6470 3797,6470 3872,6471"/>
                 <TextEquiv>
                     <Unicode>Stationen (Nr. 29 Tfv.). Die mit dem</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r65l17" custom="readingOrder {index:16;}">
                 <Coords points="3029,6473 3112,6471 3152,6471 3652,6473 3828,6475 3857,6483 3872,6495 3872,6511 3857,6516 3652,6521 3448,6521 3171,6517 3030,6513"/>
-                <Baseline points="3029,6509 3086,6509 3112,6510 3303,6511 3329,6510 3418,6511 3448,6512 3652,6514 3677,6514 3871,6511"/>
+                <Baseline points="3029,6508 3086,6509 3112,6510 3303,6511 3329,6510 3418,6511 3448,6512 3652,6514 3677,6514 3871,6511"/>
                 <TextEquiv>
                     <Unicode>31. Dezember 1917 erlöſchende Geltungs⸗</Unicode>
                 </TextEquiv>
@@ -4837,7 +4837,7 @@ Königliche Eiſenbahndirektion.</Unicode>
             </TextLine>
             <TextLine id="r68l5" custom="readingOrder {index:4;}">
                 <Coords points="3953,1090 3977,1077 4717,1077 4742,1080 4786,1089 4803,1096 4810,1112 4806,1122 4717,1126 4609,1126 4140,1124 3991,1120 3951,1116"/>
-                <Baseline points="3950,1114 4044,1115 4072,1116 4275,1117 4298,1117 4485,1117 4510,1118 4587,1118 4609,1118 4803,1115"/>
+                <Baseline points="3951,1114 4044,1115 4072,1116 4275,1117 4298,1117 4485,1117 4510,1118 4587,1118 4609,1118 4803,1115"/>
                 <TextEquiv>
                     <Unicode>nicht hierunter), Schlacken zum Hochofen⸗</Unicode>
                 </TextEquiv>
@@ -4907,14 +4907,14 @@ Königliche Eiſenbahndirektion.</Unicode>
             </TextLine>
             <TextLine id="r68l15" custom="readingOrder {index:14;}">
                 <Coords points="3946,1531 4416,1531 4687,1533 4785,1535 4801,1552 4801,1568 4800,1578 4718,1578 4416,1583 3979,1579 3946,1573"/>
-                <Baseline points="3946,1573 4416,1574 4440,1573 4614,1573 4637,1573 4802,1573"/>
+                <Baseline points="3946,1573 4416,1574 4440,1573 4614,1573 4637,1573 4800,1572"/>
                 <TextEquiv>
                     <Unicode>Stolzenhagen⸗Kratzwick, Gotzlow, Roſtock⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r68l16" custom="readingOrder {index:15;}">
                 <Coords points="3946,1579 4222,1575 4332,1575 4644,1579 4774,1581 4800,1582 4798,1625 4340,1624 4230,1624 3946,1622"/>
-                <Baseline points="3946,1617 4062,1617 4097,1618 4166,1618 4198,1618 4265,1619 4288,1619 4351,1620 4385,1620 4467,1620 4489,1620 4644,1619 4709,1619 4800,1620"/>
+                <Baseline points="3946,1617 4062,1617 4097,1618 4166,1618 4198,1618 4265,1619 4288,1619 4351,1620 4385,1620 4467,1620 4489,1620 4644,1619 4709,1619 4798,1619"/>
                 <TextEquiv>
                     <Unicode>Hafen und Wismar nach Oderberg wird</Unicode>
                 </TextEquiv>
@@ -5019,7 +5019,7 @@ Königliche Eiſenbahndirektion.</Unicode>
             <Coords points="3930,2058 4098,2060 4098,2009 4815,2009 4815,2528 3927,2527"/>
             <TextLine id="r70l1" custom="readingOrder {index:0;}">
                 <Coords points="3990,2058 4102,2058 4795,2061 4796,2108 4743,2108 4343,2106 4029,2103 3988,2098 3981,2074"/>
-                <Baseline points="3988,2096 4089,2096 4116,2096 4270,2098 4307,2099 4743,2103 4794,2103 4796,2103"/>
+                <Baseline points="3988,2096 4089,2096 4116,2096 4270,2098 4307,2099 4743,2103 4794,2103"/>
                 <TextEquiv>
                     <Unicode>Tfv. 1103. Oberſchleſiſch⸗Sächſi⸗</Unicode>
                 </TextEquiv>
@@ -5138,7 +5138,7 @@ namens der beteiligten Verwaltungen.</Unicode>
             </TextLine>
             <TextLine id="r72l4" custom="readingOrder {index:3;}">
                 <Coords points="3939,2724 4017,2723 4103,2723 4471,2729 4764,2730 4790,2742 4790,2768 4765,2773 4622,2773 4017,2770 3937,2766"/>
-                <Baseline points="3939,2761 3988,2762 4017,2763 4194,2764 4220,2764 4260,2764 4292,2764 4471,2766 4494,2766 4793,2767"/>
+                <Baseline points="3939,2761 3988,2762 4017,2763 4194,2764 4220,2764 4260,2764 4292,2764 4471,2766 4494,2766 4790,2767"/>
                 <TextEquiv>
                     <Unicode>im Abſchnitt C, beſondere Beſtimmungen</Unicode>
                 </TextEquiv>
@@ -5152,14 +5152,14 @@ namens der beteiligten Verwaltungen.</Unicode>
             </TextLine>
             <TextLine id="r72l6" custom="readingOrder {index:5;}">
                 <Coords points="3936,2816 4000,2815 4090,2815 4501,2817 4675,2819 4772,2826 4788,2834 4781,2856 4782,2864 4574,2866 4553,2866 4222,2863 3936,2860"/>
-                <Baseline points="3936,2853 4016,2854 4041,2854 4150,2855 4176,2855 4235,2855 4272,2856 4355,2856 4381,2857 4574,2859 4609,2859 4704,2860 4728,2860 4782,2860"/>
+                <Baseline points="3936,2853 4016,2854 4041,2854 4150,2855 4176,2855 4235,2855 4272,2856 4355,2856 4381,2857 4574,2859 4609,2859 4704,2860 4728,2860 4781,2860"/>
                 <TextEquiv>
                     <Unicode>(auf Seite 10) betr. Erhebung eines er⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r72l7" custom="readingOrder {index:6;}">
                 <Coords points="3934,2873 3958,2861 4016,2861 4339,2862 4548,2865 4566,2867 4622,2875 4620,2891 4621,2908 4566,2910 4451,2910 4167,2909 3958,2908 3934,2901"/>
-                <Baseline points="3934,2901 4112,2902 4138,2902 4363,2902 4388,2902 4428,2903 4451,2903 4622,2903"/>
+                <Baseline points="3934,2901 4112,2902 4138,2902 4363,2902 4388,2902 4428,2903 4451,2903 4620,2903"/>
                 <TextEquiv>
                     <Unicode>mäßig en Wägegeldes zu ſtreichen.</Unicode>
                 </TextEquiv>
@@ -5326,14 +5326,14 @@ T⸗A. München, 33 T 57/5, vom
             </TextLine>
             <TextLine id="r76l4" custom="readingOrder {index:3;}">
                 <Coords points="3930,3744 4655,3748 4749,3748 4784,3762 4784,3789 4748,3800 4654,3802 4075,3794 3932,3787"/>
-                <Baseline points="3930,3783 4222,3787 4238,3787 4304,3787 4319,3787 4340,3788 4357,3788 4416,3789 4432,3789 4665,3790 4680,3790 4782,3790"/>
+                <Baseline points="3931,3782 4222,3787 4238,3787 4304,3787 4319,3787 4340,3788 4357,3788 4416,3789 4432,3789 4665,3790 4680,3790 4781,3789"/>
                 <TextEquiv>
                     <Unicode>Ausnahmetarif Nr. 7 für Lithographi ſteine</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r76l5" custom="readingOrder {index:4;}">
                 <Coords points="3929,3802 3976,3792 4111,3791 4131,3791 4155,3805 4155,3831 4140,3838 4109,3834 3930,3833"/>
-                <Baseline points="3929,3829 4155,3830"/>
+                <Baseline points="3929,3828 4155,3830"/>
                 <TextEquiv>
                     <Unicode>aufgehoben.</Unicode>
                 </TextEquiv>
@@ -5394,7 +5394,7 @@ r. d. Rh.</Unicode>
             </TextLine>
             <TextLine id="r78l2" custom="readingOrder {index:1;}">
                 <Coords points="3927,4089 4255,4093 4759,4096 4780,4103 4783,4140 4758,4143 4252,4137 4060,4136 3978,4136 3928,4131"/>
-                <Baseline points="3927,4129 4248,4130 4316,4132 4330,4132 4339,4132 4419,4131 4444,4131 4496,4132 4520,4132 4624,4134 4660,4134 4706,4134 4723,4134 4783,4135"/>
+                <Baseline points="3927,4128 4248,4130 4316,4132 4330,4132 4339,4132 4419,4131 4444,4131 4496,4132 4520,4132 4624,4134 4660,4134 4706,4134 4723,4134 4782,4135"/>
                 <TextEquiv>
                     <Unicode>Eiſenbahngüter arif Teil II, Hefte 1 — 13,</Unicode>
                 </TextEquiv>
@@ -5569,7 +5569,7 @@ r. d. Rh.</Unicode>
             </TextLine>
             <TextLine id="r78l27" custom="readingOrder {index:26;}">
                 <Coords points="3919,5239 3932,5239 4675,5241 4745,5244 4777,5246 4782,5281 4751,5288 4040,5285 3934,5282 3919,5273"/>
-                <Baseline points="3921,5279 4066,5276 4107,5276 4129,5277 4153,5277 4188,5277 4215,5277 4259,5278 4282,5278 4310,5278 4350,5279 4401,5279 4438,5279 4524,5279 4547,5279 4589,5280 4629,5280 4699,5280 4724,5280 4777,5280"/>
+                <Baseline points="3923,5275 4066,5276 4107,5276 4129,5277 4153,5277 4188,5277 4215,5277 4259,5278 4282,5278 4310,5278 4350,5279 4401,5279 4438,5279 4524,5279 4547,5279 4589,5280 4629,5280 4699,5280 4724,5280 4777,5280"/>
                 <TextEquiv>
                     <Unicode>(Leder), 5 u. 10 t, im Heft 9; Nr. 58</Unicode>
                 </TextEquiv>
@@ -5681,7 +5681,7 @@ r. d. Rh.</Unicode>
             </TextLine>
             <TextLine id="r78l43" custom="readingOrder {index:42;}">
                 <Coords points="3917,5981 4000,5973 4138,5973 4770,5976 4770,6020 4559,6020 4139,6017 3918,6016"/>
-                <Baseline points="3917,6009 3954,6010 4000,6011 4045,6012 4096,6013 4180,6015 4244,6013 4390,6015 4445,6016 4504,6017 4559,6017 4770,6017"/>
+                <Baseline points="3917,6008 3954,6010 4000,6011 4045,6012 4096,6013 4180,6015 4244,6013 4390,6015 4445,6016 4504,6017 4559,6017 4770,6017"/>
                 <TextEquiv>
                     <Unicode>v. b. Rh. namens der Verbands⸗</Unicode>
                 </TextEquiv>
@@ -5909,7 +5909,7 @@ Verlagsanſtalt, Berlin, Wilhelmſtraße 3a.</Unicode>
             </TextLine>
             <TextLine id="r86l2" custom="readingOrder {index:1;}">
                 <Coords points="5989,1151 6123,1143 6276,1143 6529,1144 8032,1155 8422,1162 8494,1172 8494,1209 8212,1221 8079,1221 7324,1217 6254,1206 6221,1205 5994,1199 5993,1154"/>
-                <Baseline points="5993,1193 6086,1193 6123,1194 6190,1194 6221,1194 6302,1195 6333,1195 6529,1199 6569,1200 6701,1198 6737,1198 6829,1199 6866,1199 7018,1201 7053,1201 7145,1203 7187,1203 7247,1203 7279,1203 7356,1204 7386,1204 7460,1205 7497,1205 7567,1205 7604,1206 7794,1207 7828,1207 8043,1208 8079,1208 8268,1209 8304,1209 8494,1209"/>
+                <Baseline points="5993,1192 6086,1193 6123,1194 6190,1194 6221,1194 6302,1195 6333,1195 6529,1199 6569,1200 6701,1198 6737,1198 6829,1199 6866,1199 7018,1201 7053,1201 7145,1203 7187,1203 7247,1203 7279,1203 7356,1204 7386,1204 7460,1205 7497,1205 7567,1205 7604,1206 7794,1207 7828,1207 8043,1208 8079,1208 8268,1209 8304,1209 8494,1209"/>
                 <TextEquiv>
                     <Unicode>von 40 Pf. jährlich, ſowie zum Preiſe von 10 Pf. für die einzelne Nummer bezogen werden.</Unicode>
                 </TextEquiv>
@@ -5965,7 +5965,7 @@ von 40 Pf. jährlich, ſowie zum Preiſe von 10 Pf. für die einzelne Nummer bez
             </TextLine>
             <TextLine id="r88l4" custom="readingOrder {index:3;}">
                 <Coords points="5196,1584 5191,1589 5196,1629 5462,1631 6331,1637 6508,1637 7211,1634 7211,1611 7173,1599 7057,1596 6967,1595 6248,1588 6127,1587"/>
-                <Baseline points="5189,1619 5242,1620 5276,1620 5347,1620 5378,1620 5661,1622 5694,1622 5772,1622 5789,1622 6127,1624 6156,1624 6248,1625 6275,1625 6508,1627 6539,1627 6717,1629 6746,1629 6867,1630 6893,1630 6967,1630 6994,1630 7116,1632 7149,1633 7211,1634"/>
+                <Baseline points="5194,1618 5242,1620 5276,1620 5347,1620 5378,1620 5661,1622 5694,1622 5772,1622 5789,1622 6127,1624 6156,1624 6248,1625 6275,1625 6508,1627 6539,1627 6717,1629 6746,1629 6867,1630 6893,1630 6967,1630 6994,1630 7116,1632 7149,1633 7211,1634"/>
                 <TextEquiv>
                     <Unicode>2) Bei Einzahlungen auf Postanweisungen nach Luxemburg brauchen Inhalt und Zweck des</Unicode>
                 </TextEquiv>
@@ -5986,7 +5986,7 @@ von 40 Pf. jährlich, ſowie zum Preiſe von 10 Pf. für die einzelne Nummer bez
             </TextLine>
             <TextLine id="r88l7" custom="readingOrder {index:6;}">
                 <Coords points="5210,1722 5276,1722 5389,1722 5703,1723 6295,1725 6887,1732 7214,1737 7214,1778 6224,1772 5716,1770 5297,1768 5200,1766 5200,1723"/>
-                <Baseline points="5193,1760 5239,1760 5276,1760 5496,1758 5532,1759 5619,1760 5656,1759 5926,1761 5949,1761 6295,1764 6324,1764 6376,1764 6409,1765 6564,1766 6589,1765 6658,1766 6687,1766 6768,1767 6801,1768 6919,1769 6950,1769 7010,1769 7040,1770 7212,1772"/>
+                <Baseline points="5200,1760 5239,1760 5276,1760 5496,1758 5532,1759 5619,1760 5656,1759 5926,1761 5949,1761 6295,1764 6324,1764 6376,1764 6409,1765 6564,1766 6589,1765 6658,1766 6687,1766 6768,1767 6801,1768 6919,1769 6950,1769 7010,1769 7040,1770 7212,1772"/>
                 <TextEquiv>
                     <Unicode>3) Zugelassen sind telegraphische Postanweisungen im Verkehr mit dem Gebiet des General-</Unicode>
                 </TextEquiv>
@@ -6223,7 +6223,7 @@ nicht mehr als 5 kg wiegen.
             </TextLine>
             <TextLine id="r91l17" custom="readingOrder {index:16;}">
                 <Coords points="5053,2776 5100,2776 5134,2775 5190,2779 6414,2783 6454,2796 6468,2811 6468,2820 6451,2831 6256,2826 6205,2826 5139,2821 5054,2815 5054,2788"/>
-                <Baseline points="5058,2816 5089,2815 5109,2815 5348,2816 5373,2815 5453,2815 5477,2815 5536,2816 5559,2817 5687,2816 5882,2817 6059,2818 6083,2819 6127,2819 6152,2820 6244,2821 6269,2821 6467,2825"/>
+                <Baseline points="5058,2815 5089,2815 5109,2815 5348,2816 5373,2815 5453,2815 5477,2815 5536,2816 5559,2817 5687,2816 5882,2817 6059,2818 6083,2819 6127,2819 6152,2820 6244,2821 6269,2821 6465,2821"/>
                 <TextEquiv>
                     <Unicode>in bulgariſcher, nach der Türkei auch in türkiſcher Sprache zugelaſſen.</Unicode>
                 </TextEquiv>
@@ -6251,7 +6251,7 @@ nicht mehr als 5 kg wiegen.
             </TextLine>
             <TextLine id="r91l21" custom="readingOrder {index:20;}">
                 <Coords points="5053,2971 5145,2959 5194,2961 5502,2958 5511,2960 6305,2966 6451,2968 6467,2988 6467,3000 6468,3011 5537,3012 5444,3005 5225,3008 5053,2998"/>
-                <Baseline points="5053,2997 5261,2998 5285,2998 5446,2998 5483,2998 5646,2999 5678,2999 5762,3000 5808,3001 5940,3001 5997,3001 6027,3001 6051,3001 6158,3003 6183,3004 6235,3004 6265,3004 6468,3004"/>
+                <Baseline points="5053,2997 5261,2998 5285,2998 5446,2998 5483,2998 5646,2999 5678,2999 5762,3000 5808,3001 5940,3001 5997,3001 6027,3001 6051,3001 6158,3003 6183,3004 6235,3004 6265,3004 6467,3004"/>
                 <TextEquiv>
                     <Unicode>ungariſcher Sprache abgefaßt ſein. Briefe, bei denen die Verſchluß⸗</Unicode>
                 </TextEquiv>
@@ -6272,7 +6272,7 @@ nicht mehr als 5 kg wiegen.
             </TextLine>
             <TextLine id="r91l24" custom="readingOrder {index:23;}">
                 <Coords points="5055,3108 5123,3098 5148,3095 5203,3094 5327,3099 5612,3102 5656,3111 5668,3125 5668,3136 5571,3145 5449,3145 5223,3141 5076,3136 5055,3135"/>
-                <Baseline points="5055,3128 5097,3136 5123,3136 5178,3135 5203,3136 5374,3136 5398,3136 5669,3137"/>
+                <Baseline points="5055,3128 5097,3136 5123,3136 5178,3135 5203,3136 5374,3136 5398,3136 5668,3136"/>
                 <TextEquiv>
                     <Unicode>an die Abſender zurückgegeben.</Unicode>
                 </TextEquiv>
@@ -6286,7 +6286,7 @@ nicht mehr als 5 kg wiegen.
             </TextLine>
             <TextLine id="r91l26" custom="readingOrder {index:25;}">
                 <Coords points="5051,3188 5065,3187 5091,3187 5805,3190 5921,3191 6125,3193 6448,3197 6464,3217 6464,3229 6463,3242 6345,3245 5237,3236 5065,3232 5051,3227"/>
-                <Baseline points="5051,3227 5091,3227 5127,3227 5164,3227 5188,3227 5424,3229 5466,3228 5509,3229 5566,3229 5805,3231 5843,3230 5921,3231 5962,3232 6037,3233 6070,3233 6305,3235 6345,3236 6464,3238"/>
+                <Baseline points="5051,3227 5091,3227 5127,3227 5164,3227 5188,3227 5424,3229 5466,3228 5509,3229 5566,3229 5805,3231 5843,3230 5921,3231 5962,3232 6037,3233 6070,3233 6305,3235 6345,3236 6463,3237"/>
                 <TextEquiv>
                     <Unicode>iſt es erforderlich, daß Privatbriefe nach dem Auslande, gleich⸗</Unicode>
                 </TextEquiv>
@@ -6300,7 +6300,7 @@ nicht mehr als 5 kg wiegen.
             </TextLine>
             <TextLine id="r91l28" custom="readingOrder {index:27;}">
                 <Coords points="5053,3281 5072,3275 5206,3279 6308,3290 6463,3301 6463,3328 6441,3336 5416,3330 5305,3327 5076,3325 5053,3326"/>
-                <Baseline points="5053,3319 5206,3320 5238,3320 5399,3321 5441,3321 5607,3322 5636,3322 5732,3322 5778,3322 5864,3322 5899,3323 5982,3324 6018,3324 6102,3325 6136,3326 6368,3328 6410,3328 6462,3330"/>
+                <Baseline points="5053,3319 5206,3320 5238,3320 5399,3321 5441,3321 5607,3322 5636,3322 5732,3322 5778,3322 5864,3322 5899,3323 5982,3324 6018,3324 6102,3325 6136,3326 6368,3328 6410,3328 6461,3328"/>
                 <TextEquiv>
                     <Unicode>fremden Sprache abgefaßt ſind, nicht über zwei Bogenſeiten ge⸗</Unicode>
                 </TextEquiv>
@@ -6363,7 +6363,7 @@ nicht mehr als 5 kg wiegen.
             </TextLine>
             <TextLine id="r91l37" custom="readingOrder {index:36;}">
                 <Coords points="5047,3702 5086,3690 5447,3693 6166,3698 6445,3701 6462,3713 6462,3740 6445,3747 5849,3743 5798,3741 5050,3737"/>
-                <Baseline points="5047,3729 5270,3729 5310,3730 5471,3731 5513,3731 5548,3732 5722,3734 5809,3733 5866,3734 5941,3735 5983,3735 6205,3737 6247,3738 6306,3739 6336,3739 6460,3738"/>
+                <Baseline points="5049,3728 5270,3729 5310,3730 5471,3731 5513,3731 5548,3732 5722,3734 5809,3733 5866,3734 5941,3735 5983,3735 6205,3737 6247,3738 6306,3739 6336,3739 6460,3738"/>
                 <TextEquiv>
                     <Unicode>geſchäftliche Anlagen beigefügt ſein. Zur Verpackung der Briefe</Unicode>
                 </TextEquiv>
@@ -6481,7 +6481,7 @@ mehrwöchiger Verſpätung am Beſtimmungsort eintreffen.</Unicode>
             </TextLine>
             <TextLine id="r92l4" custom="readingOrder {index:3;}">
                 <Coords points="6542,2197 6564,2186 6712,2189 7464,2196 7909,2199 7942,2211 7948,2244 7832,2243 6882,2238 6834,2236 6563,2232 6544,2227"/>
-                <Baseline points="6542,2227 6829,2229 6837,2229 7032,2231 7058,2231 7481,2234 7509,2234 7646,2234 7698,2236 7862,2236 7888,2238 7943,2238"/>
+                <Baseline points="6543,2226 6829,2229 6837,2229 7032,2231 7058,2231 7481,2234 7509,2234 7646,2234 7698,2236 7862,2236 7888,2238 7943,2238"/>
                 <TextEquiv>
                     <Unicode>waltungsgebiet gehörigen Generalgouvernement Lublin. Dagegen be⸗</Unicode>
                 </TextEquiv>
@@ -6509,7 +6509,7 @@ mehrwöchiger Verſpätung am Beſtimmungsort eintreffen.</Unicode>
             </TextLine>
             <TextLine id="r92l8" custom="readingOrder {index:7;}">
                 <Coords points="6542,2383 6613,2383 6905,2385 7337,2388 7903,2394 7943,2406 7949,2436 7766,2436 7731,2440 6544,2431"/>
-                <Baseline points="6542,2422 6613,2422 6656,2423 6905,2425 6943,2425 7016,2425 7057,2426 7137,2426 7179,2427 7244,2427 7285,2427 7570,2429 7613,2430 7762,2431 7783,2431 7843,2431 7884,2432 7943,2432"/>
+                <Baseline points="6543,2421 6613,2422 6656,2423 6905,2425 6943,2425 7016,2425 7057,2426 7137,2426 7179,2427 7244,2427 7285,2427 7570,2429 7613,2430 7762,2431 7783,2431 7843,2431 7884,2432 7943,2432"/>
                 <TextEquiv>
                     <Unicode>ſind (insbeſondere alſo auch alle Warenproben), müſſen auf der</Unicode>
                 </TextEquiv>
@@ -6593,14 +6593,14 @@ mehrwöchiger Verſpätung am Beſtimmungsort eintreffen.</Unicode>
             </TextLine>
             <TextLine id="r92l20" custom="readingOrder {index:19;}">
                 <Coords points="6540,2946 6616,2945 6859,2945 7943,2954 7943,3002 7818,3001 7232,2998 6616,2992 6540,2984"/>
-                <Baseline points="6538,2984 6590,2985 6614,2985 6857,2987 6891,2988 7113,2988 7141,2988 7208,2989 7230,2989 7291,2989 7317,2989 7457,2990 7491,2990 7570,2991 7597,2991 7716,2992 7740,2993 7792,2993 7816,2993 7938,2992"/>
+                <Baseline points="6540,2984 6590,2985 6614,2985 6857,2987 6891,2988 7113,2988 7141,2988 7208,2989 7230,2989 7291,2989 7317,2989 7457,2990 7491,2990 7570,2991 7597,2991 7716,2992 7740,2993 7792,2993 7816,2993 7938,2992"/>
                 <TextEquiv>
                     <Unicode>die Poſtbeamten Gefahren mit ſich bringen oder welche die Brief⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r92l21" custom="readingOrder {index:20;}">
                 <Coords points="6538,2991 6731,2995 7890,3000 7912,2999 7940,3011 7940,3038 7940,3046 7692,3044 7319,3046 7301,3046 6858,3042 6653,3039 6538,3037"/>
-                <Baseline points="6538,3030 6731,3031 6770,3031 7076,3034 7118,3034 7199,3035 7238,3035 7515,3037 7550,3037 7692,3038 7733,3038 7943,3042"/>
+                <Baseline points="6538,3030 6731,3031 6770,3031 7076,3034 7118,3034 7199,3035 7238,3035 7515,3037 7550,3037 7692,3038 7733,3038 7940,3042"/>
                 <TextEquiv>
                     <Unicode>ſendungen beſchmutzen oder verderben können, lebende</Unicode>
                 </TextEquiv>
@@ -6850,7 +6850,7 @@ des Beſtimmungslandes der Poſtkarte.</Unicode>
             </TextLine>
             <TextLine id="r93l8" custom="readingOrder {index:7;}">
                 <Coords points="8012,2405 9363,2405 9389,2407 9405,2418 9405,2450 9363,2453 9137,2452 9003,2455 8014,2449"/>
-                <Baseline points="8012,2446 8308,2445 8325,2445 8486,2446 8499,2446 8672,2446 8698,2446 8734,2446 8754,2446 9136,2446 9151,2446 9405,2445"/>
+                <Baseline points="8013,2445 8308,2445 8325,2445 8486,2446 8499,2446 8672,2446 8698,2446 8734,2446 8754,2446 9136,2446 9151,2446 9405,2445"/>
                 <TextEquiv>
                     <Unicode>Briefſendungen eingelegt werden); b. zollpflichtige Gegenſtände;</Unicode>
                 </TextEquiv>
@@ -6899,14 +6899,14 @@ des Beſtimmungslandes der Poſtkarte.</Unicode>
             </TextLine>
             <TextLine id="r93l15" custom="readingOrder {index:14;}">
                 <Coords points="8011,2725 8175,2725 9079,2727 9108,2738 9119,2753 9119,2763 9114,2775 8808,2774 8673,2774 8011,2773"/>
-                <Baseline points="8011,2766 8192,2766 8218,2766 8254,2767 8280,2766 8331,2766 8356,2766 8438,2766 8464,2766 8592,2767 8617,2768 8808,2771 8834,2768 8964,2766 8988,2766 9119,2764"/>
+                <Baseline points="8011,2766 8192,2766 8218,2766 8254,2767 8280,2766 8331,2766 8356,2766 8438,2766 8464,2766 8592,2767 8617,2768 8808,2771 8834,2768 8964,2766 8988,2766 9118,2763"/>
                 <TextEquiv>
                     <Unicode>Briefpoſt in die betr. Länder eingeführt werden dürfen.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r93l16" custom="readingOrder {index:15;}">
                 <Coords points="8103,2796 8476,2795 9248,2793 9358,2793 9390,2795 9406,2811 9406,2828 9408,2839 9193,2842 8126,2842 8103,2834"/>
-                <Baseline points="8103,2834 8140,2834 8179,2834 8428,2835 8476,2835 8640,2834 8666,2834 8864,2835 8899,2835 8967,2835 8992,2834 9193,2834 9224,2834 9291,2834 9311,2834 9410,2832"/>
+                <Baseline points="8103,2834 8140,2834 8179,2834 8428,2835 8476,2835 8640,2834 8666,2834 8864,2835 8899,2835 8967,2835 8992,2834 9193,2834 9224,2834 9291,2834 9311,2834 9406,2832"/>
                 <TextEquiv>
                     <Unicode>3) Poſtkarten. Einfache Poſtkarten und Poſtkarten mit Ant⸗</Unicode>
                 </TextEquiv>
@@ -6920,7 +6920,7 @@ des Beſtimmungslandes der Poſtkarte.</Unicode>
             </TextLine>
             <TextLine id="r93l18" custom="readingOrder {index:17;}">
                 <Coords points="8010,2887 8089,2886 8517,2889 9248,2888 9352,2887 9395,2889 9405,2902 9405,2919 9412,2935 9348,2935 9247,2935 8117,2937 8010,2926"/>
-                <Baseline points="8010,2926 8066,2926 8089,2926 8294,2926 8317,2926 8362,2926 8419,2926 8492,2926 8517,2926 8606,2927 8631,2926 8827,2927 8841,2927 9021,2927 9037,2927 9122,2926 9147,2926 9215,2927 9231,2927 9285,2926 9306,2926 9408,2924"/>
+                <Baseline points="8010,2926 8066,2926 8089,2926 8294,2926 8317,2926 8362,2926 8419,2926 8492,2926 8517,2926 8606,2927 8631,2926 8827,2927 8841,2927 9021,2927 9037,2927 9122,2926 9147,2926 9215,2927 9231,2927 9285,2926 9306,2926 9407,2924"/>
                 <TextEquiv>
                     <Unicode>der Poſtkarten nach dem nicht feindlichen Auslande uſw. und der Poſt⸗</Unicode>
                 </TextEquiv>
@@ -6934,7 +6934,7 @@ des Beſtimmungslandes der Poſtkarte.</Unicode>
             </TextLine>
             <TextLine id="r93l20" custom="readingOrder {index:19;}">
                 <Coords points="8100,3003 8123,3002 8163,3001 9328,3000 9408,3000 9408,3047 8868,3048 8495,3048 8123,3047 8100,3039"/>
-                <Baseline points="8102,3040 8138,3040 8163,3040 8443,3041 8461,3041 8868,3041 8885,3041 8969,3041 8987,3041 9306,3040 9328,3040 9408,3040"/>
+                <Baseline points="8102,3039 8138,3040 8163,3040 8443,3041 8461,3041 8868,3041 8885,3041 8969,3041 8987,3041 9306,3040 9328,3040 9408,3040"/>
                 <TextEquiv>
                     <Unicode>4) Druckſachen, Geſchäftspapieren und Warenproben darf</Unicode>
                 </TextEquiv>
@@ -6969,7 +6969,7 @@ des Beſtimmungslandes der Poſtkarte.</Unicode>
             </TextLine>
             <TextLine id="r93l25" custom="readingOrder {index:24;}">
                 <Coords points="8004,3221 7996,3228 8007,3276 8539,3277 9324,3275 9415,3273 9407,3235 9367,3230 9324,3229"/>
-                <Baseline points="8004,3270 8086,3270 8106,3270 8237,3270 8260,3270 8305,3270 8327,3270 8378,3270 8389,3270 8527,3270 8551,3270 8694,3271 8708,3271 8778,3272 8802,3272 8960,3271 8982,3270 9050,3271 9075,3271 9131,3271 9156,3271 9324,3273 9347,3271 9407,3268"/>
+                <Baseline points="8005,3269 8086,3270 8106,3270 8237,3270 8260,3270 8305,3270 8327,3270 8378,3270 8389,3270 8527,3270 8551,3270 8694,3271 8708,3271 8778,3272 8802,3272 8960,3271 8982,3270 9050,3271 9075,3271 9131,3271 9156,3271 9324,3273 9347,3271 9407,3268"/>
                 <TextEquiv>
                     <Unicode>ſeite müſſen ſie die genaue Angabe des Inhalts und die Anſchrift des</Unicode>
                 </TextEquiv>
@@ -7004,14 +7004,14 @@ des Beſtimmungslandes der Poſtkarte.</Unicode>
             </TextLine>
             <TextLine id="r93l30" custom="readingOrder {index:29;}">
                 <Coords points="8006,3460 8081,3459 8263,3458 9384,3458 9407,3469 9407,3496 9389,3500 8911,3505 8459,3506 8263,3506 8007,3502"/>
-                <Baseline points="8006,3498 8064,3498 8081,3498 8198,3497 8241,3497 8459,3498 8486,3498 8556,3498 8582,3498 8911,3498 8937,3498 8991,3498 9015,3498 9058,3498 9084,3498 9178,3497 9200,3497 9257,3497 9273,3497 9407,3496"/>
+                <Baseline points="8006,3497 8064,3498 8081,3498 8198,3497 8241,3497 8459,3498 8486,3498 8556,3498 8582,3498 8911,3498 8937,3498 8991,3498 9015,3498 9058,3498 9084,3498 9178,3497 9200,3497 9257,3497 9273,3497 9407,3496"/>
                 <TextEquiv>
                     <Unicode>der Ware. Druckſachen und Geſchäftspapiere, die an einer der Seiten</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r93l31" custom="readingOrder {index:30;}">
                 <Coords points="8009,3516 8027,3505 8103,3504 8222,3503 8243,3503 9383,3504 9406,3509 9406,3541 9383,3551 8319,3551 8222,3549 8010,3546"/>
-                <Baseline points="8009,3543 8080,3543 8103,3543 8338,3543 8362,3543 8428,3544 8452,3544 8549,3544 8573,3544 8629,3543 8656,3543 8700,3543 8721,3543 8783,3543 8808,3543 8925,3544 8950,3544 9084,3544 9109,3544 9198,3543 9222,3543 9406,3541"/>
+                <Baseline points="8009,3542 8080,3543 8103,3543 8338,3543 8362,3543 8428,3544 8452,3544 8549,3544 8573,3544 8629,3543 8656,3543 8700,3543 8721,3543 8783,3543 8808,3543 8925,3544 8950,3544 9084,3544 9109,3544 9198,3543 9222,3543 9406,3541"/>
                 <TextEquiv>
                     <Unicode>eine Ausdehnung von mehr als 45 cm haben, werden nicht befördert.</Unicode>
                 </TextEquiv>
@@ -7081,7 +7081,7 @@ des Beſtimmungslandes der Poſtkarte.</Unicode>
             </TextLine>
             <TextLine id="r93l41" custom="readingOrder {index:40;}">
                 <Coords points="8006,3995 8088,3984 8354,3984 8447,3996 8447,4032 8088,4032 8008,4033"/>
-                <Baseline points="8006,4023 8447,4022"/>
+                <Baseline points="8007,4022 8447,4022"/>
                 <TextEquiv>
                     <Unicode>machungszwang.</Unicode>
                 </TextEquiv>
@@ -7155,7 +7155,7 @@ machungszwang.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 2 3 5</CornerPts>
             </TableCell>
@@ -7169,7 +7169,7 @@ machungszwang.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -7190,7 +7190,7 @@ machungszwang.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -7204,7 +7204,7 @@ machungszwang.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -7218,7 +7218,7 @@ machungszwang.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -7232,7 +7232,7 @@ machungszwang.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7253,7 +7253,7 @@ machungszwang.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7267,7 +7267,7 @@ machungszwang.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7288,7 +7288,7 @@ machungszwang.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7302,7 +7302,7 @@ machungszwang.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7323,7 +7323,7 @@ machungszwang.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7337,7 +7337,7 @@ machungszwang.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7358,7 +7358,7 @@ machungszwang.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7372,7 +7372,7 @@ machungszwang.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7407,7 +7407,7 @@ machungszwang.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7435,7 +7435,7 @@ machungszwang.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7463,7 +7463,7 @@ machungszwang.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7484,7 +7484,7 @@ machungszwang.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7505,7 +7505,7 @@ machungszwang.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7526,7 +7526,7 @@ machungszwang.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7554,7 +7554,7 @@ machungszwang.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7575,7 +7575,7 @@ machungszwang.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7589,7 +7589,7 @@ machungszwang.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7610,7 +7610,7 @@ machungszwang.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7631,7 +7631,7 @@ machungszwang.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7652,7 +7652,7 @@ machungszwang.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7673,7 +7673,7 @@ machungszwang.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7694,7 +7694,7 @@ machungszwang.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7715,7 +7715,7 @@ machungszwang.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7736,7 +7736,7 @@ machungszwang.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7757,7 +7757,7 @@ machungszwang.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7765,13 +7765,13 @@ machungszwang.</Unicode>
                 <Coords points="5040,4840 5039,5086 5903,5086 5903,4841"/>
                 <TextLine id="TableCell_1649428814867_1308l2" custom="readingOrder {index:0;}">
                     <Coords points="5053,4939 5329,4939 5441,4941 5456,4956 5456,4972 5441,4991 5237,4991 5055,4991"/>
-                    <Baseline points="5053,4982 5224,4982 5272,4980 5330,4983 5375,4981 5443,4981"/>
+                    <Baseline points="5054,4981 5224,4982 5272,4980 5330,4983 5375,4981 5443,4981"/>
                     <TextEquiv>
                         <Unicode>Druckſachen †)</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7793,7 +7793,7 @@ machungszwang.</Unicode>
                 </TextLine>
                 <TextLine id="TableCell_1649428814867_1306l3" custom="readingOrder {index:2;}">
                     <Coords points="6168,4949 6384,4948 6409,4956 6411,4999 6364,4993 6222,4994 6077,4995 6080,4956"/>
-                    <Baseline points="6092,4987 6381,4986 6407,4986 6411,4986"/>
+                    <Baseline points="6092,4987 6381,4986 6407,4986"/>
                     <TextEquiv>
                         <Unicode>„ 100 — 250 g</Unicode>
                     </TextEquiv>
@@ -7813,7 +7813,7 @@ machungszwang.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7855,7 +7855,7 @@ machungszwang.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7890,7 +7890,7 @@ machungszwang.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7918,7 +7918,7 @@ machungszwang.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7960,7 +7960,7 @@ machungszwang.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8002,7 +8002,7 @@ machungszwang.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8023,7 +8023,7 @@ machungszwang.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8037,7 +8037,7 @@ machungszwang.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8051,7 +8051,7 @@ machungszwang.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8079,7 +8079,7 @@ machungszwang.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8107,7 +8107,7 @@ machungszwang.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8128,7 +8128,7 @@ machungszwang.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8156,7 +8156,7 @@ machungszwang.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8184,7 +8184,7 @@ machungszwang.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8212,7 +8212,7 @@ machungszwang.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8233,7 +8233,7 @@ machungszwang.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8261,7 +8261,7 @@ machungszwang.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8275,7 +8275,7 @@ machungszwang.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8296,7 +8296,7 @@ machungszwang.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8317,7 +8317,7 @@ machungszwang.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8352,7 +8352,7 @@ machungszwang.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8380,7 +8380,7 @@ machungszwang.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8401,7 +8401,7 @@ machungszwang.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8422,7 +8422,7 @@ machungszwang.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8443,7 +8443,7 @@ machungszwang.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8471,7 +8471,7 @@ machungszwang.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8480,7 +8480,7 @@ machungszwang.</Unicode>
             <Coords points="5031,5464 6480,5469 6470,6589 5031,6589"/>
             <TextLine id="r95l1" custom="readingOrder {index:0;}">
                 <Coords points="5141,5477 6430,5477 6456,5484 6460,5513 6403,5513 6115,5513 5187,5516 5143,5514"/>
-                <Baseline points="5141,5509 5167,5508 5187,5508 5328,5508 5347,5508 5415,5508 5435,5508 5483,5508 5497,5508 5650,5509 5669,5509 5731,5509 5744,5509 5818,5508 5831,5508 6011,5507 6032,5507 6099,5506 6115,5506 6220,5507 6234,5507 6456,5505"/>
+                <Baseline points="5142,5508 5167,5508 5187,5508 5328,5508 5347,5508 5415,5508 5435,5508 5483,5508 5497,5508 5650,5509 5669,5509 5731,5509 5744,5509 5818,5508 5831,5508 6011,5507 6032,5507 6099,5506 6115,5506 6220,5507 6234,5507 6456,5505"/>
                 <TextEquiv>
                     <Unicode>*) Zurzeit find im Verkehr mit dem Auslande nur offene gewöhnliche</Unicode>
                 </TextEquiv>
@@ -8515,7 +8515,7 @@ machungszwang.</Unicode>
             </TextLine>
             <TextLine id="r95l6" custom="readingOrder {index:5;}">
                 <Coords points="5044,5653 5061,5647 5181,5649 5531,5653 6169,5651 6272,5650 6414,5654 6456,5657 6460,5680 6323,5683 6291,5685 5924,5687 5831,5688 5783,5687 5558,5686 5319,5686 5061,5681 5044,5672"/>
-                <Baseline points="5046,5674 5182,5679 5213,5678 5260,5679 5288,5679 5392,5679 5421,5680 5479,5680 5509,5679 5640,5679 5678,5679 5739,5679 5767,5679 5940,5678 5969,5678 6022,5677 6050,5677 6199,5677 6228,5676 6368,5676 6398,5676 6456,5677"/>
+                <Baseline points="5046,5673 5182,5679 5213,5678 5260,5679 5288,5679 5392,5679 5421,5680 5479,5680 5509,5679 5640,5679 5678,5679 5739,5679 5767,5679 5940,5678 5969,5678 6022,5677 6050,5677 6199,5677 6228,5676 6368,5676 6398,5676 6456,5677"/>
                 <TextEquiv>
                     <Unicode>erteilen), der Türkei und Ungarn. Der Poſtverkehr mit einzelnen Gebieten von</Unicode>
                 </TextEquiv>
@@ -8550,7 +8550,7 @@ machungszwang.</Unicode>
             </TextLine>
             <TextLine id="r95l11" custom="readingOrder {index:10;}">
                 <Coords points="5044,5834 5063,5831 5672,5837 5686,5837 6429,5833 6456,5840 6460,5862 6408,5867 6054,5871 6016,5865 5652,5873 5076,5865 5044,5856"/>
-                <Baseline points="5046,5860 5319,5863 5347,5863 5646,5864 5672,5864 5800,5863 5843,5862 5995,5861 6019,5861 6079,5861 6111,5861 6174,5860 6205,5860 6268,5860 6298,5859 6456,5860"/>
+                <Baseline points="5046,5856 5319,5863 5347,5863 5646,5864 5672,5864 5800,5863 5843,5862 5995,5861 6019,5861 6079,5861 6111,5861 6174,5860 6205,5860 6268,5860 6298,5859 6456,5860"/>
                 <TextEquiv>
                     <Unicode>eingeſchriebene Briefſendungen zuläſſig. Gebühren wie nach dem Auslande.</Unicode>
                 </TextEquiv>
@@ -8873,7 +8873,7 @@ Rumänien ſind nur zugelaſſen: a) offene, nicht über 4 Seiten lange Briefe u
             </TextLine>
             <TextLine id="r96l21" custom="readingOrder {index:20;}">
                 <Coords points="6613,6213 7263,6211 7754,6211 7855,6212 7903,6217 7918,6232 7918,6241 7903,6251 7877,6252 7209,6252 6713,6250 6613,6248"/>
-                <Baseline points="6613,6244 6928,6244 6940,6244 6996,6244 7008,6243 7197,6243 7209,6243 7486,6244 7502,6244 7561,6243 7575,6243 7790,6245 7807,6245 7918,6246"/>
+                <Baseline points="6613,6244 6928,6244 6940,6244 6996,6244 7008,6243 7197,6243 7209,6243 7486,6244 7502,6244 7561,6243 7575,6243 7790,6245 7807,6245 7915,6242"/>
                 <TextEquiv>
                     <Unicode>Zuſammenpacken von Druckſachen, Geſchäftspapieren und Warenproben (Miſch⸗</Unicode>
                 </TextEquiv>
@@ -8985,7 +8985,7 @@ Briefe dem doppelten Betrage des Portos; jedoch wird die außerordentliche Reich
             </TextLine>
             <TextLine id="r97l2" custom="readingOrder {index:1;}">
                 <Coords points="7994,5516 8358,5516 9014,5518 9262,5519 9348,5520 9389,5522 9389,5549 9371,5551 9240,5553 9216,5553 8470,5552 8013,5544 7994,5542"/>
-                <Baseline points="7994,5544 8048,5543 8065,5543 8274,5544 8300,5545 8358,5544 8384,5545 8432,5545 8449,5545 8574,5546 8600,5546 8659,5546 8686,5546 8751,5546 8778,5546 8916,5546 8944,5546 9024,5547 9050,5547 9183,5547 9216,5548 9278,5548 9301,5548 9389,5549"/>
+                <Baseline points="7994,5542 8048,5543 8065,5543 8274,5544 8300,5545 8358,5544 8384,5545 8432,5545 8449,5545 8574,5546 8600,5546 8659,5546 8686,5546 8751,5546 8778,5546 8916,5546 8944,5546 9024,5547 9050,5547 9183,5547 9216,5548 9278,5548 9301,5548 9389,5549"/>
                 <TextEquiv>
                     <Unicode>den Niederlanden und der Schweiz nur zum einfachen Satze erhoben. Für nicht</Unicode>
                 </TextEquiv>
@@ -9104,7 +9104,7 @@ Briefe dem doppelten Betrage des Portos; jedoch wird die außerordentliche Reich
             </TextLine>
             <TextLine id="r97l19" custom="readingOrder {index:18;}">
                 <Coords points="7992,6121 8034,6121 8288,6121 8656,6125 8855,6124 9278,6129 9384,6131 9384,6164 8835,6157 8764,6157 8428,6157 8261,6156 8014,6155 7992,6150"/>
-                <Baseline points="7994,6151 8167,6150 8195,6150 8261,6150 8289,6150 8350,6151 8378,6151 8654,6152 8684,6152 8755,6153 8781,6153 8795,6153 8824,6153 9018,6155 9058,6155 9072,6155 9100,6156 9288,6158 9318,6159 9384,6158"/>
+                <Baseline points="7994,6150 8167,6150 8195,6150 8261,6150 8289,6150 8350,6151 8378,6151 8654,6152 8684,6152 8755,6153 8781,6153 8795,6153 8824,6153 9018,6155 9058,6155 9072,6155 9100,6156 9288,6158 9318,6159 9384,6158"/>
                 <TextEquiv>
                     <Unicode>Sendungen nach dem Landbeſtellbezirke wird Ergänzungsgebühr eingezogen], nach</Unicode>
                 </TextEquiv>
@@ -9132,7 +9132,7 @@ Briefe dem doppelten Betrage des Portos; jedoch wird die außerordentliche Reich
             </TextLine>
             <TextLine id="r97l23" custom="readingOrder {index:22;}">
                 <Coords points="7990,6266 8022,6259 8302,6259 9225,6265 9368,6269 9385,6277 9385,6296 9368,6297 9225,6299 9025,6299 8138,6296 8022,6291 7990,6286"/>
-                <Baseline points="7990,6281 8054,6287 8072,6287 8249,6286 8267,6286 8380,6290 8406,6290 8556,6289 8584,6289 8661,6290 8680,6290 8753,6291 8774,6291 8918,6292 8945,6292 9001,6292 9025,6292 9225,6295 9254,6295 9311,6296 9336,6296 9385,6297"/>
+                <Baseline points="7990,6281 8054,6287 8072,6287 8249,6286 8267,6286 8380,6290 8406,6290 8556,6289 8584,6289 8661,6290 8680,6290 8753,6291 8774,6291 8918,6292 8945,6292 9001,6292 9025,6292 9225,6295 9254,6295 9311,6296 9336,6296 9384,6296"/>
                 <TextEquiv>
                     <Unicode>nach beſtimmten Orten), Schweden (nach allen Poſtorten mit Beſtelldienſt) und der</Unicode>
                 </TextEquiv>

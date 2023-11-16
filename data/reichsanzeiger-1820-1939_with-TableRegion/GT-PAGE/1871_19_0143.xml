@@ -1,24 +1,24 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
     <Metadata>
         <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.7.1:model_id=40804:lm=none:date=05_07_2022_11:22
 prov=READ-COOP:name=PyLaia@Transkribus:version=0.7.1:model_id=40804:date=05_07_2022_11:22
 Transkribus</Creator>
         <Created>2021-12-14T11:42:58.963+01:00</Created>
-        <LastChange>2022-12-07T16:08:19.688+01:00</LastChange>
+        <LastChange>2023-11-15T20:47:04.981+01:00</LastChange>
         <Comments>
                 Measurement unit: pixel
                 PrimaryLanguage: 
                 Producer: Transkribus
             </Comments>
-        <TranskribusMetadata docId="900641" pageId="34524916" pageNr="5" tsid="105747832" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=YOYARNLBTUERIVYGDCLXGNPK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WFUKMMUWSXUIYFWONTHPQYAJ" imageId="27705302"/>
+        <TranskribusMetadata docId="900641" pageId="34524916" pageNr="5" tsid="139840655" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=YOYARNLBTUERIVYGDCLXGNPK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OEDPWNCPOOZQJINJENUHJCQB" imageId="27705302"/>
     </Metadata>
     <Page imageFilename="1871_19_0143.jpg" imageWidth="10728" imageHeight="7496">
         <PrintSpace>
             <Coords points="1124,1072 9912,1167 9980,7287 1192,7192"/>
         </PrintSpace>
         <ReadingOrder>
-            <OrderedGroup id="ro_1690360014778" caption="Regions reading order">
+            <OrderedGroup id="ro_1700129741214" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
                 <RegionRefIndexed index="1" regionRef="r2"/>
                 <RegionRefIndexed index="2" regionRef="r3"/>
@@ -72,7 +72,7 @@ Transkribus</Creator>
             <Coords points="1340,1275 1587,1275 1586,1381 1340,1384"/>
             <TextLine id="r2l1" custom="readingOrder {index:0;}">
                 <Coords points="1416,1310 1539,1307 1541,1365 1418,1368"/>
-                <Baseline points="1418,1358 1541,1355"/>
+                <Baseline points="1418,1358 1540,1355"/>
                 <TextEquiv>
                     <Unicode>[157]</Unicode>
                 </TextEquiv>
@@ -85,7 +85,7 @@ Transkribus</Creator>
             <Coords points="1340,1384 1586,1381 1587,1275 3329,1275 3330,1687 1341,1687"/>
             <TextLine id="r3l1" custom="readingOrder {index:0;}">
                 <Coords points="1944,1285 2783,1287 2785,1381 1946,1379"/>
-                <Baseline points="1946,1360 2785,1362"/>
+                <Baseline points="1946,1360 2784,1362"/>
                 <TextEquiv>
                     <Unicode>Prospect</Unicode>
                 </TextEquiv>
@@ -151,7 +151,7 @@ Rthlr. 2,000,000 in 10,000 Stück Aktien
             <Coords points="1333,2066 3322,2066 3298,5403 3281,6958 1315,6962"/>
             <TextLine id="r5l1" custom="readingOrder {index:0;}">
                 <Coords points="1528,2081 1531,2080 1646,2079 3190,2079 3274,2082 3308,2094 3308,2129 3190,2141 3092,2141 2329,2139 1516,2136 1526,2126 1527,2132"/>
-                <Baseline points="1532,2127 1631,2128 1648,2128 1719,2127 1731,2127 1894,2127 1915,2128 2032,2128 2048,2128 2111,2128 2135,2128 2315,2128 2331,2128 2654,2129 2672,2129 2724,2129 2743,2129 3310,2130"/>
+                <Baseline points="1532,2127 1631,2128 1648,2128 1719,2127 1731,2127 1894,2127 1915,2128 2032,2128 2048,2128 2111,2128 2135,2128 2315,2128 2331,2128 2654,2129 2672,2129 2724,2129 2743,2129 3308,2129"/>
                 <TextEquiv>
                     <Unicode>Die im Jahre 1852 zu Berlin gegründete L. Schwartzkopff'sche</Unicode>
                 </TextEquiv>
@@ -214,7 +214,7 @@ Rthlr. 2,000,000 in 10,000 Stück Aktien
             </TextLine>
             <TextLine id="r5l10" custom="readingOrder {index:9;}">
                 <Coords points="1403,2613 2073,2612 2090,2612 2861,2614 3010,2615 3313,2625 3313,2657 3254,2672 2188,2672 1852,2671 1403,2661"/>
-                <Baseline points="1403,2661 1755,2659 1787,2659 2201,2659 2236,2659 2536,2660 2586,2660 2686,2660 2722,2660 2930,2661 2982,2661 3072,2661 3140,2661 3307,2661"/>
+                <Baseline points="1403,2661 1755,2659 1787,2659 2201,2659 2236,2659 2536,2660 2586,2660 2686,2660 2722,2660 2930,2661 2982,2661 3072,2661 3140,2661 3306,2658"/>
                 <TextEquiv>
                     <Unicode>Pferdekraft repräsentiren, vermitteln den Betrieb der ausge-</Unicode>
                 </TextEquiv>
@@ -375,7 +375,7 @@ Rthlr. 2,000,000 in 10,000 Stück Aktien
             </TextLine>
             <TextLine id="r5l33" custom="readingOrder {index:32;}">
                 <Coords points="1519,3972 2072,3969 2088,3969 2980,3971 3117,3972 3277,3987 3298,3998 3298,4008 3277,4019 3171,4020 2127,4029 2092,4029 1519,4020"/>
-                <Baseline points="1519,4020 1634,4018 1666,4018 1816,4018 1850,4018 1943,4017 1976,4017 2192,4017 2208,4017 2398,4018 2434,4018 2553,4020 2588,4020 2916,4020 2937,4020 3294,4014"/>
+                <Baseline points="1519,4020 1634,4018 1666,4018 1816,4018 1850,4018 1943,4017 1976,4017 2192,4017 2208,4017 2398,4018 2434,4018 2553,4020 2588,4020 2916,4020 2937,4020 3292,4010"/>
                 <TextEquiv>
                     <Unicode>Seit Mitte des vorigen Jahres sind bedeutende Erweiterun-</Unicode>
                 </TextEquiv>
@@ -473,7 +473,7 @@ Rthlr. 2,000,000 in 10,000 Stück Aktien
             </TextLine>
             <TextLine id="r5l47" custom="readingOrder {index:46;}">
                 <Coords points="1384,4799 1575,4798 2335,4796 2376,4796 3200,4797 3263,4810 3282,4823 3282,4832 3263,4844 3200,4845 2376,4856 2027,4856 1384,4847"/>
-                <Baseline points="1386,4847 2378,4844 2424,4844 2527,4846 2577,4846 2696,4846 2727,4846 3128,4845 3175,4845 3286,4839"/>
+                <Baseline points="1386,4847 2378,4844 2424,4844 2527,4846 2577,4846 2696,4846 2727,4846 3128,4845 3175,4845 3281,4832"/>
                 <TextEquiv>
                     <Unicode>Maschinenbau-Aktiengesellschaft von dem Aufsichtsrath der-</Unicode>
                 </TextEquiv>
@@ -571,7 +571,7 @@ Rthlr. 2,000,000 in 10,000 Stück Aktien
             </TextLine>
             <TextLine id="r5l61" custom="readingOrder {index:60;}">
                 <Coords points="1529,5566 1652,5566 1902,5566 1902,5619 1656,5617 1533,5617"/>
-                <Baseline points="1529,5612 1902,5612"/>
+                <Baseline points="1532,5611 1902,5612"/>
                 <TextEquiv>
                     <Unicode>Modelle etc.</Unicode>
                 </TextEquiv>
@@ -655,7 +655,7 @@ Rthlr. 2,000,000 in 10,000 Stück Aktien
             </TextLine>
             <TextLine id="r5l73" custom="readingOrder {index:72;}">
                 <Coords points="1353,6111 1391,6111 2113,6113 2877,6119 3102,6114 3260,6110 3260,6137 3264,6172 1637,6166 1393,6174 1355,6174"/>
-                <Baseline points="1353,6163 1391,6163 1513,6162 1633,6161 1679,6161 1735,6161 1782,6160 2040,6159 2072,6158 2184,6160 2217,6161 2288,6162 2319,6163 2557,6167 2601,6167 2774,6166 2806,6167 2944,6167 2976,6168 3082,6168 3115,6168 3260,6169"/>
+                <Baseline points="1354,6162 1391,6163 1513,6162 1633,6161 1679,6161 1735,6161 1782,6160 2040,6159 2072,6158 2184,6160 2217,6161 2288,6162 2319,6163 2557,6167 2601,6167 2774,6166 2806,6167 2944,6167 2976,6168 3082,6168 3115,6168 3260,6169"/>
                 <TextEquiv>
                     <Unicode>sprüchen in nächster Zeit zu genügen haben wird und kann</Unicode>
                 </TextEquiv>
@@ -921,7 +921,7 @@ Ausweis der Bücher bisher durchschnittlich über zehn</Unicode>
             </TextLine>
             <TextLine id="r6l12" custom="readingOrder {index:11;}">
                 <Coords points="3504,1941 3686,1941 4605,1947 5164,1951 5186,1958 5193,2034 4861,2040 4828,2045 3510,2024"/>
-                <Baseline points="3504,2019 3815,2022 3869,2022 5186,2033"/>
+                <Baseline points="3509,2018 3815,2022 3869,2022 5186,2033"/>
                 <TextEquiv>
                     <Unicode>Berliner Maschinenbau-Aktien-Gesellschaft</Unicode>
                 </TextEquiv>
@@ -1012,7 +1012,7 @@ Ausweis der Bücher bisher durchschnittlich über zehn</Unicode>
             </TextLine>
             <TextLine id="r6l25" custom="readingOrder {index:24;}">
                 <Coords points="3548,2789 3632,2788 3666,2788 4459,2792 4825,2797 4829,2835 4826,2850 4823,2850 4008,2844 3548,2836"/>
-                <Baseline points="3548,2835 3851,2837 3884,2837 3978,2838 4008,2838 4383,2839 4416,2839 4645,2842 4678,2842 4825,2843 4958,2857 4968,2858"/>
+                <Baseline points="3548,2835 3851,2837 3884,2837 3978,2838 4008,2838 4383,2839 4416,2839 4645,2842 4678,2842 4825,2843"/>
                 <TextEquiv>
                     <Unicode>Reduktion der gezeichneten Beträge statt.</Unicode>
                 </TextEquiv>
@@ -1380,7 +1380,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 8 9</CornerPts>
             </TableCell>
@@ -1394,7 +1394,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1408,7 +1408,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1422,7 +1422,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1436,7 +1436,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1444,13 +1444,13 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                 <Coords points="4917,5133 4917,5196 5060,5196 5060,5133"/>
                 <TextLine id="TableCell_1642067623218_15921l0" custom="readingOrder {index:0;}">
                     <Coords points="4926,5131 4915,5140 4926,5194 5060,5196 5058,5140"/>
-                    <Baseline points="4927,5195 5056,5195"/>
+                    <Baseline points="4927,5194 5056,5195"/>
                     <TextEquiv>
                         <Unicode>Sgr.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1464,7 +1464,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1478,7 +1478,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1486,13 +1486,13 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                 <Coords points="3334,5196 3333,5260 4416,5260 4416,5196"/>
                 <TextLine id="TableCell_1642067631032_16289l0" custom="readingOrder {index:0;}">
                     <Coords points="3369,5202 3797,5196 3800,5202 3803,5236 3803,5247 3796,5250 3560,5260 3447,5260 3387,5251 3369,5248"/>
-                    <Baseline points="3369,5248 3637,5249 3678,5250 3805,5250"/>
+                    <Baseline points="3369,5248 3637,5249 3678,5250 3803,5247"/>
                     <TextEquiv>
                         <Unicode>Geprägtes Geld</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1506,7 +1506,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1520,7 +1520,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1534,7 +1534,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1542,13 +1542,13 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                 <Coords points="4917,5196 4917,5260 5060,5260 5060,5196"/>
                 <TextLine id="TableCell_1642067623232_15927l0" custom="readingOrder {index:0;}">
                     <Coords points="4966,5208 5008,5206 5008,5254 4967,5256"/>
-                    <Baseline points="4975,5252 5009,5251"/>
+                    <Baseline points="4975,5252 5008,5251"/>
                     <TextEquiv>
                         <Unicode>„</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1562,7 +1562,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1576,7 +1576,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1590,7 +1590,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1598,13 +1598,13 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                 <Coords points="4416,5260 4416,5318 4653,5318 4653,5260"/>
                 <TextLine id="TableCell_1642067631053_16293l0" custom="readingOrder {index:0;}">
                     <Coords points="4486,5262 4623,5263 4623,5310 4487,5310 4487,5267"/>
-                    <Baseline points="4496,5305 4625,5309"/>
+                    <Baseline points="4496,5305 4623,5309"/>
                     <TextEquiv>
                         <Unicode>1,115</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1618,7 +1618,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1626,13 +1626,13 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                 <Coords points="4810,5260 4810,5318 4917,5318 4917,5260"/>
                 <TextLine id="TableCell_1642067626164_16053l0" custom="readingOrder {index:0;}">
                     <Coords points="4823,5267 4903,5267 4903,5310 4823,5310"/>
-                    <Baseline points="4825,5310 4905,5310"/>
+                    <Baseline points="4825,5310 4903,5310"/>
                     <TextEquiv>
                         <Unicode>27</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1646,7 +1646,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1654,13 +1654,13 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                 <Coords points="5060,5260 5060,5318 5173,5318 5173,5260"/>
                 <TextLine id="TableCell_1642067621478_15813l0" custom="readingOrder {index:0;}">
                     <Coords points="5111,5267 5108,5268 5111,5310 5158,5310 5158,5267"/>
-                    <Baseline points="5114,5310 5158,5313"/>
+                    <Baseline points="5114,5310 5158,5310"/>
                     <TextEquiv>
                         <Unicode>1</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1674,7 +1674,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1688,7 +1688,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1702,7 +1702,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1716,7 +1716,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1724,13 +1724,13 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                 <Coords points="4810,5318 4810,5372 4917,5372 4917,5318"/>
                 <TextLine id="TableCell_1642067626181_16059l0" custom="readingOrder {index:0;}">
                     <Coords points="4823,5324 4903,5324 4903,5375 4823,5375"/>
-                    <Baseline points="4828,5374 4908,5374"/>
+                    <Baseline points="4828,5374 4903,5374"/>
                     <TextEquiv>
                         <Unicode>13</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1744,7 +1744,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1758,7 +1758,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1772,7 +1772,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1786,7 +1786,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1800,7 +1800,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1814,7 +1814,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1828,7 +1828,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1842,7 +1842,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1850,13 +1850,13 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                 <Coords points="5060,5372 5060,5442 5173,5442 5173,5372"/>
                 <TextLine id="TableCell_1642067621517_15825l0" custom="readingOrder {index:0;}">
                     <Coords points="5105,5380 5103,5382 5105,5433 5158,5433 5158,5380"/>
-                    <Baseline points="5111,5432 5156,5434"/>
+                    <Baseline points="5111,5432 5156,5433"/>
                     <TextEquiv>
                         <Unicode>6</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1864,13 +1864,13 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                 <Coords points="5173,5372 5173,5442 5292,5442 5292,5372"/>
                 <TextLine id="TableCell_1642067619397_15705l0" custom="readingOrder {index:0;}">
                     <Coords points="5201,5382 5238,5379 5238,5432 5201,5435"/>
-                    <Baseline points="5207,5433 5234,5433"/>
+                    <Baseline points="5207,5433 5233,5432"/>
                     <TextEquiv>
                         <Unicode>„</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1884,7 +1884,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1898,7 +1898,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1912,7 +1912,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1926,7 +1926,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1940,7 +1940,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1954,7 +1954,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1968,7 +1968,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1982,7 +1982,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1996,7 +1996,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2004,13 +2004,13 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                 <Coords points="4653,5498 4653,5559 4810,5559 4810,5498"/>
                 <TextLine id="TableCell_1642067627817_16197l0" custom="readingOrder {index:0;}">
                     <Coords points="4704,5498 4765,5498 4765,5559 4704,5559"/>
-                    <Baseline points="4702,5551 4763,5551"/>
+                    <Baseline points="4704,5551 4763,5551"/>
                     <TextEquiv>
                         <Unicode>„</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2018,13 +2018,13 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                 <Coords points="4810,5498 4810,5559 4917,5559 4917,5498"/>
                 <TextLine id="TableCell_1642067626219_16077l0" custom="readingOrder {index:0;}">
                     <Coords points="4823,5505 4903,5505 4903,5551 4823,5551"/>
-                    <Baseline points="4828,5550 4908,5550"/>
+                    <Baseline points="4828,5550 4903,5550"/>
                     <TextEquiv>
                         <Unicode>18</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2038,7 +2038,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2052,7 +2052,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2066,7 +2066,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2080,7 +2080,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2094,7 +2094,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2108,7 +2108,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2122,7 +2122,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2130,13 +2130,13 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                 <Coords points="4917,5559 4917,5613 5060,5613 5060,5559"/>
                 <TextLine id="TableCell_1642067623319_15963l0" custom="readingOrder {index:0;}">
                     <Coords points="4978,5574 4999,5574 4999,5615 4978,5615"/>
-                    <Baseline points="4978,5612 5001,5610"/>
+                    <Baseline points="4978,5612 4999,5610"/>
                     <TextEquiv>
                         <Unicode>„</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2150,7 +2150,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2164,7 +2164,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2178,7 +2178,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2192,7 +2192,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2206,7 +2206,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2220,7 +2220,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2234,7 +2234,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2248,7 +2248,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2262,7 +2262,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2276,7 +2276,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2290,7 +2290,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2304,7 +2304,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2318,7 +2318,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2326,13 +2326,13 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                 <Coords points="4917,5676 4917,5733 5060,5733 5060,5676"/>
                 <TextLine id="TableCell_1642067623344_15975l0" custom="readingOrder {index:0;}">
                     <Coords points="4967,5692 4998,5693 4998,5735 4967,5734"/>
-                    <Baseline points="4969,5731 4999,5730"/>
+                    <Baseline points="4969,5731 4998,5730"/>
                     <TextEquiv>
                         <Unicode>„</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2346,7 +2346,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2354,13 +2354,13 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                 <Coords points="5173,5676 5173,5733 5292,5733 5292,5676"/>
                 <TextLine id="TableCell_1642067619450_15735l0" custom="readingOrder {index:0;}">
                     <Coords points="5198,5688 5240,5688 5240,5730 5198,5730"/>
-                    <Baseline points="5202,5731 5238,5729"/>
+                    <Baseline points="5202,5730 5238,5729"/>
                     <TextEquiv>
                         <Unicode>„</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2374,7 +2374,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2382,13 +2382,13 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                 <Coords points="4416,5733 4416,5791 4653,5791 4653,5733"/>
                 <TextLine id="TableCell_1642067631198_16341l0" custom="readingOrder {index:0;}">
                     <Coords points="4528,5739 4623,5740 4623,5783 4529,5787 4529,5744"/>
-                    <Baseline points="4528,5784 4625,5786"/>
+                    <Baseline points="4529,5784 4623,5783"/>
                     <TextEquiv>
                         <Unicode>612</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2402,7 +2402,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2416,7 +2416,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2430,7 +2430,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2444,7 +2444,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2452,13 +2452,13 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                 <Coords points="5173,5733 5173,5791 5292,5791 5292,5733"/>
                 <TextLine id="TableCell_1642067619459_15741l0" custom="readingOrder {index:0;}">
                     <Coords points="5202,5745 5232,5745 5232,5788 5202,5788"/>
-                    <Baseline points="5201,5787 5232,5786"/>
+                    <Baseline points="5202,5787 5232,5786"/>
                     <TextEquiv>
                         <Unicode>„</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2472,7 +2472,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 8 9</CornerPts>
             </TableCell>
@@ -2486,7 +2486,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2500,7 +2500,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2508,13 +2508,13 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                 <Coords points="4653,5852 4653,5917 4810,5917 4810,5852"/>
                 <TextLine id="TableCell_1642067627918_16233l0" custom="readingOrder {index:0;}">
                     <Coords points="4672,5854 4795,5854 4795,5908 4657,5908 4657,5860"/>
-                    <Baseline points="4661,5907 4791,5909"/>
+                    <Baseline points="4661,5907 4791,5908"/>
                     <TextEquiv>
                         <Unicode>Thlr.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2528,7 +2528,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2542,7 +2542,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2556,7 +2556,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2570,7 +2570,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2584,7 +2584,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2598,7 +2598,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2606,13 +2606,13 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                 <Coords points="4653,5917 4653,5974 4810,5974 4810,5917"/>
                 <TextLine id="TableCell_1642067627933_16239l0" custom="readingOrder {index:0;}">
                     <Coords points="4705,5924 4740,5924 4740,5966 4705,5966"/>
-                    <Baseline points="4708,5963 4742,5962"/>
+                    <Baseline points="4708,5963 4740,5962"/>
                     <TextEquiv>
                         <Unicode>„</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2620,13 +2620,13 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                 <Coords points="4810,5917 4810,5974 4917,5974 4917,5917"/>
                 <TextLine id="TableCell_1642067626320_16119l0" custom="readingOrder {index:0;}">
                     <Coords points="4823,5919 4903,5919 4903,5970 4823,5970 4823,5924"/>
-                    <Baseline points="4825,5964 4905,5964"/>
+                    <Baseline points="4825,5964 4903,5964"/>
                     <TextEquiv>
                         <Unicode>11</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2640,7 +2640,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2654,7 +2654,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2668,7 +2668,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2676,13 +2676,13 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                 <Coords points="3329,5974 3329,6037 4416,6037 4416,5974"/>
                 <TextLine id="TableCell_1642067631261_16367l0" custom="readingOrder {index:0;}">
                     <Coords points="3400,5972 3474,5976 3658,5976 3747,5968 4038,5970 4038,6022 3502,6034 3347,6028 3347,6006 3347,5970"/>
-                    <Baseline points="3352,6027 4034,6025"/>
+                    <Baseline points="3352,6027 4033,6022"/>
                     <TextEquiv>
                         <Unicode>Depoſitenkonto Littr. A.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2696,7 +2696,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2710,7 +2710,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2724,7 +2724,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2738,7 +2738,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2752,7 +2752,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2766,7 +2766,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2780,7 +2780,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2794,7 +2794,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2808,7 +2808,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2822,7 +2822,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2836,7 +2836,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2850,7 +2850,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2864,7 +2864,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2878,7 +2878,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2892,7 +2892,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2900,13 +2900,13 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                 <Coords points="4653,6088 4653,6149 4810,6149 4810,6088"/>
                 <TextLine id="TableCell_1642067627968_16257l0" custom="readingOrder {index:0;}">
                     <Coords points="4705,6101 4730,6101 4730,6147 4705,6147"/>
-                    <Baseline points="4707,6144 4731,6145"/>
+                    <Baseline points="4707,6144 4730,6145"/>
                     <TextEquiv>
                         <Unicode>„</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2920,7 +2920,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2934,7 +2934,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2948,7 +2948,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2962,7 +2962,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2976,7 +2976,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2990,7 +2990,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3004,7 +3004,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3018,7 +3018,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3032,7 +3032,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3046,7 +3046,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3060,7 +3060,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3074,7 +3074,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3082,13 +3082,13 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                 <Coords points="4416,6208 4416,6265 4653,6265 4653,6208"/>
                 <TextLine id="TableCell_1642067631312_16389l0" custom="readingOrder {index:0;}">
                     <Coords points="4445,6215 4623,6215 4623,6257 4445,6257"/>
-                    <Baseline points="4451,6255 4629,6255"/>
+                    <Baseline points="4451,6255 4623,6255"/>
                     <TextEquiv>
                         <Unicode>12,205</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3096,13 +3096,13 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                 <Coords points="4653,6208 4653,6265 4810,6265 4810,6208"/>
                 <TextLine id="TableCell_1642067627991_16269l0" custom="readingOrder {index:0;}">
                     <Coords points="4702,6218 4740,6219 4740,6261 4702,6260"/>
-                    <Baseline points="4701,6257 4735,6257"/>
+                    <Baseline points="4702,6257 4735,6257"/>
                     <TextEquiv>
                         <Unicode>„</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3116,7 +3116,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3124,13 +3124,13 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                 <Coords points="4917,6208 4917,6265 5060,6265 5060,6208"/>
                 <TextLine id="TableCell_1642067623470_16029l0" custom="readingOrder {index:0;}">
                     <Coords points="4961,6218 4995,6218 4995,6260 4961,6260"/>
-                    <Baseline points="4964,6257 4996,6257"/>
+                    <Baseline points="4964,6257 4995,6257"/>
                     <TextEquiv>
                         <Unicode>„</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3144,7 +3144,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3158,7 +3158,7 @@ Darlehnskaſſe am 31. Dezember 1870.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3203,14 +3203,14 @@ Kanitz.</Unicode>
             </TextLine>
             <TextLine id="r15l2" custom="readingOrder {index:1;}">
                 <Coords points="3392,6534 3839,6533 3876,6533 4490,6535 4891,6537 5134,6540 5173,6542 5234,6553 5254,6564 5254,6579 5248,6597 5173,6597 5134,6598 4738,6598 3346,6584 3346,6526"/>
-                <Baseline points="3348,6583 3616,6580 3653,6580 3773,6580 3808,6581 3895,6582 3920,6582 4024,6582 4060,6583 4130,6583 4149,6583 4349,6582 4373,6582 4490,6582 4517,6582 4584,6582 4604,6583 4687,6583 4714,6588 5251,6591"/>
+                <Baseline points="3348,6583 3616,6580 3653,6580 3773,6580 3808,6581 3895,6582 3920,6582 4024,6582 4060,6583 4130,6583 4149,6583 4349,6582 4373,6582 4490,6582 4517,6582 4584,6582 4604,6583 4687,6583 4714,6588 5250,6590"/>
                 <TextEquiv>
                     <Unicode>Eiſenbahn wird mit dem 15. Januar 1871 in den Ruſſiſch⸗Rheiniſchen⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r15l3" custom="readingOrder {index:2;}">
                 <Coords points="3346,6616 3418,6594 3596,6591 4180,6591 4843,6593 5231,6602 5255,6623 5255,6639 5231,6649 4843,6652 3596,6652 3383,6641 3346,6631"/>
-                <Baseline points="3350,6636 3480,6640 3563,6640 3596,6639 4180,6643 4211,6643 4843,6646 4891,6647 4968,6646 5011,6648 5253,6647"/>
+                <Baseline points="3350,6632 3480,6640 3563,6640 3596,6639 4180,6643 4211,6643 4843,6646 4891,6647 4968,6646 5011,6648 5250,6640"/>
                 <TextEquiv>
                     <Unicode>und den Oſtdeutſch⸗Rheiniſchen Verband⸗Güter⸗Verkehr als Verband⸗</Unicode>
                 </TextEquiv>
@@ -3231,7 +3231,7 @@ Kanitz.</Unicode>
             </TextLine>
             <TextLine id="r15l6" custom="readingOrder {index:5;}">
                 <Coords points="3343,6783 3431,6771 3650,6769 3692,6769 4400,6770 5132,6777 5190,6781 5252,6789 5252,6827 5132,6835 3912,6836 3875,6836 3374,6819 3343,6813"/>
-                <Baseline points="3344,6818 3577,6816 3963,6820 4016,6820 4121,6820 4158,6820 4427,6819 4460,6819 4600,6819 4621,6819 4857,6825 4891,6825 5015,6824 5046,6825 5132,6825 5164,6825 5252,6827"/>
+                <Baseline points="3344,6813 3577,6816 3963,6820 4016,6820 4121,6820 4158,6820 4427,6819 4460,6819 4600,6819 4621,6819 4857,6825 4891,6825 5015,6824 5046,6825 5132,6825 5164,6825 5252,6827"/>
                 <TextEquiv>
                     <Unicode>darüber aufgenommen. Der betreffende Tarif Nachtrag kann auf den</Unicode>
                 </TextEquiv>
@@ -3245,7 +3245,7 @@ Kanitz.</Unicode>
             </TextLine>
             <TextLine id="r15l8" custom="readingOrder {index:7;}">
                 <Coords points="3341,6897 3370,6889 3539,6888 3611,6888 4434,6889 4467,6902 4467,6939 3950,6941 3515,6941 3370,6938 3341,6934"/>
-                <Baseline points="3334,6932 3539,6938 3807,6939 3843,6939 4093,6938 4127,6938 4203,6938 4233,6938 4467,6939"/>
+                <Baseline points="3341,6932 3539,6938 3807,6939 3843,6939 4093,6938 4127,6938 4203,6938 4233,6938 4467,6939"/>
                 <TextEquiv>
                     <Unicode>1871. Königliche Direktion der Oſtbahn.</Unicode>
                 </TextEquiv>
@@ -3361,7 +3361,7 @@ Druckzeile 2 ½ Sgr.</Unicode>
             </TextLine>
             <TextLine id="r21l2" custom="readingOrder {index:1;}">
                 <Coords points="8939,1403 9142,1403 9683,1426 9683,1459 9596,1457 8942,1435"/>
-                <Baseline points="8939,1436 9142,1441 9198,1442 9340,1444 9592,1450 9683,1452"/>
+                <Baseline points="8942,1435 9142,1441 9198,1442 9340,1444 9592,1450 9683,1452"/>
                 <TextEquiv>
                     <Unicode>Auslandes nehmen Beſtellung an,</Unicode>
                 </TextEquiv>
@@ -3615,7 +3615,7 @@ Zieten⸗Platz Nr. 3.</Unicode>
             </TextLine>
             <TextLine id="r26l24" custom="readingOrder {index:23;}">
                 <Coords points="5708,4809 5743,4809 5921,4810 6677,4818 6919,4821 7135,4824 7399,4828 7579,4831 7604,4860 7604,4885 7579,4913 7525,4914 7361,4914 6881,4913 5873,4896 5708,4877"/>
-                <Baseline points="5708,4876 5820,4877 5873,4878 6130,4879 6177,4880 6254,4881 6302,4882 6567,4885 6618,4886 6711,4887 6750,4888 7284,4894 7319,4894 7601,4892"/>
+                <Baseline points="5708,4876 5820,4877 5873,4878 6130,4879 6177,4880 6254,4881 6302,4882 6567,4885 6618,4886 6711,4887 6750,4888 7284,4894 7319,4894 7599,4890"/>
                 <TextEquiv>
                     <Unicode>den Frieden zu wahren, die Unabhängigkeit Deutſch⸗</Unicode>
                 </TextEquiv>
@@ -3808,7 +3808,7 @@ Wilhelm.</Unicode>
             </TextLine>
             <TextLine id="r27l4" custom="readingOrder {index:3;}">
                 <Coords points="5668,6693 5688,6693 7278,6712 7502,6721 7574,6736 7574,6775 7278,6783 7248,6783 6082,6772 5759,6756 5668,6747"/>
-                <Baseline points="5669,6754 5718,6752 5759,6756 6161,6759 6195,6761 6510,6765 6549,6765 6604,6765 6641,6766 6916,6763 6951,6766 7278,6770 7335,6771 7391,6773 7428,6774 7574,6768"/>
+                <Baseline points="5669,6747 5718,6751 5759,6756 6161,6759 6195,6761 6510,6765 6549,6765 6604,6765 6641,6766 6916,6763 6951,6766 7278,6770 7335,6771 7391,6773 7428,6774 7574,6768"/>
                 <TextEquiv>
                     <Unicode>in Oranienburg, Meißner in Schönau, Reiſewitz in Neu⸗</Unicode>
                 </TextEquiv>
@@ -4048,7 +4048,7 @@ und Mosler in Groß-Strehlitz.</Unicode>
             </TextLine>
             <TextLine id="r29l14" custom="readingOrder {index:13;}">
                 <Coords points="7703,4632 7865,4625 7883,4625 8964,4633 9537,4654 9577,4666 9601,4677 9601,4695 9577,4705 9480,4717 9459,4717 7865,4689 7703,4675"/>
-                <Baseline points="7703,4675 7811,4677 7865,4678 7908,4678 7965,4678 8294,4682 8347,4683 8595,4684 8648,4686 8964,4691 9021,4692 9251,4697 9307,4699 9418,4702 9459,4703 9600,4703"/>
+                <Baseline points="7703,4675 7811,4677 7865,4678 7908,4678 7965,4678 8294,4682 8347,4683 8595,4684 8648,4686 8964,4691 9021,4692 9251,4697 9307,4699 9418,4702 9459,4703 9597,4696"/>
                 <TextEquiv>
                     <Unicode>von je Einhundert Thalern, Eintauſend Thalern und zehn⸗</Unicode>
                 </TextEquiv>
@@ -4111,7 +4111,7 @@ und Mosler in Groß-Strehlitz.</Unicode>
             </TextLine>
             <TextLine id="r29l23" custom="readingOrder {index:22;}">
                 <Coords points="7821,5224 8125,5224 8449,5229 8771,5234 8823,5235 8831,5293 8826,5293 8406,5296 7850,5293 7821,5279"/>
-                <Baseline points="7821,5279 8125,5281 8161,5281 8255,5281 8294,5282 8370,5283 8406,5283 8634,5286 8673,5286 8831,5291"/>
+                <Baseline points="7821,5279 8125,5281 8161,5281 8255,5281 8294,5282 8370,5283 8406,5283 8634,5286 8673,5286 8830,5291"/>
                 <TextEquiv>
                     <Unicode>Verſailles, den 10. Januar 1871.</Unicode>
                 </TextEquiv>
@@ -4281,7 +4281,7 @@ Geſetz⸗Sammlungs⸗Debits⸗Comtoir.</Unicode>
             <Coords points="7643,6716 9605,6716 9605,7022 7643,7022"/>
             <TextLine id="r33l1" custom="readingOrder {index:0;}">
                 <Coords points="7792,6724 8749,6720 8780,6720 9518,6744 9601,6758 9601,6799 9255,6791 8784,6799 8751,6797 7968,6781 7792,6779"/>
-                <Baseline points="7792,6779 7908,6779 7927,6779 8324,6784 8358,6785 8467,6785 8493,6786 8689,6786 8723,6786 8912,6788 8942,6789 9069,6791 9091,6791 9466,6797 9499,6798 9601,6799"/>
+                <Baseline points="7792,6779 7908,6779 7927,6779 8324,6784 8358,6785 8467,6785 8493,6786 8689,6786 8723,6786 8912,6788 8942,6789 9069,6791 9091,6791 9466,6795 9499,6796 9601,6799"/>
                 <TextEquiv>
                     <Unicode>Der Rechtsanwalt und Notar, Juſtiz⸗Rath Hoffmann in</Unicode>
                 </TextEquiv>

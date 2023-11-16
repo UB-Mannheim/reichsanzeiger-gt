@@ -1,24 +1,24 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
     <Metadata>
         <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.7.0:model_id=40804:lm=none:date=19_05_2022_11:33
 prov=READ-COOP:name=PyLaia@Transkribus:version=0.7.0:model_id=40804:date=19_05_2022_11:33
 Transkribus</Creator>
         <Created>2021-12-14T11:54:15.748+01:00</Created>
-        <LastChange>2023-06-14T13:32:48.651+02:00</LastChange>
+        <LastChange>2023-11-15T20:45:14.103+01:00</LastChange>
         <Comments>
                 Measurement unit: pixel
                 PrimaryLanguage: 
                 Producer: Transkribus
             </Comments>
-        <TranskribusMetadata docId="982138" pageId="37988880" pageNr="5" tsid="126973383" status="GT" userId="109938" imgUrl="https://files.transkribus.eu/Get?id=HCISGOQXFVGUABQRSAAUUQSC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KPELIXMYLZWIASAHRZLJFKPQ" imageId="30635771"/>
+        <TranskribusMetadata docId="982138" pageId="37988880" pageNr="5" tsid="139840468" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=HCISGOQXFVGUABQRSAAUUQSC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EBGSAQTFGOYCNMSTPECANFSQ" imageId="30635771"/>
     </Metadata>
     <Page imageFilename="1893_78_0481.jpg" imageWidth="9576" imageHeight="6744">
         <PrintSpace>
             <Coords points="467,273 9341,296 9346,6451 434,6516"/>
         </PrintSpace>
         <ReadingOrder>
-            <OrderedGroup id="ro_1690359997335" caption="Regions reading order">
+            <OrderedGroup id="ro_1700129728776" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
                 <RegionRefIndexed index="1" regionRef="r2"/>
                 <RegionRefIndexed index="2" regionRef="r3"/>
@@ -164,14 +164,14 @@ nachſtehend bezeichnete Pfandbriefe der Poſener Land⸗
             </TextLine>
             <TextLine id="r3l3" custom="readingOrder {index:2;}">
                 <Coords points="663,926 1514,900 1542,899 1647,898 1647,931 1636,936 1535,942 706,967 659,966"/>
-                <Baseline points="663,964 732,961 755,961 822,959 842,958 904,956 928,955 1031,952 1051,951 1153,949 1174,948 1233,945 1260,944 1357,940 1380,939 1450,936 1466,935 1560,935 1585,933 1645,932"/>
+                <Baseline points="663,964 732,961 755,961 822,959 842,958 904,956 928,955 1031,952 1051,951 1153,949 1174,948 1233,945 1260,944 1357,940 1380,939 1450,936 1466,935 1560,935 1585,933 1644,931"/>
                 <TextEquiv>
                     <Unicode>Nr. 384 963 1499 2570 793 3508 750 4302 433</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l4" custom="readingOrder {index:3;}">
                 <Coords points="660,968 1583,942 1628,941 1648,941 1650,979 1368,985 1050,996 928,1000 744,1006 662,1010"/>
-                <Baseline points="660,1006 764,1004 787,1003 854,1001 872,1000 977,997 1002,997 1091,994 1118,993 1211,989 1234,988 1303,985 1326,985 1388,983 1412,982 1478,979 1500,979 1566,976 1583,975 1648,975"/>
+                <Baseline points="661,1005 764,1004 787,1003 854,1001 872,1000 977,997 1002,997 1091,994 1118,993 1211,989 1234,988 1303,985 1326,985 1388,983 1412,982 1478,979 1500,979 1566,976 1583,975 1648,975"/>
                 <TextEquiv>
                     <Unicode>5857 934 6875 7907 8147 275 366 653 672 952</Unicode>
                 </TextEquiv>
@@ -493,7 +493,7 @@ nachſtehend bezeichnete Pfandbriefe der Poſener Land⸗
             </TextLine>
             <TextLine id="r3l50" custom="readingOrder {index:49;}">
                 <Coords points="662,2961 1126,2952 1282,2949 1413,2947 1595,2945 1637,2945 1660,2946 1663,2985 1330,2987 708,3002 663,3004"/>
-                <Baseline points="662,2998 730,2996 757,2995 819,2993 851,2992 945,2990 972,2989 1034,2987 1068,2987 1169,2985 1201,2985 1301,2983 1337,2982 1435,2980 1461,2980 1524,2979 1563,2978 1660,2977"/>
+                <Baseline points="662,2997 730,2996 757,2995 819,2993 851,2992 945,2990 972,2989 1034,2987 1068,2987 1169,2985 1201,2985 1301,2983 1337,2982 1435,2980 1461,2980 1524,2979 1563,2978 1660,2977"/>
                 <TextEquiv>
                     <Unicode>Nr. 104 1989 995 2890 3027 5316 882 6052</Unicode>
                 </TextEquiv>
@@ -584,7 +584,7 @@ nachſtehend bezeichnete Pfandbriefe der Poſener Land⸗
             </TextLine>
             <TextLine id="r3l63" custom="readingOrder {index:62;}">
                 <Coords points="714,3529 1017,3521 1546,3513 1578,3513 1646,3516 1665,3523 1665,3544 1661,3553 1626,3552 1245,3560 755,3570 717,3569"/>
-                <Baseline points="716,3567 834,3561 858,3560 992,3556 1017,3555 1042,3555 1064,3554 1163,3552 1187,3553 1303,3552 1327,3552 1445,3549 1482,3548 1578,3545 1602,3546 1664,3547"/>
+                <Baseline points="716,3566 834,3561 858,3560 992,3556 1017,3555 1042,3555 1064,3554 1163,3552 1187,3553 1303,3552 1327,3552 1445,3549 1482,3548 1578,3545 1602,3546 1663,3546"/>
                 <TextEquiv>
                     <Unicode>Serie VIII. à 200 Thlr. bezw. 600 ℳ:</Unicode>
                 </TextEquiv>
@@ -752,7 +752,7 @@ nachſtehend bezeichnete Pfandbriefe der Poſener Land⸗
             </TextLine>
             <TextLine id="r3l87" custom="readingOrder {index:86;}">
                 <Coords points="678,4580 826,4575 1254,4566 1482,4563 1637,4561 1676,4561 1680,4599 888,4617 718,4620 679,4620"/>
-                <Baseline points="678,4614 744,4612 769,4612 896,4609 920,4608 991,4607 1015,4606 1074,4604 1100,4604 1229,4602 1254,4601 1319,4600 1345,4599 1411,4598 1437,4598 1500,4597 1523,4597 1590,4595 1615,4594 1676,4595"/>
+                <Baseline points="678,4613 744,4612 769,4612 896,4609 920,4608 991,4607 1015,4606 1074,4604 1100,4604 1229,4602 1254,4601 1319,4600 1345,4599 1411,4598 1437,4598 1500,4597 1523,4597 1590,4595 1615,4594 1676,4595"/>
                 <TextEquiv>
                     <Unicode>819 54029 235 818 55122 261 300 338 586 591</Unicode>
                 </TextEquiv>
@@ -920,7 +920,7 @@ nachſtehend bezeichnete Pfandbriefe der Poſener Land⸗
             </TextLine>
             <TextLine id="r3l111" custom="readingOrder {index:110;}">
                 <Coords points="731,5625 981,5618 1270,5613 1586,5609 1694,5609 1699,5646 1670,5647 853,5666 735,5669"/>
-                <Baseline points="737,5669 851,5659 882,5658 940,5656 981,5655 1011,5655 1042,5655 1141,5653 1163,5656 1220,5655 1272,5654 1337,5652 1366,5651 1409,5650 1446,5649 1507,5648 1539,5648 1606,5647 1629,5646 1694,5642"/>
+                <Baseline points="736,5668 851,5659 882,5658 940,5656 981,5655 1011,5655 1042,5655 1141,5653 1163,5656 1220,5655 1272,5654 1337,5652 1366,5651 1409,5650 1446,5649 1507,5648 1539,5648 1606,5647 1629,5646 1694,5642"/>
                 <TextEquiv>
                     <Unicode>Serie X. à 200 ℳ: Nr. 37 164 517 540</Unicode>
                 </TextEquiv>
@@ -941,7 +941,7 @@ nachſtehend bezeichnete Pfandbriefe der Poſener Land⸗
             </TextLine>
             <TextLine id="r3l114" custom="readingOrder {index:113;}">
                 <Coords points="684,5759 711,5758 910,5756 1138,5748 1246,5746 1293,5746 1304,5772 1304,5779 1303,5787 1122,5793 716,5800 682,5799"/>
-                <Baseline points="684,5794 755,5792 779,5792 845,5790 867,5790 930,5788 958,5790 1027,5788 1047,5787 1113,5787 1138,5787 1200,5786 1223,5785 1304,5782"/>
+                <Baseline points="684,5794 755,5792 779,5792 845,5790 867,5790 930,5788 958,5790 1027,5788 1047,5787 1113,5787 1138,5787 1200,5786 1223,5785 1303,5781"/>
                 <TextEquiv>
                     <Unicode>232 339 417 420 425 606 832.</Unicode>
                 </TextEquiv>
@@ -1130,7 +1130,7 @@ Serie X. à 200 ℳ: Nr. 37 164 517 540
             </TextLine>
             <TextLine id="r4l10" custom="readingOrder {index:9;}">
                 <Coords points="738,6236 1058,6233 1365,6221 1527,6222 1656,6216 1699,6216 1702,6255 1320,6266 778,6277 740,6277"/>
-                <Baseline points="739,6275 858,6269 878,6269 1023,6264 1054,6263 1083,6263 1119,6262 1246,6259 1270,6260 1332,6257 1365,6258 1434,6255 1471,6256 1568,6254 1602,6254 1699,6252"/>
+                <Baseline points="739,6274 858,6269 878,6269 1023,6264 1054,6263 1083,6263 1119,6262 1246,6259 1270,6260 1332,6257 1365,6258 1434,6255 1471,6256 1568,6254 1602,6254 1699,6252"/>
                 <TextEquiv>
                     <Unicode>Serie XIII. à 1000 ℳ: Nr. 1176 2397</Unicode>
                 </TextEquiv>
@@ -1476,7 +1476,7 @@ aber noch rückſtändigen Pfandbriefe:</Unicode>
             </TextLine>
             <TextLine id="r6l2" custom="readingOrder {index:1;}">
                 <Coords points="1748,2154 1832,2152 1985,2149 2264,2145 2575,2142 2604,2142 2670,2144 2690,2151 2695,2179 2671,2180 2284,2188 2015,2187 1789,2195 1749,2194"/>
-                <Baseline points="1748,2191 1866,2187 1900,2185 1937,2185 1985,2184 2014,2183 2060,2182 2188,2180 2223,2182 2423,2178 2470,2177 2604,2174 2631,2176 2690,2173"/>
+                <Baseline points="1748,2190 1866,2187 1900,2185 1937,2185 1985,2184 2014,2183 2060,2182 2188,2180 2223,2182 2423,2178 2470,2177 2604,2174 2631,2176 2690,2173"/>
                 <TextEquiv>
                     <Unicode>Serie I. à 1000 Thlr. = 3000 ℳ:</Unicode>
                 </TextEquiv>
@@ -1525,7 +1525,7 @@ aber noch rückſtändigen Pfandbriefe:</Unicode>
             </TextLine>
             <TextLine id="r6l9" custom="readingOrder {index:8;}">
                 <Coords points="1709,2462 1856,2458 2678,2446 2696,2446 2699,2486 2099,2493 1755,2500 1733,2499 1710,2498"/>
-                <Baseline points="1707,2497 1773,2495 1799,2494 1896,2492 1919,2491 1982,2489 2007,2489 2072,2488 2107,2487 2204,2487 2230,2486 2294,2485 2319,2485 2384,2484 2405,2483 2468,2483 2507,2482 2604,2481 2634,2481 2696,2480"/>
+                <Baseline points="1709,2496 1773,2495 1799,2494 1896,2492 1919,2491 1982,2489 2007,2489 2072,2488 2107,2487 2204,2487 2230,2486 2294,2485 2319,2485 2384,2484 2405,2483 2468,2483 2507,2482 2604,2481 2634,2481 2696,2480"/>
                 <TextEquiv>
                     <Unicode>927 1479 517 969 2162 398 690 960 3522 617</Unicode>
                 </TextEquiv>
@@ -1930,7 +1930,7 @@ Serie X. à 200 ℳ: Nr. 64 125 234 304
             <Coords points="1715,4604 2726,4585 2746,5374 1731,5394"/>
             <TextLine id="r7l1" custom="readingOrder {index:0;}">
                 <Coords points="1995,4608 2038,4606 2102,4604 2227,4601 2298,4600 2336,4600 2440,4602 2440,4661 2149,4669 2041,4673 1990,4672"/>
-                <Baseline points="1996,4652 2064,4650 2104,4651 2200,4650 2228,4651 2335,4649 2358,4648 2441,4646"/>
+                <Baseline points="1996,4652 2064,4650 2104,4651 2200,4650 2228,4651 2335,4649 2358,4648 2440,4646"/>
                 <TextEquiv>
                     <Unicode>2) Zu 3 ½ %:</Unicode>
                 </TextEquiv>
@@ -2084,7 +2084,7 @@ Königliche Direction der Poſener Landſchaft.</Unicode>
             <Coords points="1883,5458 2745,5448 2756,6395 1739,6412 1723,5523 1768,5522 1788,5512 1857,5512 1866,5520 1876,5520 1886,5513"/>
             <TextLine id="r9l1" custom="readingOrder {index:0;}">
                 <Coords points="2049,5464 2418,5464 2420,5512 2051,5512"/>
-                <Baseline points="2049,5503 2418,5498"/>
+                <Baseline points="2050,5502 2418,5498"/>
                 <TextEquiv>
                     <Unicode>Bekanntmachung.</Unicode>
                 </TextEquiv>
@@ -2189,7 +2189,7 @@ Königliche Direction der Poſener Landſchaft.</Unicode>
             </TextLine>
             <TextLine id="r9l16" custom="readingOrder {index:15;}">
                 <Coords points="1746,6131 1912,6124 2198,6115 2475,6108 2714,6108 2744,6115 2744,6143 2714,6152 1864,6169 1743,6172"/>
-                <Baseline points="1746,6162 1786,6162 1811,6162 1890,6160 1912,6160 1983,6159 2007,6159 2071,6158 2093,6157 2136,6156 2198,6153 2258,6151 2283,6153 2412,6148 2433,6151 2743,6145"/>
+                <Baseline points="1746,6162 1786,6162 1811,6162 1890,6160 1912,6160 1983,6159 2007,6159 2071,6158 2093,6157 2136,6156 2198,6153 2258,6151 2283,6153 2412,6148 2433,6151 2742,6143"/>
                 <TextEquiv>
                     <Unicode>B. von den am 1. Juli 1880 ausgefertigten</Unicode>
                 </TextEquiv>
@@ -2341,7 +2341,7 @@ Litt. C. Nr. 166 186 219 u. 248 über je
             </TextLine>
             <TextLine id="r10l13" custom="readingOrder {index:12;}">
                 <Coords points="2725,1006 2794,998 2960,993 3059,991 3634,983 3676,983 3729,984 3729,1020 3679,1027 3468,1031 3180,1032 2961,1037 2726,1035"/>
-                <Baseline points="2725,1033 2851,1032 2877,1031 2937,1030 2960,1030 3133,1027 3157,1027 3224,1027 3249,1026 3468,1022 3498,1022 3559,1020 3575,1020 3619,1020 3634,1020 3729,1020"/>
+                <Baseline points="2725,1032 2851,1032 2877,1031 2937,1030 2960,1030 3133,1027 3157,1027 3224,1027 3249,1026 3468,1022 3498,1022 3559,1020 3575,1020 3619,1020 3634,1020 3729,1020"/>
                 <TextEquiv>
                     <Unicode>werden den Inhabern zur Einlöſung am 1. Juli</Unicode>
                 </TextEquiv>
@@ -2538,7 +2538,7 @@ von Scheliha, Königlicher Landrath.</Unicode>
             </TextLine>
             <TextLine id="r12l2" custom="readingOrder {index:1;}">
                 <Coords points="2784,2009 3234,2004 3350,2004 3447,2005 3445,2043 3128,2050 2990,2052 2785,2054"/>
-                <Baseline points="2784,2049 2853,2047 2877,2047 3132,2042 3155,2042 3209,2042 3234,2041 3445,2039"/>
+                <Baseline points="2784,2048 2853,2047 2877,2047 3132,2042 3155,2042 3209,2042 3234,2041 3445,2039"/>
                 <TextEquiv>
                     <Unicode>Die Anleiheſcheine des Saalkreiſes</Unicode>
                 </TextEquiv>
@@ -2650,7 +2650,7 @@ von Scheliha, Königlicher Landrath.</Unicode>
             </TextLine>
             <TextLine id="r12l18" custom="readingOrder {index:17;}">
                 <Coords points="2748,2716 2850,2713 2890,2712 3124,2707 3337,2704 3446,2703 3583,2703 3726,2706 3724,2740 3547,2747 2943,2753 2918,2755 2746,2756"/>
-                <Baseline points="2749,2752 2804,2750 2826,2750 2993,2746 3016,2746 3072,2745 3096,2744 3235,2741 3259,2741 3312,2741 3337,2740 3546,2738 3569,2738 3726,2736"/>
+                <Baseline points="2749,2752 2804,2750 2826,2750 2993,2746 3016,2746 3072,2745 3096,2744 3235,2741 3259,2741 3312,2741 3337,2740 3546,2738 3569,2738 3724,2735"/>
                 <TextEquiv>
                     <Unicode>der Rückgabe der Scheine zur Auszahlung kommen.</Unicode>
                 </TextEquiv>
@@ -2786,7 +2786,7 @@ Nummern gezogen worden:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2800,7 +2800,7 @@ Nummern gezogen worden:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2814,7 +2814,7 @@ Nummern gezogen worden:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2828,7 +2828,7 @@ Nummern gezogen worden:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2842,7 +2842,7 @@ Nummern gezogen worden:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2856,7 +2856,7 @@ Nummern gezogen worden:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2864,13 +2864,13 @@ Nummern gezogen worden:</Unicode>
                 <Coords points="2948,3546 2948,3584 3582,3575 3582,3534"/>
                 <TextLine id="TableCell_1643638185450_5138l0" custom="readingOrder {index:0;}">
                     <Coords points="3099,3548 3201,3544 3284,3543 3344,3541 3417,3543 3418,3574 3397,3577 3217,3580 3201,3580 3095,3582"/>
-                    <Baseline points="3099,3578 3174,3579 3201,3579 3408,3576"/>
+                    <Baseline points="3099,3578 3174,3579 3201,3579 3407,3575"/>
                     <TextEquiv>
                         <Unicode>IV. Emiſſion.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2884,7 +2884,7 @@ Nummern gezogen worden:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2898,7 +2898,7 @@ Nummern gezogen worden:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2912,7 +2912,7 @@ Nummern gezogen worden:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2926,7 +2926,7 @@ Nummern gezogen worden:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2940,7 +2940,7 @@ Nummern gezogen worden:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2954,7 +2954,7 @@ Nummern gezogen worden:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2968,7 +2968,7 @@ Nummern gezogen worden:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2982,7 +2982,7 @@ Nummern gezogen worden:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2990,13 +2990,13 @@ Nummern gezogen worden:</Unicode>
                 <Coords points="2948,3943 2948,3988 3582,3976 3582,3932"/>
                 <TextLine id="TableCell_1643638126366_5042l0" custom="readingOrder {index:0;}">
                     <Coords points="3197,3947 3406,3946 3493,3946 3562,3946 3562,3975 3197,3982"/>
-                    <Baseline points="3202,3981 3360,3980 3406,3979 3495,3976 3515,3977 3560,3974"/>
+                    <Baseline points="3202,3981 3359,3978 3405,3977 3495,3976 3514,3975 3560,3974"/>
                     <TextEquiv>
                         <Unicode>Summa 6300 ℳ</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3124,7 +3124,7 @@ Nummern gezogen worden:</Unicode>
             </TextLine>
             <TextLine id="r15l18" custom="readingOrder {index:17;}">
                 <Coords points="2770,4742 2819,4740 2954,4740 3009,4739 3040,4739 3036,4780 2917,4781 2768,4785"/>
-                <Baseline points="2770,4781 3037,4773"/>
+                <Baseline points="2770,4781 3036,4772"/>
                 <TextEquiv>
                     <Unicode>Königsberg.</Unicode>
                 </TextEquiv>
@@ -3238,13 +3238,13 @@ Auf Grund des Allerhöchſten Privilegiums vom
                 <Coords points="2965,5208 2965,5244 3614,5233 3614,5191"/>
                 <TextLine id="TableCell_1643638395128_5252l0" custom="readingOrder {index:0;}">
                     <Coords points="2973,5209 2993,5208 3040,5206 3318,5198 3426,5198 3498,5198 3575,5196 3573,5232 3516,5234 3064,5241 2972,5244"/>
-                    <Baseline points="2979,5241 3064,5239 3089,5239 3141,5237 3165,5237 3229,5235 3280,5234 3322,5233 3347,5233 3387,5232 3414,5232 3498,5233 3519,5234 3563,5232"/>
+                    <Baseline points="2979,5241 3064,5239 3089,5239 3141,5237 3165,5237 3229,5235 3280,5234 3322,5233 3347,5233 3387,5232 3414,5232 3498,5233 3518,5233 3563,5232"/>
                     <TextEquiv>
                         <Unicode>Litt. A. Nr. 14 = 1000 ℳ</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3258,7 +3258,7 @@ Auf Grund des Allerhöchſten Privilegiums vom
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3272,7 +3272,7 @@ Auf Grund des Allerhöchſten Privilegiums vom
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3286,7 +3286,7 @@ Auf Grund des Allerhöchſten Privilegiums vom
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3300,7 +3300,7 @@ Auf Grund des Allerhöchſten Privilegiums vom
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3314,7 +3314,7 @@ Auf Grund des Allerhöchſten Privilegiums vom
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3328,7 +3328,7 @@ Auf Grund des Allerhöchſten Privilegiums vom
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3342,7 +3342,7 @@ Auf Grund des Allerhöchſten Privilegiums vom
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3356,7 +3356,7 @@ Auf Grund des Allerhöchſten Privilegiums vom
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3370,7 +3370,7 @@ Auf Grund des Allerhöchſten Privilegiums vom
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3384,7 +3384,7 @@ Auf Grund des Allerhöchſten Privilegiums vom
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3398,7 +3398,7 @@ Auf Grund des Allerhöchſten Privilegiums vom
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3412,7 +3412,7 @@ Auf Grund des Allerhöchſten Privilegiums vom
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3426,7 +3426,7 @@ Auf Grund des Allerhöchſten Privilegiums vom
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3541,14 +3541,14 @@ Der Kreis⸗Ausſchuß des Kreiſes Sensburg.</Unicode>
             <Coords points="3762,504 3802,502 3825,496 3855,501 3878,501 3919,500 3918,428 4794,430 4794,1206 3762,1204"/>
             <TextLine id="r20l1" custom="readingOrder {index:0;}">
                 <Coords points="4072,452 4100,448 4420,448 4449,471 4441,488 4409,492 4104,489 4072,490"/>
-                <Baseline points="4073,485 4445,482"/>
+                <Baseline points="4073,485 4444,481"/>
                 <TextEquiv>
                     <Unicode>Bekanntmachung.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r20l2" custom="readingOrder {index:1;}">
                 <Coords points="3814,499 3932,495 4679,487 4721,483 4757,495 4774,516 4761,530 4560,528 4166,537 3932,537 3812,541"/>
-                <Baseline points="3814,537 3895,536 3932,535 4166,531 4202,531 4264,531 4299,531 4408,529 4449,529 4482,527 4551,526 4649,524 4686,524 4774,522"/>
+                <Baseline points="3814,537 3895,536 3932,535 4166,531 4202,531 4264,531 4299,531 4408,529 4449,529 4482,527 4551,526 4649,524 4686,524 4771,519"/>
                 <TextEquiv>
                     <Unicode>Das Bankgeſchäft von Breeſt &amp; Gelpcke hier,</Unicode>
                 </TextEquiv>
@@ -3597,14 +3597,14 @@ Der Kreis⸗Ausſchuß des Kreiſes Sensburg.</Unicode>
             </TextLine>
             <TextLine id="r20l9" custom="readingOrder {index:8;}">
                 <Coords points="3772,804 4191,796 4217,796 4703,794 4770,801 4772,830 4609,835 4111,841 4068,845 3886,847 3770,845"/>
-                <Baseline points="3762,840 3860,840 3886,840 4046,837 4070,837 4121,836 4147,836 4223,835 4242,835 4333,833 4358,833 4490,832 4515,832 4613,830 4649,830 4703,829 4726,828 4770,828"/>
+                <Baseline points="3770,840 3860,840 3886,840 4046,837 4070,837 4121,836 4147,836 4223,835 4242,835 4333,833 4358,833 4490,832 4515,832 4613,830 4649,830 4703,829 4726,828 4770,828"/>
                 <TextEquiv>
                     <Unicode>1843 (Geſ.⸗S. S. 177) wird deshalb jeder, der an</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r20l10" custom="readingOrder {index:9;}">
                 <Coords points="3772,849 3794,848 3912,846 4495,837 4741,836 4754,836 4768,853 4771,874 4751,876 3955,889 3807,890 3773,890"/>
-                <Baseline points="3772,885 3888,883 3912,883 4035,882 4053,881 4105,881 4132,880 4264,879 4301,878 4339,878 4372,877 4471,876 4495,876 4661,873 4697,873 4768,870"/>
+                <Baseline points="3772,884 3888,883 3912,883 4035,882 4053,881 4105,881 4132,880 4264,879 4301,878 4339,878 4372,877 4471,876 4495,876 4661,873 4697,873 4768,870"/>
                 <TextEquiv>
                     <Unicode>dieſem Papier ein Anrecht zu haben vermeint, auf⸗</Unicode>
                 </TextEquiv>
@@ -3789,14 +3789,14 @@ v. Hoffmann.</Unicode>
             </TextLine>
             <TextLine id="r26l7" custom="readingOrder {index:6;}">
                 <Coords points="3777,1726 3887,1720 4039,1716 4635,1711 4782,1715 4783,1752 4735,1751 4635,1754 4072,1759 4040,1761 3844,1766 3776,1764"/>
-                <Baseline points="3778,1757 3862,1756 3887,1756 4059,1753 4079,1753 4282,1748 4325,1750 4385,1747 4407,1748 4635,1746 4682,1745 4784,1744"/>
+                <Baseline points="3778,1757 3862,1756 3887,1756 4059,1753 4079,1753 4282,1748 4325,1750 4385,1747 4407,1748 4635,1746 4682,1745 4782,1744"/>
                 <TextEquiv>
                     <Unicode>rung hierdurch gekündigt, den Kapitalbetrag gegen</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r26l8" custom="readingOrder {index:7;}">
                 <Coords points="3779,1766 4624,1753 4682,1752 4779,1760 4778,1793 4732,1796 4292,1799 4071,1805 3870,1807 3781,1809"/>
-                <Baseline points="3779,1802 3946,1799 3970,1799 4023,1798 4046,1797 4289,1793 4319,1792 4386,1792 4419,1791 4470,1791 4506,1790 4580,1790 4607,1789 4776,1788"/>
+                <Baseline points="3780,1801 3946,1799 3970,1799 4023,1798 4046,1797 4289,1793 4319,1792 4386,1792 4419,1791 4470,1791 4506,1790 4580,1790 4607,1789 4776,1788"/>
                 <TextEquiv>
                     <Unicode>Rückgabe der Obligationen und der dazu gehörigen</Unicode>
                 </TextEquiv>
@@ -3922,7 +3922,7 @@ Der Vorſitzende.</Unicode>
             </TextLine>
             <TextLine id="r28l4" custom="readingOrder {index:3;}">
                 <Coords points="3786,2432 4549,2417 4731,2417 4742,2418 4787,2423 4795,2457 4731,2458 4670,2460 4041,2471 3963,2472 3949,2472 3787,2471"/>
-                <Baseline points="3786,2469 4041,2463 4084,2462 4140,2461 4187,2460 4241,2461 4280,2460 4405,2458 4451,2457 4504,2457 4549,2456 4784,2452"/>
+                <Baseline points="3786,2468 4041,2463 4084,2462 4140,2461 4187,2460 4241,2461 4280,2460 4405,2458 4451,2457 4504,2457 4549,2456 4784,2452"/>
                 <TextEquiv>
                     <Unicode>Auslooſung der auf Grund des Allerhöchſten</Unicode>
                 </TextEquiv>
@@ -3943,7 +3943,7 @@ Der Vorſitzende.</Unicode>
             </TextLine>
             <TextLine id="r28l7" custom="readingOrder {index:6;}">
                 <Coords points="3788,2564 3828,2562 3929,2560 4097,2557 4551,2550 4786,2547 4791,2587 4227,2599 3886,2605 3876,2605 3828,2603 3791,2605"/>
-                <Baseline points="3789,2600 3904,2598 3929,2597 4169,2592 4203,2591 4264,2589 4291,2589 4451,2587 4478,2587 4507,2587 4532,2586 4676,2585 4703,2584 4786,2584"/>
+                <Baseline points="3790,2599 3904,2598 3929,2597 4169,2592 4203,2591 4264,2589 4291,2589 4451,2587 4478,2587 4507,2587 4532,2586 4676,2585 4703,2584 4786,2584"/>
                 <TextEquiv>
                     <Unicode>behufs Amortiſation pro termino 1. Oktober 1893</Unicode>
                 </TextEquiv>
@@ -4090,7 +4090,7 @@ Der Vorſitzende.</Unicode>
             </TextLine>
             <TextLine id="r28l28" custom="readingOrder {index:27;}">
                 <Coords points="3797,3476 3933,3473 4063,3473 4083,3476 4092,3507 4063,3517 3908,3518 3880,3518 3799,3519"/>
-                <Baseline points="3797,3513 3908,3511 3933,3510 4083,3507"/>
+                <Baseline points="3798,3512 3908,3511 3933,3510 4083,3507"/>
                 <TextEquiv>
                     <Unicode>Abzug gebracht.</Unicode>
                 </TextEquiv>
@@ -4181,7 +4181,7 @@ Falkſon.</Unicode>
             </TextLine>
             <TextLine id="r30l3" custom="readingOrder {index:2;}">
                 <Coords points="3799,3832 3923,3823 3979,3821 4024,3820 4387,3817 4513,3814 4708,3810 4721,3810 4786,3812 4801,3827 4801,3839 4795,3852 4721,3854 4010,3862 3979,3862 3798,3866"/>
-                <Baseline points="3799,3860 3877,3859 3903,3858 3954,3858 3979,3857 4058,3856 4084,3855 4170,3853 4206,3852 4267,3851 4308,3850 4363,3850 4387,3850 4560,3847 4587,3846 4671,3846 4708,3846 4798,3847"/>
+                <Baseline points="3799,3860 3877,3859 3903,3858 3954,3858 3979,3857 4058,3856 4084,3855 4170,3853 4206,3852 4267,3851 4308,3850 4363,3850 4387,3850 4560,3847 4587,3846 4671,3846 4708,3846 4797,3846"/>
                 <TextEquiv>
                     <Unicode>vom 17. Juli 1867 und 14. Dezember 1887 ſtatt⸗</Unicode>
                 </TextEquiv>
@@ -4307,7 +4307,7 @@ Falkſon.</Unicode>
             </TextLine>
             <TextLine id="r30l21" custom="readingOrder {index:20;}">
                 <Coords points="3812,4611 3829,4610 4232,4603 4768,4592 4809,4592 4814,4632 4260,4645 4229,4643 3814,4655"/>
-                <Baseline points="3812,4647 3927,4644 3962,4644 4082,4641 4097,4640 4266,4636 4304,4636 4533,4632 4565,4632 4721,4629 4746,4629 4809,4627"/>
+                <Baseline points="3813,4646 3927,4644 3962,4644 4082,4641 4097,4640 4266,4636 4304,4636 4533,4632 4565,4632 4721,4629 4746,4629 4809,4627"/>
                 <TextEquiv>
                     <Unicode>ſcheine werden hierdurch aufgefordert, dieſelben mit</Unicode>
                 </TextEquiv>
@@ -4356,7 +4356,7 @@ Falkſon.</Unicode>
             </TextLine>
             <TextLine id="r30l28" custom="readingOrder {index:27;}">
                 <Coords points="3815,4926 3839,4916 3979,4914 4325,4907 4785,4897 4812,4902 4811,4939 4596,4945 4326,4951 3817,4958"/>
-                <Baseline points="3815,4951 3857,4951 3881,4950 3929,4949 3952,4949 4152,4944 4175,4944 4270,4942 4295,4941 4702,4933 4739,4933 4811,4931"/>
+                <Baseline points="3816,4950 3857,4951 3881,4950 3929,4949 3952,4949 4152,4944 4175,4944 4270,4942 4295,4941 4702,4933 4739,4933 4811,4931"/>
                 <TextEquiv>
                     <Unicode>ab die Verzinſung dieſer Schuldverſchreibungen auf⸗</Unicode>
                 </TextEquiv>
@@ -4384,7 +4384,7 @@ Falkſon.</Unicode>
             </TextLine>
             <TextLine id="r30l32" custom="readingOrder {index:31;}">
                 <Coords points="3819,5098 3872,5088 4515,5078 4733,5076 4770,5072 4817,5085 4817,5098 4813,5112 4477,5123 3917,5133 3819,5133"/>
-                <Baseline points="3819,5126 4004,5123 4040,5122 4118,5121 4166,5120 4252,5119 4296,5116 4477,5113 4515,5112 4689,5109 4736,5112 4815,5108"/>
+                <Baseline points="3819,5126 4004,5123 4040,5122 4118,5121 4166,5120 4252,5119 4296,5116 4477,5113 4515,5112 4689,5109 4736,5112 4814,5107"/>
                 <TextEquiv>
                     <Unicode>gationen ſind noch folgende Apoints ein⸗</Unicode>
                 </TextEquiv>
@@ -4419,7 +4419,7 @@ Falkſon.</Unicode>
             </TextLine>
             <TextLine id="r30l37" custom="readingOrder {index:36;}">
                 <Coords points="3868,5306 4163,5299 4488,5292 4601,5290 4719,5289 4795,5289 4802,5326 4777,5330 4624,5332 4000,5348 3958,5349 3869,5352"/>
-                <Baseline points="3868,5344 4063,5340 4085,5340 4115,5339 4137,5338 4298,5334 4325,5333 4385,5331 4410,5330 4461,5328 4488,5329 4673,5325 4699,5324 4795,5322"/>
+                <Baseline points="3868,5343 4063,5340 4085,5340 4115,5339 4137,5338 4298,5334 4325,5333 4385,5331 4410,5330 4461,5328 4488,5329 4673,5325 4699,5324 4795,5322"/>
                 <TextEquiv>
                     <Unicode>Freyſtadt i. Schleſ., den 21. November 1892.</Unicode>
                 </TextEquiv>
@@ -4505,7 +4505,7 @@ gedruckt.</Unicode>
             <Coords points="3811,5610 3838,5608 3866,5600 3894,5599 3955,5598 3967,5605 3974,5604 3967,5530 4850,5530 4870,6279 3829,6279"/>
             <TextLine id="r32l1" custom="readingOrder {index:0;}">
                 <Coords points="3871,5602 3946,5603 4654,5584 4780,5607 4780,5691 4653,5695 3952,5700 3872,5704"/>
-                <Baseline points="3871,5694 4780,5671"/>
+                <Baseline points="3871,5693 4780,5671"/>
                 <TextEquiv>
                     <Unicode>Bekanntmachung.</Unicode>
                 </TextEquiv>
@@ -4554,7 +4554,7 @@ gedruckt.</Unicode>
             </TextLine>
             <TextLine id="r32l8" custom="readingOrder {index:7;}">
                 <Coords points="3921,6014 3961,6012 4381,6000 4610,5995 4652,5995 4659,6032 4154,6050 4142,6050 3922,6052"/>
-                <Baseline points="3921,6046 4034,6044 4057,6043 4115,6044 4142,6043 4176,6042 4202,6041 4285,6039 4310,6038 4358,6037 4381,6036 4441,6034 4466,6034 4506,6032 4533,6032 4574,6030 4598,6030 4652,6028"/>
+                <Baseline points="3921,6045 4034,6044 4057,6043 4115,6044 4142,6043 4176,6042 4202,6041 4285,6039 4310,6038 4358,6037 4381,6036 4441,6034 4466,6034 4506,6032 4533,6032 4574,6030 4598,6030 4652,6028"/>
                 <TextEquiv>
                     <Unicode>Litt. B. zu 1000 ℳ Nr. 31 58 91.</Unicode>
                 </TextEquiv>
@@ -4744,7 +4744,7 @@ Bleek.</Unicode>
             </TextLine>
             <TextLine id="r40l2" custom="readingOrder {index:1;}">
                 <Coords points="8077,920 8146,920 8765,918 8949,918 8972,924 8986,929 8982,963 8946,963 8760,962 8146,958 8076,954"/>
-                <Baseline points="8089,955 8316,956 8339,956 8401,956 8714,955 8981,953"/>
+                <Baseline points="8089,954 8316,956 8339,956 8401,956 8714,955 8981,953"/>
                 <TextEquiv>
                     <Unicode>7. Erwerbs⸗ und Wirthſchafts⸗Genoſſenſchaften.</Unicode>
                 </TextEquiv>
@@ -4851,7 +4851,7 @@ papieren.</Unicode>
             </TextLine>
             <TextLine id="r43l6" custom="readingOrder {index:5;}">
                 <Coords points="5119,1570 5177,1563 5239,1559 5627,1554 5695,1554 5753,1564 5756,1591 5734,1594 5542,1597 5138,1606 5121,1606"/>
-                <Baseline points="5121,1599 5228,1596 5239,1596 5426,1591 5451,1591 5581,1589 5605,1588 5756,1588"/>
+                <Baseline points="5121,1599 5228,1596 5239,1596 5426,1591 5451,1591 5581,1589 5605,1588 5755,1588"/>
                 <TextEquiv>
                     <Unicode>gende Nummern gezogen worden:</Unicode>
                 </TextEquiv>
@@ -4928,7 +4928,7 @@ papieren.</Unicode>
             </TextLine>
             <TextLine id="r43l17" custom="readingOrder {index:16;}">
                 <Coords points="5122,2057 5167,2048 5191,2047 5406,2045 6024,2041 6088,2041 6115,2052 6113,2084 5989,2085 5210,2092 5122,2092"/>
-                <Baseline points="5122,2084 5337,2083 5361,2083 5425,2082 5449,2081 5499,2081 5806,2079 5871,2078 5895,2078 6008,2079 6027,2078 6115,2078"/>
+                <Baseline points="5122,2084 5337,2083 5361,2083 5425,2082 5449,2081 5499,2081 5806,2079 5871,2078 5895,2078 6008,2079 6027,2078 6113,2077"/>
                 <TextEquiv>
                     <Unicode>gekündigt, daß die Kapitalbeträge von dieſem Tage</Unicode>
                 </TextEquiv>
@@ -5165,7 +5165,7 @@ Bürgermeiſter und Rath.</Unicode>
             </TextLine>
             <TextLine id="r45l14" custom="readingOrder {index:13;}">
                 <Coords points="5255,3279 5361,3277 5796,3273 5949,3273 5981,3277 5981,3309 5939,3317 5463,3320 5361,3320 5257,3322"/>
-                <Baseline points="5255,3315 5334,3314 5358,3314 5575,3310 5597,3310 5662,3310 5689,3310 5981,3309"/>
+                <Baseline points="5256,3314 5334,3314 5358,3314 5575,3310 5597,3310 5662,3310 5689,3310 5981,3309"/>
                 <TextEquiv>
                     <Unicode>Der Magiſtrat der Reſidenzſtadt.</Unicode>
                 </TextEquiv>
@@ -5431,7 +5431,7 @@ for £ 20 each £ 40.
             </TextLine>
             <TextLine id="r48l3" custom="readingOrder {index:2;}">
                 <Coords points="5322,4704 5468,4701 5804,4695 5847,4695 5908,4706 5913,4733 5603,4742 5574,4742 5323,4741"/>
-                <Baseline points="5322,4735 5517,4733 5541,4732 5664,4730 5687,4730 5730,4729 5750,4729 5904,4727"/>
+                <Baseline points="5322,4734 5517,4733 5541,4732 5664,4730 5687,4730 5730,4729 5750,4729 5904,4727"/>
                 <TextEquiv>
                     <Unicode>Financial Agent of Mexico.</Unicode>
                 </TextEquiv>
@@ -5581,7 +5581,7 @@ Notary Dublic,
             </TextLine>
             <TextLine id="r50l15" custom="readingOrder {index:14;}">
                 <Coords points="5590,5622 5668,5618 5732,5617 5951,5614 6102,5614 6111,5639 6107,5647 6115,5656 5992,5655 5704,5661 5591,5661"/>
-                <Baseline points="5590,5654 5644,5654 5668,5653 5703,5653 5732,5652 5814,5650 5839,5650 5927,5648 5951,5649 5984,5649 6011,5649 6107,5647"/>
+                <Baseline points="5590,5653 5644,5654 5668,5653 5703,5653 5732,5652 5814,5650 5839,5650 5927,5648 5951,5649 5984,5649 6011,5649 6107,5647"/>
                 <TextEquiv>
                     <Unicode>for £ 1000 each £ 3000.</Unicode>
                 </TextEquiv>
@@ -5671,7 +5671,7 @@ for £ 20 each £ 60.
             </TextLine>
             <TextLine id="r51l2" custom="readingOrder {index:1;}">
                 <Coords points="5257,6022 5742,6022 5804,6032 5810,6061 5387,6068 5363,6068 5258,6068"/>
-                <Baseline points="5257,6057 5311,6059 5336,6059 5387,6058 5424,6058 5537,6057 5562,6056 5804,6052"/>
+                <Baseline points="5257,6056 5311,6059 5336,6059 5387,6058 5424,6058 5537,6057 5562,6056 5804,6052"/>
                 <TextEquiv>
                     <Unicode>(L. S.) Luis Camacho,</Unicode>
                 </TextEquiv>
@@ -5863,7 +5863,7 @@ Notary Public,
             </TextLine>
             <TextLine id="r53l20" custom="readingOrder {index:19;}">
                 <Coords points="6160,1979 6336,1978 6544,1977 6545,1978 6545,2020 6544,2019 6161,2022"/>
-                <Baseline points="6160,2016 6224,2014 6247,2013 6289,2014 6313,2014 6389,2013 6413,2013 6479,2012 6499,2013 6541,2013"/>
+                <Baseline points="6160,2015 6224,2014 6247,2013 6289,2014 6313,2014 6389,2013 6413,2013 6479,2012 6499,2013 6541,2013"/>
                 <TextEquiv>
                     <Unicode>Nr. 26 über 600 ℳ</Unicode>
                 </TextEquiv>
@@ -6115,7 +6115,7 @@ Dierich.</Unicode>
             </TextLine>
             <TextLine id="r57l4" custom="readingOrder {index:3;}">
                 <Coords points="6158,3171 6183,3167 6210,3168 7091,3160 7144,3163 7166,3178 7166,3190 7148,3200 7025,3204 6187,3208 6175,3213 6158,3209"/>
-                <Baseline points="6158,3202 6228,3202 6262,3202 6312,3201 6347,3201 6401,3201 6437,3200 6489,3200 6550,3199 6582,3198 6622,3198 6650,3198 6675,3199 6768,3197 6793,3198 7025,3196 7049,3196 7160,3197"/>
+                <Baseline points="6158,3202 6228,3202 6262,3202 6312,3201 6347,3201 6401,3201 6437,3200 6489,3200 6550,3199 6582,3198 6622,3198 6650,3198 6675,3199 6768,3197 6793,3198 7025,3196 7049,3196 7158,3194"/>
                 <TextEquiv>
                     <Unicode>ſind bei der am 27. v. Mts. ſtattgehabten Aus⸗</Unicode>
                 </TextEquiv>
@@ -6164,7 +6164,7 @@ Dierich.</Unicode>
             </TextLine>
             <TextLine id="r57l11" custom="readingOrder {index:10;}">
                 <Coords points="6208,3475 6273,3473 6294,3471 6430,3468 6872,3465 7157,3465 7163,3503 6915,3507 6460,3509 6235,3511 6222,3508 6208,3509"/>
-                <Baseline points="6213,3510 6236,3506 6273,3506 6313,3505 6349,3505 6455,3505 6489,3503 6573,3502 6611,3502 6647,3501 6672,3501 6693,3501 6717,3500 6783,3501 6804,3501 6849,3502 6872,3502 6933,3501 6957,3500 7042,3500 7069,3499 7157,3498"/>
+                <Baseline points="6212,3508 6236,3506 6273,3506 6313,3505 6349,3505 6455,3505 6489,3503 6573,3502 6611,3502 6647,3501 6672,3501 6693,3501 6717,3500 6783,3501 6804,3501 6849,3502 6872,3502 6933,3501 6957,3500 7042,3500 7069,3499 7157,3498"/>
                 <TextEquiv>
                     <Unicode>c. 17 Stück Litt. C. à 500 ℳ Nr. 0001 0131</Unicode>
                 </TextEquiv>
@@ -6227,7 +6227,7 @@ Dierich.</Unicode>
             </TextLine>
             <TextLine id="r57l20" custom="readingOrder {index:19;}">
                 <Coords points="6159,3864 6408,3860 6820,3856 7036,3856 7157,3857 7156,3897 6532,3903 6406,3904 6310,3901 6161,3904"/>
-                <Baseline points="6160,3898 6193,3896 6216,3896 6382,3895 6407,3894 6528,3893 6555,3893 6597,3893 6652,3892 6725,3892 6751,3891 6796,3892 6820,3892 6991,3891 7014,3891 7051,3891 7117,3890 7154,3890"/>
+                <Baseline points="6160,3897 6193,3896 6216,3896 6382,3895 6407,3894 6528,3893 6555,3893 6597,3893 6652,3892 6725,3892 6751,3891 6796,3892 6820,3892 6991,3891 7014,3891 7051,3891 7117,3890 7154,3890"/>
                 <TextEquiv>
                     <Unicode>in Kenntniß geſetzt, daß vom 1. Oktober d. Js.</Unicode>
                 </TextEquiv>
@@ -6248,7 +6248,7 @@ Dierich.</Unicode>
             </TextLine>
             <TextLine id="r57l23" custom="readingOrder {index:22;}">
                 <Coords points="6159,3993 6267,3991 7007,3987 7019,3985 7157,3986 7161,4025 7077,4029 6451,4033 6249,4033 6161,4035"/>
-                <Baseline points="6159,4028 6213,4027 6249,4027 6451,4025 6486,4024 6544,4024 6588,4023 6616,4023 6648,4023 6746,4022 6783,4021 6868,4021 6906,4021 6968,4021 7007,4022 7157,4020"/>
+                <Baseline points="6160,4027 6213,4027 6249,4027 6451,4025 6486,4024 6544,4024 6588,4023 6616,4023 6648,4023 6746,4022 6783,4021 6868,4021 6906,4021 6968,4021 7007,4022 7157,4020"/>
                 <TextEquiv>
                     <Unicode>der Zinsſcheine pro 1. April 1894 und folgende</Unicode>
                 </TextEquiv>
@@ -6276,7 +6276,7 @@ Dierich.</Unicode>
             </TextLine>
             <TextLine id="r57l27" custom="readingOrder {index:26;}">
                 <Coords points="6160,4168 6255,4166 6328,4165 6566,4162 6665,4165 6970,4160 7005,4160 7031,4161 7155,4171 7161,4202 7031,4203 6854,4206 6426,4206 6163,4207"/>
-                <Baseline points="6160,4202 6231,4202 6255,4202 6453,4200 6476,4200 6540,4199 6566,4199 6620,4199 6637,4199 6854,4197 6878,4197 6921,4197 6945,4197 7084,4196 7110,4195 7155,4195"/>
+                <Baseline points="6162,4201 6231,4202 6255,4202 6453,4200 6476,4200 6540,4199 6566,4199 6620,4199 6637,4199 6854,4197 6878,4197 6921,4197 6945,4197 7084,4196 7110,4195 7155,4195"/>
                 <TextEquiv>
                     <Unicode>dem Bankhauſe M. A. Rothſchild &amp; Söhne er⸗</Unicode>
                 </TextEquiv>
@@ -6474,7 +6474,7 @@ auf Aktien u. Aktien⸗Geſellſch.</Unicode>
             </TextLine>
             <TextLine id="r60l12" custom="readingOrder {index:11;}">
                 <Coords points="6154,5253 6379,5251 6518,5251 6565,5262 6569,5290 6331,5293 6243,5296 6155,5291"/>
-                <Baseline points="6154,5288 6209,5288 6266,5288 6355,5288 6379,5288 6565,5286"/>
+                <Baseline points="6154,5287 6209,5288 6266,5288 6355,5288 6379,5288 6565,5286"/>
                 <TextEquiv>
                     <Unicode>der Herren Actionäre.</Unicode>
                 </TextEquiv>
@@ -6537,7 +6537,7 @@ auf Aktien u. Aktien⸗Geſellſch.</Unicode>
             </TextLine>
             <TextLine id="r60l21" custom="readingOrder {index:20;}">
                 <Coords points="6244,5644 6617,5644 6998,5638 7138,5633 7151,5651 7151,5663 7150,5679 7077,5677 6884,5683 6616,5685 6357,5686 6304,5685 6244,5683"/>
-                <Baseline points="6248,5678 6494,5678 6518,5678 6574,5677 6599,5677 6886,5674 6902,5673 6949,5672 6973,5672 7151,5670"/>
+                <Baseline points="6248,5678 6494,5678 6518,5678 6574,5677 6599,5677 6886,5674 6902,5673 6949,5672 6973,5672 7150,5669"/>
                 <TextEquiv>
                     <Unicode>fungsberichtes des Aufſichtsrathes, die Beſchluß⸗</Unicode>
                 </TextEquiv>
@@ -6649,7 +6649,7 @@ faſſung über die Bilanz und Gewinnvertheilung,
             </TextLine>
             <TextLine id="r62l7" custom="readingOrder {index:6;}">
                 <Coords points="6159,6151 6253,6152 6648,6148 6820,6148 6840,6158 6840,6184 6820,6193 6251,6193 6160,6191"/>
-                <Baseline points="6159,6188 6192,6187 6251,6187 6389,6187 6415,6187 6445,6187 6468,6187 6495,6187 6561,6186 6622,6186 6648,6186 6840,6183"/>
+                <Baseline points="6159,6187 6192,6187 6251,6187 6389,6187 6415,6187 6445,6187 6468,6187 6495,6187 6561,6186 6622,6186 6648,6186 6840,6183"/>
                 <TextEquiv>
                     <Unicode>in Mülheim a. d. Ruhr eingeladen.</Unicode>
                 </TextEquiv>
@@ -6915,7 +6915,7 @@ nach § 8 bezw. § 21 des Statuts diejenigen Actionäre</Unicode>
             </TextLine>
             <TextLine id="r64l15" custom="readingOrder {index:14;}">
                 <Coords points="8344,1756 8449,1754 8802,1752 9081,1752 9108,1754 9130,1762 9137,1793 9081,1795 8949,1796 8623,1797 8449,1797 8345,1797"/>
-                <Baseline points="8344,1792 8424,1791 8449,1791 8688,1789 8710,1789 8778,1789 8802,1789 9129,1788"/>
+                <Baseline points="8344,1791 8424,1791 8449,1791 8688,1789 8710,1789 8778,1789 8802,1789 9129,1788"/>
                 <TextEquiv>
                     <Unicode>Der Vorſitzende des Aufſichtsraths:</Unicode>
                 </TextEquiv>
@@ -6984,7 +6984,7 @@ Leo Hanau.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -6998,7 +6998,7 @@ Leo Hanau.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 5 6</CornerPts>
             </TableCell>
@@ -7012,7 +7012,7 @@ Leo Hanau.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 4 5</CornerPts>
             </TableCell>
@@ -7034,7 +7034,7 @@ Leo Hanau.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7048,7 +7048,7 @@ Leo Hanau.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7066,7 +7066,7 @@ Leo Hanau.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7080,7 +7080,7 @@ Leo Hanau.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7094,7 +7094,7 @@ Leo Hanau.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -7108,7 +7108,7 @@ Leo Hanau.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7122,7 +7122,7 @@ Leo Hanau.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7136,7 +7136,7 @@ Leo Hanau.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -7158,7 +7158,7 @@ Leo Hanau.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -7180,7 +7180,7 @@ Leo Hanau.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -7202,7 +7202,7 @@ Leo Hanau.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -7216,7 +7216,7 @@ Leo Hanau.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7230,7 +7230,7 @@ Leo Hanau.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7238,13 +7238,13 @@ Leo Hanau.</Unicode>
                 <Coords points="7954,2186 7954,2232 8972,2233 9037,2233 9037,2186 8970,2186"/>
                 <TextLine id="TableCell_1643639498820_5990l0" custom="readingOrder {index:0;}">
                     <Coords points="8259,2198 8499,2197 8597,2198 8762,2200 8773,2230 8719,2232 8677,2232 8260,2232"/>
-                    <Baseline points="8262,2231 8380,2232 8404,2232 8471,2232 8498,2232 8596,2232 8622,2232 8644,2232 8669,2232 8765,2231"/>
+                    <Baseline points="8262,2231 8380,2232 8404,2232 8471,2232 8498,2232 8596,2232 8622,2232 8644,2232 8669,2232 8764,2230"/>
                     <TextEquiv>
                         <Unicode>bleiben 342 Stück à 60. —</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -7252,13 +7252,13 @@ Leo Hanau.</Unicode>
                 <Coords points="9037,2186 9037,2233 9180,2233 9179,2186"/>
                 <TextLine id="TableCell_1643639464622_5936l0" custom="readingOrder {index:0;}">
                     <Coords points="9051,2191 9076,2191 9176,2192 9179,2228 9155,2230 9115,2231 9051,2231"/>
-                    <Baseline points="9058,2229 9099,2228 9111,2229 9178,2230"/>
+                    <Baseline points="9058,2229 9099,2228 9111,2229 9177,2228"/>
                     <TextEquiv>
                         <Unicode>20 520</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7272,7 +7272,7 @@ Leo Hanau.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7286,7 +7286,7 @@ Leo Hanau.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -7308,7 +7308,7 @@ Leo Hanau.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -7316,13 +7316,13 @@ Leo Hanau.</Unicode>
                 <Coords points="9037,2233 9038,2278 9182,2278 9180,2233"/>
                 <TextLine id="TableCell_1643639464668_5942l0" custom="readingOrder {index:0;}">
                     <Coords points="9112,2240 9178,2240 9180,2276 9114,2276"/>
-                    <Baseline points="9112,2274 9178,2274"/>
+                    <Baseline points="9113,2273 9178,2274"/>
                     <TextEquiv>
                         <Unicode>302</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7336,7 +7336,7 @@ Leo Hanau.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7350,7 +7350,7 @@ Leo Hanau.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -7364,7 +7364,7 @@ Leo Hanau.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7378,7 +7378,7 @@ Leo Hanau.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7392,7 +7392,7 @@ Leo Hanau.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -7406,7 +7406,7 @@ Leo Hanau.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7414,13 +7414,13 @@ Leo Hanau.</Unicode>
                 <Coords points="9182,2278 9184,2324 9260,2325 9258,2278"/>
                 <TextLine id="TableCell_1643639464713_5946l0" custom="readingOrder {index:0;}">
                     <Coords points="9191,2284 9236,2281 9235,2324 9190,2324 9189,2301"/>
-                    <Baseline points="9195,2313 9236,2311"/>
+                    <Baseline points="9195,2313 9235,2310"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7434,7 +7434,7 @@ Leo Hanau.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -7448,7 +7448,7 @@ Leo Hanau.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7462,7 +7462,7 @@ Leo Hanau.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7496,7 +7496,7 @@ Leo Hanau.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7510,7 +7510,7 @@ Leo Hanau.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7528,7 +7528,7 @@ Leo Hanau.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7542,7 +7542,7 @@ Leo Hanau.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7654,13 +7654,13 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                 <Coords points="7932,2768 7932,2836 8146,2835 8146,2768"/>
                 <TextLine id="TableCell_1643639872037_6343l0" custom="readingOrder {index:0;}">
                     <Coords points="7964,2798 8125,2798 8125,2834 7964,2835"/>
-                    <Baseline points="8018,2835 8066,2834"/>
+                    <Baseline points="8017,2834 8066,2834"/>
                     <TextEquiv>
                         <Unicode>ℳ</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7674,7 +7674,7 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7692,7 +7692,7 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7706,7 +7706,7 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7720,7 +7720,7 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7734,7 +7734,7 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7748,7 +7748,7 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7762,7 +7762,7 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7776,7 +7776,7 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7790,7 +7790,7 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7804,7 +7804,7 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7818,7 +7818,7 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7832,7 +7832,7 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7846,7 +7846,7 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7860,7 +7860,7 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7874,7 +7874,7 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7895,7 +7895,7 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 2 3 5</CornerPts>
             </TableCell>
@@ -7909,7 +7909,7 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 2 3 5</CornerPts>
             </TableCell>
@@ -7923,7 +7923,7 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 2 3 5</CornerPts>
             </TableCell>
@@ -7937,7 +7937,7 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7951,7 +7951,7 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7965,7 +7965,7 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7979,7 +7979,7 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -7987,13 +7987,13 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                 <Coords points="8972,2966 8971,3008 9184,3008 9184,2960"/>
                 <TextLine id="TableCell_1643639912682_6710l0" custom="readingOrder {index:0;}">
                     <Coords points="9069,2967 9122,2964 9180,2964 9182,3005 9126,3005 9070,3004"/>
-                    <Baseline points="9078,3002 9184,3002"/>
+                    <Baseline points="9078,3002 9181,3002"/>
                     <TextEquiv>
                         <Unicode>2 080</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8007,7 +8007,7 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8015,13 +8015,13 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                 <Coords points="7192,3015 7191,3054 7934,3051 7936,3011"/>
                 <TextLine id="TableCell_1643639863986_6259l0" custom="readingOrder {index:0;}">
                     <Coords points="7200,3019 7261,3016 7558,3015 7658,3015 7744,3020 7755,3033 7750,3050 7217,3053 7200,3051"/>
-                    <Baseline points="7200,3051 7236,3051 7261,3051 7477,3052 7502,3052 7535,3052 7558,3052 7747,3049"/>
+                    <Baseline points="7200,3051 7236,3051 7261,3051 7476,3051 7501,3051 7534,3051 7557,3051 7747,3049"/>
                     <TextEquiv>
                         <Unicode>4) Inventarien in Heilbronn</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8035,7 +8035,7 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8043,13 +8043,13 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                 <Coords points="8146,3008 8146,3050 8207,3054 8204,3008"/>
                 <TextLine id="TableCell_1643639886295_6488l0" custom="readingOrder {index:0;}">
                     <Coords points="8151,3015 8178,3012 8191,3013 8193,3049 8172,3051 8151,3049"/>
-                    <Baseline points="8154,3049 8191,3050"/>
+                    <Baseline points="8154,3049 8190,3049"/>
                     <TextEquiv>
                         <Unicode>11</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8063,7 +8063,7 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8077,7 +8077,7 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8091,7 +8091,7 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8105,7 +8105,7 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8119,7 +8119,7 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8133,7 +8133,7 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8141,13 +8141,13 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                 <Coords points="8207,3054 8204,3094 8971,3089 8974,3051"/>
                 <TextLine id="TableCell_1643639903022_6608l0" custom="readingOrder {index:0;}">
                     <Coords points="8234,3058 8463,3057 8596,3053 8658,3058 8684,3059 8681,3089 8233,3094"/>
-                    <Baseline points="8239,3090 8276,3090 8300,3093 8680,3090"/>
+                    <Baseline points="8239,3090 8276,3090 8300,3093 8679,3089"/>
                     <TextEquiv>
                         <Unicode>6) Krankenkaſſen⸗Conto</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8161,7 +8161,7 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8175,7 +8175,7 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8189,7 +8189,7 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8203,7 +8203,7 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8217,7 +8217,7 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8231,7 +8231,7 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8245,7 +8245,7 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8259,7 +8259,7 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8273,7 +8273,7 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8287,7 +8287,7 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8301,7 +8301,7 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8315,7 +8315,7 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8329,7 +8329,7 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8343,7 +8343,7 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8357,7 +8357,7 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8371,7 +8371,7 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8385,7 +8385,7 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8399,7 +8399,7 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8413,7 +8413,7 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8421,13 +8421,13 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                 <Coords points="9183,3176 9183,3232 9261,3232 9261,3176"/>
                 <TextLine id="TableCell_1643639912979_6738l0" custom="readingOrder {index:0;}">
                     <Coords points="9191,3180 9237,3182 9240,3224 9194,3224"/>
-                    <Baseline points="9193,3218 9238,3218"/>
+                    <Baseline points="9193,3217 9238,3218"/>
                     <TextEquiv>
                         <Unicode>32</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8445,7 +8445,7 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8453,13 +8453,13 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                 <Coords points="8146,3232 8147,3290 8205,3289 8205,3232"/>
                 <TextLine id="TableCell_1643639886545_6518l0" custom="readingOrder {index:0;}">
                     <Coords points="8156,3246 8168,3247 8199,3246 8201,3287 8159,3288"/>
-                    <Baseline points="8161,3287 8199,3288"/>
+                    <Baseline points="8161,3287 8198,3287"/>
                     <TextEquiv>
                         <Unicode>14</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8477,7 +8477,7 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8491,7 +8491,7 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8505,7 +8505,7 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 5</CornerPts>
             </TableCell>
@@ -8519,7 +8519,7 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 3 6 7</CornerPts>
             </TableCell>
@@ -8533,7 +8533,7 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -8551,7 +8551,7 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8559,13 +8559,13 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                 <Coords points="8147,3348 8147,3420 8206,3419 8205,3347"/>
                 <TextLine id="TableCell_1643639886632_6530l0" custom="readingOrder {index:0;}">
                     <Coords points="8156,3380 8196,3379 8198,3419 8156,3420"/>
-                    <Baseline points="8162,3420 8196,3418"/>
+                    <Baseline points="8161,3419 8196,3418"/>
                     <TextEquiv>
                         <Unicode>₰</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8583,7 +8583,7 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8597,7 +8597,7 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8611,7 +8611,7 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8625,7 +8625,7 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8639,7 +8639,7 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8653,7 +8653,7 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8667,7 +8667,7 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8681,7 +8681,7 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8695,7 +8695,7 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8709,7 +8709,7 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8723,7 +8723,7 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8744,7 +8744,7 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 2 3 5</CornerPts>
             </TableCell>
@@ -8758,7 +8758,7 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 2 3 5</CornerPts>
             </TableCell>
@@ -8772,7 +8772,7 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 2 3 5</CornerPts>
             </TableCell>
@@ -8786,7 +8786,7 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8800,7 +8800,7 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8814,7 +8814,7 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8832,7 +8832,7 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8846,7 +8846,7 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8864,7 +8864,7 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8878,7 +8878,7 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8892,7 +8892,7 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -8926,7 +8926,7 @@ H. Harder. J. H. Beyn. G. E. P. Elſter.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 4 5</CornerPts>
             </TableCell>
@@ -8985,7 +8985,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -8999,7 +8999,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 4 5</CornerPts>
             </TableCell>
@@ -9013,7 +9013,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -9025,13 +9025,13 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                 <Coords points="7912,3954 8002,4027 8143,4026 8143,3953"/>
                 <TextLine id="TableCell_1643640578159_126l0" custom="readingOrder {index:0;}">
                     <Coords points="8041,3974 8104,3974 8103,4025 8044,4026 8040,4022"/>
-                    <Baseline points="8050,4025 8091,4026"/>
+                    <Baseline points="8050,4025 8090,4025"/>
                     <TextEquiv>
                         <Unicode>ℳ</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9045,7 +9045,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9063,7 +9063,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9077,7 +9077,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9091,7 +9091,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9105,7 +9105,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9113,13 +9113,13 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                 <Coords points="8143,4026 8143,4069 8214,4076 8214,4025"/>
                 <TextLine id="TableCell_1643640581046_180l0" custom="readingOrder {index:0;}">
                     <Coords points="8150,4027 8195,4030 8196,4070 8164,4071 8150,4067"/>
-                    <Baseline points="8153,4068 8191,4068"/>
+                    <Baseline points="8153,4067 8191,4068"/>
                     <TextEquiv>
                         <Unicode>01</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9133,7 +9133,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9147,7 +9147,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9161,7 +9161,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9175,7 +9175,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9189,7 +9189,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9197,13 +9197,13 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                 <Coords points="8143,4069 8143,4117 8214,4121 8214,4076"/>
                 <TextLine id="TableCell_1643640581093_186l0" custom="readingOrder {index:0;}">
                     <Coords points="8149,4074 8167,4075 8177,4075 8194,4075 8192,4117 8148,4115"/>
-                    <Baseline points="8152,4113 8193,4113"/>
+                    <Baseline points="8152,4113 8192,4112"/>
                     <TextEquiv>
                         <Unicode>38</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9217,7 +9217,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9231,7 +9231,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9245,7 +9245,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9266,7 +9266,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9280,7 +9280,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9294,7 +9294,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9308,7 +9308,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9322,7 +9322,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9336,7 +9336,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9350,7 +9350,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9364,7 +9364,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9372,13 +9372,13 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                 <Coords points="8144,4200 8144,4246 8212,4245 8212,4199"/>
                 <TextLine id="TableCell_1643640581184_198l0" custom="readingOrder {index:0;}">
                     <Coords points="8152,4208 8172,4202 8194,4200 8195,4243 8173,4245 8152,4241"/>
-                    <Baseline points="8151,4241 8192,4241"/>
+                    <Baseline points="8152,4241 8192,4241"/>
                     <TextEquiv>
                         <Unicode>53</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9404,7 +9404,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9418,7 +9418,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9432,7 +9432,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9462,7 +9462,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9476,7 +9476,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9494,7 +9494,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9508,7 +9508,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9525,7 +9525,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9539,7 +9539,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 4 5</CornerPts>
             </TableCell>
@@ -9547,13 +9547,13 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                 <Coords points="8929,4356 8956,4418 9180,4417 9253,4417 9253,4355 9180,4355"/>
                 <TextLine id="TableCell_1643640778061_773l0" custom="readingOrder {index:0;}">
                     <Coords points="8966,4366 8998,4363 9154,4363 9185,4371 9190,4399 9155,4402 8967,4402"/>
-                    <Baseline points="8966,4398 9185,4397"/>
+                    <Baseline points="8966,4397 9185,4397"/>
                     <TextEquiv>
                         <Unicode>Passiva.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -9571,7 +9571,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9585,7 +9585,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9603,7 +9603,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9617,7 +9617,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9631,7 +9631,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9645,7 +9645,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9659,7 +9659,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9673,7 +9673,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9687,7 +9687,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9701,7 +9701,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9715,7 +9715,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9729,7 +9729,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9743,7 +9743,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9757,7 +9757,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9771,7 +9771,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9785,7 +9785,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9799,7 +9799,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9813,7 +9813,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9827,7 +9827,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9841,7 +9841,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9863,7 +9863,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9877,7 +9877,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9891,7 +9891,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9905,7 +9905,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9919,7 +9919,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9933,7 +9933,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9947,7 +9947,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9961,7 +9961,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9975,7 +9975,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -9989,7 +9989,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10003,7 +10003,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10011,13 +10011,13 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                 <Coords points="9179,4659 9179,4702 9253,4702 9253,4659"/>
                 <TextLine id="TableCell_1643640761066_694l0" custom="readingOrder {index:0;}">
                     <Coords points="9188,4664 9243,4664 9243,4699 9188,4699"/>
-                    <Baseline points="9186,4694 9231,4694"/>
+                    <Baseline points="9188,4694 9231,4694"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10031,7 +10031,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10039,13 +10039,13 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                 <Coords points="7932,4712 7931,4757 8142,4755 8142,4710"/>
                 <TextLine id="TableCell_1643640736019_503l0" custom="readingOrder {index:0;}">
                     <Coords points="8059,4719 8089,4713 8136,4712 8138,4754 8104,4755 8059,4753"/>
-                    <Baseline points="8066,4753 8140,4752"/>
+                    <Baseline points="8066,4753 8137,4752"/>
                     <TextEquiv>
                         <Unicode>915</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10059,7 +10059,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10073,7 +10073,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10087,7 +10087,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10101,7 +10101,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10115,7 +10115,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10129,7 +10129,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10143,7 +10143,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10157,7 +10157,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10165,13 +10165,13 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                 <Coords points="8960,4751 8959,4795 9178,4794 9178,4747"/>
                 <TextLine id="TableCell_1643640761175_708l0" custom="readingOrder {index:0;}">
                     <Coords points="9040,4751 9083,4753 9128,4751 9176,4752 9178,4792 9073,4794 9040,4795"/>
-                    <Baseline points="9052,4788 9077,4790 9107,4789 9178,4790"/>
+                    <Baseline points="9052,4788 9077,4790 9107,4789 9177,4790"/>
                     <TextEquiv>
                         <Unicode>29 818</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10185,7 +10185,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10199,7 +10199,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10207,13 +10207,13 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                 <Coords points="7932,4805 7931,4856 8140,4853 8141,4799"/>
                 <TextLine id="TableCell_1643640736114_515l0" custom="readingOrder {index:0;}">
                     <Coords points="8071,4807 8106,4804 8137,4803 8139,4847 8111,4845 8065,4844"/>
-                    <Baseline points="8071,4840 8140,4839"/>
+                    <Baseline points="8071,4840 8138,4839"/>
                     <TextEquiv>
                         <Unicode>169</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10227,7 +10227,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10241,7 +10241,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10255,7 +10255,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10269,7 +10269,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10287,7 +10287,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10301,7 +10301,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10319,7 +10319,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10333,7 +10333,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10354,7 +10354,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 4 5</CornerPts>
             </TableCell>
@@ -10362,13 +10362,13 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                 <Coords points="8204,4915 8204,5019 8961,5019 9177,5019 9253,5019 9253,4906 9178,4906 8960,4908"/>
                 <TextLine id="TableCell_1643640841592_801l0" custom="readingOrder {index:0;}">
                     <Coords points="8370,4965 8477,4962 8752,4962 8773,4976 8772,4999 8752,5004 8702,5005 8477,5005 8371,5007"/>
-                    <Baseline points="8370,5002 8452,5001 8477,5000 8768,4996"/>
+                    <Baseline points="8370,5001 8452,5001 8477,5000 8768,4996"/>
                     <TextEquiv>
                         <Unicode>Der Aufſichtsrath.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 4 5</CornerPts>
             </TableCell>
@@ -10411,7 +10411,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10425,7 +10425,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 4 5</CornerPts>
             </TableCell>
@@ -10439,7 +10439,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -10457,7 +10457,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10471,7 +10471,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10489,7 +10489,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10503,7 +10503,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10517,7 +10517,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10531,7 +10531,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10545,7 +10545,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10559,7 +10559,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10573,7 +10573,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10587,7 +10587,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10601,7 +10601,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10623,7 +10623,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10645,7 +10645,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10653,13 +10653,13 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                 <Coords points="7928,5341 7928,5393 8134,5390 8133,5339"/>
                 <TextLine id="TableCell_1643641090987_1057l0" custom="readingOrder {index:0;}">
                     <Coords points="8031,5347 8089,5346 8109,5346 8133,5347 8132,5385 8030,5385"/>
-                    <Baseline points="8035,5382 8053,5382 8069,5382 8133,5382"/>
+                    <Baseline points="8035,5382 8053,5382 8069,5382 8132,5381"/>
                     <TextEquiv>
                         <Unicode>7 174</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10673,7 +10673,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10687,7 +10687,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10701,7 +10701,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10715,7 +10715,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10729,7 +10729,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10751,7 +10751,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10765,7 +10765,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10773,13 +10773,13 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                 <Coords points="9174,5380 9174,5432 9244,5432 9243,5380"/>
                 <TextLine id="TableCell_1643641117218_1279l0" custom="readingOrder {index:0;}">
                     <Coords points="9182,5385 9233,5388 9238,5428 9185,5428 9179,5415"/>
-                    <Baseline points="9183,5424 9228,5424"/>
+                    <Baseline points="9183,5423 9228,5424"/>
                     <TextEquiv>
                         <Unicode>54</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10793,7 +10793,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10815,7 +10815,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10829,7 +10829,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10843,7 +10843,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10857,7 +10857,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10891,7 +10891,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10905,7 +10905,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10919,7 +10919,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10945,7 +10945,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10953,13 +10953,13 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                 <Coords points="7927,5574 7926,5622 8137,5618 8137,5572"/>
                 <TextLine id="TableCell_1643641091283_1087l0" custom="readingOrder {index:0;}">
                     <Coords points="8004,5578 8133,5577 8132,5616 8002,5619"/>
-                    <Baseline points="8014,5619 8129,5616"/>
+                    <Baseline points="8013,5618 8129,5616"/>
                     <TextEquiv>
                         <Unicode>80 891</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10967,13 +10967,13 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                 <Coords points="8137,5572 8137,5618 8208,5616 8206,5571"/>
                 <TextLine id="TableCell_1643641101869_1160l0" custom="readingOrder {index:0;}">
                     <Coords points="8145,5577 8187,5577 8189,5617 8145,5618"/>
-                    <Baseline points="8146,5616 8190,5616"/>
+                    <Baseline points="8146,5616 8188,5616"/>
                     <TextEquiv>
                         <Unicode>54</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -10999,7 +10999,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11013,7 +11013,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11021,13 +11021,13 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                 <Coords points="8137,5618 8138,5672 8209,5671 8208,5616"/>
                 <TextLine id="TableCell_1643641101916_1166l0" custom="readingOrder {index:0;}">
                     <Coords points="8147,5643 8145,5623 8171,5623 8189,5625 8190,5667 8144,5665"/>
-                    <Baseline points="8149,5665 8190,5665"/>
+                    <Baseline points="8149,5665 8189,5665"/>
                     <TextEquiv>
                         <Unicode>85</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11057,7 +11057,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11071,7 +11071,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11089,7 +11089,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11103,7 +11103,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11120,7 +11120,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11134,7 +11134,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 4 5</CornerPts>
             </TableCell>
@@ -11148,7 +11148,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -11160,13 +11160,13 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                 <Coords points="7817,5816 7925,5889 8137,5887 8137,5813"/>
                 <TextLine id="TableCell_1643641286200_1479l0" custom="readingOrder {index:0;}">
                     <Coords points="8018,5854 8076,5854 8080,5887 8014,5887"/>
-                    <Baseline points="8021,5888 8068,5887"/>
+                    <Baseline points="8021,5887 8068,5887"/>
                     <TextEquiv>
                         <Unicode>ℳ</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11180,7 +11180,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11198,7 +11198,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11212,7 +11212,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11226,7 +11226,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11240,7 +11240,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11254,7 +11254,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11268,7 +11268,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11282,7 +11282,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11296,7 +11296,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11310,7 +11310,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11324,7 +11324,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11338,7 +11338,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11352,7 +11352,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11366,7 +11366,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11380,7 +11380,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11394,7 +11394,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11408,7 +11408,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11422,7 +11422,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11436,7 +11436,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11450,7 +11450,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11464,7 +11464,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11478,7 +11478,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11492,7 +11492,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11506,7 +11506,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11532,7 +11532,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11546,7 +11546,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11560,7 +11560,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11586,7 +11586,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11600,7 +11600,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11614,7 +11614,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11644,7 +11644,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11658,7 +11658,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11676,7 +11676,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11690,7 +11690,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -11704,7 +11704,7 @@ Neunter Rechnungsabſchluß für das Jahr 1892.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 7 8</CornerPts>
             </TableCell>

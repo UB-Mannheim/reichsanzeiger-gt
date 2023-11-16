@@ -1,19 +1,19 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
     <Metadata>
         <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.7.6:model_id=40804:lm=none:date=12_10_2022_17:56
 prov=READ-COOP:name=PyLaia@Transkribus:version=0.7.6:model_id=40804:date=12_10_2022_17:56
 Transkribus</Creator>
         <Created>2021-12-13T20:28:32.491+01:00</Created>
-        <LastChange>2022-12-07T16:02:01.331+01:00</LastChange>
-        <TranskribusMetadata docId="1148633" pageId="47063972" pageNr="6" tsid="105747617" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=HPUBKXCCJNVFSAFRTYYACMSA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QBTYMPKGYOAXULERJJIVEKZP" imageId="38432648"/>
+        <LastChange>2023-11-15T20:41:36.992+01:00</LastChange>
+        <TranskribusMetadata docId="1148633" pageId="47063972" pageNr="6" tsid="139840147" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=HPUBKXCCJNVFSAFRTYYACMSA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UCHMGYSOULAZSFIENKVLLAEY" imageId="38432648"/>
     </Metadata>
     <Page imageFilename="1938_1_0006.jpg" imageWidth="9512" imageHeight="7688">
         <PrintSpace>
             <Coords points="289,231 9335,288 9299,6954 289,6954"/>
         </PrintSpace>
         <ReadingOrder>
-            <OrderedGroup id="ro_1690359968285" caption="Regions reading order">
+            <OrderedGroup id="ro_1700129710775" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
                 <RegionRefIndexed index="1" regionRef="r2"/>
                 <RegionRefIndexed index="2" regionRef="r3"/>
@@ -82,7 +82,7 @@ Transkribus</Creator>
             </TextLine>
             <TextLine id="r2l4" custom="readingOrder {index:3;}">
                 <Coords points="537,698 920,697 1165,697 1713,701 1713,737 1689,738 1165,748 897,748 759,746 612,741 537,735"/>
-                <Baseline points="537,735 629,736 659,736 842,737 897,737 1165,740 1227,738 1288,737 1330,739 1573,736 1632,736 1716,734"/>
+                <Baseline points="537,735 629,736 659,736 842,737 897,737 1165,740 1227,738 1288,737 1330,739 1573,736 1632,736 1713,734"/>
                 <TextEquiv>
                     <Unicode>des Königlich Italieniſchen St. Mauritius⸗ und</Unicode>
                 </TextEquiv>
@@ -124,14 +124,14 @@ Transkribus</Creator>
             </TextLine>
             <TextLine id="r2l10" custom="readingOrder {index:9;}">
                 <Coords points="372,993 408,993 1642,998 1692,1010 1708,1017 1708,1030 1692,1038 1666,1048 1528,1049 1354,1049 787,1046 463,1043 372,1032"/>
-                <Baseline points="372,1031 759,1034 787,1034 876,1035 959,1036 1110,1037 1141,1037 1290,1038 1331,1037 1527,1038 1559,1036 1711,1036"/>
+                <Baseline points="372,1031 759,1034 787,1034 876,1035 959,1036 1110,1037 1141,1037 1290,1038 1331,1037 1527,1038 1559,1036 1708,1030"/>
                 <TextEquiv>
                     <Unicode>Kraftwagenführer Fritz Spors, Berlin, Königlich Bulga⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l11" custom="readingOrder {index:10;}">
                 <Coords points="533,1057 556,1045 600,1045 1052,1048 1177,1048 1206,1049 1236,1061 1236,1088 1052,1095 600,1095 578,1095 556,1094 533,1083"/>
-                <Baseline points="531,1081 666,1084 835,1086 862,1086 1236,1087"/>
+                <Baseline points="533,1081 666,1084 835,1086 862,1086 1236,1087"/>
                 <TextEquiv>
                     <Unicode>riſche Silberne Verdienſtmedaille.</Unicode>
                 </TextEquiv>
@@ -152,7 +152,7 @@ Transkribus</Creator>
             </TextLine>
             <TextLine id="r2l14" custom="readingOrder {index:13;}">
                 <Coords points="373,1193 437,1193 1661,1196 1706,1202 1706,1235 1616,1247 1392,1247 1217,1246 543,1242 405,1241 373,1231"/>
-                <Baseline points="372,1230 515,1231 543,1233 606,1234 631,1234 779,1234 839,1234 895,1234 922,1235 1295,1235 1345,1236 1616,1235 1639,1235 1706,1235"/>
+                <Baseline points="373,1230 515,1231 543,1233 606,1234 631,1234 779,1234 839,1234 895,1234 922,1235 1295,1235 1345,1236 1616,1235 1639,1235 1706,1235"/>
                 <TextEquiv>
                     <Unicode>Major (E) Konrad von Steinhäuſer, Offizierkreuz des</Unicode>
                 </TextEquiv>
@@ -201,7 +201,7 @@ Transkribus</Creator>
             </TextLine>
             <TextLine id="r2l21" custom="readingOrder {index:20;}">
                 <Coords points="527,1544 618,1542 666,1542 1649,1544 1681,1555 1700,1563 1700,1576 1681,1592 1093,1593 1000,1593 641,1592 527,1580"/>
-                <Baseline points="527,1580 590,1580 618,1580 802,1582 828,1581 1093,1583 1120,1583 1183,1583 1215,1583 1456,1583 1484,1583 1558,1583 1586,1583 1701,1582"/>
+                <Baseline points="527,1580 590,1580 618,1580 802,1582 828,1581 1093,1583 1120,1583 1183,1583 1215,1583 1456,1583 1484,1583 1558,1583 1586,1583 1697,1577"/>
                 <TextEquiv>
                     <Unicode>des Königlich Italieniſchen St. Mauritius⸗ und Laza⸗</Unicode>
                 </TextEquiv>
@@ -243,14 +243,14 @@ Transkribus</Creator>
             </TextLine>
             <TextLine id="r2l27" custom="readingOrder {index:26;}">
                 <Coords points="524,1840 543,1840 1247,1843 1288,1855 1288,1880 1152,1890 543,1882 524,1882"/>
-                <Baseline points="524,1878 588,1879 615,1879 765,1879 790,1879 848,1879 872,1880 997,1880 1023,1880 1094,1880 1122,1880 1290,1879"/>
+                <Baseline points="524,1878 588,1879 615,1879 765,1879 790,1879 848,1879 872,1880 997,1880 1023,1880 1094,1880 1122,1880 1288,1879"/>
                 <TextEquiv>
                     <Unicode>des Ordens der Krone von Italien.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l28" custom="readingOrder {index:27;}">
                 <Coords points="363,1888 600,1888 1653,1890 1696,1902 1696,1937 1417,1938 1064,1939 642,1939 383,1937 363,1927"/>
-                <Baseline points="362,1927 599,1928 642,1929 1064,1929 1105,1929 1205,1929 1250,1929 1501,1929 1543,1929 1696,1929"/>
+                <Baseline points="363,1927 599,1928 642,1929 1064,1929 1105,1929 1205,1929 1250,1929 1501,1929 1543,1929 1696,1929"/>
                 <TextEquiv>
                     <Unicode>Techniſcher Telegrapheninſpektor Kurt Tſchache, Berlin,</Unicode>
                 </TextEquiv>
@@ -285,7 +285,7 @@ Transkribus</Creator>
             </TextLine>
             <TextLine id="r2l33" custom="readingOrder {index:32;}">
                 <Coords points="361,2137 729,2137 1669,2138 1694,2142 1694,2176 1570,2187 1096,2187 386,2186 361,2178"/>
-                <Baseline points="360,2177 728,2176 777,2177 944,2177 999,2177 1249,2177 1302,2176 1569,2176 1626,2176 1693,2175"/>
+                <Baseline points="361,2177 728,2176 777,2177 944,2177 999,2177 1249,2177 1302,2176 1569,2176 1626,2176 1693,2175"/>
                 <TextEquiv>
                     <Unicode>Korvettenkapitän Gerhard Wagner, Offizierkreuz des</Unicode>
                 </TextEquiv>
@@ -306,7 +306,7 @@ Transkribus</Creator>
             </TextLine>
             <TextLine id="r2l36" custom="readingOrder {index:35;}">
                 <Coords points="520,2287 1140,2287 1181,2299 1181,2328 1048,2336 1015,2336 520,2326"/>
-                <Baseline points="520,2326 678,2326 701,2326 757,2326 777,2326 898,2326 921,2326 993,2326 1015,2326 1183,2325"/>
+                <Baseline points="520,2326 678,2326 701,2326 757,2326 777,2326 898,2326 921,2326 993,2326 1015,2326 1181,2325"/>
                 <TextEquiv>
                     <Unicode>Ordens der Krone von Italien.</Unicode>
                 </TextEquiv>
@@ -432,7 +432,7 @@ Transkribus</Creator>
             </TextLine>
             <TextLine id="r2l54" custom="readingOrder {index:53;}">
                 <Coords points="393,3196 417,3183 1512,3178 1686,3178 1686,3226 1615,3227 1343,3230 430,3232 417,3232 393,3223"/>
-                <Baseline points="391,3219 540,3221 567,3221 640,3221 669,3221 842,3221 871,3220 1083,3220 1110,3220 1376,3219 1398,3218 1464,3218 1490,3218 1686,3216"/>
+                <Baseline points="393,3219 540,3221 567,3221 640,3221 669,3221 842,3221 871,3220 1083,3220 1110,3220 1376,3219 1398,3218 1464,3218 1490,3218 1686,3216"/>
                 <TextEquiv>
                     <Unicode>eferent Dr. Friedrich Willis, Offizierkreuz des Königlich</Unicode>
                 </TextEquiv>
@@ -467,7 +467,7 @@ Transkribus</Creator>
             </TextLine>
             <TextLine id="r2l59" custom="readingOrder {index:58;}">
                 <Coords points="512,3432 1473,3425 1671,3425 1688,3443 1688,3456 1671,3474 1394,3477 779,3481 753,3481 512,3471"/>
-                <Baseline points="512,3469 779,3469 830,3469 891,3469 942,3470 1132,3468 1183,3467 1435,3466 1473,3466 1687,3464"/>
+                <Baseline points="512,3469 779,3469 830,3469 891,3469 942,3470 1132,3468 1183,3467 1435,3466 1473,3466 1683,3460"/>
                 <TextEquiv>
                     <Unicode>Komturkreuz des Königlich Ungariſchen Verdienſt⸗</Unicode>
                 </TextEquiv>
@@ -481,7 +481,7 @@ Transkribus</Creator>
             </TextLine>
             <TextLine id="r2l61" custom="readingOrder {index:60;}">
                 <Coords points="364,3542 381,3531 1498,3526 1626,3526 1670,3537 1687,3543 1687,3557 1670,3564 1626,3575 1341,3578 664,3582 381,3582 357,3575"/>
-                <Baseline points="357,3572 664,3570 693,3571 824,3570 852,3570 963,3569 1026,3569 1085,3569 1112,3568 1357,3566 1412,3565 1688,3563"/>
+                <Baseline points="357,3572 664,3570 693,3571 824,3570 852,3570 963,3569 1026,3569 1085,3569 1112,3568 1357,3566 1412,3565 1685,3557"/>
                 <TextEquiv>
                     <Unicode>Miniſterialrat Guſtav Adolf von Wulffen, Großoffizier⸗</Unicode>
                 </TextEquiv>
@@ -516,7 +516,7 @@ Transkribus</Creator>
             </TextLine>
             <TextLine id="r2l66" custom="readingOrder {index:65;}">
                 <Coords points="511,3783 537,3782 852,3779 1317,3776 1505,3777 1685,3785 1685,3812 1393,3826 1020,3829 639,3830 537,3830 511,3821"/>
-                <Baseline points="511,3821 724,3820 749,3820 807,3820 832,3819 1020,3818 1048,3818 1393,3816 1424,3815 1578,3814 1608,3814 1686,3813"/>
+                <Baseline points="511,3821 724,3820 749,3820 807,3820 832,3819 1020,3818 1048,3818 1393,3816 1424,3815 1578,3814 1608,3814 1685,3812"/>
                 <TextEquiv>
                     <Unicode>Großkreuz des Königlich Niederländiſchen Ordens von</Unicode>
                 </TextEquiv>
@@ -530,7 +530,7 @@ Transkribus</Creator>
             </TextLine>
             <TextLine id="r2l68" custom="readingOrder {index:67;}">
                 <Coords points="350,3882 1357,3876 1584,3875 1618,3875 1654,3880 1685,3892 1685,3906 1649,3922 1618,3924 401,3934 350,3934"/>
-                <Baseline points="350,3923 614,3921 649,3921 707,3920 735,3920 791,3919 825,3919 1024,3918 1058,3917 1259,3916 1293,3916 1338,3915 1357,3915 1407,3915 1443,3914 1549,3913 1584,3913 1686,3913"/>
+                <Baseline points="350,3923 614,3921 649,3921 707,3920 735,3920 791,3919 825,3919 1024,3918 1058,3917 1259,3916 1293,3916 1338,3915 1357,3915 1407,3915 1443,3914 1549,3913 1584,3913 1683,3906"/>
                 <TextEquiv>
                     <Unicode>Flugkapitän bei der Deutſchen Lufthanſa A. G. Hans Zy⸗</Unicode>
                 </TextEquiv>
@@ -632,7 +632,7 @@ wina, Orden der Jugoſlawiſchen Krone 5. Klaſſe.</Unicode>
             </TextLine>
             <TextLine id="r3l3" custom="readingOrder {index:2;}">
                 <Coords points="345,4213 755,4210 1433,4206 1664,4205 1688,4205 1688,4241 1456,4251 1317,4255 616,4258 592,4258 345,4250"/>
-                <Baseline points="344,4249 616,4249 661,4249 730,4249 755,4249 1126,4246 1168,4246 1254,4245 1284,4245 1555,4242 1597,4242 1687,4241"/>
+                <Baseline points="345,4249 616,4249 661,4249 730,4249 755,4249 1126,4246 1168,4246 1254,4245 1284,4245 1555,4242 1597,4242 1687,4241"/>
                 <TextEquiv>
                     <Unicode>Aenderung der Wertberechnung von Hypotheken und</Unicode>
                 </TextEquiv>
@@ -667,14 +667,14 @@ wina, Orden der Jugoſlawiſchen Krone 5. Klaſſe.</Unicode>
             </TextLine>
             <TextLine id="r3l8" custom="readingOrder {index:7;}">
                 <Coords points="487,4463 625,4462 1232,4458 1291,4458 1354,4459 1369,4476 1369,4487 1354,4493 1321,4494 955,4503 862,4505 625,4505 487,4500"/>
-                <Baseline points="487,4500 522,4500 541,4499 684,4499 702,4499 862,4498 882,4498 955,4497 973,4497 1041,4498 1058,4497 1214,4495 1232,4494 1371,4492"/>
+                <Baseline points="487,4500 522,4500 541,4499 684,4499 702,4499 862,4498 882,4498 955,4497 973,4497 1041,4498 1058,4497 1214,4495 1232,4494 1369,4487"/>
                 <TextEquiv>
                     <Unicode>in deutſche Währung nach dem Berliner Mittel⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l9" custom="readingOrder {index:8;}">
                 <Coords points="558,4509 660,4506 1301,4502 1332,4502 1372,4519 1372,4532 1352,4539 1332,4544 1105,4549 896,4549 830,4548 576,4544 558,4543"/>
-                <Baseline points="560,4542 634,4543 660,4543 712,4543 734,4543 778,4543 804,4543 969,4542 994,4542 1105,4540 1132,4540 1207,4540 1245,4539 1274,4539 1301,4539 1371,4539"/>
+                <Baseline points="560,4542 634,4543 660,4543 712,4543 734,4543 778,4543 804,4543 969,4542 994,4542 1105,4540 1132,4540 1207,4540 1245,4539 1274,4539 1301,4539 1368,4533"/>
                 <TextEquiv>
                     <Unicode>kurs für ein engliſches Pfund vom 3. Ja⸗</Unicode>
                 </TextEquiv>
@@ -750,7 +750,7 @@ Reinhardt.</Unicode>
             </TextLine>
             <TextLine id="r4l2" custom="readingOrder {index:1;}">
                 <Coords points="352,5041 627,5038 1222,5033 1644,5033 1686,5037 1686,5072 1466,5088 473,5092 354,5085"/>
-                <Baseline points="352,5080 566,5080 605,5080 1068,5078 1106,5077 1180,5077 1222,5077 1686,5072"/>
+                <Baseline points="353,5079 566,5080 605,5080 1068,5078 1106,5077 1180,5077 1222,5077 1686,5072"/>
                 <TextEquiv>
                     <Unicode>betreffend Ungültigkeitserklärung von Sprengſtofferlaubnis⸗</Unicode>
                 </TextEquiv>
@@ -803,7 +803,7 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -825,7 +825,7 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                 </TextLine>
                 <TextLine id="line_1664451254183_1510" custom="readingOrder {index:2;}">
                     <Coords points="1018,5404 1191,5406 1188,5448 1017,5449"/>
-                    <Baseline points="1018,5439 1189,5439"/>
+                    <Baseline points="1018,5439 1188,5438"/>
                     <TextEquiv>
                         <Unicode>Jahr der</Unicode>
                     </TextEquiv>
@@ -838,7 +838,7 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -853,27 +853,27 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                 </TextLine>
                 <TextLine id="TableCell_1658221455569_15466l2" custom="readingOrder {index:1;}">
                     <Coords points="1282,5361 1317,5360 1348,5360 1668,5362 1669,5398 1628,5399 1283,5399"/>
-                    <Baseline points="1282,5396 1360,5395 1385,5394 1421,5394 1443,5393 1667,5395"/>
+                    <Baseline points="1282,5395 1360,5395 1385,5394 1421,5394 1443,5393 1667,5395"/>
                     <TextEquiv>
                         <Unicode>GR. = Gewerberat</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="TableCell_1658221455569_15466l3" custom="readingOrder {index:2;}">
                     <Coords points="1282,5405 1610,5405 1648,5415 1665,5420 1665,5432 1648,5443 1534,5451 1445,5451 1283,5442"/>
-                    <Baseline points="1282,5440 1360,5440 1386,5440 1422,5440 1445,5440 1665,5439"/>
+                    <Baseline points="1282,5439 1360,5440 1386,5440 1422,5440 1445,5440 1661,5434"/>
                     <TextEquiv>
                         <Unicode>BR. = Bergrevier⸗</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="TableCell_1658221455569_15466l4" custom="readingOrder {index:3;}">
                     <Coords points="1371,5450 1455,5450 1504,5452 1523,5461 1523,5486 1435,5486 1395,5484 1371,5485"/>
-                    <Baseline points="1371,5483 1525,5483"/>
+                    <Baseline points="1371,5483 1523,5483"/>
                     <TextEquiv>
                         <Unicode>beamter</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -891,7 +891,7 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -905,7 +905,7 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -919,7 +919,7 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -933,7 +933,7 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -954,7 +954,7 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -968,7 +968,7 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -982,7 +982,7 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1003,7 +1003,7 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1011,13 +1011,13 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                 <Coords points="960,5784 960,5871 1241,5871 1241,5784"/>
                 <TextLine id="TableCell_1658221452026_15404l0" custom="readingOrder {index:0;}">
                     <Coords points="992,5830 1205,5830 1205,5861 1116,5868 1106,5868 992,5860"/>
-                    <Baseline points="994,5861 1020,5860 1062,5861 1205,5861"/>
+                    <Baseline points="994,5860 1020,5860 1062,5861 1205,5861"/>
                     <TextEquiv>
                         <Unicode>B 12/1929</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1031,7 +1031,7 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1052,7 +1052,7 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1066,7 +1066,7 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1074,13 +1074,13 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                 <Coords points="1241,5871 1241,5957 1694,5957 1694,5871"/>
                 <TextLine id="TableCell_1658221448911_15392l1" custom="readingOrder {index:0;}">
                     <Coords points="1283,5918 1529,5915 1528,5951 1472,5961 1383,5957 1285,5954"/>
-                    <Baseline points="1283,5952 1360,5952 1392,5952 1528,5951"/>
+                    <Baseline points="1284,5951 1360,5952 1392,5952 1528,5951"/>
                     <TextEquiv>
                         <Unicode>GR. Glogau</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1094,7 +1094,7 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1108,7 +1108,7 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1116,13 +1116,13 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                 <Coords points="1241,5957 1241,6003 1694,6003 1694,5957"/>
                 <TextLine id="TableCell_1658221446653_15374l1" custom="readingOrder {index:0;}">
                     <Coords points="1284,5962 1356,5962 1490,5961 1529,5974 1528,6000 1470,6006 1283,6000"/>
-                    <Baseline points="1281,5995 1363,5996 1391,5996 1526,5997"/>
+                    <Baseline points="1283,5995 1363,5996 1391,5996 1526,5997"/>
                     <TextEquiv>
                         <Unicode>GR. Wetzlar</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1143,7 +1143,7 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1157,7 +1157,7 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1171,7 +1171,7 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1185,7 +1185,7 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1199,7 +1199,7 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1213,7 +1213,7 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1227,7 +1227,7 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1241,7 +1241,7 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1255,7 +1255,7 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1263,7 +1263,7 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                 <Coords points="326,6183 326,6269 960,6269 960,6183"/>
                 <TextLine id="TableCell_1658221435311_15290l1" custom="readingOrder {index:0;}">
                     <Coords points="352,6188 648,6186 819,6185 868,6185 911,6195 926,6200 926,6212 911,6219 868,6227 768,6228 532,6229 352,6222"/>
-                    <Baseline points="352,6221 592,6220 648,6220 768,6220 819,6219 927,6218"/>
+                    <Baseline points="352,6221 592,6220 648,6220 768,6220 819,6219 924,6212"/>
                     <TextEquiv>
                         <Unicode>Geldmacher, Albert, Eſſen⸗</Unicode>
                     </TextEquiv>
@@ -1276,7 +1276,7 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1290,7 +1290,7 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1298,13 +1298,13 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                 <Coords points="1241,6183 1241,6269 1694,6269 1694,6183"/>
                 <TextLine id="TableCell_1658221435340_15302l1" custom="readingOrder {index:0;}">
                     <Coords points="1282,6229 1317,6228 1480,6228 1542,6238 1542,6265 1476,6273 1415,6269 1283,6267"/>
-                    <Baseline points="1282,6264 1361,6263 1392,6263 1542,6262"/>
+                    <Baseline points="1282,6263 1361,6263 1392,6263 1542,6262"/>
                     <TextEquiv>
                         <Unicode>BR. Bochum</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1312,13 +1312,13 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                 <Coords points="326,6269 326,6318 960,6318 960,6269"/>
                 <TextLine id="TableCell_1658221432487_15272l0" custom="readingOrder {index:0;}">
                     <Coords points="350,6274 505,6274 818,6274 818,6310 762,6317 350,6320"/>
-                    <Baseline points="350,6309 599,6307 619,6307 673,6308 694,6308 819,6306"/>
+                    <Baseline points="350,6309 599,6307 619,6307 673,6308 694,6308 818,6306"/>
                     <TextEquiv>
                         <Unicode>Hochhäusler, H., Wetzlar</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1326,13 +1326,13 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                 <Coords points="960,6269 960,6318 1241,6318 1241,6269"/>
                 <TextLine id="TableCell_1658221432499_15278l0" custom="readingOrder {index:0;}">
                     <Coords points="991,6273 1205,6274 1200,6308 1105,6314 991,6307"/>
-                    <Baseline points="990,6304 1020,6303 1058,6305 1198,6305"/>
+                    <Baseline points="991,6304 1020,6303 1058,6305 1198,6305"/>
                     <TextEquiv>
                         <Unicode>B 37/1937</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1340,13 +1340,13 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                 <Coords points="1241,6269 1241,6318 1694,6318 1694,6269"/>
                 <TextLine id="TableCell_1658221432516_15284l0" custom="readingOrder {index:0;}">
                     <Coords points="1281,6274 1373,6274 1528,6277 1528,6309 1461,6316 1283,6310"/>
-                    <Baseline points="1281,6307 1359,6307 1390,6307 1525,6306"/>
+                    <Baseline points="1282,6306 1359,6307 1390,6307 1525,6306"/>
                     <TextEquiv>
                         <Unicode>GR. Wetzlar</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1361,13 +1361,13 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                 </TextLine>
                 <TextLine id="line_1664452063942_1608" custom="readingOrder {index:1;}">
                     <Coords points="399,6362 629,6367 630,6408 401,6401"/>
-                    <Baseline points="398,6394 629,6396"/>
+                    <Baseline points="400,6393 629,6396"/>
                     <TextEquiv>
                         <Unicode>Kr. Bitburg</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1381,7 +1381,7 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1395,7 +1395,7 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1403,13 +1403,13 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                 <Coords points="326,6399 326,6447 960,6447 960,6399"/>
                 <TextLine id="TableCell_1658221426491_15236l1" custom="readingOrder {index:0;}">
                     <Coords points="352,6408 612,6408 640,6408 802,6405 813,6432 813,6441 588,6450 351,6454"/>
-                    <Baseline points="349,6443 464,6442 486,6442 592,6442 612,6441 813,6440"/>
+                    <Baseline points="351,6443 464,6442 486,6442 592,6442 612,6441 813,6440"/>
                     <TextEquiv>
                         <Unicode>Horſt, Paul, Herbede⸗R.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1417,13 +1417,13 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                 <Coords points="960,6399 960,6447 1241,6447 1241,6399"/>
                 <TextLine id="TableCell_1658221426501_15242l0" custom="readingOrder {index:0;}">
                     <Coords points="991,6405 1203,6406 1203,6440 1109,6446 991,6439"/>
-                    <Baseline points="992,6435 1050,6435 1109,6436 1204,6437"/>
+                    <Baseline points="992,6435 1050,6435 1109,6436 1203,6437"/>
                     <TextEquiv>
                         <Unicode>B 4/1929</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1437,7 +1437,7 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1445,13 +1445,13 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                 <Coords points="326,6447 326,6494 960,6494 960,6447"/>
                 <TextLine id="TableCell_1658221423329_15218l0" custom="readingOrder {index:0;}">
                     <Coords points="397,6451 427,6452 526,6451 526,6486 490,6496 397,6487"/>
-                    <Baseline points="396,6484 525,6485"/>
+                    <Baseline points="397,6484 525,6485"/>
                     <TextEquiv>
                         <Unicode>Desgl.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1459,13 +1459,13 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                 <Coords points="960,6447 960,6494 1241,6494 1241,6447"/>
                 <TextLine id="TableCell_1658221423340_15224l0" custom="readingOrder {index:0;}">
                     <Coords points="995,6450 1058,6450 1199,6452 1203,6454 1201,6484 1103,6489 995,6481"/>
-                    <Baseline points="994,6479 1026,6480 1079,6481 1203,6481"/>
+                    <Baseline points="995,6479 1026,6480 1079,6481 1201,6480"/>
                     <TextEquiv>
                         <Unicode>C. 5/1929</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1479,7 +1479,7 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1500,7 +1500,7 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1514,7 +1514,7 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1528,7 +1528,7 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1546,13 +1546,13 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                 </TextLine>
                 <TextLine id="TableCell_1658221527141_15838l3" custom="readingOrder {index:1;}">
                     <Coords points="2003,705 2144,705 2191,709 2191,740 2080,748 2003,747"/>
-                    <Baseline points="2005,737 2192,737"/>
+                    <Baseline points="2005,737 2191,737"/>
                     <TextEquiv>
                         <Unicode>Inhabers</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1587,7 +1587,7 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1602,14 +1602,14 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                 </TextLine>
                 <TextLine id="TableCell_1658221527196_15850l3" custom="readingOrder {index:1;}">
                     <Coords points="2754,629 3053,630 3128,631 3128,663 3091,664 3040,665 2909,665 2754,664"/>
-                    <Baseline points="2756,663 2832,663 2853,663 2889,662 2911,662 3130,662"/>
+                    <Baseline points="2756,663 2832,663 2853,663 2889,662 2911,662 3128,662"/>
                     <TextEquiv>
                         <Unicode>GR. = Gewerberat</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="TableCell_1658221527196_15850l4" custom="readingOrder {index:2;}">
                     <Coords points="2752,672 3089,674 3129,687 3129,700 3108,708 3002,717 2908,717 2753,708"/>
-                    <Baseline points="2753,708 2829,708 2851,708 2887,708 2908,708 3129,705"/>
+                    <Baseline points="2753,708 2829,708 2851,708 2887,708 2908,708 3127,700"/>
                     <TextEquiv>
                         <Unicode>BR. = Bergrevier⸗</Unicode>
                     </TextEquiv>
@@ -1622,7 +1622,7 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1640,7 +1640,7 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -1654,7 +1654,7 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1668,7 +1668,7 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1676,13 +1676,13 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                 <Coords points="2718,846 2718,918 3152,918 3152,846"/>
                 <TextLine id="TableCell_1658221526064_15830l0" custom="readingOrder {index:0;}">
                     <Coords points="2918,860 2941,860 2941,894 2918,895"/>
-                    <Baseline points="2915,892 2939,892"/>
+                    <Baseline points="2918,892 2939,892"/>
                     <TextEquiv>
                         <Unicode>3</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1697,13 +1697,13 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                 </TextLine>
                 <TextLine id="TableCell_1658221525319_15800l1" custom="readingOrder {index:1;}">
                     <Coords points="1832,1005 2164,1005 2181,1007 2182,1048 2005,1048 1832,1038"/>
-                    <Baseline points="1833,1037 2016,1037 2182,1036"/>
+                    <Baseline points="1833,1037 2016,1037 2181,1036"/>
                     <TextEquiv>
                         <Unicode>Grünberg (Schl.)</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1711,13 +1711,13 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                 <Coords points="2425,918 2425,1049 2718,1049 2718,918"/>
                 <TextLine id="TableCell_1658221525348_15806l1" custom="readingOrder {index:0;}">
                     <Coords points="2452,1005 2670,1005 2670,1037 2573,1046 2453,1038"/>
-                    <Baseline points="2452,1035 2482,1036 2524,1036 2670,1037"/>
+                    <Baseline points="2452,1034 2482,1036 2524,1036 2670,1037"/>
                     <TextEquiv>
                         <Unicode>A 13/1937</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1731,7 +1731,7 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1746,13 +1746,13 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                 </TextLine>
                 <TextLine id="line_1664453225655_1773" custom="readingOrder {index:1;}">
                     <Coords points="1832,1093 1956,1092 1956,1134 1933,1139 1832,1135"/>
-                    <Baseline points="1831,1127 1955,1126"/>
+                    <Baseline points="1832,1127 1955,1126"/>
                     <TextEquiv>
                         <Unicode>(Sieg)</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1766,7 +1766,7 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1780,7 +1780,7 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1801,7 +1801,7 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1815,7 +1815,7 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1829,7 +1829,7 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1837,13 +1837,13 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                 <Coords points="1752,1220 1752,1266 2425,1266 2425,1220"/>
                 <TextLine id="TableCell_1658221520898_15746l1" custom="readingOrder {index:0;}">
                     <Coords points="1782,1226 1933,1226 2200,1226 2199,1267 2107,1270 1817,1266 1782,1261"/>
-                    <Baseline points="1782,1261 1857,1260 1876,1260 1933,1260 1954,1261 2200,1259"/>
+                    <Baseline points="1782,1261 1857,1260 1876,1260 1933,1260 1954,1261 2199,1258"/>
                     <TextEquiv>
                         <Unicode>Litz, R., Freirachdorf</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1857,7 +1857,7 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1871,7 +1871,7 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1879,13 +1879,13 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                 <Coords points="1752,1266 1752,1311 2425,1311 2425,1266"/>
                 <TextLine id="TableCell_1658221519368_15728l0" custom="readingOrder {index:0;}">
                     <Coords points="1779,1270 1827,1270 2110,1269 2342,1270 2341,1315 1944,1311 1796,1304 1779,1303"/>
-                    <Baseline points="1779,1303 1953,1304 1978,1304 2108,1304 2124,1304 2342,1304"/>
+                    <Baseline points="1779,1303 1953,1304 1978,1304 2108,1304 2124,1304 2341,1303"/>
                     <TextEquiv>
                         <Unicode>Mereien, Franz, Neidenbach</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1899,7 +1899,7 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1907,13 +1907,13 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                 <Coords points="2718,1266 2718,1311 3152,1311 3152,1266"/>
                 <TextLine id="TableCell_1658221519418_15740l0" custom="readingOrder {index:0;}">
                     <Coords points="2748,1269 2795,1269 2933,1270 2955,1280 2955,1306 2817,1307 2748,1307"/>
-                    <Baseline points="2747,1304 2826,1305 2853,1305 2952,1304"/>
+                    <Baseline points="2748,1304 2826,1305 2853,1305 2952,1304"/>
                     <TextEquiv>
                         <Unicode>GR. Trier</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1921,13 +1921,13 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                 <Coords points="1752,1311 1752,1358 2425,1358 2425,1311"/>
                 <TextLine id="TableCell_1658221517534_15710l0" custom="readingOrder {index:0;}">
                     <Coords points="1778,1314 2047,1311 2352,1316 2352,1355 1918,1358 1778,1347"/>
-                    <Baseline points="1778,1347 2027,1349 2047,1349 2178,1348 2197,1348 2353,1347"/>
+                    <Baseline points="1778,1347 2027,1349 2047,1349 2178,1348 2197,1348 2352,1347"/>
                     <TextEquiv>
                         <Unicode>Micklinghoff, Franz, Herbern</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1941,7 +1941,7 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1955,7 +1955,7 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1976,7 +1976,7 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1990,7 +1990,7 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2004,7 +2004,7 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2018,7 +2018,7 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2032,7 +2032,7 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2046,7 +2046,7 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2061,13 +2061,13 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                 </TextLine>
                 <TextLine id="TableCell_1658221512156_15656l2" custom="readingOrder {index:1;}">
                     <Coords points="1825,1535 2028,1537 2070,1537 2091,1548 2091,1571 1993,1571 1825,1572"/>
-                    <Baseline points="1823,1569 2091,1571"/>
+                    <Baseline points="1825,1569 2091,1571"/>
                     <TextEquiv>
                         <Unicode>Kr. Ottweiler</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2081,7 +2081,7 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2095,7 +2095,7 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2109,7 +2109,7 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2123,7 +2123,7 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2137,7 +2137,7 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2151,7 +2151,7 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2165,7 +2165,7 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2179,7 +2179,7 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2194,13 +2194,13 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                 </TextLine>
                 <TextLine id="TableCell_1658221502820_15602l1" custom="readingOrder {index:1;}">
                     <Coords points="1824,1713 1993,1714 2064,1715 2064,1748 1980,1757 1885,1757 1825,1748"/>
-                    <Baseline points="1824,1747 2062,1746"/>
+                    <Baseline points="1824,1746 2062,1746"/>
                     <TextEquiv>
                         <Unicode>Schachtſtr. 2</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2214,7 +2214,7 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2228,7 +2228,7 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2249,7 +2249,7 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2263,7 +2263,7 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2277,7 +2277,7 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2285,20 +2285,20 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                 <Coords points="1752,1845 1752,1930 2425,1930 2425,1845"/>
                 <TextLine id="TableCell_1658221498917_15566l0" custom="readingOrder {index:0;}">
                     <Coords points="1775,1846 1806,1846 2371,1847 2396,1863 2396,1878 2376,1892 1930,1889 1921,1890 1775,1881"/>
-                    <Baseline points="1775,1880 1930,1881 1946,1881 2041,1881 2072,1881 2230,1881 2288,1881 2394,1881"/>
+                    <Baseline points="1775,1880 1930,1881 1946,1881 2041,1881 2072,1881 2230,1881 2288,1881 2393,1879"/>
                     <TextEquiv>
                         <Unicode>Siebert, Willi, Siegburg (Sieg⸗</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="line_1664458302338_1835" custom="readingOrder {index:1;}">
                     <Coords points="1820,1890 1922,1890 1921,1932 1823,1928"/>
-                    <Baseline points="1818,1925 1920,1925"/>
+                    <Baseline points="1822,1924 1920,1925"/>
                     <TextEquiv>
                         <Unicode>kreis)</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2312,7 +2312,7 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2326,7 +2326,7 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2334,7 +2334,7 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                 <Coords points="1752,1930 1752,2018 2425,2018 2425,1930"/>
                 <TextLine id="TableCell_1658221496149_15548l1" custom="readingOrder {index:0;}">
                     <Coords points="1774,1936 2237,1936 2289,1937 2360,1946 2376,1951 2376,1963 2360,1970 2297,1978 2163,1980 1804,1980 1774,1970"/>
-                    <Baseline points="1774,1970 1974,1970 2016,1970 2163,1969 2206,1969 2377,1969"/>
+                    <Baseline points="1774,1970 1974,1970 2016,1970 2163,1969 2206,1969 2374,1963"/>
                     <TextEquiv>
                         <Unicode>Waskönig, Auguſt, Bochum⸗</Unicode>
                     </TextEquiv>
@@ -2347,7 +2347,7 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2361,7 +2361,7 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2375,7 +2375,7 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2389,7 +2389,7 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2403,7 +2403,7 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2417,7 +2417,7 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2425,13 +2425,13 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                 <Coords points="1752,2064 1752,2111 2425,2111 2425,2064"/>
                 <TextLine id="TableCell_1658221492822_15512l0" custom="readingOrder {index:0;}">
                     <Coords points="1772,2069 2012,2068 2312,2070 2313,2107 2144,2111 1796,2110 1772,2103"/>
-                    <Baseline points="1772,2103 1878,2102 1896,2102 2051,2103 2080,2103 2313,2102"/>
+                    <Baseline points="1772,2103 1878,2102 1896,2102 2051,2103 2080,2103 2312,2102"/>
                     <TextEquiv>
                         <Unicode>Wolf, Richard, Aſchersleben</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2445,7 +2445,7 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2459,7 +2459,7 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2473,7 +2473,7 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2487,7 +2487,7 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2501,7 +2501,7 @@ Sprengſtofferlaubnisſcheine werden für ungültig erklärt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2580,7 +2580,7 @@ J. V.: Dr. Poſſe.</Unicode>
             </TextLine>
             <TextLine id="r7l5" custom="readingOrder {index:4;}">
                 <Coords points="1768,2764 1812,2753 2787,2753 3075,2755 3123,2762 3139,2772 3139,2789 3123,2804 2991,2804 2178,2803 1881,2799 1768,2792"/>
-                <Baseline points="1768,2792 1838,2792 1881,2792 1905,2792 1949,2793 2000,2793 2058,2793 2124,2793 2178,2793 2787,2795 2852,2795 2935,2796 2991,2796 3141,2795"/>
+                <Baseline points="1768,2792 1838,2792 1881,2792 1905,2792 1949,2793 2000,2793 2058,2793 2124,2793 2178,2793 2787,2795 2852,2795 2935,2796 2991,2796 3137,2790"/>
                 <TextEquiv>
                     <Unicode>mit § 40 der Durchführungsbeſtimmungen zum Umſatz⸗</Unicode>
                 </TextEquiv>
@@ -2615,13 +2615,13 @@ wie folgt feſtgeſetzt:</Unicode>
                 <Coords points="1749,2929 1749,3036 1913,3036 1913,2929"/>
                 <TextLine id="TableCell_1658223800898_16747l1" custom="readingOrder {index:0;}">
                     <Coords points="1767,2961 1908,2961 1908,3004 1797,3009 1767,3004"/>
-                    <Baseline points="1766,3002 1906,3002"/>
+                    <Baseline points="1767,3002 1906,3002"/>
                     <TextEquiv>
                         <Unicode>Lfd. Nr.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2635,7 +2635,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2649,7 +2649,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2663,7 +2663,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2677,7 +2677,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2691,7 +2691,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2699,13 +2699,13 @@ wie folgt feſtgeſetzt:</Unicode>
                 <Coords points="2402,3036 2402,3108 2928,3108 2928,3036"/>
                 <TextLine id="TableCell_1658223801019_16757l0" custom="readingOrder {index:0;}">
                     <Coords points="2497,3069 2542,3068 2587,3068 2611,3069 2658,3071 2658,3106 2611,3108 2550,3113 2497,3103"/>
-                    <Baseline points="2496,3103 2513,3104 2542,3104 2658,3103"/>
+                    <Baseline points="2497,3103 2513,3104 2542,3104 2658,3103"/>
                     <TextEquiv>
                         <Unicode>1 Pfund</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2719,7 +2719,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2733,7 +2733,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2747,7 +2747,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2762,13 +2762,13 @@ wie folgt feſtgeſetzt:</Unicode>
                 </TextLine>
                 <TextLine id="TableCell_1658223799408_16733l1" custom="readingOrder {index:1;}">
                     <Coords points="2565,3157 2580,3157 2915,3160 2915,3204 2566,3204"/>
-                    <Baseline points="2565,3194 2622,3193 2645,3193 2690,3195 2707,3195 2914,3196"/>
+                    <Baseline points="2565,3193 2622,3193 2645,3193 2690,3195 2707,3195 2914,3196"/>
                     <TextEquiv>
                         <Unicode>(= 44 Goldpeſos)</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2782,7 +2782,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2790,13 +2790,13 @@ wie folgt feſtgeſetzt:</Unicode>
                 <Coords points="1749,3199 1749,3285 1913,3285 1913,3199"/>
                 <TextLine id="line_1664459560439_2020" custom="readingOrder {index:0;}">
                     <Coords points="1833,3200 1855,3199 1857,3236 1835,3237"/>
-                    <Baseline points="1833,3235 1855,3234"/>
+                    <Baseline points="1834,3234 1855,3234"/>
                     <TextEquiv>
                         <Unicode>3</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2810,7 +2810,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2825,13 +2825,13 @@ wie folgt feſtgeſetzt:</Unicode>
                 </TextLine>
                 <TextLine id="TableCell_1658223793149_16709l2" custom="readingOrder {index:1;}">
                     <Coords points="2563,3249 2713,3248 2893,3248 2914,3250 2917,3294 2822,3295 2650,3292 2562,3291"/>
-                    <Baseline points="2561,3284 2703,3284 2713,3284 2794,3284 2804,3284 2915,3285"/>
+                    <Baseline points="2562,3284 2703,3284 2713,3284 2794,3284 2804,3284 2915,3285"/>
                     <TextEquiv>
                         <Unicode>(= 500 belg. Frcs.)</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2839,13 +2839,13 @@ wie folgt feſtgeſetzt:</Unicode>
                 <Coords points="2928,3199 2928,3285 3136,3285 3136,3199"/>
                 <TextLine id="line_1664462441584_2473" custom="readingOrder {index:0;}">
                     <Coords points="3009,3203 3107,3203 3107,3241 3055,3248 3009,3241"/>
-                    <Baseline points="3008,3239 3106,3239"/>
+                    <Baseline points="3009,3239 3106,3239"/>
                     <TextEquiv>
                         <Unicode>42,20</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2853,13 +2853,13 @@ wie folgt feſtgeſetzt:</Unicode>
                 <Coords points="1749,3285 1749,3331 1913,3331 1913,3285"/>
                 <TextLine id="line_1664459602642_2030" custom="readingOrder {index:0;}">
                     <Coords points="1831,3288 1855,3287 1857,3327 1833,3328"/>
-                    <Baseline points="1833,3325 1857,3324"/>
+                    <Baseline points="1833,3325 1856,3324"/>
                     <TextEquiv>
                         <Unicode>4</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2873,7 +2873,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2887,7 +2887,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2901,7 +2901,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2915,7 +2915,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2929,7 +2929,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2937,13 +2937,13 @@ wie folgt feſtgeſetzt:</Unicode>
                 <Coords points="2402,3331 2402,3379 2928,3379 2928,3331"/>
                 <TextLine id="TableCell_1658223742924_16661l1" custom="readingOrder {index:0;}">
                     <Coords points="2450,3336 2468,3336 2563,3337 2635,3349 2635,3374 2558,3378 2450,3374"/>
-                    <Baseline points="2452,3371 2516,3372 2540,3373 2636,3373"/>
+                    <Baseline points="2452,3371 2516,3372 2540,3373 2635,3373"/>
                     <TextEquiv>
                         <Unicode>100 Lewa</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2957,7 +2957,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2965,13 +2965,13 @@ wie folgt feſtgeſetzt:</Unicode>
                 <Coords points="1749,3379 1749,3424 1913,3424 1913,3379"/>
                 <TextLine id="TableCell_1658221713815_16625l0" custom="readingOrder {index:0;}">
                     <Coords points="1832,3380 1855,3380 1855,3415 1832,3415"/>
-                    <Baseline points="1831,3413 1855,3413"/>
+                    <Baseline points="1832,3413 1855,3413"/>
                     <TextEquiv>
                         <Unicode>6</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2985,7 +2985,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2999,7 +2999,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3013,7 +3013,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3027,7 +3027,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3035,13 +3035,13 @@ wie folgt feſtgeſetzt:</Unicode>
                 <Coords points="1913,3424 1913,3463 2402,3463 2402,3424"/>
                 <TextLine id="TableCell_1658221702712_16607l0" custom="readingOrder {index:0;}">
                     <Coords points="1937,3424 2146,3423 2146,3462 2066,3463 1938,3464"/>
-                    <Baseline points="1937,3461 2143,3462"/>
+                    <Baseline points="1937,3460 2143,3462"/>
                     <TextEquiv>
                         <Unicode>Dänemark</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3049,13 +3049,13 @@ wie folgt feſtgeſetzt:</Unicode>
                 <Coords points="2402,3424 2402,3463 2928,3463 2928,3424"/>
                 <TextLine id="TableCell_1658221702762_16613l0" custom="readingOrder {index:0;}">
                     <Coords points="2449,3424 2493,3424 2573,3427 2678,3438 2676,3465 2544,3465 2512,3461 2451,3462"/>
-                    <Baseline points="2450,3459 2517,3459 2540,3462 2678,3463"/>
+                    <Baseline points="2450,3458 2517,3459 2540,3462 2676,3462"/>
                     <TextEquiv>
                         <Unicode>100 Kronen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3069,7 +3069,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3083,7 +3083,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3097,7 +3097,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3105,13 +3105,13 @@ wie folgt feſtgeſetzt:</Unicode>
                 <Coords points="2402,3463 2402,3513 2928,3513 2928,3463"/>
                 <TextLine id="TableCell_1658221701356_16589l1" custom="readingOrder {index:0;}">
                     <Coords points="2450,3470 2491,3470 2638,3473 2680,3482 2681,3510 2558,3511 2513,3506 2450,3508"/>
-                    <Baseline points="2452,3505 2519,3505 2545,3508 2681,3507"/>
+                    <Baseline points="2452,3505 2519,3505 2545,3508 2680,3507"/>
                     <TextEquiv>
                         <Unicode>100 Gulden</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3119,13 +3119,13 @@ wie folgt feſtgeſetzt:</Unicode>
                 <Coords points="2928,3463 2928,3513 3136,3513 3136,3463"/>
                 <TextLine id="TableCell_1658221701416_16595l0" custom="readingOrder {index:0;}">
                     <Coords points="3006,3473 3049,3472 3103,3472 3105,3509 3057,3517 3007,3510"/>
-                    <Baseline points="3006,3507 3103,3507"/>
+                    <Baseline points="3006,3506 3103,3507"/>
                     <TextEquiv>
                         <Unicode>47,05</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3139,7 +3139,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3153,7 +3153,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3167,7 +3167,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3175,13 +3175,13 @@ wie folgt feſtgeſetzt:</Unicode>
                 <Coords points="2928,3513 2928,3557 3136,3557 3136,3513"/>
                 <TextLine id="TableCell_1658221699846_16571l0" custom="readingOrder {index:0;}">
                     <Coords points="3006,3516 3036,3517 3103,3517 3103,3552 3054,3563 3008,3554"/>
-                    <Baseline points="3007,3552 3102,3552"/>
+                    <Baseline points="3007,3551 3102,3552"/>
                     <TextEquiv>
                         <Unicode>68,03</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3195,7 +3195,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3209,7 +3209,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3217,13 +3217,13 @@ wie folgt feſtgeſetzt:</Unicode>
                 <Coords points="2402,3557 2402,3600 2928,3600 2928,3557"/>
                 <TextLine id="TableCell_1658221697473_16541l0" custom="readingOrder {index:0;}">
                     <Coords points="2451,3557 2516,3559 2652,3561 2651,3600 2547,3599 2517,3597 2452,3597"/>
-                    <Baseline points="2451,3594 2519,3594 2543,3596 2650,3597"/>
+                    <Baseline points="2451,3593 2519,3594 2543,3596 2650,3597"/>
                     <TextEquiv>
                         <Unicode>100 Mark</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3237,7 +3237,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3245,13 +3245,13 @@ wie folgt feſtgeſetzt:</Unicode>
                 <Coords points="1749,3600 1749,3640 1913,3640 1913,3600"/>
                 <TextLine id="line_1664459772926_2062" custom="readingOrder {index:0;}">
                     <Coords points="1808,3601 1855,3600 1856,3639 1809,3640"/>
-                    <Baseline points="1808,3637 1855,3636"/>
+                    <Baseline points="1808,3636 1855,3636"/>
                     <TextEquiv>
                         <Unicode>11</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3259,13 +3259,13 @@ wie folgt feſtgeſetzt:</Unicode>
                 <Coords points="1913,3600 1913,3640 2402,3640 2402,3600"/>
                 <TextLine id="TableCell_1658221694984_16511l1" custom="readingOrder {index:0;}">
                     <Coords points="1937,3602 2042,3600 2139,3600 2138,3645 1939,3645"/>
-                    <Baseline points="1937,3638 2137,3638"/>
+                    <Baseline points="1938,3637 2137,3638"/>
                     <TextEquiv>
                         <Unicode>Frankreich</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3279,7 +3279,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3293,7 +3293,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3301,13 +3301,13 @@ wie folgt feſtgeſetzt:</Unicode>
                 <Coords points="1749,3640 1749,3690 1913,3690 1913,3640"/>
                 <TextLine id="TableCell_1658221693174_16481l0" custom="readingOrder {index:0;}">
                     <Coords points="1810,3646 1857,3644 1857,3684 1811,3683"/>
-                    <Baseline points="1810,3681 1856,3680"/>
+                    <Baseline points="1810,3680 1856,3680"/>
                     <TextEquiv>
                         <Unicode>12</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3321,7 +3321,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3335,7 +3335,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3343,13 +3343,13 @@ wie folgt feſtgeſetzt:</Unicode>
                 <Coords points="2928,3640 2928,3690 3136,3690 3136,3640"/>
                 <TextLine id="TableCell_1658221693314_16499l0" custom="readingOrder {index:0;}">
                     <Coords points="3027,3650 3069,3650 3102,3650 3102,3686 3053,3695 3028,3688"/>
-                    <Baseline points="3027,3685 3102,3685"/>
+                    <Baseline points="3027,3684 3102,3685"/>
                     <TextEquiv>
                         <Unicode>2,36</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3357,13 +3357,13 @@ wie folgt feſtgeſetzt:</Unicode>
                 <Coords points="1749,3690 1749,3736 1913,3736 1913,3690"/>
                 <TextLine id="TableCell_1658221690677_16457l0" custom="readingOrder {index:0;}">
                     <Coords points="1808,3691 1853,3690 1853,3726 1808,3727"/>
-                    <Baseline points="1808,3725 1854,3724"/>
+                    <Baseline points="1808,3725 1853,3724"/>
                     <TextEquiv>
                         <Unicode>13</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3377,7 +3377,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3391,7 +3391,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3405,7 +3405,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3419,7 +3419,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3427,13 +3427,13 @@ wie folgt feſtgeſetzt:</Unicode>
                 <Coords points="1913,3736 1913,3782 2402,3782 2402,3736"/>
                 <TextLine id="TableCell_1658221685878_16439l1" custom="readingOrder {index:0;}">
                     <Coords points="1935,3736 2017,3736 2089,3737 2089,3775 1991,3782 1935,3782"/>
-                    <Baseline points="1935,3773 2090,3773"/>
+                    <Baseline points="1935,3773 2089,3773"/>
                     <TextEquiv>
                         <Unicode>Holland</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3441,13 +3441,13 @@ wie folgt feſtgeſetzt:</Unicode>
                 <Coords points="2402,3736 2402,3782 2928,3782 2928,3736"/>
                 <TextLine id="TableCell_1658221685915_16445l1" custom="readingOrder {index:0;}">
                     <Coords points="2450,3736 2512,3737 2632,3740 2682,3751 2682,3777 2549,3778 2519,3775 2450,3775"/>
-                    <Baseline points="2448,3772 2516,3772 2540,3775 2681,3775"/>
+                    <Baseline points="2450,3772 2516,3772 2540,3775 2681,3775"/>
                     <TextEquiv>
                         <Unicode>100 Gulden</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3455,13 +3455,13 @@ wie folgt feſtgeſetzt:</Unicode>
                 <Coords points="2928,3736 2928,3782 3136,3782 3136,3736"/>
                 <TextLine id="TableCell_1658221685951_16451l0" custom="readingOrder {index:0;}">
                     <Coords points="2985,3739 3038,3739 3104,3741 3104,3774 3053,3785 2987,3777"/>
-                    <Baseline points="2984,3774 3104,3774"/>
+                    <Baseline points="2986,3773 3104,3774"/>
                     <TextEquiv>
                         <Unicode>138,10</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3475,7 +3475,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3489,7 +3489,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3497,13 +3497,13 @@ wie folgt feſtgeſetzt:</Unicode>
                 <Coords points="2402,3782 2402,3826 2928,3826 2928,3782"/>
                 <TextLine id="TableCell_1658221683070_16421l1" custom="readingOrder {index:0;}">
                     <Coords points="2450,3783 2582,3782 2627,3784 2646,3789 2646,3821 2552,3822 2452,3818"/>
-                    <Baseline points="2450,3816 2515,3817 2537,3818 2646,3820"/>
+                    <Baseline points="2451,3815 2515,3817 2537,3818 2646,3820"/>
                     <TextEquiv>
                         <Unicode>100 Rials</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3511,13 +3511,13 @@ wie folgt feſtgeſetzt:</Unicode>
                 <Coords points="2928,3782 2928,3826 3136,3826 3136,3782"/>
                 <TextLine id="TableCell_1658221683112_16427l0" custom="readingOrder {index:0;}">
                     <Coords points="3006,3784 3104,3783 3105,3823 3053,3829 3007,3823"/>
-                    <Baseline points="3006,3819 3103,3819"/>
+                    <Baseline points="3006,3818 3103,3819"/>
                     <TextEquiv>
                         <Unicode>15,42</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3525,13 +3525,13 @@ wie folgt feſtgeſetzt:</Unicode>
                 <Coords points="1749,3826 1749,3868 1913,3868 1913,3826"/>
                 <TextLine id="line_1664459903432_2080" custom="readingOrder {index:0;}">
                     <Coords points="1809,3823 1854,3823 1854,3861 1809,3861"/>
-                    <Baseline points="1808,3859 1854,3859"/>
+                    <Baseline points="1809,3859 1854,3859"/>
                     <TextEquiv>
                         <Unicode>16</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3545,7 +3545,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3559,7 +3559,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3573,7 +3573,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3587,7 +3587,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3601,7 +3601,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3609,13 +3609,13 @@ wie folgt feſtgeſetzt:</Unicode>
                 <Coords points="2402,3868 2402,3913 2928,3913 2928,3868"/>
                 <TextLine id="TableCell_1658221678350_16373l0" custom="readingOrder {index:0;}">
                     <Coords points="2448,3869 2562,3871 2576,3872 2612,3884 2612,3910 2554,3911 2450,3909"/>
-                    <Baseline points="2448,3906 2514,3906 2540,3907 2612,3910"/>
+                    <Baseline points="2449,3905 2514,3906 2540,3907 2612,3910"/>
                     <TextEquiv>
                         <Unicode>100 Lire</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3629,7 +3629,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3643,7 +3643,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3657,7 +3657,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3665,13 +3665,13 @@ wie folgt feſtgeſetzt:</Unicode>
                 <Coords points="2402,3913 2402,3961 2928,3961 2928,3913"/>
                 <TextLine id="TableCell_1658221673519_16349l1" custom="readingOrder {index:0;}">
                     <Coords points="2449,3913 2466,3913 2572,3917 2613,3929 2613,3954 2558,3962 2449,3952"/>
-                    <Baseline points="2448,3950 2514,3950 2537,3953 2615,3953"/>
+                    <Baseline points="2449,3950 2514,3950 2537,3953 2613,3953"/>
                     <TextEquiv>
                         <Unicode>100 Yen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3685,7 +3685,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3693,13 +3693,13 @@ wie folgt feſtgeſetzt:</Unicode>
                 <Coords points="1749,3961 1749,4003 1913,4003 1913,3961"/>
                 <TextLine id="line_1664459984118_2097" custom="readingOrder {index:0;}">
                     <Coords points="1809,3957 1853,3957 1853,3994 1809,3994"/>
-                    <Baseline points="1808,3993 1852,3992"/>
+                    <Baseline points="1809,3993 1852,3992"/>
                     <TextEquiv>
                         <Unicode>19</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3713,7 +3713,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3721,13 +3721,13 @@ wie folgt feſtgeſetzt:</Unicode>
                 <Coords points="2402,3961 2402,4003 2928,4003 2928,3961"/>
                 <TextLine id="TableCell_1658221657483_16325l1" custom="readingOrder {index:0;}">
                     <Coords points="2447,3960 2513,3961 2612,3963 2655,3972 2655,4000 2548,4003 2450,3999"/>
-                    <Baseline points="2448,3995 2513,3996 2538,3998 2655,3999"/>
+                    <Baseline points="2449,3994 2513,3996 2538,3998 2655,3999"/>
                     <TextEquiv>
                         <Unicode>100 Dinar</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3735,13 +3735,13 @@ wie folgt feſtgeſetzt:</Unicode>
                 <Coords points="2928,3961 2928,4003 3136,4003 3136,3961"/>
                 <TextLine id="TableCell_1658221657519_16331l0" custom="readingOrder {index:0;}">
                     <Coords points="3028,3963 3104,3964 3104,3999 3054,4009 3028,3999"/>
-                    <Baseline points="3029,3999 3105,3999"/>
+                    <Baseline points="3029,3999 3104,3999"/>
                     <TextEquiv>
                         <Unicode>5,70</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3749,13 +3749,13 @@ wie folgt feſtgeſetzt:</Unicode>
                 <Coords points="1749,4003 1749,4047 1913,4047 1913,4003"/>
                 <TextLine id="TableCell_1658221655151_16289l0" custom="readingOrder {index:0;}">
                     <Coords points="1807,4003 1855,4003 1855,4039 1807,4039"/>
-                    <Baseline points="1805,4037 1854,4037"/>
+                    <Baseline points="1807,4037 1854,4037"/>
                     <TextEquiv>
                         <Unicode>20</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3769,7 +3769,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3777,13 +3777,13 @@ wie folgt feſtgeſetzt:</Unicode>
                 <Coords points="2402,4003 2402,4047 2928,4047 2928,4003"/>
                 <TextLine id="TableCell_1658221655216_16301l1" custom="readingOrder {index:0;}">
                     <Coords points="2448,4004 2466,4003 2572,4005 2604,4008 2604,4045 2550,4045 2508,4042 2450,4043"/>
-                    <Baseline points="2449,4040 2518,4040 2540,4043 2603,4043"/>
+                    <Baseline points="2449,4039 2518,4040 2540,4043 2603,4043"/>
                     <TextEquiv>
                         <Unicode>100 Lat</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3797,7 +3797,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3805,13 +3805,13 @@ wie folgt feſtgeſetzt:</Unicode>
                 <Coords points="1749,4047 1749,4092 1913,4092 1913,4047"/>
                 <TextLine id="TableCell_1658221653384_16265l0" custom="readingOrder {index:0;}">
                     <Coords points="1807,4047 1850,4047 1850,4084 1807,4084"/>
-                    <Baseline points="1806,4081 1849,4081"/>
+                    <Baseline points="1807,4081 1849,4081"/>
                     <TextEquiv>
                         <Unicode>21</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3825,7 +3825,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3833,13 +3833,13 @@ wie folgt feſtgeſetzt:</Unicode>
                 <Coords points="2402,4047 2402,4092 2928,4092 2928,4047"/>
                 <TextLine id="TableCell_1658221653460_16277l0" custom="readingOrder {index:0;}">
                     <Coords points="2447,4046 2465,4047 2562,4050 2591,4052 2633,4056 2633,4091 2556,4091 2449,4086"/>
-                    <Baseline points="2448,4084 2515,4084 2539,4086 2631,4087"/>
+                    <Baseline points="2448,4083 2515,4084 2539,4086 2631,4087"/>
                     <TextEquiv>
                         <Unicode>100 Litas</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3853,7 +3853,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3867,7 +3867,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3881,7 +3881,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3895,7 +3895,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3909,7 +3909,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3917,13 +3917,13 @@ wie folgt feſtgeſetzt:</Unicode>
                 <Coords points="1749,4139 1749,4181 1913,4181 1913,4139"/>
                 <TextLine id="line_1664460089767_2117" custom="readingOrder {index:0;}">
                     <Coords points="1806,4136 1851,4136 1851,4173 1806,4173"/>
-                    <Baseline points="1807,4171 1852,4171"/>
+                    <Baseline points="1807,4171 1851,4171"/>
                     <TextEquiv>
                         <Unicode>23</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3937,7 +3937,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3951,7 +3951,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3959,13 +3959,13 @@ wie folgt feſtgeſetzt:</Unicode>
                 <Coords points="2928,4139 2928,4181 3136,4181 3136,4139"/>
                 <TextLine id="TableCell_1658221651406_16235l0" custom="readingOrder {index:0;}">
                     <Coords points="3005,4142 3102,4143 3102,4178 3053,4189 3008,4180"/>
-                    <Baseline points="3005,4177 3101,4177"/>
+                    <Baseline points="3007,4176 3101,4177"/>
                     <TextEquiv>
                         <Unicode>62,36</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3979,7 +3979,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3993,7 +3993,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4007,7 +4007,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4015,13 +4015,13 @@ wie folgt feſtgeſetzt:</Unicode>
                 <Coords points="2928,4181 2928,4227 3136,4227 3136,4181"/>
                 <TextLine id="TableCell_1658221641306_16211l0" custom="readingOrder {index:0;}">
                     <Coords points="3005,4187 3099,4187 3107,4216 3053,4233 3003,4225"/>
-                    <Baseline points="3005,4222 3103,4222"/>
+                    <Baseline points="3005,4222 3101,4217"/>
                     <TextEquiv>
                         <Unicode>49,—</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4035,7 +4035,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4049,7 +4049,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4063,7 +4063,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4077,7 +4077,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4091,7 +4091,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4105,7 +4105,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4113,13 +4113,13 @@ wie folgt feſtgeſetzt:</Unicode>
                 <Coords points="2402,4272 2402,4313 2928,4313 2928,4272"/>
                 <TextLine id="TableCell_1658221632950_16157l0" custom="readingOrder {index:0;}">
                     <Coords points="2447,4272 2584,4272 2652,4275 2696,4278 2696,4312 2556,4314 2447,4310"/>
-                    <Baseline points="2446,4308 2513,4308 2540,4310 2696,4312"/>
+                    <Baseline points="2447,4308 2513,4308 2540,4310 2696,4312"/>
                     <TextEquiv>
                         <Unicode>100 Eskudos</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4133,7 +4133,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4147,7 +4147,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4161,7 +4161,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4175,7 +4175,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4189,7 +4189,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4203,7 +4203,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4217,7 +4217,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4231,7 +4231,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4239,13 +4239,13 @@ wie folgt feſtgeſetzt:</Unicode>
                 <Coords points="2928,4362 2928,4402 3136,4402 3136,4362"/>
                 <TextLine id="TableCell_1658221614735_16115l0" custom="readingOrder {index:0;}">
                     <Coords points="3006,4365 3102,4365 3103,4401 3053,4410 3007,4403"/>
-                    <Baseline points="3005,4401 3101,4401"/>
+                    <Baseline points="3006,4400 3101,4401"/>
                     <TextEquiv>
                         <Unicode>63,96</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4259,7 +4259,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4273,7 +4273,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4287,7 +4287,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4295,13 +4295,13 @@ wie folgt feſtgeſetzt:</Unicode>
                 <Coords points="2928,4402 2928,4450 3136,4450 3136,4402"/>
                 <TextLine id="TableCell_1658221612810_16091l0" custom="readingOrder {index:0;}">
                     <Coords points="3006,4409 3101,4411 3101,4446 3053,4455 3008,4448"/>
-                    <Baseline points="3005,4445 3100,4445"/>
+                    <Baseline points="3007,4444 3100,4445"/>
                     <TextEquiv>
                         <Unicode>57,43</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4315,7 +4315,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4323,13 +4323,13 @@ wie folgt feſtgeſetzt:</Unicode>
                 <Coords points="1913,4450 1913,4491 2402,4491 2402,4450"/>
                 <TextLine id="TableCell_1658221611361_16055l0" custom="readingOrder {index:0;}">
                     <Coords points="1936,4450 2080,4450 2104,4462 2105,4487 1986,4497 1955,4491 1936,4487"/>
-                    <Baseline points="1936,4487 2105,4486"/>
+                    <Baseline points="1936,4487 2104,4486"/>
                     <TextEquiv>
                         <Unicode>Spanien</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4343,7 +4343,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4357,7 +4357,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4365,13 +4365,13 @@ wie folgt feſtgeſetzt:</Unicode>
                 <Coords points="1749,4491 1749,4534 1913,4534 1913,4491"/>
                 <TextLine id="line_1664460259029_2152" custom="readingOrder {index:0;}">
                     <Coords points="1807,4493 1850,4493 1850,4531 1807,4531"/>
-                    <Baseline points="1805,4529 1850,4529"/>
+                    <Baseline points="1807,4529 1850,4529"/>
                     <TextEquiv>
                         <Unicode>31</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4385,7 +4385,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4393,13 +4393,13 @@ wie folgt feſtgeſetzt:</Unicode>
                 <Coords points="2402,4491 2402,4534 2928,4534 2928,4491"/>
                 <TextLine id="TableCell_1658221608975_16037l0" custom="readingOrder {index:0;}">
                     <Coords points="2446,4495 2570,4499 2674,4510 2676,4536 2553,4537 2446,4534"/>
-                    <Baseline points="2448,4532 2512,4532 2538,4533 2676,4533"/>
+                    <Baseline points="2448,4532 2512,4532 2538,4533 2675,4533"/>
                     <TextEquiv>
                         <Unicode>100 Kronen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4407,13 +4407,13 @@ wie folgt feſtgeſetzt:</Unicode>
                 <Coords points="2928,4491 2928,4534 3136,4534 3136,4491"/>
                 <TextLine id="TableCell_1658221608999_16043l0" custom="readingOrder {index:0;}">
                     <Coords points="3027,4500 3102,4500 3102,4534 3050,4545 3027,4534"/>
-                    <Baseline points="3026,4535 3102,4535"/>
+                    <Baseline points="3027,4534 3101,4534"/>
                     <TextEquiv>
                         <Unicode>8,72</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4427,7 +4427,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4441,7 +4441,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4455,7 +4455,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4469,7 +4469,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4477,13 +4477,13 @@ wie folgt feſtgeſetzt:</Unicode>
                 <Coords points="1749,4582 1749,4714 1913,4714 1913,4582"/>
                 <TextLine id="TableCell_1658221600466_15977l0" custom="readingOrder {index:0;}">
                     <Coords points="1807,4581 1850,4581 1850,4620 1807,4620"/>
-                    <Baseline points="1806,4618 1851,4618"/>
+                    <Baseline points="1807,4618 1850,4618"/>
                     <TextEquiv>
                         <Unicode>33</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4497,7 +4497,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4525,7 +4525,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4539,7 +4539,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4547,13 +4547,13 @@ wie folgt feſtgeſetzt:</Unicode>
                 <Coords points="1749,4714 1749,4763 1913,4763 1913,4714"/>
                 <TextLine id="TableCell_1658221596270_15953l0" custom="readingOrder {index:0;}">
                     <Coords points="1807,4715 1852,4715 1852,4753 1807,4753"/>
-                    <Baseline points="1806,4750 1850,4750"/>
+                    <Baseline points="1807,4750 1850,4750"/>
                     <TextEquiv>
                         <Unicode>34</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4567,7 +4567,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4581,7 +4581,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4595,7 +4595,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4603,13 +4603,13 @@ wie folgt feſtgeſetzt:</Unicode>
                 <Coords points="1749,4763 1749,4853 1913,4853 1913,4763"/>
                 <TextLine id="line_1664460365878_2173" custom="readingOrder {index:0;}">
                     <Coords points="1807,4759 1851,4759 1851,4798 1807,4798"/>
-                    <Baseline points="1806,4796 1850,4796"/>
+                    <Baseline points="1807,4796 1850,4796"/>
                     <TextEquiv>
                         <Unicode>35</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4630,7 +4630,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4644,7 +4644,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4658,7 +4658,7 @@ wie folgt feſtgeſetzt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4674,14 +4674,14 @@ wie folgt feſtgeſetzt:</Unicode>
             </TextLine>
             <TextLine id="r8l2" custom="readingOrder {index:1;}">
                 <Coords points="1759,4920 2226,4924 2330,4923 2423,4925 2918,4927 3032,4933 3132,4943 3132,4973 2926,4981 2832,4981 2446,4977 2326,4975 1761,4965"/>
-                <Baseline points="1760,4962 2423,4966 2446,4966 2765,4969 2793,4969 2926,4970 2955,4971 3045,4971 3071,4972 3132,4972"/>
+                <Baseline points="1760,4961 2423,4966 2446,4966 2765,4969 2793,4969 2926,4970 2955,4971 3045,4971 3071,4972 3132,4972"/>
                 <TextEquiv>
                     <Unicode>Berlin notierten ausländiſchen Zahlungsmittel erfolgt etwa am</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r8l3" custom="readingOrder {index:2;}">
                 <Coords points="1761,4973 1980,4975 1979,5015 1760,5013"/>
-                <Baseline points="1760,5010 1980,5013"/>
+                <Baseline points="1760,5010 1979,5012"/>
                 <TextEquiv>
                     <Unicode>10. d. M.</Unicode>
                 </TextEquiv>
@@ -4741,7 +4741,7 @@ des Deutſchen Roten Kreuzes.</Unicode>
             <Coords points="2165,5482 2745,5482 2745,5547 2165,5547"/>
             <TextLine id="r10l1" custom="readingOrder {index:0;}">
                 <Coords points="2166,5486 2210,5486 2539,5489 2719,5493 2733,5522 2733,5535 2465,5540 2168,5532"/>
-                <Baseline points="2165,5528 2277,5528 2300,5527 2359,5528 2389,5528 2596,5529 2621,5528 2733,5533"/>
+                <Baseline points="2167,5527 2277,5528 2300,5527 2359,5528 2389,5528 2596,5529 2621,5528 2733,5533"/>
                 <TextEquiv>
                     <Unicode>Vom 24. Dezember 1937.</Unicode>
                 </TextEquiv>
@@ -4754,7 +4754,7 @@ des Deutſchen Roten Kreuzes.</Unicode>
             <Coords points="1743,5561 3162,5561 3162,5926 1743,5926"/>
             <TextLine id="r11l1" custom="readingOrder {index:0;}">
                 <Coords points="1864,5568 1902,5568 2144,5569 2824,5572 3130,5575 3130,5613 3076,5623 3054,5623 2353,5620 1986,5617 1864,5608"/>
-                <Baseline points="1864,5608 1953,5607 1986,5607 2172,5608 2203,5608 2303,5609 2334,5609 2458,5610 2487,5610 2565,5611 2597,5611 2657,5611 2692,5611 2759,5612 2789,5612 2929,5613 2961,5613 3025,5614 3054,5614 3076,5614 3105,5614 3132,5612"/>
+                <Baseline points="1864,5608 1953,5607 1986,5607 2172,5608 2203,5608 2303,5609 2334,5609 2458,5610 2487,5610 2565,5611 2597,5611 2657,5611 2692,5611 2759,5612 2789,5612 2929,5613 2961,5613 3025,5614 3054,5614 3076,5614 3105,5614 3130,5612"/>
                 <TextEquiv>
                     <Unicode>Das Deutſche Rote Kreuz gibt ſich auf Grund des § 4</Unicode>
                 </TextEquiv>
@@ -4796,7 +4796,7 @@ des Deutſchen Roten Kreuzes.</Unicode>
             </TextLine>
             <TextLine id="r11l7" custom="readingOrder {index:6;}">
                 <Coords points="1757,5877 1844,5865 2334,5868 2422,5871 2520,5879 2519,5920 2352,5920 2186,5916 1758,5915"/>
-                <Baseline points="1759,5903 1908,5904 1938,5904 2038,5904 2065,5904 2306,5906 2334,5906 2520,5907"/>
+                <Baseline points="1759,5903 1908,5904 1938,5904 2038,5904 2065,5904 2306,5906 2334,5906 2519,5906"/>
                 <TextEquiv>
                     <Unicode>zember 1937 genehmigte Satzung:</Unicode>
                 </TextEquiv>
@@ -4836,7 +4836,7 @@ zember 1937 genehmigte Satzung:</Unicode>
             </TextLine>
             <TextLine id="r12l4" custom="readingOrder {index:3;}">
                 <Coords points="1758,6146 2846,6148 2946,6145 3054,6149 3129,6151 3129,6186 2990,6194 2948,6196 2920,6196 2087,6195 1843,6195 1758,6182"/>
-                <Baseline points="1759,6184 1799,6183 1827,6184 1935,6184 1961,6184 2232,6184 2256,6184 2365,6185 2391,6185 2459,6185 2482,6186 2602,6186 2624,6186 2717,6186 2741,6186 2810,6186 2831,6186 3011,6186 3034,6186 3129,6185"/>
+                <Baseline points="1759,6182 1799,6183 1827,6184 1935,6184 1961,6184 2232,6184 2256,6184 2365,6185 2391,6185 2459,6185 2482,6186 2602,6186 2624,6186 2717,6186 2741,6186 2810,6186 2831,6186 3011,6186 3034,6186 3129,6185"/>
                 <TextEquiv>
                     <Unicode>in ihren Grundzügen durch das Geſetz über das Deutſche Rote</Unicode>
                 </TextEquiv>
@@ -4871,7 +4871,7 @@ zember 1937 genehmigte Satzung:</Unicode>
             </TextLine>
             <TextLine id="r12l9" custom="readingOrder {index:8;}">
                 <Coords points="1862,6436 2583,6434 2796,6434 3086,6437 3128,6448 3128,6475 2865,6483 2530,6484 1987,6484 1862,6475"/>
-                <Baseline points="1862,6475 1950,6475 1987,6475 2173,6475 2210,6475 2310,6474 2345,6474 2470,6474 2502,6474 2544,6474 2583,6474 2820,6475 2851,6475 2973,6475 3008,6475 3129,6473"/>
+                <Baseline points="1862,6475 1950,6475 1987,6475 2173,6475 2210,6475 2310,6474 2345,6474 2470,6474 2502,6474 2544,6474 2583,6474 2820,6475 2851,6475 2973,6475 3008,6475 3128,6473"/>
                 <TextEquiv>
                     <Unicode>Das Deutſche Rote Kreuz iſt unbeſchadet ſeiner natio⸗</Unicode>
                 </TextEquiv>
@@ -4915,7 +4915,7 @@ Kreuzes.</Unicode>
             </TextLine>
             <TextLine id="r13l2" custom="readingOrder {index:1;}">
                 <Coords points="3677,613 3702,612 4120,612 4120,651 3855,660 3804,661 3732,661 3677,653"/>
-                <Baseline points="3678,649 3918,647 3944,649 4020,649 4050,648 4122,647"/>
+                <Baseline points="3678,649 3918,647 3944,649 4020,649 4050,648 4120,647"/>
                 <TextEquiv>
                     <Unicode>Schirmherr und Eid</Unicode>
                 </TextEquiv>
@@ -4943,14 +4943,14 @@ Kreuzes.</Unicode>
             </TextLine>
             <TextLine id="r13l6" custom="readingOrder {index:5;}">
                 <Coords points="3220,821 3704,819 4424,819 4527,823 4577,827 4577,855 4409,865 4312,866 3449,871 3332,871 3220,859"/>
-                <Baseline points="3219,858 3448,858 3476,858 3532,858 3560,857 3771,856 3801,856 3878,856 3901,856 3954,856 3981,856 4045,856 4073,856 4143,856 4169,856 4311,856 4337,856 4576,854"/>
+                <Baseline points="3220,858 3448,858 3476,858 3532,858 3560,857 3771,856 3801,856 3878,856 3901,856 3954,856 3981,856 4045,856 4073,856 4143,856 4169,856 4311,856 4337,856 4576,854"/>
                 <TextEquiv>
                     <Unicode>bekräftigen die führenden und die für den Einſatz beſtimmten</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r13l7" custom="readingOrder {index:6;}">
                 <Coords points="3220,871 3818,867 4505,866 4577,866 4577,904 4519,914 4351,915 3564,918 3532,918 3251,910 3220,909"/>
-                <Baseline points="3220,909 3395,909 3423,909 3499,908 3532,908 3692,907 3722,907 3787,906 3818,906 4017,906 4049,906 4177,906 4207,906 4375,905 4403,905 4476,905 4505,905 4579,902"/>
+                <Baseline points="3220,909 3395,909 3423,909 3499,908 3532,908 3692,907 3722,907 3787,906 3818,906 4017,906 4049,906 4177,906 4207,906 4375,905 4403,905 4476,905 4505,905 4577,902"/>
                 <TextEquiv>
                     <Unicode>Männer und Frauen des Deutſchen Roten Kreuzes mit fol⸗</Unicode>
                 </TextEquiv>
@@ -4971,7 +4971,7 @@ Kreuzes.</Unicode>
             </TextLine>
             <TextLine id="r13l10" custom="readingOrder {index:9;}">
                 <Coords points="3220,1031 3278,1019 3499,1017 3642,1016 4416,1011 4550,1011 4576,1016 4576,1049 4550,1059 3859,1066 3828,1066 3327,1064 3220,1059"/>
-                <Baseline points="3219,1057 3298,1056 3327,1057 3476,1056 3499,1056 3616,1055 3642,1055 3779,1055 3828,1056 3897,1056 3924,1055 4049,1054 4077,1054 4288,1052 4314,1052 4390,1051 4416,1051 4576,1049"/>
+                <Baseline points="3220,1057 3298,1056 3327,1057 3476,1056 3499,1056 3616,1055 3642,1055 3779,1055 3828,1056 3897,1056 3924,1055 4049,1054 4077,1054 4288,1052 4314,1052 4390,1051 4416,1051 4576,1049"/>
                 <TextEquiv>
                     <Unicode>und Volkes, Adolf Hitler. Ich gelobe Gehorſam und Pflicht⸗</Unicode>
                 </TextEquiv>
@@ -5093,7 +5093,7 @@ den Befehlen meiner Vorgeſetzten. So wahr mir Gott helfe.“</Unicode>
             </TextLine>
             <TextLine id="r14l13" custom="readingOrder {index:12;}">
                 <Coords points="3318,1861 3533,1856 4292,1847 4533,1847 4576,1856 4576,1884 4533,1886 4004,1904 3372,1908 3318,1908"/>
-                <Baseline points="3318,1898 3372,1898 3411,1898 3498,1898 3533,1898 3713,1895 3748,1894 3847,1894 3882,1894 4004,1893 4050,1893 4146,1892 4193,1891 4246,1890 4292,1889 4472,1887 4521,1884 4578,1883"/>
+                <Baseline points="3318,1898 3372,1898 3411,1898 3498,1898 3533,1898 3713,1895 3748,1894 3847,1894 3882,1894 4004,1893 4050,1893 4146,1892 4193,1891 4246,1890 4292,1889 4472,1887 4521,1884 4576,1883"/>
                 <TextEquiv>
                     <Unicode>(2) Das Deutſche Rote Kreuz kann im Ausland im</Unicode>
                 </TextEquiv>
@@ -5161,7 +5161,7 @@ Rahmen ſeiner Zweckbeſtimmung Hilfe leiſten.</Unicode>
             </TextLine>
             <TextLine id="r15l6" custom="readingOrder {index:5;}">
                 <Coords points="3214,2266 3230,2265 4219,2253 4518,2250 4575,2264 4578,2283 4557,2289 4405,2300 3306,2314 3287,2314 3214,2303"/>
-                <Baseline points="3215,2303 3349,2303 3369,2303 3432,2302 3458,2302 3554,2301 3580,2300 3676,2299 3702,2299 3835,2298 3860,2298 3939,2297 3962,2297 4108,2294 4131,2294 4363,2291 4385,2291 4451,2291 4476,2290 4573,2287"/>
+                <Baseline points="3215,2303 3349,2303 3369,2303 3432,2302 3458,2302 3554,2301 3580,2300 3676,2299 3702,2299 3835,2298 3860,2298 3939,2297 3962,2297 4108,2294 4131,2294 4363,2291 4385,2291 4451,2291 4476,2290 4572,2284"/>
                 <TextEquiv>
                     <Unicode>länger als breit ſind) gemäß dem Genfer Abkommen zur Ver⸗</Unicode>
                 </TextEquiv>
@@ -5175,7 +5175,7 @@ Rahmen ſeiner Zweckbeſtimmung Hilfe leiſten.</Unicode>
             </TextLine>
             <TextLine id="r15l8" custom="readingOrder {index:7;}">
                 <Coords points="3213,2366 3960,2354 4433,2350 4573,2350 4573,2387 4379,2400 4234,2407 3333,2413 3302,2413 3213,2404"/>
-                <Baseline points="3213,2404 3270,2403 3302,2403 3414,2402 3449,2402 3536,2401 3569,2400 3630,2400 3665,2399 3762,2398 3796,2398 3893,2397 3925,2397 4234,2393 4267,2393 4379,2391 4411,2390 4500,2389 4533,2388 4574,2386"/>
+                <Baseline points="3213,2404 3270,2403 3302,2403 3414,2402 3449,2402 3536,2401 3569,2400 3630,2400 3665,2399 3762,2398 3796,2398 3893,2397 3925,2397 4234,2393 4267,2393 4379,2391 4411,2390 4500,2389 4533,2388 4573,2386"/>
                 <TextEquiv>
                     <Unicode>im Felde vom 27. Juli 1929 (Reichsgeſetzbl. 1934, Teil II</Unicode>
                 </TextEquiv>
@@ -5210,7 +5210,7 @@ Rahmen ſeiner Zweckbeſtimmung Hilfe leiſten.</Unicode>
             </TextLine>
             <TextLine id="r15l13" custom="readingOrder {index:12;}">
                 <Coords points="3215,2636 4192,2627 4438,2621 4544,2621 4576,2623 4576,2658 4543,2672 4073,2678 3829,2681 3408,2684 3309,2684 3215,2675"/>
-                <Baseline points="3217,2674 3408,2674 3431,2673 3609,2672 3632,2671 3710,2670 3733,2670 3891,2668 3913,2668 4076,2667 4096,2666 4155,2665 4176,2665 4244,2664 4267,2664 4309,2663 4331,2663 4400,2661 4416,2661 4577,2655"/>
+                <Baseline points="3217,2674 3408,2674 3431,2673 3609,2672 3632,2671 3710,2670 3733,2670 3891,2668 3913,2668 4076,2667 4096,2666 4155,2665 4176,2665 4244,2664 4267,2664 4309,2663 4331,2663 4400,2661 4416,2661 4576,2655"/>
                 <TextEquiv>
                     <Unicode>deutſchen Männer und Frauen werden, die den in den Dienſt⸗</Unicode>
                 </TextEquiv>
@@ -5669,7 +5669,7 @@ allgemeinen Weiſungen durch ein Verordnungsblatt des Deut⸗
             </TextLine>
             <TextLine id="r17l12" custom="readingOrder {index:11;}">
                 <Coords points="3203,5717 3330,5733 3330,5761 3201,5762"/>
-                <Baseline points="3208,5762 3330,5761"/>
+                <Baseline points="3207,5761 3330,5761"/>
                 <TextEquiv>
                     <Unicode>laden.</Unicode>
                 </TextEquiv>
@@ -5732,7 +5732,7 @@ allgemeinen Weiſungen durch ein Verordnungsblatt des Deut⸗
             </TextLine>
             <TextLine id="r17l21" custom="readingOrder {index:20;}">
                 <Coords points="3303,6187 3505,6184 3818,6179 3889,6179 4536,6183 4567,6194 4567,6221 4291,6234 3893,6233 3822,6234 3305,6236"/>
-                <Baseline points="3303,6225 3361,6226 3395,6227 3471,6227 3505,6226 3818,6224 3872,6224 3889,6224 3906,6224 4188,6225 4222,6225 4363,6223 4396,6223 4454,6222 4491,6222 4567,6221"/>
+                <Baseline points="3304,6224 3361,6226 3395,6227 3471,6227 3505,6226 3818,6224 3872,6224 3889,6224 3906,6224 4188,6225 4222,6225 4363,6223 4396,6223 4454,6222 4491,6222 4567,6221"/>
                 <TextEquiv>
                     <Unicode>(2) Die Dienſtſtellen der Landesführer führen die Be⸗</Unicode>
                 </TextEquiv>
@@ -6222,7 +6222,7 @@ regeln die Dienſtvorſchriften für das Deutſche Rote Kreuz.</Unicode>
             </TextLine>
             <TextLine id="r20l10" custom="readingOrder {index:9;}">
                 <Coords points="5164,3228 5803,3224 5829,3224 6311,3245 6348,3248 6391,3258 6408,3266 6408,3280 6406,3296 6311,3295 6193,3295 5803,3288 5205,3276 5164,3275"/>
-                <Baseline points="5164,3265 5217,3266 5245,3268 5334,3269 5364,3270 5508,3272 5538,3272 5629,3274 5655,3274 5709,3275 5738,3276 5931,3279 5959,3280 6084,3282 6111,3282 6167,3283 6193,3284 6408,3286"/>
+                <Baseline points="5164,3265 5217,3266 5245,3268 5334,3269 5364,3270 5508,3272 5538,3272 5629,3274 5655,3274 5709,3275 5738,3276 5931,3279 5959,3280 6084,3282 6111,3282 6167,3283 6193,3284 6407,3285"/>
                 <TextEquiv>
                     <Unicode>(2) Das Nähere über die Anſtalten regeln die Dienſtvor⸗</Unicode>
                 </TextEquiv>
@@ -7441,7 +7441,7 @@ geſtellt ſind, ſoweit ſie zur Zuſtändigkeit der Ueberwachungs⸗
             </TextLine>
             <TextLine id="r24l19" custom="readingOrder {index:18;}">
                 <Coords points="6540,5673 6554,5673 7720,5682 7772,5693 7789,5707 7789,5720 7789,5737 7726,5734 7700,5738 6720,5723 6581,5723 6540,5720"/>
-                <Baseline points="6540,5712 6595,5713 6618,5713 6698,5714 6720,5715 6930,5717 6951,5718 7037,5719 7057,5719 7153,5719 7175,5719 7482,5723 7501,5724 7563,5725 7586,5725 7790,5727"/>
+                <Baseline points="6540,5712 6595,5713 6618,5713 6698,5714 6720,5715 6930,5717 6951,5718 7037,5719 7057,5719 7153,5719 7175,5719 7482,5723 7501,5724 7563,5725 7586,5725 7789,5727"/>
                 <TextEquiv>
                     <Unicode>(5) Der Verkäufer darf ohne Aushändigung der Einkaufs⸗</Unicode>
                 </TextEquiv>
@@ -7699,7 +7699,7 @@ anz. Nr. 207 vom 14. November 1934) ſind, jedoch nur inſo⸗</Unicode>
             </TextLine>
             <TextLine id="r25l14" custom="readingOrder {index:13;}">
                 <Coords points="8038,1341 8054,1340 8074,1340 8433,1341 9191,1346 9210,1362 9210,1377 9206,1394 9016,1395 8139,1389 8077,1388 8038,1385"/>
-                <Baseline points="8038,1377 8089,1377 8120,1378 8465,1382 8501,1382 8621,1382 8660,1383 8730,1383 8767,1383 8818,1384 8854,1384 8891,1384 8930,1384 8990,1385 9016,1385 9209,1385"/>
+                <Baseline points="8038,1377 8089,1377 8120,1378 8465,1382 8501,1382 8621,1382 8660,1383 8730,1383 8767,1383 8818,1384 8854,1384 8891,1384 8930,1384 8990,1385 9016,1385 9208,1384"/>
                 <TextEquiv>
                     <Unicode>(2) Kleinverbraucher dürfen nur die in der Einkaufs⸗</Unicode>
                 </TextEquiv>
@@ -7741,7 +7741,7 @@ anz. Nr. 207 vom 14. November 1934) ſind, jedoch nur inſo⸗</Unicode>
             </TextLine>
             <TextLine id="r25l20" custom="readingOrder {index:19;}">
                 <Coords points="7932,1654 8048,1650 8103,1650 8284,1652 8340,1665 8340,1692 8307,1692 8072,1689 8001,1688 7958,1687 7932,1686"/>
-                <Baseline points="7933,1684 8160,1687 8191,1687 8341,1689"/>
+                <Baseline points="7933,1684 8160,1687 8191,1687 8340,1689"/>
                 <TextEquiv>
                     <Unicode>verarbeitet werden.</Unicode>
                 </TextEquiv>

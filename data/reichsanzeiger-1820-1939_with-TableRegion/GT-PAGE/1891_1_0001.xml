@@ -1,24 +1,24 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
     <Metadata>
         <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.6.8:model_id=40804:lm=none:date=10_05_2022_11:39
 prov=READ-COOP:name=PyLaia@Transkribus:version=0.6.8:model_id=40804:date=10_05_2022_11:39
 Transkribus</Creator>
         <Created>2021-12-14T11:54:11.936+01:00</Created>
-        <LastChange>2022-12-07T16:05:59.439+01:00</LastChange>
+        <LastChange>2023-11-15T20:45:18.309+01:00</LastChange>
         <Comments>
                 Measurement unit: pixel
                 PrimaryLanguage: 
                 Producer: Transkribus
             </Comments>
-        <TranskribusMetadata docId="982138" pageId="37988876" pageNr="1" tsid="105747753" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=RMDXXVAWFALGDRNIWGLJYTVE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TJDMTZNJFLTTUBXXRYLWIYLZ" imageId="30635767"/>
+        <TranskribusMetadata docId="982138" pageId="37988876" pageNr="1" tsid="139840474" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=RMDXXVAWFALGDRNIWGLJYTVE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IPBYUPRRHBVJZKGUHFDPLGTA" imageId="30635767"/>
     </Metadata>
     <Page imageFilename="1891_1_0001.jpg" imageWidth="3774" imageHeight="5115">
         <PrintSpace>
             <Coords points="42,22 3722,23 3740,5047 73,5047"/>
         </PrintSpace>
         <ReadingOrder>
-            <OrderedGroup id="ro_1690359996959" caption="Regions reading order">
+            <OrderedGroup id="ro_1700129728299" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
                 <RegionRefIndexed index="1" regionRef="r2"/>
                 <RegionRefIndexed index="2" regionRef="r3"/>
@@ -52,7 +52,7 @@ Transkribus</Creator>
             <Coords points="1878,337 2022,337 2022,414 1878,414"/>
             <TextLine id="r2l1" custom="readingOrder {index:0;}">
                 <Coords points="1903,351 2000,351 2000,408 1903,408"/>
-                <Baseline points="1902,403 2001,405"/>
+                <Baseline points="1903,403 2000,405"/>
                 <TextEquiv>
                     <Unicode>und</Unicode>
                 </TextEquiv>
@@ -91,7 +91,7 @@ Transkribus</Creator>
             <Coords points="1029,821 1788,821 1788,971 1029,971"/>
             <TextLine id="r5l1" custom="readingOrder {index:0;}">
                 <Coords points="1053,850 1091,846 1134,846 1730,863 1764,881 1764,966 1730,970 1426,970 1091,947 1053,927"/>
-                <Baseline points="1053,924 1336,940 1386,941 1766,948"/>
+                <Baseline points="1053,924 1336,940 1386,941 1764,948"/>
                 <TextEquiv>
                     <Unicode>Berlin, Donnerſtag,</Unicode>
                 </TextEquiv>
@@ -282,7 +282,7 @@ Transkribus</Creator>
             </TextLine>
             <TextLine id="r9l20" custom="readingOrder {index:19;}">
                 <Coords points="268,2015 404,2015 490,2028 488,2071 275,2076"/>
-                <Baseline points="268,2054 486,2060 490,2060"/>
+                <Baseline points="272,2053 486,2060"/>
                 <TextEquiv>
                     <Unicode>Anwendung.</Unicode>
                 </TextEquiv>
@@ -625,7 +625,7 @@ Transkribus</Creator>
             </TextLine>
             <TextLine id="r9l69" custom="readingOrder {index:68;}">
                 <Coords points="372,4189 640,4189 1360,4199 1373,4204 1391,4215 1394,4235 1365,4248 1345,4244 1287,4243 372,4232"/>
-                <Baseline points="372,4222 440,4223 462,4224 640,4226 672,4226 773,4227 805,4227 938,4231 969,4231 1016,4232 1041,4233 1171,4236 1202,4236 1270,4237 1286,4238 1386,4239"/>
+                <Baseline points="372,4222 440,4223 462,4224 640,4226 672,4226 773,4227 805,4227 938,4231 969,4231 1016,4232 1041,4233 1171,4236 1202,4236 1270,4237 1286,4238 1385,4238"/>
                 <TextEquiv>
                     <Unicode>Für Beſchlüſſe, welche lediglich die Prozeß⸗ oder Sach⸗</Unicode>
                 </TextEquiv>
@@ -688,7 +688,7 @@ Transkribus</Creator>
             </TextLine>
             <TextLine id="r9l78" custom="readingOrder {index:77;}">
                 <Coords points="296,4558 597,4557 732,4557 1066,4563 1163,4567 1172,4593 1167,4606 902,4604 768,4604 296,4600"/>
-                <Baseline points="296,4592 357,4592 378,4592 478,4592 501,4593 547,4593 597,4593 744,4595 765,4595 925,4598 947,4598 1066,4600 1086,4601 1172,4602"/>
+                <Baseline points="296,4592 357,4592 378,4592 478,4592 501,4593 547,4593 597,4593 744,4595 765,4595 925,4598 947,4598 1066,4600 1086,4601 1168,4600"/>
                 <TextEquiv>
                     <Unicode>ein, ſofern die Zuſtellung demnächſt bewirkt wird.</Unicode>
                 </TextEquiv>
@@ -854,7 +854,7 @@ einen daſelbſt wohnhaften Prozeß⸗Bevollmächtigten beſtellt hat,</Unicode>
             </TextLine>
             <TextLine id="r10l5" custom="readingOrder {index:4;}">
                 <Coords points="1422,1309 1435,1302 1622,1305 2515,1323 2510,1361 2390,1359 2373,1359 1727,1348 1449,1339 1422,1339"/>
-                <Baseline points="1422,1339 1618,1340 1640,1341 1705,1342 1744,1343 1861,1346 1891,1347 1971,1348 2002,1348 2091,1349 2122,1350 2168,1350 2188,1350 2297,1352 2317,1352 2424,1354 2448,1352 2511,1354"/>
+                <Baseline points="1422,1339 1618,1340 1640,1341 1705,1342 1744,1343 1861,1346 1891,1347 1971,1348 2002,1348 2091,1349 2122,1350 2168,1350 2188,1350 2297,1352 2317,1352 2424,1354 2448,1352 2510,1353"/>
                 <TextEquiv>
                     <Unicode>gerichtlichen Verhandlung oder, wenn die Partei vorher dem</Unicode>
                 </TextEquiv>
@@ -952,7 +952,7 @@ einen daſelbſt wohnhaften Prozeß⸗Bevollmächtigten beſtellt hat,</Unicode>
             </TextLine>
             <TextLine id="r10l19" custom="readingOrder {index:18;}">
                 <Coords points="1426,1883 1513,1879 1544,1887 2427,1900 2484,1906 2517,1912 2516,1940 1602,1925 1530,1925 1425,1924"/>
-                <Baseline points="1426,1917 1541,1920 1568,1920 1678,1923 1709,1924 1755,1925 1789,1926 2003,1930 2036,1930 2110,1932 2142,1932 2199,1933 2231,1934 2435,1936 2466,1936 2517,1938"/>
+                <Baseline points="1426,1917 1541,1920 1568,1920 1678,1923 1709,1924 1755,1925 1789,1926 2003,1930 2036,1930 2110,1932 2142,1932 2199,1933 2231,1934 2435,1936 2466,1936 2516,1937"/>
                 <TextEquiv>
                     <Unicode>Jedoch erfolgt die Entſcheidung über das Rechtsmittel der</Unicode>
                 </TextEquiv>
@@ -987,7 +987,7 @@ einen daſelbſt wohnhaften Prozeß⸗Bevollmächtigten beſtellt hat,</Unicode>
             </TextLine>
             <TextLine id="r10l24" custom="readingOrder {index:23;}">
                 <Coords points="1426,2088 1512,2088 1703,2090 2372,2098 2518,2107 2516,2144 2372,2149 2337,2149 1498,2128 1426,2126"/>
-                <Baseline points="1426,2121 1512,2124 1533,2125 1772,2130 1803,2131 1879,2132 1910,2133 2032,2134 2065,2135 2128,2135 2150,2135 2243,2136 2263,2137 2337,2137 2363,2138 2372,2138 2383,2138 2446,2138 2466,2139 2518,2139"/>
+                <Baseline points="1426,2121 1512,2124 1533,2125 1772,2130 1803,2131 1879,2132 1910,2133 2032,2134 2065,2135 2128,2135 2150,2135 2243,2136 2263,2137 2337,2137 2363,2138 2372,2138 2383,2138 2446,2138 2466,2139 2516,2138"/>
                 <TextEquiv>
                     <Unicode>durch Rechtsanwälte nicht geboten und findet der §. 269 der</Unicode>
                 </TextEquiv>
@@ -1057,7 +1057,7 @@ einen daſelbſt wohnhaften Prozeß⸗Bevollmächtigten beſtellt hat,</Unicode>
             </TextLine>
             <TextLine id="r10l34" custom="readingOrder {index:33;}">
                 <Coords points="1435,2527 1450,2519 1998,2529 2287,2535 2464,2528 2484,2532 2515,2539 2528,2548 2528,2562 2527,2570 2476,2574 2379,2571 2006,2568 1450,2559 1435,2552"/>
-                <Baseline points="1435,2552 1521,2554 1552,2555 1654,2557 1686,2558 1807,2561 1839,2561 1900,2562 1921,2562 1987,2563 2001,2563 2140,2564 2149,2564 2292,2566 2306,2566 2357,2566 2374,2566 2528,2564"/>
+                <Baseline points="1435,2552 1521,2554 1552,2555 1654,2557 1686,2558 1807,2561 1839,2561 1900,2562 1921,2562 1987,2563 2001,2563 2140,2564 2149,2564 2292,2566 2306,2566 2357,2566 2374,2566 2527,2563"/>
                 <TextEquiv>
                     <Unicode>nicht, ſoweit dieſelbe von dem Gerichtsſchreiber der Gerichts⸗</Unicode>
                 </TextEquiv>
@@ -1113,7 +1113,7 @@ einen daſelbſt wohnhaften Prozeß⸗Bevollmächtigten beſtellt hat,</Unicode>
             </TextLine>
             <TextLine id="r10l42" custom="readingOrder {index:41;}">
                 <Coords points="1517,2873 1746,2873 2030,2877 2514,2884 2531,2890 2535,2922 2514,2923 2377,2923 1518,2913"/>
-                <Baseline points="1517,2907 1746,2911 1769,2911 2030,2915 2065,2916 2176,2917 2197,2917 2258,2917 2291,2917 2356,2918 2377,2918 2531,2919"/>
+                <Baseline points="1517,2906 1746,2911 1769,2911 2030,2915 2065,2916 2176,2917 2197,2917 2258,2917 2291,2917 2356,2918 2377,2918 2531,2919"/>
                 <TextEquiv>
                     <Unicode>Vollſtreckbare Ausfertigungen dürfen von dem Gerichts⸗</Unicode>
                 </TextEquiv>
@@ -1155,7 +1155,7 @@ einen daſelbſt wohnhaften Prozeß⸗Bevollmächtigten beſtellt hat,</Unicode>
             </TextLine>
             <TextLine id="r10l48" custom="readingOrder {index:47;}">
                 <Coords points="1437,3141 1507,3145 1561,3145 1936,3149 2491,3158 2533,3162 2533,3184 2529,3195 2491,3197 2415,3197 1726,3192 1541,3188 1507,3185 1435,3180"/>
-                <Baseline points="1437,3178 1616,3180 1652,3180 1704,3181 1724,3182 2008,3185 2040,3186 2106,3187 2126,3187 2296,3189 2326,3189 2394,3190 2415,3190 2534,3188"/>
+                <Baseline points="1437,3178 1616,3180 1652,3180 1704,3181 1724,3182 2008,3185 2040,3186 2106,3187 2126,3187 2296,3189 2326,3189 2394,3190 2415,3190 2531,3187"/>
                 <TextEquiv>
                     <Unicode>Eröffnung des Hauptverfahrens eine Handlung zum Gegen⸗</Unicode>
                 </TextEquiv>
@@ -1576,7 +1576,7 @@ des Geſetzes über die Konſulargerichtsbarkeit.</Unicode>
             </TextLine>
             <TextLine id="r11l8" custom="readingOrder {index:7;}">
                 <Coords points="2567,1489 2601,1480 3034,1477 3172,1477 3651,1489 3654,1526 3221,1526 3032,1521 2567,1520"/>
-                <Baseline points="2567,1513 2677,1514 2712,1514 2813,1515 2847,1515 2905,1515 2940,1516 3187,1517 3209,1517 3254,1518 3295,1518 3358,1519 3399,1520 3446,1520 3479,1521 3654,1523"/>
+                <Baseline points="2567,1513 2677,1514 2712,1514 2813,1515 2847,1515 2905,1515 2940,1516 3187,1517 3209,1517 3254,1518 3295,1518 3358,1519 3399,1520 3446,1520 3479,1521 3653,1523"/>
                 <TextEquiv>
                     <Unicode>gebiete finden das Gerichtskoſtengeſetz und die Gebühren⸗</Unicode>
                 </TextEquiv>
@@ -1632,7 +1632,7 @@ des Geſetzes über die Konſulargerichtsbarkeit.</Unicode>
             </TextLine>
             <TextLine id="r11l16" custom="readingOrder {index:15;}">
                 <Coords points="2570,1828 2937,1832 2978,1829 3657,1839 3658,1878 2987,1870 2938,1870 2651,1870 2570,1865"/>
-                <Baseline points="2571,1861 2760,1863 2802,1864 2921,1864 2938,1864 2977,1865 3006,1864 3171,1866 3219,1866 3272,1867 3313,1867 3659,1870"/>
+                <Baseline points="2571,1861 2760,1863 2802,1864 2921,1864 2938,1864 2977,1865 3006,1864 3171,1866 3219,1866 3272,1867 3313,1867 3657,1870"/>
                 <TextEquiv>
                     <Unicode>beweglichen Sachen einſchließlich des Bergwerkeigenthums</Unicode>
                 </TextEquiv>
@@ -1653,7 +1653,7 @@ des Geſetzes über die Konſulargerichtsbarkeit.</Unicode>
             </TextLine>
             <TextLine id="r11l19" custom="readingOrder {index:18;}">
                 <Coords points="2571,1949 2735,1949 3185,1952 3659,1960 3660,1994 3564,1996 3452,1997 3314,1994 2806,1990 2595,1984 2570,1984"/>
-                <Baseline points="2571,1982 2774,1984 2806,1984 2869,1985 2890,1985 2939,1985 2960,1985 3015,1986 3035,1986 3185,1987 3236,1987 3273,1988 3294,1988 3452,1990 3473,1990 3564,1991 3585,1992 3660,1993"/>
+                <Baseline points="2571,1982 2774,1984 2806,1984 2869,1985 2890,1985 2939,1985 2960,1985 3015,1986 3035,1986 3185,1987 3236,1987 3273,1988 3294,1988 3452,1990 3473,1990 3564,1991 3585,1992 3659,1993"/>
                 <TextEquiv>
                     <Unicode>Gouverneur ſind bis auf Weiteres zur Regelung dieſer Ver⸗</Unicode>
                 </TextEquiv>
@@ -1702,7 +1702,7 @@ des Geſetzes über die Konſulargerichtsbarkeit.</Unicode>
             </TextLine>
             <TextLine id="r11l26" custom="readingOrder {index:25;}">
                 <Coords points="2575,2253 2787,2256 2857,2256 3671,2262 3671,2300 3589,2302 3281,2293 2575,2287"/>
-                <Baseline points="2575,2282 2762,2288 2789,2288 2859,2289 2874,2289 3150,2292 3189,2289 3251,2290 3284,2290 3590,2296 3623,2297 3668,2297"/>
+                <Baseline points="2575,2282 2762,2288 2789,2288 2859,2289 2874,2289 3150,2291 3189,2289 3251,2290 3284,2290 3590,2296 3623,2297 3668,2297"/>
                 <TextEquiv>
                     <Unicode>urkundung des Perſonenſtandes von Reichsangehörigen im</Unicode>
                 </TextEquiv>
@@ -1716,7 +1716,7 @@ des Geſetzes über die Konſulargerichtsbarkeit.</Unicode>
             </TextLine>
             <TextLine id="r11l28" custom="readingOrder {index:27;}">
                 <Coords points="2580,2329 3608,2340 3635,2341 3670,2327 3670,2383 3635,2379 2638,2366 2583,2369"/>
-                <Baseline points="2580,2364 2675,2361 2721,2365 2741,2366 2777,2366 2843,2367 2878,2367 3078,2369 3112,2370 3181,2369 3218,2370 3244,2370 3428,2370 3500,2370 3539,2371 3578,2371 3610,2373 3669,2375"/>
+                <Baseline points="2582,2363 2675,2361 2721,2365 2741,2366 2777,2366 2843,2367 2878,2367 3078,2369 3112,2370 3181,2369 3218,2370 3244,2370 3428,2370 3500,2370 3539,2371 3578,2371 3610,2373 3669,2375"/>
                 <TextEquiv>
                     <Unicode>findet in dem Schutzgebiet vom 1. Januar 1891 ab auf</Unicode>
                 </TextEquiv>
@@ -1772,7 +1772,7 @@ des Geſetzes über die Konſulargerichtsbarkeit.</Unicode>
             </TextLine>
             <TextLine id="r11l36" custom="readingOrder {index:35;}">
                 <Coords points="2586,2700 2672,2704 2738,2711 2738,2740 2670,2745 2586,2744"/>
-                <Baseline points="2585,2739 2617,2739 2669,2739 2738,2740"/>
+                <Baseline points="2586,2739 2617,2739 2669,2739 2738,2740"/>
                 <TextEquiv>
                     <Unicode>in Kraft.</Unicode>
                 </TextEquiv>
@@ -2087,7 +2087,7 @@ Deutſch⸗Oſt⸗Afrika.</Unicode>
             </TextLine>
             <TextLine id="r13l27" custom="readingOrder {index:26;}">
                 <Coords points="2680,4352 3558,4339 3628,4339 3703,4346 3710,4382 3629,4386 3188,4389 3059,4389 2680,4387"/>
-                <Baseline points="2680,4387 2748,4386 2769,4388 2976,4385 2995,4385 3035,4384 3053,4384 3168,4381 3197,4381 3373,4380 3404,4380 3468,4379 3499,4379 3628,4378 3656,4378 3703,4378"/>
+                <Baseline points="2680,4387 2748,4386 2769,4387 2976,4385 2995,4385 3035,4384 3053,4384 3168,4381 3197,4381 3373,4380 3404,4380 3468,4379 3499,4379 3628,4378 3656,4378 3703,4378"/>
                 <TextEquiv>
                     <Unicode>Der Gouverneur iſt befugt, polizeiliche und ſonſtige die</Unicode>
                 </TextEquiv>

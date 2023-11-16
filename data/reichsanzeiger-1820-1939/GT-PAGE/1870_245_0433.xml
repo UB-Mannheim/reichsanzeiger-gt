@@ -5,20 +5,20 @@
 prov=READ-COOP:name=PyLaia@Transkribus:version=0.7.1:model_id=40804:date=05_07_2022_11:17
 Transkribus</Creator>
         <Created>2021-12-14T11:42:55.056+01:00</Created>
-        <LastChange>2023-07-26T12:27:29.399+02:00</LastChange>
+        <LastChange>2023-11-16T11:27:51.755+01:00</LastChange>
         <Comments>
                 Measurement unit: pixel
                 PrimaryLanguage: 
                 Producer: Transkribus
             </Comments>
-        <TranskribusMetadata docId="1256542" pageId="50892372" pageNr="4" tsid="130936365" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=YZNSETENBJSPGHUOJJBMANFG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DHACTOWORVIDHVXRKTWERNCR" imageId="27705303"/>
+        <TranskribusMetadata docId="1256542" pageId="50892372" pageNr="4" tsid="139882979" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=YZNSETENBJSPGHUOJJBMANFG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QWMDJLLSZKFWRIOFTIDOPUNX" imageId="27705303"/>
     </Metadata>
     <Page imageFilename="1870_245_0433.jpg" imageWidth="9616" imageHeight="6576">
         <PrintSpace>
             <Coords points="797,178 8857,213 8857,6465 797,6430"/>
         </PrintSpace>
         <ReadingOrder>
-            <OrderedGroup id="ro_1690386033218" caption="Regions reading order">
+            <OrderedGroup id="ro_1700130955360" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
                 <RegionRefIndexed index="1" regionRef="r2"/>
                 <RegionRefIndexed index="2" regionRef="r3"/>
@@ -508,7 +508,7 @@ deutſchen Vaterlandes! Das walte Gott!</Unicode>
             </TextLine>
             <TextLine id="r4l22" custom="readingOrder {index:21;}">
                 <Coords points="1042,5020 1113,5020 2886,5031 2920,5040 2920,5094 2886,5108 2762,5100 1047,5077"/>
-                <Baseline points="1042,5074 1245,5074 1302,5074 1477,5075 1525,5076 1735,5078 1770,5078 2036,5080 2091,5081 2172,5081 2224,5082 2635,5087 2691,5088 2920,5092"/>
+                <Baseline points="1046,5073 1245,5074 1302,5074 1477,5075 1525,5076 1735,5078 1770,5078 2036,5080 2091,5081 2172,5081 2224,5082 2635,5087 2691,5088 2920,5092"/>
                 <TextEquiv>
                     <Unicode>Palais begab, zahlloſe Schaaren der aufwachſenden Jugend.</Unicode>
                 </TextEquiv>
@@ -599,7 +599,7 @@ deutſchen Vaterlandes! Das walte Gott!</Unicode>
             </TextLine>
             <TextLine id="r4l35" custom="readingOrder {index:34;}">
                 <Coords points="1042,5869 1070,5869 1831,5875 2488,5887 2702,5891 2908,5895 2908,5948 2652,5941 1408,5938 1078,5942 1042,5919"/>
-                <Baseline points="1042,5906 1136,5922 1207,5923 1332,5925 1404,5927 1831,5933 1904,5934 2068,5936 2152,5937 2230,5938 2311,5939 2378,5940 2463,5941 2558,5942 2648,5943 2908,5946"/>
+                <Baseline points="1042,5906 1136,5922 1207,5923 1332,5925 1404,5927 1831,5933 1904,5934 2068,5936 2152,5937 2230,5938 2311,5939 2378,5940 2463,5940 2558,5940 2648,5940 2908,5946"/>
                 <TextEquiv>
                     <Unicode>ben vom Oranienburger Thore bis an das Denkmal</Unicode>
                 </TextEquiv>
@@ -820,7 +820,7 @@ Menge die Straßen der Hauptſtadt auf und ab.</Unicode>
             </TextLine>
             <TextLine id="r6l16" custom="readingOrder {index:15;}">
                 <Coords points="3040,2013 3219,2002 3245,2002 3655,2003 3921,2005 4278,2009 4538,2013 4601,2014 4703,2021 4756,2025 4822,2032 4822,2088 4450,2076 3042,2068"/>
-                <Baseline points="3040,2053 3335,2055 3389,2055 3493,2056 3550,2056 3720,2056 3772,2057 3921,2058 3980,2059 4186,2060 4237,2061 4356,2063 4412,2064 4464,2065 4516,2066 4631,2069 4680,2070 4756,2071 4791,2071 4822,2072"/>
+                <Baseline points="3041,2052 3335,2055 3389,2055 3493,2056 3550,2056 3720,2056 3772,2057 3921,2058 3980,2059 4186,2060 4237,2061 4356,2063 4412,2064 4464,2065 4516,2066 4631,2069 4680,2070 4756,2071 4791,2071 4822,2072"/>
                 <TextEquiv>
                     <Unicode>geworden: von beiden feſten Plätzen ſteht es feſt, daß die</Unicode>
                 </TextEquiv>
@@ -1170,7 +1170,7 @@ Menge die Straßen der Hauptſtadt auf und ab.</Unicode>
             </TextLine>
             <TextLine id="r6l66" custom="readingOrder {index:65;}">
                 <Coords points="3145,5308 3456,5308 4801,5313 4804,5368 4751,5382 4660,5389 3139,5370 3140,5314"/>
-                <Baseline points="3143,5368 3456,5365 3513,5366 3612,5368 3665,5369 3748,5370 3784,5370 4158,5375 4196,5376 4280,5377 4316,5377 4499,5380 4553,5377 4636,5382 4668,5384 4734,5384 4756,5369 4800,5360"/>
+                <Baseline points="3143,5368 3456,5365 3513,5366 3612,5368 3665,5369 3748,5370 3784,5370 4158,5375 4196,5376 4280,5377 4316,5377 4499,5380 4553,5377 4636,5382 4668,5384 4733,5383 4756,5369 4800,5360"/>
                 <TextEquiv>
                     <Unicode>Gleichzeitig mit der Kapitulation der Armee hat ſich der</Unicode>
                 </TextEquiv>
@@ -1364,7 +1364,7 @@ letzten des Landes — nicht zu theuer erkauft ſein dürfte.</Unicode>
             </TextLine>
             <TextLine id="r8l2" custom="readingOrder {index:1;}">
                 <Coords points="4932,707 5045,685 5173,671 6208,680 6463,681 6777,687 6768,734 5508,727 5477,727 5108,736 4932,753"/>
-                <Baseline points="4937,744 4999,738 5019,733 5280,722 5301,722 5394,719 5445,720 5631,720 5664,721 5734,722 5766,722 6196,727 6231,728 6423,731 6440,731 6578,733 6612,734 6768,734"/>
+                <Baseline points="4937,744 4999,738 5019,733 5280,722 5301,722 5394,719 5445,720 5631,720 5664,721 5734,722 5766,722 6196,727 6231,728 6423,731 6440,731 6578,732 6612,733 6768,734"/>
                 <TextEquiv>
                     <Unicode>des Marſchalls Mac Mahon die Kapitulation von Sedan unter⸗</Unicode>
                 </TextEquiv>
@@ -1508,7 +1508,7 @@ Commandeur, ſeit dem 12. Auguſt 1861 Großoffizier der Ehrenlegion.)</Unicode>
             </TextLine>
             <TextLine id="r9l7" custom="readingOrder {index:6;}">
                 <Coords points="4930,1815 5174,1802 5193,1802 5405,1815 5427,1825 5427,1865 4935,1868"/>
-                <Baseline points="4930,1866 5080,1856 5115,1856 5419,1855"/>
+                <Baseline points="4934,1865 5080,1856 5115,1856 5419,1855"/>
                 <TextEquiv>
                     <Unicode>Grenze gekommen.</Unicode>
                 </TextEquiv>
@@ -1581,7 +1581,7 @@ treten, finden Aufnahme in den Militärhoſpitälern.</Unicode>
             </TextLine>
             <TextLine id="r10l3" custom="readingOrder {index:2;}">
                 <Coords points="5014,2357 5314,2356 5742,2356 6304,2358 6548,2359 6697,2361 6748,2362 6748,2417 6697,2428 5252,2421 5018,2423"/>
-                <Baseline points="5014,2411 5245,2410 5314,2409 5362,2409 5418,2409 5742,2410 5827,2410 5957,2411 6013,2412 6304,2412 6360,2413 6548,2414 6644,2415 6748,2417"/>
+                <Baseline points="5017,2410 5245,2410 5314,2409 5362,2409 5418,2409 5742,2410 5827,2410 5957,2411 6013,2412 6304,2412 6360,2413 6548,2414 6644,2415 6748,2417"/>
                 <TextEquiv>
                     <Unicode>Paris, 3. September. (Auf indirektem Wege.) (W.</Unicode>
                 </TextEquiv>
@@ -1917,14 +1917,14 @@ dem Kriegsſchauplatze, um am Beförderungsdienſt theilzunehmen.</Unicode>
             </TextLine>
             <TextLine id="r13l10" custom="readingOrder {index:9;}">
                 <Coords points="4983,5181 5132,5191 6267,5186 6460,5186 6636,5188 6712,5200 6712,5240 6668,5249 6529,5249 6137,5248 5527,5256 5201,5254 4987,5248"/>
-                <Baseline points="4986,5241 5341,5245 5386,5245 5434,5245 5472,5245 5581,5245 5630,5245 5676,5244 5735,5244 6054,5241 6123,5240 6229,5240 6267,5239 6331,5239 6369,5239 6460,5239 6533,5239 6712,5240"/>
+                <Baseline points="4986,5240 5341,5245 5386,5245 5434,5245 5472,5245 5581,5245 5630,5245 5676,5244 5735,5244 6054,5241 6123,5240 6229,5240 6267,5239 6331,5239 6369,5239 6460,5239 6533,5239 6712,5240"/>
                 <TextEquiv>
                     <Unicode>Frankfurt a. M., 3. September. (W. T. B.) Schon</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r13l11" custom="readingOrder {index:10;}">
                 <Coords points="4884,5233 5002,5249 5121,5252 6520,5252 6695,5266 6713,5279 6713,5294 6695,5307 6455,5317 5476,5323 5363,5316 5126,5321 5090,5319 4886,5304 4884,5239"/>
-                <Baseline points="4884,5295 4939,5297 4974,5300 5053,5306 5090,5309 5272,5309 5308,5309 5758,5309 5797,5309 5854,5309 5892,5309 5964,5307 6002,5307 6166,5306 6203,5306 6260,5306 6295,5306 6455,5305 6494,5305 6575,5304 6613,5306 6713,5290"/>
+                <Baseline points="4885,5294 4939,5297 4974,5300 5053,5306 5090,5309 5272,5309 5308,5309 5758,5309 5797,5309 5854,5309 5892,5309 5964,5307 6002,5307 6166,5306 6203,5306 6260,5306 6295,5306 6455,5305 6494,5305 6575,5304 6613,5306 6713,5290"/>
                 <TextEquiv>
                     <Unicode>ſeit den frühen Morgenſtunden iſt die Stadt in Folge der ein⸗</Unicode>
                 </TextEquiv>
@@ -1966,7 +1966,7 @@ dem Kriegsſchauplatze, um am Beförderungsdienſt theilzunehmen.</Unicode>
             </TextLine>
             <TextLine id="r13l17" custom="readingOrder {index:16;}">
                 <Coords points="4977,5642 5024,5642 6300,5645 6595,5646 6711,5648 6711,5699 6595,5712 6466,5711 6308,5711 5975,5710 5233,5716 4981,5707"/>
-                <Baseline points="4977,5699 5301,5705 5358,5705 5405,5704 5462,5704 5505,5703 5561,5703 5755,5701 5804,5701 5886,5700 5939,5700 6155,5699 6227,5699 6348,5699 6395,5699 6480,5699 6548,5699 6711,5699"/>
+                <Baseline points="4980,5698 5301,5705 5358,5705 5405,5704 5462,5704 5505,5703 5561,5703 5755,5701 5804,5701 5886,5700 5939,5700 6155,5699 6227,5699 6348,5699 6395,5699 6480,5699 6548,5699 6711,5699"/>
                 <TextEquiv>
                     <Unicode>Homburg v. d. Höhe, 31. Auguſt. (Rh. K.) Heute</Unicode>
                 </TextEquiv>
@@ -2108,7 +2108,7 @@ aufgenommen wurden, iſt unbeſchreiblich. Zur Feier des Sie⸗</Unicode>
             </TextLine>
             <TextLine id="r14l8" custom="readingOrder {index:7;}">
                 <Coords points="6855,1086 6929,1086 8237,1102 8730,1123 8730,1176 8599,1176 8290,1174 8185,1173 6857,1147"/>
-                <Baseline points="6855,1140 7301,1147 7359,1148 7505,1150 7552,1151 8232,1159 8290,1160 8545,1163 8599,1163 8730,1165"/>
+                <Baseline points="6856,1139 7301,1147 7359,1148 7505,1150 7552,1151 8232,1159 8290,1160 8545,1163 8599,1163 8730,1165"/>
                 <TextEquiv>
                     <Unicode>Menſchenmenge unter Inſtrumentalbegleitung geſungen war,</Unicode>
                 </TextEquiv>
@@ -2534,7 +2534,7 @@ werde.</Unicode>
             </TextLine>
             <TextLine id="r16l32" custom="readingOrder {index:31;}">
                 <Coords points="6810,4859 6847,4847 6948,4846 8171,4846 8543,4847 8667,4861 8667,4899 8585,4910 8468,4907 6811,4907"/>
-                <Baseline points="6810,4899 7015,4901 7069,4899 7163,4899 7205,4899 7310,4899 7349,4899 7546,4898 7597,4898 7669,4898 7710,4898 8232,4897 8291,4897 8667,4899"/>
+                <Baseline points="6810,4898 7015,4901 7069,4899 7163,4899 7205,4899 7310,4899 7349,4899 7546,4898 7597,4898 7669,4898 7710,4898 8232,4897 8291,4897 8667,4899"/>
                 <TextEquiv>
                     <Unicode>glaubt, daß trotz Adreſſe die Reichsrathswahlen vorzunehmen</Unicode>
                 </TextEquiv>

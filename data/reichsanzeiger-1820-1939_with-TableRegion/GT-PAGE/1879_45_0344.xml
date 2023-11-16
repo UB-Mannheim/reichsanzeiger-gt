@@ -1,22 +1,22 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
     <Metadata>
         <Creator>Transkribus</Creator>
         <Created>2021-12-14T11:43:24.508+01:00</Created>
-        <LastChange>2023-06-14T12:53:35.949+02:00</LastChange>
+        <LastChange>2023-11-15T20:46:36.031+01:00</LastChange>
         <Comments>
                 Measurement unit: pixel
                 PrimaryLanguage: 
                 Producer: Transkribus
             </Comments>
-        <TranskribusMetadata docId="900641" pageId="34524702" pageNr="27" tsid="126971814" status="GT" userId="109938" imgUrl="https://files.transkribus.eu/Get?id=QVPNVCWDJCDVFFAGQTTRYJVQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FAMFGJHSWAUUSRBYMMUQUDOW" imageId="27705090"/>
+        <TranskribusMetadata docId="900641" pageId="34524702" pageNr="27" tsid="139840599" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=QVPNVCWDJCDVFFAGQTTRYJVQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RCZNPNWDMHGHNHXSXFTHNGLY" imageId="27705090"/>
     </Metadata>
     <Page imageFilename="1879_45_0344.jpg" imageWidth="10752" imageHeight="7048">
         <PrintSpace>
             <Coords points="756,234 10029,201 9987,6761 714,6794"/>
         </PrintSpace>
         <ReadingOrder>
-            <OrderedGroup id="ro_1690360015346" caption="Regions reading order">
+            <OrderedGroup id="ro_1700129743764" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
                 <RegionRefIndexed index="1" regionRef="r2"/>
                 <RegionRefIndexed index="2" regionRef="r3"/>
@@ -448,7 +448,7 @@ ladungen u. dergl.</Unicode>
             <Coords points="971,1868 1118,1868 1120,1912 970,1913"/>
             <TextLine id="r10l1" custom="readingOrder {index:0;}">
                 <Coords points="990,1868 1111,1868 1111,1912 990,1912"/>
-                <Baseline points="989,1910 1111,1912"/>
+                <Baseline points="990,1910 1111,1912"/>
                 <TextEquiv>
                     <Unicode>[1636]</Unicode>
                 </TextEquiv>
@@ -658,7 +658,7 @@ obigen Termine geltend zu machen.</Unicode>
             </TextLine>
             <TextLine id="r12l9" custom="readingOrder {index:8;}">
                 <Coords points="987,3146 1036,3137 1079,3134 1119,3134 1163,3136 1308,3144 1320,3164 1320,3172 1302,3172 987,3172"/>
-                <Baseline points="987,3172 1054,3172 1079,3172 1315,3175"/>
+                <Baseline points="987,3172 1054,3172 1079,3172 1315,3172"/>
                 <TextEquiv>
                     <Unicode>und Bodenraum.</Unicode>
                 </TextEquiv>
@@ -819,7 +819,7 @@ obigen Termine geltend zu machen.</Unicode>
             </TextLine>
             <TextLine id="r12l32" custom="readingOrder {index:31;}">
                 <Coords points="997,4193 1038,4182 1124,4180 1171,4179 1411,4177 1777,4176 2006,4176 2029,4187 2029,4213 2006,4221 1191,4222 1172,4223 998,4219"/>
-                <Baseline points="997,4215 1059,4215 1083,4217 1106,4217 1124,4217 1209,4216 1232,4216 1283,4216 1295,4216 1687,4214 1712,4214 1856,4214 1883,4214 1931,4213 1948,4213 2029,4213"/>
+                <Baseline points="997,4214 1059,4215 1083,4217 1106,4217 1124,4217 1209,4216 1232,4216 1283,4216 1295,4216 1687,4214 1712,4214 1856,4214 1883,4214 1931,4213 1948,4213 2029,4213"/>
                 <TextEquiv>
                     <Unicode>sub 4 ſteht die Fahrweggerechtigkeit darüber zu. Fer⸗</Unicode>
                 </TextEquiv>
@@ -973,7 +973,7 @@ obigen Termine geltend zu machen.</Unicode>
             </TextLine>
             <TextLine id="r12l54" custom="readingOrder {index:53;}">
                 <Coords points="1002,5179 1270,5177 1973,5172 2023,5172 2038,5187 2034,5213 1327,5217 1309,5217 1002,5225"/>
-                <Baseline points="1002,5216 1164,5215 1188,5215 1246,5214 1270,5214 1522,5213 1555,5213 1601,5213 1624,5213 1822,5211 1874,5210 1949,5210 1973,5209 2038,5209"/>
+                <Baseline points="1002,5216 1164,5215 1188,5215 1246,5214 1270,5214 1522,5213 1555,5213 1601,5213 1624,5213 1822,5211 1874,5210 1949,5210 1973,5209 2034,5208"/>
                 <TextEquiv>
                     <Unicode>Zubehör des Staugrabens an demſelben. Der öſt⸗</Unicode>
                 </TextEquiv>
@@ -1191,7 +1191,7 @@ Culemann.</Unicode>
             </TextLine>
             <TextLine id="r13l9" custom="readingOrder {index:8;}">
                 <Coords points="1015,6173 1038,6172 1066,6171 1788,6163 1990,6163 2007,6164 2028,6167 2044,6177 2044,6192 2028,6200 1966,6207 1134,6215 1125,6215 1015,6210"/>
-                <Baseline points="1015,6210 1134,6209 1175,6209 1228,6208 1253,6208 1317,6207 1341,6207 1411,6206 1438,6206 1533,6204 1574,6203 1634,6203 1671,6202 1750,6202 1788,6201 2039,6195"/>
+                <Baseline points="1015,6210 1134,6209 1175,6209 1228,6208 1253,6208 1317,6207 1341,6207 1411,6206 1438,6206 1533,6204 1574,6203 1634,6203 1671,6202 1750,6202 1788,6201 2038,6194"/>
                 <TextEquiv>
                     <Unicode>1879, V. M. 11 ½ Uhr, vor dem Kreisgerichts⸗</Unicode>
                 </TextEquiv>
@@ -1205,7 +1205,7 @@ Culemann.</Unicode>
             </TextLine>
             <TextLine id="r13l11" custom="readingOrder {index:10;}">
                 <Coords points="1007,6258 1922,6251 2045,6251 2045,6295 1033,6302 1010,6302"/>
-                <Baseline points="1007,6299 1103,6298 1137,6298 1294,6296 1330,6296 1545,6293 1584,6293 1677,6292 1719,6291 1784,6291 1819,6290 1882,6290 1922,6290 2045,6288"/>
+                <Baseline points="1009,6298 1103,6298 1137,6298 1294,6296 1330,6296 1545,6293 1584,6293 1677,6292 1719,6291 1784,6291 1819,6290 1882,6290 1922,6290 2045,6288"/>
                 <TextEquiv>
                     <Unicode>ſigen Gerichts anberaumt, wozu wir den ſeinem</Unicode>
                 </TextEquiv>
@@ -1476,7 +1476,7 @@ liches Kreisgericht. Erſte Abtheilung.</Unicode>
                 <Coords points="2076,1353 2076,1395 3336,1386 3336,1344"/>
                 <TextLine id="TableCell_1642579709116_583l0" custom="readingOrder {index:0;}">
                     <Coords points="2178,1361 2230,1352 2366,1351 2573,1350 2622,1350 2691,1351 2703,1390 2660,1390 2247,1393 2197,1389 2178,1386"/>
-                    <Baseline points="2178,1379 2205,1388 2230,1388 2344,1389 2366,1389 2485,1388 2509,1388 2531,1388 2554,1388 2622,1388 2669,1390 2697,1391"/>
+                    <Baseline points="2178,1379 2205,1388 2230,1388 2344,1389 2366,1389 2485,1388 2509,1388 2531,1388 2554,1388 2622,1388 2669,1390 2697,1390"/>
                     <TextEquiv>
                         <Unicode>c. eigene Noten à 100 ℳ</Unicode>
                     </TextEquiv>
@@ -1517,7 +1517,7 @@ liches Kreisgericht. Erſte Abtheilung.</Unicode>
                 <Coords points="2076,1395 2076,1441 3336,1432 3336,1386"/>
                 <TextLine id="TableCell_1642579709204_589l0" custom="readingOrder {index:0;}">
                     <Coords points="2174,1397 2251,1394 2499,1394 2521,1398 2544,1407 2544,1434 2515,1437 2248,1439 2198,1434 2174,1431"/>
-                    <Baseline points="2174,1431 2207,1435 2230,1435 2544,1434"/>
+                    <Baseline points="2174,1431 2207,1434 2230,1435 2544,1434"/>
                     <TextEquiv>
                         <Unicode>d. Reichsbanknoten</Unicode>
                     </TextEquiv>
@@ -1580,7 +1580,7 @@ liches Kreisgericht. Erſte Abtheilung.</Unicode>
                 <Coords points="3558,1431 3558,1490 3617,1499 3617,1430"/>
                 <TextLine id="TableCell_1642579731263_1219l0" custom="readingOrder {index:0;}">
                     <Coords points="3558,1431 3617,1430 3613,1480 3559,1481"/>
-                    <Baseline points="3558,1479 3617,1479"/>
+                    <Baseline points="3558,1478 3613,1478"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -1602,7 +1602,7 @@ liches Kreisgericht. Erſte Abtheilung.</Unicode>
                 <Coords points="3840,1430 3840,1499 3899,1490 3899,1430"/>
                 <TextLine id="TableCell_1642579742883_1529l0" custom="readingOrder {index:0;}">
                     <Coords points="3840,1430 3899,1430 3899,1490 3845,1493"/>
-                    <Baseline points="3840,1488 3899,1490"/>
+                    <Baseline points="3844,1487 3899,1490"/>
                     <TextEquiv>
                         <Unicode>85</Unicode>
                     </TextEquiv>
@@ -1667,7 +1667,7 @@ liches Kreisgericht. Erſte Abtheilung.</Unicode>
                 <Coords points="2075,1592 2075,1638 3336,1629 3335,1582"/>
                 <TextLine id="line_1657529885890_318" custom="readingOrder {index:0;}">
                     <Coords points="2962,1582 3308,1576 3309,1626 2963,1632"/>
-                    <Baseline points="2963,1627 3309,1621"/>
+                    <Baseline points="2963,1627 3308,1621"/>
                     <TextEquiv>
                         <Unicode>ℳ 1,970,368. 51</Unicode>
                     </TextEquiv>
@@ -2092,7 +2092,7 @@ liches Kreisgericht. Erſte Abtheilung.</Unicode>
                 <Coords points="3558,2143 3558,2213 3617,2216 3617,2143"/>
                 <TextLine id="TableCell_1642579732445_1297l0" custom="readingOrder {index:0;}">
                     <Coords points="3563,2154 3608,2154 3607,2199 3562,2199"/>
-                    <Baseline points="3563,2190 3608,2190"/>
+                    <Baseline points="3563,2190 3607,2189"/>
                     <TextEquiv>
                         <Unicode>42</Unicode>
                     </TextEquiv>
@@ -2252,7 +2252,7 @@ liches Kreisgericht. Erſte Abtheilung.</Unicode>
                 <Coords points="3332,2402 3336,2453 3558,2452 3558,2390"/>
                 <TextLine id="TableCell_1642579725576_1009l0" custom="readingOrder {index:0;}">
                     <Coords points="3427,2400 3466,2394 3502,2392 3557,2391 3558,2441 3480,2442 3473,2442 3427,2436"/>
-                    <Baseline points="3427,2436 3558,2434"/>
+                    <Baseline points="3427,2436 3557,2434"/>
                     <TextEquiv>
                         <Unicode>36,400</Unicode>
                     </TextEquiv>
@@ -2263,7 +2263,7 @@ liches Kreisgericht. Erſte Abtheilung.</Unicode>
                 <Coords points="3558,2390 3558,2452 3617,2458 3617,2389"/>
                 <TextLine id="TableCell_1642579732806_1321l0" custom="readingOrder {index:0;}">
                     <Coords points="3558,2390 3617,2389 3611,2445 3552,2439"/>
-                    <Baseline points="3558,2436 3617,2440"/>
+                    <Baseline points="3558,2436 3611,2439"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -2274,7 +2274,7 @@ liches Kreisgericht. Erſte Abtheilung.</Unicode>
                 <Coords points="3617,2389 3617,2458 3840,2458 3840,2386"/>
                 <TextLine id="TableCell_1642579744519_1633l0" custom="readingOrder {index:0;}">
                     <Coords points="3682,2413 3801,2400 3836,2400 3840,2458 3780,2458 3752,2457 3682,2448"/>
-                    <Baseline points="3682,2448 3840,2448"/>
+                    <Baseline points="3682,2448 3839,2448"/>
                     <TextEquiv>
                         <Unicode>566,770</Unicode>
                     </TextEquiv>
@@ -2393,7 +2393,7 @@ liches Kreisgericht. Erſte Abtheilung.</Unicode>
                 <Coords points="3558,2546 3558,2632 3617,2632 3617,2546"/>
                 <TextLine id="TableCell_1642579733092_1339l0" custom="readingOrder {index:0;}">
                     <Coords points="3567,2577 3611,2577 3609,2621 3565,2621 3568,2584"/>
-                    <Baseline points="3565,2604 3609,2604"/>
+                    <Baseline points="3566,2604 3609,2604"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -2658,7 +2658,7 @@ liches Kreisgericht. Erſte Abtheilung.</Unicode>
                 <Coords points="2076,2920 2075,2957 3336,2950 3336,2906"/>
                 <TextLine id="TableCell_1642579711541_757l0" custom="readingOrder {index:0;}">
                     <Coords points="2293,2920 2444,2915 3315,2908 3315,2952 2351,2955 2218,2959 2218,2924"/>
-                    <Baseline points="2220,2958 2363,2955 2384,2955 2459,2958 2490,2955 2821,2952 2842,2951 2899,2951 2923,2949 3041,2948 3063,2949 3176,2950 3194,2950 3218,2950 3238,2949 3311,2947"/>
+                    <Baseline points="2220,2958 2362,2954 2383,2954 2458,2954 2489,2954 2821,2952 2842,2951 2899,2951 2923,2949 3041,2948 3063,2949 3176,2950 3194,2950 3218,2950 3238,2949 3311,2947"/>
                     <TextEquiv>
                         <Unicode>ℳ 900 4 % Sparcaſſe⸗Oblig. der Stadt Alfeld à 100</Unicode>
                     </TextEquiv>
@@ -2740,7 +2740,7 @@ liches Kreisgericht. Erſte Abtheilung.</Unicode>
                 <Coords points="2075,3011 2075,3097 3336,3088 3336,2999"/>
                 <TextLine id="TableCell_1642579711695_769l0" custom="readingOrder {index:0;}">
                     <Coords points="2220,3016 2291,3011 2481,3007 3020,3002 3136,3002 3291,3003 3307,3020 3307,3034 3291,3043 2924,3052 2418,3054 2340,3054 2220,3049"/>
-                    <Baseline points="2220,3049 2266,3048 2291,3047 2418,3047 2453,3046 2540,3048 2566,3047 2658,3045 2692,3045 2723,3045 2762,3045 2924,3046 2958,3046 3174,3042 3201,3042 3308,3040"/>
+                    <Baseline points="2220,3049 2266,3048 2291,3047 2418,3047 2453,3046 2540,3048 2566,3047 2658,3045 2692,3045 2723,3045 2762,3045 2924,3046 2958,3046 3174,3042 3201,3042 3305,3035"/>
                     <TextEquiv>
                         <Unicode>ℳ 68,400 4 % Obl. d. ritterſch. Cred.⸗Ver. Cal.⸗</Unicode>
                     </TextEquiv>
@@ -2888,7 +2888,7 @@ liches Kreisgericht. Erſte Abtheilung.</Unicode>
                 <Coords points="3336,3190 3336,3276 3558,3274 3558,3189"/>
                 <TextLine id="TableCell_1642579726884_1099l0" custom="readingOrder {index:0;}">
                     <Coords points="3448,3232 3526,3225 3555,3225 3558,3272 3510,3274 3466,3274 3448,3268"/>
-                    <Baseline points="3448,3268 3558,3270"/>
+                    <Baseline points="3448,3268 3557,3270"/>
                     <TextEquiv>
                         <Unicode>7,105</Unicode>
                     </TextEquiv>
@@ -2918,7 +2918,7 @@ liches Kreisgericht. Erſte Abtheilung.</Unicode>
                 <Coords points="2075,3284 2075,3375 3336,3368 3336,3276"/>
                 <TextLine id="TableCell_1642579712009_793l0" custom="readingOrder {index:0;}">
                     <Coords points="2292,3285 2496,3281 2939,3278 3311,3282 3306,3326 2923,3329 2906,3329 2747,3329 2333,3322 2214,3326 2214,3290"/>
-                    <Baseline points="2220,3323 2419,3320 2432,3320 2503,3323 2759,3322 3307,3320"/>
+                    <Baseline points="2220,3323 2419,3320 2432,3320 2503,3323 2759,3322 3306,3319"/>
                     <TextEquiv>
                         <Unicode>ℳ 33,100 5 % Pfandbr. d. Braunſchw.⸗Hannov. Hypo⸗</Unicode>
                     </TextEquiv>
@@ -2984,7 +2984,7 @@ liches Kreisgericht. Erſte Abtheilung.</Unicode>
                 <Coords points="3336,3368 3336,3465 3558,3465 3558,3366"/>
                 <TextLine id="TableCell_1642579727049_1111l0" custom="readingOrder {index:0;}">
                     <Coords points="3450,3416 3483,3406 3556,3406 3558,3460 3485,3460 3470,3459 3450,3450"/>
-                    <Baseline points="3450,3450 3558,3450"/>
+                    <Baseline points="3450,3450 3557,3450"/>
                     <TextEquiv>
                         <Unicode>1,406</Unicode>
                     </TextEquiv>
@@ -3219,7 +3219,7 @@ liches Kreisgericht. Erſte Abtheilung.</Unicode>
                 <Coords points="2075,3709 2075,3749 3336,3744 3336,3698"/>
                 <TextLine id="TableCell_1642579712580_835l0" custom="readingOrder {index:0;}">
                     <Coords points="2173,3710 3249,3699 3247,3743 2174,3746 2172,3717"/>
-                    <Baseline points="2173,3746 3241,3738"/>
+                    <Baseline points="2173,3745 3241,3738"/>
                     <TextEquiv>
                         <Unicode>c. „ „ „ „ „ „ Wechſeln</Unicode>
                     </TextEquiv>
@@ -3701,7 +3701,7 @@ liches Kreisgericht. Erſte Abtheilung.</Unicode>
                 </TextLine>
                 <TextLine id="TableCell_1642580381342_2095l1" custom="readingOrder {index:1;}">
                     <Coords points="4047,1439 4127,1437 4272,1437 4719,1438 4713,1485 4552,1485 4527,1485 4423,1485 4047,1476"/>
-                    <Baseline points="4047,1476 4103,1476 4127,1476 4379,1477 4417,1476 4500,1476 4530,1475 4592,1475 4601,1475 4637,1475 4651,1475 4719,1475"/>
+                    <Baseline points="4047,1476 4103,1476 4127,1476 4379,1477 4417,1476 4500,1476 4530,1475 4592,1475 4601,1475 4637,1475 4651,1475 4714,1474"/>
                     <TextEquiv>
                         <Unicode>ten Reingewinns nach § 34 der</Unicode>
                     </TextEquiv>
@@ -3752,7 +3752,7 @@ liches Kreisgericht. Erſte Abtheilung.</Unicode>
                 <Coords points="5247,1385 5247,1528 5322,1528 5322,1385"/>
                 <TextLine id="TableCell_1642580402168_2633l0" custom="readingOrder {index:0;}">
                     <Coords points="5248,1489 5298,1489 5298,1539 5248,1539 5249,1502"/>
-                    <Baseline points="5250,1537 5300,1537"/>
+                    <Baseline points="5250,1537 5298,1537"/>
                     <TextEquiv>
                         <Unicode>42</Unicode>
                     </TextEquiv>
@@ -3763,7 +3763,7 @@ liches Kreisgericht. Erſte Abtheilung.</Unicode>
                 <Coords points="3911,1531 3911,1628 4748,1628 4748,1529"/>
                 <TextLine id="TableCell_1642580381445_2101l0" custom="readingOrder {index:0;}">
                     <Coords points="3929,1542 4314,1540 4440,1540 4723,1541 4720,1586 4441,1585 4315,1585 3929,1578"/>
-                    <Baseline points="3929,1578 3961,1579 3987,1580 4141,1580 4167,1580 4234,1580 4250,1580 4297,1580 4314,1580 4715,1580"/>
+                    <Baseline points="3929,1578 3961,1578 3987,1579 4141,1580 4167,1580 4234,1580 4250,1580 4297,1580 4314,1580 4715,1580"/>
                     <TextEquiv>
                         <Unicode>3. Betrag der in Betrieb gegebenen</Unicode>
                     </TextEquiv>
@@ -3800,7 +3800,7 @@ liches Kreisgericht. Erſte Abtheilung.</Unicode>
                 <Coords points="5247,1528 5247,1628 5322,1628 5322,1528"/>
                 <TextLine id="TableCell_1642580402293_2639l0" custom="readingOrder {index:0;}">
                     <Coords points="5247,1598 5303,1598 5304,1635 5248,1635 5251,1611"/>
-                    <Baseline points="5246,1632 5302,1632"/>
+                    <Baseline points="5248,1632 5302,1632"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -3927,7 +3927,7 @@ liches Kreisgericht. Erſte Abtheilung.</Unicode>
                 <Coords points="3911,1814 3912,1863 4748,1859 4745,1815"/>
                 <TextLine id="TableCell_1642580381870_2125l0" custom="readingOrder {index:0;}">
                     <Coords points="3921,1818 3977,1814 4011,1814 4135,1819 4632,1815 4628,1858 4079,1862 3979,1862 3921,1861"/>
-                    <Baseline points="3925,1860 3956,1862 3979,1862 4008,1862 4036,1862 4135,1860 4164,1860 4593,1857"/>
+                    <Baseline points="3925,1860 3956,1861 3979,1862 4008,1862 4036,1862 4135,1860 4164,1860 4593,1857"/>
                     <TextEquiv>
                         <Unicode>b. „ 2 ½ % „ 1 „ „</Unicode>
                     </TextEquiv>
@@ -4050,7 +4050,7 @@ liches Kreisgericht. Erſte Abtheilung.</Unicode>
                 <Coords points="3911,1954 3911,1994 4746,1998 4748,1948"/>
                 <TextLine id="TableCell_1642580382187_2143l0" custom="readingOrder {index:0;}">
                     <Coords points="3920,1955 4570,1956 4592,2000 3949,1996 3941,1992 3919,1989 3919,1965"/>
-                    <Baseline points="3921,1995 4582,1998"/>
+                    <Baseline points="3921,1989 4582,1998"/>
                     <TextEquiv>
                         <Unicode>e. „ 3 % „ 3 „ „</Unicode>
                     </TextEquiv>
@@ -4202,7 +4202,7 @@ liches Kreisgericht. Erſte Abtheilung.</Unicode>
                 <Coords points="4970,2086 4970,2176 5032,2175 5032,2085"/>
                 <TextLine id="TableCell_1642580394598_2521l0" custom="readingOrder {index:0;}">
                     <Coords points="4970,2127 5017,2126 5024,2163 4977,2164 4967,2140"/>
-                    <Baseline points="4975,2161 5022,2161"/>
+                    <Baseline points="4975,2160 5022,2161"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -4317,7 +4317,7 @@ liches Kreisgericht. Erſte Abtheilung.</Unicode>
                 <Coords points="3911,2277 3911,2375 4748,2373 4748,2279"/>
                 <TextLine id="TableCell_1642580382806_2179l0" custom="readingOrder {index:0;}">
                     <Coords points="3930,2287 3990,2286 4475,2284 4643,2284 4688,2285 4719,2293 4717,2329 4694,2330 4481,2330 3954,2325 3930,2323"/>
-                    <Baseline points="3930,2323 3961,2324 3990,2325 4092,2325 4116,2325 4218,2325 4256,2325 4450,2324 4475,2324 4719,2322"/>
+                    <Baseline points="3930,2323 3961,2324 3990,2325 4092,2325 4116,2325 4218,2325 4256,2325 4450,2324 4475,2324 4717,2321"/>
                     <TextEquiv>
                         <Unicode>6. Noch nicht erhobene Dividenden</Unicode>
                     </TextEquiv>
@@ -4354,7 +4354,7 @@ liches Kreisgericht. Erſte Abtheilung.</Unicode>
                 <Coords points="5247,2280 5247,2373 5322,2373 5322,2281"/>
                 <TextLine id="TableCell_1642580403923_2717l0" custom="readingOrder {index:0;}">
                     <Coords points="5247,2280 5246,2330 5247,2373 5298,2373 5297,2330"/>
-                    <Baseline points="5253,2368 5298,2366"/>
+                    <Baseline points="5253,2368 5297,2366"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -4391,7 +4391,7 @@ liches Kreisgericht. Erſte Abtheilung.</Unicode>
                 <Coords points="5032,2373 5032,2463 5247,2470 5247,2373"/>
                 <TextLine id="TableCell_1642580404041_2725l0" custom="readingOrder {index:0;}">
                     <Coords points="5124,2408 5246,2407 5247,2470 5102,2469 5108,2417"/>
-                    <Baseline points="5111,2456 5247,2458"/>
+                    <Baseline points="5111,2456 5246,2458"/>
                     <TextEquiv>
                         <Unicode>58,219</Unicode>
                     </TextEquiv>
@@ -4402,7 +4402,7 @@ liches Kreisgericht. Erſte Abtheilung.</Unicode>
                 <Coords points="5247,2373 5247,2470 5322,2470 5322,2373"/>
                 <TextLine id="TableCell_1642580404041_2723l0" custom="readingOrder {index:0;}">
                     <Coords points="5248,2417 5304,2417 5306,2466 5250,2466 5246,2433"/>
-                    <Baseline points="5249,2462 5305,2462"/>
+                    <Baseline points="5249,2461 5305,2462"/>
                     <TextEquiv>
                         <Unicode>30</Unicode>
                     </TextEquiv>
@@ -4577,7 +4577,7 @@ liches Kreisgericht. Erſte Abtheilung.</Unicode>
                 <Coords points="3911,2651 3911,2698 4748,2700 4748,2651"/>
                 <TextLine id="TableCell_1642580383396_2215l0" custom="readingOrder {index:0;}">
                     <Coords points="3987,2653 4264,2651 4421,2651 4495,2652 4546,2661 4560,2680 4560,2689 4495,2696 4229,2697 4107,2697 4010,2696 3987,2691"/>
-                    <Baseline points="3987,2691 4081,2691 4107,2691 4146,2691 4171,2690 4329,2690 4353,2690 4552,2693"/>
+                    <Baseline points="3987,2691 4081,2691 4107,2691 4146,2691 4171,2690 4329,2690 4353,2690 4551,2689"/>
                     <TextEquiv>
                         <Unicode>Noch zu zahlende Unkoſten</Unicode>
                     </TextEquiv>
@@ -4731,7 +4731,7 @@ liches Kreisgericht. Erſte Abtheilung.</Unicode>
                 <Coords points="5247,2752 5247,2987 5322,2987 5322,2753"/>
                 <TextLine id="TableCell_1642580404850_2765l0" custom="readingOrder {index:0;}">
                     <Coords points="5252,2945 5308,2946 5306,2985 5250,2985 5250,2945"/>
-                    <Baseline points="5249,2982 5305,2982"/>
+                    <Baseline points="5250,2982 5305,2982"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -4986,7 +4986,7 @@ Zweiundzwanzigſtes Rechnungsjahr.</Unicode>
                 <Coords points="3838,4418 3838,4474 3897,4474 3897,4418"/>
                 <TextLine id="TableCell_1642581107543_3692l0" custom="readingOrder {index:0;}">
                     <Coords points="3838,4435 3871,4418 3897,4418 3897,4474 3838,4474"/>
-                    <Baseline points="3838,4475 3897,4471"/>
+                    <Baseline points="3838,4474 3897,4471"/>
                     <TextEquiv>
                         <Unicode>36</Unicode>
                     </TextEquiv>
@@ -5083,7 +5083,7 @@ Zweiundzwanzigſtes Rechnungsjahr.</Unicode>
                 <Coords points="3333,4576 3334,4663 3558,4661 3558,4572"/>
                 <TextLine id="TableCell_1642581089125_3424l0" custom="readingOrder {index:0;}">
                     <Coords points="3426,4620 3523,4611 3553,4611 3557,4661 3449,4662 3426,4655"/>
-                    <Baseline points="3426,4655 3557,4655"/>
+                    <Baseline points="3426,4655 3556,4655"/>
                     <TextEquiv>
                         <Unicode>11,163</Unicode>
                     </TextEquiv>
@@ -5236,7 +5236,7 @@ Zweiundzwanzigſtes Rechnungsjahr.</Unicode>
                 <Coords points="2078,4807 2078,4853 3334,4841 3334,4798"/>
                 <TextLine id="TableCell_1642580893507_3087l0" custom="readingOrder {index:0;}">
                     <Coords points="2132,4806 2710,4803 2730,4801 2730,4843 2740,4845 2607,4847 2132,4852"/>
-                    <Baseline points="2132,4850 2515,4845 2538,4845 2676,4844 2699,4844 2730,4846"/>
+                    <Baseline points="2132,4850 2515,4845 2538,4845 2676,4844 2699,4844 2729,4845"/>
                     <TextEquiv>
                         <Unicode>Schreibmaterialien, Bücher ꝛc</Unicode>
                     </TextEquiv>
@@ -5321,7 +5321,7 @@ Zweiundzwanzigſtes Rechnungsjahr.</Unicode>
                 <Coords points="3838,4837 3838,4892 3897,4892 3897,4837"/>
                 <TextLine id="TableCell_1642581108592_3740l0" custom="readingOrder {index:0;}">
                     <Coords points="3838,4837 3897,4837 3897,4892 3838,4892"/>
-                    <Baseline points="3839,4889 3898,4889"/>
+                    <Baseline points="3839,4889 3897,4889"/>
                     <TextEquiv>
                         <Unicode>94</Unicode>
                     </TextEquiv>
@@ -5533,7 +5533,7 @@ Zweiundzwanzigſtes Rechnungsjahr.</Unicode>
                 <Coords points="3838,5089 3838,5190 3897,5190 3897,5089"/>
                 <TextLine id="TableCell_1642581109215_3770l0" custom="readingOrder {index:0;}">
                     <Coords points="3847,5144 3891,5144 3891,5188 3847,5188 3845,5156"/>
-                    <Baseline points="3848,5187 3892,5187"/>
+                    <Baseline points="3848,5187 3891,5187"/>
                     <TextEquiv>
                         <Unicode>75</Unicode>
                     </TextEquiv>
@@ -5619,7 +5619,7 @@ Zweiundzwanzigſtes Rechnungsjahr.</Unicode>
                 </TextLine>
                 <TextLine id="TableCell_1642580894449_3141l1" custom="readingOrder {index:1;}">
                     <Coords points="2184,5354 2254,5342 2714,5338 2832,5338 2871,5348 2878,5364 2878,5373 2591,5382 2184,5386"/>
-                    <Baseline points="2184,5379 2353,5378 2378,5378 2459,5377 2485,5376 2518,5376 2542,5376 2585,5375 2609,5375 2670,5375 2695,5375 2875,5374"/>
+                    <Baseline points="2184,5379 2353,5378 2378,5378 2459,5377 2485,5376 2518,5376 2542,5376 2585,5375 2609,5375 2670,5375 2695,5375 2874,5373"/>
                     <TextEquiv>
                         <Unicode>gewinnes nach §. 34 der Statuten</Unicode>
                     </TextEquiv>
@@ -5660,7 +5660,7 @@ Zweiundzwanzigſtes Rechnungsjahr.</Unicode>
                 <Coords points="2078,5387 2078,5475 3334,5463 3334,5375"/>
                 <TextLine id="TableCell_1642580894550_3147l0" custom="readingOrder {index:0;}">
                     <Coords points="2129,5387 2174,5386 2686,5381 3127,5379 3316,5379 3316,5415 3256,5422 3234,5423 3075,5422 2903,5424 2723,5425 2636,5424 2156,5425 2129,5422"/>
-                    <Baseline points="2125,5422 2161,5422 2188,5422 2288,5423 2312,5423 2503,5422 2537,5422 2592,5422 2631,5422 2694,5422 2718,5422 3073,5418 3086,5417 3164,5417 3182,5416 3250,5415 3268,5415 3312,5415"/>
+                    <Baseline points="2129,5422 2161,5422 2188,5422 2288,5423 2312,5423 2503,5422 2537,5422 2592,5422 2631,5422 2694,5422 2718,5422 3073,5418 3086,5417 3164,5417 3182,5416 3250,5415 3268,5415 3312,5415"/>
                     <TextEquiv>
                         <Unicode>b. 10 % Tantième für den Verwaltungsrath nach §. 18</Unicode>
                     </TextEquiv>
@@ -5730,7 +5730,7 @@ Zweiundzwanzigſtes Rechnungsjahr.</Unicode>
                 <Coords points="3558,5461 3558,5512 3619,5511 3619,5460"/>
                 <TextLine id="TableCell_1642581103117_3658l0" custom="readingOrder {index:0;}">
                     <Coords points="3558,5461 3619,5460 3619,5511 3558,5512"/>
-                    <Baseline points="3559,5507 3620,5506"/>
+                    <Baseline points="3559,5507 3619,5506"/>
                     <TextEquiv>
                         <Unicode>88</Unicode>
                     </TextEquiv>
@@ -5756,7 +5756,7 @@ Zweiundzwanzigſtes Rechnungsjahr.</Unicode>
                 </TextLine>
                 <TextLine id="TableCell_1642580894764_3159l1" custom="readingOrder {index:1;}">
                     <Coords points="2187,5568 2209,5566 2483,5565 2727,5564 2726,5604 2349,5610 2228,5611 2187,5602"/>
-                    <Baseline points="2192,5604 2312,5603 2336,5603 2457,5602 2483,5601 2505,5601 2527,5602 2572,5602 2597,5601 2722,5602"/>
+                    <Baseline points="2192,5603 2312,5603 2336,5603 2457,5602 2483,5601 2505,5601 2527,5602 2572,5602 2597,5601 2722,5602"/>
                     <TextEquiv>
                         <Unicode>16,000 Actien à ℳ 41. 25</Unicode>
                     </TextEquiv>
@@ -5939,7 +5939,7 @@ Zweiundzwanzigſtes Rechnungsjahr.</Unicode>
                 </TextLine>
                 <TextLine id="line_1645993713847_1439" custom="readingOrder {index:1;}">
                     <Coords points="4806,4411 4959,4411 4959,4455 4806,4455"/>
-                    <Baseline points="4811,4452 4960,4453"/>
+                    <Baseline points="4811,4452 4959,4453"/>
                     <TextEquiv>
                         <Unicode>375,151</Unicode>
                     </TextEquiv>
@@ -5971,7 +5971,7 @@ Zweiundzwanzigſtes Rechnungsjahr.</Unicode>
                 </TextLine>
                 <TextLine id="TableCell_1642581355049_3964l0" custom="readingOrder {index:2;}">
                     <Coords points="3998,4477 4024,4465 4052,4463 4290,4463 4305,4493 4281,4508 4257,4508 4248,4508 4193,4509 4139,4509 3998,4503"/>
-                    <Baseline points="3998,4503 4063,4503 4086,4503 4133,4504 4236,4501 4288,4504"/>
+                    <Baseline points="3998,4503 4063,4503 4086,4503 4133,4504 4236,4501 4287,4503"/>
                     <TextEquiv>
                         <Unicode>ab: Rückzinſen</Unicode>
                     </TextEquiv>
@@ -6103,7 +6103,7 @@ Zweiundzwanzigſtes Rechnungsjahr.</Unicode>
                 </TextLine>
                 <TextLine id="TableCell_1642581325949_3929l1" custom="readingOrder {index:2;}">
                     <Coords points="4833,4755 4952,4754 4962,4755 4962,4796 4870,4797 4833,4791"/>
-                    <Baseline points="4836,4792 4918,4793 4934,4792 4954,4792"/>
+                    <Baseline points="4836,4791 4918,4793 4934,4792 4954,4792"/>
                     <TextEquiv>
                         <Unicode>36,809</Unicode>
                     </TextEquiv>
@@ -6214,7 +6214,7 @@ Zweiundzwanzigſtes Rechnungsjahr.</Unicode>
                 <Coords points="3911,4993 3911,5086 5302,5078 5302,4992"/>
                 <TextLine id="TableCell_1642581293105_3894l0" custom="readingOrder {index:0;}">
                     <Coords points="3978,5000 4173,4996 4568,4992 4750,4992 4748,5035 4660,5035 4051,5043 3978,5033"/>
-                    <Baseline points="3978,5033 4013,5035 4051,5036 4108,5035 4156,5035 4438,5032 4495,5032 4579,5031 4628,5030 4750,5029"/>
+                    <Baseline points="3978,5033 4013,5035 4051,5036 4108,5035 4156,5035 4438,5032 4495,5032 4579,5031 4628,5030 4748,5028"/>
                     <TextEquiv>
                         <Unicode>b. für Aufbewahrung reſp. Ver⸗</Unicode>
                     </TextEquiv>
@@ -6574,7 +6574,7 @@ F. Kraul. Wilh. Boetticher. L. Dollberg.</Unicode>
             </TextLine>
             <TextLine id="r21l5" custom="readingOrder {index:4;}">
                 <Coords points="5840,785 6120,783 6144,783 7042,794 7346,798 7373,799 7383,829 7379,844 6144,835 6124,836 5840,824"/>
-                <Baseline points="5840,824 5899,824 5922,825 6071,826 6094,827 6228,828 6251,828 6320,828 6346,829 6595,829 6619,829 6807,834 6833,835 7104,834 7127,834 7173,835 7197,835 7383,839"/>
+                <Baseline points="5840,824 5899,824 5922,825 6071,826 6094,827 6228,828 6251,828 6320,828 6346,829 6595,829 6619,829 6807,834 6833,835 7104,834 7127,834 7173,835 7197,835 7380,838"/>
                 <TextEquiv>
                     <Unicode>im großen Saale des „Engliſchen Hauſes“, Mohrenſtraße 49 hierſelbſt,</Unicode>
                 </TextEquiv>
@@ -6691,14 +6691,14 @@ d. Feſtſtellung der den Aktionären pro 1878 zu zahlenden Dividende;</Unicode>
             </TextLine>
             <TextLine id="r22l5" custom="readingOrder {index:4;}">
                 <Coords points="8002,676 8042,676 8289,677 9533,684 9738,686 9850,689 9850,725 8293,722 8075,722 8002,714"/>
-                <Baseline points="8003,716 8042,715 8071,715 8289,717 8329,717 8399,718 8423,718 8614,719 8656,720 8712,720 8746,720 8910,721 8952,721 9011,722 9043,722 9178,722 9217,722 9286,723 9324,721 9414,722 9454,722 9533,723 9569,723 9601,723 9626,724 9668,724 9703,725 9805,726 9831,725 9850,726"/>
+                <Baseline points="8003,714 8042,715 8071,715 8289,717 8329,717 8399,718 8423,718 8614,719 8656,720 8712,720 8746,720 8910,721 8952,721 9011,722 9043,722 9178,722 9217,722 9286,723 9324,721 9414,722 9454,722 9533,723 9569,723 9601,723 9626,724 9668,724 9703,724 9805,724 9831,724 9850,725"/>
                 <TextEquiv>
                     <Unicode>2) Wahl von drei Reviſoren zur Prüfung der Bilanz pro 1879 nach §. 30 Alin. 1</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r22l6" custom="readingOrder {index:5;}">
                 <Coords points="8093,727 8226,722 8318,729 8318,763 8226,763 8065,761 8063,721"/>
-                <Baseline points="8073,762 8107,761 8210,761 8318,763"/>
+                <Baseline points="8073,761 8107,761 8210,761 8318,763"/>
                 <TextEquiv>
                     <Unicode>des Statuts.</Unicode>
                 </TextEquiv>
@@ -6719,7 +6719,7 @@ d. Feſtſtellung der den Aktionären pro 1878 zu zahlenden Dividende;</Unicode>
             </TextLine>
             <TextLine id="r22l9" custom="readingOrder {index:8;}">
                 <Coords points="7761,854 7839,854 9798,864 9852,874 9852,908 9798,913 9698,913 8089,905 7726,891 7726,852"/>
-                <Baseline points="7732,892 7849,893 7872,894 7950,895 7976,895 8044,896 8068,896 8548,900 8569,900 8628,900 8654,900 8867,902 8902,902 8958,903 8994,903 9049,904 9074,904 9265,905 9301,905 9373,905 9399,905 9589,904 9622,904 9676,905 9698,906 9852,908"/>
+                <Baseline points="7732,891 7849,893 7872,894 7950,895 7976,895 8044,896 8068,896 8548,900 8569,900 8628,900 8654,900 8867,902 8902,902 8958,903 8994,903 9049,904 9074,904 9265,905 9301,905 9373,905 9399,905 9589,904 9622,904 9676,905 9698,906 9852,908"/>
                 <TextEquiv>
                     <Unicode>Aktien oder von Aktien⸗Depoſitenſcheinen der Reichsbank bei der Direktion zum Nachweiſe des Beſitzes</Unicode>
                 </TextEquiv>
@@ -6733,7 +6733,7 @@ d. Feſtſtellung der den Aktionären pro 1878 zu zahlenden Dividende;</Unicode>
             </TextLine>
             <TextLine id="r22l11" custom="readingOrder {index:10;}">
                 <Coords points="7721,945 7785,945 9794,958 9815,959 9834,964 9852,976 9852,991 9834,998 9819,1002 7791,990 7722,988"/>
-                <Baseline points="7721,984 7957,986 7974,986 8238,988 8261,988 8393,989 8417,989 8474,990 8490,990 8738,992 8762,992 8822,993 8847,993 8970,994 8995,994 9071,995 9096,995 9154,995 9166,995 9618,995 9639,995 9697,997 9711,997 9852,987"/>
+                <Baseline points="7721,983 7957,986 7974,986 8238,988 8261,988 8393,989 8417,989 8474,990 8490,990 8738,992 8762,992 8822,993 8847,993 8970,994 8995,994 9071,995 9096,995 9154,995 9166,995 9618,995 9639,995 9697,997 9711,997 9852,987"/>
                 <TextEquiv>
                     <Unicode>gebührenden Stimmenzahl können bei Niederlegung der Aktien oder der Aktien⸗Depoſitenſcheine der Reichs⸗</Unicode>
                 </TextEquiv>
@@ -7095,7 +7095,7 @@ Kommando des 1. Garde⸗Ulanen⸗Regiments.</Unicode>
             </TextLine>
             <TextLine id="r27l10" custom="readingOrder {index:9;}">
                 <Coords points="5540,3036 5563,3035 6116,3034 6213,3034 6363,3035 6363,3073 6342,3080 6279,3080 5855,3079 5595,3078 5540,3072"/>
-                <Baseline points="5549,3074 5689,3073 5714,3073 5803,3073 5828,3073 6027,3072 6051,3073 6087,3073 6103,3073 6255,3072 6279,3073 6363,3073"/>
+                <Baseline points="5549,3072 5689,3073 5714,3073 5803,3073 5828,3073 6027,3072 6051,3073 6087,3073 6103,3073 6255,3072 6279,3073 6363,3073"/>
                 <TextEquiv>
                     <Unicode>dieſſeits nicht erwünſcht) zu beziehen ſind.</Unicode>
                 </TextEquiv>
@@ -7176,7 +7176,7 @@ Overbeck.</Unicode>
             </TextLine>
             <TextLine id="r29l3" custom="readingOrder {index:2;}">
                 <Coords points="5526,3446 5796,3445 6427,3445 6567,3446 6567,3491 5586,3487 5528,3487"/>
-                <Baseline points="5526,3484 5584,3484 5609,3484 5753,3484 5777,3484 6074,3483 6096,3483 6156,3483 6183,3484 6340,3484 6360,3484 6567,3484"/>
+                <Baseline points="5527,3483 5584,3484 5609,3484 5753,3484 5777,3484 6074,3483 6096,3483 6156,3483 6183,3484 6340,3484 6360,3484 6567,3484"/>
                 <TextEquiv>
                     <Unicode>der frühren Traject⸗Anſtalt der Station Hohnstorf,</Unicode>
                 </TextEquiv>
@@ -7767,7 +7767,7 @@ im Jahre 1878.</Unicode>
             <Coords points="7921,5593 8466,5598 8475,5637 7921,5635"/>
             <TextLine id="r38l1" custom="readingOrder {index:0;}">
                 <Coords points="7922,5593 8466,5598 8474,5632 8474,5637 8036,5635 7922,5631"/>
-                <Baseline points="7922,5631 8403,5628 8469,5629 8474,5623"/>
+                <Baseline points="7922,5631 8403,5628 8469,5629 8471,5623"/>
                 <TextEquiv>
                     <Unicode>Bemerkungen.</Unicode>
                 </TextEquiv>
@@ -7780,7 +7780,7 @@ im Jahre 1878.</Unicode>
             <Coords points="8165,5639 6622,5642 6622,6037 8168,6037"/>
             <TextLine id="r39l1" custom="readingOrder {index:0;}">
                 <Coords points="6645,5677 6645,5653 6712,5642 6757,5641 8114,5639 8156,5646 8156,5673 8114,5680 7764,5682 7183,5682 7087,5682"/>
-                <Baseline points="6645,5677 6675,5678 6712,5679 6787,5677 6828,5677 6916,5675 6976,5675 7043,5674 7086,5674 7182,5674 7229,5674 7294,5673 7459,5675 7762,5671 7825,5673 7879,5673 7917,5673 8156,5673"/>
+                <Baseline points="6645,5677 6675,5677 6712,5677 6787,5677 6828,5677 6916,5675 6976,5675 7043,5674 7086,5674 7182,5674 7229,5674 7294,5673 7459,5675 7762,5671 7825,5673 7879,5673 7917,5673 8156,5673"/>
                 <TextEquiv>
                     <Unicode>a. Die Netto⸗Ueberſchüſſe aus dem Geſchäftsbetrieb der Naſſauiſchen</Unicode>
                 </TextEquiv>
@@ -7836,7 +7836,7 @@ im Jahre 1878.</Unicode>
             </TextLine>
             <TextLine id="r39l9" custom="readingOrder {index:8;}">
                 <Coords points="6709,5999 6745,5997 6772,5995 6795,5995 7795,5985 7912,5989 7911,6035 7804,6037 6709,6037"/>
-                <Baseline points="6709,6037 6790,6035 6806,6035 6891,6032 6913,6032 7030,6032 7056,6032 7106,6032 7128,6032 7303,6032 7328,6032 7429,6032 7450,6032 7510,6032 7536,6032 7678,6030 7766,6029 7902,6036"/>
+                <Baseline points="6709,6037 6790,6035 6806,6035 6891,6032 6913,6032 7030,6032 7056,6032 7106,6032 7128,6032 7303,6032 7328,6032 7429,6032 7450,6032 7510,6032 7536,6032 7678,6030 7766,6029 7901,6035"/>
                 <TextEquiv>
                     <Unicode>überſteigt ſonach die geſetzliche Höhe um 181,238 ℳ 06 ₰.</Unicode>
                 </TextEquiv>
@@ -7984,7 +7984,7 @@ gleichzeitig ſind 4 % Zinſen von der ganzen Schuld für 1878 mit
             <Coords points="8252,5907 9811,5904 9809,6352 8252,6352"/>
             <TextLine id="r43l1" custom="readingOrder {index:0;}">
                 <Coords points="8269,5900 9790,5902 9788,5950 8267,5948"/>
-                <Baseline points="8268,5939 9789,5941"/>
+                <Baseline points="8268,5939 9788,5940"/>
                 <TextEquiv>
                     <Unicode>d. Die geſammten Ueberſchüſſe aus dem Geſchäftsbetriebe der Sparkaſſe in</Unicode>
                 </TextEquiv>
@@ -9152,7 +9152,7 @@ Olfenius.</Unicode>
                 <Coords points="9511,1873 9511,1939 9573,1939 9575,1939 9575,1874 9573,1873"/>
                 <TextLine id="TableCell_1642586992123_5093l0" custom="readingOrder {index:0;}">
                     <Coords points="9511,1886 9573,1886 9570,1894 9575,1939 9511,1939 9509,1898"/>
-                    <Baseline points="9511,1934 9575,1934"/>
+                    <Baseline points="9511,1934 9574,1934"/>
                     <TextEquiv>
                         <Unicode>₰</Unicode>
                     </TextEquiv>
@@ -9185,7 +9185,7 @@ Olfenius.</Unicode>
                 <Coords points="6607,1926 6606,1993 6677,1993 6678,1926"/>
                 <TextLine id="TableCell_1642584626144_4746l0" custom="readingOrder {index:0;}">
                     <Coords points="6641,1948 6670,1948 6670,2004 6641,2004"/>
-                    <Baseline points="6645,1998 6674,1998"/>
+                    <Baseline points="6645,1998 6670,1998"/>
                     <TextEquiv>
                         <Unicode>1</Unicode>
                     </TextEquiv>
@@ -9196,7 +9196,7 @@ Olfenius.</Unicode>
                 <Coords points="6678,1926 6677,1993 7628,2003 7625,1931"/>
                 <TextLine id="TableCell_1642584655578_5190l0" custom="readingOrder {index:0;}">
                     <Coords points="6691,1952 7184,1952 7433,1962 7441,1991 7441,2000 7421,2000 6692,1993"/>
-                    <Baseline points="6691,1993 7184,1997 7210,1997 7252,1997 7277,1997 7434,1997"/>
+                    <Baseline points="6691,1992 7184,1997 7210,1997 7252,1997 7277,1997 7434,1997"/>
                     <TextEquiv>
                         <Unicode>Landeskreditkaſſe⸗Anlehen de 1840/42</Unicode>
                     </TextEquiv>
@@ -9306,7 +9306,7 @@ Olfenius.</Unicode>
                 <Coords points="8959,1936 8959,2003 9021,2003 9021,1936"/>
                 <TextLine id="TableCell_1642585811960_1844l0" custom="readingOrder {index:0;}">
                     <Coords points="8957,1963 9019,1963 9021,2003 8959,2003 8957,1977"/>
-                    <Baseline points="8959,2002 9021,2002"/>
+                    <Baseline points="8959,2002 9020,2002"/>
                     <TextEquiv>
                         <Unicode>75</Unicode>
                     </TextEquiv>
@@ -9475,7 +9475,7 @@ Olfenius.</Unicode>
                 <Coords points="8681,2002 8681,2048 8740,2048 8740,2002"/>
                 <TextLine id="line_1646059005748_540" custom="readingOrder {index:0;}">
                     <Coords points="8688,1994 8728,1993 8729,2043 8689,2044"/>
-                    <Baseline points="8689,2039 8729,2038"/>
+                    <Baseline points="8689,2039 8728,2038"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -9732,7 +9732,7 @@ Olfenius.</Unicode>
                 <Coords points="9302,2050 9302,2094 9511,2095 9511,2051"/>
                 <TextLine id="TableCell_1642585910735_3188l0" custom="readingOrder {index:0;}">
                     <Coords points="9392,2059 9443,2059 9443,2094 9392,2094"/>
-                    <Baseline points="9390,2091 9441,2091"/>
+                    <Baseline points="9392,2091 9441,2091"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -9743,7 +9743,7 @@ Olfenius.</Unicode>
                 <Coords points="9511,2051 9511,2095 9573,2095 9575,2095 9575,2051 9573,2051"/>
                 <TextLine id="TableCell_1642587131492_5129l0" custom="readingOrder {index:0;}">
                     <Coords points="9518,2063 9566,2063 9566,2096 9518,2096"/>
-                    <Baseline points="9520,2090 9568,2090"/>
+                    <Baseline points="9520,2090 9566,2090"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -9853,7 +9853,7 @@ Olfenius.</Unicode>
                 <Coords points="8403,2100 8401,2142 8459,2142 8461,2100"/>
                 <TextLine id="TableCell_1642585448341_47l0" custom="readingOrder {index:0;}">
                     <Coords points="8406,2100 8461,2100 8459,2142 8406,2142"/>
-                    <Baseline points="8404,2138 8457,2138"/>
+                    <Baseline points="8406,2138 8457,2138"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -9875,7 +9875,7 @@ Olfenius.</Unicode>
                 <Coords points="8681,2093 8681,2142 8740,2142 8739,2096"/>
                 <TextLine id="TableCell_1642585767216_974l0" custom="readingOrder {index:0;}">
                     <Coords points="8688,2099 8731,2101 8732,2136 8688,2136"/>
-                    <Baseline points="8688,2127 8732,2127"/>
+                    <Baseline points="8688,2127 8731,2127"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -10205,7 +10205,7 @@ Olfenius.</Unicode>
                 <Coords points="7843,2188 7843,2234 7901,2234 7900,2188"/>
                 <TextLine id="TableCell_1642584720842_6108l0" custom="readingOrder {index:0;}">
                     <Coords points="7850,2193 7892,2193 7893,2228 7850,2228"/>
-                    <Baseline points="7850,2219 7893,2219"/>
+                    <Baseline points="7850,2219 7892,2219"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -10216,7 +10216,7 @@ Olfenius.</Unicode>
                 <Coords points="7900,2188 7901,2234 8121,2234 8122,2188"/>
                 <TextLine id="line_1646060622301_672" custom="readingOrder {index:0;}">
                     <Coords points="7999,2179 8049,2178 8050,2228 8000,2229"/>
-                    <Baseline points="8000,2224 8050,2223"/>
+                    <Baseline points="8000,2224 8049,2223"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -10249,7 +10249,7 @@ Olfenius.</Unicode>
                 <Coords points="8401,2192 8401,2234 8458,2234 8458,2192"/>
                 <TextLine id="TableCell_1642585448575_59l0" custom="readingOrder {index:0;}">
                     <Coords points="8405,2192 8458,2192 8458,2234 8405,2234"/>
-                    <Baseline points="8404,2229 8457,2229"/>
+                    <Baseline points="8405,2229 8457,2229"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -10447,7 +10447,7 @@ Olfenius.</Unicode>
                 <Coords points="8401,2234 8401,2276 8458,2276 8458,2234"/>
                 <TextLine id="TableCell_1642585448697_65l0" custom="readingOrder {index:0;}">
                     <Coords points="8402,2247 8444,2247 8444,2278 8402,2278"/>
-                    <Baseline points="8401,2273 8446,2272"/>
+                    <Baseline points="8402,2273 8444,2272"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -10513,7 +10513,7 @@ Olfenius.</Unicode>
                 <Coords points="9236,2234 9236,2278 9303,2281 9302,2234"/>
                 <TextLine id="TableCell_1642585875580_2768l0" custom="readingOrder {index:0;}">
                     <Coords points="9244,2239 9293,2239 9294,2275 9244,2272"/>
-                    <Baseline points="9244,2265 9294,2265"/>
+                    <Baseline points="9244,2265 9293,2265"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -10645,7 +10645,7 @@ Olfenius.</Unicode>
                 <Coords points="8401,2276 8401,2324 8458,2324 8458,2276"/>
                 <TextLine id="TableCell_1642585448830_71l0" custom="readingOrder {index:0;}">
                     <Coords points="8402,2285 8457,2285 8458,2324 8403,2324 8400,2295"/>
-                    <Baseline points="8403,2312 8458,2312"/>
+                    <Baseline points="8403,2312 8457,2312"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -11041,7 +11041,7 @@ Olfenius.</Unicode>
                 <Coords points="8401,2370 8400,2415 8458,2415 8458,2370"/>
                 <TextLine id="TableCell_1642585449075_83l0" custom="readingOrder {index:0;}">
                     <Coords points="8402,2370 8458,2370 8458,2415 8402,2415"/>
-                    <Baseline points="8401,2412 8457,2412"/>
+                    <Baseline points="8402,2412 8457,2412"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -11393,7 +11393,7 @@ Olfenius.</Unicode>
                 <Coords points="7842,2458 7842,2505 7902,2508 7901,2463"/>
                 <TextLine id="TableCell_1642584721456_6144l0" custom="readingOrder {index:0;}">
                     <Coords points="7849,2464 7893,2468 7894,2501 7849,2499"/>
-                    <Baseline points="7849,2492 7894,2492"/>
+                    <Baseline points="7849,2492 7893,2492"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -11459,7 +11459,7 @@ Olfenius.</Unicode>
                 <Coords points="8681,2458 8681,2505 8740,2505 8740,2458"/>
                 <TextLine id="TableCell_1642585768275_1022l0" custom="readingOrder {index:0;}">
                     <Coords points="8681,2458 8740,2458 8740,2505 8681,2505"/>
-                    <Baseline points="8680,2503 8739,2503"/>
+                    <Baseline points="8681,2503 8739,2503"/>
                     <TextEquiv>
                         <Unicode>67</Unicode>
                     </TextEquiv>
@@ -11481,7 +11481,7 @@ Olfenius.</Unicode>
                 <Coords points="8959,2458 8959,2505 9021,2505 9021,2458"/>
                 <TextLine id="TableCell_1642585813497_1910l0" custom="readingOrder {index:0;}">
                     <Coords points="8963,2464 9010,2464 9010,2500 8963,2500"/>
-                    <Baseline points="8966,2493 9013,2493"/>
+                    <Baseline points="8966,2493 9010,2493"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -11569,7 +11569,7 @@ Olfenius.</Unicode>
                 <Coords points="6674,2503 6673,2549 7621,2551 7622,2505"/>
                 <TextLine id="TableCell_1642584656574_5262l0" custom="readingOrder {index:0;}">
                     <Coords points="6902,2504 7148,2504 7161,2504 7206,2517 7206,2543 7124,2550 6987,2549 6780,2549 6781,2532"/>
-                    <Baseline points="6787,2546 6962,2542 6985,2542 7203,2544"/>
+                    <Baseline points="6787,2546 6962,2542 6985,2542 7202,2543"/>
                     <TextEquiv>
                         <Unicode>„ auf Hypotheken</Unicode>
                     </TextEquiv>
@@ -11789,7 +11789,7 @@ Olfenius.</Unicode>
                 <Coords points="7842,2551 7842,2596 7903,2603 7901,2551"/>
                 <TextLine id="TableCell_1642584721652_6156l0" custom="readingOrder {index:0;}">
                     <Coords points="7849,2557 7893,2557 7895,2596 7849,2590"/>
-                    <Baseline points="7849,2586 7895,2586"/>
+                    <Baseline points="7849,2586 7894,2586"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -11866,7 +11866,7 @@ Olfenius.</Unicode>
                 <Coords points="8740,2552 8742,2600 8960,2606 8959,2553"/>
                 <TextLine id="TableCell_1642585790885_1478l0" custom="readingOrder {index:0;}">
                     <Coords points="8801,2552 8959,2553 8960,2606 8837,2602 8801,2600"/>
-                    <Baseline points="8801,2601 8959,2601"/>
+                    <Baseline points="8801,2600 8959,2601"/>
                     <TextEquiv>
                         <Unicode>440,940</Unicode>
                     </TextEquiv>
@@ -11965,7 +11965,7 @@ Olfenius.</Unicode>
                 <Coords points="6673,2592 6673,2645 7621,2645 7621,2596"/>
                 <TextLine id="TableCell_1642584656749_5274l0" custom="readingOrder {index:0;}">
                     <Coords points="6726,2589 7396,2596 7396,2645 6689,2642 6689,2589"/>
-                    <Baseline points="6673,2632 6961,2634 6985,2634 7055,2634 7077,2635 7111,2638 7240,2638 7391,2639"/>
+                    <Baseline points="6689,2632 6961,2634 6985,2634 7055,2634 7077,2635 7111,2638 7240,2638 7391,2639"/>
                     <TextEquiv>
                         <Unicode>Contocorrente mit Bankhäuſern ꝛc.</Unicode>
                     </TextEquiv>
@@ -11976,7 +11976,7 @@ Olfenius.</Unicode>
                 <Coords points="7621,2596 7621,2645 7842,2645 7842,2596"/>
                 <TextLine id="line_1646065715600_987" custom="readingOrder {index:0;}">
                     <Coords points="7717,2589 7766,2588 7767,2638 7718,2639"/>
-                    <Baseline points="7718,2634 7767,2633"/>
+                    <Baseline points="7718,2634 7766,2633"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -12053,7 +12053,7 @@ Olfenius.</Unicode>
                 <Coords points="8681,2596 8681,2645 8738,2653 8742,2600"/>
                 <TextLine id="TableCell_1642585768678_1040l0" custom="readingOrder {index:0;}">
                     <Coords points="8681,2598 8711,2598 8739,2599 8739,2639 8717,2638 8693,2640 8683,2638"/>
-                    <Baseline points="8681,2633 8739,2633"/>
+                    <Baseline points="8682,2632 8739,2633"/>
                     <TextEquiv>
                         <Unicode>56</Unicode>
                     </TextEquiv>
@@ -12075,7 +12075,7 @@ Olfenius.</Unicode>
                 <Coords points="8960,2606 8956,2648 9021,2645 9021,2596"/>
                 <TextLine id="TableCell_1642585813917_1928l0" custom="readingOrder {index:0;}">
                     <Coords points="8960,2606 9014,2597 9019,2597 9019,2645 8956,2648"/>
-                    <Baseline points="8956,2637 9019,2637"/>
+                    <Baseline points="8957,2637 9019,2637"/>
                     <TextEquiv>
                         <Unicode>34</Unicode>
                     </TextEquiv>
@@ -12119,7 +12119,7 @@ Olfenius.</Unicode>
                 <Coords points="9511,2598 9511,2645 9573,2645 9575,2645 9575,2598 9573,2598"/>
                 <TextLine id="TableCell_1642587556006_5224l0" custom="readingOrder {index:0;}">
                     <Coords points="9519,2603 9567,2603 9567,2639 9519,2639"/>
-                    <Baseline points="9521,2634 9569,2634"/>
+                    <Baseline points="9521,2634 9567,2634"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -12207,7 +12207,7 @@ Olfenius.</Unicode>
                 <Coords points="8118,2645 8118,2692 8174,2692 8175,2645"/>
                 <TextLine id="TableCell_1642584778381_7056l0" custom="readingOrder {index:0;}">
                     <Coords points="8124,2645 8166,2645 8167,2686 8125,2686 8125,2650"/>
-                    <Baseline points="8125,2677 8167,2677"/>
+                    <Baseline points="8125,2677 8166,2677"/>
                     <TextEquiv>
                         <Unicode>65</Unicode>
                     </TextEquiv>
@@ -12284,7 +12284,7 @@ Olfenius.</Unicode>
                 <Coords points="9021,2645 9021,2695 9236,2696 9236,2645"/>
                 <TextLine id="TableCell_1642585844790_2378l0" custom="readingOrder {index:0;}">
                     <Coords points="9066,2645 9236,2645 9232,2691 9170,2694 9138,2693 9066,2685"/>
-                    <Baseline points="9066,2685 9236,2686"/>
+                    <Baseline points="9066,2685 9232,2685"/>
                     <TextEquiv>
                         <Unicode>490,048</Unicode>
                     </TextEquiv>
@@ -12295,7 +12295,7 @@ Olfenius.</Unicode>
                 <Coords points="9236,2645 9236,2696 9302,2696 9302,2645"/>
                 <TextLine id="TableCell_1642585877014_2822l0" custom="readingOrder {index:0;}">
                     <Coords points="9242,2648 9265,2645 9299,2645 9296,2689 9260,2689 9242,2683"/>
-                    <Baseline points="9242,2683 9299,2683"/>
+                    <Baseline points="9242,2683 9296,2682"/>
                     <TextEquiv>
                         <Unicode>24</Unicode>
                     </TextEquiv>
@@ -12317,7 +12317,7 @@ Olfenius.</Unicode>
                 <Coords points="9511,2645 9507,2705 9569,2705 9571,2705 9575,2645 9573,2645"/>
                 <TextLine id="TableCell_1642587585250_5232l0" custom="readingOrder {index:0;}">
                     <Coords points="9510,2651 9540,2645 9573,2645 9573,2675 9573,2694 9509,2694"/>
-                    <Baseline points="9507,2691 9565,2689"/>
+                    <Baseline points="9509,2691 9565,2689"/>
                     <TextEquiv>
                         <Unicode>82</Unicode>
                     </TextEquiv>
@@ -12368,7 +12368,7 @@ Olfenius.</Unicode>
                 </TextLine>
                 <TextLine id="TableCell_1642584656913_5286l1" custom="readingOrder {index:1;}">
                     <Coords points="7087,2743 7142,2741 7174,2741 7187,2765 7187,2773 7087,2772"/>
-                    <Baseline points="7087,2771 7128,2772 7164,2773 7183,2772"/>
+                    <Baseline points="7087,2771 7128,2772 7164,2772 7183,2772"/>
                     <TextEquiv>
                         <Unicode>verw.</Unicode>
                     </TextEquiv>
@@ -12412,7 +12412,7 @@ Olfenius.</Unicode>
                 <Coords points="8118,2692 8119,2784 8174,2777 8174,2692"/>
                 <TextLine id="TableCell_1642584778504_7062l0" custom="readingOrder {index:0;}">
                     <Coords points="8123,2735 8166,2735 8166,2770 8149,2773 8124,2774"/>
-                    <Baseline points="8123,2770 8166,2770"/>
+                    <Baseline points="8123,2769 8166,2770"/>
                     <TextEquiv>
                         <Unicode>34</Unicode>
                     </TextEquiv>
@@ -12544,7 +12544,7 @@ Olfenius.</Unicode>
                 <Coords points="9787,2699 9787,2778 9843,2779 9844,2700"/>
                 <TextLine id="TableCell_1642586004005_4158l0" custom="readingOrder {index:0;}">
                     <Coords points="9796,2745 9838,2745 9836,2779 9794,2778 9795,2750"/>
-                    <Baseline points="9796,2774 9838,2774"/>
+                    <Baseline points="9796,2774 9836,2773"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -12698,7 +12698,7 @@ Olfenius.</Unicode>
                 <Coords points="9237,2780 9236,2826 9302,2826 9303,2780"/>
                 <TextLine id="TableCell_1642585877315_2834l0" custom="readingOrder {index:0;}">
                     <Coords points="9238,2785 9259,2782 9283,2780 9283,2826 9279,2826 9238,2821"/>
-                    <Baseline points="9238,2821 9296,2820"/>
+                    <Baseline points="9238,2821 9283,2820"/>
                     <TextEquiv>
                         <Unicode>01</Unicode>
                     </TextEquiv>
@@ -12720,7 +12720,7 @@ Olfenius.</Unicode>
                 <Coords points="9507,2785 9506,2827 9568,2827 9570,2827 9571,2785 9569,2785"/>
                 <TextLine id="TableCell_1642587659038_5246l0" custom="readingOrder {index:0;}">
                     <Coords points="9511,2790 9559,2790 9559,2821 9511,2821"/>
-                    <Baseline points="9510,2817 9558,2817"/>
+                    <Baseline points="9511,2817 9558,2817"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -12742,7 +12742,7 @@ Olfenius.</Unicode>
                 <Coords points="9787,2778 9787,2828 9842,2829 9843,2779"/>
                 <TextLine id="TableCell_1642586004174_4164l0" custom="readingOrder {index:0;}">
                     <Coords points="9792,2789 9836,2789 9835,2829 9814,2829 9791,2828"/>
-                    <Baseline points="9792,2825 9836,2826"/>
+                    <Baseline points="9792,2825 9835,2825"/>
                     <TextEquiv>
                         <Unicode>26</Unicode>
                     </TextEquiv>
@@ -12786,7 +12786,7 @@ Olfenius.</Unicode>
                 <Coords points="7841,2826 7841,2874 7897,2874 7898,2826"/>
                 <TextLine id="TableCell_1642584722161_6186l0" custom="readingOrder {index:0;}">
                     <Coords points="7846,2827 7866,2826 7897,2826 7894,2866 7861,2866 7846,2862"/>
-                    <Baseline points="7846,2862 7897,2862"/>
+                    <Baseline points="7846,2862 7894,2861"/>
                     <TextEquiv>
                         <Unicode>59</Unicode>
                     </TextEquiv>
@@ -12852,7 +12852,7 @@ Olfenius.</Unicode>
                 <Coords points="8681,2826 8681,2874 8740,2874 8741,2832"/>
                 <TextLine id="TableCell_1642585769213_1064l0" custom="readingOrder {index:0;}">
                     <Coords points="8683,2831 8728,2835 8727,2867 8683,2867"/>
-                    <Baseline points="8685,2861 8729,2861"/>
+                    <Baseline points="8685,2861 8727,2860"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -12984,7 +12984,7 @@ Olfenius.</Unicode>
                 <Coords points="7841,2874 7840,2917 7897,2917 7897,2874"/>
                 <TextLine id="TableCell_1642584722264_6192l0" custom="readingOrder {index:0;}">
                     <Coords points="7841,2874 7897,2874 7895,2912 7882,2912 7841,2910"/>
-                    <Baseline points="7840,2906 7897,2906"/>
+                    <Baseline points="7841,2906 7895,2905"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -13116,7 +13116,7 @@ Olfenius.</Unicode>
                 <Coords points="9506,2875 9504,2919 9566,2919 9568,2919 9570,2875 9568,2875"/>
                 <TextLine id="TableCell_1642587762204_5260l0" custom="readingOrder {index:0;}">
                     <Coords points="9505,2885 9559,2882 9567,2882 9568,2919 9504,2919"/>
-                    <Baseline points="9504,2910 9568,2908"/>
+                    <Baseline points="9504,2910 9567,2908"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -13204,7 +13204,7 @@ Olfenius.</Unicode>
                 <Coords points="8117,2917 8118,2961 8173,2961 8173,2917"/>
                 <TextLine id="TableCell_1642584778973_7086l0" custom="readingOrder {index:0;}">
                     <Coords points="8124,2918 8143,2917 8173,2917 8171,2957 8139,2957 8122,2954"/>
-                    <Baseline points="8124,2952 8173,2950"/>
+                    <Baseline points="8124,2952 8171,2949"/>
                     <TextEquiv>
                         <Unicode>19</Unicode>
                     </TextEquiv>
@@ -13314,7 +13314,7 @@ Olfenius.</Unicode>
                 <Coords points="9504,2919 9504,2965 9566,2965 9568,2965 9568,2919 9566,2919"/>
                 <TextLine id="TableCell_1642587802191_5268l0" custom="readingOrder {index:0;}">
                     <Coords points="9504,2919 9568,2919 9568,2965 9504,2965"/>
-                    <Baseline points="9505,2961 9569,2961"/>
+                    <Baseline points="9505,2961 9568,2961"/>
                     <TextEquiv>
                         <Unicode>34</Unicode>
                     </TextEquiv>
@@ -13446,7 +13446,7 @@ Olfenius.</Unicode>
                 <Coords points="8681,2964 8681,3009 8740,3014 8740,2964"/>
                 <TextLine id="TableCell_1642585769606_1082l0" custom="readingOrder {index:0;}">
                     <Coords points="8684,2968 8728,2968 8727,3002 8684,3002"/>
-                    <Baseline points="8683,2997 8727,2997"/>
+                    <Baseline points="8684,2997 8727,2997"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -13512,7 +13512,7 @@ Olfenius.</Unicode>
                 <Coords points="9504,2965 9506,3011 9568,3011 9570,3011 9568,2965 9566,2965"/>
                 <TextLine id="TableCell_1642587841053_5276l0" custom="readingOrder {index:0;}">
                     <Coords points="9504,2965 9568,2965 9569,2988 9569,3011 9552,3011 9505,3005"/>
-                    <Baseline points="9509,3006 9569,3006"/>
+                    <Baseline points="9509,3005 9569,3006"/>
                     <TextEquiv>
                         <Unicode>72</Unicode>
                     </TextEquiv>
@@ -13864,7 +13864,7 @@ Olfenius.</Unicode>
                 <Coords points="8959,3055 8959,3095 9021,3095 9021,3055"/>
                 <TextLine id="TableCell_1642585815199_1982l0" custom="readingOrder {index:0;}">
                     <Coords points="8957,3063 9004,3063 9004,3093 8957,3093"/>
-                    <Baseline points="8958,3088 9005,3088"/>
+                    <Baseline points="8958,3088 9004,3088"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -13992,7 +13992,7 @@ Olfenius.</Unicode>
                 <Coords points="7895,3095 7897,3147 8119,3146 8116,3095"/>
                 <TextLine id="TableCell_1642584752886_6666l0" custom="readingOrder {index:0;}">
                     <Coords points="8020,3107 8111,3108 8113,3146 8003,3148 8001,3109"/>
-                    <Baseline points="8006,3146 8023,3146 8038,3146 8101,3145 8112,3145 8113,3145"/>
+                    <Baseline points="8006,3146 8023,3146 8038,3146 8101,3145 8112,3145"/>
                     <TextEquiv>
                         <Unicode>8,773</Unicode>
                     </TextEquiv>
@@ -14135,7 +14135,7 @@ Olfenius.</Unicode>
                 <Coords points="9787,3095 9787,3139 9840,3139 9840,3095"/>
                 <TextLine id="TableCell_1642586005458_4206l0" custom="readingOrder {index:0;}">
                     <Coords points="9793,3104 9833,3104 9833,3137 9793,3137"/>
-                    <Baseline points="9794,3134 9834,3134"/>
+                    <Baseline points="9794,3134 9833,3134"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -14201,7 +14201,7 @@ Olfenius.</Unicode>
                 <Coords points="8119,3146 8115,3193 8171,3193 8171,3146"/>
                 <TextLine id="TableCell_1642584779569_7116l0" custom="readingOrder {index:0;}">
                     <Coords points="8119,3146 8171,3146 8171,3193 8115,3193"/>
-                    <Baseline points="8115,3181 8171,3181"/>
+                    <Baseline points="8116,3181 8171,3181"/>
                     <TextEquiv>
                         <Unicode>41</Unicode>
                     </TextEquiv>
@@ -14311,7 +14311,7 @@ Olfenius.</Unicode>
                 <Coords points="9506,3146 9504,3194 9573,3193 9563,3194 9570,3146 9568,3146"/>
                 <TextLine id="TableCell_1642587979989_5304l0" custom="readingOrder {index:0;}">
                     <Coords points="9508,3151 9556,3151 9560,3187 9512,3187"/>
-                    <Baseline points="9511,3179 9558,3179"/>
+                    <Baseline points="9511,3178 9558,3179"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -14355,7 +14355,7 @@ Olfenius.</Unicode>
                 <Coords points="6670,3189 6667,3280 7615,3279 7618,3189"/>
                 <TextLine id="TableCell_1642584657749_5346l0" custom="readingOrder {index:0;}">
                     <Coords points="7016,3217 7082,3190 7159,3189 7589,3189 7586,3230 7156,3230 6802,3234 6801,3216"/>
-                    <Baseline points="6803,3231 7048,3230 7082,3226 7153,3226 7159,3226 7303,3227 7395,3228 7589,3229"/>
+                    <Baseline points="6803,3231 7048,3230 7082,3226 7153,3226 7159,3226 7303,3227 7395,3228 7586,3228"/>
                     <TextEquiv>
                         <Unicode>„ „ dem Entſchädigungsfonds</Unicode>
                     </TextEquiv>
@@ -14373,7 +14373,7 @@ Olfenius.</Unicode>
                 <Coords points="7618,3189 7615,3279 7839,3282 7839,3193"/>
                 <TextLine id="TableCell_1642584694768_5790l0" custom="readingOrder {index:0;}">
                     <Coords points="7728,3239 7809,3233 7835,3233 7839,3282 7728,3280"/>
-                    <Baseline points="7728,3276 7839,3277"/>
+                    <Baseline points="7728,3276 7838,3277"/>
                     <TextEquiv>
                         <Unicode>4,378</Unicode>
                     </TextEquiv>
@@ -14395,7 +14395,7 @@ Olfenius.</Unicode>
                 <Coords points="7893,3193 7893,3286 8116,3286 8115,3193"/>
                 <TextLine id="TableCell_1642584753098_6678l0" custom="readingOrder {index:0;}">
                     <Coords points="7984,3244 8083,3243 8110,3243 8115,3286 8024,3286 7984,3280"/>
-                    <Baseline points="7984,3280 8115,3280"/>
+                    <Baseline points="7984,3280 8114,3280"/>
                     <TextEquiv>
                         <Unicode>10,025</Unicode>
                     </TextEquiv>
@@ -14450,7 +14450,7 @@ Olfenius.</Unicode>
                 <Coords points="8681,3193 8681,3281 8741,3288 8740,3193"/>
                 <TextLine id="TableCell_1642585770251_1112l0" custom="readingOrder {index:0;}">
                     <Coords points="8680,3208 8724,3208 8725,3279 8680,3274"/>
-                    <Baseline points="8680,3266 8725,3266"/>
+                    <Baseline points="8680,3266 8724,3266"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -14461,7 +14461,7 @@ Olfenius.</Unicode>
                 <Coords points="8740,3193 8741,3288 8960,3288 8959,3193"/>
                 <TextLine id="TableCell_1642585792703_1556l0" custom="readingOrder {index:0;}">
                     <Coords points="8822,3245 8949,3245 8949,3282 8885,3288 8861,3288 8822,3281"/>
-                    <Baseline points="8821,3281 8942,3280"/>
+                    <Baseline points="8822,3281 8942,3280"/>
                     <TextEquiv>
                         <Unicode>23,462</Unicode>
                     </TextEquiv>
@@ -14578,7 +14578,7 @@ Olfenius.</Unicode>
                 <Coords points="7615,3279 7615,3371 7839,3371 7839,3282"/>
                 <TextLine id="TableCell_1642584694856_5796l0" custom="readingOrder {index:0;}">
                     <Coords points="7765,3333 7809,3327 7833,3327 7839,3371 7805,3371 7765,3367"/>
-                    <Baseline points="7765,3367 7839,3366"/>
+                    <Baseline points="7765,3367 7838,3366"/>
                     <TextEquiv>
                         <Unicode>911</Unicode>
                     </TextEquiv>
@@ -14831,7 +14831,7 @@ Olfenius.</Unicode>
                 <Coords points="8393,3371 8393,3420 8449,3420 8449,3371"/>
                 <TextLine id="TableCell_1642585451401_197l0" custom="readingOrder {index:0;}">
                     <Coords points="8396,3381 8428,3379 8446,3382 8449,3420 8431,3420 8396,3417"/>
-                    <Baseline points="8396,3416 8449,3419"/>
+                    <Baseline points="8396,3416 8448,3419"/>
                     <TextEquiv>
                         <Unicode>83</Unicode>
                     </TextEquiv>
@@ -14853,7 +14853,7 @@ Olfenius.</Unicode>
                 <Coords points="8681,3371 8681,3411 8740,3415 8743,3378"/>
                 <TextLine id="TableCell_1642585770517_1124l0" custom="readingOrder {index:0;}">
                     <Coords points="8680,3374 8724,3375 8724,3407 8680,3404"/>
-                    <Baseline points="8681,3402 8725,3402"/>
+                    <Baseline points="8681,3402 8724,3402"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -14919,7 +14919,7 @@ Olfenius.</Unicode>
                 <Coords points="9501,3372 9503,3417 9565,3417 9567,3417 9565,3372 9563,3372"/>
                 <TextLine id="TableCell_1642588104153_5324l0" custom="readingOrder {index:0;}">
                     <Coords points="9501,3372 9565,3372 9566,3394 9566,3417 9503,3417"/>
-                    <Baseline points="9502,3412 9564,3412"/>
+                    <Baseline points="9502,3411 9564,3412"/>
                     <TextEquiv>
                         <Unicode>63</Unicode>
                     </TextEquiv>
@@ -15018,7 +15018,7 @@ Olfenius.</Unicode>
                 <Coords points="8169,3417 8168,3463 8392,3463 8393,3420"/>
                 <TextLine id="TableCell_1642584927384_7600l0" custom="readingOrder {index:0;}">
                     <Coords points="8243,3419 8389,3420 8390,3463 8229,3464 8230,3418"/>
-                    <Baseline points="8232,3459 8390,3459"/>
+                    <Baseline points="8232,3459 8389,3459"/>
                     <TextEquiv>
                         <Unicode>460,690</Unicode>
                     </TextEquiv>
@@ -15040,7 +15040,7 @@ Olfenius.</Unicode>
                 <Coords points="8449,3420 8448,3463 8681,3463 8681,3411"/>
                 <TextLine id="TableCell_1642585724016_686l0" custom="readingOrder {index:0;}">
                     <Coords points="8520,3419 8586,3414 8680,3415 8680,3457 8583,3463 8520,3454"/>
-                    <Baseline points="8520,3454 8681,3451"/>
+                    <Baseline points="8520,3454 8680,3451"/>
                     <TextEquiv>
                         <Unicode>568,884</Unicode>
                     </TextEquiv>
@@ -15051,7 +15051,7 @@ Olfenius.</Unicode>
                 <Coords points="8681,3411 8681,3463 8740,3463 8740,3415"/>
                 <TextLine id="TableCell_1642585770655_1130l0" custom="readingOrder {index:0;}">
                     <Coords points="8681,3416 8702,3414 8725,3414 8733,3414 8732,3457 8699,3457 8681,3451"/>
-                    <Baseline points="8681,3451 8733,3452"/>
+                    <Baseline points="8681,3451 8732,3451"/>
                     <TextEquiv>
                         <Unicode>25</Unicode>
                     </TextEquiv>
@@ -15095,7 +15095,7 @@ Olfenius.</Unicode>
                 <Coords points="9236,3417 9236,3463 9302,3463 9302,3417"/>
                 <TextLine id="TableCell_1642585879197_2906l0" custom="readingOrder {index:0;}">
                     <Coords points="9239,3422 9285,3417 9293,3417 9293,3459 9279,3459 9240,3458"/>
-                    <Baseline points="9239,3456 9293,3456"/>
+                    <Baseline points="9239,3455 9293,3456"/>
                     <TextEquiv>
                         <Unicode>11</Unicode>
                     </TextEquiv>
@@ -15227,7 +15227,7 @@ Olfenius.</Unicode>
                 <Coords points="8392,3463 8392,3510 8448,3510 8448,3463"/>
                 <TextLine id="TableCell_1642585451649_209l0" custom="readingOrder {index:0;}">
                     <Coords points="8443,3462 8395,3467 8396,3506 8433,3510 8443,3509"/>
-                    <Baseline points="8396,3505 8448,3509"/>
+                    <Baseline points="8396,3505 8443,3509"/>
                     <TextEquiv>
                         <Unicode>57</Unicode>
                     </TextEquiv>
@@ -15348,7 +15348,7 @@ Olfenius.</Unicode>
                 <Coords points="6590,3509 6590,3553 6666,3552 6669,3506"/>
                 <TextLine id="TableCell_1642584628543_4932l0" custom="readingOrder {index:0;}">
                     <Coords points="6619,3510 6660,3508 6657,3554 6612,3552 6612,3508"/>
-                    <Baseline points="6614,3549 6658,3549"/>
+                    <Baseline points="6614,3549 6657,3548"/>
                     <TextEquiv>
                         <Unicode>31</Unicode>
                     </TextEquiv>
@@ -15381,7 +15381,7 @@ Olfenius.</Unicode>
                 <Coords points="7837,3510 7837,3552 7890,3556 7889,3510"/>
                 <TextLine id="TableCell_1642584723446_6264l0" custom="readingOrder {index:0;}">
                     <Coords points="7843,3515 7882,3515 7883,3550 7843,3547"/>
-                    <Baseline points="7844,3542 7883,3541"/>
+                    <Baseline points="7844,3542 7882,3541"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -15447,7 +15447,7 @@ Olfenius.</Unicode>
                 <Coords points="8681,3510 8681,3552 8740,3552 8740,3510"/>
                 <TextLine id="TableCell_1642585770902_1142l0" custom="readingOrder {index:0;}">
                     <Coords points="8680,3515 8724,3515 8724,3546 8680,3546"/>
-                    <Baseline points="8681,3539 8725,3539"/>
+                    <Baseline points="8681,3539 8724,3539"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -15924,7 +15924,7 @@ Olfenius.</Unicode>
                 <Coords points="8111,3686 8110,3738 8166,3738 8167,3686"/>
                 <TextLine id="TableCell_1642584780605_7170l0" custom="readingOrder {index:0;}">
                     <Coords points="8110,3693 8137,3686 8167,3686 8166,3738 8110,3738"/>
-                    <Baseline points="8112,3731 8168,3730"/>
+                    <Baseline points="8112,3731 8166,3729"/>
                     <TextEquiv>
                         <Unicode>20</Unicode>
                     </TextEquiv>
@@ -16144,7 +16144,7 @@ Olfenius.</Unicode>
                 <Coords points="8388,3738 8389,3778 8443,3781 8445,3738"/>
                 <TextLine id="TableCell_1642585452248_239l0" custom="readingOrder {index:0;}">
                     <Coords points="8391,3741 8439,3738 8441,3738 8439,3781 8421,3779 8391,3776"/>
-                    <Baseline points="8391,3775 8443,3780"/>
+                    <Baseline points="8391,3775 8439,3779"/>
                     <TextEquiv>
                         <Unicode>20</Unicode>
                     </TextEquiv>
@@ -16166,7 +16166,7 @@ Olfenius.</Unicode>
                 <Coords points="8681,3738 8681,3772 8731,3781 8731,3738"/>
                 <TextLine id="TableCell_1642585771446_1166l0" custom="readingOrder {index:0;}">
                     <Coords points="8679,3744 8717,3744 8717,3777 8679,3770"/>
-                    <Baseline points="8676,3767 8715,3768"/>
+                    <Baseline points="8679,3767 8715,3768"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -16199,7 +16199,7 @@ Olfenius.</Unicode>
                 <Coords points="9021,3738 9021,3770 9009,3869 9226,3869 9226,3771 9236,3738"/>
                 <TextLine id="TableCell_1642592558297_5813l0" custom="readingOrder {index:0;}">
                     <Coords points="9089,3783 9146,3779 9214,3779 9216,3826 9146,3826 9090,3823"/>
-                    <Baseline points="9089,3818 9225,3820"/>
+                    <Baseline points="9089,3817 9215,3820"/>
                     <TextEquiv>
                         <Unicode>86,680</Unicode>
                     </TextEquiv>
@@ -16269,7 +16269,7 @@ Olfenius.</Unicode>
                 <Coords points="6664,3781 6664,3867 7611,3868 7612,3780"/>
                 <TextLine id="TableCell_1642584658620_5406l0" custom="readingOrder {index:0;}">
                     <Coords points="6727,3781 6739,3780 7564,3780 7581,3785 7575,3824 7538,3826 7520,3826 6727,3818"/>
-                    <Baseline points="6727,3817 6916,3818 6951,3817 7009,3818 7036,3818 7386,3818 7516,3818 7581,3819"/>
+                    <Baseline points="6727,3817 6916,3818 6951,3817 7009,3818 7036,3818 7386,3818 7516,3818 7575,3818"/>
                     <TextEquiv>
                         <Unicode>Uebertrag der Mehr⸗Einnahmen auf das</Unicode>
                     </TextEquiv>
@@ -16342,7 +16342,7 @@ Olfenius.</Unicode>
                 <Coords points="8389,3778 8387,3868 8443,3868 8443,3781"/>
                 <TextLine id="TableCell_1642585452364_245l0" custom="readingOrder {index:0;}">
                     <Coords points="8390,3836 8431,3838 8432,3866 8390,3866 8389,3839"/>
-                    <Baseline points="8391,3860 8433,3860"/>
+                    <Baseline points="8391,3860 8431,3860"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -16364,7 +16364,7 @@ Olfenius.</Unicode>
                 <Coords points="8681,3772 8669,3868 8727,3874 8731,3781"/>
                 <TextLine id="TableCell_1642585771576_1172l0" custom="readingOrder {index:0;}">
                     <Coords points="8680,3838 8715,3836 8716,3862 8673,3863 8673,3839"/>
-                    <Baseline points="8675,3858 8716,3858"/>
+                    <Baseline points="8675,3858 8715,3858"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -16496,7 +16496,7 @@ Olfenius.</Unicode>
                 <Coords points="8669,3868 8670,3916 8670,3957 8728,3955 8727,3914 8727,3874"/>
                 <TextLine id="TableCell_1642592840667_5864l0" custom="readingOrder {index:0;}">
                     <Coords points="8672,3906 8715,3910 8716,3944 8673,3946"/>
-                    <Baseline points="8671,3933 8714,3933"/>
+                    <Baseline points="8672,3932 8714,3933"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -16529,7 +16529,7 @@ Olfenius.</Unicode>
                 <Coords points="9009,3869 9009,3916 9008,3956 9222,3958 9228,3919 9226,3869"/>
                 <TextLine id="TableCell_1642592955635_5882l0" custom="readingOrder {index:0;}">
                     <Coords points="9070,3895 9102,3891 9216,3896 9217,3919 9212,3938 9142,3941 9135,3941 9065,3931 9059,3922 9057,3904"/>
-                    <Baseline points="9069,3932 9205,3932"/>
+                    <Baseline points="9069,3931 9205,3932"/>
                     <TextEquiv>
                         <Unicode>122,305</Unicode>
                     </TextEquiv>
@@ -16797,7 +16797,7 @@ Olfenius.</Unicode>
                 <Coords points="9222,3958 9228,4010 9294,4010 9302,3956"/>
                 <TextLine id="TableCell_1642585881093_2966l0" custom="readingOrder {index:0;}">
                     <Coords points="9226,3964 9273,3966 9274,4004 9231,4003"/>
-                    <Baseline points="9227,3994 9271,3994"/>
+                    <Baseline points="9229,3993 9271,3994"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -16841,7 +16841,7 @@ Olfenius.</Unicode>
                 <Coords points="9778,3956 9778,4007 9835,4007 9835,3956"/>
                 <TextLine id="TableCell_1642586008618_4296l0" custom="readingOrder {index:0;}">
                     <Coords points="9780,3964 9822,3964 9822,4002 9780,4002"/>
-                    <Baseline points="9781,3999 9823,3999"/>
+                    <Baseline points="9781,3999 9822,3999"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -16885,7 +16885,7 @@ Olfenius.</Unicode>
                 <Coords points="7832,4007 7831,4052 7884,4054 7885,4007"/>
                 <TextLine id="TableCell_1642584724326_6318l0" custom="readingOrder {index:0;}">
                     <Coords points="7834,4007 7881,4007 7880,4054 7834,4052"/>
-                    <Baseline points="7834,4040 7884,4042"/>
+                    <Baseline points="7834,4040 7880,4041"/>
                     <TextEquiv>
                         <Unicode>24</Unicode>
                     </TextEquiv>
@@ -16929,7 +16929,7 @@ Olfenius.</Unicode>
                 <Coords points="8385,4007 8384,4052 8439,4052 8440,4007"/>
                 <TextLine id="TableCell_1642585452849_269l0" custom="readingOrder {index:0;}">
                     <Coords points="8387,4012 8433,4007 8435,4007 8434,4052 8425,4052 8387,4047"/>
-                    <Baseline points="8387,4047 8439,4047"/>
+                    <Baseline points="8387,4047 8434,4046"/>
                     <TextEquiv>
                         <Unicode>90</Unicode>
                     </TextEquiv>
@@ -16951,7 +16951,7 @@ Olfenius.</Unicode>
                 <Coords points="8670,4008 8670,4053 8729,4053 8729,4008"/>
                 <TextLine id="TableCell_1642585772112_1196l0" custom="readingOrder {index:0;}">
                     <Coords points="8672,4013 8716,4013 8716,4047 8672,4047"/>
-                    <Baseline points="8673,4040 8717,4040"/>
+                    <Baseline points="8673,4040 8716,4040"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -16973,7 +16973,7 @@ Olfenius.</Unicode>
                 <Coords points="8947,4009 8947,4054 9009,4054 9009,4009"/>
                 <TextLine id="TableCell_1642585817780_2084l0" custom="readingOrder {index:0;}">
                     <Coords points="8947,4013 8994,4013 8994,4047 8947,4047"/>
-                    <Baseline points="8950,4039 8997,4039"/>
+                    <Baseline points="8950,4039 8994,4039"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -16995,7 +16995,7 @@ Olfenius.</Unicode>
                 <Coords points="9228,4010 9224,4054 9290,4054 9294,4010"/>
                 <TextLine id="TableCell_1642585881294_2972l0" custom="readingOrder {index:0;}">
                     <Coords points="9226,4015 9276,4015 9273,4048 9223,4048"/>
-                    <Baseline points="9225,4040 9274,4040"/>
+                    <Baseline points="9225,4040 9273,4039"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -17006,7 +17006,7 @@ Olfenius.</Unicode>
                 <Coords points="9294,4010 9290,4054 9500,4054 9498,4008"/>
                 <TextLine id="TableCell_1642585917325_3416l0" custom="readingOrder {index:0;}">
                     <Coords points="9308,4012 9443,4008 9495,4008 9495,4054 9326,4054 9308,4047"/>
-                    <Baseline points="9307,4047 9495,4047"/>
+                    <Baseline points="9308,4047 9495,4047"/>
                     <TextEquiv>
                         <Unicode>1,527,530</Unicode>
                     </TextEquiv>
@@ -17050,7 +17050,7 @@ Olfenius.</Unicode>
                 <Coords points="6588,4052 6588,4097 6663,4096 6663,4052"/>
                 <TextLine id="TableCell_1642584629347_4992l0" custom="readingOrder {index:0;}">
                     <Coords points="6621,4054 6660,4054 6660,4098 6608,4099 6608,4054"/>
-                    <Baseline points="6613,4096 6663,4096"/>
+                    <Baseline points="6613,4096 6660,4096"/>
                     <TextEquiv>
                         <Unicode>37</Unicode>
                     </TextEquiv>
@@ -17105,7 +17105,7 @@ Olfenius.</Unicode>
                 <Coords points="8106,4054 8107,4100 8165,4098 8164,4052"/>
                 <TextLine id="TableCell_1642584781392_7212l0" custom="readingOrder {index:0;}">
                     <Coords points="8109,4058 8153,4052 8154,4098 8151,4098 8109,4093"/>
-                    <Baseline points="8109,4093 8164,4092"/>
+                    <Baseline points="8109,4093 8153,4092"/>
                     <TextEquiv>
                         <Unicode>02</Unicode>
                     </TextEquiv>
@@ -17149,7 +17149,7 @@ Olfenius.</Unicode>
                 <Coords points="8670,4053 8668,4100 8727,4104 8729,4053"/>
                 <TextLine id="TableCell_1642585772233_1202l0" custom="readingOrder {index:0;}">
                     <Coords points="8673,4058 8694,4053 8718,4053 8718,4100 8687,4098 8673,4093"/>
-                    <Baseline points="8673,4093 8725,4093"/>
+                    <Baseline points="8673,4093 8718,4093"/>
                     <TextEquiv>
                         <Unicode>86</Unicode>
                     </TextEquiv>
@@ -17215,7 +17215,7 @@ Olfenius.</Unicode>
                 <Coords points="9500,4054 9498,4094 9556,4093 9557,4095 9571,4052 9554,4052"/>
                 <TextLine id="TableCell_1642588604439_5409l0" custom="readingOrder {index:0;}">
                     <Coords points="9502,4058 9542,4057 9549,4057 9544,4089 9500,4088"/>
-                    <Baseline points="9502,4085 9546,4085"/>
+                    <Baseline points="9502,4085 9544,4084"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -17314,7 +17314,7 @@ Olfenius.</Unicode>
                 <Coords points="8165,4098 8163,4146 8162,4200 8382,4200 8383,4146 8384,4102"/>
                 <TextLine id="TableCell_1642593263897_5940l0" custom="readingOrder {index:0;}">
                     <Coords points="8190,4124 8236,4119 8377,4121 8378,4128 8378,4164 8232,4164 8189,4165"/>
-                    <Baseline points="8190,4160 8381,4160"/>
+                    <Baseline points="8190,4160 8378,4160"/>
                     <TextEquiv>
                         <Unicode>6,311,628</Unicode>
                     </TextEquiv>
@@ -17413,7 +17413,7 @@ Olfenius.</Unicode>
                 <Coords points="9498,4094 9494,4145 9556,4145 9558,4145 9557,4095 9556,4093"/>
                 <TextLine id="TableCell_1642588629650_5415l0" custom="readingOrder {index:0;}">
                     <Coords points="9500,4102 9520,4096 9547,4096 9547,4141 9519,4141 9500,4136"/>
-                    <Baseline points="9500,4136 9555,4136"/>
+                    <Baseline points="9500,4136 9547,4136"/>
                     <TextEquiv>
                         <Unicode>53</Unicode>
                     </TextEquiv>
@@ -17608,7 +17608,7 @@ Olfenius.</Unicode>
                 <Coords points="8727,4199 8724,4260 8943,4261 8938,4203"/>
                 <TextLine id="TableCell_1642585795515_1664l0" custom="readingOrder {index:0;}">
                     <Coords points="8726,4219 8726,4217 8910,4213 8931,4212 8934,4226 8934,4261 8765,4260 8726,4253"/>
-                    <Baseline points="8726,4253 8940,4254"/>
+                    <Baseline points="8726,4253 8934,4254"/>
                     <TextEquiv>
                         <Unicode>29,584,759</Unicode>
                     </TextEquiv>
@@ -17641,7 +17641,7 @@ Olfenius.</Unicode>
                 <Coords points="9217,4202 9215,4261 9285,4261 9283,4202"/>
                 <TextLine id="TableCell_1642585882110_2996l0" custom="readingOrder {index:0;}">
                     <Coords points="9223,4201 9274,4202 9274,4254 9218,4254 9220,4202"/>
-                    <Baseline points="9215,4249 9282,4249"/>
+                    <Baseline points="9218,4249 9274,4249"/>
                     <TextEquiv>
                         <Unicode>25</Unicode>
                     </TextEquiv>
@@ -17795,7 +17795,7 @@ Olfenius.</Unicode>
                 <Coords points="8667,4259 8664,4308 8723,4308 8724,4260"/>
                 <TextLine id="TableCell_1642585772991_1226l0" custom="readingOrder {index:0;}">
                     <Coords points="8670,4264 8713,4265 8712,4301 8668,4301"/>
-                    <Baseline points="8670,4292 8714,4292"/>
+                    <Baseline points="8670,4292 8712,4291"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -18334,7 +18334,7 @@ Olfenius.</Unicode>
                 <Coords points="8377,4506 8377,4551 8431,4551 8431,4506"/>
                 <TextLine id="TableCell_1642585454311_323l0" custom="readingOrder {index:0;}">
                     <Coords points="8381,4510 8405,4506 8426,4506 8426,4547 8402,4547 8381,4544"/>
-                    <Baseline points="8381,4544 8431,4543"/>
+                    <Baseline points="8381,4544 8426,4543"/>
                     <TextEquiv>
                         <Unicode>45</Unicode>
                     </TextEquiv>
@@ -18356,7 +18356,7 @@ Olfenius.</Unicode>
                 <Coords points="8661,4506 8662,4551 8721,4551 8720,4506"/>
                 <TextLine id="TableCell_1642585773685_1250l0" custom="readingOrder {index:0;}">
                     <Coords points="8663,4515 8707,4515 8708,4549 8664,4549"/>
-                    <Baseline points="8665,4540 8709,4540"/>
+                    <Baseline points="8665,4540 8707,4540"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -18378,7 +18378,7 @@ Olfenius.</Unicode>
                 <Coords points="8939,4508 8939,4554 9001,4554 9001,4508"/>
                 <TextLine id="TableCell_1642585819489_2138l0" custom="readingOrder {index:0;}">
                     <Coords points="8942,4509 8967,4508 8990,4510 8990,4554 8964,4552 8942,4544"/>
-                    <Baseline points="8942,4544 8998,4545"/>
+                    <Baseline points="8942,4544 8990,4545"/>
                     <TextEquiv>
                         <Unicode>98</Unicode>
                     </TextEquiv>
@@ -18411,7 +18411,7 @@ Olfenius.</Unicode>
                 <Coords points="9280,4505 9284,4553 9492,4552 9492,4504"/>
                 <TextLine id="TableCell_1642585919201_3470l0" custom="readingOrder {index:0;}">
                     <Coords points="9324,4505 9345,4504 9486,4504 9486,4552 9398,4552 9324,4545"/>
-                    <Baseline points="9324,4545 9489,4544"/>
+                    <Baseline points="9324,4545 9486,4544"/>
                     <TextEquiv>
                         <Unicode>481,714</Unicode>
                     </TextEquiv>
@@ -18510,7 +18510,7 @@ Olfenius.</Unicode>
                 <Coords points="8100,4551 8099,4594 8154,4594 8155,4551"/>
                 <TextLine id="TableCell_1642584782561_7266l0" custom="readingOrder {index:0;}">
                     <Coords points="8106,4556 8104,4558 8106,4588 8147,4588 8146,4558"/>
-                    <Baseline points="8106,4583 8147,4583"/>
+                    <Baseline points="8106,4583 8146,4583"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -18521,7 +18521,7 @@ Olfenius.</Unicode>
                 <Coords points="8155,4551 8154,4594 8376,4594 8377,4551"/>
                 <TextLine id="TableCell_1642584931934_7726l0" custom="readingOrder {index:0;}">
                     <Coords points="8264,4556 8289,4551 8376,4551 8376,4594 8282,4594 8264,4591"/>
-                    <Baseline points="8265,4588 8377,4589"/>
+                    <Baseline points="8265,4588 8376,4589"/>
                     <TextEquiv>
                         <Unicode>2,569</Unicode>
                     </TextEquiv>
@@ -18620,7 +18620,7 @@ Olfenius.</Unicode>
                 <Coords points="9492,4552 9491,4598 9553,4598 9555,4598 9556,4552 9554,4552"/>
                 <TextLine id="TableCell_1642589155746_5494l0" custom="readingOrder {index:0;}">
                     <Coords points="9493,4557 9541,4557 9541,4592 9493,4592"/>
-                    <Baseline points="9495,4584 9543,4584"/>
+                    <Baseline points="9495,4584 9541,4584"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -18642,7 +18642,7 @@ Olfenius.</Unicode>
                 <Coords points="9773,4557 9773,4596 9834,4594 9834,4556"/>
                 <TextLine id="TableCell_1642586011137_4362l0" custom="readingOrder {index:0;}">
                     <Coords points="9774,4562 9820,4561 9820,4590 9774,4591"/>
-                    <Baseline points="9773,4586 9819,4586"/>
+                    <Baseline points="9774,4586 9819,4586"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -18752,7 +18752,7 @@ Olfenius.</Unicode>
                 <Coords points="8662,4594 8662,4641 8721,4641 8721,4594"/>
                 <TextLine id="TableCell_1642585774032_1262l0" custom="readingOrder {index:0;}">
                     <Coords points="8663,4601 8707,4601 8707,4637 8663,4637"/>
-                    <Baseline points="8664,4633 8708,4633"/>
+                    <Baseline points="8664,4633 8707,4633"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -18840,7 +18840,7 @@ Olfenius.</Unicode>
                 <Coords points="9773,4596 9771,4640 9834,4639 9834,4594"/>
                 <TextLine id="TableCell_1642586011357_4368l0" custom="readingOrder {index:0;}">
                     <Coords points="9772,4605 9818,4603 9818,4637 9771,4638"/>
-                    <Baseline points="9772,4632 9819,4632"/>
+                    <Baseline points="9772,4632 9818,4632"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -18884,7 +18884,7 @@ Olfenius.</Unicode>
                 <Coords points="7823,4645 7823,4688 7880,4690 7878,4645"/>
                 <TextLine id="TableCell_1642584725470_6390l0" custom="readingOrder {index:0;}">
                     <Coords points="7827,4649 7868,4649 7869,4683 7827,4681"/>
-                    <Baseline points="7828,4675 7870,4675"/>
+                    <Baseline points="7828,4675 7868,4675"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -18906,7 +18906,7 @@ Olfenius.</Unicode>
                 <Coords points="8098,4645 8099,4690 8153,4688 8154,4642"/>
                 <TextLine id="TableCell_1642584782904_7278l0" custom="readingOrder {index:0;}">
                     <Coords points="8105,4645 8109,4644 8148,4642 8147,4684 8126,4685 8105,4680"/>
-                    <Baseline points="8105,4680 8153,4680"/>
+                    <Baseline points="8105,4680 8147,4679"/>
                     <TextEquiv>
                         <Unicode>65</Unicode>
                     </TextEquiv>
@@ -18961,7 +18961,7 @@ Olfenius.</Unicode>
                 <Coords points="8721,4641 8721,4690 8937,4692 8937,4643"/>
                 <TextLine id="TableCell_1642585796952_1712l0" custom="readingOrder {index:0;}">
                     <Coords points="8779,4647 8845,4642 8933,4643 8933,4689 8864,4688 8779,4682"/>
-                    <Baseline points="8781,4683 8922,4684"/>
+                    <Baseline points="8781,4682 8922,4684"/>
                     <TextEquiv>
                         <Unicode>157,686</Unicode>
                     </TextEquiv>
@@ -19016,7 +19016,7 @@ Olfenius.</Unicode>
                 <Coords points="9491,4643 9488,4691 9550,4691 9552,4691 9555,4643 9553,4643"/>
                 <TextLine id="TableCell_1642589303492_5516l0" custom="readingOrder {index:0;}">
                     <Coords points="9492,4650 9540,4650 9538,4686 9490,4686"/>
-                    <Baseline points="9491,4677 9539,4677"/>
+                    <Baseline points="9491,4677 9538,4676"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -19060,7 +19060,7 @@ Olfenius.</Unicode>
                 <Coords points="6658,4691 6657,4736 7601,4733 7602,4688"/>
                 <TextLine id="TableCell_1642584660058_5508l0" custom="readingOrder {index:0;}">
                     <Coords points="6770,4717 6882,4690 6972,4690 7179,4690 7179,4732 7163,4734 6931,4735 6884,4734 6770,4731"/>
-                    <Baseline points="6770,4727 6784,4726 6884,4734 6945,4734 6968,4735 7179,4732"/>
+                    <Baseline points="6770,4727 6784,4726 6884,4734 6945,4734 6967,4734 7179,4732"/>
                     <TextEquiv>
                         <Unicode>„ auf Bürgſchaft</Unicode>
                     </TextEquiv>
@@ -19082,7 +19082,7 @@ Olfenius.</Unicode>
                 <Coords points="7823,4688 7822,4732 7881,4735 7880,4690"/>
                 <TextLine id="TableCell_1642584725568_6396l0" custom="readingOrder {index:0;}">
                     <Coords points="7830,4693 7872,4695 7873,4729 7829,4726"/>
-                    <Baseline points="7829,4720 7873,4720"/>
+                    <Baseline points="7829,4720 7872,4720"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -19104,7 +19104,7 @@ Olfenius.</Unicode>
                 <Coords points="8099,4690 8100,4734 8152,4736 8153,4688"/>
                 <TextLine id="TableCell_1642584783020_7284l0" custom="readingOrder {index:0;}">
                     <Coords points="8103,4692 8116,4689 8149,4688 8148,4736 8118,4734 8103,4727"/>
-                    <Baseline points="8103,4727 8152,4727"/>
+                    <Baseline points="8103,4727 8148,4726"/>
                     <TextEquiv>
                         <Unicode>80</Unicode>
                     </TextEquiv>
@@ -19170,7 +19170,7 @@ Olfenius.</Unicode>
                 <Coords points="8937,4692 8941,4732 9003,4732 8999,4692"/>
                 <TextLine id="TableCell_1642585820216_2162l0" custom="readingOrder {index:0;}">
                     <Coords points="8938,4697 8984,4697 8987,4727 8941,4727"/>
-                    <Baseline points="8940,4720 8986,4720"/>
+                    <Baseline points="8940,4719 8986,4720"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -19214,7 +19214,7 @@ Olfenius.</Unicode>
                 <Coords points="9488,4691 9488,4731 9550,4731 9552,4731 9552,4691 9550,4691"/>
                 <TextLine id="TableCell_1642589329172_5522l0" custom="readingOrder {index:0;}">
                     <Coords points="9490,4696 9538,4696 9538,4726 9490,4726"/>
-                    <Baseline points="9488,4720 9536,4720"/>
+                    <Baseline points="9490,4720 9536,4720"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -19280,7 +19280,7 @@ Olfenius.</Unicode>
                 <Coords points="7822,4732 7821,4777 7880,4780 7881,4735"/>
                 <TextLine id="TableCell_1642584725665_6402l0" custom="readingOrder {index:0;}">
                     <Coords points="7826,4738 7870,4740 7869,4774 7825,4771"/>
-                    <Baseline points="7824,4765 7868,4765"/>
+                    <Baseline points="7825,4765 7868,4765"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -19302,7 +19302,7 @@ Olfenius.</Unicode>
                 <Coords points="8100,4734 8099,4780 8151,4776 8152,4736"/>
                 <TextLine id="TableCell_1642584783203_7290l0" custom="readingOrder {index:0;}">
                     <Coords points="8102,4735 8121,4735 8147,4735 8148,4736 8147,4776 8138,4777 8124,4777 8102,4771"/>
-                    <Baseline points="8102,4770 8151,4775"/>
+                    <Baseline points="8102,4770 8147,4774"/>
                     <TextEquiv>
                         <Unicode>78</Unicode>
                     </TextEquiv>
@@ -19346,7 +19346,7 @@ Olfenius.</Unicode>
                 <Coords points="8660,4730 8660,4778 8719,4778 8719,4730"/>
                 <TextLine id="TableCell_1642585774549_1280l0" custom="readingOrder {index:0;}">
                     <Coords points="8662,4738 8684,4736 8708,4736 8709,4778 8681,4778 8662,4773"/>
-                    <Baseline points="8662,4773 8715,4773"/>
+                    <Baseline points="8662,4773 8708,4773"/>
                     <TextEquiv>
                         <Unicode>35</Unicode>
                     </TextEquiv>
@@ -19412,7 +19412,7 @@ Olfenius.</Unicode>
                 <Coords points="9488,4731 9486,4777 9548,4777 9550,4777 9552,4731 9550,4731"/>
                 <TextLine id="TableCell_1642589379588_5537l0" custom="readingOrder {index:0;}">
                     <Coords points="9488,4736 9536,4736 9535,4771 9487,4771"/>
-                    <Baseline points="9489,4765 9537,4765"/>
+                    <Baseline points="9489,4765 9535,4764"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -19500,7 +19500,7 @@ Olfenius.</Unicode>
                 <Coords points="8099,4780 8096,4822 8150,4822 8151,4776"/>
                 <TextLine id="TableCell_1642584783326_7296l0" custom="readingOrder {index:0;}">
                     <Coords points="8101,4781 8108,4779 8148,4776 8147,4822 8119,4822 8101,4816"/>
-                    <Baseline points="8101,4816 8150,4816"/>
+                    <Baseline points="8101,4816 8147,4815"/>
                     <TextEquiv>
                         <Unicode>42</Unicode>
                     </TextEquiv>
@@ -19610,7 +19610,7 @@ Olfenius.</Unicode>
                 <Coords points="9486,4777 9486,4823 9548,4823 9550,4823 9550,4777 9548,4777"/>
                 <TextLine id="TableCell_1642589408489_5543l0" custom="readingOrder {index:0;}">
                     <Coords points="9487,4782 9535,4782 9535,4817 9487,4817"/>
-                    <Baseline points="9489,4811 9537,4811"/>
+                    <Baseline points="9489,4811 9535,4811"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -19808,7 +19808,7 @@ Olfenius.</Unicode>
                 <Coords points="9486,4823 9483,4866 9545,4866 9547,4865 9550,4823 9548,4823"/>
                 <TextLine id="TableCell_1642589435068_5549l0" custom="readingOrder {index:0;}">
                     <Coords points="9488,4828 9536,4828 9534,4859 9532,4860 9486,4860"/>
-                    <Baseline points="9487,4852 9535,4852"/>
+                    <Baseline points="9487,4852 9534,4851"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -19874,7 +19874,7 @@ Olfenius.</Unicode>
                 <Coords points="7820,4868 7819,4912 7876,4916 7876,4872"/>
                 <TextLine id="TableCell_1642584725958_6420l0" custom="readingOrder {index:0;}">
                     <Coords points="7822,4874 7864,4877 7864,4910 7822,4907"/>
-                    <Baseline points="7824,4901 7866,4901"/>
+                    <Baseline points="7824,4901 7864,4901"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -19896,7 +19896,7 @@ Olfenius.</Unicode>
                 <Coords points="8096,4871 8095,4916 8149,4911 8150,4865"/>
                 <TextLine id="TableCell_1642584783620_7308l0" custom="readingOrder {index:0;}">
                     <Coords points="8100,4871 8102,4870 8144,4870 8146,4911 8138,4912 8122,4912 8100,4907"/>
-                    <Baseline points="8100,4907 8149,4906"/>
+                    <Baseline points="8100,4907 8145,4906"/>
                     <TextEquiv>
                         <Unicode>24</Unicode>
                     </TextEquiv>
@@ -19962,7 +19962,7 @@ Olfenius.</Unicode>
                 <Coords points="8937,4866 8936,4913 8998,4913 8999,4866"/>
                 <TextLine id="TableCell_1642585820989_2186l0" custom="readingOrder {index:0;}">
                     <Coords points="8936,4869 8985,4866 8987,4866 8987,4913 8978,4913 8936,4906"/>
-                    <Baseline points="8936,4901 8993,4906"/>
+                    <Baseline points="8936,4901 8987,4906"/>
                     <TextEquiv>
                         <Unicode>65</Unicode>
                     </TextEquiv>
@@ -20006,7 +20006,7 @@ Olfenius.</Unicode>
                 <Coords points="9483,4866 9481,4914 9543,4914 9545,4914 9547,4865 9545,4866"/>
                 <TextLine id="TableCell_1642589462062_5555l0" custom="readingOrder {index:0;}">
                     <Coords points="9485,4872 9533,4872 9532,4908 9484,4908"/>
-                    <Baseline points="9485,4899 9533,4899"/>
+                    <Baseline points="9485,4899 9532,4898"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -20083,7 +20083,7 @@ Olfenius.</Unicode>
                 <Coords points="7876,4916 7876,4965 8095,4964 8095,4916"/>
                 <TextLine id="TableCell_1642584757013_6870l0" custom="readingOrder {index:0;}">
                     <Coords points="7958,4919 8007,4916 8091,4916 8091,4964 8035,4964 8007,4962 7958,4955"/>
-                    <Baseline points="7958,4955 8095,4956"/>
+                    <Baseline points="7958,4955 8091,4956"/>
                     <TextEquiv>
                         <Unicode>92,884</Unicode>
                     </TextEquiv>
@@ -20094,7 +20094,7 @@ Olfenius.</Unicode>
                 <Coords points="8095,4916 8095,4964 8150,4957 8149,4911"/>
                 <TextLine id="line_1670255457634_30" custom="readingOrder {index:0;}">
                     <Coords points="8097,4909 8140,4906 8143,4956 8100,4959"/>
-                    <Baseline points="8100,4954 8143,4951"/>
+                    <Baseline points="8100,4954 8142,4951"/>
                     <TextEquiv>
                         <Unicode>42</Unicode>
                     </TextEquiv>
@@ -20127,7 +20127,7 @@ Olfenius.</Unicode>
                 <Coords points="8425,4911 8424,4953 8657,4957 8657,4915"/>
                 <TextLine id="TableCell_1642585728270_860l0" custom="readingOrder {index:0;}">
                     <Coords points="8544,4915 8653,4915 8653,4956 8561,4955 8544,4950"/>
-                    <Baseline points="8545,4951 8653,4952"/>
+                    <Baseline points="8545,4950 8653,4952"/>
                     <TextEquiv>
                         <Unicode>9,277</Unicode>
                     </TextEquiv>
@@ -20138,7 +20138,7 @@ Olfenius.</Unicode>
                 <Coords points="8657,4915 8657,4957 8716,4957 8716,4915"/>
                 <TextLine id="TableCell_1642585775270_1304l0" custom="readingOrder {index:0;}">
                     <Coords points="8660,4917 8682,4915 8706,4915 8706,4957 8677,4957 8660,4953"/>
-                    <Baseline points="8660,4952 8712,4957"/>
+                    <Baseline points="8660,4952 8706,4957"/>
                     <TextEquiv>
                         <Unicode>66</Unicode>
                     </TextEquiv>
@@ -20160,7 +20160,7 @@ Olfenius.</Unicode>
                 <Coords points="8936,4913 8936,4955 8998,4955 8998,4913"/>
                 <TextLine id="TableCell_1642585821149_2192l0" custom="readingOrder {index:0;}">
                     <Coords points="8936,4917 8984,4913 8985,4955 8976,4955 8936,4950"/>
-                    <Baseline points="8936,4950 8992,4950"/>
+                    <Baseline points="8936,4950 8984,4950"/>
                     <TextEquiv>
                         <Unicode>49</Unicode>
                     </TextEquiv>
@@ -20204,7 +20204,7 @@ Olfenius.</Unicode>
                 <Coords points="9481,4914 9481,4956 9543,4956 9545,4956 9545,4914 9543,4914"/>
                 <TextLine id="TableCell_1642589496583_5563l0" custom="readingOrder {index:0;}">
                     <Coords points="9482,4919 9481,4920 9482,4950 9530,4950 9529,4920"/>
-                    <Baseline points="9485,4944 9533,4944"/>
+                    <Baseline points="9485,4944 9529,4944"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -20270,7 +20270,7 @@ Olfenius.</Unicode>
                 <Coords points="7818,4958 7818,5003 7874,5005 7876,4965"/>
                 <TextLine id="TableCell_1642584726282_6432l0" custom="readingOrder {index:0;}">
                     <Coords points="7821,4964 7864,4969 7863,4999 7821,4997"/>
-                    <Baseline points="7822,4991 7864,4991"/>
+                    <Baseline points="7822,4991 7863,4990"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -20336,7 +20336,7 @@ Olfenius.</Unicode>
                 <Coords points="8657,4957 8654,5003 8713,5003 8716,4957"/>
                 <TextLine id="TableCell_1642585775447_1310l0" custom="readingOrder {index:0;}">
                     <Coords points="8657,4963 8701,4963 8699,4998 8654,4998"/>
-                    <Baseline points="8658,4989 8702,4989"/>
+                    <Baseline points="8658,4989 8699,4988"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -20468,7 +20468,7 @@ Olfenius.</Unicode>
                 <Coords points="7818,5003 7817,5047 7874,5053 7874,5005"/>
                 <TextLine id="TableCell_1642584726422_6438l0" custom="readingOrder {index:0;}">
                     <Coords points="7825,5003 7865,5004 7864,5048 7836,5045 7825,5039"/>
-                    <Baseline points="7825,5039 7874,5038"/>
+                    <Baseline points="7825,5039 7864,5037"/>
                     <TextEquiv>
                         <Unicode>17</Unicode>
                     </TextEquiv>
@@ -20739,7 +20739,7 @@ Olfenius.</Unicode>
                 <Coords points="8654,5050 8653,5138 8712,5138 8713,5050"/>
                 <TextLine id="TableCell_1642585775814_1322l0" custom="readingOrder {index:0;}">
                     <Coords points="8655,5103 8699,5103 8699,5131 8655,5131 8654,5112"/>
-                    <Baseline points="8657,5128 8701,5128"/>
+                    <Baseline points="8657,5128 8699,5128"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -20871,7 +20871,7 @@ Olfenius.</Unicode>
                 <Coords points="8653,5138 8653,5186 8712,5186 8712,5138"/>
                 <TextLine id="TableCell_1642585775997_1328l0" custom="readingOrder {index:0;}">
                     <Coords points="8654,5143 8698,5143 8698,5179 8654,5179"/>
-                    <Baseline points="8657,5172 8701,5172"/>
+                    <Baseline points="8657,5172 8698,5172"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -20904,7 +20904,7 @@ Olfenius.</Unicode>
                 <Coords points="8988,5139 8988,5187 9203,5186 9203,5138"/>
                 <TextLine id="TableCell_1642585853270_2660l0" custom="readingOrder {index:0;}">
                     <Coords points="9046,5139 9128,5138 9193,5138 9193,5182 9160,5182 9114,5183 9046,5174"/>
-                    <Baseline points="9046,5174 9200,5176"/>
+                    <Baseline points="9046,5174 9193,5176"/>
                     <TextEquiv>
                         <Unicode>132,127</Unicode>
                     </TextEquiv>
@@ -20926,7 +20926,7 @@ Olfenius.</Unicode>
                 <Coords points="9269,5138 9269,5186 9479,5187 9479,5139"/>
                 <TextLine id="TableCell_1642585921955_3548l0" custom="readingOrder {index:0;}">
                     <Coords points="9325,5141 9473,5139 9474,5187 9401,5186 9370,5186 9325,5176"/>
-                    <Baseline points="9325,5176 9478,5177"/>
+                    <Baseline points="9325,5176 9473,5177"/>
                     <TextEquiv>
                         <Unicode>171,911</Unicode>
                     </TextEquiv>
@@ -21113,7 +21113,7 @@ Olfenius.</Unicode>
                 <Coords points="9203,5186 9206,5227 9199,5274 9265,5274 9267,5228 9269,5186"/>
                 <TextLine id="TableCell_1642594362038_6115l0" custom="readingOrder {index:0;}">
                     <Coords points="9206,5207 9226,5204 9258,5204 9261,5243 9229,5243 9206,5242"/>
-                    <Baseline points="9206,5242 9264,5243"/>
+                    <Baseline points="9206,5242 9261,5243"/>
                     <TextEquiv>
                         <Unicode>25</Unicode>
                     </TextEquiv>
@@ -21135,7 +21135,7 @@ Olfenius.</Unicode>
                 <Coords points="9479,5187 9477,5229 9477,5271 9541,5271 9541,5229 9543,5187 9541,5187"/>
                 <TextLine id="TableCell_1642594316009_6105l0" custom="readingOrder {index:0;}">
                     <Coords points="9482,5225 9481,5221 9529,5221 9530,5256 9482,5256"/>
-                    <Baseline points="9483,5244 9531,5244"/>
+                    <Baseline points="9483,5244 9529,5244"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -21355,7 +21355,7 @@ Olfenius.</Unicode>
                 <Coords points="8091,5277 8091,5321 8149,5320 8149,5276"/>
                 <TextLine id="TableCell_1642584784926_7356l0" custom="readingOrder {index:0;}">
                     <Coords points="8096,5277 8098,5276 8142,5276 8142,5320 8096,5320"/>
-                    <Baseline points="8096,5309 8148,5309"/>
+                    <Baseline points="8096,5309 8142,5309"/>
                     <TextEquiv>
                         <Unicode>80</Unicode>
                     </TextEquiv>
@@ -21377,7 +21377,7 @@ Olfenius.</Unicode>
                 <Coords points="8365,5275 8364,5319 8420,5318 8420,5274"/>
                 <TextLine id="TableCell_1642585456890_419l0" custom="readingOrder {index:0;}">
                     <Coords points="8369,5276 8391,5275 8409,5274 8414,5274 8414,5318 8409,5318 8369,5311"/>
-                    <Baseline points="8369,5311 8420,5311"/>
+                    <Baseline points="8369,5311 8414,5311"/>
                     <TextEquiv>
                         <Unicode>80</Unicode>
                     </TextEquiv>
@@ -21399,7 +21399,7 @@ Olfenius.</Unicode>
                 <Coords points="8648,5273 8646,5315 8705,5315 8707,5273"/>
                 <TextLine id="TableCell_1642585776518_1346l0" custom="readingOrder {index:0;}">
                     <Coords points="8651,5279 8695,5279 8693,5310 8649,5310"/>
-                    <Baseline points="8652,5304 8696,5304"/>
+                    <Baseline points="8652,5304 8693,5303"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -21410,7 +21410,7 @@ Olfenius.</Unicode>
                 <Coords points="8707,5273 8705,5315 8924,5320 8924,5271"/>
                 <TextLine id="TableCell_1642585799329_1790l0" custom="readingOrder {index:0;}">
                     <Coords points="8788,5274 8834,5272 8855,5271 8919,5271 8919,5319 8827,5317 8788,5310"/>
-                    <Baseline points="8788,5310 8921,5311"/>
+                    <Baseline points="8788,5310 8919,5311"/>
                     <TextEquiv>
                         <Unicode>25,698</Unicode>
                     </TextEquiv>
@@ -21421,7 +21421,7 @@ Olfenius.</Unicode>
                 <Coords points="8924,5271 8924,5320 8986,5320 8986,5271"/>
                 <TextLine id="TableCell_1642585822468_2234l0" custom="readingOrder {index:0;}">
                     <Coords points="8925,5274 8951,5271 8981,5271 8981,5320 8948,5320 8925,5310"/>
-                    <Baseline points="8925,5310 8985,5309"/>
+                    <Baseline points="8925,5310 8981,5309"/>
                     <TextEquiv>
                         <Unicode>05</Unicode>
                     </TextEquiv>
@@ -21443,7 +21443,7 @@ Olfenius.</Unicode>
                 <Coords points="9199,5274 9199,5318 9265,5318 9265,5274"/>
                 <TextLine id="TableCell_1642585886379_3122l0" custom="readingOrder {index:0;}">
                     <Coords points="9203,5275 9230,5274 9258,5274 9258,5318 9226,5318 9203,5311"/>
-                    <Baseline points="9203,5311 9264,5310"/>
+                    <Baseline points="9203,5311 9258,5310"/>
                     <TextEquiv>
                         <Unicode>05</Unicode>
                     </TextEquiv>
@@ -21531,7 +21531,7 @@ Olfenius.</Unicode>
                 <Coords points="7814,5318 7813,5365 7870,5365 7871,5317"/>
                 <TextLine id="TableCell_1642584727180_6474l0" custom="readingOrder {index:0;}">
                     <Coords points="7814,5319 7858,5317 7866,5317 7865,5365 7813,5365"/>
-                    <Baseline points="7813,5353 7870,5353"/>
+                    <Baseline points="7813,5353 7865,5352"/>
                     <TextEquiv>
                         <Unicode>08</Unicode>
                     </TextEquiv>
@@ -21575,7 +21575,7 @@ Olfenius.</Unicode>
                 <Coords points="8364,5319 8363,5360 8419,5360 8420,5318"/>
                 <TextLine id="TableCell_1642585457054_425l0" custom="readingOrder {index:0;}">
                     <Coords points="8364,5320 8411,5318 8416,5318 8415,5360 8363,5360"/>
-                    <Baseline points="8363,5360 8419,5360"/>
+                    <Baseline points="8363,5360 8415,5359"/>
                     <TextEquiv>
                         <Unicode>07</Unicode>
                     </TextEquiv>
@@ -21597,7 +21597,7 @@ Olfenius.</Unicode>
                 <Coords points="8646,5315 8646,5361 8705,5361 8705,5315"/>
                 <TextLine id="TableCell_1642585776707_1352l0" custom="readingOrder {index:0;}">
                     <Coords points="8648,5323 8692,5323 8692,5358 8648,5358"/>
-                    <Baseline points="8650,5351 8694,5351"/>
+                    <Baseline points="8650,5351 8692,5351"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -21762,7 +21762,7 @@ Olfenius.</Unicode>
                 <Coords points="8148,5365 8147,5419 8362,5419 8363,5360"/>
                 <TextLine id="TableCell_1642584934950_7828l0" custom="readingOrder {index:0;}">
                     <Coords points="8230,5367 8265,5362 8358,5359 8357,5409 8279,5410 8230,5401"/>
-                    <Baseline points="8230,5401 8362,5401"/>
+                    <Baseline points="8230,5401 8357,5400"/>
                     <TextEquiv>
                         <Unicode>16,457</Unicode>
                     </TextEquiv>
@@ -21806,7 +21806,7 @@ Olfenius.</Unicode>
                 <Coords points="8705,5361 8705,5426 8920,5423 8924,5365"/>
                 <TextLine id="TableCell_1642585799715_1802l0" custom="readingOrder {index:0;}">
                     <Coords points="8786,5365 8918,5365 8918,5408 8904,5406 8872,5406 8811,5408 8786,5400"/>
-                    <Baseline points="8786,5400 8921,5402"/>
+                    <Baseline points="8786,5400 8918,5402"/>
                     <TextEquiv>
                         <Unicode>26,408</Unicode>
                     </TextEquiv>
@@ -21909,7 +21909,7 @@ Olfenius.</Unicode>
                 <Coords points="7595,5419 7596,5480 7812,5477 7812,5419"/>
                 <TextLine id="TableCell_1642584698716_6042l0" custom="readingOrder {index:0;}">
                     <Coords points="7648,5432 7811,5432 7812,5477 7618,5480 7618,5433"/>
-                    <Baseline points="7625,5473 7812,5472"/>
+                    <Baseline points="7625,5473 7811,5472"/>
                     <TextEquiv>
                         <Unicode>8,017,278</Unicode>
                     </TextEquiv>
@@ -21931,7 +21931,7 @@ Olfenius.</Unicode>
                 <Coords points="7869,5419 7869,5477 8088,5479 8088,5419"/>
                 <TextLine id="TableCell_1642584758414_6930l0" custom="readingOrder {index:0;}">
                     <Coords points="7896,5436 8062,5428 8082,5428 8082,5479 7914,5477 7896,5471"/>
-                    <Baseline points="7896,5471 8088,5471"/>
+                    <Baseline points="7896,5471 8082,5471"/>
                     <TextEquiv>
                         <Unicode>6,202,801</Unicode>
                     </TextEquiv>
@@ -21942,7 +21942,7 @@ Olfenius.</Unicode>
                 <Coords points="8088,5419 8088,5479 8147,5479 8147,5419"/>
                 <TextLine id="TableCell_1642584785430_7374l0" custom="readingOrder {index:0;}">
                     <Coords points="8088,5433 8115,5428 8137,5428 8138,5473 8113,5473 8088,5469"/>
-                    <Baseline points="8088,5469 8146,5469"/>
+                    <Baseline points="8088,5469 8137,5469"/>
                     <TextEquiv>
                         <Unicode>39</Unicode>
                     </TextEquiv>
@@ -21986,7 +21986,7 @@ Olfenius.</Unicode>
                 <Coords points="8646,5426 8646,5479 8705,5479 8705,5426"/>
                 <TextLine id="TableCell_1642585777063_1364l0" custom="readingOrder {index:0;}">
                     <Coords points="8650,5434 8675,5426 8696,5426 8696,5479 8672,5479 8650,5469"/>
-                    <Baseline points="8650,5469 8704,5468"/>
+                    <Baseline points="8650,5469 8696,5468"/>
                     <TextEquiv>
                         <Unicode>31</Unicode>
                     </TextEquiv>
@@ -22008,7 +22008,7 @@ Olfenius.</Unicode>
                 <Coords points="8920,5423 8920,5477 8982,5477 8982,5423"/>
                 <TextLine id="TableCell_1642585823025_2252l0" custom="readingOrder {index:0;}">
                     <Coords points="8925,5433 8974,5423 8976,5423 8976,5477 8969,5477 8925,5468"/>
-                    <Baseline points="8925,5468 8982,5469"/>
+                    <Baseline points="8925,5468 8976,5469"/>
                     <TextEquiv>
                         <Unicode>28</Unicode>
                     </TextEquiv>
@@ -22019,7 +22019,7 @@ Olfenius.</Unicode>
                 <Coords points="8982,5423 8982,5477 9196,5479 9196,5424"/>
                 <TextLine id="TableCell_1642585854515_2696l0" custom="readingOrder {index:0;}">
                     <Coords points="8987,5433 9169,5424 9194,5424 9194,5479 9065,5477 9029,5477 8987,5467"/>
-                    <Baseline points="8987,5467 9196,5469"/>
+                    <Baseline points="8987,5467 9194,5469"/>
                     <TextEquiv>
                         <Unicode>14,182,773</Unicode>
                     </TextEquiv>
@@ -22030,7 +22030,7 @@ Olfenius.</Unicode>
                 <Coords points="9196,5424 9196,5479 9262,5479 9262,5424"/>
                 <TextLine id="TableCell_1642585887000_3140l0" custom="readingOrder {index:0;}">
                     <Coords points="9196,5424 9254,5423 9254,5478 9223,5479 9196,5468"/>
-                    <Baseline points="9196,5468 9261,5468"/>
+                    <Baseline points="9196,5468 9254,5468"/>
                     <TextEquiv>
                         <Unicode>59</Unicode>
                     </TextEquiv>
@@ -22041,7 +22041,7 @@ Olfenius.</Unicode>
                 <Coords points="9262,5424 9262,5479 9471,5482 9471,5422"/>
                 <TextLine id="TableCell_1642585923216_3584l0" custom="readingOrder {index:0;}">
                     <Coords points="9286,5433 9331,5428 9470,5427 9471,5482 9318,5479 9307,5478 9286,5470"/>
-                    <Baseline points="9286,5470 9471,5470"/>
+                    <Baseline points="9286,5470 9470,5470"/>
                     <TextEquiv>
                         <Unicode>7,980,310</Unicode>
                     </TextEquiv>
@@ -22052,7 +22052,7 @@ Olfenius.</Unicode>
                 <Coords points="9471,5422 9471,5482 9533,5477 9535,5482 9535,5422 9533,5422"/>
                 <TextLine id="TableCell_1642591417709_5645l0" custom="readingOrder {index:0;}">
                     <Coords points="9471,5430 9524,5430 9524,5479 9471,5472 9470,5442"/>
-                    <Baseline points="9471,5471 9534,5470"/>
+                    <Baseline points="9471,5471 9524,5470"/>
                     <TextEquiv>
                         <Unicode>45</Unicode>
                     </TextEquiv>
@@ -22111,7 +22111,7 @@ Olfenius.</Unicode>
                 <Coords points="7812,5477 7811,5532 7868,5531 7869,5477"/>
                 <TextLine id="TableCell_1642584727542_6492l0" custom="readingOrder {index:0;}">
                     <Coords points="7812,5481 7869,5481 7868,5515 7811,5516"/>
-                    <Baseline points="7813,5511 7870,5510"/>
+                    <Baseline points="7813,5511 7868,5509"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -22155,7 +22155,7 @@ Olfenius.</Unicode>
                 <Coords points="8361,5475 8360,5528 8417,5527 8417,5475"/>
                 <TextLine id="TableCell_1642585457538_443l0" custom="readingOrder {index:0;}">
                     <Coords points="8361,5483 8417,5483 8416,5521 8359,5522"/>
-                    <Baseline points="8360,5514 8417,5514"/>
+                    <Baseline points="8360,5514 8416,5513"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -22199,7 +22199,7 @@ Olfenius.</Unicode>
                 <Coords points="8920,5477 8920,5528 8982,5528 8982,5477"/>
                 <TextLine id="TableCell_1642585823208_2258l0" custom="readingOrder {index:0;}">
                     <Coords points="8924,5483 8971,5483 8971,5521 8924,5521"/>
-                    <Baseline points="8926,5511 8973,5511"/>
+                    <Baseline points="8926,5511 8971,5511"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -22221,7 +22221,7 @@ Olfenius.</Unicode>
                 <Coords points="9196,5479 9195,5526 9261,5526 9262,5479"/>
                 <TextLine id="TableCell_1642585887204_3146l0" custom="readingOrder {index:0;}">
                     <Coords points="9198,5484 9247,5484 9246,5520 9197,5520"/>
-                    <Baseline points="9196,5512 9245,5512"/>
+                    <Baseline points="9197,5512 9245,5512"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
@@ -22254,7 +22254,7 @@ Olfenius.</Unicode>
                 <Coords points="9533,5477 9535,5534 9749,5529 9750,5479"/>
                 <TextLine id="TableCell_1642586015419_4478l0" custom="readingOrder {index:0;}">
                     <Coords points="9580,5477 9747,5479 9746,5522 9714,5522 9580,5515"/>
-                    <Baseline points="9580,5515 9749,5515"/>
+                    <Baseline points="9580,5515 9746,5514"/>
                     <TextEquiv>
                         <Unicode>37,306</Unicode>
                     </TextEquiv>
@@ -22340,7 +22340,7 @@ Olfenius.</Unicode>
                 <Coords points="9535,5534 9536,5593 9749,5593 9749,5529"/>
                 <TextLine id="TableCell_1642586015652_4484l0" custom="readingOrder {index:0;}">
                     <Coords points="9556,5546 9622,5540 9745,5537 9745,5593 9636,5593 9580,5590 9556,5581"/>
-                    <Baseline points="9556,5581 9748,5583"/>
+                    <Baseline points="9556,5581 9745,5583"/>
                     <TextEquiv>
                         <Unicode>7,980,310</Unicode>
                     </TextEquiv>

@@ -1,24 +1,24 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
     <Metadata>
         <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.6.8:model_id=40804:lm=none:date=11_05_2022_09:47
 prov=READ-COOP:name=PyLaia@Transkribus:version=0.6.8:model_id=40804:date=11_05_2022_09:47
 Transkribus</Creator>
         <Created>2021-12-14T11:54:12.915+01:00</Created>
-        <LastChange>2022-12-07T16:06:21.964+01:00</LastChange>
+        <LastChange>2023-11-15T20:45:12.766+01:00</LastChange>
         <Comments>
                 Measurement unit: pixel
                 PrimaryLanguage: 
                 Producer: Transkribus
             </Comments>
-        <TranskribusMetadata docId="982138" pageId="37988878" pageNr="3" tsid="105747769" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=CHQMTEAUMTXJFVYFUMEPIQWG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LUFBSZOXEHHZAPYROYAAUTGO" imageId="30635769"/>
+        <TranskribusMetadata docId="982138" pageId="37988878" pageNr="3" tsid="139840465" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=CHQMTEAUMTXJFVYFUMEPIQWG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EJYERLSAPBIZBKZEUYRZOPRK" imageId="30635769"/>
     </Metadata>
     <Page imageFilename="1891_33_0452.jpg" imageWidth="9944" imageHeight="6680">
         <PrintSpace>
             <Coords points="454,290 9555,194 9555,6424 490,6443"/>
         </PrintSpace>
         <ReadingOrder>
-            <OrderedGroup id="ro_1690359997043" caption="Regions reading order">
+            <OrderedGroup id="ro_1700129728582" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
                 <RegionRefIndexed index="1" regionRef="r2"/>
                 <RegionRefIndexed index="2" regionRef="r3"/>
@@ -52,7 +52,7 @@ Transkribus</Creator>
             </TextLine>
             <TextLine id="r1l2" custom="readingOrder {index:1;}">
                 <Coords points="647,481 724,475 835,472 1001,467 1714,455 1801,455 1944,458 1964,463 1963,488 1943,492 1804,494 1284,506 783,512 641,519"/>
-                <Baseline points="647,512 783,509 809,508 908,506 932,505 962,504 986,504 1043,503 1070,502 1205,500 1233,500 1324,498 1350,498 1399,497 1410,497 1811,488 1830,487 1964,485"/>
+                <Baseline points="647,512 783,509 809,508 908,506 932,505 962,504 986,504 1043,503 1070,502 1205,500 1233,500 1324,498 1350,498 1399,497 1410,497 1811,488 1830,487 1963,484"/>
                 <TextEquiv>
                     <Unicode>genoſſen müſſe er ſich deshalb gegen die Kommiſſionsbeſchlüſſe wenden.</Unicode>
                 </TextEquiv>
@@ -164,7 +164,7 @@ Transkribus</Creator>
             </TextLine>
             <TextLine id="r1l18" custom="readingOrder {index:17;}">
                 <Coords points="638,1247 738,1238 1432,1219 1522,1219 1852,1222 1851,1253 1404,1268 681,1280 638,1278"/>
-                <Baseline points="638,1278 710,1277 738,1277 797,1276 828,1276 1066,1270 1094,1269 1405,1259 1432,1259 1542,1256 1571,1256 1852,1250"/>
+                <Baseline points="638,1278 710,1277 738,1277 797,1276 828,1276 1066,1270 1094,1269 1405,1259 1432,1259 1542,1256 1571,1256 1851,1249"/>
                 <TextEquiv>
                     <Unicode>von der Kommiſſion vorgeſchlagenen Form angenommen.</Unicode>
                 </TextEquiv>
@@ -234,7 +234,7 @@ Transkribus</Creator>
             </TextLine>
             <TextLine id="r1l28" custom="readingOrder {index:27;}">
                 <Coords points="635,1706 917,1698 1165,1691 1487,1689 1864,1682 1945,1682 1961,1698 1961,1714 1945,1728 1710,1735 1054,1747 701,1747 632,1749"/>
-                <Baseline points="635,1743 672,1743 701,1742 1054,1735 1092,1735 1357,1730 1398,1730 1450,1729 1484,1729 1720,1725 1752,1724 1816,1723 1844,1723 1956,1719"/>
+                <Baseline points="635,1743 672,1743 701,1742 1054,1735 1092,1735 1357,1730 1398,1730 1450,1729 1484,1729 1720,1725 1752,1724 1816,1723 1844,1723 1955,1718"/>
                 <TextEquiv>
                     <Unicode>in gemeinſchaftlichen Jagdbezirken die Erſatzpflicht des Jagd⸗</Unicode>
                 </TextEquiv>
@@ -276,7 +276,7 @@ Transkribus</Creator>
             </TextLine>
             <TextLine id="r1l34" custom="readingOrder {index:33;}">
                 <Coords points="629,2004 650,1994 666,1993 688,1992 1833,1972 1857,1973 1898,1971 1944,1977 1958,1987 1958,1997 1944,2016 1854,2015 982,2032 762,2035 629,2035"/>
-                <Baseline points="629,2027 762,2026 788,2026 1089,2021 1116,2021 1240,2019 1264,2018 1602,2013 1629,2012 1736,2011 1762,2010 1811,2008 1835,2008 1956,2003"/>
+                <Baseline points="629,2027 762,2026 788,2026 1089,2021 1116,2021 1240,2019 1264,2018 1602,2013 1629,2012 1736,2011 1762,2010 1811,2008 1835,2008 1954,2001"/>
                 <TextEquiv>
                     <Unicode>gleichen Vorausſetzungen werden Jagdpachtverträge, welche die Erſatz⸗</Unicode>
                 </TextEquiv>
@@ -290,7 +290,7 @@ Transkribus</Creator>
             </TextLine>
             <TextLine id="r1l36" custom="readingOrder {index:35;}">
                 <Coords points="628,2089 873,2076 1374,2071 1394,2067 1512,2067 1578,2077 1578,2101 1393,2114 699,2123 683,2123 629,2123"/>
-                <Baseline points="628,2115 747,2114 774,2114 844,2113 873,2113 1102,2109 1129,2108 1299,2105 1324,2104 1578,2101"/>
+                <Baseline points="628,2114 747,2114 774,2114 844,2113 873,2113 1102,2109 1129,2108 1299,2105 1324,2104 1578,2101"/>
                 <TextEquiv>
                     <Unicode>tragen, dem Beſchädigten gegenüber rechtswirkſam.</Unicode>
                 </TextEquiv>
@@ -545,7 +545,7 @@ Um 3 ¾ Uhr wird die weitere Berathung vertagt.</Unicode>
             </TextLine>
             <TextLine id="r3l23" custom="readingOrder {index:22;}">
                 <Coords points="630,3661 1028,3654 1375,3651 1831,3650 1843,3650 1962,3661 1960,3695 1771,3697 1677,3699 1372,3700 758,3705 659,3706 626,3705"/>
-                <Baseline points="632,3700 759,3699 802,3698 893,3696 934,3696 998,3695 1028,3694 1141,3692 1180,3692 1241,3692 1269,3691 1480,3690 1515,3690 1771,3689 1813,3689 1853,3689 1890,3689 1962,3688"/>
+                <Baseline points="632,3700 759,3699 802,3698 893,3696 934,3696 998,3695 1028,3694 1141,3692 1180,3692 1241,3692 1269,3691 1480,3690 1515,3690 1771,3689 1813,3689 1853,3689 1890,3689 1960,3687"/>
                 <TextEquiv>
                     <Unicode>betrieb über den Kreis der Mitglieder hinausgeht“, iſt von</Unicode>
                 </TextEquiv>
@@ -608,7 +608,7 @@ Um 3 ¾ Uhr wird die weitere Berathung vertagt.</Unicode>
             </TextLine>
             <TextLine id="r3l32" custom="readingOrder {index:31;}">
                 <Coords points="633,4112 807,4106 876,4104 915,4103 1141,4100 1477,4096 1567,4095 1804,4094 1829,4094 1888,4098 1972,4100 1974,4139 1873,4142 778,4154 758,4154 631,4152"/>
-                <Baseline points="635,4146 778,4144 807,4144 846,4143 876,4143 1001,4144 1033,4143 1198,4138 1226,4138 1381,4136 1453,4135 1537,4135 1567,4134 1686,4134 1713,4134 1773,4133 1804,4133 1974,4132"/>
+                <Baseline points="635,4146 778,4144 807,4144 846,4143 876,4143 1001,4144 1033,4143 1198,4138 1226,4138 1381,4136 1453,4135 1537,4135 1567,4134 1686,4134 1713,4134 1773,4133 1804,4133 1973,4132"/>
                 <TextEquiv>
                     <Unicode>vorweg in Abzug gebracht werden. „An Stelle des Letzteren</Unicode>
                 </TextEquiv>
@@ -1076,7 +1076,7 @@ lage zur Regelung der Entſchädigungsfrage vorgeſehene Zeit⸗</Unicode>
             </TextLine>
             <TextLine id="r4l9" custom="readingOrder {index:8;}">
                 <Coords points="2030,784 3280,766 3302,766 3359,775 3359,805 3302,816 2982,821 2517,828 2206,830 2030,830"/>
-                <Baseline points="2030,827 2284,823 2314,822 2517,818 2559,818 2704,816 2747,815 2786,815 2820,814 2867,814 2914,813 3024,811 3069,810 3124,810 3165,809 3358,806"/>
+                <Baseline points="2030,827 2284,823 2314,822 2517,818 2559,818 2704,816 2747,815 2786,815 2820,814 2867,814 2914,813 3024,811 3069,810 3124,810 3165,809 3357,805"/>
                 <TextEquiv>
                     <Unicode>Steuerfreien erleichtern würde; es ſei daher die Annahme</Unicode>
                 </TextEquiv>
@@ -1174,7 +1174,7 @@ lage zur Regelung der Entſchädigungsfrage vorgeſehene Zeit⸗</Unicode>
             </TextLine>
             <TextLine id="r4l23" custom="readingOrder {index:22;}">
                 <Coords points="2030,1478 2833,1464 3109,1462 3122,1462 3363,1462 3365,1504 3262,1508 3014,1509 2167,1526 2071,1526 2030,1517"/>
-                <Baseline points="2030,1517 2185,1515 2212,1515 2320,1513 2347,1513 2406,1512 2434,1511 2682,1508 2710,1507 2770,1507 2796,1506 3012,1503 3028,1503 3220,1500 3248,1499 3290,1499 3318,1498 3365,1498"/>
+                <Baseline points="2030,1517 2185,1515 2212,1515 2320,1513 2347,1513 2406,1512 2434,1511 2682,1508 2710,1507 2770,1507 2796,1506 3012,1503 3028,1503 3220,1500 3248,1499 3290,1499 3318,1498 3364,1498"/>
                 <TextEquiv>
                     <Unicode>lagung, ſowie der Beſteuerung der juriſtiſchen Perſonen zu er⸗</Unicode>
                 </TextEquiv>
@@ -1314,7 +1314,7 @@ lage zur Regelung der Entſchädigungsfrage vorgeſehene Zeit⸗</Unicode>
             </TextLine>
             <TextLine id="r4l43" custom="readingOrder {index:42;}">
                 <Coords points="2033,2466 2744,2453 2979,2451 3344,2450 3372,2461 3375,2495 2981,2502 2750,2501 2035,2509"/>
-                <Baseline points="2033,2505 2155,2503 2202,2502 2244,2501 2291,2500 2344,2499 2389,2499 2531,2498 2574,2497 2649,2495 2689,2495 2885,2493 2905,2493 2980,2492 3007,2494 3057,2493 3098,2491 3138,2491 3185,2490 3372,2489"/>
+                <Baseline points="2034,2504 2155,2503 2202,2502 2244,2501 2291,2500 2344,2499 2389,2499 2531,2498 2574,2497 2649,2495 2689,2495 2885,2493 2905,2493 2980,2492 3007,2494 3057,2493 3098,2491 3138,2491 3185,2490 3372,2489"/>
                 <TextEquiv>
                     <Unicode>indem ſie die Stufen von 9500 — 10 500 ℳ in Ueberein⸗</Unicode>
                 </TextEquiv>
@@ -1468,7 +1468,7 @@ lage zur Regelung der Entſchädigungsfrage vorgeſehene Zeit⸗</Unicode>
             </TextLine>
             <TextLine id="r4l65" custom="readingOrder {index:64;}">
                 <Coords points="2029,3561 2123,3557 2319,3553 3125,3542 3139,3542 3287,3553 3286,3587 3075,3590 2159,3597 2073,3598 2032,3598"/>
-                <Baseline points="2035,3598 2093,3597 2123,3596 2288,3593 2319,3593 2415,3591 2447,3591 2596,3588 2628,3588 2770,3586 2800,3586 2870,3585 2902,3585 3017,3583 3046,3583 3287,3580"/>
+                <Baseline points="2035,3598 2093,3597 2123,3596 2288,3593 2319,3593 2415,3591 2447,3591 2596,3588 2628,3588 2770,3586 2800,3586 2870,3585 2902,3585 3017,3583 3046,3583 3286,3579"/>
                 <TextEquiv>
                     <Unicode>der Vorlage ſollte erhoben werden von einem Einkommen</Unicode>
                 </TextEquiv>
@@ -1553,7 +1553,7 @@ der Vorlage ſollte erhoben werden von einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1567,7 +1567,7 @@ der Vorlage ſollte erhoben werden von einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1585,7 +1585,7 @@ der Vorlage ſollte erhoben werden von einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1599,7 +1599,7 @@ der Vorlage ſollte erhoben werden von einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1613,7 +1613,7 @@ der Vorlage ſollte erhoben werden von einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1621,13 +1621,13 @@ der Vorlage ſollte erhoben werden von einem Einkommen</Unicode>
                 <Coords points="2058,3689 2057,3732 2496,3726 2495,3683"/>
                 <TextLine id="TableCell_1643631218844_1293l0" custom="readingOrder {index:0;}">
                     <Coords points="2305,3688 2440,3689 2441,3721 2301,3726"/>
-                    <Baseline points="2322,3724 2394,3723"/>
+                    <Baseline points="2322,3724 2393,3722"/>
                     <TextEquiv>
                         <Unicode>900</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1641,7 +1641,7 @@ der Vorlage ſollte erhoben werden von einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1655,7 +1655,7 @@ der Vorlage ſollte erhoben werden von einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1669,7 +1669,7 @@ der Vorlage ſollte erhoben werden von einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1683,7 +1683,7 @@ der Vorlage ſollte erhoben werden von einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1697,7 +1697,7 @@ der Vorlage ſollte erhoben werden von einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1711,7 +1711,7 @@ der Vorlage ſollte erhoben werden von einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1725,7 +1725,7 @@ der Vorlage ſollte erhoben werden von einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1739,7 +1739,7 @@ der Vorlage ſollte erhoben werden von einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1753,7 +1753,7 @@ der Vorlage ſollte erhoben werden von einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1767,7 +1767,7 @@ der Vorlage ſollte erhoben werden von einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1781,7 +1781,7 @@ der Vorlage ſollte erhoben werden von einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1795,7 +1795,7 @@ der Vorlage ſollte erhoben werden von einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1809,7 +1809,7 @@ der Vorlage ſollte erhoben werden von einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1823,7 +1823,7 @@ der Vorlage ſollte erhoben werden von einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1837,7 +1837,7 @@ der Vorlage ſollte erhoben werden von einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1851,7 +1851,7 @@ der Vorlage ſollte erhoben werden von einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1865,7 +1865,7 @@ der Vorlage ſollte erhoben werden von einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1879,7 +1879,7 @@ der Vorlage ſollte erhoben werden von einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1893,7 +1893,7 @@ der Vorlage ſollte erhoben werden von einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1907,7 +1907,7 @@ der Vorlage ſollte erhoben werden von einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1915,13 +1915,13 @@ der Vorlage ſollte erhoben werden von einem Einkommen</Unicode>
                 <Coords points="2051,3996 2050,4038 2498,4034 2498,3991"/>
                 <TextLine id="TableCell_1643631219022_1335l0" custom="readingOrder {index:0;}">
                     <Coords points="2298,4001 2406,3997 2406,4030 2297,4033"/>
-                    <Baseline points="2310,4031 2395,4032"/>
+                    <Baseline points="2310,4031 2394,4030"/>
                     <TextEquiv>
                         <Unicode>2100</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1935,7 +1935,7 @@ der Vorlage ſollte erhoben werden von einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1949,7 +1949,7 @@ der Vorlage ſollte erhoben werden von einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1963,7 +1963,7 @@ der Vorlage ſollte erhoben werden von einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1977,7 +1977,7 @@ der Vorlage ſollte erhoben werden von einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1991,7 +1991,7 @@ der Vorlage ſollte erhoben werden von einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2005,7 +2005,7 @@ der Vorlage ſollte erhoben werden von einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2019,7 +2019,7 @@ der Vorlage ſollte erhoben werden von einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2033,7 +2033,7 @@ der Vorlage ſollte erhoben werden von einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2047,7 +2047,7 @@ der Vorlage ſollte erhoben werden von einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2061,7 +2061,7 @@ der Vorlage ſollte erhoben werden von einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2075,7 +2075,7 @@ der Vorlage ſollte erhoben werden von einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2089,7 +2089,7 @@ der Vorlage ſollte erhoben werden von einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2103,7 +2103,7 @@ der Vorlage ſollte erhoben werden von einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2117,7 +2117,7 @@ der Vorlage ſollte erhoben werden von einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2131,7 +2131,7 @@ der Vorlage ſollte erhoben werden von einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2145,7 +2145,7 @@ der Vorlage ſollte erhoben werden von einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2159,7 +2159,7 @@ der Vorlage ſollte erhoben werden von einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2173,7 +2173,7 @@ der Vorlage ſollte erhoben werden von einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2187,7 +2187,7 @@ der Vorlage ſollte erhoben werden von einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2195,13 +2195,13 @@ der Vorlage ſollte erhoben werden von einem Einkommen</Unicode>
                 <Coords points="2910,4252 2910,4297 3388,4294 3387,4249"/>
                 <TextLine id="TableCell_1643631224004_1531l0" custom="readingOrder {index:0;}">
                     <Coords points="3036,4257 3134,4254 3135,4287 3036,4291"/>
-                    <Baseline points="3053,4287 3116,4288"/>
+                    <Baseline points="3053,4287 3115,4287"/>
                     <TextEquiv>
                         <Unicode>106</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2215,7 +2215,7 @@ der Vorlage ſollte erhoben werden von einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2229,7 +2229,7 @@ der Vorlage ſollte erhoben werden von einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2243,7 +2243,7 @@ der Vorlage ſollte erhoben werden von einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2257,7 +2257,7 @@ der Vorlage ſollte erhoben werden von einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2271,7 +2271,7 @@ der Vorlage ſollte erhoben werden von einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2285,7 +2285,7 @@ der Vorlage ſollte erhoben werden von einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2299,7 +2299,7 @@ der Vorlage ſollte erhoben werden von einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2313,7 +2313,7 @@ der Vorlage ſollte erhoben werden von einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2327,7 +2327,7 @@ der Vorlage ſollte erhoben werden von einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2341,7 +2341,7 @@ der Vorlage ſollte erhoben werden von einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2355,7 +2355,7 @@ der Vorlage ſollte erhoben werden von einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2369,7 +2369,7 @@ der Vorlage ſollte erhoben werden von einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2383,7 +2383,7 @@ der Vorlage ſollte erhoben werden von einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2397,7 +2397,7 @@ der Vorlage ſollte erhoben werden von einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2411,7 +2411,7 @@ der Vorlage ſollte erhoben werden von einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2425,7 +2425,7 @@ der Vorlage ſollte erhoben werden von einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2439,7 +2439,7 @@ der Vorlage ſollte erhoben werden von einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2453,7 +2453,7 @@ der Vorlage ſollte erhoben werden von einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2467,7 +2467,7 @@ der Vorlage ſollte erhoben werden von einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2481,7 +2481,7 @@ der Vorlage ſollte erhoben werden von einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2495,7 +2495,7 @@ der Vorlage ſollte erhoben werden von einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2509,7 +2509,7 @@ der Vorlage ſollte erhoben werden von einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2523,7 +2523,7 @@ der Vorlage ſollte erhoben werden von einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2537,7 +2537,7 @@ der Vorlage ſollte erhoben werden von einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2551,7 +2551,7 @@ der Vorlage ſollte erhoben werden von einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2559,13 +2559,13 @@ der Vorlage ſollte erhoben werden von einem Einkommen</Unicode>
                 <Coords points="2502,4656 2503,4699 2913,4694 2913,4650"/>
                 <TextLine id="TableCell_1643631224244_1587l0" custom="readingOrder {index:0;}">
                     <Coords points="2662,4658 2769,4656 2769,4694 2663,4695"/>
-                    <Baseline points="2674,4695 2761,4690"/>
+                    <Baseline points="2673,4694 2761,4690"/>
                     <TextEquiv>
                         <Unicode>8500</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2579,7 +2579,7 @@ der Vorlage ſollte erhoben werden von einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2593,7 +2593,7 @@ der Vorlage ſollte erhoben werden von einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2607,7 +2607,7 @@ der Vorlage ſollte erhoben werden von einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2621,7 +2621,7 @@ der Vorlage ſollte erhoben werden von einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2629,13 +2629,13 @@ der Vorlage ſollte erhoben werden von einem Einkommen</Unicode>
                 <Coords points="2042,4752 2042,4782 2503,4781 2503,4745"/>
                 <TextLine id="TableCell_1643631219413_1437l0" custom="readingOrder {index:0;}">
                     <Coords points="2312,4748 2413,4749 2413,4784 2312,4778"/>
-                    <Baseline points="2324,4779 2405,4778"/>
+                    <Baseline points="2324,4778 2405,4778"/>
                     <TextEquiv>
                         <Unicode>9000</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2643,13 +2643,13 @@ der Vorlage ſollte erhoben werden von einem Einkommen</Unicode>
                 <Coords points="2503,4745 2503,4781 2914,4781 2913,4739"/>
                 <TextLine id="TableCell_1643631224291_1599l0" custom="readingOrder {index:0;}">
                     <Coords points="2674,4752 2697,4748 2734,4747 2761,4747 2761,4780 2697,4780 2674,4774"/>
-                    <Baseline points="2678,4777 2761,4777"/>
+                    <Baseline points="2678,4775 2761,4777"/>
                     <TextEquiv>
                         <Unicode>9500</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2663,7 +2663,7 @@ der Vorlage ſollte erhoben werden von einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2714,7 +2714,7 @@ der Vorlage ſollte erhoben werden von einem Einkommen</Unicode>
             </TextLine>
             <TextLine id="r5l7" custom="readingOrder {index:6;}">
                 <Coords points="2148,5066 2291,5061 3101,5058 3185,5058 3316,5068 3320,5098 3071,5096 2866,5099 2685,5101 2553,5102 2272,5103 2148,5102"/>
-                <Baseline points="2152,5103 2217,5102 2243,5102 2553,5102 2579,5101 2706,5100 2735,5099 2866,5097 2893,5096 2940,5096 2969,5095 3071,5094 3101,5094 3316,5091"/>
+                <Baseline points="2152,5102 2217,5102 2243,5102 2553,5102 2579,5101 2706,5100 2735,5099 2866,5097 2893,5096 2940,5096 2969,5095 3071,5094 3101,5094 3316,5091"/>
                 <TextEquiv>
                     <Unicode>Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                 </TextEquiv>
@@ -2741,7 +2741,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2749,13 +2749,13 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                 <Coords points="2534,5108 2534,5148 2920,5145 2919,5104"/>
                 <TextLine id="TableCell_1643631403550_1976l0" custom="readingOrder {index:0;}">
                     <Coords points="2553,5109 2885,5107 2885,5144 2553,5145"/>
-                    <Baseline points="2556,5146 2883,5141"/>
+                    <Baseline points="2555,5144 2883,5141"/>
                     <TextEquiv>
                         <Unicode>bis einſchließlich:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2773,7 +2773,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2787,7 +2787,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2801,7 +2801,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2815,7 +2815,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2829,7 +2829,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2843,7 +2843,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2857,7 +2857,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2871,7 +2871,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2885,7 +2885,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2899,7 +2899,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2913,7 +2913,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2927,7 +2927,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2941,7 +2941,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2955,7 +2955,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2969,7 +2969,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2983,7 +2983,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -2997,7 +2997,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3011,7 +3011,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3025,7 +3025,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3039,7 +3039,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3053,7 +3053,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3067,7 +3067,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3081,7 +3081,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3089,13 +3089,13 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                 <Coords points="2925,5450 2925,5493 3283,5489 3283,5449"/>
                 <TextLine id="TableCell_1643631403850_2022l0" custom="readingOrder {index:0;}">
                     <Coords points="3086,5455 3143,5453 3143,5487 3086,5491"/>
-                    <Baseline points="3095,5489 3138,5489"/>
+                    <Baseline points="3095,5489 3137,5487"/>
                     <TextEquiv>
                         <Unicode>31</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3109,7 +3109,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3123,7 +3123,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3137,7 +3137,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3151,7 +3151,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3159,13 +3159,13 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                 <Coords points="2532,5543 2532,5584 2927,5580 2926,5538"/>
                 <TextLine id="TableCell_1643631403908_2036l0" custom="readingOrder {index:0;}">
                     <Coords points="2675,5549 2780,5544 2780,5580 2675,5584"/>
-                    <Baseline points="2685,5582 2774,5581"/>
+                    <Baseline points="2685,5582 2773,5580"/>
                     <TextEquiv>
                         <Unicode>2700</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3179,7 +3179,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3193,7 +3193,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3207,7 +3207,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3221,7 +3221,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3235,7 +3235,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3249,7 +3249,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3263,7 +3263,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3277,7 +3277,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3285,13 +3285,13 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                 <Coords points="2532,5671 2531,5713 2929,5709 2928,5667"/>
                 <TextLine id="TableCell_1643631403995_2054l0" custom="readingOrder {index:0;}">
                     <Coords points="2676,5674 2790,5675 2790,5712 2674,5711"/>
-                    <Baseline points="2686,5711 2777,5712"/>
+                    <Baseline points="2686,5711 2777,5711"/>
                     <TextEquiv>
                         <Unicode>3600</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3299,13 +3299,13 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                 <Coords points="2928,5667 2929,5709 3283,5707 3283,5665"/>
                 <TextLine id="TableCell_1643631403995_2052l0" custom="readingOrder {index:0;}">
                     <Coords points="3094,5669 3151,5670 3149,5703 3113,5708 3091,5706"/>
-                    <Baseline points="3101,5707 3137,5703"/>
+                    <Baseline points="3101,5706 3137,5703"/>
                     <TextEquiv>
                         <Unicode>70</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3319,7 +3319,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3333,7 +3333,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3347,7 +3347,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3361,7 +3361,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3375,7 +3375,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3389,7 +3389,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3403,7 +3403,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3411,13 +3411,13 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                 <Coords points="2531,5803 2531,5846 2931,5843 2930,5799"/>
                 <TextLine id="TableCell_1643631404080_2072l0" custom="readingOrder {index:0;}">
                     <Coords points="2678,5811 2790,5809 2791,5842 2678,5844"/>
-                    <Baseline points="2684,5843 2780,5845"/>
+                    <Baseline points="2684,5843 2779,5842"/>
                     <TextEquiv>
                         <Unicode>4500</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3431,7 +3431,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3445,7 +3445,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3459,7 +3459,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3473,7 +3473,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3487,7 +3487,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3501,7 +3501,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3515,7 +3515,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3529,7 +3529,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3543,7 +3543,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3551,13 +3551,13 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                 <Coords points="2932,5929 2933,5974 3283,5974 3283,5929"/>
                 <TextLine id="TableCell_1643631404157_2088l0" custom="readingOrder {index:0;}">
                     <Coords points="3065,5937 3151,5933 3151,5969 3066,5973"/>
-                    <Baseline points="3074,5970 3144,5971"/>
+                    <Baseline points="3074,5970 3143,5969"/>
                     <TextEquiv>
                         <Unicode>146</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3571,7 +3571,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3585,7 +3585,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3599,7 +3599,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3613,7 +3613,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3627,7 +3627,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3641,7 +3641,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3655,7 +3655,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3669,7 +3669,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3683,7 +3683,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3697,7 +3697,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3705,13 +3705,13 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                 <Coords points="2529,6107 2529,6150 2936,6147 2935,6104"/>
                 <TextLine id="TableCell_1643631404263_2114l0" custom="readingOrder {index:0;}">
                     <Coords points="2680,6117 2789,6114 2790,6147 2680,6149"/>
-                    <Baseline points="2694,6149 2784,6147"/>
+                    <Baseline points="2693,6148 2784,6147"/>
                     <TextEquiv>
                         <Unicode>8000</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3725,7 +3725,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3739,7 +3739,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3747,13 +3747,13 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                 <Coords points="2529,6150 2529,6196 2937,6192 2936,6147"/>
                 <TextLine id="TableCell_1643631404285_2120l0" custom="readingOrder {index:0;}">
                     <Coords points="2686,6157 2788,6155 2788,6191 2686,6194"/>
-                    <Baseline points="2691,6192 2784,6192"/>
+                    <Baseline points="2691,6192 2783,6191"/>
                     <TextEquiv>
                         <Unicode>8500</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3761,13 +3761,13 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                 <Coords points="2936,6147 2937,6192 3287,6190 3286,6146"/>
                 <TextLine id="TableCell_1643631404285_2118l0" custom="readingOrder {index:0;}">
                     <Coords points="3067,6153 3157,6154 3158,6191 3068,6191"/>
-                    <Baseline points="3076,6192 3145,6190"/>
+                    <Baseline points="3076,6191 3145,6190"/>
                     <TextEquiv>
                         <Unicode>232</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3781,7 +3781,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3795,7 +3795,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3803,13 +3803,13 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                 <Coords points="2937,6192 2937,6236 3288,6235 3287,6190"/>
                 <TextLine id="TableCell_1643631404308_2124l0" custom="readingOrder {index:0;}">
                     <Coords points="3066,6198 3155,6195 3155,6233 3065,6235"/>
-                    <Baseline points="3074,6232 3148,6234"/>
+                    <Baseline points="3074,6232 3147,6233"/>
                     <TextEquiv>
                         <Unicode>252</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3823,7 +3823,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3837,7 +3837,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3851,7 +3851,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3865,7 +3865,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3879,7 +3879,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3893,7 +3893,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3923,7 +3923,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3937,7 +3937,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3951,7 +3951,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3965,7 +3965,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3979,7 +3979,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3993,7 +3993,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4007,7 +4007,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4021,7 +4021,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4035,7 +4035,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4049,7 +4049,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4063,7 +4063,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4077,7 +4077,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4091,7 +4091,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4105,7 +4105,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4119,7 +4119,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4133,7 +4133,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4147,7 +4147,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4161,7 +4161,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4169,13 +4169,13 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                 <Coords points="4178,573 4179,616 4536,611 4533,567"/>
                 <TextLine id="TableCell_1643632102274_2297l0" custom="readingOrder {index:0;}">
                     <Coords points="4293,576 4416,574 4418,611 4294,612"/>
-                    <Baseline points="4307,612 4408,609"/>
+                    <Baseline points="4306,611 4408,609"/>
                     <TextEquiv>
                         <Unicode>2 000</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4183,13 +4183,13 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                 <Coords points="4533,567 4536,611 4857,608 4856,563"/>
                 <TextLine id="TableCell_1643632102274_2295l0" custom="readingOrder {index:0;}">
                     <Coords points="4573,572 4643,570 4643,608 4576,610"/>
-                    <Baseline points="4577,607 4631,609"/>
+                    <Baseline points="4577,607 4630,608"/>
                     <TextEquiv>
                         <Unicode>80</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4203,7 +4203,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4217,7 +4217,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4231,7 +4231,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4245,7 +4245,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4254,7 +4254,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
             <Coords points="3416,668 4842,655 4878,6294 3468,6310"/>
             <TextLine id="r7l1" custom="readingOrder {index:0;}">
                 <Coords points="3504,670 4789,656 4780,702 3508,712"/>
-                <Baseline points="3518,712 4774,697"/>
+                <Baseline points="3517,711 4774,697"/>
                 <TextEquiv>
                     <Unicode>Bei Einkommen von mehr als 100 000 ℳ bis einſchließlich</Unicode>
                 </TextEquiv>
@@ -4394,7 +4394,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
             </TextLine>
             <TextLine id="r7l21" custom="readingOrder {index:20;}">
                 <Coords points="3437,1660 3476,1648 3695,1644 4637,1632 4657,1632 4740,1633 4783,1642 4786,1677 4488,1684 4294,1687 3957,1691 3632,1694 3611,1694 3439,1695"/>
-                <Baseline points="3437,1687 3632,1685 3652,1685 3737,1684 3754,1684 4000,1681 4015,1681 4294,1677 4313,1677 4403,1676 4419,1675 4575,1673 4591,1673 4706,1671 4721,1670 4783,1669"/>
+                <Baseline points="3438,1686 3632,1685 3652,1685 3737,1684 3754,1684 4000,1681 4015,1681 4294,1677 4313,1677 4403,1676 4419,1675 4575,1673 4591,1673 4706,1671 4721,1670 4783,1669"/>
                 <TextEquiv>
                     <Unicode>erklärung nach abermaliger Aufforderung nicht abgiebt, neben der</Unicode>
                 </TextEquiv>
@@ -4429,7 +4429,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
             </TextLine>
             <TextLine id="r7l26" custom="readingOrder {index:25;}">
                 <Coords points="3438,1906 3478,1894 3807,1892 4738,1880 4761,1880 4787,1882 4783,1933 4757,1927 3634,1939 3613,1942 3440,1939"/>
-                <Baseline points="3438,1934 3634,1933 3663,1933 3753,1931 3781,1931 4259,1926 4288,1926 4392,1925 4420,1924 4475,1923 4492,1923 4670,1920 4698,1920 4784,1919"/>
+                <Baseline points="3439,1933 3634,1933 3663,1933 3753,1931 3781,1931 4259,1926 4288,1926 4392,1925 4420,1924 4475,1923 4492,1923 4670,1920 4698,1920 4784,1919"/>
                 <TextEquiv>
                     <Unicode>erklärung aller Deklarationspflichtigen durch die Vorlage noch</Unicode>
                 </TextEquiv>
@@ -4492,7 +4492,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
             </TextLine>
             <TextLine id="r7l35" custom="readingOrder {index:34;}">
                 <Coords points="3441,2315 3660,2311 4533,2299 4704,2299 4782,2307 4781,2342 4704,2338 4498,2344 3483,2354 3441,2357"/>
-                <Baseline points="3441,2350 3618,2348 3643,2348 3758,2346 3793,2345 3851,2345 3887,2344 3939,2343 3965,2343 4144,2340 4181,2340 4266,2339 4306,2338 4498,2336 4533,2336 4785,2332"/>
+                <Baseline points="3441,2350 3618,2348 3643,2348 3758,2346 3793,2345 3851,2345 3887,2344 3939,2343 3965,2343 4144,2340 4181,2340 4266,2339 4306,2338 4498,2336 4533,2336 4781,2331"/>
                 <TextEquiv>
                     <Unicode>Perſonen, welche ſich der Erfüllung ihrer geſetzlichen Verpflichtung</Unicode>
                 </TextEquiv>
@@ -4562,14 +4562,14 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
             </TextLine>
             <TextLine id="r7l45" custom="readingOrder {index:44;}">
                 <Coords points="3442,2755 3842,2747 4777,2741 4793,2750 4796,2780 3606,2795 3459,2795 3442,2789"/>
-                <Baseline points="3443,2790 3606,2788 3654,2787 3794,2785 3842,2784 4032,2782 4081,2782 4121,2782 4170,2781 4213,2781 4259,2780 4330,2779 4378,2778 4539,2777 4586,2776 4674,2775 4724,2774 4778,2774 4792,2773 4795,2773"/>
+                <Baseline points="3443,2789 3606,2788 3654,2787 3794,2785 3842,2784 4032,2782 4081,2782 4121,2782 4170,2781 4213,2781 4259,2780 4330,2779 4378,2778 4539,2777 4586,2776 4674,2775 4724,2774 4778,2774 4792,2773 4795,2773"/>
                 <TextEquiv>
                     <Unicode>ſcheidung darüber überlaſſen, ob ſie dem Landtage einen ent⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r7l46" custom="readingOrder {index:45;}">
                 <Coords points="3442,2799 3765,2792 4560,2784 4689,2783 4719,2783 4795,2788 4792,2810 4794,2821 4579,2827 3643,2840 3442,2840"/>
-                <Baseline points="3442,2835 3643,2832 3670,2831 3852,2828 3877,2827 4004,2826 4040,2826 4133,2825 4208,2824 4277,2824 4303,2824 4480,2821 4519,2820 4579,2819 4615,2819 4663,2818 4689,2819 4795,2819"/>
+                <Baseline points="3442,2835 3643,2832 3670,2831 3852,2828 3877,2827 4004,2826 4040,2826 4133,2825 4208,2824 4277,2824 4303,2824 4480,2821 4519,2820 4579,2819 4615,2819 4663,2818 4689,2819 4793,2819"/>
                 <TextEquiv>
                     <Unicode>ſprechenden Vorſchlag machen wolle. Der Einwand, daß die Kom⸗</Unicode>
                 </TextEquiv>
@@ -4583,7 +4583,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
             </TextLine>
             <TextLine id="r7l48" custom="readingOrder {index:47;}">
                 <Coords points="3443,2889 3615,2884 4038,2879 4780,2870 4798,2867 4797,2915 3722,2924 3550,2929 3437,2931"/>
-                <Baseline points="3443,2922 3497,2921 3550,2921 3723,2918 3771,2917 3828,2916 3878,2915 3919,2915 3946,2914 3989,2914 4038,2913 4214,2911 4261,2911 4387,2911 4435,2910 4593,2908 4643,2907 4686,2907 4734,2906 4780,2905 4794,2905 4798,2905"/>
+                <Baseline points="3443,2922 3497,2921 3550,2921 3723,2918 3771,2917 3828,2916 3878,2915 3919,2915 3946,2914 3989,2914 4038,2913 4214,2911 4261,2911 4387,2911 4435,2910 4593,2908 4643,2907 4686,2907 4734,2906 4780,2905 4794,2905"/>
                 <TextEquiv>
                     <Unicode>des Zuſchlags um 25 % illuſoriſch machen könnten, ſei un⸗</Unicode>
                 </TextEquiv>
@@ -4604,14 +4604,14 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
             </TextLine>
             <TextLine id="r7l51" custom="readingOrder {index:50;}">
                 <Coords points="3445,3020 3524,3017 3979,3014 4523,3005 4581,3005 4737,3006 4771,3011 4795,3015 4801,3043 4495,3049 4125,3055 3636,3060 3447,3060"/>
-                <Baseline points="3445,3055 3708,3051 3737,3050 3784,3050 3823,3049 3876,3048 3902,3048 4133,3045 4170,3045 4231,3044 4268,3044 4335,3043 4370,3043 4495,3042 4523,3041 4635,3040 4672,3040 4795,3039"/>
+                <Baseline points="3446,3054 3708,3051 3737,3050 3784,3050 3823,3049 3876,3048 3902,3048 4133,3045 4170,3045 4231,3044 4268,3044 4335,3043 4370,3043 4495,3042 4523,3041 4635,3040 4672,3040 4795,3039"/>
                 <TextEquiv>
                     <Unicode>Kommiſſionen bei der Einſchätzung nur eine gewiſſe Milde walten</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r7l52" custom="readingOrder {index:51;}">
                 <Coords points="3439,3064 3463,3064 3494,3063 3611,3060 3789,3057 4777,3048 4797,3052 4799,3092 3559,3106 3443,3105"/>
-                <Baseline points="3446,3100 3611,3096 3661,3095 3687,3095 3729,3094 3756,3094 3831,3093 3857,3093 4033,3090 4059,3090 4155,3089 4182,3089 4297,3088 4335,3088 4465,3086 4500,3086 4558,3085 4583,3085 4683,3084 4710,3085 4781,3083 4795,3082 4800,3082"/>
+                <Baseline points="3446,3100 3611,3096 3661,3095 3687,3095 3729,3094 3756,3094 3831,3093 3857,3093 4033,3090 4059,3090 4155,3089 4182,3089 4297,3088 4335,3088 4465,3086 4500,3086 4558,3085 4583,3085 4683,3084 4710,3085 4781,3083 4795,3082 4798,3082"/>
                 <TextEquiv>
                     <Unicode>ließen. Es ſei auch zweifellos gegen Jeden, welcher ſich ſeiner Ver⸗</Unicode>
                 </TextEquiv>
@@ -4660,7 +4660,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
             </TextLine>
             <TextLine id="r7l59" custom="readingOrder {index:58;}">
                 <Coords points="3448,3384 3496,3376 3542,3369 4439,3358 4778,3358 4798,3360 4806,3402 4781,3403 4687,3401 3977,3410 3749,3411 3542,3411 3449,3415"/>
-                <Baseline points="3448,3409 3514,3407 3542,3407 3749,3402 3787,3401 3875,3402 3900,3401 3977,3400 4014,3400 4067,3400 4103,3400 4173,3399 4208,3398 4413,3396 4439,3396 4687,3394 4714,3394 4798,3393"/>
+                <Baseline points="3448,3408 3514,3407 3542,3407 3749,3402 3787,3401 3875,3402 3900,3401 3977,3400 4014,3400 4067,3400 4103,3400 4173,3399 4208,3398 4413,3396 4439,3396 4687,3394 4714,3394 4798,3393"/>
                 <TextEquiv>
                     <Unicode>und verpflichtet, einen trotz der ihm obliegenden Verpflichtung nicht</Unicode>
                 </TextEquiv>
@@ -4674,7 +4674,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
             </TextLine>
             <TextLine id="r7l61" custom="readingOrder {index:60;}">
                 <Coords points="3449,3472 3490,3460 3745,3456 4009,3452 4778,3446 4802,3450 4803,3486 4770,3489 3497,3505 3447,3502"/>
-                <Baseline points="3449,3497 3526,3495 3552,3495 3641,3493 3667,3493 3721,3492 3745,3492 3825,3491 3850,3490 3901,3490 3926,3490 4150,3488 4176,3487 4441,3484 4469,3484 4593,3482 4631,3482 4713,3481 4740,3481 4781,3480 4798,3480 4803,3480"/>
+                <Baseline points="3449,3497 3526,3495 3552,3495 3641,3493 3667,3493 3721,3492 3745,3492 3825,3491 3850,3490 3901,3490 3926,3490 4150,3488 4176,3487 4441,3484 4469,3484 4593,3482 4631,3482 4713,3481 4740,3481 4781,3480 4798,3480 4802,3480"/>
                 <TextEquiv>
                     <Unicode>auch wenn der (von der Kommiſſion angenommene) Antrag nicht an⸗</Unicode>
                 </TextEquiv>
@@ -4709,7 +4709,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
             </TextLine>
             <TextLine id="r7l66" custom="readingOrder {index:65;}">
                 <Coords points="3448,3684 3805,3678 4296,3671 4455,3668 4565,3674 4591,3676 4592,3707 4455,3711 3498,3727 3464,3727 3448,3717"/>
-                <Baseline points="3452,3716 3598,3715 3625,3714 3680,3714 3708,3713 3777,3712 3805,3712 4088,3709 4113,3709 4258,3707 4284,3706 4455,3703 4480,3702 4592,3703"/>
+                <Baseline points="3452,3716 3598,3715 3625,3714 3680,3714 3708,3713 3777,3712 3805,3712 4088,3709 4113,3709 4258,3707 4284,3706 4455,3703 4480,3702 4591,3703"/>
                 <TextEquiv>
                     <Unicode>ſitzenden auf dem Berufungswege Abhülfe geſchaffen werde.</Unicode>
                 </TextEquiv>
@@ -4800,7 +4800,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
             </TextLine>
             <TextLine id="r7l79" custom="readingOrder {index:78;}">
                 <Coords points="3457,4326 3574,4325 3596,4322 3839,4313 4324,4309 4635,4308 4692,4308 4806,4318 4806,4355 4745,4353 3783,4364 3635,4367 3456,4367"/>
-                <Baseline points="3455,4364 3495,4364 3574,4362 3783,4357 3839,4356 4104,4351 4175,4349 4254,4350 4324,4349 4450,4349 4524,4348 4565,4348 4635,4347 4806,4346"/>
+                <Baseline points="3456,4364 3495,4364 3574,4362 3783,4357 3839,4356 4104,4351 4175,4349 4254,4350 4324,4349 4450,4349 4524,4348 4565,4348 4635,4347 4806,4346"/>
                 <TextEquiv>
                     <Unicode>der bisherigen Klaſſenſteuer zum Anſatz zu bringen,</Unicode>
                 </TextEquiv>
@@ -5003,7 +5003,7 @@ Die Einkommenſteuer beträgt jährlich bei einem Einkommen</Unicode>
             </TextLine>
             <TextLine id="r7l108" custom="readingOrder {index:107;}">
                 <Coords points="3475,5719 4358,5709 4550,5707 4754,5706 4824,5706 4830,5752 4710,5752 4485,5757 3692,5765 3641,5765 3491,5764 3478,5770"/>
-                <Baseline points="3477,5762 3692,5758 3735,5758 3902,5757 3945,5756 4003,5756 4046,5756 4256,5752 4283,5751 4417,5749 4462,5748 4614,5746 4650,5747 4710,5745 4754,5744 4824,5746"/>
+                <Baseline points="3477,5761 3692,5758 3735,5758 3902,5757 3945,5756 4003,5756 4046,5756 4256,5752 4283,5751 4417,5749 4462,5748 4614,5746 4650,5747 4710,5745 4754,5744 4824,5746"/>
                 <TextEquiv>
                     <Unicode>ſämmtliche Reſſorts ein beſonderer Anreiz gegeben ſei, mit</Unicode>
                 </TextEquiv>
@@ -5280,7 +5280,7 @@ erſten Mal in Anwendung kommen ſoll.</Unicode>
             </TextLine>
             <TextLine id="r9l9" custom="readingOrder {index:8;}">
                 <Coords points="5243,775 5595,778 6549,786 6582,788 6582,818 6549,822 6319,827 6063,825 5271,818 5244,816"/>
-                <Baseline points="5243,810 5340,811 5366,812 5595,812 5636,812 5671,813 5711,813 5831,815 5870,815 5931,817 5973,818 6019,819 6044,819 6351,819 6394,819 6453,818 6475,818 6576,818"/>
+                <Baseline points="5243,809 5340,811 5366,812 5595,812 5636,812 5671,813 5711,813 5831,815 5870,815 5931,817 5973,818 6019,819 6044,819 6351,819 6394,819 6453,818 6475,818 6576,818"/>
                 <TextEquiv>
                     <Unicode>lichen Bevölkerung zu ſtärken und die Anſäſſigmachung von Land⸗</Unicode>
                 </TextEquiv>
@@ -5455,7 +5455,7 @@ erſten Mal in Anwendung kommen ſoll.</Unicode>
             </TextLine>
             <TextLine id="r9l34" custom="readingOrder {index:33;}">
                 <Coords points="5236,1867 5275,1873 5376,1871 5522,1873 6192,1881 6336,1881 6570,1887 6579,1923 6436,1926 6420,1926 6309,1925 5794,1920 5338,1915 5240,1914"/>
-                <Baseline points="5238,1906 5296,1906 5338,1907 5523,1909 5564,1909 5639,1910 5677,1910 5752,1912 5794,1912 5981,1915 6021,1915 6193,1916 6235,1916 6284,1916 6309,1916 6465,1918 6506,1918 6570,1919"/>
+                <Baseline points="5239,1905 5296,1906 5338,1907 5523,1909 5564,1909 5639,1910 5677,1910 5752,1912 5794,1912 5981,1915 6021,1915 6193,1916 6235,1916 6284,1916 6309,1916 6465,1918 6506,1918 6570,1919"/>
                 <TextEquiv>
                     <Unicode>ſoll (allgemein oder doch wenigſtens gegenüber der Zwangs⸗ und</Unicode>
                 </TextEquiv>
@@ -5490,7 +5490,7 @@ erſten Mal in Anwendung kommen ſoll.</Unicode>
             </TextLine>
             <TextLine id="r9l39" custom="readingOrder {index:38;}">
                 <Coords points="5234,2098 5271,2092 5334,2092 5702,2098 6391,2103 6571,2107 6573,2143 6156,2145 6060,2143 5635,2141 5271,2133 5235,2134"/>
-                <Baseline points="5234,2128 5334,2129 5361,2130 5476,2130 5503,2131 5550,2131 5574,2131 5916,2136 5945,2136 6174,2137 6213,2137 6247,2137 6278,2138 6391,2139 6418,2139 6470,2140 6504,2141 6569,2141"/>
+                <Baseline points="5234,2127 5334,2129 5361,2130 5476,2130 5503,2131 5550,2131 5574,2131 5916,2136 5945,2136 6174,2137 6213,2137 6247,2137 6278,2138 6391,2139 6418,2139 6470,2140 6504,2141 6569,2141"/>
                 <TextEquiv>
                     <Unicode>deſſen Größe die Landesgeſetzgebung Beſtimmung zu treffen hat und</Unicode>
                 </TextEquiv>
@@ -5525,7 +5525,7 @@ erſten Mal in Anwendung kommen ſoll.</Unicode>
             </TextLine>
             <TextLine id="r9l44" custom="readingOrder {index:43;}">
                 <Coords points="5229,2311 5893,2321 6047,2322 6540,2327 6565,2338 6572,2369 6049,2364 5903,2364 5232,2357"/>
-                <Baseline points="5229,2349 5426,2349 5474,2350 5668,2353 5716,2353 6170,2358 6201,2358 6250,2359 6297,2360 6425,2361 6471,2361 6565,2362"/>
+                <Baseline points="5231,2348 5426,2349 5474,2350 5668,2353 5716,2353 6170,2358 6201,2358 6250,2359 6297,2360 6425,2361 6471,2361 6565,2362"/>
                 <TextEquiv>
                     <Unicode>Oeſterreich ergangenen Zwangsvollſtreckungsgeſetzes) überall dann,</Unicode>
                 </TextEquiv>
@@ -5623,7 +5623,7 @@ erſten Mal in Anwendung kommen ſoll.</Unicode>
             </TextLine>
             <TextLine id="r9l58" custom="readingOrder {index:57;}">
                 <Coords points="5232,2941 5318,2928 5583,2935 6491,2945 6545,2956 6558,2973 6558,2987 5569,2980 5293,2976 5261,2970 5232,2965"/>
-                <Baseline points="5235,2966 5447,2969 5462,2969 5671,2971 5702,2972 5915,2975 5953,2975 5984,2976 6009,2976 6115,2977 6146,2977 6205,2978 6244,2977 6336,2980 6372,2980 6558,2980"/>
+                <Baseline points="5235,2965 5447,2969 5462,2969 5671,2971 5702,2972 5915,2975 5953,2975 5984,2976 6009,2976 6115,2977 6146,2977 6205,2978 6244,2977 6336,2980 6372,2980 6558,2980"/>
                 <TextEquiv>
                     <Unicode>verſchiedene Fälſchungen feſtzuſtellen, es würde ſich daher empfehlen,</Unicode>
                 </TextEquiv>
@@ -5637,7 +5637,7 @@ erſten Mal in Anwendung kommen ſoll.</Unicode>
             </TextLine>
             <TextLine id="r9l60" custom="readingOrder {index:59;}">
                 <Coords points="5229,3029 5285,3018 5303,3018 5415,3019 6565,3033 6565,3076 6381,3075 6108,3072 5366,3063 5230,3062"/>
-                <Baseline points="5229,3054 5303,3055 5330,3056 5478,3057 5506,3058 5638,3060 5664,3060 5734,3061 5755,3062 5907,3064 5933,3064 5986,3064 6004,3064 6038,3064 6054,3064 6251,3067 6277,3067 6565,3069"/>
+                <Baseline points="5229,3053 5303,3055 5330,3056 5478,3057 5506,3058 5638,3060 5664,3060 5734,3061 5755,3062 5907,3064 5933,3064 5986,3064 6004,3064 6038,3064 6054,3064 6251,3067 6277,3067 6565,3069"/>
                 <TextEquiv>
                     <Unicode>rath beſchloß, ſogleich dem Wunſche des Antragſtellers ſtattzugeben. —</Unicode>
                 </TextEquiv>
@@ -5735,7 +5735,7 @@ erſten Mal in Anwendung kommen ſoll.</Unicode>
             </TextLine>
             <TextLine id="r9l74" custom="readingOrder {index:73;}">
                 <Coords points="5220,3637 5288,3637 5650,3641 5976,3645 6459,3648 6564,3656 6564,3687 6459,3691 6322,3691 5220,3679"/>
-                <Baseline points="5219,3674 5287,3675 5330,3675 5374,3676 5416,3676 5561,3677 5604,3678 5720,3677 5762,3678 5975,3680 6028,3681 6223,3684 6265,3685 6458,3686 6503,3687 6558,3687"/>
+                <Baseline points="5220,3674 5287,3675 5330,3675 5374,3676 5416,3676 5561,3677 5604,3678 5720,3677 5762,3678 5975,3680 6028,3681 6223,3684 6265,3685 6458,3686 6503,3687 6558,3687"/>
                 <TextEquiv>
                     <Unicode>ſind im dortigen Bezirk gegenwärtig maßgebend hinſichtlich des</Unicode>
                 </TextEquiv>
@@ -5812,7 +5812,7 @@ erſten Mal in Anwendung kommen ſoll.</Unicode>
             </TextLine>
             <TextLine id="r9l85" custom="readingOrder {index:84;}">
                 <Coords points="5219,4127 5256,4127 5736,4129 5800,4131 5816,4143 5810,4167 5646,4170 5236,4170 5217,4167"/>
-                <Baseline points="5219,4165 5505,4164 5531,4164 5605,4164 5632,4164 5804,4168"/>
+                <Baseline points="5219,4165 5505,4164 5531,4164 5605,4164 5632,4164 5803,4167"/>
                 <TextEquiv>
                     <Unicode>Centralvereinen noch geſtellt?“</Unicode>
                 </TextEquiv>
@@ -5861,7 +5861,7 @@ erſten Mal in Anwendung kommen ſoll.</Unicode>
             </TextLine>
             <TextLine id="r9l92" custom="readingOrder {index:91;}">
                 <Coords points="5214,4436 5337,4437 5674,4438 5891,4439 6436,4444 6539,4447 6548,4460 6553,4482 6533,4488 5897,4481 5823,4484 5231,4483 5214,4472"/>
-                <Baseline points="5215,4473 5337,4474 5362,4474 5674,4475 5699,4475 5922,4477 5962,4478 6208,4479 6248,4479 6310,4479 6349,4479 6548,4479"/>
+                <Baseline points="5215,4472 5337,4474 5362,4474 5674,4475 5699,4475 5922,4477 5962,4478 6208,4479 6248,4479 6310,4479 6349,4479 6548,4479"/>
                 <TextEquiv>
                     <Unicode>beſitzes gemeingefährliche Ausdehnung angenommen; eine reichsgeſetz⸗</Unicode>
                 </TextEquiv>
@@ -6153,7 +6153,7 @@ Raths Dr. Buerſtenbinder dagegen faſt einſtimmig angenommen.</Unicode>
             </TextLine>
             <TextLine id="r11l2" custom="readingOrder {index:1;}">
                 <Coords points="5208,5566 5229,5556 5393,5557 5645,5557 6442,5560 6479,5561 6542,5571 6541,5603 6309,5600 5646,5604 5397,5602 5208,5599"/>
-                <Baseline points="5208,5592 5329,5593 5348,5593 5580,5594 5611,5593 5742,5593 5763,5593 5810,5593 5821,5593 5994,5592 6008,5592 6059,5593 6128,5594 6542,5596"/>
+                <Baseline points="5208,5592 5329,5593 5348,5593 5580,5594 5611,5593 5742,5593 5763,5593 5810,5593 5821,5593 5994,5592 6008,5592 6059,5593 6128,5594 6541,5595"/>
                 <TextEquiv>
                     <Unicode>wärts“ veröffentlicht nunmehr die Anſprache der Reichstagsfraktion</Unicode>
                 </TextEquiv>
@@ -6167,7 +6167,7 @@ Raths Dr. Buerſtenbinder dagegen faſt einſtimmig angenommen.</Unicode>
             </TextLine>
             <TextLine id="r11l4" custom="readingOrder {index:3;}">
                 <Coords points="5207,5644 5239,5644 6098,5645 6398,5647 6513,5648 6541,5658 6542,5687 6431,5689 5208,5689"/>
-                <Baseline points="5207,5681 5260,5681 5286,5681 5503,5682 5529,5682 5582,5682 5608,5682 5664,5682 5688,5682 5760,5682 5789,5682 5974,5682 5999,5682 6031,5682 6056,5682 6147,5682 6173,5682 6202,5682 6230,5682 6279,5682 6303,5682 6450,5683 6474,5684 6541,5682"/>
+                <Baseline points="5207,5680 5260,5681 5286,5681 5503,5682 5529,5682 5582,5682 5608,5682 5664,5682 5688,5682 5760,5682 5789,5682 5974,5682 5999,5682 6031,5682 6056,5682 6147,5682 6173,5682 6202,5682 6230,5682 6279,5682 6303,5682 6450,5683 6474,5684 6541,5682"/>
                 <TextEquiv>
                     <Unicode>In Ausführung des auf dem Parteitage zu Halle a. S. gefaßten Be⸗</Unicode>
                 </TextEquiv>
@@ -6309,7 +6309,7 @@ geben) wird die außergewöhnlich lang andauernde Arbeitsloſigkeit</Unicode>
             </TextLine>
             <TextLine id="r12l3" custom="readingOrder {index:2;}">
                 <Coords points="6657,449 6865,447 6883,447 7960,458 7996,463 7994,496 7913,499 7784,497 7266,491 6653,489"/>
-                <Baseline points="6657,484 6689,484 6717,484 6792,484 6819,484 6969,484 6997,485 7113,486 7138,486 7192,487 7219,487 7300,489 7326,489 7376,489 7401,490 7543,491 7569,491 7619,491 7635,492 7871,493 7897,494 7996,491"/>
+                <Baseline points="6657,484 6689,484 6717,484 6792,484 6819,484 6969,484 6997,485 7113,486 7138,486 7192,487 7219,487 7300,489 7326,489 7376,489 7401,490 7543,491 7569,491 7619,491 7635,492 7871,493 7897,494 7994,490"/>
                 <TextEquiv>
                     <Unicode>in noch böherem Grade als ſonſt der Willkür der Unternehmer preis⸗</Unicode>
                 </TextEquiv>
@@ -6337,7 +6337,7 @@ geben) wird die außergewöhnlich lang andauernde Arbeitsloſigkeit</Unicode>
             </TextLine>
             <TextLine id="r12l7" custom="readingOrder {index:6;}">
                 <Coords points="6744,624 6843,622 6881,622 7914,634 7990,645 7996,676 7958,677 7942,677 7400,671 6746,664"/>
-                <Baseline points="6744,660 6815,659 6843,659 7041,660 7066,660 7144,662 7171,662 7226,663 7254,664 7370,665 7396,665 7490,666 7531,666 7619,667 7645,668 7717,669 7746,669 7763,669 7799,669 7825,669 7855,669 7914,670 7942,670 7990,667"/>
+                <Baseline points="6745,659 6815,659 6843,659 7041,660 7066,660 7144,662 7171,662 7226,663 7254,664 7370,665 7396,665 7490,666 7531,666 7619,667 7645,668 7717,669 7746,669 7763,669 7799,669 7825,669 7855,669 7914,670 7942,670 7990,667"/>
                 <TextEquiv>
                     <Unicode>Aus Breslau wird der „Köln. Ztg“ unter dem 3. d. M. ge⸗</Unicode>
                 </TextEquiv>
@@ -6372,7 +6372,7 @@ geben) wird die außergewöhnlich lang andauernde Arbeitsloſigkeit</Unicode>
             </TextLine>
             <TextLine id="r12l12" custom="readingOrder {index:11;}">
                 <Coords points="6650,844 6687,843 6876,842 6949,842 7739,851 7826,855 7987,860 7988,896 7931,897 7915,897 7280,890 6650,882"/>
-                <Baseline points="6650,878 6727,878 6776,878 6825,878 6876,879 6949,879 6992,879 7058,880 7097,880 7177,881 7222,882 7396,885 7441,886 7739,889 7788,889 7863,890 7915,890 7988,890"/>
+                <Baseline points="6650,878 6727,878 6776,878 6825,878 6876,879 6949,879 6992,879 7058,880 7097,880 7177,881 7222,882 7396,885 7441,886 7739,889 7788,889 7863,890 7915,890 7987,890"/>
                 <TextEquiv>
                     <Unicode>ſolle ein Netz von allen möglichen Arbeitervereinen über ganz</Unicode>
                 </TextEquiv>
@@ -6393,7 +6393,7 @@ geben) wird die außergewöhnlich lang andauernde Arbeitsloſigkeit</Unicode>
             </TextLine>
             <TextLine id="r12l15" custom="readingOrder {index:14;}">
                 <Coords points="6649,976 7027,975 7039,975 7836,984 7990,989 7995,1028 7645,1027 7630,1027 7514,1026 6650,1018"/>
-                <Baseline points="6649,1013 6754,1011 6785,1010 6837,1011 6866,1011 6948,1011 6985,1011 7282,1015 7319,1016 7453,1018 7514,1018 7561,1018 7600,1019 7790,1020 7827,1020 7908,1022 7943,1022 7990,1023"/>
+                <Baseline points="6649,1012 6754,1011 6785,1010 6837,1011 6866,1011 6948,1011 6985,1011 7282,1015 7319,1016 7453,1018 7514,1018 7561,1018 7600,1019 7790,1020 7827,1020 7908,1022 7943,1022 7990,1023"/>
                 <TextEquiv>
                     <Unicode>Band der Idee zuſammengefügt werden. Zu Agitatoren ſeien die</Unicode>
                 </TextEquiv>
@@ -6498,7 +6498,7 @@ geben) wird die außergewöhnlich lang andauernde Arbeitsloſigkeit</Unicode>
             </TextLine>
             <TextLine id="r12l30" custom="readingOrder {index:29;}">
                 <Coords points="6645,1635 6926,1635 7708,1645 7980,1655 7981,1690 7612,1690 6645,1677"/>
-                <Baseline points="6645,1671 6926,1671 6964,1671 7027,1672 7067,1673 7096,1673 7131,1673 7189,1674 7228,1675 7294,1676 7334,1676 7520,1679 7556,1680 7585,1680 7612,1680 7708,1681 7745,1682 7981,1684"/>
+                <Baseline points="6645,1671 6926,1671 6964,1671 7027,1672 7067,1673 7096,1673 7131,1673 7189,1674 7228,1675 7294,1676 7334,1676 7520,1679 7556,1680 7585,1680 7612,1680 7708,1681 7745,1682 7980,1684"/>
                 <TextEquiv>
                     <Unicode>ſationsentwurf, wie er auf dem Parteitage in Halle angenommen,</Unicode>
                 </TextEquiv>
@@ -6631,7 +6631,7 @@ geben) wird die außergewöhnlich lang andauernde Arbeitsloſigkeit</Unicode>
             </TextLine>
             <TextLine id="r12l49" custom="readingOrder {index:48;}">
                 <Coords points="6638,2483 6695,2475 6731,2475 7238,2477 7888,2486 7956,2489 7977,2505 7979,2526 7956,2526 7603,2526 7284,2524 6942,2519 6697,2518 6640,2516"/>
-                <Baseline points="6638,2509 6957,2512 7022,2513 7238,2515 7284,2516 7430,2518 7489,2519 7554,2520 7603,2521 7976,2525"/>
+                <Baseline points="6639,2508 6957,2512 7022,2513 7238,2515 7284,2516 7430,2518 7489,2519 7554,2520 7603,2521 7976,2525"/>
                 <TextEquiv>
                     <Unicode>verſammlung ſämmtlicher Zechen des niederrheiniſch⸗</Unicode>
                 </TextEquiv>
@@ -6645,7 +6645,7 @@ geben) wird die außergewöhnlich lang andauernde Arbeitsloſigkeit</Unicode>
             </TextLine>
             <TextLine id="r12l51" custom="readingOrder {index:50;}">
                 <Coords points="6638,2563 6771,2563 7091,2564 7767,2576 7850,2578 7973,2586 7976,2616 7767,2618 7743,2618 6987,2610 6742,2607 6640,2606"/>
-                <Baseline points="6638,2599 6771,2598 6797,2599 6850,2599 6876,2600 6931,2600 6957,2601 7431,2607 7470,2607 7714,2610 7743,2610 7977,2611"/>
+                <Baseline points="6639,2598 6771,2598 6797,2599 6850,2599 6876,2600 6931,2600 6957,2601 7431,2607 7470,2607 7714,2610 7743,2610 7975,2611"/>
                 <TextEquiv>
                     <Unicode>ſtellung der den Bergwerks⸗Verwaltungen vorzulegenden Forderun⸗</Unicode>
                 </TextEquiv>
@@ -6701,7 +6701,7 @@ geben) wird die außergewöhnlich lang andauernde Arbeitsloſigkeit</Unicode>
             </TextLine>
             <TextLine id="r12l59" custom="readingOrder {index:58;}">
                 <Coords points="6632,2929 6651,2918 6804,2918 6955,2919 7208,2921 7434,2923 7724,2926 7949,2930 7978,2942 7988,2970 7950,2972 7903,2967 7183,2964 6651,2958 6632,2953"/>
-                <Baseline points="6631,2954 6804,2953 6830,2953 6893,2954 6919,2955 7034,2955 7060,2955 7120,2956 7159,2956 7343,2958 7386,2959 7453,2959 7496,2960 7574,2961 7600,2961 7724,2963 7766,2964 7842,2965 7903,2966 7978,2964"/>
+                <Baseline points="6632,2953 6804,2953 6830,2953 6893,2954 6919,2955 7034,2955 7060,2955 7120,2956 7159,2956 7343,2958 7386,2959 7453,2959 7496,2960 7574,2961 7600,2961 7724,2963 7766,2964 7842,2965 7903,2966 7978,2964"/>
                 <TextEquiv>
                     <Unicode>mittheilt, aus Stadt und Umgegend ſehr ſtark beſucht war. Von</Unicode>
                 </TextEquiv>
@@ -6862,14 +6862,14 @@ geben) wird die außergewöhnlich lang andauernde Arbeitsloſigkeit</Unicode>
             </TextLine>
             <TextLine id="r12l82" custom="readingOrder {index:81;}">
                 <Coords points="6627,3935 6854,3930 7126,3930 7588,3931 7874,3940 7931,3942 7980,3958 7980,3970 7976,3983 7929,3984 7588,3982 7274,3975 6726,3971 6625,3973"/>
-                <Baseline points="6629,3967 6680,3966 6731,3969 6810,3967 6855,3966 6949,3963 7002,3964 7126,3966 7176,3966 7226,3967 7274,3967 7588,3972 7639,3973 7719,3974 7768,3975 7813,3976 7853,3977 7979,3978"/>
+                <Baseline points="6629,3967 6680,3966 6731,3969 6810,3967 6855,3966 6949,3963 7002,3964 7126,3966 7176,3966 7226,3967 7274,3967 7588,3972 7639,3973 7719,3974 7768,3975 7813,3976 7853,3977 7977,3977"/>
                 <TextEquiv>
                     <Unicode>der „Lpz. Ztg.“ zufolge die Berichterſtattung über die Lohn⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r12l83" custom="readingOrder {index:82;}">
                 <Coords points="6626,3986 6688,3979 6755,3974 7079,3974 7177,3975 7887,3985 7943,3986 7981,3999 7981,4022 7943,4026 7799,4026 7292,4023 6772,4017 6627,4016"/>
-                <Baseline points="6626,4010 6705,4010 6755,4010 7248,4010 7292,4011 7469,4014 7517,4015 7576,4016 7626,4017 7751,4019 7799,4020 7981,4022"/>
+                <Baseline points="6626,4009 6705,4010 6755,4010 7248,4010 7292,4011 7469,4014 7517,4015 7576,4016 7626,4017 7751,4019 7799,4020 7981,4022"/>
                 <TextEquiv>
                     <Unicode>und Arbeitsverhältniſſe fortgeſetzt und ſodann beſchloſſen</Unicode>
                 </TextEquiv>
@@ -6890,7 +6890,7 @@ geben) wird die außergewöhnlich lang andauernde Arbeitsloſigkeit</Unicode>
             </TextLine>
             <TextLine id="r12l86" custom="readingOrder {index:85;}">
                 <Coords points="6624,4118 6753,4108 7146,4107 7325,4107 7885,4117 7979,4130 7982,4160 7885,4157 7503,4159 7416,4153 6753,4150 6625,4148"/>
-                <Baseline points="6624,4143 6725,4143 6753,4143 6930,4142 6955,4142 7085,4142 7111,4143 7219,4143 7269,4143 7397,4144 7416,4145 7615,4149 7646,4151 7704,4151 7725,4152 7773,4152 7791,4152 7976,4155"/>
+                <Baseline points="6624,4142 6725,4143 6753,4143 6930,4142 6955,4142 7085,4142 7111,4143 7219,4143 7269,4143 7397,4144 7416,4145 7615,4149 7646,4151 7704,4151 7725,4152 7773,4152 7791,4152 7976,4155"/>
                 <TextEquiv>
                     <Unicode>mann abgegeben werden ſollen. Weiter beſchäftigte ſich die Verſamm⸗</Unicode>
                 </TextEquiv>
@@ -7135,7 +7135,7 @@ die Arbeit eingeſtellt.</Unicode>
             </TextLine>
             <TextLine id="r14l11" custom="readingOrder {index:10;}">
                 <Coords points="6617,5087 6734,5077 6878,5077 7020,5078 7239,5080 7440,5082 7891,5087 7966,5099 7966,5122 7651,5128 7606,5125 6834,5119 6734,5117 6615,5117"/>
-                <Baseline points="6617,5112 6708,5113 6734,5113 6776,5113 6801,5113 6878,5113 6904,5113 6983,5113 7010,5113 7045,5113 7072,5113 7239,5116 7266,5117 7373,5117 7408,5117 7456,5118 7483,5118 7581,5119 7611,5119 7967,5123"/>
+                <Baseline points="6617,5112 6708,5113 6734,5113 6776,5113 6801,5113 6878,5113 6904,5113 6983,5113 7010,5113 7045,5113 7072,5113 7239,5116 7266,5117 7373,5117 7408,5117 7456,5118 7483,5118 7581,5119 7611,5119 7966,5122"/>
                 <TextEquiv>
                     <Unicode>wenn ſie auch nicht in amtlicher Weiſe bei einem Privatunternehmen</Unicode>
                 </TextEquiv>
@@ -7163,7 +7163,7 @@ die Arbeit eingeſtellt.</Unicode>
             </TextLine>
             <TextLine id="r14l15" custom="readingOrder {index:14;}">
                 <Coords points="6618,5265 6638,5255 6824,5253 7148,5253 7669,5259 7866,5262 7925,5264 7966,5274 7968,5303 7943,5297 7866,5298 7149,5297 6978,5297 6651,5297 6611,5292"/>
-                <Baseline points="6618,5288 6720,5288 6745,5288 6798,5288 6824,5288 7148,5290 7192,5290 7247,5291 7287,5291 7320,5292 7349,5292 7461,5293 7506,5294 7669,5296 7715,5295 7777,5297 7818,5298 7966,5296"/>
+                <Baseline points="6618,5288 6720,5288 6745,5288 6798,5288 6824,5288 7148,5290 7192,5290 7247,5291 7287,5291 7320,5292 7349,5292 7461,5293 7506,5294 7669,5296 7715,5295 7777,5297 7818,5297 7966,5296"/>
                 <TextEquiv>
                     <Unicode>achtet des Zuſammenfallens der in Paris, München und Moskau</Unicode>
                 </TextEquiv>
@@ -7205,7 +7205,7 @@ die Arbeit eingeſtellt.</Unicode>
             </TextLine>
             <TextLine id="r14l21" custom="readingOrder {index:20;}">
                 <Coords points="6615,5527 6728,5515 6863,5515 7472,5520 7918,5525 7967,5526 7968,5563 7918,5562 6954,5555 6838,5556 6610,5559"/>
-                <Baseline points="6615,5551 6971,5552 7009,5552 7067,5552 7091,5552 7221,5554 7243,5552 7258,5552 7284,5559 7312,5557 7349,5556 7402,5555 7428,5556 7595,5559 7630,5559 7686,5559 7715,5559 7855,5559 7883,5560 7966,5558"/>
+                <Baseline points="6615,5551 6971,5552 7009,5552 7067,5552 7091,5552 7221,5554 7243,5552 7258,5552 7284,5557 7312,5557 7349,5556 7402,5555 7428,5556 7595,5559 7630,5559 7686,5559 7715,5559 7855,5559 7883,5560 7966,5558"/>
                 <TextEquiv>
                     <Unicode>genoſſenſchaft, als welcher z. Z. der Vorſtand des Vereins Ber⸗</Unicode>
                 </TextEquiv>
@@ -7233,7 +7233,7 @@ die Arbeit eingeſtellt.</Unicode>
             </TextLine>
             <TextLine id="r14l25" custom="readingOrder {index:24;}">
                 <Coords points="6613,5690 6755,5690 7166,5691 7449,5696 7516,5709 7516,5733 7312,5733 6730,5735 6615,5733"/>
-                <Baseline points="6613,5726 6796,5726 6830,5727 6870,5727 6896,5727 7064,5727 7090,5728 7274,5729 7312,5730 7345,5730 7371,5730 7516,5732"/>
+                <Baseline points="6614,5725 6796,5726 6830,5727 6870,5727 6896,5727 7064,5727 7090,5728 7274,5729 7312,5730 7345,5730 7371,5730 7516,5732"/>
                 <TextEquiv>
                     <Unicode>ſtellung in London Abſtand zu nehmen.</Unicode>
                 </TextEquiv>
@@ -7395,7 +7395,7 @@ wird verlangt eine Abhandlung über diejenigen Feuerungseinrichtungen,</Unicode>
             </TextLine>
             <TextLine id="r15l4" custom="readingOrder {index:3;}">
                 <Coords points="8065,501 8103,501 8225,501 8578,499 9364,515 9404,526 9404,550 9272,554 9083,554 8656,542 8151,541 8103,542 8065,536"/>
-                <Baseline points="8071,537 8369,535 8410,538 8461,538 8485,538 8597,539 8622,540 8678,540 8702,541 8861,542 8893,543 9057,547 9084,545 9404,550"/>
+                <Baseline points="8071,536 8369,535 8410,538 8461,538 8485,538 8597,539 8622,540 8678,540 8702,541 8861,542 8893,543 9057,547 9084,545 9404,550"/>
                 <TextEquiv>
                     <Unicode>keſſelfeuerungen, für welche das erwähnte beſondere Preisausſchreiben</Unicode>
                 </TextEquiv>
@@ -7444,7 +7444,7 @@ wird verlangt eine Abhandlung über diejenigen Feuerungseinrichtungen,</Unicode>
             </TextLine>
             <TextLine id="r15l11" custom="readingOrder {index:10;}">
                 <Coords points="8065,815 8212,812 8416,811 8443,811 8814,814 8972,816 9269,822 9356,824 9400,830 9408,864 9326,867 8952,859 8129,854 8065,845"/>
-                <Baseline points="8068,846 8186,846 8212,846 8281,847 8308,847 8401,847 8416,847 8634,847 8661,848 8824,849 8852,849 9038,853 9064,854 9269,858 9322,859 9401,858"/>
+                <Baseline points="8068,845 8186,846 8212,846 8281,847 8308,847 8401,847 8416,847 8634,847 8661,848 8824,849 8852,849 9038,853 9064,854 9269,858 9322,859 9401,858"/>
                 <TextEquiv>
                     <Unicode>tungen ſind durch Zeichnungen möglichſt vollſtändig darzuſtellen. Das</Unicode>
                 </TextEquiv>
@@ -7746,7 +7746,7 @@ worden.</Unicode>
             </TextLine>
             <TextLine id="r18l4" custom="readingOrder {index:3;}">
                 <Coords points="8050,2446 8376,2446 8897,2449 9264,2456 9389,2466 9393,2496 9345,2497 9307,2498 9292,2498 8611,2497 8081,2486 8066,2488 8050,2489"/>
-                <Baseline points="8049,2482 8204,2481 8235,2481 8406,2482 8427,2482 8474,2482 8499,2482 8897,2486 8916,2486 9162,2488 9193,2490 9264,2490 9292,2490 9387,2490"/>
+                <Baseline points="8050,2482 8204,2481 8235,2481 8406,2482 8427,2482 8474,2482 8499,2482 8897,2486 8916,2486 9162,2488 9193,2490 9264,2490 9292,2490 9387,2490"/>
                 <TextEquiv>
                     <Unicode>ſchriften, betreffend die geſundheitspolizeiliche Unterſuchung, auch gegen</Unicode>
                 </TextEquiv>
@@ -7898,7 +7898,7 @@ Dezember 1890.</Unicode>
             </TextLine>
             <TextLine id="r20l14" custom="readingOrder {index:13;}">
                 <Coords points="8062,3322 8187,3322 8535,3323 9328,3328 9370,3335 9393,3345 9400,3383 9340,3373 9270,3373 8092,3364 8066,3363"/>
-                <Baseline points="8062,3359 8260,3357 8286,3357 8375,3357 8402,3357 8434,3358 8459,3359 8564,3359 8590,3359 8673,3359 8700,3359 8730,3361 8756,3362 8863,3363 8887,3363 9061,3364 9086,3364 9170,3366 9199,3366 9230,3367 9248,3368 9393,3370"/>
+                <Baseline points="8065,3358 8260,3357 8286,3357 8375,3357 8402,3357 8434,3358 8459,3359 8564,3359 8590,3359 8673,3359 8700,3359 8730,3361 8756,3362 8863,3363 8887,3363 9061,3364 9086,3364 9170,3366 9199,3366 9230,3367 9248,3368 9393,3370"/>
                 <TextEquiv>
                     <Unicode>Stockholm 22,7, in Trieſt 28,5, in Turin (Oktober) 20,1, in Venedig</Unicode>
                 </TextEquiv>
@@ -8101,14 +8101,14 @@ Dezember 1890.</Unicode>
             </TextLine>
             <TextLine id="r20l43" custom="readingOrder {index:42;}">
                 <Coords points="8050,4602 8852,4601 8969,4601 9136,4602 9231,4604 9368,4610 9369,4646 9152,4646 9124,4645 8854,4644 8105,4644 8045,4643"/>
-                <Baseline points="8050,4638 8194,4640 8236,4640 8378,4639 8428,4638 8576,4637 8602,4636 8619,4636 8648,4636 8706,4636 8755,4636 8969,4636 9023,4636 9136,4638 9189,4638 9369,4640"/>
+                <Baseline points="8050,4638 8194,4640 8236,4640 8378,4639 8428,4638 8576,4637 8602,4636 8619,4636 8648,4636 8706,4636 8755,4636 8969,4636 9023,4636 9136,4638 9189,4638 9368,4640"/>
                 <TextEquiv>
                     <Unicode>Liegnitz, Memel, Münſter i. W., Nordhauſen, Poſen, Potsdam,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r20l44" custom="readingOrder {index:43;}">
                 <Coords points="8052,4647 8077,4646 8558,4645 9010,4645 9258,4648 9366,4656 9369,4689 9010,4695 8998,4695 8077,4689 8052,4683"/>
-                <Baseline points="8052,4683 8254,4683 8319,4682 8493,4681 8558,4681 8741,4680 8802,4680 9010,4679 9070,4680 9144,4682 9222,4684 9369,4684"/>
+                <Baseline points="8052,4683 8254,4683 8319,4682 8493,4681 8558,4681 8741,4680 8802,4680 9010,4679 9070,4680 9144,4682 9222,4684 9368,4684"/>
                 <TextEquiv>
                     <Unicode>Schleswig, Solingen, Stralſund, Wiesbaden, Hof, Speyer,</Unicode>
                 </TextEquiv>
@@ -8143,7 +8143,7 @@ Dezember 1890.</Unicode>
             </TextLine>
             <TextLine id="r20l49" custom="readingOrder {index:48;}">
                 <Coords points="8044,4867 8660,4863 8975,4863 9233,4866 9257,4868 9342,4876 9366,4883 9366,4895 9370,4908 9315,4908 8981,4909 8748,4904 8076,4907 8039,4900"/>
-                <Baseline points="8043,4901 8123,4901 8149,4901 8205,4902 8232,4903 8335,4900 8363,4901 8421,4897 8448,4897 8531,4898 8580,4899 8617,4899 8658,4898 8718,4898 8745,4899 8975,4898 9005,4899 9058,4900 9086,4900 9364,4900"/>
+                <Baseline points="8043,4900 8123,4901 8149,4901 8205,4902 8232,4903 8335,4900 8363,4901 8421,4897 8448,4897 8531,4898 8580,4899 8617,4899 8658,4898 8718,4898 8745,4899 8975,4898 9005,4899 9058,4900 9086,4900 9364,4900"/>
                 <TextEquiv>
                     <Unicode>20,0 pro Mille und Jahr. — Die Betheiligung des Säuglings⸗</Unicode>
                 </TextEquiv>
@@ -8311,14 +8311,14 @@ Dezember 1890.</Unicode>
             </TextLine>
             <TextLine id="r20l73" custom="readingOrder {index:72;}">
                 <Coords points="8025,5911 8353,5910 8366,5910 8662,5911 8777,5912 9172,5916 9353,5918 9372,5922 9372,5963 9337,5963 8113,5951 8027,5953"/>
-                <Baseline points="8025,5947 8200,5946 8227,5945 8258,5945 8285,5946 8486,5946 8511,5946 8594,5947 8621,5947 8733,5948 8756,5948 8886,5949 8910,5950 9020,5953 9048,5954 9247,5953 9279,5953 9372,5954"/>
+                <Baseline points="8026,5946 8200,5946 8227,5945 8258,5945 8285,5946 8486,5946 8511,5946 8594,5947 8621,5947 8733,5948 8756,5948 8886,5949 8910,5950 9020,5953 9048,5954 9247,5953 9279,5953 9372,5954"/>
                 <TextEquiv>
                     <Unicode>Maſern in Amſterdam (86). Paris, London (453), Stockholm (77),</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r20l74" custom="readingOrder {index:73;}">
                 <Coords points="8027,5955 8284,5954 8465,5954 9330,5961 9372,5971 9379,6013 9183,6007 8623,5999 8284,6002 8028,5995"/>
-                <Baseline points="8027,5988 8123,5989 8172,5989 8234,5989 8284,5989 8385,5989 8440,5990 8626,5990 8672,5991 8745,5992 8785,5992 8861,5993 8901,5993 8932,5995 8972,5995 9138,5996 9183,5998 9372,5999"/>
+                <Baseline points="8027,5987 8123,5989 8172,5989 8234,5989 8284,5989 8385,5989 8440,5990 8626,5990 8672,5991 8745,5992 8785,5992 8861,5993 8901,5993 8932,5995 8972,5995 9138,5996 9183,5998 9372,5999"/>
                 <TextEquiv>
                     <Unicode>Wien und ſeinen Vororten; aber auch in Barmen. Elberfeld,</Unicode>
                 </TextEquiv>

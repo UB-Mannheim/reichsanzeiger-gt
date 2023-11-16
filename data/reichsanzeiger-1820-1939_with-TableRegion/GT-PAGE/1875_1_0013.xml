@@ -1,22 +1,22 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
     <Metadata>
         <Creator>Transkribus</Creator>
         <Created>2021-12-14T11:43:07.625+01:00</Created>
-        <LastChange>2022-12-07T16:08:26.169+01:00</LastChange>
+        <LastChange>2023-11-15T20:46:58.641+01:00</LastChange>
         <Comments>
                 Measurement unit: pixel
                 PrimaryLanguage: 
                 Producer: Transkribus
             </Comments>
-        <TranskribusMetadata docId="900641" pageId="34524909" pageNr="14" tsid="105747837" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=PWCPVBLMCNGELYKDPOHPHQPM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CBOXAHWFUOXHWFMNXUDHHEYZ" imageId="27705297"/>
+        <TranskribusMetadata docId="900641" pageId="34524909" pageNr="14" tsid="139840646" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=PWCPVBLMCNGELYKDPOHPHQPM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EJDVGBTWUGCIADKJOSVQYNTJ" imageId="27705297"/>
     </Metadata>
     <Page imageFilename="1875_1_0013.jpg" imageWidth="10000" imageHeight="7352">
         <PrintSpace>
             <Coords points="588,394 9787,457 9781,6887 582,6824"/>
         </PrintSpace>
         <ReadingOrder>
-            <OrderedGroup id="ro_1690360014906" caption="Regions reading order">
+            <OrderedGroup id="ro_1700129741723" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
                 <RegionRefIndexed index="1" regionRef="r2"/>
                 <RegionRefIndexed index="2" regionRef="r3"/>
@@ -67,21 +67,21 @@
             </TextLine>
             <TextLine id="r2l5" custom="readingOrder {index:4;}">
                 <Coords points="722,777 743,769 824,763 1895,763 2843,773 2860,780 2860,799 2756,803 1895,794 824,800 769,802 722,796"/>
-                <Baseline points="721,797 1050,797 1381,795 1507,794 1714,794 1733,794 2028,797 2039,797 2100,797 2119,798 2369,798 2391,798 2598,798 2618,798 2758,799 2778,799 2859,799"/>
+                <Baseline points="722,796 1050,797 1381,795 1507,794 1714,794 1733,794 2028,795 2039,795 2100,796 2119,796 2369,798 2391,798 2598,798 2618,798 2758,799 2778,799 2859,799"/>
                 <TextEquiv>
                     <Unicode>nien, Alexandrien, Constantinopel und solchen Orten in der Türkei, an welchen sich Oesterreichische Postanstalten befinden, sowie</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l6" custom="readingOrder {index:5;}">
                 <Coords points="721,803 1440,801 1737,801 2737,806 2836,807 2857,808 2857,833 2310,838 2280,838 1159,835 721,830"/>
-                <Baseline points="720,832 1585,826 1602,826 1874,830 2504,832 2856,833"/>
+                <Baseline points="721,830 1585,826 1602,826 1874,830 2504,832 2856,833"/>
                 <TextEquiv>
                     <Unicode>nach den Ver. Staaten Amerikas, bestehen ermässigte Portosätze; für Postkarten nach dem übrigen Auslande wird dasselbe Porto</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l7" custom="readingOrder {index:6;}">
                 <Coords points="723,839 1396,836 1418,836 1456,842 1456,860 1411,862 875,871 857,871 723,864"/>
-                <Baseline points="724,865 1456,861"/>
+                <Baseline points="724,864 1455,860"/>
                 <TextEquiv>
                     <Unicode>wie für gewöhnliche frankirte Briefe erhoben.</Unicode>
                 </TextEquiv>
@@ -116,7 +116,7 @@ frankirt oder unfrankirt abgesandt werden; im Uebrigen unterliegen Einschreibebr
             <Coords points="2938,632 5113,632 5104,966 2936,946"/>
             <TextLine id="r3l1" custom="readingOrder {index:0;}">
                 <Coords points="3089,637 3183,637 3587,639 3847,641 4234,644 4354,646 4371,654 4371,673 3552,674 3421,674 3108,666 3089,664"/>
-                <Baseline points="3088,663 3292,666 3311,665 3365,666 3387,666 3623,667 3642,667 3752,667 3771,667 3846,667 3865,667 3930,667 3949,669 4094,669 4112,670 4233,671 4252,671 4370,672"/>
+                <Baseline points="3089,663 3292,666 3311,665 3365,666 3387,666 3623,667 3642,667 3752,667 3771,667 3846,667 3865,667 3930,667 3949,669 4094,669 4112,670 4233,671 4252,671 4370,672"/>
                 <TextEquiv>
                     <Unicode>Drucksachen und Waarenproben müssen stets vom Absender frankirt werden.</Unicode>
                 </TextEquiv>
@@ -130,7 +130,7 @@ frankirt oder unfrankirt abgesandt werden; im Uebrigen unterliegen Einschreibebr
             </TextLine>
             <TextLine id="r3l3" custom="readingOrder {index:2;}">
                 <Coords points="2949,711 3108,706 3116,706 3285,707 3308,708 3315,726 3315,733 3152,738 3003,739 2985,739 2949,731"/>
-                <Baseline points="2948,730 3240,731 3313,732"/>
+                <Baseline points="2949,730 3240,731 3313,732"/>
                 <TextEquiv>
                     <Unicode>rayons gelegenen Orte.</Unicode>
                 </TextEquiv>
@@ -158,14 +158,14 @@ frankirt oder unfrankirt abgesandt werden; im Uebrigen unterliegen Einschreibebr
             </TextLine>
             <TextLine id="r3l7" custom="readingOrder {index:6;}">
                 <Coords points="3084,843 3239,843 3784,846 4094,848 4199,849 4765,856 4782,857 4782,889 4734,889 4553,888 3500,877 3084,869"/>
-                <Baseline points="3083,869 3134,869 3152,870 3380,871 3402,871 3481,871 3499,871 3603,872 3623,872 3702,872 3721,872 3797,873 3817,873 3864,873 3883,873 4010,874 4029,874 4058,874 4076,874 4130,875 4158,875 4305,877 4325,877 4530,880 4552,880 4712,882 4733,883 4781,883"/>
+                <Baseline points="3084,869 3134,869 3152,870 3380,871 3402,871 3481,871 3499,871 3603,872 3623,872 3702,872 3721,872 3797,873 3817,873 3864,873 3883,873 4010,874 4029,874 4058,874 4076,874 4130,875 4158,875 4305,877 4325,877 4530,880 4552,880 4712,882 4733,883 4781,883"/>
                 <TextEquiv>
                     <Unicode>Die nachstehenden Sätze gelten, wenn nicht ein Anderes in den folgenden Bemerkungen angegeben ist,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l8" custom="readingOrder {index:7;}">
                 <Coords points="3147,877 3164,877 3680,879 3864,880 4567,884 4654,898 4654,920 3406,911 3167,903 3147,902"/>
-                <Baseline points="3153,905 3327,905 3345,906 3394,906 3410,906 3442,906 3460,906 3491,906 3511,906 3637,907 3656,907 3702,907 3720,907 3769,908 3787,908 3916,908 3934,908 4106,910 4126,910 4209,912 4227,912 4351,913 4369,914 4413,914 4429,914 4461,915 4481,915 4512,915 4532,915 4654,917"/>
+                <Baseline points="3153,902 3327,905 3345,906 3394,906 3410,906 3442,906 3460,906 3491,906 3511,906 3637,907 3656,907 3702,907 3720,907 3769,908 3787,908 3916,908 3934,908 4106,910 4126,910 4209,912 4227,912 4351,913 4369,914 4413,914 4429,914 4461,915 4481,915 4512,915 4532,915 4654,917"/>
                 <TextEquiv>
                     <Unicode>bei Briefen für je 15 Gramm; die mit einem * versehenen Sätze dagegen für je 10 Gramm;</Unicode>
                 </TextEquiv>
@@ -325,14 +325,14 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 <Coords points="585,1278 585,1664 1408,1660 1412,1287"/>
                 <TextLine id="line_1643925567220_275" custom="readingOrder {index:0;}">
                     <Coords points="737,1320 779,1310 1378,1310 1393,1314 1408,1332 1408,1341 1393,1351 1280,1364 1259,1364 737,1356"/>
-                    <Baseline points="737,1355 765,1355 790,1354 1000,1352 1019,1352 1137,1352 1159,1351 1408,1352"/>
+                    <Baseline points="737,1355 765,1355 790,1354 1000,1352 1019,1352 1137,1352 1159,1351 1402,1344"/>
                     <TextEquiv>
                         <Unicode>1. Deutsches Reich, Oesterreich-</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="TableCell_1642166234840_5207l1" custom="readingOrder {index:1;}">
                     <Coords points="788,1363 1071,1360 1239,1360 1306,1364 1306,1405 866,1406 845,1406 788,1399"/>
-                    <Baseline points="788,1399 938,1397 962,1397 1043,1396 1071,1398 1308,1397"/>
+                    <Baseline points="788,1399 938,1397 962,1397 1043,1396 1071,1398 1306,1397"/>
                     <TextEquiv>
                         <Unicode>Ungarn und Luxemburg</Unicode>
                     </TextEquiv>
@@ -379,14 +379,14 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642166234866_5225l2" custom="readingOrder {index:2;}">
                     <Coords points="1956,1398 1976,1396 1990,1396 2874,1402 2874,1426 2876,1432 2396,1431 2390,1431 1956,1420"/>
-                    <Baseline points="1957,1421 2867,1428"/>
+                    <Baseline points="1957,1420 2867,1428"/>
                     <TextEquiv>
                         <Unicode>über 50 — 250 Grm. 10 Pf., über 250 — 500 Grm. 20 Pf.,</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="TableCell_1642166234866_5225l3" custom="readingOrder {index:3;}">
                     <Coords points="1955,1432 1974,1430 1989,1430 2872,1435 2872,1459 2549,1469 2540,1469 1955,1455"/>
-                    <Baseline points="1955,1455 2022,1455 2056,1456 2210,1458 2245,1459 2315,1459 2354,1460 2389,1460 2426,1461 2484,1461 2520,1462 2549,1462 2582,1461 2650,1461 2680,1460 2870,1461"/>
+                    <Baseline points="1955,1455 2022,1455 2056,1456 2210,1458 2245,1459 2315,1459 2354,1460 2389,1460 2426,1461 2484,1461 2520,1462 2549,1462 2582,1461 2650,1461 2680,1460 2869,1459"/>
                     <TextEquiv>
                         <Unicode>über 500 — 1000 Grm. 30 Pf.; b) nach Oesterreich-</Unicode>
                     </TextEquiv>
@@ -414,14 +414,14 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642166234866_5225l7" custom="readingOrder {index:7;}">
                     <Coords points="1955,1574 1971,1568 2067,1568 2790,1575 2824,1576 2869,1582 2869,1599 2839,1600 2642,1607 2632,1607 1955,1592"/>
-                    <Baseline points="1955,1591 2025,1592 2054,1593 2239,1597 2269,1597 2313,1597 2333,1597 2474,1598 2494,1599 2524,1599 2545,1599 2596,1599 2615,1599 2642,1599 2665,1599 2740,1599 2762,1600 2867,1601"/>
+                    <Baseline points="1955,1591 2025,1592 2054,1593 2239,1597 2269,1597 2313,1597 2333,1597 2474,1598 2494,1599 2524,1599 2545,1599 2596,1599 2615,1599 2642,1599 2665,1599 2740,1599 2762,1600 2866,1599"/>
                     <TextEquiv>
                         <Unicode>ohne Unterschied des Gewichts 10 Pf., b) nach Oester-</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="TableCell_1642166234866_5225l8" custom="readingOrder {index:8;}">
                     <Coords points="1955,1609 1985,1603 1996,1602 2021,1602 2721,1610 2782,1617 2782,1636 2611,1641 2600,1641 2094,1636 1955,1627"/>
-                    <Baseline points="1956,1628 2170,1630 2206,1631 2252,1632 2283,1632 2329,1633 2349,1633 2426,1634 2446,1634 2459,1634 2478,1634 2519,1634 2540,1634 2587,1634 2600,1634 2627,1635 2646,1635 2678,1635 2699,1635 2778,1636"/>
+                    <Baseline points="1956,1627 2170,1630 2206,1631 2252,1632 2283,1632 2329,1633 2349,1633 2426,1634 2446,1634 2459,1634 2478,1634 2519,1634 2540,1634 2587,1634 2600,1634 2627,1635 2646,1635 2678,1635 2699,1635 2778,1636"/>
                     <TextEquiv>
                         <Unicode>reich-Ungarn: bis 250 Grm. 3 Pf. für je 50 Grm.</Unicode>
                     </TextEquiv>
@@ -490,7 +490,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642166243304_5255l2" custom="readingOrder {index:2;}">
                     <Coords points="785,1832 849,1826 887,1823 948,1822 1016,1821 1035,1821 1091,1828 1091,1852 785,1852"/>
-                    <Baseline points="783,1851 924,1846 946,1846 1089,1844"/>
+                    <Baseline points="785,1851 924,1846 946,1846 1089,1844"/>
                     <TextEquiv>
                         <Unicode>vemünde, Hamburg</Unicode>
                     </TextEquiv>
@@ -562,7 +562,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 <Coords points="585,1888 585,2117 1402,2123 1405,1888"/>
                 <TextLine id="line_1643926509189_386" custom="readingOrder {index:0;}">
                     <Coords points="727,1916 788,1914 890,1912 995,1911 1188,1910 1207,1910 1207,1953 1132,1955 1051,1955 727,1953"/>
-                    <Baseline points="729,1954 762,1953 788,1953 1022,1947 1051,1947 1200,1946"/>
+                    <Baseline points="729,1953 762,1953 788,1953 1022,1947 1051,1947 1200,1946"/>
                     <TextEquiv>
                         <Unicode>4. Frankreich (Algier)</Unicode>
                     </TextEquiv>
@@ -595,21 +595,21 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 <Coords points="1865,1888 1861,2126 2853,2133 2856,1888"/>
                 <TextLine id="TableCell_1642166247884_5297l0" custom="readingOrder {index:0;}">
                     <Coords points="1901,1924 1943,1922 1976,1922 2721,1932 2867,1934 2867,1959 2721,1965 2707,1965 2064,1956 1903,1955"/>
-                    <Baseline points="1901,1947 1925,1948 1943,1948 2163,1951 2186,1951 2219,1952 2237,1952 2273,1952 2293,1953 2335,1953 2356,1953 2391,1954 2404,1954 2477,1955 2495,1955 2621,1957 2644,1957 2692,1958 2707,1958 2779,1959 2800,1959 2870,1959"/>
+                    <Baseline points="1902,1946 1925,1948 1943,1948 2163,1951 2186,1951 2219,1952 2237,1952 2273,1952 2293,1953 2335,1953 2356,1953 2391,1954 2404,1954 2477,1955 2495,1955 2621,1957 2644,1957 2692,1958 2707,1958 2779,1959 2800,1959 2867,1959"/>
                     <TextEquiv>
                         <Unicode>4. Waarenproben 15 Pf. bis 50 Grm. einschl., für jede wei-</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="TableCell_1642166247884_5297l1" custom="readingOrder {index:1;}">
                     <Coords points="1953,1958 1965,1958 2275,1961 2591,1966 2714,1968 2864,1967 2863,1993 2679,1993 2470,1991 2055,1985 1967,1983 1953,1982"/>
-                    <Baseline points="1953,1984 2033,1984 2055,1984 2089,1984 2108,1985 2177,1986 2200,1986 2215,1986 2237,1986 2275,1986 2297,1986 2382,1988 2408,1989 2437,1989 2459,1990 2542,1990 2564,1991 2608,1991 2622,1992 2790,1993 2808,1993 2863,1996"/>
+                    <Baseline points="1953,1982 2033,1984 2055,1984 2089,1984 2108,1985 2177,1986 2200,1986 2215,1986 2237,1986 2275,1986 2297,1986 2382,1988 2408,1989 2437,1989 2459,1990 2542,1990 2564,1991 2608,1991 2622,1992 2790,1993 2808,1993 2863,1993"/>
                     <TextEquiv>
                         <Unicode>teren 50 Grm. 8 Pf. mehr. — Porto für Geschäfts- und</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="TableCell_1642166247884_5297l2" custom="readingOrder {index:2;}">
                     <Coords points="1954,1992 1977,1992 2701,2000 2868,2004 2868,2029 2713,2034 2682,2034 2406,2030 2080,2025 1954,2020"/>
-                    <Baseline points="1956,2019 2196,2020 2220,2020 2460,2024 2479,2024 2532,2025 2554,2025 2746,2028 2768,2028 2800,2029 2820,2029 2860,2030"/>
+                    <Baseline points="1956,2019 2196,2020 2220,2020 2460,2024 2479,2024 2532,2025 2554,2025 2746,2028 2768,2028 2800,2029 2820,2029 2859,2029"/>
                     <TextEquiv>
                         <Unicode>Handelspapiere, Correcturbogen und Manuscripte 30 Pf.</Unicode>
                     </TextEquiv>
@@ -788,7 +788,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 <Coords points="1858,2301 1856,2396 2850,2403 2851,2309"/>
                 <TextLine id="line_1643927200932_465" custom="readingOrder {index:0;}">
                     <Coords points="1897,2314 1940,2312 2018,2312 2651,2324 2810,2329 2859,2338 2859,2355 2825,2355 2651,2359 2534,2359 1999,2348 1898,2344"/>
-                    <Baseline points="1897,2338 2858,2356"/>
+                    <Baseline points="1897,2337 2858,2355"/>
                     <TextEquiv>
                         <Unicode>6. Gewichtsgrenze für Zeitungen 2 ½ Kilogrm., für andere</Unicode>
                     </TextEquiv>
@@ -839,7 +839,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 <Coords points="1856,2396 1854,2495 2849,2497 2850,2403"/>
                 <TextLine id="TableCell_1642166261983_5369l0" custom="readingOrder {index:0;}">
                     <Coords points="1895,2419 1935,2416 1955,2416 2213,2421 2243,2422 2294,2424 2343,2427 2357,2443 2355,2455 2110,2453 2092,2453 1897,2450"/>
-                    <Baseline points="1895,2442 1918,2442 1935,2442 2110,2445 2126,2445 2175,2446 2195,2446 2243,2448 2264,2448 2310,2450 2331,2450 2353,2451"/>
+                    <Baseline points="1896,2441 1918,2442 1935,2442 2110,2445 2126,2445 2175,2446 2195,2446 2243,2448 2264,2448 2310,2450 2331,2450 2353,2451"/>
                     <TextEquiv>
                         <Unicode>7. Bemerkung wie bei No. 1.</Unicode>
                     </TextEquiv>
@@ -857,14 +857,14 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642166265910_5375l0" custom="readingOrder {index:1;}">
                     <Coords points="771,2568 843,2559 967,2556 1314,2553 1339,2553 1397,2560 1397,2578 1287,2585 995,2589 978,2589 771,2585"/>
-                    <Baseline points="771,2585 823,2584 843,2584 1147,2580 1170,2580 1287,2579 1314,2579 1393,2579"/>
+                    <Baseline points="771,2585 823,2584 843,2584 1147,2580 1170,2580 1287,2579 1314,2579 1392,2578"/>
                     <TextEquiv>
                         <Unicode>aus Schleswig-Holstein, Lübeck, Tra-</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="TableCell_1642166265910_5375l1" custom="readingOrder {index:2;}">
                     <Coords points="841,2600 904,2594 942,2592 1080,2590 1095,2590 1145,2597 1145,2623 1128,2623 977,2626 841,2619"/>
-                    <Baseline points="841,2622 1143,2618"/>
+                    <Baseline points="841,2619 1143,2618"/>
                     <TextEquiv>
                         <Unicode>vemünde, Hamburg</Unicode>
                     </TextEquiv>
@@ -904,7 +904,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642166265946_5393l1" custom="readingOrder {index:1;}">
                     <Coords points="1942,2563 1968,2556 2010,2556 2565,2567 2587,2575 2587,2593 2536,2593 2044,2590 1942,2580"/>
-                    <Baseline points="1942,2583 2141,2584 2160,2585 2208,2586 2228,2586 2425,2590 2444,2591 2493,2592 2512,2592 2589,2592"/>
+                    <Baseline points="1942,2580 2141,2584 2160,2585 2208,2586 2228,2586 2425,2590 2444,2591 2493,2592 2512,2592 2587,2592"/>
                     <TextEquiv>
                         <Unicode>wichtsgrenze für Drucksachen 500 Grm.</Unicode>
                     </TextEquiv>
@@ -955,14 +955,14 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642166270977_5417l1" custom="readingOrder {index:1;}">
                     <Coords points="1940,2694 2028,2694 2100,2695 2300,2699 2858,2711 2858,2736 2590,2738 2469,2738 2116,2729 1940,2719"/>
-                    <Baseline points="1940,2718 1971,2718 1990,2719 2033,2720 2055,2720 2100,2721 2116,2721 2144,2722 2165,2722 2218,2724 2234,2724 2348,2726 2374,2727 2403,2727 2429,2728 2670,2732 2684,2732 2734,2733 2747,2734 2857,2737"/>
+                    <Baseline points="1940,2718 1971,2718 1990,2719 2033,2720 2055,2720 2100,2721 2116,2721 2144,2722 2165,2722 2218,2724 2234,2724 2348,2726 2374,2727 2403,2727 2429,2728 2670,2732 2684,2732 2734,2733 2747,2734 2856,2736"/>
                     <TextEquiv>
                         <Unicode>25 Pf. für je 100 Gramm. — Gewichtsgrenze für Druck-</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="TableCell_1642166270977_5417l2" custom="readingOrder {index:2;}">
                     <Coords points="1940,2735 1988,2728 2005,2728 2522,2738 2548,2768 2537,2766 2522,2769 2449,2769 2226,2766 2051,2764 1940,2752"/>
-                    <Baseline points="1940,2752 2052,2754 2068,2754 2374,2762 2433,2763 2540,2767"/>
+                    <Baseline points="1940,2752 2052,2754 2068,2754 2374,2762 2433,2763 2540,2766"/>
                     <TextEquiv>
                         <Unicode>sachen, Handelspapiere etc. 1 Kilogr.</Unicode>
                     </TextEquiv>
@@ -1057,14 +1057,14 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 <Coords points="1847,2857 1845,2945 2843,2957 2844,2856"/>
                 <TextLine id="TableCell_1642166302010_5465l0" custom="readingOrder {index:0;}">
                     <Coords points="1870,2878 1928,2876 1970,2876 2584,2889 2584,2920 1870,2908"/>
-                    <Baseline points="1872,2903 1910,2902 1928,2902 2126,2906 2142,2906 2213,2908 2234,2908 2307,2910 2319,2910 2370,2911 2394,2911 2470,2913 2490,2913 2520,2913 2540,2914 2585,2914"/>
+                    <Baseline points="1872,2903 1910,2902 1928,2902 2126,2906 2142,2906 2213,2908 2234,2908 2307,2910 2319,2910 2370,2911 2394,2911 2470,2913 2490,2913 2520,2913 2540,2914 2584,2914"/>
                     <TextEquiv>
                         <Unicode>11. Drucksachen über 250 — 500 Grm. 30 Pf.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="TableCell_1642166302010_5465l1" custom="readingOrder {index:1;}">
                     <Coords points="1972,2914 2067,2914 2639,2924 2665,2932 2665,2952 2627,2955 2134,2948 2116,2948 1972,2937"/>
-                    <Baseline points="1973,2939 2217,2943 2238,2944 2284,2944 2301,2945 2497,2948 2517,2948 2570,2949 2590,2949 2661,2950"/>
+                    <Baseline points="1973,2937 2217,2943 2238,2944 2284,2944 2301,2945 2497,2948 2517,2948 2570,2949 2590,2949 2661,2950"/>
                     <TextEquiv>
                         <Unicode>Gewichtsgrenze für Drucksachen 500 Grm.</Unicode>
                     </TextEquiv>
@@ -1231,7 +1231,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642166321821_5537l2" custom="readingOrder {index:2;}">
                     <Coords points="1939,3142 2179,3142 2500,3150 2741,3159 2754,3160 2827,3163 2847,3170 2847,3187 2810,3191 2102,3180 1939,3167"/>
-                    <Baseline points="1940,3169 2269,3176 2432,3179 2845,3185"/>
+                    <Baseline points="1940,3167 2269,3176 2432,3179 2845,3185"/>
                     <TextEquiv>
                         <Unicode>Gewichtsgrenze für beide Correspondenz-Gattungen</Unicode>
                     </TextEquiv>
@@ -1479,14 +1479,14 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 <Coords points="1883,3543 1833,3621 2834,3630 2883,3547"/>
                 <TextLine id="TableCell_1642166356820_5657l2" custom="readingOrder {index:0;}">
                     <Coords points="1862,3546 1923,3547 2099,3547 2804,3563 2840,3572 2840,3590 2771,3591 2066,3582 1862,3577 1861,3550"/>
-                    <Baseline points="1861,3573 2163,3577 2251,3578 2447,3582 2532,3583 2638,3585 2841,3590"/>
+                    <Baseline points="1861,3572 2163,3577 2251,3578 2447,3582 2532,3583 2638,3585 2840,3590"/>
                     <TextEquiv>
                         <Unicode>19. Gewichtsgrenze für Drucksachen 500 Grm. Drucksachen</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="TableCell_1642166356820_5657l3" custom="readingOrder {index:1;}">
                     <Coords points="1930,3585 1948,3584 1963,3584 2478,3590 2818,3599 2842,3600 2842,3629 2774,3629 1931,3613"/>
-                    <Baseline points="1930,3607 2003,3609 2069,3610 2119,3611 2177,3611 2266,3613 2341,3614 2537,3618 2601,3619 2748,3622 2838,3625"/>
+                    <Baseline points="1930,3606 2003,3609 2069,3610 2119,3611 2177,3611 2266,3613 2341,3614 2537,3618 2601,3619 2748,3622 2838,3625"/>
                     <TextEquiv>
                         <Unicode>über 250 bis 500 Grm. ohne Unterschied des Gewichts 30 Pf.</Unicode>
                     </TextEquiv>
@@ -1518,7 +1518,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="line_1644000956883_339" custom="readingOrder {index:3;}">
                     <Coords points="782,3755 842,3754 1019,3752 1297,3750 1321,3750 1380,3751 1378,3790 1127,3796 755,3792 755,3763"/>
-                    <Baseline points="755,3792 915,3790 939,3790 1200,3787 1227,3787 1274,3787 1297,3788 1372,3788 1380,3788"/>
+                    <Baseline points="755,3792 915,3790 939,3790 1200,3787 1227,3787 1274,3787 1297,3788 1372,3788 1378,3787"/>
                     <TextEquiv>
                         <Unicode>nischen Besitzungen an der</Unicode>
                     </TextEquiv>
@@ -1588,7 +1588,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="line_1644001393428_429" custom="readingOrder {index:13;}">
                     <Coords points="1927,3666 2844,3680 2842,3709 1928,3694"/>
-                    <Baseline points="1928,3692 2844,3708"/>
+                    <Baseline points="1928,3692 2842,3707"/>
                     <TextEquiv>
                         <Unicode>und Correcturbogen wie für Drucksachen. — Gewichts-</Unicode>
                     </TextEquiv>
@@ -1609,7 +1609,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="line_1644001522177_447" custom="readingOrder {index:16;}">
                     <Coords points="1957,3766 2837,3782 2839,3815 1955,3800"/>
-                    <Baseline points="1957,3798 2842,3811"/>
+                    <Baseline points="1957,3798 2838,3811"/>
                     <TextEquiv>
                         <Unicode>Nach Gibraltar via England: Gewichtsgrenze für Zei-</Unicode>
                     </TextEquiv>
@@ -1842,7 +1842,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 <Coords points="1828,3973 1817,4710 2827,4719 2832,3972"/>
                 <TextLine id="TableCell_1642166383771_5709l0" custom="readingOrder {index:0;}">
                     <Coords points="1868,3999 2153,4000 2405,4002 2569,4008 2569,4036 2539,4036 1851,4033 1851,3999"/>
-                    <Baseline points="1853,4027 2570,4035"/>
+                    <Baseline points="1853,4027 2569,4035"/>
                     <TextEquiv>
                         <Unicode>21. 1. u. 2. und B. 1. Postkarten 10 Pf.</Unicode>
                     </TextEquiv>
@@ -1870,7 +1870,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642166383771_5709l4" custom="readingOrder {index:4;}">
                     <Coords points="1978,4153 2008,4139 2440,4135 2456,4135 2805,4153 2842,4161 2842,4178 1979,4164"/>
-                    <Baseline points="1983,4164 2291,4170 2637,4178 2709,4176 2732,4177 2835,4179"/>
+                    <Baseline points="1983,4164 2291,4169 2637,4174 2709,4175 2732,4176 2835,4177"/>
                     <TextEquiv>
                         <Unicode>. 2. Drucksachen über 250 — 500 Grm. ohne Unter-</Unicode>
                     </TextEquiv>
@@ -1884,7 +1884,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642166383771_5709l6" custom="readingOrder {index:6;}">
                     <Coords points="1958,4207 2056,4207 2332,4209 2739,4218 2788,4221 2835,4231 2832,4252 2608,4249 2512,4249 2158,4241 2001,4233 1958,4232"/>
-                    <Baseline points="1961,4231 2178,4234 2198,4234 2332,4236 2352,4237 2471,4240 2495,4241 2608,4243 2631,4243 2834,4250"/>
+                    <Baseline points="1961,4231 2178,4234 2198,4234 2332,4236 2352,4237 2471,4240 2495,4241 2608,4243 2631,4243 2832,4249"/>
                     <TextEquiv>
                         <Unicode>* Adrianopel, Antivari, Burgas, Candia, Dardanellen,</Unicode>
                     </TextEquiv>
@@ -1898,7 +1898,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642166383771_5709l8" custom="readingOrder {index:8;}">
                     <Coords points="1923,4276 2036,4276 2200,4277 2618,4281 2802,4290 2837,4299 2837,4317 2724,4321 2058,4308 1923,4301"/>
-                    <Baseline points="1923,4301 1984,4301 2010,4301 2064,4302 2103,4303 2200,4303 2240,4304 2339,4306 2373,4307 2462,4309 2490,4309 2572,4311 2599,4312 2646,4313 2658,4313 2724,4315 2753,4316 2834,4320"/>
+                    <Baseline points="1923,4301 1984,4301 2010,4301 2064,4302 2103,4303 2200,4303 2240,4304 2339,4306 2373,4307 2462,4309 2490,4309 2572,4311 2599,4312 2646,4313 2658,4313 2724,4315 2753,4316 2833,4317"/>
                     <TextEquiv>
                         <Unicode>Tult ha, Varna, Beirut, Caifa, Jaffa, Ineboli, Jeru-</Unicode>
                     </TextEquiv>
@@ -1912,7 +1912,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642166383771_5709l10" custom="readingOrder {index:10;}">
                     <Coords points="1958,4346 2173,4346 2810,4355 2828,4368 2832,4389 2810,4396 2748,4396 1958,4371"/>
-                    <Baseline points="1962,4372 2142,4373 2238,4374 2246,4374 2310,4375 2360,4376 2407,4376 2415,4377 2467,4378 2548,4380 2557,4380 2725,4384 2735,4384 2828,4387"/>
+                    <Baseline points="1962,4371 2142,4373 2238,4374 2246,4374 2310,4375 2360,4376 2407,4376 2415,4377 2467,4378 2548,4380 2557,4380 2725,4384 2735,4384 2828,4387"/>
                     <TextEquiv>
                         <Unicode>B. a. Für Briefe über 15 bis 250 Grm. zweifaches Porto.</Unicode>
                     </TextEquiv>
@@ -1961,7 +1961,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642166383771_5709l17" custom="readingOrder {index:17;}">
                     <Coords points="1919,4587 2019,4587 2181,4588 2358,4590 2674,4598 2813,4602 2833,4610 2833,4635 2722,4635 1931,4620 1919,4614"/>
-                    <Baseline points="1919,4615 2023,4614 2067,4614 2181,4615 2223,4616 2358,4617 2399,4618 2524,4621 2554,4622 2687,4626 2722,4627 2828,4629"/>
+                    <Baseline points="1919,4614 2023,4614 2067,4614 2181,4615 2223,4616 2358,4617 2399,4618 2524,4621 2554,4622 2687,4626 2722,4627 2828,4629"/>
                     <TextEquiv>
                         <Unicode>Ordou, Rhodos, Rodosto, Samsun, Smyrna, Sulina,</Unicode>
                     </TextEquiv>
@@ -2042,14 +2042,14 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 <Coords points="1815,4803 1813,4932 2825,4946 2826,4809"/>
                 <TextLine id="TableCell_1642166393798_5757l0" custom="readingOrder {index:0;}">
                     <Coords points="1842,4831 1907,4829 1932,4829 2256,4831 2274,4839 2274,4864 2241,4864 1907,4863 1842,4856"/>
-                    <Baseline points="1843,4858 1950,4856 2112,4856 2274,4858"/>
+                    <Baseline points="1843,4856 1950,4856 2112,4856 2274,4858"/>
                     <TextEquiv>
                         <Unicode>22. *) Britisch Besitzung.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="TableCell_1642166393798_5757l1" custom="readingOrder {index:1;}">
                     <Coords points="1949,4866 2062,4866 2508,4868 2752,4871 2836,4882 2836,4906 2752,4914 2733,4914 1949,4890"/>
-                    <Baseline points="1950,4891 2310,4894 2508,4898 2551,4899 2606,4900 2637,4901 2829,4904"/>
+                    <Baseline points="1950,4890 2310,4894 2508,4898 2551,4899 2606,4900 2637,4901 2829,4904"/>
                     <TextEquiv>
                         <Unicode>Gewichts renze für Drucksachen und Bücherpost-</Unicode>
                     </TextEquiv>
@@ -2074,7 +2074,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642166399284_5763l1" custom="readingOrder {index:1;}">
                     <Coords points="750,4977 768,4971 816,4969 1021,4968 1053,4968 1113,4969 1113,4994 778,5002 768,5002 750,4995"/>
-                    <Baseline points="752,4995 780,4994 799,4994 867,4994 884,4994 1002,4994 1023,4994 1115,4994"/>
+                    <Baseline points="752,4995 780,4994 799,4994 867,4994 884,4994 1002,4994 1023,4994 1113,4994"/>
                     <TextEquiv>
                         <Unicode>a) über Brindisi direct</Unicode>
                     </TextEquiv>
@@ -2116,7 +2116,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642166399284_5763l7" custom="readingOrder {index:7;}">
                     <Coords points="764,5179 835,5174 1071,5174 1257,5173 1257,5211 1206,5208 1134,5207 765,5204 763,5183"/>
-                    <Baseline points="763,5201 817,5201 835,5200 904,5200 922,5200 973,5200 991,5200 1083,5200 1099,5200 1246,5200"/>
+                    <Baseline points="764,5200 817,5201 835,5200 904,5200 922,5200 973,5200 991,5200 1083,5200 1099,5200 1246,5200"/>
                     <TextEquiv>
                         <Unicode>nur nach den franz. Besitzg. *)</Unicode>
                     </TextEquiv>
@@ -2226,21 +2226,21 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642166399326_5781l3" custom="readingOrder {index:3;}">
                     <Coords points="1914,5052 1984,5051 2182,5051 2239,5052 2271,5059 2284,5070 2281,5079 2182,5084 2087,5084 1930,5078 1914,5076"/>
-                    <Baseline points="1914,5078 1945,5078 1962,5077 2004,5077 2023,5077 2072,5077 2087,5077 2114,5077 2139,5077 2182,5077 2201,5077 2279,5078"/>
+                    <Baseline points="1914,5076 1945,5078 1962,5077 2004,5077 2023,5077 2072,5077 2087,5077 2114,5077 2139,5077 2182,5077 2201,5077 2279,5078"/>
                     <TextEquiv>
                         <Unicode>80 Pf. für je ½ Grm.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="TableCell_1642166399326_5781l4" custom="readingOrder {index:4;}">
                     <Coords points="1946,5087 2036,5086 2194,5086 2321,5087 2614,5090 2671,5101 2685,5113 2681,5121 2671,5126 2534,5126 1964,5118 1946,5111"/>
-                    <Baseline points="1945,5113 1973,5111 1995,5111 2145,5111 2378,5114 2471,5115 2678,5119"/>
+                    <Baseline points="1946,5111 1973,5111 1995,5111 2145,5111 2378,5114 2471,5115 2678,5119"/>
                     <TextEquiv>
                         <Unicode>b) und e) Waarenproben ohne Ermässigung.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="TableCell_1642166399326_5781l5" custom="readingOrder {index:5;}">
                     <Coords points="1945,5134 1945,5122 1992,5121 2233,5121 2373,5122 2726,5126 2761,5138 2761,5157 2707,5157 1962,5154"/>
-                    <Baseline points="1946,5144 1992,5145 2106,5146 2124,5146 2129,5146 2150,5146 2280,5148 2297,5148 2402,5149 2422,5149 2464,5150 2481,5150 2514,5151 2533,5152 2761,5157"/>
+                    <Baseline points="1950,5140 1992,5145 2106,5146 2124,5146 2129,5146 2150,5146 2280,5148 2297,5148 2402,5149 2422,5149 2464,5150 2481,5150 2514,5151 2533,5152 2761,5157"/>
                     <TextEquiv>
                         <Unicode>*) Saigon, ien-Hoa, Mytho, Ile de Poulo-Condor.</Unicode>
                     </TextEquiv>
@@ -2280,7 +2280,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642166403904_5805l1" custom="readingOrder {index:1;}">
                     <Coords points="1909,5282 2080,5282 2476,5284 2768,5292 2789,5293 2826,5301 2826,5320 2698,5320 2338,5317 1909,5313"/>
-                    <Baseline points="1909,5309 2080,5308 2112,5308 2146,5308 2175,5309 2210,5309 2244,5309 2295,5309 2322,5310 2476,5311 2508,5311 2589,5314 2618,5315 2673,5316 2698,5317 2830,5320"/>
+                    <Baseline points="1909,5309 2080,5308 2112,5308 2146,5308 2175,5309 2210,5309 2244,5309 2295,5309 2322,5310 2476,5311 2508,5311 2589,5314 2618,5315 2673,5316 2698,5317 2826,5320"/>
                     <TextEquiv>
                         <Unicode>Kleinasien, Sy en mit Palästina, Sinai und Arabien</Unicode>
                     </TextEquiv>
@@ -2338,7 +2338,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 <Coords points="1807,5343 1805,5436 2821,5443 2822,5353"/>
                 <TextLine id="TableCell_1642166409052_5829l0" custom="readingOrder {index:0;}">
                     <Coords points="1837,5366 1963,5364 2257,5363 2454,5363 2740,5369 2776,5373 2830,5381 2830,5403 2740,5404 2702,5407 2040,5396 1839,5393"/>
-                    <Baseline points="1837,5390 1883,5390 1902,5390 2138,5389 2257,5390 2493,5393 2584,5394 2828,5401"/>
+                    <Baseline points="1838,5389 1883,5390 1902,5390 2138,5389 2257,5390 2493,5393 2584,5394 2828,5401"/>
                     <TextEquiv>
                         <Unicode>25. Gewiehtsgrenze ür Drucksachen und Bücherpostsen-</Unicode>
                     </TextEquiv>
@@ -2370,7 +2370,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642166413240_5835l2" custom="readingOrder {index:2;}">
                     <Coords points="838,5515 867,5508 1120,5506 1174,5506 1208,5514 1208,5533 1173,5539 905,5534 838,5533"/>
-                    <Baseline points="838,5533 889,5533 905,5533 1069,5533 1088,5533 1210,5533"/>
+                    <Baseline points="838,5533 889,5533 905,5533 1069,5533 1088,5533 1208,5533"/>
                     <TextEquiv>
                         <Unicode>mit Britischen Schiffen</Unicode>
                     </TextEquiv>
@@ -2398,7 +2398,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642166413240_5835l5" custom="readingOrder {index:6;}">
                     <Coords points="743,5651 759,5646 790,5644 822,5644 957,5645 1024,5650 1024,5677 770,5678 759,5678 743,5671"/>
-                    <Baseline points="745,5673 856,5673 1016,5675"/>
+                    <Baseline points="745,5672 856,5673 1016,5675"/>
                     <TextEquiv>
                         <Unicode>e) via Frankreich</Unicode>
                     </TextEquiv>
@@ -2519,7 +2519,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642166428353_5859l1" custom="readingOrder {index:1;}">
                     <Coords points="741,5753 758,5747 966,5747 1071,5748 1104,5750 1117,5758 1117,5777 769,5780 758,5780 741,5773"/>
-                    <Baseline points="740,5773 859,5773 876,5773 991,5774 1010,5774 1117,5776"/>
+                    <Baseline points="741,5773 859,5773 876,5773 991,5774 1010,5774 1117,5776"/>
                     <TextEquiv>
                         <Unicode>a) über Brindisi direct:</Unicode>
                     </TextEquiv>
@@ -2540,7 +2540,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642166428353_5859l4" custom="readingOrder {index:4;}">
                     <Coords points="740,5857 787,5851 806,5850 941,5850 961,5853 961,5876 767,5881 758,5881 740,5876"/>
-                    <Baseline points="739,5876 872,5875 961,5875"/>
+                    <Baseline points="740,5876 872,5875 961,5875"/>
                     <TextEquiv>
                         <Unicode>c) über Triest</Unicode>
                     </TextEquiv>
@@ -2554,7 +2554,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642166428353_5859l6" custom="readingOrder {index:6;}">
                     <Coords points="741,5925 759,5921 790,5919 1029,5920 1048,5919 1049,5956 1026,5951 759,5952 741,5945"/>
-                    <Baseline points="741,5945 770,5945 790,5945 837,5945 855,5945 1027,5945 1047,5945 1049,5945"/>
+                    <Baseline points="741,5945 770,5945 790,5945 837,5945 855,5945 1027,5945 1047,5945"/>
                     <TextEquiv>
                         <Unicode>e) via Frankreich †</Unicode>
                     </TextEquiv>
@@ -2582,21 +2582,21 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642166428353_5859l10" custom="readingOrder {index:10;}">
                     <Coords points="784,6057 1111,6054 1226,6056 1282,6059 1285,6077 1284,6086 1281,6091 944,6091 784,6083"/>
-                    <Baseline points="785,6085 1282,6089"/>
+                    <Baseline points="785,6083 1282,6089"/>
                     <TextEquiv>
                         <Unicode>2. Kalgan, Peking u. Tien-Tsin.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="TableCell_1642166428353_5859l11" custom="readingOrder {index:11;}">
                     <Coords points="739,6097 758,6091 808,6090 818,6090 1164,6091 1339,6094 1339,6122 1020,6125 739,6125"/>
-                    <Baseline points="742,6122 1339,6125"/>
+                    <Baseline points="742,6122 1338,6122"/>
                     <TextEquiv>
                         <Unicode>g) via Vereinigte Staaten Amerikas</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="TableCell_1642166428353_5859l12" custom="readingOrder {index:12;}">
                     <Coords points="786,6125 798,6125 971,6126 1036,6127 1053,6134 1053,6153 1036,6159 894,6159 786,6158"/>
-                    <Baseline points="786,6154 1054,6155"/>
+                    <Baseline points="786,6154 1053,6153"/>
                     <TextEquiv>
                         <Unicode>(San Francisco):</Unicode>
                     </TextEquiv>
@@ -2617,7 +2617,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642166428353_5859l15" custom="readingOrder {index:15;}">
                     <Coords points="888,6229 1006,6229 1229,6231 1271,6238 1271,6265 1129,6267 911,6257 888,6255"/>
-                    <Baseline points="888,6258 1269,6260"/>
+                    <Baseline points="888,6255 1269,6260"/>
                     <TextEquiv>
                         <Unicode>Foo Chow Foo, Swatow</Unicode>
                     </TextEquiv>
@@ -2631,21 +2631,21 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642166428353_5859l17" custom="readingOrder {index:17;}">
                     <Coords points="780,6368 843,6367 928,6366 951,6366 1205,6367 1306,6368 1342,6377 1343,6402 1246,6402 1102,6402 780,6394"/>
-                    <Baseline points="781,6400 1340,6399"/>
+                    <Baseline points="781,6394 1340,6399"/>
                     <TextEquiv>
                         <Unicode>2. über Bremen, Hamburg oder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="TableCell_1642166428353_5859l18" custom="readingOrder {index:18;}">
                     <Coords points="822,6402 835,6401 908,6401 942,6410 942,6439 822,6440"/>
-                    <Baseline points="822,6429 944,6431"/>
+                    <Baseline points="822,6429 942,6431"/>
                     <TextEquiv>
                         <Unicode>Stettin:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="TableCell_1642166428353_5859l19" custom="readingOrder {index:19;}">
                     <Coords points="823,6443 884,6436 1086,6435 1108,6435 1318,6437 1338,6445 1338,6476 1170,6471 1151,6471 947,6470 824,6470"/>
-                    <Baseline points="822,6465 1338,6468"/>
+                    <Baseline points="823,6464 1338,6468"/>
                     <TextEquiv>
                         <Unicode>aa. Hongkong, Amoy, Canton,</Unicode>
                     </TextEquiv>
@@ -2691,7 +2691,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="line_1644006161743_1048" custom="readingOrder {index:3;}">
                     <Coords points="1413,5890 1537,5890 1537,5922 1413,5922"/>
-                    <Baseline points="1414,5920 1538,5919"/>
+                    <Baseline points="1414,5920 1537,5919"/>
                     <TextEquiv>
                         <Unicode>Zw. 118</Unicode>
                     </TextEquiv>
@@ -2726,7 +2726,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="line_1644006274328_1078" custom="readingOrder {index:8;}">
                     <Coords points="1405,6301 1528,6301 1528,6337 1405,6337"/>
-                    <Baseline points="1405,6333 1530,6333"/>
+                    <Baseline points="1405,6333 1528,6333"/>
                     <TextEquiv>
                         <Unicode>Zw. 60</Unicode>
                     </TextEquiv>
@@ -2874,7 +2874,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642166428393_5877l2" custom="readingOrder {index:2;}">
                     <Coords points="1940,5780 2111,5779 2284,5778 2301,5778 2561,5780 2712,5782 2818,5785 2818,5811 2712,5817 2641,5817 1960,5813 1940,5806"/>
-                    <Baseline points="1940,5806 1968,5806 1987,5806 2046,5806 2067,5805 2093,5805 2111,5805 2204,5804 2231,5805 2301,5805 2318,5805 2478,5806 2503,5806 2561,5806 2584,5807 2728,5810 2749,5811 2821,5810"/>
+                    <Baseline points="1940,5806 1968,5806 1987,5806 2046,5806 2067,5805 2093,5805 2111,5805 2204,5804 2231,5805 2301,5805 2318,5805 2478,5806 2503,5806 2561,5806 2584,5807 2728,5810 2749,5811 2818,5810"/>
                     <TextEquiv>
                         <Unicode>d) und e) Briefe nach Hongkong und Shanghai auch</Unicode>
                     </TextEquiv>
@@ -2895,7 +2895,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642166428393_5877l5" custom="readingOrder {index:5;}">
                     <Coords points="1938,5884 2021,5883 2630,5883 2647,5893 2647,5918 2467,5918 1953,5917 1938,5908"/>
-                    <Baseline points="1940,5911 1962,5908 2214,5907 2229,5907 2330,5907 2348,5908 2425,5908 2445,5908 2647,5911"/>
+                    <Baseline points="1940,5909 1962,5908 2214,5907 2229,5907 2330,5907 2348,5908 2425,5908 2445,5908 2647,5911"/>
                     <TextEquiv>
                         <Unicode>f) und g) Waarenproben ohne Ermässigung.</Unicode>
                     </TextEquiv>
@@ -2930,7 +2930,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642166428393_5877l10" custom="readingOrder {index:10;}">
                     <Coords points="1938,6055 1970,6054 2200,6054 2470,6055 2633,6056 2813,6060 2813,6087 2470,6090 2457,6090 1938,6080"/>
-                    <Baseline points="1938,6080 2020,6080 2039,6080 2095,6080 2113,6081 2142,6081 2160,6081 2205,6080 2227,6080 2264,6081 2283,6081 2313,6081 2330,6081 2374,6081 2396,6082 2444,6082 2457,6082 2486,6082 2504,6082 2540,6083 2560,6083 2633,6084 2651,6084 2710,6085 2727,6085 2761,6085 2774,6085 2814,6084"/>
+                    <Baseline points="1938,6080 2020,6080 2039,6080 2095,6080 2113,6081 2142,6081 2160,6081 2205,6080 2227,6080 2264,6081 2283,6081 2313,6081 2330,6081 2374,6081 2396,6082 2444,6082 2457,6082 2486,6082 2504,6082 2540,6083 2560,6083 2633,6084 2651,6084 2710,6085 2727,6085 2761,6085 2774,6085 2813,6084"/>
                     <TextEquiv>
                         <Unicode>Porto von 33 Pf. = 15 Pf. für je 50 Grm. und 18 Pf.</Unicode>
                     </TextEquiv>
@@ -2965,7 +2965,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642166428393_5877l15" custom="readingOrder {index:15;}">
                     <Coords points="1902,6232 1927,6225 2093,6225 2128,6232 2128,6251 2093,6258 2069,6258 1938,6251 1902,6249"/>
-                    <Baseline points="1903,6250 1952,6251 1968,6251 2128,6250"/>
+                    <Baseline points="1903,6249 1952,6251 1968,6251 2128,6250"/>
                     <TextEquiv>
                         <Unicode>wie Zeitungen.</Unicode>
                     </TextEquiv>
@@ -3179,7 +3179,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642167583338_7592l2" custom="readingOrder {index:2;}">
                     <Coords points="3001,1308 3008,1308 3499,1312 3549,1314 3560,1333 3560,1338 3549,1345 3472,1345 3281,1343 3061,1339 3000,1339"/>
-                    <Baseline points="3000,1337 3098,1338 3318,1340 3474,1340 3558,1341"/>
+                    <Baseline points="3000,1337 3098,1338 3318,1340 3474,1340 3557,1339"/>
                     <TextEquiv>
                         <Unicode>in Vorder-Indien (ausschl. Ceylon).</Unicode>
                     </TextEquiv>
@@ -3232,7 +3232,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642167583338_7590l5" custom="readingOrder {index:5;}">
                     <Coords points="2998,1593 3016,1591 3063,1587 3171,1587 3218,1588 3218,1611 3023,1615 3016,1615 2998,1611"/>
-                    <Baseline points="2998,1612 3109,1611 3127,1611 3218,1611"/>
+                    <Baseline points="2998,1611 3109,1611 3127,1611 3218,1611"/>
                     <TextEquiv>
                         <Unicode>c) über Triest</Unicode>
                     </TextEquiv>
@@ -3260,7 +3260,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642167583338_7590l9" custom="readingOrder {index:9;}">
                     <Coords points="2995,1756 3014,1756 3552,1759 3588,1766 3600,1774 3600,1780 3588,1788 3379,1794 3356,1794 2932,1787 2930,1752"/>
-                    <Baseline points="2932,1784 3195,1784 3601,1786"/>
+                    <Baseline points="2932,1784 3195,1784 3597,1781"/>
                     <TextEquiv>
                         <Unicode>III. Französische Besitzungen in Vorder-</Unicode>
                     </TextEquiv>
@@ -3274,7 +3274,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642167583338_7590l11" custom="readingOrder {index:11;}">
                     <Coords points="2993,1828 3013,1827 3197,1827 3197,1852 3185,1853 3079,1853 2993,1852"/>
-                    <Baseline points="2993,1852 3059,1852 3079,1852 3197,1853"/>
+                    <Baseline points="2993,1852 3059,1852 3079,1852 3196,1852"/>
                     <TextEquiv>
                         <Unicode>über Brindisi</Unicode>
                     </TextEquiv>
@@ -3399,7 +3399,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 <Coords points="4097,1158 4092,1391 5125,1393 5127,1158"/>
                 <TextLine id="TableCell_1642167583424_7610l0" custom="readingOrder {index:0;}">
                     <Coords points="4097,1250 4308,1250 5013,1256 5028,1258 5067,1265 5081,1269 5081,1279 5067,1285 5013,1290 4949,1290 4340,1284 4115,1276 4097,1274"/>
-                    <Baseline points="4097,1274 4441,1278 4536,1279 4840,1282 5081,1283"/>
+                    <Baseline points="4097,1274 4441,1278 4536,1279 4840,1282 5079,1279"/>
                     <TextEquiv>
                         <Unicode>29. I. Gewichtsgrenze für Drucksachen und Bücherpostsen-</Unicode>
                     </TextEquiv>
@@ -3424,14 +3424,14 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642167583424_7608l1" custom="readingOrder {index:1;}">
                     <Coords points="4201,1457 4268,1457 4533,1459 5078,1464 5078,1493 4827,1495 4815,1495 4219,1488 4201,1481"/>
-                    <Baseline points="4202,1482 4845,1488 5078,1493"/>
+                    <Baseline points="4202,1481 4845,1488 5078,1493"/>
                     <TextEquiv>
                         <Unicode>b) Porto von 105 Pf. = 25 Pf. für je 15 Grm. und</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="TableCell_1642167583424_7608l2" custom="readingOrder {index:2;}">
                     <Coords points="4168,1493 4240,1491 4254,1491 4414,1492 4481,1493 4521,1501 4530,1513 4530,1519 4438,1526 4417,1526 4339,1524 4185,1517 4168,1516"/>
-                    <Baseline points="4168,1516 4200,1516 4219,1516 4258,1517 4278,1517 4324,1517 4339,1517 4367,1518 4388,1519 4438,1520 4459,1520 4532,1521"/>
+                    <Baseline points="4168,1516 4200,1516 4219,1516 4258,1517 4278,1517 4324,1517 4339,1517 4367,1518 4388,1519 4438,1520 4459,1520 4530,1519"/>
                     <TextEquiv>
                         <Unicode>80 Pf. für je 7 ½ Grm.</Unicode>
                     </TextEquiv>
@@ -3452,14 +3452,14 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642167583424_7608l5" custom="readingOrder {index:5;}">
                     <Coords points="4200,1801 4309,1801 4476,1802 4805,1804 4913,1806 5003,1808 5059,1814 5075,1819 5075,1828 5059,1834 4956,1838 4938,1838 4342,1833 4200,1826"/>
-                    <Baseline points="4200,1825 4442,1827 4462,1827 4505,1828 4523,1828 4721,1829 4752,1830 4805,1830 4832,1831 5076,1833"/>
+                    <Baseline points="4200,1825 4442,1827 4462,1827 4505,1828 4523,1828 4721,1829 4752,1830 4805,1830 4832,1831 5074,1828"/>
                     <TextEquiv>
                         <Unicode>Gewichtsgrenze für Drucksachen und Bücherpostsen-</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="TableCell_1642167583424_7608l6" custom="readingOrder {index:6;}">
                     <Coords points="4163,1834 4181,1834 4443,1836 4485,1844 4493,1857 4493,1862 4459,1869 4426,1869 4321,1868 4221,1867 4163,1860"/>
-                    <Baseline points="4161,1861 4271,1861 4291,1861 4343,1861 4360,1861 4493,1862"/>
+                    <Baseline points="4163,1860 4271,1861 4291,1861 4343,1861 4360,1861 4493,1862"/>
                     <TextEquiv>
                         <Unicode>dungen 2 ½ Kilogrm.</Unicode>
                     </TextEquiv>
@@ -3470,7 +3470,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 <Coords points="2898,1873 2896,2051 3617,2057 3618,1882"/>
                 <TextLine id="TableCell_1642167578025_7566l0" custom="readingOrder {index:0;}">
                     <Coords points="2935,1928 3025,1928 3538,1931 3554,1932 3589,1939 3600,1947 3600,1953 3589,1960 3571,1961 3382,1963 3359,1963 2935,1956"/>
-                    <Baseline points="2936,1956 2974,1956 3005,1956 3207,1957 3224,1957 3422,1959 3440,1959 3469,1960 3486,1960 3600,1961"/>
+                    <Baseline points="2936,1956 2974,1956 3005,1956 3207,1957 3224,1957 3422,1959 3440,1959 3469,1960 3486,1960 3596,1955"/>
                     <TextEquiv>
                         <Unicode>IV. Französische Besitzungen in Hinter-</Unicode>
                     </TextEquiv>
@@ -3488,7 +3488,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 <Coords points="3618,1882 3617,2057 3843,2055 3845,1883"/>
                 <TextLine id="TableCell_1642167578051_7572l0" custom="readingOrder {index:0;}">
                     <Coords points="3663,1933 3811,1933 4051,1937 4060,1963 3734,1965 3714,1965 3664,1961"/>
-                    <Baseline points="3661,1958 3766,1959 3781,1959 4059,1962"/>
+                    <Baseline points="3663,1957 3766,1959 3781,1959 4059,1962"/>
                     <TextEquiv>
                         <Unicode>Neapel wie China (No. 27 a.</Unicode>
                     </TextEquiv>
@@ -3524,7 +3524,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 <Coords points="4084,1882 4082,2052 5120,2045 5121,1878"/>
                 <TextLine id="TableCell_1642167578111_7584l0" custom="readingOrder {index:0;}">
                     <Coords points="4089,1936 4172,1936 4929,1942 4966,1951 4966,1969 4615,1973 4537,1973 4255,1971 4175,1969 4104,1963 4089,1961"/>
-                    <Baseline points="4090,1963 4338,1964 4508,1966 4751,1968 4966,1969"/>
+                    <Baseline points="4090,1961 4338,1964 4508,1966 4751,1968 4966,1969"/>
                     <TextEquiv>
                         <Unicode>IV. *) Saigon, Bien-Hoa, Mytho, Ile de Poulo-Condor.</Unicode>
                     </TextEquiv>
@@ -3535,7 +3535,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 <Coords points="2896,2051 2890,2516 3613,2520 3617,2057"/>
                 <TextLine id="TableCell_1642167572846_7542l0" custom="readingOrder {index:0;}">
                     <Coords points="2940,2065 3025,2065 3504,2069 3587,2070 3598,2085 3598,2090 3587,2098 3437,2105 3360,2105 2940,2094"/>
-                    <Baseline points="2940,2093 2970,2093 3005,2093 3253,2096 3278,2096 3471,2098 3494,2098 3535,2098 3554,2098 3598,2097"/>
+                    <Baseline points="2940,2093 2970,2093 3005,2093 3253,2096 3278,2096 3471,2098 3494,2098 3535,2098 3554,2098 3594,2092"/>
                     <TextEquiv>
                         <Unicode>V. Niederländische Besitzungen im In-</Unicode>
                     </TextEquiv>
@@ -3591,14 +3591,14 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642167572846_7542l8" custom="readingOrder {index:8;}">
                     <Coords points="2993,2343 3017,2343 3190,2344 3273,2345 3273,2370 3251,2371 3017,2375 2993,2375"/>
-                    <Baseline points="2993,2369 3017,2369 3042,2369 3086,2369 3103,2369 3274,2372"/>
+                    <Baseline points="2993,2369 3017,2369 3042,2369 3086,2369 3103,2369 3273,2370"/>
                     <TextEquiv>
                         <Unicode>f) via Frankreich</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="TableCell_1642167572846_7542l9" custom="readingOrder {index:9;}">
                     <Coords points="2940,2410 3469,2412 3497,2410 3545,2415 3602,2422 3602,2443 3450,2453 3433,2453 3098,2447 2940,2439"/>
-                    <Baseline points="2940,2439 2978,2439 2998,2439 3426,2443 3433,2443 3464,2444 3470,2444 3597,2445"/>
+                    <Baseline points="2940,2439 2978,2439 2998,2439 3426,2443 3433,2443 3464,2444 3470,2444 3596,2443"/>
                     <TextEquiv>
                         <Unicode>VI. Portugiesische Besitzungen in Vorder-</Unicode>
                     </TextEquiv>
@@ -3644,14 +3644,14 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="line_1644162495998_322" custom="readingOrder {index:3;}">
                     <Coords points="3727,2281 3780,2281 3780,2307 3727,2307"/>
-                    <Baseline points="3726,2305 3776,2305"/>
+                    <Baseline points="3727,2305 3776,2305"/>
                     <TextEquiv>
                         <Unicode>113</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="line_1644162520226_328" custom="readingOrder {index:4;}">
                     <Coords points="3654,2314 3777,2314 3777,2344 3654,2344"/>
-                    <Baseline points="3653,2341 3775,2341"/>
+                    <Baseline points="3654,2341 3775,2341"/>
                     <TextEquiv>
                         <Unicode>Zw. 118</Unicode>
                     </TextEquiv>
@@ -3690,7 +3690,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="line_1644162696396_359" custom="readingOrder {index:2;}">
                     <Coords points="3937,2248 3976,2248 3976,2276 3937,2276"/>
-                    <Baseline points="3936,2273 3972,2273"/>
+                    <Baseline points="3937,2273 3972,2273"/>
                     <TextEquiv>
                         <Unicode>14</Unicode>
                     </TextEquiv>
@@ -3729,7 +3729,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 <Coords points="4082,2052 4075,2524 5117,2524 5120,2045"/>
                 <TextLine id="TableCell_1642167572971_7560l0" custom="readingOrder {index:0;}">
                     <Coords points="4088,2073 4158,2073 5052,2076 5071,2089 5071,2116 5052,2120 5033,2120 4161,2105 4088,2100"/>
-                    <Baseline points="4094,2101 4405,2101 4452,2101 4589,2104 4631,2105 4700,2105 4752,2105 4910,2106 4949,2106 5071,2109"/>
+                    <Baseline points="4094,2100 4405,2101 4452,2101 4589,2104 4631,2105 4700,2105 4752,2105 4910,2106 4949,2106 5071,2109"/>
                     <TextEquiv>
                         <Unicode>V. *) Sunda-Inseln: Sumatra, Java (Batavia), Borneo,</Unicode>
                     </TextEquiv>
@@ -3778,14 +3778,14 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642167572971_7560l7" custom="readingOrder {index:7;}">
                     <Coords points="4195,2315 4208,2315 4500,2318 4534,2326 4534,2344 4445,2349 4387,2349 4210,2348 4195,2328"/>
-                    <Baseline points="4200,2342 4528,2346"/>
+                    <Baseline points="4203,2339 4527,2344"/>
                     <TextEquiv>
                         <Unicode>*) Goa, Daman, Diu.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="TableCell_1642167572971_7560l8" custom="readingOrder {index:8;}">
                     <Coords points="4084,2417 4207,2417 4688,2421 4914,2424 4993,2426 5050,2433 5065,2439 5065,2449 5050,2455 4948,2458 4896,2458 4190,2452 4084,2444"/>
-                    <Baseline points="4084,2443 4130,2443 4153,2443 4390,2446 4425,2447 4471,2447 4494,2447 4688,2449 4735,2449 4791,2450 4822,2450 5069,2453"/>
+                    <Baseline points="4084,2443 4130,2443 4153,2443 4390,2446 4425,2447 4471,2447 4494,2447 4688,2449 4735,2449 4791,2450 4822,2450 5065,2449"/>
                     <TextEquiv>
                         <Unicode>VI. Gewichtsgrenze für Drucksachen und Bücherpostsen-</Unicode>
                     </TextEquiv>
@@ -3877,7 +3877,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="line_1644164581941_445" custom="readingOrder {index:2;}">
                     <Coords points="3648,2731 3771,2731 3771,2758 3648,2758"/>
-                    <Baseline points="3647,2757 3771,2756"/>
+                    <Baseline points="3648,2757 3771,2756"/>
                     <TextEquiv>
                         <Unicode>Zw. 80</Unicode>
                     </TextEquiv>
@@ -3930,7 +3930,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642167567402_7530l4" custom="readingOrder {index:4;}">
                     <Coords points="3931,2802 3967,2800 3981,2800 3981,2826 3963,2826 3931,2826"/>
-                    <Baseline points="3931,2826 3982,2825"/>
+                    <Baseline points="3931,2826 3981,2825"/>
                     <TextEquiv>
                         <Unicode>13*</Unicode>
                     </TextEquiv>
@@ -4155,7 +4155,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642166746357_6419l4" custom="readingOrder {index:4;}">
                     <Coords points="3073,3450 3308,3446 3356,3446 3577,3452 3586,3470 3585,3472 3577,3477 3356,3487 3308,3487 3110,3483 3073,3476"/>
-                    <Baseline points="3073,3476 3212,3476 3222,3476 3283,3476 3294,3476 3367,3476 3368,3476 3580,3477"/>
+                    <Baseline points="3073,3476 3212,3476 3222,3476 3283,3476 3294,3476 3367,3476 3368,3476 3579,3475"/>
                     <TextEquiv>
                         <Unicode>Aegypten etc., sowie Nubien unter-</Unicode>
                     </TextEquiv>
@@ -4176,14 +4176,14 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642166746357_6419l7" custom="readingOrder {index:7;}">
                     <Coords points="3124,3554 3270,3554 3297,3555 3297,3588 3157,3588 3077,3577 3077,3552"/>
-                    <Baseline points="3078,3579 3293,3582"/>
+                    <Baseline points="3078,3577 3293,3582"/>
                     <TextEquiv>
                         <Unicode>— Kartum***)</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="TableCell_1642166746357_6419l8" custom="readingOrder {index:8;}">
                     <Coords points="2970,3587 3000,3587 3167,3588 3223,3589 3240,3598 3240,3615 3000,3620 2989,3620 2970,3613"/>
-                    <Baseline points="2972,3615 3000,3613 3021,3613 3088,3613 3105,3613 3240,3615"/>
+                    <Baseline points="2972,3613 3000,3613 3021,3613 3088,3613 3105,3613 3240,3615"/>
                     <TextEquiv>
                         <Unicode>b) über Brindisi:</Unicode>
                     </TextEquiv>
@@ -4204,7 +4204,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642166746357_6419l11" custom="readingOrder {index:11;}">
                     <Coords points="3062,3691 3331,3687 3348,3687 3531,3693 3576,3701 3576,3712 3558,3717 3547,3718 3348,3727 3331,3727 3098,3723 3062,3717"/>
-                    <Baseline points="3060,3718 3201,3717 3210,3717 3274,3718 3288,3718 3360,3717 3378,3717 3469,3717 3481,3717 3577,3716"/>
+                    <Baseline points="3062,3717 3201,3717 3210,3717 3274,3718 3288,3718 3360,3717 3378,3717 3469,3717 3481,3717 3575,3712"/>
                     <TextEquiv>
                         <Unicode>Aegypten etc., sowie Nubien unter-</Unicode>
                     </TextEquiv>
@@ -4225,7 +4225,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="line_1644165252155_551" custom="readingOrder {index:14;}">
                     <Coords points="3067,3796 3291,3796 3291,3828 3251,3828 3067,3820"/>
-                    <Baseline points="3066,3821 3283,3820"/>
+                    <Baseline points="3067,3820 3283,3820"/>
                     <TextEquiv>
                         <Unicode>— Kartum***)</Unicode>
                     </TextEquiv>
@@ -4246,7 +4246,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642166746357_6419l17" custom="readingOrder {index:17;}">
                     <Coords points="3017,3899 3465,3899 3494,3900 3572,3902 3572,3935 3554,3935 3205,3932 3102,3932 3030,3924 3017,3923"/>
-                    <Baseline points="3019,3925 3092,3924 3120,3924 3196,3925 3225,3925 3310,3925 3323,3925 3390,3925 3411,3925 3465,3925 3477,3925 3568,3927"/>
+                    <Baseline points="3019,3923 3092,3924 3120,3924 3196,3925 3225,3925 3310,3925 3323,3925 3390,3925 3411,3925 3465,3925 3477,3925 3568,3927"/>
                     <TextEquiv>
                         <Unicode>drien, Cairo, Porto Said und Suez.)</Unicode>
                     </TextEquiv>
@@ -4292,7 +4292,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="line_1644165593765_613" custom="readingOrder {index:5;}">
                     <Coords points="3631,3798 3760,3798 3760,3829 3631,3829"/>
-                    <Baseline points="3630,3826 3757,3826"/>
+                    <Baseline points="3631,3826 3757,3826"/>
                     <TextEquiv>
                         <Unicode>Zw. 50</Unicode>
                     </TextEquiv>
@@ -4377,7 +4377,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642166733244_6117l2" custom="readingOrder {index:2;}">
                     <Coords points="4181,3384 4195,3384 4506,3386 4653,3388 4681,3395 4681,3413 4514,3418 4508,3418 4198,3417 4181,3397"/>
-                    <Baseline points="4180,3411 4207,3411 4228,3411 4315,3411 4336,3411 4420,3412 4437,3412 4514,3412 4535,3412 4608,3412 4626,3412 4674,3413"/>
+                    <Baseline points="4187,3404 4207,3411 4228,3411 4315,3411 4336,3411 4420,3412 4437,3412 4514,3412 4535,3412 4608,3412 4626,3412 4674,3413"/>
                     <TextEquiv>
                         <Unicode>*) Cairo, Porto Said, Suez etc.</Unicode>
                     </TextEquiv>
@@ -4560,7 +4560,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642166746407_6435l0" custom="readingOrder {index:1;}">
                     <Coords points="3720,4173 3750,4173 3750,4195 3733,4197 3720,4197"/>
-                    <Baseline points="3720,4197 3750,4196"/>
+                    <Baseline points="3720,4197 3749,4195"/>
                     <TextEquiv>
                         <Unicode>68</Unicode>
                     </TextEquiv>
@@ -4635,7 +4635,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 <Coords points="2868,4296 2865,4479 3589,4482 3591,4297"/>
                 <TextLine id="TableCell_1642166746423_6443l0" custom="readingOrder {index:0;}">
                     <Coords points="2870,4304 2895,4302 3229,4302 3370,4303 3390,4304 3403,4329 3403,4340 3390,4345 3373,4345 2870,4341"/>
-                    <Baseline points="2870,4339 2931,4339 2957,4339 3186,4339 3211,4339 3334,4341 3350,4341 3401,4341"/>
+                    <Baseline points="2870,4339 2931,4339 2957,4339 3186,4339 3211,4339 3334,4341 3350,4341 3400,4340"/>
                     <TextEquiv>
                         <Unicode>37. Canarische Inseln*).</Unicode>
                     </TextEquiv>
@@ -4724,7 +4724,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642166733303_6141l4" custom="readingOrder {index:4;}">
                     <Coords points="4131,4457 4186,4455 4383,4455 4453,4456 4495,4462 4503,4474 4503,4481 4403,4486 4385,4486 4131,4481"/>
-                    <Baseline points="4131,4481 4166,4481 4186,4481 4226,4481 4245,4481 4288,4481 4313,4481 4338,4481 4359,4481 4403,4481 4429,4481 4503,4483"/>
+                    <Baseline points="4131,4481 4166,4481 4186,4481 4226,4481 4245,4481 4288,4481 4313,4481 4338,4481 4359,4481 4403,4481 4429,4481 4502,4481"/>
                     <TextEquiv>
                         <Unicode>43 Pf. für je 7 ½ Grm.</Unicode>
                     </TextEquiv>
@@ -4818,7 +4818,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642166746458_6453l1" custom="readingOrder {index:1;}">
                     <Coords points="3626,4664 3644,4664 3746,4666 3746,4690 3727,4691 3716,4691 3626,4690"/>
-                    <Baseline points="3626,4690 3680,4689 3698,4690 3747,4690"/>
+                    <Baseline points="3626,4690 3680,4689 3698,4690 3746,4690"/>
                     <TextEquiv>
                         <Unicode>Zw. 113</Unicode>
                     </TextEquiv>
@@ -4872,7 +4872,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642166746480_6461l2" custom="readingOrder {index:2;}">
                     <Coords points="2958,4796 3020,4788 3181,4787 3190,4787 3221,4790 3221,4819 3147,4819 2975,4814 2958,4813"/>
-                    <Baseline points="2956,4813 3046,4813 3063,4813 3190,4812 3205,4812 3221,4813"/>
+                    <Baseline points="2958,4813 3046,4813 3063,4813 3190,4812 3205,4812 3221,4813"/>
                     <TextEquiv>
                         <Unicode>a. via Portugal †</Unicode>
                     </TextEquiv>
@@ -4940,14 +4940,14 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642166733341_6159l2" custom="readingOrder {index:2;}">
                     <Coords points="4164,4797 4182,4790 4210,4789 4310,4788 4677,4788 4929,4789 4982,4790 5020,4798 5037,4803 5037,4811 5020,4816 4862,4820 4761,4821 4182,4821 4164,4814"/>
-                    <Baseline points="4164,4814 4190,4814 4210,4814 4289,4814 4310,4814 4354,4814 4373,4814 4507,4814 4521,4814 4578,4814 4594,4814 4862,4814 4879,4814 5040,4815"/>
+                    <Baseline points="4164,4814 4190,4814 4210,4814 4289,4814 4310,4814 4354,4814 4373,4814 4507,4814 4521,4814 4578,4814 4594,4814 4862,4814 4879,4814 5037,4811"/>
                     <TextEquiv>
                         <Unicode>a) Porto für Handels- und Geschäftspapiere, Correctur-</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="TableCell_1642166733341_6159l3" custom="readingOrder {index:3;}">
                     <Coords points="4125,4823 4815,4823 5021,4824 5037,4831 5037,4850 5021,4851 4449,4856 4166,4856 4125,4849"/>
-                    <Baseline points="4125,4849 4216,4849 4227,4848 4280,4848 4291,4848 4479,4848 4492,4848 4541,4848 4555,4848 4602,4848 4615,4848 4815,4848 4833,4849 4861,4849 4881,4849 5040,4848"/>
+                    <Baseline points="4125,4849 4216,4849 4227,4848 4280,4848 4291,4848 4479,4848 4492,4848 4541,4848 4555,4848 4602,4848 4615,4848 4815,4848 4833,4849 4861,4849 4881,4849 5037,4848"/>
                     <TextEquiv>
                         <Unicode>bogen und Manuscripte wie für Drucksachen. — Gewichts-</Unicode>
                     </TextEquiv>
@@ -5084,7 +5084,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 <Coords points="4042,5014 4040,5163 5105,5163 5105,5014"/>
                 <TextLine id="TableCell_1642166733365_6171l0" custom="readingOrder {index:0;}">
                     <Coords points="4054,5033 4073,5031 4168,5029 4347,5028 4400,5028 4964,5029 5010,5030 5032,5037 5032,5058 4993,5063 4902,5063 4136,5062 4054,5055"/>
-                    <Baseline points="4055,5057 4147,5055 4250,5055 4263,5055 4308,5055 4321,5055 4459,5055 4472,5055 4537,5056 4550,5056 4822,5056 4836,5056 5032,5058"/>
+                    <Baseline points="4055,5055 4147,5055 4250,5055 4263,5055 4308,5055 4321,5055 4459,5055 4472,5055 4537,5056 4550,5056 4822,5056 4836,5056 5032,5058"/>
                     <TextEquiv>
                         <Unicode>42. a) Porto für Handels- oder Geschäftspapiere, Manuscripte</Unicode>
                     </TextEquiv>
@@ -5237,14 +5237,14 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642166746555_6485l1" custom="readingOrder {index:1;}">
                     <Coords points="2958,5408 3266,5408 3517,5410 3557,5428 3557,5436 3539,5444 3360,5451 3040,5453 3018,5453 2958,5442"/>
-                    <Baseline points="2958,5442 3118,5443 3140,5442 3171,5442 3189,5442 3360,5443 3391,5443 3464,5444 3480,5444 3555,5443"/>
+                    <Baseline points="2958,5442 3118,5443 3140,5442 3171,5442 3189,5442 3360,5443 3391,5443 3464,5444 3480,5444 3552,5437"/>
                     <TextEquiv>
                         <Unicode>Mayotta u. Zubehör, Ste. Ma-</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="TableCell_1642166746555_6485l2" custom="readingOrder {index:2;}">
                     <Coords points="2958,5465 2977,5454 3178,5453 3355,5453 3508,5455 3556,5467 3556,5489 3355,5498 3224,5498 2958,5488"/>
-                    <Baseline points="2958,5488 3009,5488 3046,5488 3087,5488 3119,5488 3355,5489 3397,5489 3555,5491"/>
+                    <Baseline points="2958,5488 3009,5488 3046,5488 3087,5488 3119,5488 3355,5489 3397,5489 3554,5489"/>
                     <TextEquiv>
                         <Unicode>rie de Madagascar, Réunion</Unicode>
                     </TextEquiv>
@@ -5423,7 +5423,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642166746593_6497l2" custom="readingOrder {index:2;}">
                     <Coords points="2957,5845 2971,5844 3053,5843 3504,5843 3534,5844 3550,5862 3550,5871 3534,5881 3504,5882 3422,5883 2969,5887 2957,5887"/>
-                    <Baseline points="2957,5876 3089,5878 3114,5879 3168,5880 3184,5880 3349,5882 3385,5882 3422,5883 3447,5880 3551,5881"/>
+                    <Baseline points="2957,5876 3089,5878 3114,5879 3168,5880 3184,5880 3349,5882 3385,5882 3422,5883 3447,5880 3546,5873"/>
                     <TextEquiv>
                         <Unicode>(Inseln St. Thomas u. Prin-</Unicode>
                     </TextEquiv>
@@ -5593,7 +5593,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 <Coords points="2850,6134 2849,6263 3570,6263 3571,6134"/>
                 <TextLine id="TableCell_1642166746651_6515l0" custom="readingOrder {index:0;}">
                     <Coords points="2852,6140 2880,6139 3048,6139 3072,6149 3072,6177 2880,6177 2852,6171"/>
-                    <Baseline points="2853,6179 2919,6177 2943,6177 3072,6177"/>
+                    <Baseline points="2854,6171 2919,6177 2943,6177 3072,6177"/>
                     <TextEquiv>
                         <Unicode>49. Tunis.</Unicode>
                     </TextEquiv>
@@ -5654,7 +5654,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 <Coords points="4026,6134 4025,6263 5102,6263 5102,6134"/>
                 <TextLine id="TableCell_1642166733475_6213l1" custom="readingOrder {index:0;}">
                     <Coords points="4039,6155 4155,6153 4415,6152 4457,6152 4567,6153 4614,6154 4689,6161 4699,6173 4699,6181 4689,6188 4552,6188 4181,6187 4120,6186 4039,6180"/>
-                    <Baseline points="4041,6182 4379,6180 4397,6180 4473,6180 4490,6180 4699,6181"/>
+                    <Baseline points="4041,6180 4379,6180 4397,6180 4473,6180 4490,6180 4699,6181"/>
                     <TextEquiv>
                         <Unicode>49. a) Waarenproben ohne Ermässigung.</Unicode>
                     </TextEquiv>
@@ -5693,7 +5693,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642166746670_6521l4" custom="readingOrder {index:4;}">
                     <Coords points="2993,6415 3036,6414 3140,6414 3499,6416 3549,6424 3549,6441 3466,6448 3256,6448 3111,6447 2993,6441"/>
-                    <Baseline points="2993,6441 3017,6441 3036,6440 3164,6440 3175,6440 3282,6441 3293,6441 3466,6442 3478,6442 3548,6442"/>
+                    <Baseline points="2993,6441 3017,6441 3036,6440 3164,6440 3175,6440 3282,6441 3293,6441 3466,6442 3478,6442 3547,6441"/>
                     <TextEquiv>
                         <Unicode>2. Badagry, Bonny, Camerones, Fer-</Unicode>
                     </TextEquiv>
@@ -5707,7 +5707,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642166746670_6521l6" custom="readingOrder {index:6;}">
                     <Coords points="3036,6489 3049,6483 3130,6486 3129,6502 3125,6517 3036,6509"/>
-                    <Baseline points="3036,6509 3128,6511"/>
+                    <Baseline points="3036,6509 3126,6510"/>
                     <TextEquiv>
                         <Unicode>etc. †</Unicode>
                     </TextEquiv>
@@ -5782,7 +5782,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 <Coords points="4025,6263 4020,6586 5101,6586 5102,6263"/>
                 <TextLine id="TableCell_1642166733491_6219l0" custom="readingOrder {index:0;}">
                     <Coords points="4038,6281 4100,6278 4217,6277 4227,6277 4845,6280 4845,6308 4736,6314 4700,6314 4100,6313 4038,6306"/>
-                    <Baseline points="4039,6307 4079,6306 4100,6305 4127,6305 4150,6305 4227,6305 4248,6305 4346,6305 4367,6305 4408,6305 4428,6305 4521,6306 4540,6306 4637,6307 4655,6307 4776,6307 4792,6307 4845,6308"/>
+                    <Baseline points="4039,6306 4079,6306 4100,6305 4127,6305 4150,6305 4227,6305 4248,6305 4346,6305 4367,6305 4408,6305 4428,6305 4521,6306 4540,6306 4637,6307 4655,6307 4776,6307 4792,6307 4845,6308"/>
                     <TextEquiv>
                         <Unicode>50. *) Insel Gorée, St. Louis, Bakel, Dagana etc.</Unicode>
                     </TextEquiv>
@@ -5807,14 +5807,14 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642166746688_6527l1" custom="readingOrder {index:1;}">
                     <Coords points="2937,6649 2955,6643 3212,6643 3251,6646 3250,6678 3233,6674 2955,6673 2937,6666"/>
-                    <Baseline points="2937,6666 2965,6667 2985,6667 3031,6667 3050,6668 3212,6670 3233,6670 3251,6670"/>
+                    <Baseline points="2937,6666 2965,6667 2985,6667 3031,6667 3050,6668 3212,6670 3233,6670 3250,6669"/>
                     <TextEquiv>
                         <Unicode>a) via Frankreich †</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="TableCell_1642166746688_6527l2" custom="readingOrder {index:2;}">
                     <Coords points="2936,6675 3545,6673 3547,6714 3531,6713 2955,6709 2936,6702"/>
-                    <Baseline points="2936,6702 2966,6702 2985,6703 3052,6703 3070,6703 3185,6704 3237,6704 3302,6705 3317,6705 3397,6705 3411,6705 3565,6705"/>
+                    <Baseline points="2936,6702 2966,6702 2985,6703 3052,6703 3070,6703 3185,6704 3237,6704 3302,6705 3317,6705 3397,6705 3411,6705 3546,6705"/>
                     <TextEquiv>
                         <Unicode>b) über Brindisi † (mit Brit. Schiffen)</Unicode>
                     </TextEquiv>
@@ -5850,7 +5850,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="line_1644168240479_1099" custom="readingOrder {index:1;}">
                     <Coords points="3880,6680 3925,6680 3925,6713 3880,6713"/>
-                    <Baseline points="3879,6711 3920,6710"/>
+                    <Baseline points="3880,6711 3920,6710"/>
                     <TextEquiv>
                         <Unicode>18</Unicode>
                     </TextEquiv>
@@ -5861,7 +5861,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 <Coords points="4020,6586 4018,6726 5101,6725 5101,6586"/>
                 <TextLine id="TableCell_1642166733509_6225l0" custom="readingOrder {index:0;}">
                     <Coords points="4033,6613 4146,6610 4627,6610 4680,6620 4689,6630 4689,6636 4680,6650 4175,6650 4115,6649 4034,6642"/>
-                    <Baseline points="4031,6639 4076,6639 4096,6639 4124,6639 4146,6639 4370,6637 4390,6637 4465,6637 4484,6637 4686,6640"/>
+                    <Baseline points="4033,6638 4076,6639 4096,6639 4124,6639 4146,6639 4370,6637 4390,6637 4465,6637 4484,6637 4686,6640"/>
                     <TextEquiv>
                         <Unicode>51. a) Waarenproben ohne Ermässigung.</Unicode>
                     </TextEquiv>
@@ -5904,7 +5904,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="line_1644237803168_33" custom="readingOrder {index:1;}">
                     <Coords points="6134,649 6206,656 6208,682 6134,682"/>
-                    <Baseline points="6134,677 6208,677"/>
+                    <Baseline points="6134,677 6207,677"/>
                     <TextEquiv>
                         <Unicode>liche</Unicode>
                     </TextEquiv>
@@ -5940,7 +5940,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 <Coords points="6286,598 6280,802 6509,807 6515,602"/>
                 <TextLine id="line_1644238060195_65" custom="readingOrder {index:0;}">
                     <Coords points="6344,601 6448,603 6449,635 6344,634"/>
-                    <Baseline points="6344,629 6449,630"/>
+                    <Baseline points="6344,629 6448,630"/>
                     <TextEquiv>
                         <Unicode>Druck-</Unicode>
                     </TextEquiv>
@@ -5961,7 +5961,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="line_1644238086639_80" custom="readingOrder {index:3;}">
                     <Coords points="6335,704 6459,715 6460,739 6334,737"/>
-                    <Baseline points="6338,732 6460,734"/>
+                    <Baseline points="6338,732 6459,734"/>
                     <TextEquiv>
                         <Unicode>Waaren-</Unicode>
                     </TextEquiv>
@@ -6033,7 +6033,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642167077543_7012l4" custom="readingOrder {index:4;}">
                     <Coords points="5416,1138 5433,1131 5461,1130 5567,1128 5642,1128 5679,1134 5678,1153 5642,1160 5433,1160 5416,1155"/>
-                    <Baseline points="5416,1155 5441,1155 5461,1155 5508,1154 5527,1154 5642,1154 5676,1156"/>
+                    <Baseline points="5416,1155 5441,1155 5461,1155 5508,1154 5527,1154 5642,1154 5675,1153"/>
                     <TextEquiv>
                         <Unicode>c) via Belgien †</Unicode>
                     </TextEquiv>
@@ -6129,7 +6129,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642167077632_7030l2" custom="readingOrder {index:2;}">
                     <Coords points="6622,1064 6652,1064 6785,1066 6827,1068 6865,1076 6873,1087 6873,1094 6785,1100 6753,1100 6682,1098 6622,1090"/>
-                    <Baseline points="6622,1089 6668,1090 6682,1090 6875,1093"/>
+                    <Baseline points="6622,1089 6668,1090 6682,1090 6873,1093"/>
                     <TextEquiv>
                         <Unicode>für je 7 ½ Grm.</Unicode>
                     </TextEquiv>
@@ -6140,7 +6140,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 <Coords points="5263,1210 5261,1382 6031,1394 6034,1222"/>
                 <TextLine id="TableCell_1642167074244_6988l0" custom="readingOrder {index:0;}">
                     <Coords points="5326,1223 5353,1222 5494,1219 5746,1219 5771,1230 5771,1257 5746,1261 5445,1261 5326,1260"/>
-                    <Baseline points="5328,1261 5387,1260 5411,1260 5771,1257"/>
+                    <Baseline points="5328,1260 5387,1260 5411,1260 5771,1257"/>
                     <TextEquiv>
                         <Unicode>53. Bermudas-Inseln.</Unicode>
                     </TextEquiv>
@@ -6240,14 +6240,14 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642167070828_6964l3" custom="readingOrder {index:3;}">
                     <Coords points="5408,1518 5424,1513 5476,1512 5840,1508 5971,1508 6018,1511 6018,1540 5653,1543 5424,1543 5408,1536"/>
-                    <Baseline points="5405,1537 5433,1536 5457,1536 5503,1536 5523,1536 5685,1536 5705,1536 5819,1534 5840,1533 5987,1532 6002,1532 6018,1532"/>
+                    <Baseline points="5408,1536 5433,1536 5457,1536 5503,1536 5523,1536 5685,1536 5705,1536 5819,1534 5840,1533 5987,1532 6002,1532 6018,1532"/>
                     <TextEquiv>
                         <Unicode>c) via Vereinigte Staaten Amerikas †</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="TableCell_1642167070828_6964l4" custom="readingOrder {index:4;}">
                     <Coords points="5458,1549 5520,1546 5894,1542 5927,1542 5927,1568 5722,1571 5631,1572 5597,1572 5458,1571"/>
-                    <Baseline points="5458,1571 5481,1571 5502,1571 5571,1570 5597,1571 5661,1571 5685,1570 5742,1570 5768,1569 5928,1569"/>
+                    <Baseline points="5458,1571 5481,1571 5502,1571 5571,1570 5597,1571 5661,1571 5685,1570 5742,1570 5768,1569 5927,1568"/>
                     <TextEquiv>
                         <Unicode>1. über Cöln und New-York</Unicode>
                     </TextEquiv>
@@ -6371,7 +6371,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 <Coords points="6495,1402 6487,1774 7477,1780 7485,1418"/>
                 <TextLine id="TableCell_1642167070907_6982l0" custom="readingOrder {index:0;}">
                     <Coords points="6507,1419 6521,1419 6743,1420 7489,1430 7490,1461 7397,1463 7231,1464 7220,1464 6584,1451 6507,1445"/>
-                    <Baseline points="6507,1444 6549,1444 6569,1445 6595,1445 6617,1445 6641,1445 6661,1446 6743,1447 6777,1447 6830,1448 6859,1448 6890,1449 6911,1449 6956,1450 6977,1451 7008,1452 7027,1452 7055,1453 7076,1453 7121,1454 7152,1455 7198,1456 7220,1456 7250,1457 7271,1457 7304,1458 7324,1458 7485,1462"/>
+                    <Baseline points="6507,1444 6549,1444 6569,1445 6595,1445 6617,1445 6641,1445 6661,1446 6743,1447 6777,1447 6830,1448 6859,1448 6890,1449 6911,1449 6956,1450 6977,1451 7008,1452 7027,1452 7055,1453 7076,1453 7121,1454 7152,1455 7198,1456 7220,1456 7250,1457 7271,1457 7304,1458 7324,1458 7484,1461"/>
                     <TextEquiv>
                         <Unicode>54. c) 1. Porto von 58 Pf. = 15 Pf. für je 50 Grm. und</Unicode>
                     </TextEquiv>
@@ -6413,7 +6413,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642167070907_6982l6" custom="readingOrder {index:6;}">
                     <Coords points="6609,1627 6661,1627 6765,1628 7486,1636 7484,1666 7396,1669 7218,1670 7206,1670 6881,1663 6609,1652"/>
-                    <Baseline points="6609,1651 6693,1652 6720,1653 6765,1654 6786,1654 6939,1656 6959,1657 6991,1658 7012,1659 7040,1659 7059,1660 7104,1660 7134,1661 7181,1661 7206,1662 7237,1662 7269,1663 7302,1663 7322,1664 7481,1667"/>
+                    <Baseline points="6609,1651 6693,1652 6720,1653 6765,1654 6786,1654 6939,1656 6959,1657 6991,1658 7012,1659 7040,1659 7059,1660 7104,1660 7134,1661 7181,1661 7206,1662 7237,1662 7269,1663 7302,1663 7322,1664 7480,1666"/>
                     <TextEquiv>
                         <Unicode>Porto für Zeitungen = 10 Pf. für je 50 Grm. und</Unicode>
                     </TextEquiv>
@@ -6513,7 +6513,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642167067474_6958l1" custom="readingOrder {index:1;}">
                     <Coords points="6566,1839 6605,1833 6621,1833 7177,1840 7344,1845 7463,1851 7481,1855 7481,1869 7462,1874 7394,1877 7376,1877 6663,1868 6566,1857"/>
-                    <Baseline points="6566,1857 6621,1858 6642,1858 6827,1862 6847,1862 6897,1863 6922,1863 6970,1864 6991,1865 7198,1867 7235,1868 7478,1870"/>
+                    <Baseline points="6566,1857 6621,1858 6642,1858 6827,1862 6847,1862 6897,1863 6922,1863 6970,1864 6991,1865 7198,1867 7235,1868 7477,1869"/>
                     <TextEquiv>
                         <Unicode>und Manuscripte wie für Drucksachen. Gewichtsgrenze</Unicode>
                     </TextEquiv>
@@ -6559,14 +6559,14 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642167063570_6916l3" custom="readingOrder {index:4;}">
                     <Coords points="5492,2063 5514,2062 5735,2062 5797,2069 5797,2086 5735,2092 5590,2092 5492,2087"/>
-                    <Baseline points="5492,2087 5541,2087 5590,2087 5792,2087"/>
+                    <Baseline points="5492,2087 5541,2087 5590,2087 5791,2086"/>
                     <TextEquiv>
                         <Unicode>bia (Vancouvers-</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="TableCell_1642167063570_6916l4" custom="readingOrder {index:5;}">
                     <Coords points="5493,2098 5552,2096 5785,2096 5792,2101 5793,2112 5783,2126 5733,2128 5711,2128 5573,2128 5493,2122"/>
-                    <Baseline points="5493,2122 5591,2120 5605,2120 5678,2119 5760,2121 5787,2124"/>
+                    <Baseline points="5493,2122 5591,2120 5605,2120 5678,2119 5760,2121 5785,2122"/>
                     <TextEquiv>
                         <Unicode>Insel), Neu-Schott-</Unicode>
                     </TextEquiv>
@@ -6650,7 +6650,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642167063570_6916l11" custom="readingOrder {index:17;}">
                     <Coords points="5444,2342 5456,2341 5685,2338 5720,2339 5756,2339 5788,2339 5782,2369 5453,2371 5444,2371"/>
-                    <Baseline points="5444,2365 5634,2362 5652,2362 5664,2362 5685,2362 5701,2363 5715,2363 5729,2364 5749,2364 5784,2363"/>
+                    <Baseline points="5444,2365 5634,2362 5652,2362 5664,2362 5685,2362 5701,2363 5715,2363 5729,2364 5749,2364 5783,2362"/>
                     <TextEquiv>
                         <Unicode>(Vancouvers-Insel),</Unicode>
                     </TextEquiv>
@@ -6785,7 +6785,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 <Coords points="5250,2446 5249,2626 6007,2637 6010,2457"/>
                 <TextLine id="TableCell_1642167056459_6892l0" custom="readingOrder {index:0;}">
                     <Coords points="5303,2470 5329,2468 5828,2463 5986,2463 5996,2488 5996,2498 5986,2505 5826,2509 5752,2509 5303,2506"/>
-                    <Baseline points="5303,2506 5361,2506 5374,2506 5467,2503 5476,2503 5543,2500 5554,2502 5826,2501 5828,2501 5995,2501"/>
+                    <Baseline points="5303,2506 5361,2506 5374,2506 5467,2503 5476,2503 5543,2500 5554,2502 5826,2501 5828,2501 5993,2499"/>
                     <TextEquiv>
                         <Unicode>57. Chili mit Araukania (Valdivia).</Unicode>
                     </TextEquiv>
@@ -6806,7 +6806,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642167056459_6892l3" custom="readingOrder {index:3;}">
                     <Coords points="5386,2584 5591,2581 5882,2581 5937,2580 5936,2607 5861,2612 5415,2617 5407,2617 5386,2609"/>
-                    <Baseline points="5386,2610 5415,2610 5443,2609 5511,2608 5532,2608 5571,2607 5591,2607 5701,2605 5720,2605 5785,2605 5803,2605 5932,2605"/>
+                    <Baseline points="5386,2609 5415,2610 5443,2609 5511,2608 5532,2608 5571,2607 5591,2607 5701,2605 5720,2605 5785,2605 5803,2605 5932,2605"/>
                     <TextEquiv>
                         <Unicode>b) über St. Nazaire oder England</Unicode>
                     </TextEquiv>
@@ -6885,7 +6885,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 <Coords points="5249,2626 5242,3295 5994,3300 6007,2637"/>
                 <TextLine id="TableCell_1642167051782_6868l0" custom="readingOrder {index:0;}">
                     <Coords points="5300,2642 5327,2641 5604,2637 5829,2636 5856,2636 5946,2637 5999,2646 5999,2673 5776,2682 5592,2685 5528,2685 5327,2679 5300,2678"/>
-                    <Baseline points="5303,2680 5362,2679 5387,2678 5592,2675 5604,2675 5816,2674 5829,2674 5995,2672"/>
+                    <Baseline points="5303,2678 5362,2679 5387,2678 5592,2675 5604,2675 5816,2674 5829,2674 5995,2672"/>
                     <TextEquiv>
                         <Unicode>58. Columbia, Vereinigte Staaten</Unicode>
                     </TextEquiv>
@@ -6927,7 +6927,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642167051782_6868l6" custom="readingOrder {index:6;}">
                     <Coords points="5504,2873 5524,2872 5591,2869 5629,2868 5890,2867 5927,2867 5927,2893 5540,2897 5524,2897 5504,2896"/>
-                    <Baseline points="5505,2897 5573,2895 5591,2895 5656,2893 5684,2893 5738,2893 5756,2893 5923,2892"/>
+                    <Baseline points="5505,2896 5573,2895 5591,2895 5656,2893 5684,2893 5738,2893 5756,2893 5923,2892"/>
                     <TextEquiv>
                         <Unicode>über Cöln und New-York</Unicode>
                     </TextEquiv>
@@ -6941,7 +6941,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642167051782_6868l8" custom="readingOrder {index:8;}">
                     <Coords points="5542,2975 5604,2973 5709,2971 5902,2971 5904,2999 5649,3003 5543,3004"/>
-                    <Baseline points="5542,2999 5645,2997 5671,2996 5725,2996 5744,2996 5900,2995"/>
+                    <Baseline points="5542,2998 5645,2997 5671,2996 5725,2996 5744,2996 5900,2995"/>
                     <TextEquiv>
                         <Unicode>Stettin und New-York</Unicode>
                     </TextEquiv>
@@ -6955,14 +6955,14 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642167051782_6868l10" custom="readingOrder {index:10;}">
                     <Coords points="5502,3081 5522,3079 5590,3077 5756,3074 5922,3074 5922,3099 5882,3100 5503,3107"/>
-                    <Baseline points="5502,3103 5570,3102 5590,3102 5654,3101 5681,3100 5735,3100 5756,3100 5918,3099"/>
+                    <Baseline points="5502,3102 5570,3102 5590,3102 5654,3101 5681,3100 5735,3100 5756,3100 5918,3099"/>
                     <TextEquiv>
                         <Unicode>über Cöln und New-York</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="TableCell_1642167051782_6868l11" custom="readingOrder {index:11;}">
                     <Coords points="5501,3149 5520,3147 5594,3145 5747,3143 5930,3142 5971,3142 5989,3150 5989,3166 5971,3168 5888,3174 5691,3174 5501,3172"/>
-                    <Baseline points="5501,3172 5570,3171 5594,3170 5716,3168 5747,3168 5888,3167 5985,3169"/>
+                    <Baseline points="5501,3172 5570,3171 5594,3170 5716,3168 5747,3168 5888,3167 5984,3166"/>
                     <TextEquiv>
                         <Unicode>über Bremen, Hamburg oder</Unicode>
                     </TextEquiv>
@@ -6987,7 +6987,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 <Coords points="6007,2637 5994,3300 6221,3302 6236,2640"/>
                 <TextLine id="line_1644240239026_554" custom="readingOrder {index:0;}">
                     <Coords points="6057,2737 6181,2739 6181,2772 6057,2770"/>
-                    <Baseline points="6056,2767 6180,2769"/>
+                    <Baseline points="6057,2767 6180,2769"/>
                     <TextEquiv>
                         <Unicode>Zw. 118</Unicode>
                     </TextEquiv>
@@ -7128,21 +7128,21 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642167051853_6886l1" custom="readingOrder {index:1;}">
                     <Coords points="6585,2710 6601,2703 6713,2703 6900,2706 7456,2715 7456,2745 7135,2743 7124,2743 6601,2735 6585,2727"/>
-                    <Baseline points="6585,2729 6612,2727 6633,2728 6647,2728 6667,2728 6747,2729 6759,2729 6814,2730 6825,2730 6853,2731 6863,2731 6905,2732 6968,2732 6997,2733 7007,2733 7046,2734 7066,2734 7114,2735 7124,2736 7155,2736 7167,2736 7201,2737 7213,2737 7285,2738 7298,2739 7355,2740 7366,2740 7397,2741 7409,2741 7455,2739"/>
+                    <Baseline points="6585,2727 6612,2727 6633,2728 6647,2728 6667,2728 6747,2729 6759,2729 6814,2730 6825,2730 6853,2731 6863,2731 6905,2732 6968,2732 6997,2733 7007,2733 7046,2734 7066,2734 7114,2735 7124,2736 7155,2736 7167,2736 7201,2737 7213,2737 7285,2738 7298,2739 7355,2740 7366,2740 7397,2741 7409,2741 7455,2739"/>
                     <TextEquiv>
                         <Unicode>c) 1 Porto von 33 Pf. = 15 Pf. für je 50 Grm. und 18 Pf.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="TableCell_1642167051853_6886l2" custom="readingOrder {index:2;}">
                     <Coords points="6549,2733 6580,2733 7436,2747 7455,2756 7455,2773 7436,2780 7423,2780 7101,2775 6616,2767 6549,2759"/>
-                    <Baseline points="6549,2760 6594,2761 6616,2761 6648,2762 6670,2762 6717,2763 6740,2763 6815,2764 6849,2765 6934,2766 6950,2766 6994,2767 7013,2767 7170,2770 7190,2771 7223,2771 7245,2772 7274,2772 7294,2772 7336,2773 7362,2774 7407,2774 7423,2775 7455,2775"/>
+                    <Baseline points="6549,2759 6594,2761 6616,2761 6648,2762 6670,2762 6717,2763 6740,2763 6815,2764 6849,2765 6934,2766 6950,2766 6994,2767 7013,2767 7170,2770 7190,2771 7223,2771 7245,2772 7274,2772 7294,2772 7336,2773 7362,2774 7407,2774 7423,2775 7454,2773"/>
                     <TextEquiv>
                         <Unicode>für je 113 Grm. Porto für Zeitungen = 15 Pf. für je</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="TableCell_1642167051853_6886l3" custom="readingOrder {index:3;}">
                     <Coords points="6551,2772 6598,2771 6911,2775 7454,2785 7455,2815 6916,2808 6567,2796 6551,2794"/>
-                    <Baseline points="6551,2794 6583,2795 6598,2795 6670,2796 6690,2797 6744,2798 6757,2798 6789,2798 6798,2798 6839,2799 6856,2799 6911,2800 6940,2801 6943,2801 6954,2801 7000,2802 7012,2802 7082,2803 7099,2803 7127,2804 7142,2804 7228,2806 7247,2807 7299,2808 7319,2808 7350,2809 7365,2809 7431,2810 7452,2811 7455,2811"/>
+                    <Baseline points="6551,2794 6583,2795 6598,2795 6670,2796 6690,2797 6744,2798 6757,2798 6789,2798 6798,2798 6839,2799 6856,2799 6911,2800 6940,2801 6943,2801 6954,2801 7000,2802 7012,2802 7082,2803 7099,2803 7127,2804 7142,2804 7228,2806 7247,2807 7299,2808 7319,2808 7350,2809 7365,2809 7431,2810 7452,2811"/>
                     <TextEquiv>
                         <Unicode>50 Grm. und 10 Pf. für je 113 Grm. — Porto von 28 Pf. =</Unicode>
                     </TextEquiv>
@@ -7223,7 +7223,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642167047597_6844l5" custom="readingOrder {index:5;}">
                     <Coords points="5425,3529 5487,3526 5735,3523 5914,3522 5947,3522 5978,3530 5981,3550 5877,3554 5694,3554 5425,3553"/>
-                    <Baseline points="5425,3553 5449,3552 5468,3552 5537,3551 5574,3551 5700,3549 5735,3548 5981,3548"/>
+                    <Baseline points="5425,3553 5449,3552 5468,3552 5537,3551 5574,3551 5700,3549 5735,3548 5980,3548"/>
                     <TextEquiv>
                         <Unicode>2. über Bremen, Hamburg oder</Unicode>
                     </TextEquiv>
@@ -7528,14 +7528,14 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 <Coords points="5235,4051 5234,4154 5979,4163 5980,4062"/>
                 <TextLine id="TableCell_1642167035354_6796l0" custom="readingOrder {index:0;}">
                     <Coords points="5275,4068 5301,4067 5448,4064 5684,4064 5725,4073 5725,4100 5661,4103 5298,4105 5275,4105"/>
-                    <Baseline points="5275,4105 5328,4104 5352,4103 5720,4101"/>
+                    <Baseline points="5275,4105 5328,4104 5352,4103 5719,4100"/>
                     <TextEquiv>
                         <Unicode>61. Falklands-Inseln.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="TableCell_1642167035354_6796l1" custom="readingOrder {index:1;}">
                     <Coords points="5360,4113 5387,4113 5559,4112 5561,4137 5478,4146 5387,4138 5360,4138"/>
-                    <Baseline points="5365,4139 5554,4136"/>
+                    <Baseline points="5365,4138 5554,4136"/>
                     <TextEquiv>
                         <Unicode>via England</Unicode>
                     </TextEquiv>
@@ -7593,7 +7593,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642167030951_6772l2" custom="readingOrder {index:2;}">
                     <Coords points="5355,4258 5416,4250 5471,4249 5633,4249 5791,4250 5885,4251 5971,4258 5971,4275 5851,4281 5846,4281 5551,4280 5355,4275"/>
-                    <Baseline points="5355,4274 5404,4274 5416,4274 5716,4273 5731,4274 5851,4274 5863,4274 5965,4276"/>
+                    <Baseline points="5355,4274 5404,4274 5416,4274 5716,4273 5731,4274 5851,4274 5863,4274 5964,4275"/>
                     <TextEquiv>
                         <Unicode>aus Schleswig-Holstein, Lübeck, Trave-</Unicode>
                     </TextEquiv>
@@ -7647,7 +7647,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 <Coords points="6435,4169 6432,4343 7427,4347 7430,4182"/>
                 <TextLine id="TableCell_1642167031029_6790l0" custom="readingOrder {index:0;}">
                     <Coords points="6454,4191 6472,4190 6606,4190 7394,4203 7434,4205 7434,4230 7302,4230 7224,4229 6998,4226 6472,4215 6454,4214"/>
-                    <Baseline points="6453,4216 6527,4215 6619,4216 6638,4217 6705,4218 6728,4218 6760,4219 6801,4219 6848,4220 6864,4220 6941,4222 6971,4222 7133,4226 7153,4226 7247,4228 7278,4229 7435,4230"/>
+                    <Baseline points="6454,4214 6527,4215 6619,4216 6638,4217 6705,4218 6728,4218 6760,4219 6801,4219 6848,4220 6864,4220 6941,4222 6971,4222 7133,4226 7153,4226 7247,4228 7278,4229 7434,4230"/>
                     <TextEquiv>
                         <Unicode>62. Briefe über 15 — 250 Grm. zweifaches Porto. Gewichts-</Unicode>
                     </TextEquiv>
@@ -7693,7 +7693,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642167026565_6748l4" custom="readingOrder {index:4;}">
                     <Coords points="5404,4493 5467,4490 5483,4490 5850,4491 5850,4515 5795,4517 5621,4521 5405,4520"/>
-                    <Baseline points="5404,4516 5427,4516 5449,4515 5514,4515 5534,4516 5600,4516 5620,4516 5674,4517 5694,4517 5845,4515"/>
+                    <Baseline points="5404,4515 5427,4516 5449,4515 5514,4515 5534,4516 5600,4516 5620,4516 5674,4517 5694,4517 5845,4515"/>
                     <TextEquiv>
                         <Unicode>1. über Cöln und New-York</Unicode>
                     </TextEquiv>
@@ -7817,28 +7817,28 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 <Coords points="6432,4343 6424,4726 7419,4744 7427,4347"/>
                 <TextLine id="TableCell_1642167026647_6766l0" custom="readingOrder {index:0;}">
                     <Coords points="6449,4363 6720,4363 6939,4366 7407,4376 7430,4383 7431,4406 7332,4402 6538,4394 6449,4387"/>
-                    <Baseline points="6452,4388 7429,4402"/>
+                    <Baseline points="6452,4387 7429,4402"/>
                     <TextEquiv>
                         <Unicode>63. c) Gedruckte Preiscourante und Handels-Circulare wie</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="TableCell_1642167026647_6766l1" custom="readingOrder {index:1;}">
                     <Coords points="6518,4398 6578,4398 6686,4406 6686,4424 6636,4430 6620,4430 6519,4425"/>
-                    <Baseline points="6520,4424 6683,4426"/>
+                    <Baseline points="6520,4424 6682,4424"/>
                     <TextEquiv>
                         <Unicode>Zeitungen.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="TableCell_1642167026647_6766l2" custom="readingOrder {index:2;}">
                     <Coords points="6554,4440 6569,4434 6689,4434 6815,4435 7019,4440 7067,4442 7067,4466 7019,4471 7011,4471 6569,4464 6554,4458"/>
-                    <Baseline points="6556,4458 6689,4459 6710,4459 6731,4460 6753,4460 6774,4460 6795,4461 6869,4462 6888,4461 6922,4462 6946,4463 6977,4464 6996,4464 7019,4465 7039,4465 7065,4467"/>
+                    <Baseline points="6556,4458 6689,4459 6710,4459 6731,4460 6753,4460 6774,4460 6795,4461 6869,4462 6888,4461 6922,4462 6946,4463 6977,4464 6996,4464 7019,4465 7039,4465 7064,4466"/>
                     <TextEquiv>
                         <Unicode>c) 1 und 2, s. Bem. zu 58 c) 1.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="TableCell_1642167026647_6766l3" custom="readingOrder {index:3;}">
                     <Coords points="6552,4474 6568,4469 6674,4468 6690,4468 7250,4474 7270,4485 7270,4511 7075,4511 6568,4500 6552,4491"/>
-                    <Baseline points="6552,4493 6702,4494 6722,4494 6946,4498 6966,4498 7032,4500 7049,4500 7268,4504"/>
+                    <Baseline points="6552,4491 6702,4494 6722,4494 6946,4498 6966,4498 7032,4500 7049,4500 7268,4504"/>
                     <TextEquiv>
                         <Unicode>c) und d) Waarenproben ohne Ermässigung.</Unicode>
                     </TextEquiv>
@@ -7919,7 +7919,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642167023016_6724l10" custom="readingOrder {index:10;}">
                     <Coords points="5390,5080 5406,5074 5415,5074 5666,5077 5666,5104 5415,5106 5406,5106 5390,5099"/>
-                    <Baseline points="5391,5100 5415,5099 5434,5099 5478,5100 5520,5101 5662,5103"/>
+                    <Baseline points="5391,5099 5415,5099 5434,5099 5478,5100 5520,5101 5662,5103"/>
                     <TextEquiv>
                         <Unicode>c) via Frankreich</Unicode>
                     </TextEquiv>
@@ -7937,14 +7937,14 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="line_1644242401717_965" custom="readingOrder {index:1;}">
                     <Coords points="6103,4844 6157,4844 6146,4878 6102,4877"/>
-                    <Baseline points="6102,4872 6151,4873"/>
+                    <Baseline points="6102,4872 6147,4872"/>
                     <TextEquiv>
                         <Unicode>80*</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="line_1644242413747_970" custom="readingOrder {index:2;}">
                     <Coords points="6104,4911 6156,4913 6148,4947 6102,4945"/>
-                    <Baseline points="6102,4940 6150,4941"/>
+                    <Baseline points="6102,4940 6149,4940"/>
                     <TextEquiv>
                         <Unicode>80*</Unicode>
                     </TextEquiv>
@@ -8036,7 +8036,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 <Coords points="6424,4726 6415,5135 7411,5155 7419,4744"/>
                 <TextLine id="TableCell_1642167023071_6742l0" custom="readingOrder {index:0;}">
                     <Coords points="6441,4743 6550,4742 6567,4742 7381,4748 7400,4762 7400,4789 7381,4793 6983,4785 6570,4774 6443,4768"/>
-                    <Baseline points="6441,4766 6482,4767 6516,4767 6530,4768 6550,4768 6590,4768 6610,4769 6625,4769 6647,4769 6673,4769 6696,4770 6750,4770 6771,4771 6786,4771 6805,4771 6831,4771 6850,4772 7073,4775 7094,4776 7171,4777 7190,4778 7400,4781"/>
+                    <Baseline points="6442,4765 6482,4767 6516,4767 6530,4768 6550,4768 6590,4768 6610,4769 6625,4769 6647,4769 6673,4769 6696,4770 6750,4770 6771,4771 6786,4771 6805,4771 6831,4771 6850,4772 7073,4775 7094,4776 7171,4777 7190,4778 7400,4781"/>
                     <TextEquiv>
                         <Unicode>64. 1 b), 2 a) und 3 c) Waarenproben ohne Ermässigung.</Unicode>
                     </TextEquiv>
@@ -8082,7 +8082,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642167007599_6698l5" custom="readingOrder {index:5;}">
                     <Coords points="5469,5317 5488,5316 5503,5316 5616,5318 5674,5327 5674,5346 5579,5346 5488,5341 5469,5340"/>
-                    <Baseline points="5469,5340 5536,5342 5555,5342 5675,5346"/>
+                    <Baseline points="5469,5340 5536,5342 5555,5342 5674,5346"/>
                     <TextEquiv>
                         <Unicode>über Panama</Unicode>
                     </TextEquiv>
@@ -8103,7 +8103,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642167007599_6698l8" custom="readingOrder {index:8;}">
                     <Coords points="5384,5417 5445,5416 5459,5416 5825,5423 5826,5450 5634,5448 5511,5446 5384,5441"/>
-                    <Baseline points="5384,5440 5408,5441 5426,5441 5492,5444 5511,5444 5578,5446 5597,5447 5651,5447 5669,5447 5826,5449"/>
+                    <Baseline points="5384,5440 5408,5441 5426,5441 5492,5444 5511,5444 5578,5446 5597,5447 5651,5447 5669,5447 5825,5449"/>
                     <TextEquiv>
                         <Unicode>1. über Cöln und New-York.</Unicode>
                     </TextEquiv>
@@ -8117,7 +8117,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642167007599_6698l10" custom="readingOrder {index:10;}">
                     <Coords points="5423,5519 5525,5519 5779,5526 5780,5552 5618,5551 5545,5549 5443,5544 5423,5543"/>
-                    <Baseline points="5423,5543 5525,5547 5545,5548 5600,5550 5618,5550 5772,5552"/>
+                    <Baseline points="5423,5543 5525,5547 5545,5548 5600,5550 5618,5550 5772,5551"/>
                     <TextEquiv>
                         <Unicode>Stettin und New-York</Unicode>
                     </TextEquiv>
@@ -8138,7 +8138,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642167007599_6698l13" custom="readingOrder {index:13;}">
                     <Coords points="5379,5654 5438,5654 5783,5666 5783,5698 5569,5694 5538,5694 5379,5679"/>
-                    <Baseline points="5380,5683 5779,5691"/>
+                    <Baseline points="5380,5679 5779,5691"/>
                     <TextEquiv>
                         <Unicode>2. das übrige Honduras †</Unicode>
                     </TextEquiv>
@@ -8265,14 +8265,14 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642167007631_6710l8" custom="readingOrder {index:8;}">
                     <Coords points="6279,5641 6314,5639 6327,5639 6332,5665 6310,5664 6291,5665 6279,5665"/>
-                    <Baseline points="6279,5665 6325,5665"/>
+                    <Baseline points="6279,5665 6325,5664"/>
                     <TextEquiv>
                         <Unicode>13*</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="TableCell_1642167007631_6710l9" custom="readingOrder {index:9;}">
                     <Coords points="6278,5676 6313,5674 6330,5675 6330,5700 6309,5699 6291,5700 6278,5700"/>
-                    <Baseline points="6278,5700 6324,5700"/>
+                    <Baseline points="6278,5700 6324,5699"/>
                     <TextEquiv>
                         <Unicode>13*</Unicode>
                     </TextEquiv>
@@ -8343,28 +8343,28 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642167002931_6674l4" custom="readingOrder {index:4;}">
                     <Coords points="5378,5860 5451,5860 5817,5869 5818,5897 5627,5895 5552,5893 5503,5891 5378,5884"/>
-                    <Baseline points="5380,5886 5484,5889 5503,5891 5570,5892 5589,5893 5643,5894 5661,5894 5819,5895"/>
+                    <Baseline points="5380,5884 5484,5889 5503,5891 5570,5892 5589,5893 5643,5894 5661,5894 5817,5895"/>
                     <TextEquiv>
                         <Unicode>1. über Cöln und New-York</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="TableCell_1642167002931_6674l5" custom="readingOrder {index:5;}">
                     <Coords points="5372,5927 5389,5927 5481,5928 5896,5938 5930,5947 5932,5969 5823,5971 5806,5971 5637,5969 5372,5951"/>
-                    <Baseline points="5374,5952 5517,5958 5644,5962 5680,5963 5823,5968 5930,5966"/>
+                    <Baseline points="5374,5951 5517,5958 5644,5962 5680,5963 5823,5968 5930,5966"/>
                     <TextEquiv>
                         <Unicode>2. über Bremen, Hamburg oder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="TableCell_1642167002931_6674l6" custom="readingOrder {index:6;}">
                     <Coords points="5415,5962 5516,5962 5761,5973 5762,6000 5725,6000 5711,6000 5633,5999 5608,5998 5535,5995 5499,5993 5415,5987"/>
-                    <Baseline points="5417,5988 5535,5995 5590,5996 5608,5997 5763,6000"/>
+                    <Baseline points="5417,5987 5535,5995 5590,5996 5608,5997 5762,6000"/>
                     <TextEquiv>
                         <Unicode>Stettin und New-York</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="TableCell_1642167002931_6674l7" custom="readingOrder {index:7;}">
                     <Coords points="5321,6029 5391,6028 5408,6028 5700,6041 5734,6044 5734,6074 5716,6074 5577,6072 5339,6062 5321,6055"/>
-                    <Baseline points="5323,6056 5700,6067 5732,6068"/>
+                    <Baseline points="5323,6055 5700,6067 5732,6068"/>
                     <TextEquiv>
                         <Unicode>d) über Hamburg direct †</Unicode>
                     </TextEquiv>
@@ -8506,14 +8506,14 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="line_1644243864195_1250" custom="readingOrder {index:3;}">
                     <Coords points="5366,6200 5443,6200 5514,6205 5615,6219 5615,6241 5446,6234 5367,6228"/>
-                    <Baseline points="5366,6227 5476,6231 5609,6238"/>
+                    <Baseline points="5366,6226 5476,6231 5609,6238"/>
                     <TextEquiv>
                         <Unicode>2. über Panama</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="TableCell_1642166999377_6650l4" custom="readingOrder {index:4;}">
                     <Coords points="5312,6234 5382,6233 5398,6233 5566,6240 5645,6246 5729,6252 5727,6282 5581,6279 5473,6268 5332,6268 5312,6264"/>
-                    <Baseline points="5311,6260 5430,6260 5717,6278"/>
+                    <Baseline points="5312,6260 5430,6260 5717,6278"/>
                     <TextEquiv>
                         <Unicode>b) über Hamburg direct †</Unicode>
                     </TextEquiv>
@@ -8527,7 +8527,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642166999377_6650l6" custom="readingOrder {index:6;}">
                     <Coords points="5364,6303 5442,6303 5615,6318 5614,6343 5365,6332"/>
-                    <Baseline points="5367,6330 5608,6343"/>
+                    <Baseline points="5367,6330 5608,6342"/>
                     <TextEquiv>
                         <Unicode>2. über Panama</Unicode>
                     </TextEquiv>
@@ -8541,14 +8541,14 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="line_1644244089945_1274" custom="readingOrder {index:8;}">
                     <Coords points="5363,6372 5801,6389 5802,6422 5360,6403"/>
-                    <Baseline points="5360,6398 5802,6417"/>
+                    <Baseline points="5360,6398 5801,6417"/>
                     <TextEquiv>
                         <Unicode>1. über Cöln und New-York</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="TableCell_1642166999377_6650l9" custom="readingOrder {index:9;}">
                     <Coords points="5359,6438 5480,6444 5634,6451 5882,6454 5917,6462 5916,6486 5803,6487 5783,6487 5592,6482 5359,6466"/>
-                    <Baseline points="5361,6466 5637,6480 5803,6484 5917,6484"/>
+                    <Baseline points="5361,6466 5637,6480 5803,6484 5916,6483"/>
                     <TextEquiv>
                         <Unicode>2. über Bremen, Hamburg oder</Unicode>
                     </TextEquiv>
@@ -8562,7 +8562,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642166999377_6650l11" custom="readingOrder {index:11;}">
                     <Coords points="5301,6539 5400,6539 5501,6540 5621,6557 5620,6590 5453,6578 5325,6579 5301,6570"/>
-                    <Baseline points="5299,6569 5402,6569 5452,6571 5612,6582"/>
+                    <Baseline points="5301,6569 5402,6569 5452,6571 5612,6582"/>
                     <TextEquiv>
                         <Unicode>d) via Frankreich †</Unicode>
                     </TextEquiv>
@@ -8647,14 +8647,14 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642166999408_6662l3" custom="readingOrder {index:3;}">
                     <Coords points="6260,6327 6295,6326 6296,6353 6261,6354"/>
-                    <Baseline points="6260,6350 6291,6349"/>
+                    <Baseline points="6260,6349 6291,6349"/>
                     <TextEquiv>
                         <Unicode>13</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="TableCell_1642166999408_6662l4" custom="readingOrder {index:4;}">
                     <Coords points="6258,6393 6273,6393 6295,6394 6296,6423 6259,6423"/>
-                    <Baseline points="6258,6418 6291,6418"/>
+                    <Baseline points="6258,6417 6291,6418"/>
                     <TextEquiv>
                         <Unicode>33</Unicode>
                     </TextEquiv>
@@ -8725,14 +8725,14 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642166995347_6626l1" custom="readingOrder {index:1;}">
                     <Coords points="5298,6649 5314,6643 5344,6642 5378,6642 5563,6653 5563,6679 5466,6677 5431,6677 5314,6674 5298,6668"/>
-                    <Baseline points="5297,6668 5329,6671 5355,6669 5396,6668 5435,6670 5555,6676"/>
+                    <Baseline points="5298,6668 5329,6671 5355,6669 5396,6668 5435,6670 5555,6676"/>
                     <TextEquiv>
                         <Unicode>a) via England †</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="TableCell_1642166995347_6626l2" custom="readingOrder {index:2;}">
                     <Coords points="5294,6676 5392,6676 5515,6677 5606,6687 5605,6727 5312,6708 5294,6702"/>
-                    <Baseline points="5296,6704 5331,6704 5363,6704 5397,6705 5433,6704 5571,6713 5601,6714"/>
+                    <Baseline points="5296,6702 5331,6704 5363,6704 5397,6705 5433,6704 5571,6713 5601,6714"/>
                     <TextEquiv>
                         <Unicode>b) via Frankreich †</Unicode>
                     </TextEquiv>
@@ -8743,14 +8743,14 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 <Coords points="5935,6590 5932,6770 6144,6771 6148,6594"/>
                 <TextLine id="TableCell_1642166995361_6632l0" custom="readingOrder {index:0;}">
                     <Coords points="5969,6661 5988,6661 6091,6664 6093,6695 5971,6694"/>
-                    <Baseline points="5969,6687 6091,6691"/>
+                    <Baseline points="5970,6686 6091,6691"/>
                     <TextEquiv>
                         <Unicode>Zw. 118</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="TableCell_1642166995361_6632l1" custom="readingOrder {index:1;}">
                     <Coords points="5966,6696 6108,6696 6109,6726 6056,6732 5966,6730"/>
-                    <Baseline points="5966,6722 6021,6723 6056,6723 6111,6725"/>
+                    <Baseline points="5966,6722 6021,6723 6056,6723 6108,6725"/>
                     <TextEquiv>
                         <Unicode>Zw. 80*</Unicode>
                     </TextEquiv>
@@ -8779,7 +8779,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 <Coords points="6384,6597 6381,6772 7365,6775 7368,6612"/>
                 <TextLine id="TableCell_1642166995396_6644l0" custom="readingOrder {index:0;}">
                     <Coords points="6396,6633 6467,6632 6596,6632 6814,6633 7019,6635 7042,6644 7051,6656 7051,6663 7042,6671 6869,6671 6544,6667 6486,6665 6414,6659 6396,6657"/>
-                    <Baseline points="6400,6658 6436,6658 6467,6659 6498,6659 6517,6659 6738,6661 6758,6661 6831,6662 6847,6662 7054,6666"/>
+                    <Baseline points="6400,6657 6436,6658 6467,6659 6498,6659 6517,6659 6738,6661 6758,6661 6831,6662 6847,6662 7051,6663"/>
                     <TextEquiv>
                         <Unicode>68. b) Waarenproben ohne Ermässigung.</Unicode>
                     </TextEquiv>
@@ -8804,7 +8804,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 <Coords points="8245,628 8240,850 8472,855 8478,628"/>
                 <TextLine id="TableCell_1642167289614_7337l0" custom="readingOrder {index:0;}">
                     <Coords points="8300,661 8397,661 8440,663 8440,688 8376,688 8300,686"/>
-                    <Baseline points="8300,686 8440,689"/>
+                    <Baseline points="8300,686 8440,688"/>
                     <TextEquiv>
                         <Unicode>Gewöhn-</Unicode>
                     </TextEquiv>
@@ -8857,7 +8857,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="line_1644269333831_40" custom="readingOrder {index:2;}">
                     <Coords points="8548,715 8607,718 8606,747 8547,744"/>
-                    <Baseline points="8555,744 8609,745"/>
+                    <Baseline points="8555,744 8606,744"/>
                     <TextEquiv>
                         <Unicode>und</Unicode>
                     </TextEquiv>
@@ -8942,7 +8942,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642167289579_7329l6" custom="readingOrder {index:6;}">
                     <Coords points="7737,1132 7840,1132 8065,1140 8065,1165 8011,1163 7772,1158 7737,1157"/>
-                    <Baseline points="7737,1156 7840,1158 7858,1159 7882,1159 7902,1160 8062,1165"/>
+                    <Baseline points="7737,1156 7840,1158 7858,1159 7882,1159 7902,1160 8062,1164"/>
                     <TextEquiv>
                         <Unicode>Stettin u. New-York</Unicode>
                     </TextEquiv>
@@ -9013,7 +9013,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642167289635_7341l2" custom="readingOrder {index:2;}">
                     <Coords points="8558,1048 8573,1048 8596,1049 8596,1074 8578,1076 8558,1072"/>
-                    <Baseline points="8563,1071 8597,1073"/>
+                    <Baseline points="8563,1071 8596,1073"/>
                     <TextEquiv>
                         <Unicode>58</Unicode>
                     </TextEquiv>
@@ -9077,7 +9077,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642167286186_7305l1" custom="readingOrder {index:1;}">
                     <Coords points="7607,1295 7626,1289 7689,1289 7804,1291 7878,1292 7871,1325 7760,1323 7626,1319 7607,1312"/>
-                    <Baseline points="7607,1312 7636,1313 7656,1313 7699,1314 7717,1314 7873,1319"/>
+                    <Baseline points="7607,1312 7636,1313 7656,1313 7699,1314 7717,1314 7872,1318"/>
                     <TextEquiv>
                         <Unicode>a) via England †</Unicode>
                     </TextEquiv>
@@ -9091,28 +9091,28 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642167286186_7305l3" custom="readingOrder {index:3;}">
                     <Coords points="7607,1363 7624,1357 7634,1357 7903,1361 8011,1363 8045,1365 8121,1370 8121,1397 8098,1397 7624,1388 7607,1381"/>
-                    <Baseline points="7607,1382 7634,1382 7656,1382 7699,1383 7718,1383 7779,1384 7801,1385 7912,1387 7933,1388 8078,1391 8098,1391 8115,1391"/>
+                    <Baseline points="7607,1381 7634,1382 7656,1382 7699,1383 7718,1383 7779,1384 7801,1385 7912,1387 7933,1388 8078,1391 8098,1391 8115,1391"/>
                     <TextEquiv>
                         <Unicode>c) via Ver. Staaten Amerikas †</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="TableCell_1642167286186_7305l4" custom="readingOrder {index:4;}">
                     <Coords points="7666,1394 7725,1393 7741,1393 7812,1394 7946,1397 8080,1400 8082,1425 7666,1417"/>
-                    <Baseline points="7666,1416 7688,1417 7708,1417 7774,1419 7794,1419 7858,1420 7876,1421 7900,1421 7921,1422 8079,1424"/>
+                    <Baseline points="7666,1416 7688,1417 7708,1417 7774,1419 7794,1419 7858,1420 7876,1421 7900,1421 7921,1421 8079,1424"/>
                     <TextEquiv>
                         <Unicode>1. über Cöln u. New-York</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="TableCell_1642167286186_7305l5" custom="readingOrder {index:5;}">
                     <Coords points="7666,1461 7776,1461 7935,1463 8183,1469 8222,1479 8222,1495 8199,1496 8116,1501 8098,1501 7908,1496 7666,1485"/>
-                    <Baseline points="7666,1484 7690,1485 7709,1485 7776,1487 7811,1487 7935,1490 7974,1491 8116,1494 8151,1495 8215,1496"/>
+                    <Baseline points="7666,1484 7690,1485 7709,1485 7776,1487 7811,1487 7935,1490 7974,1491 8116,1494 8151,1495 8214,1495"/>
                     <TextEquiv>
                         <Unicode>2. über Bremen, Hamburg oder</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="TableCell_1642167286186_7305l6" custom="readingOrder {index:6;}">
                     <Coords points="7732,1497 7835,1497 8063,1503 8063,1527 8008,1527 7944,1526 7898,1525 7794,1522 7732,1520"/>
-                    <Baseline points="7732,1520 7835,1522 7854,1523 7878,1524 7898,1524 8061,1529"/>
+                    <Baseline points="7732,1520 7835,1522 7854,1523 7878,1524 7898,1524 8061,1527"/>
                     <TextEquiv>
                         <Unicode>Stettin u. New-York</Unicode>
                     </TextEquiv>
@@ -9197,7 +9197,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642167286241_7317l4" custom="readingOrder {index:4;}">
                     <Coords points="8549,1516 8566,1516 8587,1517 8587,1540 8566,1541 8549,1541"/>
-                    <Baseline points="8553,1541 8588,1540"/>
+                    <Baseline points="8553,1541 8587,1540"/>
                     <TextEquiv>
                         <Unicode>28</Unicode>
                     </TextEquiv>
@@ -9211,7 +9211,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642167286241_7317l6" custom="readingOrder {index:6;}">
                     <Coords points="8548,1587 8586,1585 8601,1585 8604,1606 8582,1610 8548,1610"/>
-                    <Baseline points="8548,1610 8599,1609"/>
+                    <Baseline points="8548,1610 8598,1606"/>
                     <TextEquiv>
                         <Unicode>13*</Unicode>
                     </TextEquiv>
@@ -9222,14 +9222,14 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 <Coords points="8668,1250 8662,1615 9711,1639 9710,1270"/>
                 <TextLine id="TableCell_1642167286261_7323l0" custom="readingOrder {index:0;}">
                     <Coords points="8695,1265 8799,1265 8912,1266 9088,1270 9239,1277 9287,1280 9287,1304 9239,1308 9228,1308 8789,1297 8695,1288"/>
-                    <Baseline points="8698,1289 8742,1289 8775,1289 8799,1290 8820,1290 8832,1290 8854,1291 8912,1292 8932,1292 8955,1293 8974,1293 8995,1294 9016,1294 9088,1297 9108,1298 9140,1299 9160,1299 9193,1301 9214,1301 9239,1302 9264,1303 9292,1303"/>
+                    <Baseline points="8698,1288 8742,1289 8775,1289 8799,1290 8820,1290 8832,1290 8854,1291 8912,1292 8932,1292 8955,1293 8974,1293 8995,1294 9016,1294 9088,1297 9108,1298 9140,1299 9160,1299 9193,1301 9214,1301 9239,1302 9264,1303 9287,1303"/>
                     <TextEquiv>
                         <Unicode>70. c) 1 und 2, s. Bem. zu 58 c) 1.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="TableCell_1642167286261_7323l1" custom="readingOrder {index:1;}">
                     <Coords points="8802,1317 8816,1312 8936,1312 9485,1318 9502,1332 9502,1358 9485,1362 9312,1362 8816,1342 8802,1335"/>
-                    <Baseline points="8802,1335 8825,1335 8844,1336 8900,1337 8921,1338 8948,1338 8966,1339 9185,1345 9204,1345 9273,1347 9291,1347 9506,1351"/>
+                    <Baseline points="8802,1335 8825,1335 8844,1336 8900,1337 8921,1338 8948,1338 8966,1339 9185,1345 9204,1345 9273,1347 9291,1347 9502,1351"/>
                     <TextEquiv>
                         <Unicode>c) und d) Waarenproben ohne Ermässigung.</Unicode>
                     </TextEquiv>
@@ -9552,7 +9552,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 <Coords points="7504,2128 7501,2292 8214,2320 8224,2159"/>
                 <TextLine id="TableCell_1642167267369_7233l3" custom="readingOrder {index:0;}">
                     <Coords points="7507,2140 7528,2140 8055,2152 8208,2165 8208,2191 7724,2191 7507,2178"/>
-                    <Baseline points="7508,2179 7561,2179 7581,2179 8200,2191"/>
+                    <Baseline points="7508,2178 7561,2179 7581,2179 8200,2191"/>
                     <TextEquiv>
                         <Unicode>73. Vereinigte Staaten von Amerika.</Unicode>
                     </TextEquiv>
@@ -9566,14 +9566,14 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642167267369_7233l5" custom="readingOrder {index:2;}">
                     <Coords points="7592,2243 7610,2237 7621,2237 7968,2242 8194,2247 8194,2271 8134,2277 8119,2277 7610,2268 7592,2260"/>
-                    <Baseline points="7591,2262 7710,2263 7729,2263 7795,2264 7821,2265 7864,2265 7883,2266 7999,2267 8028,2268 8052,2268 8074,2269 8194,2271"/>
+                    <Baseline points="7592,2260 7710,2263 7729,2263 7795,2264 7821,2265 7864,2265 7883,2266 7999,2267 8028,2268 8052,2268 8074,2269 8194,2271"/>
                     <TextEquiv>
                         <Unicode>a) über Cöln via Belgien u. England</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="TableCell_1642167267369_7233l6" custom="readingOrder {index:3;}">
                     <Coords points="7591,2270 7608,2270 7955,2275 8183,2280 8196,2281 8196,2305 8183,2306 7998,2310 7959,2310 7819,2304 7591,2294"/>
-                    <Baseline points="7591,2295 7644,2296 7709,2297 7719,2297 7833,2299 7856,2300 7998,2302 8011,2303 8076,2304 8093,2304 8197,2307"/>
+                    <Baseline points="7591,2294 7644,2296 7709,2297 7719,2297 7833,2299 7856,2300 7998,2302 8011,2303 8076,2304 8093,2304 8196,2305"/>
                     <TextEquiv>
                         <Unicode>b) über Bremen, Hamburg oder Stettin</Unicode>
                     </TextEquiv>
@@ -9584,7 +9584,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 <Coords points="8224,2159 8214,2320 8443,2325 8453,2164"/>
                 <TextLine id="line_1644271490820_406" custom="readingOrder {index:0;}">
                     <Coords points="8348,2256 8383,2257 8384,2288 8349,2287"/>
-                    <Baseline points="8347,2283 8382,2284"/>
+                    <Baseline points="8348,2282 8382,2284"/>
                     <TextEquiv>
                         <Unicode>30</Unicode>
                     </TextEquiv>
@@ -9620,14 +9620,14 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 <Coords points="8659,2172 8653,2328 9714,2347 9713,2180"/>
                 <TextLine id="TableCell_1642167267426_7251l0" custom="readingOrder {index:0;}">
                     <Coords points="8677,2176 8695,2175 8783,2175 8896,2176 9040,2178 9383,2183 9623,2188 9646,2195 9653,2207 9653,2218 9646,2224 9545,2224 8774,2207 8677,2198"/>
-                    <Baseline points="8676,2201 8930,2202 9257,2209 9453,2213 9526,2215 9545,2215 9653,2218"/>
+                    <Baseline points="8677,2198 8930,2202 9257,2209 9453,2213 9526,2215 9545,2215 9653,2218"/>
                     <TextEquiv>
                         <Unicode>73. a) und b) Gewichtsgrenze für Drucksachen 1 ½ Kilogr.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="TableCell_1642167267426_7251l1" custom="readingOrder {index:1;}">
                     <Coords points="8787,2210 9108,2214 9113,2234 9113,2240 8815,2242 8806,2242 8787,2234"/>
-                    <Baseline points="8789,2237 8998,2238 9020,2239 9053,2239 9071,2240 9113,2238"/>
+                    <Baseline points="8789,2235 8998,2238 9020,2239 9053,2239 9071,2240 9113,2238"/>
                     <TextEquiv>
                         <Unicode>b) Postkarten 10 Pf.</Unicode>
                     </TextEquiv>
@@ -9652,7 +9652,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642167380584_7455l2" custom="readingOrder {index:2;}">
                     <Coords points="7590,2392 7609,2386 7674,2386 7721,2387 7826,2390 7826,2414 7761,2420 7744,2420 7609,2416 7590,2409"/>
-                    <Baseline points="7590,2409 7620,2409 7641,2410 7686,2411 7702,2411 7827,2415"/>
+                    <Baseline points="7590,2409 7620,2409 7641,2410 7686,2411 7702,2411 7826,2414"/>
                     <TextEquiv>
                         <Unicode>a) via England</Unicode>
                     </TextEquiv>
@@ -9701,7 +9701,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642167380584_7455l9" custom="readingOrder {index:9;}">
                     <Coords points="7634,2725 7632,2694 7692,2697 7761,2698 7806,2699 7820,2700 7874,2707 7874,2724 7840,2732 7823,2732"/>
-                    <Baseline points="7635,2722 7718,2723 7738,2723 7875,2726"/>
+                    <Baseline points="7635,2722 7718,2723 7738,2723 7874,2724"/>
                     <TextEquiv>
                         <Unicode>2. Im Uebrigen</Unicode>
                     </TextEquiv>
@@ -9722,7 +9722,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642167380584_7455l12" custom="readingOrder {index:12;}">
                     <Coords points="7704,2835 7798,2835 7973,2838 8024,2839 8025,2865 7993,2864 7895,2863 7767,2861 7704,2860"/>
-                    <Baseline points="7704,2860 7808,2861 7826,2861 7851,2861 7869,2862 8027,2864"/>
+                    <Baseline points="7704,2860 7808,2861 7826,2861 7851,2861 7869,2862 8024,2864"/>
                     <TextEquiv>
                         <Unicode>Stettin u. New-York</Unicode>
                     </TextEquiv>
@@ -9860,7 +9860,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="line_1644272392508_584" custom="readingOrder {index:1;}">
                     <Coords points="8336,3025 8370,3025 8367,3054 8333,3054"/>
-                    <Baseline points="8336,3049 8368,3049"/>
+                    <Baseline points="8336,3049 8367,3048"/>
                     <TextEquiv>
                         <Unicode>30</Unicode>
                     </TextEquiv>
@@ -9962,7 +9962,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642167380666_7467l10" custom="readingOrder {index:10;}">
                     <Coords points="8521,2922 8558,2920 8573,2920 8573,2945 8554,2946 8540,2946 8521,2945"/>
-                    <Baseline points="8521,2946 8571,2945"/>
+                    <Baseline points="8521,2945 8571,2945"/>
                     <TextEquiv>
                         <Unicode>13*</Unicode>
                     </TextEquiv>
@@ -10015,7 +10015,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642167380666_7465l6" custom="readingOrder {index:6;}">
                     <Coords points="8513,3268 8552,3265 8567,3265 8568,3290 8547,3292 8532,3292 8513,3291"/>
-                    <Baseline points="8513,3291 8569,3291"/>
+                    <Baseline points="8513,3291 8568,3290"/>
                     <TextEquiv>
                         <Unicode>13*</Unicode>
                     </TextEquiv>
@@ -10033,7 +10033,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642167380687_7473l1" custom="readingOrder {index:1;}">
                     <Coords points="8749,2369 8898,2369 9440,2376 9632,2384 9648,2385 9648,2411 9566,2414 9513,2414 9321,2412 8806,2403 8749,2394"/>
-                    <Baseline points="8749,2394 8898,2396 8931,2396 9064,2399 9097,2399 9226,2401 9264,2402 9440,2406 9475,2407 9566,2409 9602,2410 9651,2409"/>
+                    <Baseline points="8749,2394 8898,2396 8931,2396 9064,2399 9097,2399 9226,2401 9264,2402 9440,2406 9475,2407 9566,2409 9602,2410 9648,2409"/>
                     <TextEquiv>
                         <Unicode>Dominica, Grenada, Jamaica, Montserrat, Nevis, St.</Unicode>
                     </TextEquiv>
@@ -10054,14 +10054,14 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642167380687_7473l4" custom="readingOrder {index:4;}">
                     <Coords points="8781,2491 8795,2485 8921,2485 9121,2490 9167,2492 9167,2515 9121,2519 9095,2519 8795,2515 8781,2509"/>
-                    <Baseline points="8781,2509 8805,2509 8825,2509 8838,2510 8859,2510 8881,2510 8900,2510 8974,2511 8993,2511 9027,2512 9046,2512 9077,2513 9095,2514 9121,2514 9142,2515 9168,2515"/>
+                    <Baseline points="8781,2509 8805,2509 8825,2509 8838,2510 8859,2510 8881,2510 8900,2510 8974,2511 8993,2511 9027,2512 9046,2512 9077,2513 9095,2514 9121,2514 9142,2515 9167,2515"/>
                     <TextEquiv>
                         <Unicode>c) 1 s. Bem. zu 58 c) 1.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="TableCell_1642167380687_7473l5" custom="readingOrder {index:5;}">
                     <Coords points="8782,2525 8797,2520 8923,2520 9242,2524 9287,2526 9287,2551 9122,2555 9112,2555 8797,2549 8782,2543"/>
-                    <Baseline points="8782,2543 8806,2543 8824,2544 8840,2544 8859,2544 8882,2544 8901,2544 8974,2545 8993,2545 9027,2546 9046,2547 9079,2548 9097,2548 9122,2548 9144,2549 9167,2549 9186,2549 9242,2550 9261,2551 9289,2551"/>
+                    <Baseline points="8782,2543 8806,2543 8824,2544 8840,2544 8859,2544 8882,2544 8901,2544 8974,2545 8993,2545 9027,2546 9046,2547 9079,2548 9097,2548 9122,2548 9144,2549 9167,2549 9186,2549 9242,2550 9261,2551 9287,2551"/>
                     <TextEquiv>
                         <Unicode>c) 2 s. Bem. zu 54 c) 1. und 2.</Unicode>
                     </TextEquiv>
@@ -10167,7 +10167,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642167373298_7429l7" custom="readingOrder {index:7;}">
                     <Coords points="7692,3558 7795,3558 7881,3560 7963,3562 8022,3565 8020,3588 7979,3587 7939,3587 7737,3584 7692,3582"/>
-                    <Baseline points="7692,3582 7795,3584 7814,3584 7839,3585 7858,3585 8018,3589"/>
+                    <Baseline points="7692,3582 7795,3584 7814,3584 7839,3585 7858,3585 8018,3587"/>
                     <TextEquiv>
                         <Unicode>Stettin u. New-York</Unicode>
                     </TextEquiv>
@@ -10549,7 +10549,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642167359190_7381l2" custom="readingOrder {index:2;}">
                     <Coords points="7558,4106 7575,4106 7861,4108 7928,4110 7928,4142 7890,4143 7579,4137 7558,4131"/>
-                    <Baseline points="7561,4132 7922,4137"/>
+                    <Baseline points="7561,4131 7922,4137"/>
                     <TextEquiv>
                         <Unicode>b) über Bremen direct</Unicode>
                     </TextEquiv>
@@ -10577,7 +10577,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642167359190_7381l6" custom="readingOrder {index:6;}">
                     <Coords points="7610,4246 7656,4244 7674,4244 7709,4245 7735,4253 7737,4275 7612,4275"/>
-                    <Baseline points="7610,4270 7634,4270 7656,4269 7726,4270"/>
+                    <Baseline points="7611,4269 7634,4270 7656,4269 7726,4270"/>
                     <TextEquiv>
                         <Unicode>1. Cuba</Unicode>
                     </TextEquiv>
@@ -10591,7 +10591,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642167359190_7381l8" custom="readingOrder {index:8;}">
                     <Coords points="7652,4350 7671,4348 7718,4348 7875,4349 8130,4354 8165,4361 8165,4380 8055,4386 8038,4386 7851,4381 7653,4377"/>
-                    <Baseline points="7652,4372 7718,4373 7754,4374 7875,4375 7912,4376 8055,4378 8095,4379 8159,4380"/>
+                    <Baseline points="7652,4371 7718,4373 7754,4374 7875,4375 7912,4376 8055,4378 8095,4379 8159,4380"/>
                     <TextEquiv>
                         <Unicode>über Bremen, Hamburg oder</Unicode>
                     </TextEquiv>
@@ -10711,14 +10711,14 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 <Coords points="8406,4047 8393,4704 8639,4711 8628,4054"/>
                 <TextLine id="TableCell_1642167359228_7393l0" custom="readingOrder {index:0;}">
                     <Coords points="8497,4090 8534,4090 8534,4113 8508,4114 8497,4114"/>
-                    <Baseline points="8497,4114 8531,4115"/>
+                    <Baseline points="8497,4114 8530,4113"/>
                     <TextEquiv>
                         <Unicode>10</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="TableCell_1642167359228_7393l1" custom="readingOrder {index:1;}">
                     <Coords points="8512,4125 8533,4125 8533,4148 8512,4148"/>
-                    <Baseline points="8512,4148 8531,4149"/>
+                    <Baseline points="8512,4148 8531,4148"/>
                     <TextEquiv>
                         <Unicode>8</Unicode>
                     </TextEquiv>
@@ -10866,7 +10866,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 <Coords points="7451,4675 7436,5419 8157,5425 8170,4699"/>
                 <TextLine id="TableCell_1642167346776_7357l0" custom="readingOrder {index:0;}">
                     <Coords points="7477,4688 7490,4687 7508,4687 7896,4692 8043,4696 8056,4697 8157,4701 8159,4733 8118,4733 7710,4726 7477,4717"/>
-                    <Baseline points="7480,4718 8153,4727"/>
+                    <Baseline points="7480,4717 8153,4727"/>
                     <TextEquiv>
                         <Unicode>VI. Barthelemy (Schwedische Besitzung)</Unicode>
                     </TextEquiv>
@@ -10894,7 +10894,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642167346776_7357l4" custom="readingOrder {index:4;}">
                     <Coords points="7598,4830 7697,4829 7714,4829 7842,4831 7904,4840 7904,4863 7886,4863 7599,4858"/>
-                    <Baseline points="7598,4853 7625,4853 7645,4853 7714,4854 7732,4854 7904,4857"/>
+                    <Baseline points="7598,4852 7625,4853 7645,4853 7714,4854 7732,4854 7904,4857"/>
                     <TextEquiv>
                         <Unicode>1. nach Barthelemy</Unicode>
                     </TextEquiv>
@@ -10908,7 +10908,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642167346776_7357l6" custom="readingOrder {index:6;}">
                     <Coords points="7541,4902 7557,4896 7623,4896 7968,4901 7987,4902 8063,4909 8067,4929 7571,4929 7539,4928 7541,4921"/>
-                    <Baseline points="7544,4924 8055,4931"/>
+                    <Baseline points="7544,4924 8055,4929"/>
                     <TextEquiv>
                         <Unicode>c) via Ver. Staaten Amerikas †</Unicode>
                     </TextEquiv>
@@ -10950,7 +10950,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642167346776_7357l12" custom="readingOrder {index:12;}">
                     <Coords points="7638,5174 7657,5172 7673,5172 8043,5173 8041,5202 7639,5199"/>
-                    <Baseline points="7638,5197 7705,5198 7724,5198 7789,5198 7808,5198 7863,5199 7882,5199 8039,5201"/>
+                    <Baseline points="7638,5196 7705,5198 7724,5198 7789,5198 7808,5198 7863,5199 7882,5199 8039,5201"/>
                     <TextEquiv>
                         <Unicode>über Cöln und New-York</Unicode>
                     </TextEquiv>
@@ -10964,7 +10964,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642167346776_7357l14" custom="readingOrder {index:14;}">
                     <Coords points="7661,5275 7764,5275 8016,5279 8016,5304 7975,5304 7956,5304 7854,5303 7661,5300"/>
-                    <Baseline points="7661,5300 7764,5301 7782,5301 7836,5302 7854,5302 8014,5305"/>
+                    <Baseline points="7661,5300 7764,5301 7782,5301 7836,5302 7854,5302 8014,5304"/>
                     <TextEquiv>
                         <Unicode>Stettin und New-York</Unicode>
                     </TextEquiv>
@@ -10989,7 +10989,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="line_1644411807151_727" custom="readingOrder {index:1;}">
                     <Coords points="8212,4841 8338,4843 8337,4876 8211,4874"/>
-                    <Baseline points="8216,4869 8338,4871"/>
+                    <Baseline points="8216,4869 8337,4870"/>
                     <TextEquiv>
                         <Unicode>Zw. 60</Unicode>
                     </TextEquiv>
@@ -11192,21 +11192,21 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 <Coords points="7434,5516 7421,6149 8145,6162 8156,5529"/>
                 <TextLine id="TableCell_1642167205284_7161l0" custom="readingOrder {index:0;}">
                     <Coords points="7440,5533 7464,5533 7924,5537 8067,5542 8143,5553 8141,5585 8118,5589 8097,5589 8006,5585 7440,5571"/>
-                    <Baseline points="7440,5571 7501,5572 7523,5572 7640,5574 7704,5575 7924,5579 8144,5583"/>
+                    <Baseline points="7440,5571 7501,5572 7523,5572 7640,5574 7704,5575 7924,5579 8141,5582"/>
                     <TextEquiv>
                         <Unicode>75. West-Australien (King-</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="TableCell_1642167205284_7161l1" custom="readingOrder {index:1;}">
                     <Coords points="7532,5581 8143,5592 8142,5626 7855,5627 7630,5626 7532,5615"/>
-                    <Baseline points="7533,5620 8144,5627"/>
+                    <Baseline points="7533,5615 8142,5626"/>
                     <TextEquiv>
                         <Unicode>Georges-Sound), Süd-Austra-</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="TableCell_1642167205284_7161l2" custom="readingOrder {index:2;}">
                     <Coords points="7529,5626 7558,5626 7995,5631 8111,5633 8140,5642 8140,5670 7929,5674 7918,5674 7630,5672 7529,5664"/>
-                    <Baseline points="7529,5664 7611,5664 7730,5663 7942,5667 7961,5667 8136,5671"/>
+                    <Baseline points="7529,5664 7611,5664 7730,5663 7942,5667 7961,5667 8135,5670"/>
                     <TextEquiv>
                         <Unicode>lien (Port Adelaide), Victoria</Unicode>
                     </TextEquiv>
@@ -11234,7 +11234,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642167205284_7161l6" custom="readingOrder {index:6;}">
                     <Coords points="7528,5809 7811,5812 7812,5856 7785,5853 7565,5848 7528,5847"/>
-                    <Baseline points="7527,5846 7807,5850"/>
+                    <Baseline points="7528,5846 7807,5850"/>
                     <TextEquiv>
                         <Unicode>Neu-Seeland.</Unicode>
                     </TextEquiv>
@@ -11386,7 +11386,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 <Coords points="8602,5537 8593,6163 9727,6169 9724,5557"/>
                 <TextLine id="line_1644275195529_1187" custom="readingOrder {index:0;}">
                     <Coords points="8620,5559 8719,5562 8718,5592 8619,5589"/>
-                    <Baseline points="8621,5587 8720,5590"/>
+                    <Baseline points="8621,5587 8718,5589"/>
                     <TextEquiv>
                         <Unicode>75. —</Unicode>
                     </TextEquiv>
@@ -11411,7 +11411,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642167201494_7137l2" custom="readingOrder {index:2;}">
                     <Coords points="7511,6241 7527,6241 7970,6244 7988,6253 7988,6271 7539,6273 7529,6273 7511,6266"/>
-                    <Baseline points="7513,6268 7608,6267 7629,6268 7692,6268 7712,6268 7824,6270 7842,6270 7988,6271"/>
+                    <Baseline points="7513,6266 7608,6267 7629,6268 7692,6268 7712,6268 7824,6270 7842,6270 7988,6271"/>
                     <TextEquiv>
                         <Unicode>b) via Ver. Staaten Amerikas</Unicode>
                     </TextEquiv>
@@ -11507,35 +11507,35 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 <Coords points="8593,6163 8586,6456 9728,6460 9727,6169"/>
                 <TextLine id="TableCell_1642167201567_7155l0" custom="readingOrder {index:0;}">
                     <Coords points="8608,6173 8623,6172 8674,6171 8746,6170 8787,6170 9142,6173 9564,6178 9581,6185 9581,6206 9533,6206 8674,6202 8608,6196"/>
-                    <Baseline points="8611,6197 8746,6197 8833,6198 8865,6198 9047,6199 9088,6199 9142,6199 9175,6200 9231,6201 9260,6201 9407,6203 9446,6203 9499,6204 9539,6203 9587,6206"/>
+                    <Baseline points="8611,6196 8746,6197 8833,6198 8865,6198 9047,6199 9088,6199 9142,6199 9175,6200 9231,6201 9260,6201 9407,6203 9446,6203 9499,6204 9539,6203 9581,6206"/>
                     <TextEquiv>
                         <Unicode>76. c) Ueber New-York und San Francisco nur für</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="TableCell_1642167201567_7155l1" custom="readingOrder {index:1;}">
                     <Coords points="8666,6205 8756,6205 9187,6208 9548,6211 9567,6213 9580,6231 9580,6244 9531,6244 8701,6237 8666,6230"/>
-                    <Baseline points="8672,6231 8895,6232 9584,6243"/>
+                    <Baseline points="8672,6231 8895,6232 9580,6243"/>
                     <TextEquiv>
                         <Unicode>Correspondenz nach Neu-Süd-Wales und Neu-Seeland,</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="TableCell_1642167201567_7155l2" custom="readingOrder {index:2;}">
                     <Coords points="8666,6246 8705,6238 8759,6238 9481,6244 9578,6246 9578,6273 9481,6277 9296,6277 9022,6276 8666,6264"/>
-                    <Baseline points="8668,6267 8905,6269 9033,6270 9583,6274"/>
+                    <Baseline points="8668,6264 8905,6269 9033,6270 9578,6273"/>
                     <TextEquiv>
                         <Unicode>auf besonderes Verlangen auch für Correspondenz nach</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="TableCell_1642167201567_7155l3" custom="readingOrder {index:3;}">
                     <Coords points="8666,6272 8853,6272 9470,6278 9577,6280 9577,6307 9470,6312 9282,6312 8938,6310 8666,6304"/>
-                    <Baseline points="8673,6301 8853,6300 8870,6300 8898,6301 8917,6301 9155,6303 9174,6303 9218,6303 9235,6303 9485,6306 9504,6306 9581,6309"/>
+                    <Baseline points="8673,6301 8853,6300 8870,6300 8898,6301 8917,6301 9155,6303 9174,6303 9218,6303 9235,6303 9485,6306 9504,6306 9577,6307"/>
                     <TextEquiv>
                         <Unicode>Queensland. — Gewichtsgrenze für Zeitungspackete nach</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="TableCell_1642167201567_7155l4" custom="readingOrder {index:4;}">
                     <Coords points="8665,6307 8834,6307 9401,6312 9401,6346 9333,6346 9229,6345 8665,6339"/>
-                    <Baseline points="8673,6334 8846,6334 8865,6335 8922,6335 8940,6336 9180,6337 9201,6337 9250,6338 9268,6338 9404,6342"/>
+                    <Baseline points="8673,6334 8846,6334 8865,6335 8922,6335 8940,6336 9180,6337 9201,6337 9250,6338 9268,6338 9401,6342"/>
                     <TextEquiv>
                         <Unicode>Queensland und Neu-Süd-Wales 1 ½ Kilogrm.</Unicode>
                     </TextEquiv>
@@ -11549,7 +11549,7 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642167201567_7155l6" custom="readingOrder {index:6;}">
                     <Coords points="8700,6387 8925,6387 9173,6390 9230,6398 9236,6411 9236,6417 9230,6424 9052,6424 8729,6422 8700,6414"/>
-                    <Baseline points="8710,6416 8925,6415 8942,6415 9014,6416 9033,6416 9243,6419"/>
+                    <Baseline points="8710,6416 8925,6415 8942,6415 9014,6416 9033,6416 9236,6417"/>
                     <TextEquiv>
                         <Unicode>Waarenproben ohne Ermässigung.</Unicode>
                     </TextEquiv>
@@ -11705,14 +11705,14 @@ bei Drucksachen und Waarenproben für je 50 Gramm; die mit einem * versehenen S�
                 </TextLine>
                 <TextLine id="TableCell_1642167196187_7131l3" custom="readingOrder {index:3;}">
                     <Coords points="8698,6560 8764,6558 8783,6558 9576,6562 9576,6590 9478,6591 9043,6593 8908,6593 8699,6592"/>
-                    <Baseline points="8698,6584 8783,6585 8800,6585 8850,6585 8876,6585 9058,6587 9076,6587 9107,6587 9125,6587 9273,6589 9298,6589 9478,6589 9499,6589 9572,6590"/>
+                    <Baseline points="8698,6583 8783,6585 8800,6585 8850,6585 8876,6585 9058,6587 9076,6587 9107,6587 9125,6587 9273,6589 9298,6589 9478,6589 9499,6589 9572,6590"/>
                     <TextEquiv>
                         <Unicode>Nach den Fidji-Inseln zu denselben Portosätzen auch</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextLine id="TableCell_1642167196187_7131l4" custom="readingOrder {index:4;}">
                     <Coords points="8665,6614 8679,6594 8751,6593 8772,6593 9136,6596 9201,6599 9218,6615 9219,6626 8809,6625 8793,6625 8667,6629"/>
-                    <Baseline points="8665,6618 8731,6618 8751,6618 8872,6619 8892,6619 8946,6620 8966,6620 9022,6620 9041,6620 9212,6621"/>
+                    <Baseline points="8665,6617 8731,6618 8751,6618 8872,6619 8892,6619 8946,6620 8966,6620 9022,6620 9041,6620 9212,6621"/>
                     <TextEquiv>
                         <Unicode>„via England und San Francisco“.</Unicode>
                     </TextEquiv>

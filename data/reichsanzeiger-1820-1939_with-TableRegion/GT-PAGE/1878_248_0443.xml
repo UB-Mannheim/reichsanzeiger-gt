@@ -1,22 +1,22 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
     <Metadata>
         <Creator>Transkribus</Creator>
         <Created>2021-12-14T11:43:21.712+01:00</Created>
-        <LastChange>2022-12-07T16:08:33.107+01:00</LastChange>
+        <LastChange>2023-11-15T20:46:56.444+01:00</LastChange>
         <Comments>
                 Measurement unit: pixel
                 PrimaryLanguage: 
                 Producer: Transkribus
             </Comments>
-        <TranskribusMetadata docId="900641" pageId="34382463" pageNr="22" tsid="105747846" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=OIHOYUAVJTGUJZMSYGXZFFUQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QIWMNIDYVODXBNQHHHAQTLGX" imageId="27583907"/>
+        <TranskribusMetadata docId="900641" pageId="34382463" pageNr="22" tsid="139840641" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=OIHOYUAVJTGUJZMSYGXZFFUQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DQUPGAXKYJEOBRVLAVGYTEWB" imageId="27583907"/>
     </Metadata>
     <Page imageFilename="1878_248_0443.jpg" imageWidth="10152" imageHeight="6984">
         <PrintSpace>
             <Coords points="492,192 9821,187 9811,6798 482,6803"/>
         </PrintSpace>
         <ReadingOrder>
-            <OrderedGroup id="ro_1690360015230" caption="Regions reading order">
+            <OrderedGroup id="ro_1700129743316" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
                 <RegionRefIndexed index="1" regionRef="r2"/>
                 <RegionRefIndexed index="2" regionRef="r3"/>
@@ -101,7 +101,7 @@
             </TextLine>
             <TextLine id="r1l7" custom="readingOrder {index:6;}">
                 <Coords points="736,709 867,711 1085,711 2071,716 2122,734 2122,752 2106,760 2071,769 1872,765 1707,764 1238,766 735,758"/>
-                <Baseline points="742,751 841,753 867,753 934,754 947,754 1103,758 1130,758 1211,758 1238,758 1386,759 1418,759 1503,760 1521,760 1579,758 1608,758 1873,758 1888,758 2117,758"/>
+                <Baseline points="742,751 841,753 867,753 934,754 947,754 1103,758 1130,758 1211,758 1238,758 1386,759 1418,759 1503,760 1521,760 1579,758 1608,758 1873,758 1888,758 2115,755"/>
                 <TextEquiv>
                     <Unicode>Lage des Landes und ſodann auch die auswärtigen Angelegen⸗</Unicode>
                 </TextEquiv>
@@ -220,7 +220,7 @@
             </TextLine>
             <TextLine id="r1l24" custom="readingOrder {index:23;}">
                 <Coords points="724,1579 779,1579 1164,1580 1652,1583 2002,1587 2110,1599 2110,1629 2067,1638 917,1632 726,1625"/>
-                <Baseline points="724,1621 779,1621 804,1621 920,1622 947,1622 1164,1624 1205,1624 1278,1624 1306,1625 1364,1625 1393,1626 1652,1627 1678,1627 1828,1627 1856,1627 1898,1627 1924,1628 2020,1628 2050,1628 2110,1628"/>
+                <Baseline points="725,1620 779,1621 804,1621 920,1622 947,1622 1164,1624 1205,1624 1278,1624 1306,1625 1364,1625 1393,1626 1652,1627 1678,1627 1828,1627 1856,1627 1898,1627 1924,1628 2020,1628 2050,1628 2110,1628"/>
                 <TextEquiv>
                     <Unicode>ſei jedoch überzeugt, daß die europäiſchen Mächte es nicht zu⸗</Unicode>
                 </TextEquiv>
@@ -339,7 +339,7 @@
             </TextLine>
             <TextLine id="r1l41" custom="readingOrder {index:40;}">
                 <Coords points="713,2444 741,2444 1938,2455 2096,2468 2096,2498 1938,2507 742,2499 714,2499"/>
-                <Baseline points="713,2490 813,2491 850,2492 957,2493 1001,2493 1060,2493 1103,2493 1351,2494 1397,2494 1472,2495 1516,2495 1672,2496 1719,2496 1938,2497 1982,2498 2096,2498"/>
+                <Baseline points="713,2489 813,2491 850,2492 957,2493 1001,2493 1060,2493 1103,2493 1351,2494 1397,2494 1472,2495 1516,2495 1672,2496 1719,2496 1938,2497 1982,2498 2096,2498"/>
                 <TextEquiv>
                     <Unicode>habe durch die Beſitznahme von Cypern gleichzeitig einen</Unicode>
                 </TextEquiv>
@@ -805,14 +805,14 @@ der Letztere wird ihm morgen dahin nachfolgen.</Unicode>
             </TextLine>
             <TextLine id="r2l20" custom="readingOrder {index:19;}">
                 <Coords points="677,5338 713,5335 900,5335 1097,5337 2013,5351 2064,5357 2064,5392 1173,5388 1071,5390 677,5377"/>
-                <Baseline points="677,5376 900,5379 943,5379 1170,5382 1208,5382 1251,5383 1290,5383 1360,5385 1403,5385 1516,5387 1559,5387 1687,5388 1717,5389 1957,5391 1991,5392 2064,5383"/>
+                <Baseline points="677,5376 900,5379 943,5379 1170,5382 1208,5382 1251,5383 1290,5383 1360,5385 1403,5385 1516,5387 1559,5387 1687,5388 1717,5389 1957,5391 1991,5391 2064,5383"/>
                 <TextEquiv>
                     <Unicode>direkten Steuern in den erſten neun Monaten des</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l21" custom="readingOrder {index:20;}">
                 <Coords points="675,5385 717,5385 1280,5390 1958,5400 1995,5401 2060,5412 2060,5443 1995,5452 718,5436 676,5436"/>
-                <Baseline points="675,5426 830,5428 849,5428 962,5430 1018,5431 1096,5432 1123,5432 1280,5434 1301,5434 1476,5437 1502,5438 1664,5439 1694,5440 1834,5441 1861,5441 1903,5442 1922,5442 2060,5435"/>
+                <Baseline points="675,5425 830,5428 849,5428 962,5430 1018,5431 1096,5432 1123,5432 1280,5434 1301,5434 1476,5437 1502,5438 1664,5439 1694,5440 1834,5441 1861,5441 1903,5442 1922,5442 2060,5435"/>
                 <TextEquiv>
                     <Unicode>Jahres 1878. Die direkten Steuern ergaben danach in dieſem</Unicode>
                 </TextEquiv>
@@ -1301,7 +1301,7 @@ Erläuterungen verlangt hat.</Unicode>
             </TextLine>
             <TextLine id="r8l2" custom="readingOrder {index:1;}">
                 <Coords points="2168,2214 2221,2214 2466,2215 3476,2222 3510,2225 3566,2240 3566,2257 3541,2264 3476,2274 3443,2274 2645,2272 2168,2265"/>
-                <Baseline points="2168,2255 2294,2256 2321,2257 2466,2258 2508,2259 2569,2259 2595,2260 2930,2263 2958,2263 3195,2263 3233,2263 3304,2263 3331,2264 3412,2264 3443,2264 3567,2264"/>
+                <Baseline points="2168,2255 2294,2256 2321,2257 2466,2258 2508,2259 2569,2259 2595,2260 2930,2263 2958,2263 3195,2263 3233,2263 3304,2263 3331,2264 3412,2264 3443,2264 3565,2257"/>
                 <TextEquiv>
                     <Unicode>Heute hielten die rumäniſchen Truppen mit dem Für⸗</Unicode>
                 </TextEquiv>
@@ -1701,7 +1701,7 @@ Fälle. Alte Verjährungsfriſt. Perſonalnachrichten.</Unicode>
             </TextLine>
             <TextLine id="r12l30" custom="readingOrder {index:29;}">
                 <Coords points="2137,4906 2153,4906 2666,4910 3478,4919 3526,4935 3526,4960 3478,4965 2680,4946 2443,4957 2137,4949"/>
-                <Baseline points="2137,4945 2391,4947 2417,4948 2723,4951 2762,4951 2803,4951 3078,4954 3145,4955 3186,4956 3246,4957 3271,4957 3526,4960"/>
+                <Baseline points="2137,4945 2391,4947 2417,4948 2723,4947 2762,4947 2803,4948 3078,4954 3145,4955 3186,4956 3246,4957 3271,4957 3526,4960"/>
                 <TextEquiv>
                     <Unicode>ſtattgehabten Wahlprüfungen iſt Folgendes: von den Abtheilungen</Unicode>
                 </TextEquiv>
@@ -1940,7 +1940,7 @@ kenntniß, Umſicht und Vaterlandsliebe auszugleichen.</Unicode>
             <Coords points="2105,6221 3528,6221 3524,6577 2104,6569"/>
             <TextLine id="r14l1" custom="readingOrder {index:0;}">
                 <Coords points="2215,6229 2352,6229 2837,6230 3275,6235 3483,6244 3507,6257 3507,6274 3483,6279 3392,6286 3379,6286 2474,6278 2330,6274 2215,6269"/>
-                <Baseline points="2215,6269 2352,6267 2388,6267 2451,6268 2474,6268 2837,6271 2877,6272 2934,6272 2974,6273 3275,6277 3305,6278 3504,6275"/>
+                <Baseline points="2215,6269 2352,6267 2388,6267 2451,6268 2474,6268 2837,6271 2877,6272 2934,6272 2974,6273 3275,6277 3305,6278 3503,6274"/>
                 <TextEquiv>
                     <Unicode>Gemäß den Veröffentlichungen des Kaiſerlichen Geſund⸗</Unicode>
                 </TextEquiv>
@@ -2673,7 +2673,7 @@ burg 25,2, in München 32,1, in Nürnberg 23,3, in Augsburg 25,0,</Unicode>
             </TextLine>
             <TextLine id="r15l97" custom="readingOrder {index:96;}">
                 <Coords points="3601,4805 3655,4804 3695,4804 4841,4812 4986,4822 5004,4831 5004,4846 4986,4855 4966,4862 4841,4866 4719,4866 3655,4850 3601,4849"/>
-                <Baseline points="3601,4843 3695,4844 3767,4844 3823,4845 3896,4845 4124,4847 4197,4848 4269,4849 4337,4849 4423,4850 4446,4851 4491,4851 4576,4853 4631,4853 4719,4855 5000,4853"/>
+                <Baseline points="3601,4843 3695,4844 3767,4844 3823,4845 3896,4845 4124,4847 4197,4848 4269,4849 4337,4849 4423,4850 4446,4851 4491,4851 4576,4853 4631,4853 4719,4855 4998,4849"/>
                 <TextEquiv>
                     <Unicode>Zahl der Verſicherten und 4,98 % der Verſicherungs⸗</Unicode>
                 </TextEquiv>
@@ -2729,7 +2729,7 @@ burg 25,2, in München 32,1, in Nürnberg 23,3, in Augsburg 25,0,</Unicode>
             </TextLine>
             <TextLine id="r15l105" custom="readingOrder {index:104;}">
                 <Coords points="3596,5168 3640,5168 3860,5169 4052,5171 4901,5180 4978,5181 4996,5195 4996,5208 4978,5217 4931,5224 4864,5224 4380,5221 3887,5217 3704,5213 3596,5207"/>
-                <Baseline points="3596,5207 3675,5207 3704,5208 3860,5208 3887,5208 4052,5214 4093,5216 4209,5212 4250,5213 4296,5213 4319,5213 4438,5214 4462,5214 4554,5215 4596,5216 4660,5217 4700,5217 4761,5217 4788,5217 4834,5217 4864,5217 4995,5216"/>
+                <Baseline points="3596,5207 3675,5207 3704,5208 3860,5208 3887,5208 4052,5214 4093,5216 4209,5212 4250,5213 4296,5213 4319,5213 4438,5214 4462,5214 4554,5215 4596,5216 4660,5217 4700,5217 4761,5217 4788,5217 4834,5217 4864,5217 4992,5210"/>
                 <TextEquiv>
                     <Unicode>Den ſtärkſten Zuwachs hatten im Jahre 1877 von den 35 Geſell⸗</Unicode>
                 </TextEquiv>
@@ -2908,7 +2908,7 @@ verſicherungsanſtalten im Deutſchen Reich zuſammen jährlich</Unicode>
             </TextLine>
             <TextLine id="r16l3" custom="readingOrder {index:2;}">
                 <Coords points="3964,5605 4053,5605 4166,5606 4609,5611 4609,5654 4169,5643 3985,5641 3964,5639"/>
-                <Baseline points="3962,5637 4605,5652"/>
+                <Baseline points="3964,5637 4605,5652"/>
                 <TextEquiv>
                     <Unicode>1839 — 1843 „ 99 000 000 „</Unicode>
                 </TextEquiv>
@@ -3035,7 +3035,7 @@ verſicherungsanſtalten im Deutſchen Reich zuſammen jährlich</Unicode>
             </TextLine>
             <TextLine id="r17l9" custom="readingOrder {index:8;}">
                 <Coords points="3581,6332 3785,6340 4806,6346 4872,6343 4959,6351 4984,6366 4984,6382 4935,6386 4805,6388 4781,6390 4109,6382 3603,6379 3581,6371"/>
-                <Baseline points="3580,6372 3790,6373 3840,6373 3906,6374 3924,6374 3987,6375 4012,6375 4062,6376 4104,6376 4354,6378 4398,6379 4594,6381 4641,6381 4716,6382 4764,6382 4983,6379"/>
+                <Baseline points="3581,6371 3790,6373 3840,6373 3906,6374 3924,6374 3987,6375 4012,6375 4062,6376 4104,6376 4354,6378 4398,6379 4594,6381 4641,6381 4716,6382 4764,6382 4983,6379"/>
                 <TextEquiv>
                     <Unicode>Ausſteuer, 351 441 ℳ aufgeſchobene Leibrenten und Penſionen,</Unicode>
                 </TextEquiv>
@@ -3088,7 +3088,7 @@ bei der Concordia, mit 98 704 248 ℳ bei der Thuringia, mit
             <Coords points="5181,419 6604,419 6604,2658 5181,2658"/>
             <TextLine id="r18l1" custom="readingOrder {index:0;}">
                 <Coords points="5212,444 5345,439 5402,435 5462,433 5624,431 5776,431 6335,438 6482,441 6556,443 6592,445 6589,480 6556,485 5751,478 5612,476 5222,490"/>
-                <Baseline points="5220,488 5366,476 5375,476 5451,474 5462,473 5526,472 5549,471 5601,473 5624,473 5776,472 5814,473 5883,473 5919,473 5929,473 5951,474 6021,474 6033,475 6104,475 6125,476 6173,476 6210,477 6391,479 6415,479 6482,480 6507,480 6589,477"/>
+                <Baseline points="5221,487 5366,476 5375,476 5451,474 5462,473 5526,472 5549,471 5601,473 5624,473 5776,472 5814,473 5883,473 5919,473 5929,473 5951,474 6021,474 6033,475 6104,475 6125,476 6173,476 6210,477 6391,479 6415,479 6482,480 6507,480 6589,477"/>
                 <TextEquiv>
                     <Unicode>mit 148 059 323 ℳ Kapital und 1 636 037 ℳ jährlicher und reſp.</Unicode>
                 </TextEquiv>
@@ -3116,7 +3116,7 @@ bei der Concordia, mit 98 704 248 ℳ bei der Thuringia, mit
             </TextLine>
             <TextLine id="r18l5" custom="readingOrder {index:4;}">
                 <Coords points="5213,632 5249,623 5787,615 6532,621 6556,622 6591,638 6591,653 6573,661 6556,666 6532,668 6007,662 5375,663 5215,676"/>
-                <Baseline points="5218,666 5257,663 5273,665 5336,655 5395,656 5408,655 5433,655 5490,655 5512,654 5725,653 5765,654 5843,654 5872,655 5926,655 5948,655 6006,656 6032,656 6286,659 6309,659 6588,660"/>
+                <Baseline points="5218,666 5257,663 5273,665 5336,655 5395,656 5408,655 5433,655 5490,655 5512,654 5725,653 5765,654 5843,654 5872,655 5926,655 5948,655 6006,656 6032,656 6286,659 6309,659 6585,655"/>
                 <TextEquiv>
                     <Unicode>20 995 bei der Concordia, 611 bei der Magdeburger Lebensverſiche⸗</Unicode>
                 </TextEquiv>
@@ -3144,7 +3144,7 @@ bei der Concordia, mit 98 704 248 ℳ bei der Thuringia, mit
             </TextLine>
             <TextLine id="r18l9" custom="readingOrder {index:8;}">
                 <Coords points="5304,800 5476,797 5815,796 6170,796 6538,803 6574,804 6587,820 6587,834 6574,848 6495,849 5615,842 5498,846 5304,844"/>
-                <Baseline points="5304,839 5369,838 5393,837 5454,837 5476,838 5700,834 5731,834 5790,835 5815,835 6170,837 6195,837 6263,838 6298,838 6343,839 6369,839 6583,842"/>
+                <Baseline points="5304,839 5369,838 5393,837 5454,837 5476,838 5700,834 5731,834 5790,835 5815,835 6170,837 6195,837 6263,838 6298,838 6343,839 6369,839 6581,840"/>
                 <TextEquiv>
                     <Unicode>Bei der Berechnung der Geſchäftsergebniſſe von 46 Geſellſchaf⸗</Unicode>
                 </TextEquiv>
@@ -3158,7 +3158,7 @@ bei der Concordia, mit 98 704 248 ℳ bei der Thuringia, mit
             </TextLine>
             <TextLine id="r18l11" custom="readingOrder {index:10;}">
                 <Coords points="5219,902 5300,895 5385,889 5524,888 5729,887 6013,887 6561,894 6586,895 6586,934 6566,938 5719,926 5219,942"/>
-                <Baseline points="5219,940 5361,927 5385,927 5409,927 5424,926 5492,926 5499,926 5570,925 5586,925 5656,924 5666,924 5716,927 5729,926 6128,927 6142,927 6239,927 6255,928 6340,930 6360,931 6398,932 6411,932 6586,931"/>
+                <Baseline points="5219,940 5361,927 5385,927 5409,927 5424,926 5492,926 5499,926 5570,925 5586,925 5656,924 5666,924 5715,926 5729,926 6128,927 6142,927 6239,927 6255,928 6340,930 6360,931 6398,932 6411,932 6586,931"/>
                 <TextEquiv>
                     <Unicode>konnten, 2 329 168 878 ℳ Verſicherungsbeſtand Ende 1877 in Betracht.</Unicode>
                 </TextEquiv>
@@ -3256,7 +3256,7 @@ bei der Concordia, mit 98 704 248 ℳ bei der Thuringia, mit
             </TextLine>
             <TextLine id="r18l25" custom="readingOrder {index:24;}">
                 <Coords points="5314,1525 6055,1529 6133,1529 6363,1530 6481,1531 6529,1533 6556,1543 6556,1577 6419,1577 5321,1570"/>
-                <Baseline points="5320,1566 5917,1566 5930,1566 6055,1566 6091,1566 6115,1566 6169,1566 6193,1566 6363,1568 6391,1568 6556,1570"/>
+                <Baseline points="5320,1565 5917,1566 5930,1566 6055,1566 6091,1566 6115,1566 6169,1566 6193,1566 6363,1568 6391,1568 6556,1570"/>
                 <TextEquiv>
                     <Unicode>1 275 128 „ „ „ 2 „ in der deutſchen Schweiz.</Unicode>
                 </TextEquiv>
@@ -3277,7 +3277,7 @@ bei der Concordia, mit 98 704 248 ℳ bei der Thuringia, mit
             </TextLine>
             <TextLine id="r18l28" custom="readingOrder {index:27;}">
                 <Coords points="5219,1688 5293,1673 5325,1670 5467,1668 5663,1666 5903,1665 5922,1665 6288,1669 6308,1680 6308,1708 6087,1715 5715,1707 5601,1707 5219,1716"/>
-                <Baseline points="5224,1716 5271,1710 5293,1709 5365,1703 5392,1703 5443,1703 5467,1703 5579,1703 5606,1703 5684,1703 5701,1703 5749,1703 5774,1704 5822,1704 5846,1704 5958,1703 5985,1703 6094,1703 6117,1705 6308,1707"/>
+                <Baseline points="5223,1715 5271,1710 5293,1709 5365,1703 5392,1703 5443,1703 5467,1703 5579,1703 5606,1703 5684,1703 5701,1703 5749,1703 5774,1704 5822,1704 5846,1704 5958,1703 5985,1703 6094,1703 6117,1705 6308,1707"/>
                 <TextEquiv>
                     <Unicode>um 4,78 % (gegen 3,77 % im Jahre 1876) gewachſen.</Unicode>
                 </TextEquiv>
@@ -3333,7 +3333,7 @@ bei der Concordia, mit 98 704 248 ℳ bei der Thuringia, mit
             </TextLine>
             <TextLine id="r18l36" custom="readingOrder {index:35;}">
                 <Coords points="5257,2041 5343,2035 6200,2035 6257,2036 6468,2043 6470,2082 6458,2082 5331,2080 5257,2078"/>
-                <Baseline points="5257,2076 5416,2074 5443,2074 5597,2073 5627,2073 5690,2073 5773,2072 5839,2071 5855,2071 5920,2072 5963,2072 5975,2072 6035,2072 6048,2072 6102,2072 6257,2071 6307,2071 6319,2071 6458,2071 6470,2071"/>
+                <Baseline points="5257,2076 5416,2074 5443,2074 5597,2073 5627,2073 5690,2073 5773,2072 5839,2071 5855,2071 5920,2072 5963,2072 5975,2072 6035,2072 6048,2072 6102,2072 6257,2071 6307,2071 6319,2071 6458,2071 6469,2071"/>
                 <TextEquiv>
                     <Unicode>deutſchen Schweiz auf 437 943 „ „ 11,12 % „ „</Unicode>
                 </TextEquiv>
@@ -3574,7 +3574,7 @@ gewachſen, während die Zunahme im Jahre 1876 30 302 082 ℳ oder
             </TextLine>
             <TextLine id="r20l13" custom="readingOrder {index:12;}">
                 <Coords points="5212,3313 5269,3301 5602,3299 6418,3298 6533,3298 6586,3308 6586,3336 6493,3343 5309,3344 5213,3349"/>
-                <Baseline points="5212,3340 5246,3340 5269,3340 5366,3339 5392,3339 5550,3338 5602,3337 5680,3337 5705,3337 5869,3337 5894,3337 5947,3337 5973,3337 6183,3337 6221,3337 6339,3337 6379,3337 6444,3336 6480,3336 6586,3335"/>
+                <Baseline points="5212,3339 5246,3340 5269,3340 5366,3339 5392,3339 5550,3338 5602,3337 5680,3337 5705,3337 5869,3337 5894,3337 5947,3337 5973,3337 6183,3337 6221,3337 6339,3337 6379,3337 6444,3336 6480,3336 6586,3335"/>
                 <TextEquiv>
                     <Unicode>zu haben ſchienen. Der Zudrang des Publikums wächſt mit jedem</Unicode>
                 </TextEquiv>
@@ -3878,7 +3878,7 @@ kenswerthe Zuſammenſtellung Die Kataloge ſind wie die früheren
             </TextLine>
             <TextLine id="r22l15" custom="readingOrder {index:14;}">
                 <Coords points="5292,5033 6534,5033 6577,5034 6577,5077 6534,5079 5488,5080 5293,5075"/>
-                <Baseline points="5292,5072 5369,5072 5406,5072 5556,5073 5595,5073 5772,5072 5796,5072 5900,5072 5934,5072 6021,5072 6059,5072 6128,5072 6162,5072 6325,5072 6353,5072 6577,5071"/>
+                <Baseline points="5292,5071 5369,5072 5406,5072 5556,5073 5595,5073 5772,5072 5796,5072 5900,5072 5934,5072 6021,5072 6059,5072 6128,5072 6162,5072 6325,5072 6353,5072 6577,5071"/>
                 <TextEquiv>
                     <Unicode>Von dortiger ärztlicher Seite wird jetzt ebenfalls eingeräumt,</Unicode>
                 </TextEquiv>
@@ -3955,7 +3955,7 @@ kenswerthe Zuſammenſtellung Die Kataloge ſind wie die früheren
             </TextLine>
             <TextLine id="r22l26" custom="readingOrder {index:25;}">
                 <Coords points="5206,5530 6547,5530 6575,5541 6575,5567 6383,5576 6352,5577 6112,5578 5430,5580 5207,5575"/>
-                <Baseline points="5206,5570 5473,5573 5497,5573 5738,5573 5775,5573 5847,5572 5871,5573 6057,5571 6083,5571 6122,5571 6143,5571 6180,5571 6205,5571 6262,5571 6285,5571 6383,5569 6410,5569 6480,5568 6508,5567 6575,5567"/>
+                <Baseline points="5206,5569 5473,5573 5497,5573 5738,5573 5775,5573 5847,5572 5871,5573 6057,5571 6083,5571 6122,5571 6143,5571 6180,5571 6205,5571 6262,5571 6285,5571 6383,5569 6410,5569 6480,5568 6508,5567 6575,5567"/>
                 <TextEquiv>
                     <Unicode>Mittheilungen entnommen: Die Direktion iſt in der Lage, eine Di⸗</Unicode>
                 </TextEquiv>
@@ -4039,7 +4039,7 @@ kenswerthe Zuſammenſtellung Die Kataloge ſind wie die früheren
             </TextLine>
             <TextLine id="r22l38" custom="readingOrder {index:37;}">
                 <Coords points="5201,6072 5801,6067 6087,6067 6257,6073 6577,6072 6583,6117 6278,6118 6083,6120 5794,6123 5203,6116"/>
-                <Baseline points="5201,6114 5519,6116 5561,6116 5652,6115 5677,6115 5698,6113 5720,6113 5786,6112 5801,6112 5868,6111 5886,6113 5932,6113 5977,6112 6059,6112 6061,6112 6141,6112 6163,6111 6574,6111"/>
+                <Baseline points="5202,6113 5519,6116 5561,6116 5652,6115 5677,6115 5698,6113 5720,6113 5786,6112 5801,6112 5868,6111 5886,6113 5932,6113 5977,6112 6059,6112 6061,6112 6141,6112 6163,6111 6574,6111"/>
                 <TextEquiv>
                     <Unicode>Beſtellungswerth circa 3 250 000 ℳ Der diesjährige Reingewinn,</Unicode>
                 </TextEquiv>
@@ -4074,7 +4074,7 @@ kenswerthe Zuſammenſtellung Die Kataloge ſind wie die früheren
             </TextLine>
             <TextLine id="r22l43" custom="readingOrder {index:42;}">
                 <Coords points="5279,6304 6430,6296 6499,6296 6570,6311 6567,6338 6203,6341 6139,6341 5453,6347 5274,6335"/>
-                <Baseline points="5277,6332 5427,6343 5453,6342 5592,6341 5616,6341 5674,6341 5698,6340 5918,6339 5942,6339 6125,6338 6143,6337 6207,6337 6232,6337 6387,6336 6402,6336 6570,6334"/>
+                <Baseline points="5277,6332 5427,6343 5453,6342 5592,6341 5616,6341 5674,6341 5698,6340 5918,6339 5942,6339 6125,6338 6143,6337 6207,6337 6232,6337 6387,6336 6402,6336 6567,6333"/>
                 <TextEquiv>
                     <Unicode>— Der Bericht der Königlichen Direktion der Main⸗Weſer⸗</Unicode>
                 </TextEquiv>
@@ -4166,7 +4166,7 @@ Bahn über das Betriebsjahr 1877/78 konſtatirt, daß daſſelbe bei</Unicode>
             <Coords points="6644,434 8056,434 8056,4002 6644,4002"/>
             <TextLine id="r24l1" custom="readingOrder {index:0;}">
                 <Coords points="6658,442 7591,435 7613,435 8047,443 8047,480 7885,487 7739,484 7410,481 6763,489 6658,480"/>
-                <Baseline points="6658,480 6724,481 6763,481 6947,484 6979,483 7051,483 7085,483 7271,484 7394,485 7519,485 7559,485 7631,484 7647,484 7838,482 7880,481 8047,480"/>
+                <Baseline points="6658,480 6724,481 6763,481 6947,484 6979,483 7051,483 7085,483 7270,482 7393,481 7519,481 7559,482 7631,483 7647,483 7838,482 7880,481 8047,480"/>
                 <TextEquiv>
                     <Unicode>den Verkehrs⸗ und Einnahm⸗Ergebniſſen kein günſtiges Reſultat</Unicode>
                 </TextEquiv>
@@ -4201,14 +4201,14 @@ Bahn über das Betriebsjahr 1877/78 konſtatirt, daß daſſelbe bei</Unicode>
             </TextLine>
             <TextLine id="r24l6" custom="readingOrder {index:5;}">
                 <Coords points="6660,679 6686,668 7471,666 7510,666 7978,669 8002,670 8045,672 8045,705 7787,718 7405,708 6889,719 6660,706"/>
-                <Baseline points="6660,706 6745,707 6792,707 6884,709 6931,709 7031,708 7081,708 7098,708 7116,708 7262,706 7297,706 7316,706 7375,705 7424,704 7471,705 7654,707 7702,707 7829,707 7876,707 7918,706 7932,706 8002,706 8027,706 8045,696"/>
+                <Baseline points="6660,706 6745,707 6792,707 6884,709 6931,709 7031,708 7081,708 7098,708 7116,708 7262,706 7297,706 7316,706 7375,705 7424,704 7471,705 7654,707 7702,707 7829,707 7876,707 7918,706 7932,706 8002,706 8026,705 8045,696"/>
                 <TextEquiv>
                     <Unicode>aller Art, gegen 1 132 045 t im Vorjahr, mithin 61 207 t</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r24l7" custom="readingOrder {index:6;}">
                 <Coords points="6659,722 6737,714 7396,706 7706,706 7983,715 8041,726 8041,754 7945,760 7749,757 6659,752"/>
-                <Baseline points="6659,751 6815,752 6888,753 6959,754 6993,754 7190,754 7226,754 7368,750 7396,750 7573,750 7593,751 7706,752 7736,752 7821,753 7855,753 8041,754"/>
+                <Baseline points="6659,751 6815,752 6888,753 6959,753 6993,753 7190,754 7226,754 7368,750 7396,750 7573,750 7593,751 7706,752 7736,752 7821,753 7855,753 8041,754"/>
                 <TextEquiv>
                     <Unicode>weniger. Die Ergebniſſe hieraus belaufen ſich: beim Perſonen⸗</Unicode>
                 </TextEquiv>
@@ -4236,7 +4236,7 @@ Bahn über das Betriebsjahr 1877/78 konſtatirt, daß daſſelbe bei</Unicode>
             </TextLine>
             <TextLine id="r24l11" custom="readingOrder {index:10;}">
                 <Coords points="6662,896 6685,895 7427,892 7673,892 8028,896 8042,912 8042,926 8028,939 7266,944 7026,944 6824,942 6707,939 6662,930"/>
-                <Baseline points="6663,930 6739,932 6757,932 6801,933 6824,933 6988,935 7026,935 7266,934 7289,933 7349,932 7372,931 7686,932 7710,933 7869,934 7892,934 7944,935 7967,935 8041,932"/>
+                <Baseline points="6663,930 6739,932 6757,932 6801,933 6824,933 6988,935 7026,935 7266,934 7289,933 7349,932 7372,931 7686,932 7710,933 7869,934 7892,934 7944,935 7967,935 8038,929"/>
                 <TextEquiv>
                     <Unicode>17,7 % weniger; einſchließlich der Nebenerträgniſſe betragen die In⸗</Unicode>
                 </TextEquiv>
@@ -4313,7 +4313,7 @@ Bahn über das Betriebsjahr 1877/78 konſtatirt, daß daſſelbe bei</Unicode>
             </TextLine>
             <TextLine id="r24l22" custom="readingOrder {index:21;}">
                 <Coords points="6664,1396 7353,1388 7868,1388 7971,1394 8044,1399 8043,1438 7857,1433 7350,1435 6800,1443 6664,1434"/>
-                <Baseline points="6664,1424 6702,1435 6725,1435 6908,1436 6948,1435 7125,1437 7149,1436 7252,1434 7304,1433 7375,1432 7402,1431 7473,1430 7495,1430 7697,1431 7733,1431 7799,1431 7824,1431 7890,1431 7905,1431 7971,1431 7997,1431 8044,1433"/>
+                <Baseline points="6664,1424 6702,1435 6725,1435 6908,1436 6948,1435 7125,1437 7149,1436 7252,1434 7304,1433 7375,1432 7402,1431 7473,1430 7495,1430 7697,1431 7733,1431 7799,1431 7824,1431 7890,1431 7905,1431 7971,1431 7997,1431 8043,1432"/>
                 <TextEquiv>
                     <Unicode>in Rechnung gezogenen Reſte aus den Vorjahren mit 300 079 ℳ</Unicode>
                 </TextEquiv>
@@ -4376,7 +4376,7 @@ Bahn über das Betriebsjahr 1877/78 konſtatirt, daß daſſelbe bei</Unicode>
             </TextLine>
             <TextLine id="r24l31" custom="readingOrder {index:30;}">
                 <Coords points="6658,1810 7857,1807 7890,1807 7928,1808 7969,1810 8044,1819 8044,1853 7971,1856 7248,1855 7101,1855 6658,1847"/>
-                <Baseline points="6658,1847 6721,1849 6785,1850 7106,1850 7164,1850 7286,1848 7345,1848 7412,1846 7425,1846 7494,1845 7541,1844 7589,1847 7685,1847 7794,1847 7857,1847 8044,1845"/>
+                <Baseline points="6658,1847 6721,1848 6785,1849 7106,1850 7164,1850 7286,1848 7345,1848 7412,1846 7425,1846 7494,1845 7541,1844 7589,1847 7685,1847 7794,1847 7857,1847 8044,1845"/>
                 <TextEquiv>
                     <Unicode>das Großherzogthum Heſſen 679 935 ℳ Unter Abſetzung</Unicode>
                 </TextEquiv>
@@ -4453,7 +4453,7 @@ Bahn über das Betriebsjahr 1877/78 konſtatirt, daß daſſelbe bei</Unicode>
             </TextLine>
             <TextLine id="r24l42" custom="readingOrder {index:41;}">
                 <Coords points="6660,2312 6706,2311 8023,2306 8044,2306 8041,2354 8020,2354 6660,2363"/>
-                <Baseline points="6660,2350 6792,2350 6818,2349 6864,2349 6880,2350 6947,2350 6961,2350 7030,2351 7056,2351 7113,2351 7150,2351 7271,2351 7309,2350 7373,2349 7395,2349 7446,2348 7471,2349 7646,2348 7671,2348 7886,2348 7911,2349 8023,2347 8039,2347 8044,2347"/>
+                <Baseline points="6660,2350 6792,2350 6818,2349 6864,2349 6880,2350 6947,2350 6961,2350 7030,2351 7056,2351 7113,2351 7150,2351 7271,2351 7309,2350 7373,2349 7395,2349 7446,2348 7471,2349 7646,2348 7671,2348 7886,2348 7911,2349 8023,2347 8039,2347 8041,2346"/>
                 <TextEquiv>
                     <Unicode>Jahres 52 390 408 ℳ, wovon auf die Königlich preußiſchen Bahn⸗</Unicode>
                 </TextEquiv>
@@ -4481,7 +4481,7 @@ Bahn über das Betriebsjahr 1877/78 konſtatirt, daß daſſelbe bei</Unicode>
             </TextLine>
             <TextLine id="r24l46" custom="readingOrder {index:45;}">
                 <Coords points="6744,2508 6981,2505 7893,2503 7991,2503 8016,2504 8040,2521 8040,2533 8016,2542 7991,2547 7913,2550 7253,2551 6981,2551 6746,2545"/>
-                <Baseline points="6750,2542 6879,2544 6904,2544 6957,2544 6981,2544 7398,2543 7421,2543 7477,2542 7502,2542 7684,2543 7715,2543 7772,2543 7797,2543 8034,2539"/>
+                <Baseline points="6750,2542 6879,2544 6904,2544 6957,2544 6981,2544 7398,2543 7421,2543 7477,2542 7502,2542 7684,2543 7715,2543 7772,2543 7797,2543 8032,2535"/>
                 <TextEquiv>
                     <Unicode>— In der Generalverſammlung der Aktionäre der Gußſtahl⸗</Unicode>
                 </TextEquiv>
@@ -4990,7 +4990,7 @@ berufen; dieſelbe wird im Architektenhauſe hierſelbſt ſtattfinden.</Unicode
             </TextLine>
             <TextLine id="r28l21" custom="readingOrder {index:20;}">
                 <Coords points="6648,5314 6672,5304 6787,5303 7467,5301 7588,5301 7860,5303 7974,5304 8026,5305 8026,5342 7608,5350 7144,5347 6648,5340"/>
-                <Baseline points="6648,5333 6706,5341 6732,5341 6839,5341 6866,5341 7018,5341 7042,5342 7101,5342 7135,5342 7415,5341 7442,5341 7698,5342 7725,5342 7904,5341 7928,5341 8026,5341"/>
+                <Baseline points="6648,5333 6706,5340 6732,5341 6839,5341 6866,5341 7018,5341 7042,5342 7101,5342 7135,5342 7415,5341 7442,5341 7698,5342 7725,5342 7904,5341 7928,5341 8026,5341"/>
                 <TextEquiv>
                     <Unicode>als letztes Derivat der altabeſſiniſchen Des⸗Sprache angeſehen wird.</Unicode>
                 </TextEquiv>
@@ -5018,7 +5018,7 @@ berufen; dieſelbe wird im Architektenhauſe hierſelbſt ſtattfinden.</Unicode
             </TextLine>
             <TextLine id="r28l25" custom="readingOrder {index:24;}">
                 <Coords points="6646,5483 7940,5483 7984,5484 8029,5495 8029,5521 7940,5529 7507,5538 7279,5538 6835,5530 6646,5523"/>
-                <Baseline points="6646,5523 6787,5521 6835,5522 6974,5522 6998,5522 7111,5524 7136,5524 7240,5524 7279,5523 7507,5526 7541,5526 7607,5525 7631,5525 7711,5522 7740,5522 7943,5520 7969,5523 8027,5523"/>
+                <Baseline points="6646,5523 6787,5521 6835,5522 6974,5522 6998,5522 7111,5524 7136,5524 7240,5524 7279,5523 7507,5526 7541,5526 7607,5525 7631,5525 7711,5522 7740,5522 7943,5520 7969,5523 8026,5521"/>
                 <TextEquiv>
                     <Unicode>Süden. Letztere ſtehen ſomit geographiſch wie auch linguiſtiſch den</Unicode>
                 </TextEquiv>
@@ -5032,7 +5032,7 @@ berufen; dieſelbe wird im Architektenhauſe hierſelbſt ſtattfinden.</Unicode
             </TextLine>
             <TextLine id="r28l27" custom="readingOrder {index:26;}">
                 <Coords points="6644,5574 7714,5569 7736,5569 7961,5574 7994,5576 8026,5585 8026,5611 6806,5614 6640,5613"/>
-                <Baseline points="6644,5612 6726,5612 6768,5613 6840,5612 6866,5612 7024,5614 7048,5614 7106,5614 7132,5614 7270,5613 7294,5613 7393,5612 7422,5612 7690,5612 7714,5612 7771,5612 7794,5612 7830,5612 7854,5612 7916,5611 7942,5611 8026,5611"/>
+                <Baseline points="6644,5612 6726,5612 6768,5613 6840,5612 6866,5612 7023,5613 7047,5613 7105,5613 7131,5613 7269,5612 7293,5612 7393,5612 7422,5612 7689,5611 7713,5611 7770,5611 7793,5611 7829,5611 7853,5611 7916,5611 7942,5611 8026,5611"/>
                 <TextEquiv>
                     <Unicode>ſein. Die Sprache der Petſcha reicht wahrſcheinlich bis zu den älte⸗</Unicode>
                 </TextEquiv>
@@ -5116,7 +5116,7 @@ berufen; dieſelbe wird im Architektenhauſe hierſelbſt ſtattfinden.</Unicode
             </TextLine>
             <TextLine id="r28l39" custom="readingOrder {index:38;}">
                 <Coords points="6642,6117 7436,6114 7713,6114 7968,6115 7984,6116 8022,6127 8022,6160 7796,6160 7682,6153 6723,6162 6642,6161"/>
-                <Baseline points="6642,6154 6808,6154 6847,6155 6916,6155 6949,6155 7001,6156 7038,6156 7206,6157 7231,6157 7398,6159 7436,6159 7470,6158 7506,6158 7713,6159 7753,6159 7805,6160 7829,6160 7849,6160 7876,6161 8022,6160"/>
+                <Baseline points="6642,6154 6808,6154 6847,6155 6916,6155 6949,6155 7001,6156 7038,6156 7206,6157 7231,6157 7397,6155 7435,6155 7469,6154 7505,6154 7713,6154 7753,6157 7805,6160 7829,6160 7849,6160 7876,6160 8022,6160"/>
                 <TextEquiv>
                     <Unicode>herrſchen nur die arabiſche Sprache, ſo namentlich die 3 Djalin,</Unicode>
                 </TextEquiv>
@@ -5720,7 +5720,7 @@ durch elektriſches Licht erhellt.</Unicode>
             </TextLine>
             <TextLine id="r31l34" custom="readingOrder {index:33;}">
                 <Coords points="8112,3404 9478,3400 9500,3400 9500,3446 9479,3450 8113,3446"/>
-                <Baseline points="8112,3442 8241,3442 8266,3442 8329,3443 8354,3443 8432,3443 8455,3443 8666,3444 8704,3444 8851,3444 8909,3445 8998,3445 9033,3445 9175,3445 9199,3445 9334,3445 9370,3445 9478,3445 9495,3445 9500,3445"/>
+                <Baseline points="8112,3441 8241,3442 8266,3442 8329,3443 8354,3443 8432,3443 8455,3443 8666,3444 8704,3444 8851,3444 8909,3445 8998,3445 9033,3445 9175,3445 9199,3445 9334,3445 9370,3445 9478,3445 9495,3445 9500,3445"/>
                 <TextEquiv>
                     <Unicode>Seiten hin weit übertroffen worden. Das ſchönſte Wetter begün⸗</Unicode>
                 </TextEquiv>
@@ -6016,7 +6016,7 @@ Perſonen getödtet und einige 40 verwundet worden.</Unicode>
             </TextLine>
             <TextLine id="r34l17" custom="readingOrder {index:16;}">
                 <Coords points="8103,5066 8126,5055 8172,5049 8189,5049 9158,5052 9445,5054 9489,5065 9489,5090 8350,5096 8197,5099 8103,5092"/>
-                <Baseline points="8103,5085 8238,5091 8262,5091 8350,5091 8400,5091 8477,5091 8526,5090 8735,5089 8783,5089 8900,5090 8938,5089 8996,5089 9036,5090 9276,5090 9317,5091 9489,5090"/>
+                <Baseline points="8103,5085 8238,5091 8262,5091 8350,5091 8400,5091 8477,5091 8526,5090 8735,5089 8783,5089 8900,5090 8938,5089 8996,5089 9036,5090 9276,5090 9316,5090 9489,5090"/>
                 <TextEquiv>
                     <Unicode>oſtaſiatiſchen oder japaniſchen Hafen die Mittheilung erwarten</Unicode>
                 </TextEquiv>
@@ -6061,7 +6061,7 @@ beſprochene Nordoſt⸗Paſſage zu finden, gelöſt hat.</Unicode>
             <Coords points="8082,5229 9517,5229 9518,5933 8083,5933"/>
             <TextLine id="r35l1" custom="readingOrder {index:0;}">
                 <Coords points="8195,5245 8219,5239 8243,5239 9051,5243 9393,5245 9489,5246 9488,5285 8242,5289 8219,5295 8195,5283"/>
-                <Baseline points="8195,5283 8274,5283 8382,5283 9051,5283 9105,5282 9313,5283 9373,5283 9489,5285"/>
+                <Baseline points="8195,5283 8274,5283 8382,5283 9051,5283 9105,5282 9313,5283 9373,5283 9488,5284"/>
                 <TextEquiv>
                     <Unicode>Das Friedrich⸗Wilhelmſtädtiſche Theater begeht</Unicode>
                 </TextEquiv>
@@ -6186,7 +6186,7 @@ National⸗Theater und zwar als „Othello“ auf.</Unicode>
             <Coords points="8086,5961 9521,5961 9520,6575 8085,6575"/>
             <TextLine id="r36l1" custom="readingOrder {index:0;}">
                 <Coords points="8189,5982 9214,5978 9401,5978 9482,5981 9482,6018 9249,6018 8810,6026 8778,6027 8190,6023"/>
-                <Baseline points="8189,6021 8259,6020 8285,6020 8567,6019 8599,6019 8809,6017 8833,6017 8905,6018 8942,6021 9190,6016 9214,6016 9320,6016 9347,6017 9482,6018"/>
+                <Baseline points="8189,6020 8259,6020 8285,6020 8567,6019 8599,6019 8809,6017 8833,6017 8905,6018 8942,6021 9190,6016 9214,6016 9320,6016 9347,6017 9482,6018"/>
                 <TextEquiv>
                     <Unicode>Die unterhaltenden Soiréen des Phyſikers Hrn. Bött⸗</Unicode>
                 </TextEquiv>

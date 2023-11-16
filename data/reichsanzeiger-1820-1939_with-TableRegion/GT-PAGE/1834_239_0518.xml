@@ -1,24 +1,24 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
     <Metadata>
         <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.7.1:model_id=40804:lm=none:date=04_07_2022_13:48
 prov=READ-COOP:name=PyLaia@Transkribus:version=0.7.1:model_id=40804:date=04_07_2022_13:48
 Transkribus</Creator>
         <Created>2021-12-14T11:23:26.558+01:00</Created>
-        <LastChange>2023-06-13T17:02:04.607+02:00</LastChange>
+        <LastChange>2023-11-15T20:48:21.769+01:00</LastChange>
         <Comments>
                 Measurement unit: pixel
                 PrimaryLanguage: 
                 Producer: Transkribus
             </Comments>
-        <TranskribusMetadata docId="888083" pageId="34058920" pageNr="1" tsid="126883952" status="GT" userId="109938" imgUrl="https://files.transkribus.eu/Get?id=KKXGWJNWIZPEDDDBJPZFQBUZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OLBPUGFOPMNEBYELZTWIXVGR" imageId="27308918"/>
+        <TranskribusMetadata docId="888083" pageId="34058920" pageNr="1" tsid="139840765" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=KKXGWJNWIZPEDDDBJPZFQBUZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JKIFJUONWJWTHDAZCMBNWSFZ" imageId="27308918"/>
     </Metadata>
     <Page imageFilename="1834_239_0518.jpg" imageWidth="10344" imageHeight="6936">
         <PrintSpace>
             <Coords points="535,236 10039,228 10026,6793 522,6801"/>
         </PrintSpace>
         <ReadingOrder>
-            <OrderedGroup id="ro_1690360020204" caption="Regions reading order">
+            <OrderedGroup id="ro_1700129746220" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
                 <RegionRefIndexed index="1" regionRef="r2"/>
                 <RegionRefIndexed index="2" regionRef="r3"/>
@@ -133,7 +133,7 @@ Transkribus</Creator>
             </TextLine>
             <TextLine id="r2l3" custom="readingOrder {index:2;}">
                 <Coords points="867,474 898,465 906,465 2298,479 2324,491 2324,520 2298,523 2189,531 2096,531 1672,530 870,517"/>
-                <Baseline points="867,509 1015,511 1047,511 1211,515 1242,516 1319,516 1347,517 1514,518 1534,518 1604,519 1624,519 1916,523 1938,523 2189,522 2244,522 2324,520"/>
+                <Baseline points="869,508 1015,511 1047,511 1211,515 1242,516 1319,516 1347,517 1514,518 1534,518 1604,519 1624,519 1916,523 1938,523 2189,522 2244,522 2324,520"/>
                 <TextEquiv>
                     <Unicode>gleitet, empfing und geleitete den hochverehrten Monarchen. Se.</Unicode>
                 </TextEquiv>
@@ -408,7 +408,7 @@ mehreren ihnen zu Ehren veranſtalteten Baͤllen beigewohnt.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -429,7 +429,7 @@ mehreren ihnen zu Ehren veranſtalteten Baͤllen beigewohnt.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -450,7 +450,7 @@ mehreren ihnen zu Ehren veranſtalteten Baͤllen beigewohnt.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -471,7 +471,7 @@ mehreren ihnen zu Ehren veranſtalteten Baͤllen beigewohnt.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -492,7 +492,7 @@ mehreren ihnen zu Ehren veranſtalteten Baͤllen beigewohnt.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -506,7 +506,7 @@ mehreren ihnen zu Ehren veranſtalteten Baͤllen beigewohnt.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -520,7 +520,7 @@ mehreren ihnen zu Ehren veranſtalteten Baͤllen beigewohnt.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -528,13 +528,13 @@ mehreren ihnen zu Ehren veranſtalteten Baͤllen beigewohnt.</Unicode>
                 <Coords points="1344,2330 1344,2405 1607,2405 1607,2330"/>
                 <TextLine id="TableCell_1639487226370_775l0" custom="readingOrder {index:0;}">
                     <Coords points="1354,2356 1369,2355 1606,2360 1608,2406 1351,2405"/>
-                    <Baseline points="1344,2399 1459,2400 1471,2400 1488,2400 1518,2400 1608,2399"/>
+                    <Baseline points="1351,2399 1459,2400 1471,2400 1488,2400 1518,2400 1607,2399"/>
                     <TextEquiv>
                         <Unicode>335,92 '''Par.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -542,13 +542,13 @@ mehreren ihnen zu Ehren veranſtalteten Baͤllen beigewohnt.</Unicode>
                 <Coords points="1607,2330 1607,2405 1870,2417 1864,2330"/>
                 <TextLine id="TableCell_1639487225239_727l0" custom="readingOrder {index:0;}">
                     <Coords points="1612,2361 1672,2359 1783,2365 1829,2365 1851,2378 1862,2382 1860,2404 1844,2407 1615,2403"/>
-                    <Baseline points="1607,2402 1717,2401 1736,2401 1852,2401"/>
+                    <Baseline points="1614,2401 1717,2401 1736,2401 1852,2401"/>
                     <TextEquiv>
                         <Unicode>335,14 '''Par.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -562,7 +562,7 @@ mehreren ihnen zu Ehren veranſtalteten Baͤllen beigewohnt.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -576,7 +576,7 @@ mehreren ihnen zu Ehren veranſtalteten Baͤllen beigewohnt.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -584,13 +584,13 @@ mehreren ihnen zu Ehren veranſtalteten Baͤllen beigewohnt.</Unicode>
                 <Coords points="1073,2405 1073,2452 1344,2452 1344,2405"/>
                 <TextLine id="TableCell_1639487228881_829l0" custom="readingOrder {index:0;}">
                     <Coords points="1089,2409 1336,2408 1336,2452 1089,2453"/>
-                    <Baseline points="1099,2449 1302,2453 1314,2447 1327,2446"/>
+                    <Baseline points="1099,2449 1301,2452 1314,2447 1327,2446"/>
                     <TextEquiv>
                         <Unicode>11,0 °R.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -604,7 +604,7 @@ mehreren ihnen zu Ehren veranſtalteten Baͤllen beigewohnt.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -618,7 +618,7 @@ mehreren ihnen zu Ehren veranſtalteten Baͤllen beigewohnt.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -626,13 +626,13 @@ mehreren ihnen zu Ehren veranſtalteten Baͤllen beigewohnt.</Unicode>
                 <Coords points="1870,2417 1864,2452 1864,2501 2307,2501 2307,2452 2307,2426"/>
                 <TextLine id="TableCell_1639487287337_869l1" custom="readingOrder {index:0;}">
                     <Coords points="1879,2438 1901,2440 2259,2447 2267,2476 2267,2484 2259,2487 1927,2483 1876,2480"/>
-                    <Baseline points="1864,2472 2062,2478 2088,2479 2169,2481 2189,2482 2267,2484"/>
+                    <Baseline points="1876,2472 2062,2478 2088,2479 2169,2481 2189,2482 2267,2484"/>
                     <TextEquiv>
                         <Unicode>Flußwärme 17,8 °R.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 2 3 5</CornerPts>
             </TableCell>
@@ -646,7 +646,7 @@ mehreren ihnen zu Ehren veranſtalteten Baͤllen beigewohnt.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -660,7 +660,7 @@ mehreren ihnen zu Ehren veranſtalteten Baͤllen beigewohnt.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -674,7 +674,7 @@ mehreren ihnen zu Ehren veranſtalteten Baͤllen beigewohnt.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -688,7 +688,7 @@ mehreren ihnen zu Ehren veranſtalteten Baͤllen beigewohnt.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -702,7 +702,7 @@ mehreren ihnen zu Ehren veranſtalteten Baͤllen beigewohnt.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -716,7 +716,7 @@ mehreren ihnen zu Ehren veranſtalteten Baͤllen beigewohnt.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -730,7 +730,7 @@ mehreren ihnen zu Ehren veranſtalteten Baͤllen beigewohnt.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -744,7 +744,7 @@ mehreren ihnen zu Ehren veranſtalteten Baͤllen beigewohnt.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -758,7 +758,7 @@ mehreren ihnen zu Ehren veranſtalteten Baͤllen beigewohnt.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -772,7 +772,7 @@ mehreren ihnen zu Ehren veranſtalteten Baͤllen beigewohnt.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -786,7 +786,7 @@ mehreren ihnen zu Ehren veranſtalteten Baͤllen beigewohnt.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -800,7 +800,7 @@ mehreren ihnen zu Ehren veranſtalteten Baͤllen beigewohnt.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -814,7 +814,7 @@ mehreren ihnen zu Ehren veranſtalteten Baͤllen beigewohnt.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -828,7 +828,7 @@ mehreren ihnen zu Ehren veranſtalteten Baͤllen beigewohnt.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 2 3 5</CornerPts>
             </TableCell>
@@ -842,7 +842,7 @@ mehreren ihnen zu Ehren veranſtalteten Baͤllen beigewohnt.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -856,7 +856,7 @@ mehreren ihnen zu Ehren veranſtalteten Baͤllen beigewohnt.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -870,7 +870,7 @@ mehreren ihnen zu Ehren veranſtalteten Baͤllen beigewohnt.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -884,7 +884,7 @@ mehreren ihnen zu Ehren veranſtalteten Baͤllen beigewohnt.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -898,7 +898,7 @@ mehreren ihnen zu Ehren veranſtalteten Baͤllen beigewohnt.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -912,7 +912,7 @@ mehreren ihnen zu Ehren veranſtalteten Baͤllen beigewohnt.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -920,13 +920,13 @@ mehreren ihnen zu Ehren veranſtalteten Baͤllen beigewohnt.</Unicode>
                 <Coords points="1344,2644 1344,2714 1607,2714 1607,2644"/>
                 <TextLine id="line_1641822711954_1097" custom="readingOrder {index:0;}">
                     <Coords points="1443,2647 1496,2645 1500,2694 1447,2696"/>
-                    <Baseline points="1447,2691 1500,2689"/>
+                    <Baseline points="1447,2691 1499,2689"/>
                     <TextEquiv>
                         <Unicode>O.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -934,13 +934,13 @@ mehreren ihnen zu Ehren veranſtalteten Baͤllen beigewohnt.</Unicode>
                 <Coords points="1607,2644 1607,2714 1864,2714 1864,2644"/>
                 <TextLine id="line_1641822731564_1106" custom="readingOrder {index:0;}">
                     <Coords points="1710,2651 1756,2651 1758,2693 1712,2693"/>
-                    <Baseline points="1712,2688 1758,2688"/>
+                    <Baseline points="1712,2688 1757,2688"/>
                     <TextEquiv>
                         <Unicode>—</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -948,13 +948,13 @@ mehreren ihnen zu Ehren veranſtalteten Baͤllen beigewohnt.</Unicode>
                 <Coords points="1864,2644 1864,2714 2307,2714 2307,2644"/>
                 <TextLine id="TableCell_1639487223019_715l0" custom="readingOrder {index:0;}">
                     <Coords points="1871,2644 1953,2649 2118,2660 2126,2685 2126,2694 2069,2698 1909,2696 1891,2701 1871,2701"/>
-                    <Baseline points="1864,2689 1995,2689 2069,2690 2093,2690 2126,2690"/>
+                    <Baseline points="1871,2689 1995,2689 2069,2690 2093,2690 2126,2690"/>
                     <TextEquiv>
                         <Unicode>Niederſchlag 0.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -1657,7 +1657,7 @@ in Bermeo ſtand. Rodil war an demſelben Tage von Marquina</Unicode>
             </TextLine>
             <TextLine id="r24l15" custom="readingOrder {index:14;}">
                 <Coords points="3933,1129 4483,1125 4545,1125 5001,1133 5126,1143 5198,1150 5232,1155 5237,1162 5237,1207 5000,1190 4928,1189 4109,1182 3933,1171"/>
-                <Baseline points="3933,1171 4071,1170 4109,1170 4300,1172 4342,1173 4483,1174 4523,1175 4545,1175 4563,1175 4761,1177 4820,1178 4917,1177 4948,1178 5246,1187"/>
+                <Baseline points="3933,1171 4071,1170 4109,1170 4300,1172 4342,1173 4483,1174 4523,1175 4545,1175 4563,1175 4761,1177 4820,1178 4917,1177 4948,1178 5237,1187"/>
                 <TextEquiv>
                     <Unicode>Carlos vorlaͤuſig noch im Dunkeln. Das Wahrſcheinlich</Unicode>
                 </TextEquiv>
@@ -2335,7 +2335,7 @@ Neigebaur.</Unicode>
             </TextLine>
             <TextLine id="r39l4" custom="readingOrder {index:3;}">
                 <Coords points="772,5376 859,5366 1167,5361 1246,5360 1869,5370 1911,5379 1911,5409 1228,5407 1152,5411 772,5406"/>
-                <Baseline points="772,5398 809,5398 829,5399 1040,5404 1074,5404 1298,5416 1327,5413 1476,5408 1511,5407 1597,5405 1629,5404 1680,5404 1711,5405 1816,5406 1850,5406 1911,5409"/>
+                <Baseline points="772,5398 809,5398 829,5399 1040,5404 1074,5404 1298,5407 1327,5407 1476,5407 1511,5407 1597,5405 1629,5404 1680,5404 1711,5405 1816,5406 1850,5406 1911,5409"/>
                 <TextEquiv>
                     <Unicode>landſchaftlich abgeſchaͤtzt worden, ſteht im Wege der</Unicode>
                 </TextEquiv>
@@ -2907,7 +2907,7 @@ als Dirigent dieſer Anſtalt.</Unicode>
             </TextLine>
             <TextLine id="r48l13" custom="readingOrder {index:12;}">
                 <Coords points="1937,5823 3028,5836 3048,5847 3055,5885 2914,5893 2899,5893 2163,5877 1937,5868"/>
-                <Baseline points="1937,5863 2025,5864 2056,5865 2232,5867 2265,5868 2416,5870 2450,5871 2552,5873 2589,5874 2654,5875 2679,5876 2735,5877 2774,5877 2839,5878 2870,5879 2947,5880 2982,5881 3066,5882"/>
+                <Baseline points="1937,5863 2025,5864 2056,5865 2232,5867 2265,5868 2416,5870 2450,5871 2552,5873 2589,5874 2654,5875 2679,5876 2735,5877 2774,5877 2839,5878 2870,5879 2947,5880 2982,5881 3054,5884"/>
                 <TextEquiv>
                     <Unicode>ſeine großartig bewegte Zeit, auf die wir jetzt mit</Unicode>
                 </TextEquiv>
@@ -2949,7 +2949,7 @@ als Dirigent dieſer Anſtalt.</Unicode>
             </TextLine>
             <TextLine id="r48l19" custom="readingOrder {index:18;}">
                 <Coords points="1935,6108 1960,6108 2865,6121 3036,6129 3070,6145 3038,6176 2144,6158 1938,6156"/>
-                <Baseline points="1935,6147 1999,6148 2028,6150 2147,6152 2172,6152 2243,6154 2274,6155 2365,6156 2390,6157 2631,6162 2663,6163 2814,6164 2843,6164 3070,6170"/>
+                <Baseline points="1937,6146 1999,6148 2028,6150 2147,6152 2172,6152 2243,6154 2274,6155 2365,6156 2390,6157 2631,6162 2663,6163 2814,6164 2843,6164 3057,6157"/>
                 <TextEquiv>
                     <Unicode>ßen Mann und ſeine Zeitgenoſſen treffend charakteri⸗</Unicode>
                 </TextEquiv>
@@ -3030,7 +3030,7 @@ noch an ſo mannichfachen Begebenheiten, die den gro⸗
             </TextLine>
             <TextLine id="r49l7" custom="readingOrder {index:6;}">
                 <Coords points="1922,6515 2524,6511 2543,6511 3021,6528 3039,6530 3039,6576 2570,6575 2520,6572 1927,6556"/>
-                <Baseline points="1922,6554 2135,6556 2161,6557 2267,6557 2291,6558 2390,6559 2419,6560 2551,6564 2567,6564 2781,6568 2809,6568 2919,6570 2937,6570 3039,6572"/>
+                <Baseline points="1926,6553 2135,6556 2161,6557 2267,6557 2291,6558 2390,6559 2419,6560 2551,6564 2567,6564 2781,6568 2809,6568 2919,6570 2937,6570 3039,6572"/>
                 <TextEquiv>
                     <Unicode>Deputirte, dieſer feine, ſchlaue Diplomat, deſſen Lauf⸗</Unicode>
                 </TextEquiv>
@@ -3071,7 +3071,7 @@ bahn in alle Epochen faͤllt?</Unicode>
             </TextLine>
             <TextLine id="r50l3" custom="readingOrder {index:2;}">
                 <Coords points="3099,3679 3177,3685 3193,3685 3261,3687 3289,3693 3288,3723 3262,3726 3146,3725 3099,3722"/>
-                <Baseline points="3105,3716 3289,3719"/>
+                <Baseline points="3105,3716 3288,3718"/>
                 <TextEquiv>
                     <Unicode>beziehen:</Unicode>
                 </TextEquiv>
@@ -3295,7 +3295,7 @@ bahn in alle Epochen faͤllt?</Unicode>
             </TextLine>
             <TextLine id="r50l35" custom="readingOrder {index:34;}">
                 <Coords points="3086,5237 3324,5237 4032,5245 4224,5249 4224,5294 3156,5284 3087,5292"/>
-                <Baseline points="3086,5279 3183,5279 3201,5280 3497,5280 3523,5280 3746,5281 3768,5281 4032,5286 4061,5286 4132,5286 4157,5287 4224,5287"/>
+                <Baseline points="3086,5278 3183,5279 3201,5280 3497,5280 3523,5280 3746,5281 3768,5281 4032,5286 4061,5286 4132,5286 4157,5287 4224,5287"/>
                 <TextEquiv>
                     <Unicode>ſchen Sprachbildung vorzulegen, durchgefuͤhrt, und auf</Unicode>
                 </TextEquiv>
@@ -3511,7 +3511,7 @@ Nicolaiſchen Buchhandlung in Berlin,
             </TextLine>
             <TextLine id="r52l5" custom="readingOrder {index:4;}">
                 <Coords points="3071,6438 3147,6432 3184,6432 3740,6437 4147,6441 4174,6443 4204,6453 4204,6481 4157,6486 3995,6481 3635,6482 3164,6474 3071,6473"/>
-                <Baseline points="3071,6473 3094,6473 3120,6474 3266,6477 3294,6477 3377,6476 3395,6477 3525,6475 3563,6473 4031,6478 4060,6479 4084,6479 4102,6479 4204,6479"/>
+                <Baseline points="3071,6473 3094,6473 3120,6473 3266,6475 3294,6476 3377,6476 3395,6477 3525,6475 3563,6473 4031,6478 4060,6479 4084,6479 4102,6479 4204,6479"/>
                 <TextEquiv>
                     <Unicode>9 Baͤnde, groß Oktav. Praͤnumerations⸗Preis: 5 Thlr.</Unicode>
                 </TextEquiv>
@@ -3624,7 +3624,7 @@ Den aͤußerſt billigen Praͤnumerations⸗Preis von 5</Unicode>
             </TextLine>
             <TextLine id="r53l9" custom="readingOrder {index:8;}">
                 <Coords points="4258,3987 4280,3979 4475,3979 4910,3981 5224,3985 5233,3988 5233,4027 5224,4026 5146,4029 4475,4032 4453,4032 4280,4016 4258,4013"/>
-                <Baseline points="4258,4006 4310,4016 4347,4014 4432,4016 4453,4016 4502,4017 4537,4017 4602,4018 4636,4019 4842,4019 4877,4019 4930,4020 4964,4020 5186,4022 5205,4023 5244,4025"/>
+                <Baseline points="4258,4006 4310,4016 4347,4014 4432,4016 4453,4016 4502,4017 4537,4017 4602,4018 4636,4019 4842,4019 4877,4019 4930,4020 4964,4020 5186,4022 5205,4023 5233,4025"/>
                 <TextEquiv>
                     <Unicode>als auch in den einfachſten bis eleganteſten Ei</Unicode>
                 </TextEquiv>
@@ -3681,7 +3681,7 @@ thig zu halten.</Unicode>
             </TextLine>
             <TextLine id="r55l2" custom="readingOrder {index:1;}">
                 <Coords points="4259,4311 4384,4309 4877,4311 5071,4313 5221,4315 5235,4325 5235,4355 5221,4356 5071,4361 5033,4361 4934,4360 4259,4352"/>
-                <Baseline points="4258,4341 4396,4349 4440,4349 4630,4349 4671,4350 4708,4350 4751,4350 4890,4350 4934,4352 5162,4355 5196,4355 5235,4355"/>
+                <Baseline points="4259,4341 4396,4349 4440,4349 4630,4349 4671,4350 4708,4350 4751,4350 4890,4350 4934,4352 5162,4355 5196,4355 5235,4355"/>
                 <TextEquiv>
                     <Unicode>E. S. Mittler in Berlin (Stechbahn Nr.</Unicode>
                 </TextEquiv>
@@ -3730,7 +3730,7 @@ thig zu halten.</Unicode>
             </TextLine>
             <TextLine id="r55l9" custom="readingOrder {index:8;}">
                 <Coords points="4278,4671 4318,4663 4642,4663 4762,4663 5157,4672 5216,4686 5216,4709 4761,4713 4631,4721 4278,4704"/>
-                <Baseline points="4278,4704 4347,4704 4374,4705 4534,4705 4560,4706 4623,4706 4641,4706 4709,4708 4736,4709 4764,4710 4774,4710 5062,4711 5112,4712 5137,4712 5216,4703"/>
+                <Baseline points="4278,4704 4347,4704 4374,4705 4534,4705 4560,4706 4623,4706 4641,4706 4709,4708 4736,4709 4764,4710 4774,4710 5061,4710 5111,4709 5136,4709 5216,4703"/>
                 <TextEquiv>
                     <Unicode>mit Belegen aus der Zeitgeſchichte. gr. 8 vo.</Unicode>
                 </TextEquiv>
@@ -3849,7 +3849,7 @@ lands finden.“</Unicode>
             </TextLine>
             <TextLine id="r56l7" custom="readingOrder {index:6;}">
                 <Coords points="4338,5406 4431,5406 4972,5409 5205,5411 5235,5416 5235,5448 5166,5459 4972,5462 4714,5462 4502,5453 4338,5444"/>
-                <Baseline points="4338,5444 4378,5444 4414,5444 4470,5445 4502,5445 4542,5446 4577,5446 4624,5446 4657,5447 4972,5453 5004,5454 5237,5442"/>
+                <Baseline points="4338,5444 4378,5444 4414,5444 4470,5445 4502,5445 4542,5446 4577,5446 4624,5446 4657,5447 4972,5453 5004,5454 5235,5442"/>
                 <TextEquiv>
                     <Unicode>in der J. B. Metzler'ſchen Buchhandlun</Unicode>
                 </TextEquiv>
@@ -4220,7 +4220,7 @@ fortwährend Bestellungen an auf dies schöne Werk</Unicode>
             </TextLine>
             <TextLine id="r65l9" custom="readingOrder {index:8;}">
                 <Coords points="5273,1956 5327,1951 5468,1935 5777,1930 5799,1930 5833,1938 5833,1971 5799,1979 5402,1996 5387,1996 5275,1997"/>
-                <Baseline points="5274,1996 5362,1983 5387,1983 5428,1981 5456,1980 5648,1974 5678,1974 5833,1970"/>
+                <Baseline points="5274,1995 5362,1983 5387,1983 5428,1981 5456,1980 5648,1974 5678,1974 5833,1970"/>
                 <TextEquiv>
                     <Unicode>Bande zu verleihen geruht.</Unicode>
                 </TextEquiv>
@@ -4353,7 +4353,7 @@ irche zu Altengottern ernannt worden;</Unicode>
             </TextLine>
             <TextLine id="r68l3" custom="readingOrder {index:2;}">
                 <Coords points="5286,2755 5309,2742 5349,2736 5534,2729 6103,2716 6221,2715 6361,2715 6494,2719 6560,2725 6560,2752 6361,2766 6189,2771 5774,2778 5377,2791 5289,2798"/>
-                <Baseline points="5286,2783 5435,2778 5463,2777 5503,2775 5534,2774 5685,2769 5714,2768 5802,2766 5832,2766 6002,2762 6031,2761 6072,2761 6103,2760 6189,2758 6221,2757 6361,2755 6389,2755 6560,2752"/>
+                <Baseline points="5287,2782 5435,2778 5463,2777 5503,2775 5534,2774 5685,2769 5714,2768 5802,2766 5832,2766 6002,2762 6031,2761 6072,2761 6103,2760 6189,2758 6221,2757 6361,2755 6389,2755 6560,2752"/>
                 <TextEquiv>
                     <Unicode>aſtiani in Sinzig zum Pfarrer in Linz beſtellt worden.</Unicode>
                 </TextEquiv>
@@ -4409,7 +4409,7 @@ aſtiani in Sinzig zum Pfarrer in Linz beſtellt worden.</Unicode>
             </TextLine>
             <TextLine id="r70l5" custom="readingOrder {index:4;}">
                 <Coords points="5267,3107 5323,3105 6620,3077 6686,3086 6686,3122 6620,3135 5305,3165 5268,3165"/>
-                <Baseline points="5259,3141 5451,3141 5484,3141 5549,3141 5569,3141 5677,3140 5695,3139 5777,3137 5798,3137 5955,3132 5976,3132 6015,3131 6036,3130 6228,3128 6258,3128 6558,3124 6580,3124 6686,3122"/>
+                <Baseline points="5267,3140 5451,3141 5484,3141 5549,3141 5569,3141 5677,3140 5695,3139 5777,3137 5798,3137 5955,3132 5976,3132 6015,3131 6036,3130 6228,3128 6258,3128 6558,3124 6580,3124 6686,3122"/>
                 <TextEquiv>
                     <Unicode>Reinigung der Saͤle und Buͤcher in derſelben vorgenommen wird.</Unicode>
                 </TextEquiv>
@@ -4493,7 +4493,7 @@ Reinigung der Saͤle und Buͤcher in derſelben vorgenommen wird.</Unicode>
             </TextLine>
             <TextLine id="r74l5" custom="readingOrder {index:4;}">
                 <Coords points="5275,3793 5313,3791 5530,3786 6439,3768 6460,3768 6580,3769 6674,3771 6696,3777 6696,3808 6580,3816 5770,3836 5711,3837 5530,3837 5275,3836"/>
-                <Baseline points="5277,3838 5329,3834 5354,3834 5422,3832 5449,3832 5488,3831 5517,3830 5711,3825 5753,3824 5842,3822 5883,3821 6009,3818 6047,3817 6182,3815 6228,3814 6299,3813 6338,3812 6396,3811 6439,3810 6594,3808 6636,3807 6696,3808"/>
+                <Baseline points="5277,3836 5329,3834 5354,3834 5422,3832 5449,3832 5488,3831 5517,3830 5711,3825 5753,3824 5842,3822 5883,3821 6009,3818 6047,3817 6182,3815 6228,3814 6299,3813 6338,3812 6396,3811 6439,3810 6594,3808 6636,3807 6696,3808"/>
                 <TextEquiv>
                     <Unicode>und wie es verſichert zum letzten Male, auf die Adreſſe der</Unicode>
                 </TextEquiv>
@@ -4661,7 +4661,7 @@ Reinigung der Saͤle und Buͤcher in derſelben vorgenommen wird.</Unicode>
             </TextLine>
             <TextLine id="r74l29" custom="readingOrder {index:28;}">
                 <Coords points="5289,5054 5353,5058 5569,5038 5821,5038 6519,5039 6715,5040 6715,5088 6688,5090 5821,5110 5569,5110 5320,5098 5293,5097"/>
-                <Baseline points="5292,5096 5414,5100 5446,5100 5499,5099 5539,5098 5718,5093 5743,5093 5965,5089 6001,5088 6147,5084 6183,5083 6259,5083 6295,5082 6444,5081 6483,5080 6563,5080 6599,5079 6715,5078"/>
+                <Baseline points="5292,5095 5414,5100 5446,5100 5499,5099 5539,5098 5718,5093 5743,5093 5965,5089 6001,5088 6147,5084 6183,5083 6259,5083 6295,5082 6444,5081 6483,5080 6563,5080 6599,5079 6715,5078"/>
                 <TextEquiv>
                     <Unicode>ſamkeit im Staats⸗Haushalte gelten; wir machen ihm jedoch</Unicode>
                 </TextEquiv>
@@ -4780,7 +4780,7 @@ Reinigung der Saͤle und Buͤcher in derſelben vorgenommen wird.</Unicode>
             </TextLine>
             <TextLine id="r74l46" custom="readingOrder {index:45;}">
                 <Coords points="5298,6002 5292,5940 5367,5947 6327,5932 6348,5932 6709,5939 6731,5943 6731,5977 6715,5981 6354,5991 6310,5994 5300,6001"/>
-                <Baseline points="5298,6004 5424,5992 5450,5981 5630,5995 5659,5994 5785,5992 5816,5991 5854,5990 5883,5989 6043,5987 6073,5986 6214,5983 6248,5982 6316,5981 6327,5980 6445,5978 6474,5978 6604,5978 6634,5978 6731,5977"/>
+                <Baseline points="5298,6002 5424,5992 5450,5981 5630,5995 5659,5994 5785,5992 5816,5991 5854,5990 5883,5989 6043,5987 6073,5986 6214,5983 6248,5982 6316,5981 6327,5980 6445,5978 6474,5978 6604,5978 6634,5978 6731,5977"/>
                 <TextEquiv>
                     <Unicode>Dieſe Maͤnner bilden in unſeren Augen den tiers-parti, nicht</Unicode>
                 </TextEquiv>
@@ -5014,7 +5014,7 @@ dieſem Beiſpiele gefolgt iſt, und daß unter den Maͤnnern, welche</Unicode>
             </TextLine>
             <TextLine id="r75l9" custom="readingOrder {index:8;}">
                 <Coords points="6735,1719 6819,1712 6905,1708 6933,1708 6933,1732 6899,1750 6772,1751 6735,1751"/>
-                <Baseline points="6735,1751 6924,1749"/>
+                <Baseline points="6735,1751 6918,1739"/>
                 <TextEquiv>
                     <Unicode>werden.“</Unicode>
                 </TextEquiv>
@@ -5697,7 +5697,7 @@ gefuͤhrt.</Unicode>
             </TextLine>
             <TextLine id="r77l41" custom="readingOrder {index:39;}">
                 <Coords points="6813,6467 6886,6464 7810,6450 8084,6447 8253,6447 8280,6457 8280,6496 7903,6502 6955,6516 6936,6516 6858,6514 6813,6507"/>
-                <Baseline points="6806,6502 6999,6500 7030,6499 7278,6495 7305,6495 7462,6493 7498,6493 7620,6491 7661,6491 7704,6490 7732,6490 7773,6489 7803,6489 7917,6487 7955,6487 8018,6486 8047,6486 8273,6482"/>
+                <Baseline points="6813,6502 6999,6500 7030,6499 7278,6495 7305,6495 7462,6493 7498,6493 7620,6491 7661,6491 7704,6490 7732,6490 7773,6489 7803,6489 7917,6487 7955,6487 8018,6486 8047,6486 8273,6482"/>
                 <TextEquiv>
                     <Unicode>3 pCtgen angewendet wurde; jedoch iſt in Folge der Umſtaͤnde,</Unicode>
                 </TextEquiv>
@@ -5732,7 +5732,7 @@ gefuͤhrt.</Unicode>
             </TextLine>
             <TextLine id="r77l46" custom="readingOrder {index:44;}">
                 <Coords points="6809,6731 6928,6722 7032,6717 7916,6702 8210,6701 8280,6701 8280,6754 7726,6764 7296,6768 7050,6770 7032,6770 6809,6764"/>
-                <Baseline points="6818,6772 6910,6770 6937,6770 7007,6770 7041,6769 7188,6767 7218,6767 7458,6764 7487,6764 7735,6758 7763,6758 7895,6757 7925,6757 8144,6754 8173,6753 8289,6753"/>
+                <Baseline points="6818,6764 6910,6766 6937,6767 7007,6769 7041,6769 7188,6767 7218,6767 7458,6764 7487,6764 7735,6758 7763,6758 7895,6757 7925,6757 8144,6754 8173,6753 8280,6753"/>
                 <TextEquiv>
                     <Unicode>man den ſeitdem abſorbirten ausgeſetzten Fonds hinzufuͤgt, durch</Unicode>
                 </TextEquiv>
@@ -5929,7 +5929,7 @@ man den ſeitdem abſorbirten ausgeſetzten Fonds hinzufuͤgt, durch</Unicode>
             </TextLine>
             <TextLine id="r78l21" custom="readingOrder {index:20;}">
                 <Coords points="8282,2326 8519,2321 9228,2310 9608,2305 9655,2305 9750,2307 9750,2345 9655,2356 8378,2372 8283,2374"/>
-                <Baseline points="8282,2367 8362,2366 8402,2365 8459,2364 8493,2364 8656,2361 8694,2360 9026,2356 9055,2355 9507,2349 9543,2348 9655,2346 9692,2346 9750,2345"/>
+                <Baseline points="8282,2366 8362,2366 8402,2365 8459,2364 8493,2364 8656,2361 8694,2360 9026,2356 9055,2355 9507,2349 9543,2348 9655,2346 9692,2346 9750,2345"/>
                 <TextEquiv>
                     <Unicode>hier die wirklich umgewandelten Cortes⸗Obligationen durch die</Unicode>
                 </TextEquiv>
@@ -6588,7 +6588,7 @@ durchſchneiden werden.</Unicode>
             <Coords points="8348,6540 9833,6540 9827,6766 8342,6766"/>
             <TextLine id="r81l1" custom="readingOrder {index:0;}">
                 <Coords points="8439,6571 8588,6566 8679,6561 9111,6553 9199,6552 9297,6551 9490,6550 9541,6550 9762,6553 9808,6563 9808,6591 9762,6598 9147,6611 8999,6611 8588,6606 8438,6609"/>
-                <Baseline points="8437,6606 8561,6601 8588,6599 8785,6599 8800,6599 8889,6598 8912,6598 8966,6595 8999,6594 9147,6593 9199,6592 9271,6591 9297,6593 9406,6591 9432,6591 9541,6591 9573,6592 9705,6592 9741,6591 9808,6591"/>
+                <Baseline points="8438,6606 8561,6601 8588,6599 8785,6599 8800,6599 8889,6598 8912,6598 8966,6595 8999,6594 9147,6593 9199,6592 9271,6591 9297,6593 9406,6591 9432,6591 9541,6591 9573,6592 9705,6592 9741,6591 9808,6591"/>
                 <TextEquiv>
                     <Unicode>— — Amſterdam, 23. Auguſt. Im Laufe dieſer Woche ha⸗</Unicode>
                 </TextEquiv>

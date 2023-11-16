@@ -3,20 +3,20 @@
     <Metadata>
         <Creator>Transkribus</Creator>
         <Created>2021-12-14T12:17:55.716+01:00</Created>
-        <LastChange>2023-07-26T11:32:12.086+02:00</LastChange>
+        <LastChange>2023-11-16T11:22:48.395+01:00</LastChange>
         <Comments>
                 Measurement unit: pixel
                 PrimaryLanguage: 
                 Producer: Transkribus
             </Comments>
-        <TranskribusMetadata docId="1256532" pageId="50892306" pageNr="10" tsid="130933623" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=PXZGPTOCSZBRVSJNJEGXUMHU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BFQOMNPCTYLJYZISJMBKXVCM" imageId="35453671"/>
+        <TranskribusMetadata docId="1256532" pageId="50892306" pageNr="10" tsid="139882755" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=PXZGPTOCSZBRVSJNJEGXUMHU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NPFVNXGBVTTIWYOZRLFEXVCE" imageId="35453671"/>
     </Metadata>
     <Page imageFilename="1914_180_0471.jpg" imageWidth="9992" imageHeight="7080">
         <PrintSpace>
             <Coords points="5208,220 9689,321 9712,6601 5058,6569"/>
         </PrintSpace>
         <ReadingOrder>
-            <OrderedGroup id="ro_1690386044479" caption="Regions reading order">
+            <OrderedGroup id="ro_1700130968636" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
                 <RegionRefIndexed index="1" regionRef="r2"/>
                 <RegionRefIndexed index="2" regionRef="r3"/>
@@ -33,7 +33,7 @@
             <Coords points="6095,356 8710,386 8710,693 6095,663"/>
             <TextLine id="r1l1" custom="readingOrder {index:0;}">
                 <Coords points="6179,401 8692,401 8692,670 6708,622 6182,616"/>
-                <Baseline points="6179,597 8689,629"/>
+                <Baseline points="6181,596 8689,629"/>
                 <TextEquiv>
                     <Unicode>Deutſcher Reichsanzeiger</Unicode>
                 </TextEquiv>
@@ -46,7 +46,7 @@
             <Coords points="7326,708 7539,704 7535,806 7322,810"/>
             <TextLine id="r2l1" custom="readingOrder {index:0;}">
                 <Coords points="7352,720 7511,717 7508,793 7349,796"/>
-                <Baseline points="7352,787 7510,787"/>
+                <Baseline points="7352,787 7508,786"/>
                 <TextEquiv>
                     <Unicode>und</Unicode>
                 </TextEquiv>
@@ -162,7 +162,7 @@
             </TextLine>
             <TextLine id="r8l6" custom="readingOrder {index:5;}">
                 <Coords points="5528,3542 5598,3542 9598,3558 9594,3672 9529,3672 5528,3620"/>
-                <Baseline points="5528,3605 5622,3606 5668,3606 5908,3609 5959,3610 6056,3611 6103,3612 6261,3612 6313,3613 6426,3615 6473,3615 6732,3619 6775,3619 7067,3623 7150,3624 7241,3625 7292,3625 7452,3627 7500,3628 7604,3629 7652,3630 7785,3631 7836,3631 7941,3633 7987,3634 8078,3635 8125,3636 8282,3638 8336,3638 8482,3639 8532,3640 8694,3641 8743,3641 8805,3642 8855,3642 9213,3647 9266,3647 9420,3649 9469,3649 9598,3651"/>
+                <Baseline points="5528,3605 5622,3606 5668,3606 5908,3609 5959,3610 6056,3611 6103,3612 6261,3612 6313,3613 6426,3615 6473,3615 6732,3619 6775,3619 7067,3623 7150,3624 7241,3625 7292,3625 7452,3627 7500,3628 7604,3629 7652,3630 7785,3631 7836,3631 7941,3633 7987,3634 8078,3635 8125,3636 8282,3638 8336,3638 8482,3639 8532,3640 8694,3641 8743,3641 8805,3642 8855,3642 9213,3647 9266,3647 9420,3649 9469,3649 9594,3650"/>
                 <TextEquiv>
                     <Unicode>Ich vertraue auf Euch, Ihr deutſchen Soldaten! In jedem von Euch lebt der heiße, durch nichts zu bezwingende Wille zum</Unicode>
                 </TextEquiv>
@@ -240,7 +240,7 @@ Berlin, Schloß, den 6. Auguſt 1914.</Unicode>
             </TextLine>
             <TextLine id="r10l2" custom="readingOrder {index:1;}">
                 <Coords points="6380,6492 6404,6490 7144,6490 7587,6493 8245,6503 8334,6505 8346,6532 8345,6546 8333,6547 8157,6551 7922,6551 6623,6538 6380,6531"/>
-                <Baseline points="6380,6531 6491,6529 6516,6529 6573,6529 6595,6530 6866,6530 6889,6530 7144,6531 7169,6531 7240,6532 7267,6532 7587,6535 7612,6536 7744,6537 7769,6537 7871,6539 7897,6539 8176,6543 8200,6543 8262,6543 8287,6543 8346,6539"/>
+                <Baseline points="6380,6531 6491,6529 6516,6529 6573,6529 6595,6530 6866,6530 6889,6530 7144,6531 7169,6531 7240,6532 7267,6532 7587,6535 7612,6536 7744,6537 7769,6537 7871,6539 7897,6539 8176,6543 8200,6543 8262,6543 8287,6543 8345,6538"/>
                 <TextEquiv>
                     <Unicode>Druck der Norddeutſchen Buchdruckerei und Verlags⸗Anſtalt, Berlin SW., Wilhelmſtraße Nr. 32.</Unicode>
                 </TextEquiv>

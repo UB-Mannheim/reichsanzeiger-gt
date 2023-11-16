@@ -1,24 +1,24 @@
-<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
     <Metadata>
         <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=0.7.5:model_id=40804:lm=none:date=29_09_2022_16:12
 prov=READ-COOP:name=PyLaia@Transkribus:version=0.7.5:model_id=40804:date=29_09_2022_16:12
 Transkribus</Creator>
         <Created>2022-07-20T11:23:20.438+02:00</Created>
-        <LastChange>2023-06-13T16:56:13.079+02:00</LastChange>
+        <LastChange>2023-11-15T20:41:35.603+01:00</LastChange>
         <Comments>
                 Measurement unit: pixel
                 PrimaryLanguage: 
                 Producer: Transkribus
             </Comments>
-        <TranskribusMetadata docId="1148633" pageId="47063975" pageNr="9" tsid="126881190" status="GT" userId="109938" imgUrl="https://files.transkribus.eu/Get?id=UEGVWAFQEBPRUBPNOUFMQHKQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CADNYGMLKLGVFIJNKEEATHXX" imageId="38432651"/>
+        <TranskribusMetadata docId="1148633" pageId="47063975" pageNr="9" tsid="139840144" status="GT" userId="48446" imgUrl="https://files.transkribus.eu/Get?id=UEGVWAFQEBPRUBPNOUFMQHKQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MXLUVCHOCGDZDVJNDJORIOTA" imageId="38432651"/>
     </Metadata>
     <Page imageFilename="1939_202_0006.jpg" imageWidth="10760" imageHeight="8016">
         <PrintSpace>
             <Coords points="744,660 10182,660 10182,7165 744,7165"/>
         </PrintSpace>
         <ReadingOrder>
-            <OrderedGroup id="ro_1690359968368" caption="Regions reading order">
+            <OrderedGroup id="ro_1700129711189" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
                 <RegionRefIndexed index="1" regionRef="r2"/>
                 <RegionRefIndexed index="2" regionRef="r3"/>
@@ -331,7 +331,7 @@ an dieſe nicht ausgezahlt.</Unicode>
             </TextLine>
             <TextLine id="r4l11" custom="readingOrder {index:10;}">
                 <Coords points="878,2655 959,2655 2008,2658 2201,2659 2252,2662 2252,2694 2227,2696 1961,2703 1805,2704 1572,2704 948,2698 878,2688"/>
-                <Baseline points="879,2691 984,2690 1019,2690 1290,2693 1323,2694 1394,2694 1431,2694 1495,2696 1516,2696 1860,2695 1893,2695 2028,2694 2061,2694 2139,2694 2175,2695 2252,2694"/>
+                <Baseline points="879,2688 984,2690 1019,2690 1290,2693 1323,2694 1394,2694 1431,2694 1495,2696 1516,2696 1860,2695 1893,2695 2028,2694 2061,2694 2139,2694 2175,2695 2252,2694"/>
                 <TextEquiv>
                     <Unicode>dieſe Unterſchrift des St. L.⸗Einnehmers erhält das Los</Unicode>
                 </TextEquiv>
@@ -694,7 +694,7 @@ nachzubezahlen.</Unicode>
             </TextLine>
             <TextLine id="r6l2" custom="readingOrder {index:1;}">
                 <Coords points="958,4926 979,4926 2216,4937 2234,4947 2234,4973 2033,4980 2012,4980 1856,4979 1363,4975 1020,4971 958,4960"/>
-                <Baseline points="958,4961 996,4961 1020,4962 1133,4963 1154,4963 1345,4965 1363,4965 1516,4967 1535,4967 1600,4968 1618,4968 1789,4970 1809,4971 1868,4971 1884,4971 2092,4973 2112,4973 2160,4973 2178,4973 2234,4973"/>
+                <Baseline points="958,4960 996,4961 1020,4962 1133,4963 1154,4963 1345,4965 1363,4965 1516,4967 1535,4967 1600,4968 1618,4968 1789,4970 1809,4971 1868,4971 1884,4971 2092,4973 2112,4973 2160,4973 2178,4973 2234,4973"/>
                 <TextEquiv>
                     <Unicode>I. Jedes Klaſſenlos gewährt den Anſpruch auf Teilnahme an der</Unicode>
                 </TextEquiv>
@@ -750,7 +750,7 @@ nachzubezahlen.</Unicode>
             </TextLine>
             <TextLine id="r6l10" custom="readingOrder {index:9;}">
                 <Coords points="866,5321 878,5321 1382,5325 1960,5331 2214,5334 2229,5349 2229,5363 2214,5370 2064,5377 2051,5377 1943,5376 1250,5369 866,5365"/>
-                <Baseline points="866,5356 976,5357 996,5357 1054,5358 1077,5358 1219,5360 1239,5360 1325,5361 1347,5361 1443,5362 1464,5362 1495,5363 1517,5363 1655,5364 1676,5364 1712,5365 1731,5365 1795,5366 1815,5366 1984,5368 2004,5368 2064,5369 2084,5369 2149,5369 2170,5369 2230,5370"/>
+                <Baseline points="866,5356 976,5357 996,5357 1054,5358 1077,5358 1219,5360 1239,5360 1325,5361 1347,5361 1443,5362 1464,5362 1495,5363 1517,5363 1655,5364 1676,5364 1712,5365 1731,5365 1795,5366 1815,5366 1984,5368 2004,5368 2064,5369 2084,5369 2149,5369 2170,5369 2227,5363"/>
                 <TextEquiv>
                     <Unicode>ſäumt der Spieler dieſe Friſt, ſo verliert er den Anſpruch auf das Er⸗</Unicode>
                 </TextEquiv>
@@ -764,14 +764,14 @@ nachzubezahlen.</Unicode>
             </TextLine>
             <TextLine id="r6l12" custom="readingOrder {index:11;}">
                 <Coords points="958,5445 978,5445 1803,5451 2185,5454 2227,5458 2227,5503 2188,5503 2131,5500 1120,5491 958,5478"/>
-                <Baseline points="960,5481 1046,5481 1071,5481 1192,5483 1206,5483 1261,5483 1276,5484 1420,5485 1432,5485 1562,5487 1577,5486 1837,5490 1850,5490 1907,5491 1919,5491 2118,5494 2131,5494 2227,5496"/>
+                <Baseline points="960,5478 1046,5481 1071,5481 1192,5483 1206,5483 1261,5483 1276,5484 1420,5485 1432,5485 1562,5487 1577,5486 1837,5490 1850,5490 1907,5491 1919,5491 2118,5494 2131,5494 2227,5496"/>
                 <TextEquiv>
                     <Unicode>III. Erhält ein Spieler infolge Verwechſlung der Nummern durch</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r6l13" custom="readingOrder {index:12;}">
                 <Coords points="864,5490 1092,5490 1725,5498 2145,5504 2228,5515 2228,5540 2203,5541 1558,5541 1411,5540 1056,5536 864,5525"/>
-                <Baseline points="867,5526 929,5526 942,5527 1153,5528 1169,5528 1223,5529 1237,5529 1291,5529 1307,5530 1394,5530 1411,5530 1521,5531 1536,5531 1725,5534 1741,5535 1795,5535 1810,5536 1876,5536 1889,5536 1955,5537 1970,5537 2062,5539 2076,5539 2228,5533"/>
+                <Baseline points="867,5525 929,5526 942,5527 1153,5528 1169,5528 1223,5529 1237,5529 1291,5529 1307,5530 1394,5530 1411,5530 1521,5531 1536,5531 1725,5534 1741,5535 1795,5535 1810,5536 1876,5536 1889,5536 1955,5537 1970,5537 2062,5539 2076,5539 2228,5533"/>
                 <TextEquiv>
                     <Unicode>den Einnehmer für die neue Klaſſe irrtümlich ein Los mit einer anderen</Unicode>
                 </TextEquiv>
@@ -938,14 +938,14 @@ Inhaber dieſes Loſes ein neues Los zum Klaſſenpreis.</Unicode>
             </TextLine>
             <TextLine id="r7l11" custom="readingOrder {index:10;}">
                 <Coords points="850,6517 989,6517 2138,6525 2222,6538 2222,6572 1998,6572 1859,6571 1220,6564 850,6552"/>
-                <Baseline points="854,6553 924,6553 956,6554 1016,6554 1049,6554 1319,6556 1349,6556 1434,6557 1464,6557 1609,6559 1640,6559 1696,6559 1725,6559 1969,6561 1998,6562 2222,6563"/>
+                <Baseline points="854,6552 924,6553 956,6554 1016,6554 1049,6554 1319,6556 1349,6556 1434,6557 1464,6557 1609,6559 1640,6559 1696,6559 1725,6559 1969,6561 1998,6562 2222,6563"/>
                 <TextEquiv>
                     <Unicode>Der St. L.⸗Einnehmer wird dadurch bei planmäßiger Entrichtung</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r7l12" custom="readingOrder {index:11;}">
                 <Coords points="849,6562 1071,6562 2207,6572 2223,6587 2223,6601 2207,6607 2077,6615 1592,6615 987,6607 849,6597"/>
-                <Baseline points="849,6597 909,6598 927,6598 1071,6599 1091,6599 1191,6600 1210,6600 1278,6601 1299,6601 1443,6602 1460,6602 1521,6602 1539,6603 1769,6606 1789,6606 1848,6607 1866,6607 1951,6606 1971,6606 2041,6607 2061,6607 2123,6607 2142,6607 2225,6606"/>
+                <Baseline points="849,6597 909,6598 927,6598 1071,6599 1091,6599 1191,6600 1210,6600 1278,6601 1299,6601 1443,6602 1460,6602 1521,6602 1539,6603 1769,6606 1789,6606 1848,6607 1866,6607 1951,6606 1971,6606 2041,6607 2061,6607 2123,6607 2142,6607 2223,6601"/>
                 <TextEquiv>
                     <Unicode>der Einſätze durch den Spieler zur Erneuerung der Loſe und zur Ein⸗</Unicode>
                 </TextEquiv>
@@ -1068,7 +1068,7 @@ jederzeit die Aushändigung der verwahrten Loſe verlangen.</Unicode>
             </TextLine>
             <TextLine id="r8l6" custom="readingOrder {index:5;}">
                 <Coords points="2329,1164 2347,1155 2553,1155 2928,1156 3372,1158 3659,1161 3706,1172 3706,1197 3659,1204 3583,1204 2649,1201 2347,1198 2329,1189"/>
-                <Baseline points="2329,1190 2478,1191 2522,1191 2667,1192 2689,1192 2747,1192 2771,1193 2825,1193 2842,1193 3110,1194 3132,1195 3214,1193 3239,1194 3372,1194 3397,1194 3502,1195 3516,1195 3535,1195 3557,1196 3706,1190"/>
+                <Baseline points="2329,1189 2478,1191 2522,1191 2667,1192 2689,1192 2747,1192 2771,1193 2825,1193 2842,1193 3110,1194 3132,1195 3214,1193 3239,1194 3372,1194 3397,1194 3502,1195 3516,1195 3535,1195 3557,1196 3706,1190"/>
                 <TextEquiv>
                     <Unicode>erheben. Vermag der St. L.⸗Einnehmer nach Ablauf von 2 Wochen</Unicode>
                 </TextEquiv>
@@ -1089,7 +1089,7 @@ jederzeit die Aushändigung der verwahrten Loſe verlangen.</Unicode>
             </TextLine>
             <TextLine id="r8l9" custom="readingOrder {index:8;}">
                 <Coords points="2327,1290 2428,1290 3172,1293 3682,1297 3703,1308 3703,1333 3682,1340 3555,1340 2376,1334 2364,1333 2327,1324"/>
-                <Baseline points="2327,1327 2428,1326 2449,1326 2515,1326 2540,1326 2579,1327 2602,1327 2792,1328 2813,1328 2877,1328 2902,1328 2980,1329 3006,1329 3216,1329 3242,1329 3336,1329 3362,1331 3416,1331 3451,1332 3517,1332 3539,1332 3703,1326"/>
+                <Baseline points="2327,1324 2428,1326 2449,1326 2515,1326 2540,1326 2579,1327 2602,1327 2792,1328 2813,1328 2877,1328 2902,1328 2980,1329 3006,1329 3216,1329 3242,1329 3336,1329 3362,1331 3416,1331 3451,1332 3517,1332 3539,1332 3703,1326"/>
                 <TextEquiv>
                     <Unicode>laſſen und ſie zuſammen mit dem Gewinnlos ſelbſt an die Deutſche</Unicode>
                 </TextEquiv>
@@ -1187,7 +1187,7 @@ jederzeit die Aushändigung der verwahrten Loſe verlangen.</Unicode>
             </TextLine>
             <TextLine id="r8l23" custom="readingOrder {index:22;}">
                 <Coords points="2412,2026 2429,2026 3315,2029 3560,2031 3667,2033 3693,2041 3693,2066 3315,2073 3063,2074 2939,2074 2621,2072 2412,2060"/>
-                <Baseline points="2413,2062 2485,2061 2509,2062 2579,2062 2606,2062 2910,2065 2939,2065 3063,2066 3090,2065 3155,2066 3183,2065 3315,2065 3342,2065 3423,2066 3461,2066 3492,2066 3520,2066 3693,2066"/>
+                <Baseline points="2413,2060 2485,2061 2509,2062 2579,2062 2606,2062 2910,2065 2939,2065 3063,2066 3090,2065 3155,2066 3183,2065 3315,2065 3342,2065 3423,2066 3461,2066 3492,2066 3520,2066 3693,2066"/>
                 <TextEquiv>
                     <Unicode>IV. Der Gewinnanſpruch erliſcht mit Ablauf von 4 Monaten</Unicode>
                 </TextEquiv>
@@ -1208,7 +1208,7 @@ jederzeit die Aushändigung der verwahrten Loſe verlangen.</Unicode>
             </TextLine>
             <TextLine id="r8l26" custom="readingOrder {index:25;}">
                 <Coords points="2412,2197 2446,2197 3652,2200 3692,2210 3692,2237 3558,2243 3421,2244 3077,2244 2875,2243 2487,2233 2451,2232 2412,2230"/>
-                <Baseline points="2414,2231 2462,2232 2487,2232 2592,2233 2623,2232 2674,2233 2712,2234 2790,2234 2822,2235 3039,2235 3077,2235 3316,2235 3355,2235 3421,2235 3471,2235 3510,2236 3540,2236 3597,2236 3631,2236 3692,2237"/>
+                <Baseline points="2414,2230 2462,2232 2487,2232 2592,2233 2623,2232 2674,2233 2712,2234 2790,2234 2822,2235 3039,2235 3077,2235 3316,2235 3355,2235 3421,2235 3471,2235 3510,2236 3540,2236 3597,2236 3631,2236 3692,2237"/>
                 <TextEquiv>
                     <Unicode>V. Wenn ein Los abhanden gekommen iſt, ſo hat der</Unicode>
                 </TextEquiv>
@@ -1336,7 +1336,7 @@ ausgezahlt werden.</Unicode>
             </TextLine>
             <TextLine id="r9l7" custom="readingOrder {index:6;}">
                 <Coords points="2405,2910 2451,2909 2469,2909 3107,2912 3561,2915 3619,2916 3686,2926 3686,2951 3646,2952 3357,2958 3192,2959 3087,2959 2536,2954 2405,2943"/>
-                <Baseline points="2405,2942 2486,2945 2512,2946 2662,2947 2680,2947 2736,2948 2757,2948 2890,2947 2909,2947 2961,2948 2981,2948 3192,2949 3212,2949 3272,2950 3293,2950 3377,2950 3398,2950 3497,2950 3521,2950 3687,2954"/>
+                <Baseline points="2405,2942 2486,2945 2512,2946 2662,2947 2680,2947 2736,2948 2757,2948 2890,2947 2909,2947 2961,2948 2981,2948 3192,2949 3212,2949 3272,2950 3293,2950 3377,2950 3398,2950 3497,2950 3521,2950 3686,2951"/>
                 <TextEquiv>
                     <Unicode>III. Wünſcht der Spieler die Zuſendung der Loſe und Gewinn⸗</Unicode>
                 </TextEquiv>
@@ -1478,7 +1478,7 @@ v. Dazur.</Unicode>
             </TextLine>
             <TextLine id="r10l6" custom="readingOrder {index:5;}">
                 <Coords points="2313,4047 2478,4044 2579,4044 3541,4047 3674,4048 3674,4086 3540,4098 3478,4099 3427,4099 2420,4098 2313,4087"/>
-                <Baseline points="2313,4087 2375,4086 2420,4086 2578,4086 2621,4085 2678,4087 2722,4087 3077,4086 3125,4086 3218,4086 3268,4086 3327,4087 3365,4087 3540,4087 3572,4086 3675,4085"/>
+                <Baseline points="2313,4087 2375,4086 2420,4086 2578,4086 2621,4085 2678,4087 2722,4087 3077,4086 3125,4086 3218,4086 3268,4086 3327,4087 3365,4087 3540,4087 3572,4086 3674,4085"/>
                 <TextEquiv>
                     <Unicode>der Faſſung der Bekanntmachung vom 18. Auguſt 1939</Unicode>
                 </TextEquiv>
@@ -1604,7 +1604,7 @@ v. Dazur.</Unicode>
             </TextLine>
             <TextLine id="r10l24" custom="readingOrder {index:23;}">
                 <Coords points="2910,5056 2933,5056 2981,5057 2981,5095 2933,5106 2910,5106"/>
-                <Baseline points="2909,5095 2984,5094"/>
+                <Baseline points="2910,5095 2981,5094"/>
                 <TextEquiv>
                     <Unicode>§ 1</Unicode>
                 </TextEquiv>
@@ -1618,7 +1618,7 @@ v. Dazur.</Unicode>
             </TextLine>
             <TextLine id="r10l26" custom="readingOrder {index:25;}">
                 <Coords points="2302,5167 2959,5167 3459,5171 3550,5175 3665,5184 3665,5211 3459,5220 3404,5222 2963,5224 2649,5214 2305,5214"/>
-                <Baseline points="2302,5207 2517,5205 2555,5205 2605,5206 2640,5206 2959,5210 3000,5210 3277,5210 3307,5210 3433,5210 3445,5210 3550,5210 3584,5211 3665,5211"/>
+                <Baseline points="2304,5206 2517,5205 2555,5205 2605,5206 2640,5206 2959,5210 3000,5210 3277,5210 3307,5210 3433,5210 3445,5210 3550,5210 3584,5211 3665,5211"/>
                 <TextEquiv>
                     <Unicode>Unterleder an nichtgewerbliche Verbraucher insgeſamt nur</Unicode>
                 </TextEquiv>
@@ -1716,7 +1716,7 @@ v. Dazur.</Unicode>
             </TextLine>
             <TextLine id="r10l40" custom="readingOrder {index:39;}">
                 <Coords points="2389,5964 2783,5961 2866,5961 3626,5970 3654,5973 3654,6010 3626,6020 2385,6013 2383,5969"/>
-                <Baseline points="2383,6004 2495,6005 2520,6004 2732,6002 2783,6002 2866,6001 2892,6001 2956,6001 2982,6002 3014,6003 3042,6004 3273,6008 3302,6008 3407,6009 3446,6009 3504,6010 3528,6010 3654,6009"/>
+                <Baseline points="2384,6003 2495,6005 2520,6004 2732,6002 2783,6002 2866,6001 2892,6001 2956,6001 2982,6002 3014,6003 3042,6004 3273,6008 3302,6008 3407,6009 3446,6009 3504,6010 3528,6010 3654,6009"/>
                 <TextEquiv>
                     <Unicode>Dieſe Anordnung tritt am 1. September 1939 in Kraft.</Unicode>
                 </TextEquiv>
@@ -1821,7 +1821,7 @@ von der Decken.</Unicode>
             </TextLine>
             <TextLine id="r11l4" custom="readingOrder {index:3;}">
                 <Coords points="2373,6627 2373,6590 2866,6587 3088,6587 3645,6599 3645,6636 3078,6635 2856,6635"/>
-                <Baseline points="2379,6622 3156,6630 3170,6630 3204,6630 3258,6630 3291,6630 3429,6633 3479,6634 3551,6635 3586,6636 3645,6626"/>
+                <Baseline points="2379,6622 3156,6630 3170,6630 3204,6630 3258,6630 3291,6630 3429,6633 3479,6634 3551,6635 3586,6635 3645,6626"/>
                 <TextEquiv>
                     <Unicode>Verordnung über das Sonderſtrafrecht im Kriege und bei</Unicode>
                 </TextEquiv>
@@ -2488,14 +2488,14 @@ Leitung der Geſandtſchaft wieder übernommen.</Unicode>
             </TextLine>
             <TextLine id="r19l9" custom="readingOrder {index:8;}">
                 <Coords points="3729,5408 3873,5402 4229,5402 4311,5401 4884,5406 4900,5407 5112,5405 5112,5456 4884,5449 4847,5452 4094,5445 4055,5448 3868,5444 3729,5435"/>
-                <Baseline points="3728,5435 4179,5440 4210,5441 4347,5441 4374,5441 4488,5441 4515,5441 4568,5442 4598,5442 5107,5446"/>
+                <Baseline points="3729,5435 4179,5440 4210,5441 4347,5441 4374,5441 4488,5441 4515,5441 4568,5442 4598,5442 5107,5446"/>
                 <TextEquiv>
                     <Unicode>munalverbände. RdErl. 21. 8. 39, Kommunalpolit. Schulg.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r19l10" custom="readingOrder {index:9;}">
                 <Coords points="3723,5445 3835,5446 4752,5451 4903,5452 4984,5453 5073,5453 5103,5458 5106,5492 5041,5498 4008,5495 3966,5495 3723,5484"/>
-                <Baseline points="3722,5477 3932,5484 3962,5484 4014,5485 4040,5485 4073,5485 4103,5486 4153,5486 4202,5487 4487,5487 4532,5487 4556,5487 4606,5487 4636,5487 4685,5487 4752,5487 4778,5488 4810,5488 4834,5488 5041,5490 5090,5490 5100,5487"/>
+                <Baseline points="3723,5477 3932,5484 3962,5484 4014,5485 4040,5485 4073,5485 4103,5486 4153,5486 4202,5487 4487,5487 4532,5487 4556,5487 4606,5487 4636,5487 4685,5487 4752,5487 4778,5488 4810,5488 4834,5488 5041,5490 5090,5490 5100,5487"/>
                 <TextEquiv>
                     <Unicode>— RdErl. 22. 8. 39, Steuerfreiheit f. d. mit d. Neuordng. d.</Unicode>
                 </TextEquiv>
@@ -2509,21 +2509,21 @@ Leitung der Geſandtſchaft wieder übernommen.</Unicode>
             </TextLine>
             <TextLine id="r19l12" custom="readingOrder {index:11;}">
                 <Coords points="3725,5546 3751,5532 3783,5532 4907,5542 4979,5544 5024,5545 5104,5549 5100,5581 3800,5582 3768,5582 3726,5579"/>
-                <Baseline points="3725,5573 3848,5574 3877,5574 3923,5574 3951,5575 4087,5576 4114,5576 4164,5577 4193,5577 4225,5577 4252,5577 4306,5577 4334,5577 4652,5578 4673,5578 4782,5579 4810,5579 5099,5579"/>
+                <Baseline points="3725,5572 3848,5574 3877,5574 3923,5574 3951,5575 4087,5576 4114,5576 4164,5577 4193,5577 4225,5577 4252,5577 4306,5577 4334,5577 4652,5578 4673,5578 4782,5579 4810,5579 5099,5579"/>
                 <TextEquiv>
                     <Unicode>gänge. — RdErl. 22. 8. 39, Steuerfordergn. gegen Ausländer. —</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r19l13" custom="readingOrder {index:12;}">
                 <Coords points="3727,5581 3852,5582 4667,5584 4886,5587 4972,5588 5100,5595 5100,5614 5071,5621 4915,5634 4899,5634 4054,5633 3787,5621 3723,5625"/>
-                <Baseline points="3729,5618 3862,5619 3893,5620 3949,5620 3963,5620 3993,5621 4007,5621 4071,5622 4096,5622 4662,5623 4691,5624 4736,5624 4765,5624 5100,5622"/>
+                <Baseline points="3729,5618 3862,5619 3893,5620 3949,5620 3963,5620 3993,5621 4007,5621 4071,5622 4096,5622 4662,5623 4691,5624 4736,5624 4765,5624 5098,5614"/>
                 <TextEquiv>
                     <Unicode>RdErl. 23. 8. 39, Kraftfahrz.⸗Steuerverteilgn. — Polizeiver⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r19l14" custom="readingOrder {index:13;}">
                 <Coords points="3724,5632 3809,5628 3943,5628 5059,5631 5082,5633 5099,5646 5099,5660 5060,5677 4934,5677 3915,5676 3724,5664"/>
-                <Baseline points="3724,5664 3969,5667 3998,5668 4134,5667 4164,5668 4217,5668 4249,5668 4280,5668 4310,5668 4363,5668 4390,5668 4551,5669 4579,5670 4777,5670 4805,5671 4836,5671 4863,5671 4926,5672 4956,5672 5095,5667"/>
+                <Baseline points="3724,5664 3969,5667 3998,5668 4134,5667 4164,5668 4217,5668 4249,5668 4280,5668 4310,5668 4363,5668 4390,5668 4551,5669 4579,5670 4777,5670 4805,5671 4836,5671 4863,5671 4926,5672 4956,5672 5093,5662"/>
                 <TextEquiv>
                     <Unicode>waltung. RdErl. 21. 8. 39, Polizeil. Behandlg. d. auf Reichs⸗</Unicode>
                 </TextEquiv>
@@ -2656,14 +2656,14 @@ Leitung der Geſandtſchaft wieder übernommen.</Unicode>
             </TextLine>
             <TextLine id="r19l33" custom="readingOrder {index:32;}">
                 <Coords points="3712,6492 4191,6490 4212,6490 4706,6492 4928,6493 4996,6498 5060,6505 5089,6509 5089,6524 5060,6531 5004,6531 4528,6537 4494,6538 3712,6536"/>
-                <Baseline points="3714,6531 4028,6528 4068,6527 4221,6527 4263,6527 4295,6527 4335,6526 4386,6528 4424,6529 4552,6530 4588,6528 4637,6528 4675,6528 5091,6532"/>
+                <Baseline points="3714,6531 4028,6528 4068,6527 4221,6527 4263,6527 4295,6527 4335,6526 4386,6528 4424,6529 4552,6530 4588,6528 4637,6528 4675,6528 5089,6524"/>
                 <TextEquiv>
                     <Unicode>— Uebertragb. Krankh. d. 31. Woche. — Veterinärver⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r19l34" custom="readingOrder {index:33;}">
                 <Coords points="3715,6545 3799,6537 4026,6536 4674,6535 4995,6535 5021,6539 5069,6549 5087,6553 5087,6568 5069,6574 4995,6581 4390,6582 4359,6582 3715,6574"/>
-                <Baseline points="3715,6574 3960,6574 4026,6573 4163,6573 4198,6573 4255,6572 4280,6572 4311,6572 4337,6572 4390,6574 4434,6574 4560,6572 4605,6572 4640,6572 4674,6572 5087,6576"/>
+                <Baseline points="3715,6574 3960,6574 4026,6573 4163,6573 4198,6573 4255,6572 4280,6572 4311,6572 4337,6572 4390,6574 4434,6574 4560,6572 4605,6572 4640,6572 4674,6572 5084,6568"/>
                 <TextEquiv>
                     <Unicode>waltung. RdErl. 21. 8. 39, Maul⸗ u. Klauenſeuche⸗Rekon⸗</Unicode>
                 </TextEquiv>
@@ -2691,14 +2691,14 @@ Leitung der Geſandtſchaft wieder übernommen.</Unicode>
             </TextLine>
             <TextLine id="r19l38" custom="readingOrder {index:37;}">
                 <Coords points="3706,6715 3729,6715 5045,6718 5087,6728 5087,6754 4926,6765 3731,6766 3708,6766"/>
-                <Baseline points="3706,6757 3830,6757 3855,6757 3959,6756 3989,6756 4060,6756 4128,6756 4365,6756 4425,6755 4515,6755 4545,6755 4757,6757 4788,6757 4923,6757 4953,6757 5087,6754"/>
+                <Baseline points="3707,6756 3830,6757 3855,6757 3959,6756 3989,6756 4060,6756 4128,6756 4365,6756 4425,6755 4515,6755 4545,6755 4757,6757 4788,6757 4923,6757 4953,6757 5087,6754"/>
                 <TextEquiv>
                     <Unicode>ziehen durch alle Poſtanſtalten. Carl Heymanns Verlag Berlin</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r19l39" custom="readingOrder {index:38;}">
                 <Coords points="3709,6768 3873,6764 4188,6762 4476,6762 5086,6763 5084,6803 4946,6810 4546,6811 3798,6806 3709,6803"/>
-                <Baseline points="3712,6800 3806,6802 3841,6802 4038,6801 4077,6802 4128,6802 4188,6802 4476,6800 4512,6800 4588,6800 4626,6799 4701,6800 4743,6801 4804,6802 4841,6803 5027,6800 5053,6799 5086,6799"/>
+                <Baseline points="3712,6800 3806,6802 3841,6802 4038,6801 4077,6802 4128,6802 4188,6802 4476,6800 4512,6800 4588,6800 4626,6799 4701,6800 4743,6801 4804,6802 4841,6803 5027,6800 5053,6799 5084,6798"/>
                 <TextEquiv>
                     <Unicode>W 8, Mauerſtr. 44. Vierteljährlich 1,85 ℛℳ für Ausgabe A</Unicode>
                 </TextEquiv>
@@ -2840,7 +2840,7 @@ Ernährung.</Unicode>
             </TextLine>
             <TextLine id="r23l5" custom="readingOrder {index:4;}">
                 <Coords points="5814,1666 5867,1658 6237,1649 6353,1654 7143,1652 7168,1658 7178,1674 7177,1686 7160,1688 7112,1689 6941,1699 5978,1699 5814,1692"/>
-                <Baseline points="5814,1692 5886,1692 5913,1692 6058,1690 6089,1690 6167,1690 6197,1690 6342,1689 6372,1689 6477,1690 6524,1690 6567,1690 6599,1690 6971,1688 7003,1687 7178,1679"/>
+                <Baseline points="5814,1692 5886,1692 5913,1692 6058,1690 6089,1690 6167,1690 6197,1690 6342,1689 6372,1689 6477,1690 6524,1690 6567,1690 6599,1690 6971,1688 7003,1687 7177,1678"/>
                 <TextEquiv>
                     <Unicode>und deshalb zum fünften Male zur Erzeugungsſchlacht antreten.</Unicode>
                 </TextEquiv>
@@ -2994,7 +2994,7 @@ Ernährung.</Unicode>
             </TextLine>
             <TextLine id="r23l27" custom="readingOrder {index:26;}">
                 <Coords points="5809,2660 6482,2660 7182,2661 7182,2695 7093,2706 6154,2706 5877,2703 5809,2695"/>
-                <Baseline points="5812,2697 5981,2697 6014,2697 6176,2697 6210,2697 6270,2697 6302,2696 6482,2697 6515,2698 6807,2697 6842,2697 6919,2697 6970,2697 6988,2697 7025,2696 7093,2696 7130,2695 7182,2695"/>
+                <Baseline points="5812,2695 5981,2697 6014,2697 6176,2697 6210,2697 6270,2697 6302,2696 6482,2697 6515,2698 6807,2697 6842,2697 6919,2697 6970,2697 6988,2697 7025,2696 7093,2696 7130,2695 7182,2695"/>
                 <TextEquiv>
                     <Unicode>beachtete Leiſtung der deutſchen Landwirtſchaft dar, ſo daß die</Unicode>
                 </TextEquiv>
@@ -3204,7 +3204,7 @@ Ernährung.</Unicode>
             </TextLine>
             <TextLine id="r23l57" custom="readingOrder {index:56;}">
                 <Coords points="5815,4017 5874,4014 5895,4014 7186,4020 7186,4062 6502,4058 6353,4062 5816,4056"/>
-                <Baseline points="5814,4051 5949,4051 5972,4052 6023,4052 6073,4052 6199,4053 6223,4053 6497,4054 6522,4055 6584,4054 6609,4054 6675,4054 6758,4055 6882,4055 6907,4055 7058,4055 7097,4055 7186,4056"/>
+                <Baseline points="5815,4050 5949,4051 5972,4052 6023,4052 6073,4052 6199,4053 6223,4053 6497,4054 6522,4055 6584,4054 6609,4054 6675,4054 6758,4055 6882,4055 6907,4055 7058,4055 7097,4055 7186,4056"/>
                 <TextEquiv>
                     <Unicode>einheit im gleichen Zeitabſchnitte um 132 % erhöht werden. Auch</Unicode>
                 </TextEquiv>
@@ -3344,7 +3344,7 @@ nachfolgenden Tabelle für die Jahre von 1933 bis 1938 zu er⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -3358,7 +3358,7 @@ nachfolgenden Tabelle für die Jahre von 1933 bis 1938 zu er⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3386,7 +3386,7 @@ nachfolgenden Tabelle für die Jahre von 1933 bis 1938 zu er⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -3394,13 +3394,13 @@ nachfolgenden Tabelle für die Jahre von 1933 bis 1938 zu er⸗
                 <Coords points="7244,1640 7244,1686 7893,1682 7892,1638"/>
                 <TextLine id="line_1664456700969_15" custom="readingOrder {index:0;}">
                     <Coords points="7249,1645 7405,1645 7407,1684 7251,1684"/>
-                    <Baseline points="7251,1679 7407,1679"/>
+                    <Baseline points="7251,1679 7406,1679"/>
                     <TextEquiv>
                         <Unicode>1932/33</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3414,7 +3414,7 @@ nachfolgenden Tabelle für die Jahre von 1933 bis 1938 zu er⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3428,7 +3428,7 @@ nachfolgenden Tabelle für die Jahre von 1933 bis 1938 zu er⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3436,13 +3436,13 @@ nachfolgenden Tabelle für die Jahre von 1933 bis 1938 zu er⸗
                 <Coords points="7244,1686 7244,1733 7894,1730 7893,1682"/>
                 <TextLine id="line_1664456706004_16" custom="readingOrder {index:0;}">
                     <Coords points="7250,1688 7406,1687 7407,1730 7251,1731"/>
-                    <Baseline points="7251,1726 7407,1725"/>
+                    <Baseline points="7251,1726 7406,1725"/>
                     <TextEquiv>
                         <Unicode>1933/34</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3456,7 +3456,7 @@ nachfolgenden Tabelle für die Jahre von 1933 bis 1938 zu er⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3470,7 +3470,7 @@ nachfolgenden Tabelle für die Jahre von 1933 bis 1938 zu er⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3484,7 +3484,7 @@ nachfolgenden Tabelle für die Jahre von 1933 bis 1938 zu er⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3498,7 +3498,7 @@ nachfolgenden Tabelle für die Jahre von 1933 bis 1938 zu er⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3512,7 +3512,7 @@ nachfolgenden Tabelle für die Jahre von 1933 bis 1938 zu er⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3526,7 +3526,7 @@ nachfolgenden Tabelle für die Jahre von 1933 bis 1938 zu er⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3540,7 +3540,7 @@ nachfolgenden Tabelle für die Jahre von 1933 bis 1938 zu er⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3554,7 +3554,7 @@ nachfolgenden Tabelle für die Jahre von 1933 bis 1938 zu er⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3568,7 +3568,7 @@ nachfolgenden Tabelle für die Jahre von 1933 bis 1938 zu er⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3582,7 +3582,7 @@ nachfolgenden Tabelle für die Jahre von 1933 bis 1938 zu er⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3596,7 +3596,7 @@ nachfolgenden Tabelle für die Jahre von 1933 bis 1938 zu er⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3604,13 +3604,13 @@ nachfolgenden Tabelle für die Jahre von 1933 bis 1938 zu er⸗
                 <Coords points="7244,1871 7244,1918 7897,1918 7896,1866"/>
                 <TextLine id="line_1664456714631_18" custom="readingOrder {index:0;}">
                     <Coords points="7251,1872 7419,1873 7421,1912 7253,1911"/>
-                    <Baseline points="7253,1906 7421,1907"/>
+                    <Baseline points="7253,1906 7420,1907"/>
                     <TextEquiv>
                         <Unicode>1937/38</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3624,7 +3624,7 @@ nachfolgenden Tabelle für die Jahre von 1933 bis 1938 zu er⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3638,7 +3638,7 @@ nachfolgenden Tabelle für die Jahre von 1933 bis 1938 zu er⸗
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3766,13 +3766,13 @@ mitteln in v. H.</Unicode>
                 <Coords points="7245,2571 7244,2617 7618,2616 7617,2568"/>
                 <TextLine id="line_1664456860857_33" custom="readingOrder {index:0;}">
                     <Coords points="7356,2573 7512,2575 7513,2611 7357,2609"/>
-                    <Baseline points="7357,2604 7513,2606"/>
+                    <Baseline points="7357,2604 7512,2606"/>
                     <TextEquiv>
                         <Unicode>1924/25</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3786,7 +3786,7 @@ mitteln in v. H.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3800,7 +3800,7 @@ mitteln in v. H.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -3814,7 +3814,7 @@ mitteln in v. H.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3828,7 +3828,7 @@ mitteln in v. H.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3842,7 +3842,7 @@ mitteln in v. H.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3856,7 +3856,7 @@ mitteln in v. H.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -3870,7 +3870,7 @@ mitteln in v. H.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3905,7 +3905,7 @@ mitteln in v. H.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 6 7</CornerPts>
             </TableCell>
@@ -3923,7 +3923,7 @@ mitteln in v. H.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3937,7 +3937,7 @@ mitteln in v. H.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3951,7 +3951,7 @@ mitteln in v. H.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3965,7 +3965,7 @@ mitteln in v. H.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3979,7 +3979,7 @@ mitteln in v. H.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -3993,7 +3993,7 @@ mitteln in v. H.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4007,7 +4007,7 @@ mitteln in v. H.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4015,13 +4015,13 @@ mitteln in v. H.</Unicode>
                 <Coords points="8080,2906 8082,2949 8357,2949 8356,2906"/>
                 <TextLine id="line_1664456877530_34" custom="readingOrder {index:0;}">
                     <Coords points="8170,2908 8270,2907 8272,2945 8172,2946"/>
-                    <Baseline points="8172,2941 8272,2940"/>
+                    <Baseline points="8172,2941 8271,2940"/>
                     <TextEquiv>
                         <Unicode>28,3</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4035,7 +4035,7 @@ mitteln in v. H.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4049,7 +4049,7 @@ mitteln in v. H.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4063,7 +4063,7 @@ mitteln in v. H.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4077,7 +4077,7 @@ mitteln in v. H.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4091,7 +4091,7 @@ mitteln in v. H.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4105,7 +4105,7 @@ mitteln in v. H.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4119,7 +4119,7 @@ mitteln in v. H.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4133,7 +4133,7 @@ mitteln in v. H.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4147,7 +4147,7 @@ mitteln in v. H.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4161,7 +4161,7 @@ mitteln in v. H.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4175,7 +4175,7 @@ mitteln in v. H.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4189,7 +4189,7 @@ mitteln in v. H.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4203,7 +4203,7 @@ mitteln in v. H.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4217,7 +4217,7 @@ mitteln in v. H.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4231,7 +4231,7 @@ mitteln in v. H.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4245,7 +4245,7 @@ mitteln in v. H.</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4327,7 +4327,7 @@ bis 12 v. H. erhöhten Fleiſcherzeugung ausdrückt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 3 4</CornerPts>
             </TableCell>
@@ -4345,7 +4345,7 @@ bis 12 v. H. erhöhten Fleiſcherzeugung ausdrückt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4359,7 +4359,7 @@ bis 12 v. H. erhöhten Fleiſcherzeugung ausdrückt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4373,7 +4373,7 @@ bis 12 v. H. erhöhten Fleiſcherzeugung ausdrückt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4387,7 +4387,7 @@ bis 12 v. H. erhöhten Fleiſcherzeugung ausdrückt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4401,7 +4401,7 @@ bis 12 v. H. erhöhten Fleiſcherzeugung ausdrückt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4409,13 +4409,13 @@ bis 12 v. H. erhöhten Fleiſcherzeugung ausdrückt:</Unicode>
                 <Coords points="7251,3565 7252,3615 7754,3609 7753,3561"/>
                 <TextLine id="line_1664456965867_40" custom="readingOrder {index:0;}">
                     <Coords points="7256,3570 7411,3568 7415,3610 7260,3612"/>
-                    <Baseline points="7260,3607 7415,3605"/>
+                    <Baseline points="7260,3607 7414,3605"/>
                     <TextEquiv>
                         <Unicode>1937/38</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4429,7 +4429,7 @@ bis 12 v. H. erhöhten Fleiſcherzeugung ausdrückt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4443,7 +4443,7 @@ bis 12 v. H. erhöhten Fleiſcherzeugung ausdrückt:</Unicode>
                     </TextEquiv>
                 </TextLine>
                 <TextEquiv>
-                    <Unicode/>
+                    <Unicode></Unicode>
                 </TextEquiv>
                 <CornerPts>0 1 2 3</CornerPts>
             </TableCell>
@@ -4501,7 +4501,7 @@ bis 12 v. H. erhöhten Fleiſcherzeugung ausdrückt:</Unicode>
             </TextLine>
             <TextLine id="r27l8" custom="readingOrder {index:7;}">
                 <Coords points="7257,3968 8456,3959 8586,3959 8633,3970 8633,3994 8570,4003 8044,4009 7664,4012 7645,4012 7281,4003 7257,4002"/>
-                <Baseline points="7258,4003 7334,4003 7369,4003 7874,4001 7906,4001 8044,3999 8078,3999 8166,3998 8195,3998 8328,3998 8360,3997 8426,3996 8456,3996 8633,3994"/>
+                <Baseline points="7258,4002 7334,4003 7369,4003 7874,4001 7906,4001 8044,3999 8078,3999 8166,3998 8195,3998 8328,3998 8360,3997 8426,3996 8456,3996 8633,3994"/>
                 <TextEquiv>
                     <Unicode>dem verantwortungsbewußten Einſatz aller Kräfte des deutſchen</Unicode>
                 </TextEquiv>
@@ -4579,7 +4579,7 @@ kein Deutſcher ſoll hungern.“</Unicode>
             </TextLine>
             <TextLine id="r29l4" custom="readingOrder {index:3;}">
                 <Coords points="8705,1130 8751,1129 9963,1107 9981,1107 10042,1112 10058,1127 10058,1139 10042,1146 9970,1157 9787,1159 8900,1174 8705,1174"/>
-                <Baseline points="8705,1166 8900,1165 8944,1165 9014,1165 9062,1165 9269,1161 9320,1160 9404,1160 9453,1159 9536,1157 9585,1156 9649,1155 9686,1154 9855,1151 9904,1149 10058,1145"/>
+                <Baseline points="8705,1166 8900,1165 8944,1165 9014,1165 9062,1165 9269,1161 9320,1160 9404,1160 9453,1159 9536,1157 9585,1156 9649,1155 9686,1154 9855,1151 9904,1149 10055,1139"/>
                 <TextEquiv>
                     <Unicode>Zuverſicht und Vertrauen ſieht man den weiteren Entwick⸗</Unicode>
                 </TextEquiv>
@@ -4691,7 +4691,7 @@ kein Deutſcher ſoll hungern.“</Unicode>
             </TextLine>
             <TextLine id="r29l20" custom="readingOrder {index:19;}">
                 <Coords points="8704,1854 8704,1848 9902,1835 10013,1835 10050,1838 10066,1850 10066,1863 10050,1869 9993,1881 9858,1886 9827,1886 8796,1886 8696,1891"/>
-                <Baseline points="8702,1884 8796,1885 8844,1884 8932,1884 8968,1883 8996,1883 9314,1880 9344,1880 9467,1879 9495,1879 9737,1875 9760,1875 9780,1874 9803,1874 9889,1872 9902,1872 10066,1872"/>
+                <Baseline points="8702,1884 8796,1885 8844,1884 8932,1884 8968,1883 8996,1883 9314,1880 9344,1880 9467,1879 9495,1879 9737,1875 9760,1875 9780,1874 9803,1874 9889,1872 9902,1872 10063,1864"/>
                 <TextEquiv>
                     <Unicode>je 2 %. Am Kaliaktienmarkt kamen Wintershall 2 und Salzdet⸗</Unicode>
                 </TextEquiv>
@@ -4901,7 +4901,7 @@ kein Deutſcher ſoll hungern.“</Unicode>
             </TextLine>
             <TextLine id="r29l50" custom="readingOrder {index:49;}">
                 <Coords points="8794,3202 9088,3200 9713,3197 10024,3197 10068,3212 10068,3226 10051,3232 9648,3246 9013,3246 8794,3239"/>
-                <Baseline points="8794,3239 8877,3238 8913,3238 8977,3238 9013,3238 9052,3238 9088,3237 9381,3236 9417,3236 9648,3235 9686,3236 9905,3234 9941,3234 10068,3231"/>
+                <Baseline points="8794,3239 8877,3238 8913,3238 8977,3238 9013,3238 9052,3238 9088,3237 9381,3236 9417,3236 9648,3235 9686,3236 9905,3234 9941,3234 10066,3226"/>
                 <TextEquiv>
                     <Unicode>Von den zu Einheitskurſen gehandelten Bankaktien verän⸗</Unicode>
                 </TextEquiv>
@@ -5020,7 +5020,7 @@ kein Deutſcher ſoll hungern.“</Unicode>
             </TextLine>
             <TextLine id="r29l67" custom="readingOrder {index:66;}">
                 <Coords points="8703,3978 9862,3972 9882,3972 10040,3972 10069,3975 10069,4006 10040,4013 9892,4018 9872,4018 8845,4022 8703,4021"/>
-                <Baseline points="8703,4014 9028,4012 9053,4012 9176,4012 9202,4012 9283,4011 9311,4011 9580,4009 9608,4009 9641,4009 9658,4009 9691,4009 9721,4009 9783,4008 9814,4008 9849,4008 9868,4008 9888,4008 9936,4007 10068,4007"/>
+                <Baseline points="8703,4014 9028,4012 9053,4012 9176,4012 9202,4012 9283,4011 9311,4011 9580,4009 9608,4009 9641,4009 9658,4009 9691,4009 9721,4009 9783,4008 9814,4008 9849,4008 9868,4008 9888,4008 9936,4007 10067,4006"/>
                 <TextEquiv>
                     <Unicode>Provinzanleihen waren 26er Brandenburg u. a. um ¼ % erhöht.</Unicode>
                 </TextEquiv>
@@ -5371,7 +5371,7 @@ gung der Abteilung Wirtſchaft des Senats.</Unicode>
             </TextLine>
             <TextLine id="r31l6" custom="readingOrder {index:5;}">
                 <Coords points="7259,4496 7333,4486 7347,4485 7682,4483 8048,4481 8322,4480 8589,4480 8630,4491 8630,4515 8589,4523 8554,4524 8261,4527 7785,4531 7682,4531 7433,4529 7259,4521"/>
-                <Baseline points="7259,4521 7525,4520 7562,4520 7785,4519 7822,4519 7918,4518 7958,4518 8013,4518 8048,4517 8261,4517 8322,4517 8628,4516"/>
+                <Baseline points="7259,4521 7525,4520 7562,4520 7785,4519 7822,4519 7918,4518 7958,4518 8013,4518 8048,4517 8261,4517 8322,4517 8627,4515"/>
                 <TextEquiv>
                     <Unicode>ausländiſchen Produktion durch die Beteiligung fremdländiſcher</Unicode>
                 </TextEquiv>
@@ -5462,7 +5462,7 @@ gung der Abteilung Wirtſchaft des Senats.</Unicode>
             </TextLine>
             <TextLine id="r31l19" custom="readingOrder {index:18;}">
                 <Coords points="7258,5072 7376,5070 8508,5068 8528,5068 8591,5068 8611,5073 8633,5085 8633,5097 8591,5112 8404,5115 7763,5117 7376,5117 7258,5107"/>
-                <Baseline points="7258,5107 7316,5107 7376,5107 7763,5106 7792,5106 7855,5106 7880,5106 7939,5106 7968,5106 8079,5106 8106,5106 8172,5105 8198,5105 8404,5105 8469,5104 8634,5104"/>
+                <Baseline points="7258,5107 7316,5107 7376,5107 7763,5106 7792,5106 7855,5106 7880,5106 7939,5106 7968,5106 8079,5106 8106,5106 8172,5105 8198,5105 8404,5105 8469,5104 8631,5097"/>
                 <TextEquiv>
                     <Unicode>der Erfahrungsaustauſch auf der Meſſe wie überhaupt Verkaufs⸗</Unicode>
                 </TextEquiv>
@@ -5584,7 +5584,7 @@ Niederſchlag in den Aufträgen der nächſten Monate finden dürfte.</Unicode>
             </TextLine>
             <TextLine id="r33l3" custom="readingOrder {index:2;}">
                 <Coords points="5823,5870 6094,5876 6337,5875 7107,5877 7189,5890 7189,5917 6701,5921 6647,5921 5823,5907"/>
-                <Baseline points="5823,5907 5944,5909 5980,5910 6063,5912 6111,5913 6202,5913 6207,5913 6309,5914 6361,5913 6444,5913 6484,5913 6538,5913 6644,5914 6698,5914 6742,5914 6831,5914 6883,5914 6938,5915 6982,5914 7189,5917"/>
+                <Baseline points="5823,5907 5944,5909 5980,5909 6063,5911 6111,5911 6202,5913 6207,5913 6309,5914 6361,5913 6444,5913 6484,5913 6538,5913 6644,5914 6698,5914 6742,5914 6831,5914 6883,5914 6938,5915 6982,5914 7189,5917"/>
                 <TextEquiv>
                     <Unicode>Bank von England vom 30. Auguſt 1939 (in Klammern</Unicode>
                 </TextEquiv>
@@ -5605,7 +5605,7 @@ Niederſchlag in den Aufträgen der nächſten Monate finden dürfte.</Unicode>
             </TextLine>
             <TextLine id="r33l6" custom="readingOrder {index:5;}">
                 <Coords points="5824,6007 5939,6003 6012,6005 6043,6006 7135,6013 7172,6022 7187,6029 7187,6041 7172,6048 7099,6057 7087,6058 6809,6058 5824,6048"/>
-                <Baseline points="5824,6040 6022,6043 6096,6044 6171,6045 6211,6046 6255,6046 6268,6047 6338,6048 6379,6048 6486,6048 6524,6048 6641,6049 6695,6049 6819,6049 6856,6050 7187,6048"/>
+                <Baseline points="5824,6040 6022,6043 6096,6044 6171,6045 6211,6046 6255,6046 6268,6047 6338,6048 6379,6048 6486,6048 6524,6048 6641,6049 6695,6049 6819,6049 6856,6050 7184,6042"/>
                 <TextEquiv>
                     <Unicode>hinterlegte Noten 33 510 (Abn. 4840), andere Regierungsſicher⸗</Unicode>
                 </TextEquiv>
@@ -5675,7 +5675,7 @@ Niederſchlag in den Aufträgen der nächſten Monate finden dürfte.</Unicode>
             </TextLine>
             <TextLine id="r33l16" custom="readingOrder {index:15;}">
                 <Coords points="5812,6454 5894,6456 6387,6458 7191,6467 7191,6501 7145,6509 6964,6510 6878,6510 6678,6509 6027,6503 5898,6499 5814,6500"/>
-                <Baseline points="5824,6494 5932,6493 5962,6493 6052,6495 6113,6495 6317,6495 6367,6496 6425,6497 6463,6497 6633,6501 6678,6501 6720,6501 6764,6501 6828,6501 6878,6501 7045,6501 7092,6502 7192,6500"/>
+                <Baseline points="5824,6494 5932,6493 5962,6493 6052,6495 6113,6495 6317,6495 6367,6496 6425,6497 6463,6497 6633,6501 6678,6501 6720,6501 6764,6501 6828,6501 6878,6501 7045,6501 7092,6502 7191,6500"/>
                 <TextEquiv>
                     <Unicode>(Abn. 110). Verhältnis der Reſerven zu den Paſſiven 21,38</Unicode>
                 </TextEquiv>
@@ -6067,7 +6067,7 @@ auf der nächſten Seite.</Unicode>
             </TextLine>
             <TextLine id="r37l12" custom="readingOrder {index:11;}">
                 <Coords points="8702,5021 8720,5017 9806,5015 10057,5015 10069,5015 10070,5059 10007,5062 9502,5066 8943,5067 8736,5061 8702,5056"/>
-                <Baseline points="8702,5056 8809,5056 9045,5056 9054,5056 9072,5056 9175,5056 9191,5056 9245,5056 9262,5056 9376,5056 9406,5056 9561,5056 9585,5056 9732,5055 9757,5055 9805,5055 9811,5055 9860,5054 9874,5054 9931,5054 9952,5054 10003,5053 10007,5053 10070,5053"/>
+                <Baseline points="8702,5056 8809,5056 9045,5056 9054,5056 9072,5056 9175,5056 9191,5056 9245,5056 9262,5056 9376,5056 9406,5056 9561,5056 9585,5056 9732,5055 9757,5055 9805,5055 9811,5055 9860,5054 9874,5054 9931,5054 9952,5054 10003,5053 10007,5053 10069,5053"/>
                 <TextEquiv>
                     <Unicode>Reis: Rangoon*) 25,50 bis 26,50. Saigon. ungl.*) 29,00 bis 30,00,</Unicode>
                 </TextEquiv>
@@ -6200,7 +6200,7 @@ auf der nächſten Seite.</Unicode>
             </TextLine>
             <TextLine id="r37l31" custom="readingOrder {index:30;}">
                 <Coords points="8704,5899 8785,5893 8815,5897 9333,5896 9607,5894 10069,5896 10069,5937 9333,5938 9325,5938 8786,5939 8705,5933"/>
-                <Baseline points="8704,5931 8834,5931 8859,5931 8916,5931 8952,5931 9062,5931 9146,5931 9192,5932 9239,5933 9356,5933 9397,5933 9526,5933 9554,5933 9612,5933 9641,5933 9781,5932 9829,5932 9907,5932 9949,5932 10069,5930"/>
+                <Baseline points="8704,5930 8834,5931 8859,5931 8916,5931 8952,5931 9062,5931 9146,5931 9192,5932 9239,5933 9356,5933 9397,5933 9526,5933 9554,5933 9612,5933 9641,5933 9781,5932 9829,5932 9907,5932 9949,5932 10069,5930"/>
                 <TextEquiv>
                     <Unicode>130,00 bis —,—, Tee, chineſ. 810,00 bis 900,00, Tee, indiſch</Unicode>
                 </TextEquiv>
@@ -6305,7 +6305,7 @@ auf der nächſten Seite.</Unicode>
             </TextLine>
             <TextLine id="r37l46" custom="readingOrder {index:45;}">
                 <Coords points="8704,6578 8964,6578 9162,6577 10027,6577 10081,6583 10081,6609 10051,6614 9824,6624 9163,6622 9001,6622 8842,6622 8704,6615"/>
-                <Baseline points="8704,6615 8759,6615 8797,6615 8910,6615 8957,6615 9181,6615 9224,6615 9355,6615 9394,6615 9521,6615 9560,6615 9618,6615 9659,6615 9763,6615 9810,6615 9880,6616 9920,6616 10072,6613"/>
+                <Baseline points="8704,6615 8759,6615 8797,6615 8910,6615 8957,6615 9181,6615 9224,6615 9355,6615 9394,6615 9521,6615 9560,6615 9618,6615 9659,6615 9763,6615 9810,6615 9880,6616 9920,6616 10071,6610"/>
                 <TextEquiv>
                     <Unicode>bis —,—, Landbutter, gepackt 260,00 bis —,— (die Butter⸗</Unicode>
                 </TextEquiv>
