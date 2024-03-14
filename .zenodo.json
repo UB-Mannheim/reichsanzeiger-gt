@@ -1,0 +1,44 @@
+{
+    "upload_type": "dataset",
+    "creators": [
+        {
+            "orcid": "0000-0002-0417-7562",
+            "affiliation": "@UB-Mannheim",
+            "name": "Kamlah, Jan"
+        },
+        {
+            "orcid": "0000-0003-3620-3355",
+            "affiliation": "@UB-Mannheim",
+            "name": "Schmidt, Thomas"
+        },
+        {
+            "orcid": "0000-0002-0331-2558",
+            "affiliation": "@UB-Mannheim",
+            "name": "Shigapov, Renat"
+        },
+        {
+            "orcid": "0000-0002-0524-9898",
+            "affiliation": "@UB-Mannheim",
+            "name": "Weil, Stefan"
+        }
+    ],
+
+    "license": "cc-zero",
+
+    "title": "reichsanzeiger-gt",
+
+    "related_identifiers": [
+        {
+            "scheme": "doi",
+            "identifier": "10.1016/j.dib.2024.110274",
+            "relation": "isDocumentedBy",
+            "resource_type": "publication-article"
+        }
+    ],
+    "description": "Ground truth for German newspaper \"Deutscher Reichsanzeiger und Preußischer Staatsanzeiger\" (1819–1945)",
+    "keywords": ["ocr", "newspaper", "ground-truth", "fraktur", "latin-language", "ocr-d-level-2"],
+
+    "communities": [
+        {"identifier": "OCR-D"}
+    ]
+}
